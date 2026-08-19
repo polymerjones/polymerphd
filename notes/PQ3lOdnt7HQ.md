@@ -169,7 +169,7 @@ between a signal and silence" `[00:00]`–`[01:00]`.
 
 ## The protocol
 
-`[23:22]`–`[26:27]`
+`[23:22]`–`[26:26]`
 
 | Element | Specification |
 |---|---|
@@ -187,11 +187,11 @@ between a signal and silence" `[00:00]`–`[01:00]`.
   **four weeks**, increasing the lean to 20–25° raises the body weight percentage. Progression is required because
   "bone that has been loaded for four weeks has a higher baseline density and requires more deformation to reach
   1,000 microstrain."
-- **Why morning and evening** `[26:27]`: bone formation markers peak in the morning, so the morning push aligns
+- **Why morning and evening** `[26:26]`: bone formation markers peak in the morning, so the morning push aligns
   sclerostin suppression with peak osteoblast readiness. Osteoclast resorption peaks **between midnight and 4am**,
   so the evening push extends formation activation into that window.
 - **The confirmation sign:** warmth in the forearms afterward — reactive hyperemia from the compressed vascular
-  bed dilating on release `[26:27]`.
+  bed dilating on release `[26:26]`.
 
 ## Safety framing stated in the source
 

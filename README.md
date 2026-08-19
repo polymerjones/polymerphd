@@ -1,6 +1,6 @@
 # Polymer Ph.D.
 
-A knowledge base built from 190 YouTube transcripts on restorative physiology, the biology of
+A knowledge base built from 193 YouTube transcripts on restorative physiology, the biology of
 ageing, and the mechanisms behind everyday health practices — and three ways to use it.
 
 **Nothing in this repository originates outside the source transcripts.** Every claim traces to
@@ -13,8 +13,8 @@ each delivery path below preserves it.
 
 | Path | What it is |
 |---|---|
-| `source_transcripts/` | The raw and cleaned transcripts, plus `manifest.json` — the authoritative video metadata for all 224 fetched videos |
-| `notes/` | 190 structured notes, one per video. Identical schema throughout: four frontmatter facets and six universal sections |
+| `source_transcripts/` | The raw and cleaned transcripts, plus `manifest.json` — the authoritative video metadata for all 227 fetched videos |
+| `notes/` | 193 structured notes, one per video. Identical schema throughout: four frontmatter facets and six universal sections |
 | `restorative_vitality_knowledge/` | The 20 synthesised knowledge files. This is the Custom GPT upload set |
 | `app/` | The offline reference app — one self-contained HTML file |
 | `ios/` | An Xcode project wrapping that file as a native iOS app |
@@ -26,15 +26,15 @@ each delivery path below preserves it.
 | | |
 |---|---|
 | Videos on the channel | 280 |
-| Health/body videos fetched | 224 |
-| Written up as notes | **190** (34 deferred as physics-framed) |
-| Total words across the notes | 573,666 |
-| `[mm:ss]` source anchors | **16,272**, in all 190 notes |
-| Symptom bullets catalogued | 1,152 |
-| Practice strings | 703, across 179 notes |
+| Health/body videos fetched | 227 |
+| Written up as notes | **193** (34 deferred as physics-framed) |
+| Total words across the notes | 586,296 |
+| `[mm:ss]` source anchors | **16,631**, in all 193 notes |
+| Symptom bullets catalogued | 1,178 |
+| Practice strings | 713, across 182 notes |
 | Body systems (controlled vocabulary) | 10 |
 | Glossary terms | 146 |
-| Source runtime | ~89 hours |
+| Source runtime | ~90 hours |
 
 ## How it was built
 
@@ -43,7 +43,7 @@ Two stages, deliberately separated:
 1. **Extraction.** Each transcript read once and turned into a structured note preserving
    mechanisms, doses, glossary terms, symptoms, the source's own confidence statements, and
    `[mm:ss]` anchors back to the video.
-2. **Synthesis.** The 20 knowledge files written **from the 190 notes, never from raw
+2. **Synthesis.** The 20 knowledge files written **from the 193 notes, never from raw
    transcripts.**
 
 That separation is the anti-fabrication mechanism: if a claim is not in a note, it does not
@@ -93,10 +93,41 @@ a 7-day expiry. See `ios/README.md`.
 
 ---
 
+## Adding a new video
+
+Four stages. Only the second is judgement; the rest is plumbing.
+
+```
+bash scripts/add.sh https://youtu.be/XXXXXXXXXXX     # 1. fetch + normalize, then list what needs a note
+                                                      # 2. write notes/<id>.md by hand
+python3 scripts/check_notes.py <id>                   # 3. validate before building
+bash scripts/publish.sh --push                        # 4. rebuild everything and ship
+```
+
+**Stage 1** is safe to re-run and safe to paste duplicates into — `add_videos.py` sorts every id
+into *already fetched*, *already listed*, *previously excluded* or *new*, so nothing is silently
+dropped or re-downloaded. Captions only; no video or audio.
+
+**Stage 2** is the extraction pass. Read `source_transcripts/clean/<id>.txt` once and write the
+note: four frontmatter facets, the six universal sections, whatever video-specific sections the
+argument calls for in between, and an `[mm:ss]` anchor on every substantive claim. If the video is
+physics-framed rather than body-focused, add the id to `scripts/deferred_videos.txt` instead — a
+deferred id remains a legitimate cross-reference.
+
+**Stage 4** regenerates `09_SOURCE_CATALOG.md` automatically. **The other 19 knowledge files do
+not update themselves** — they were synthesised by hand from the notes, and whether a new video
+changes them is a judgement call each time. Skipping it is not wrong; it means the synthesis lags
+the notes by one video.
+
+---
+
 ## Scripts
 
 | Script | Purpose |
 |---|---|
+| `add.sh` | **Adding a video — one command.** Wraps the three ingestion scripts and reports what still needs a note |
+| `publish.sh` | **Shipping — one command.** Rebuilds catalog, app and Xcode project, then pushes with `--push` |
+| `check_notes.py` | Validates notes against the schema and the provenance rules |
 | `fetch_transcripts.sh`, `add_videos.py`, `normalize.py` | Ingestion |
 | `classify_channel.py`, `check_gaps.py` | Triage and caption-gap detection |
 | `slice_sections.py`, `slice_matching.py` | Read one dimension across all notes (staging for the synthesis pass) |
@@ -108,6 +139,16 @@ a 7-day expiry. See `ios/README.md`.
 the manifest, a universal section is missing, or a timestamp runs past the end of its video.
 Both are deterministic: re-running without changing an input produces byte-identical output.
 
+`check_notes.py` runs the same class of checks earlier, plus the one that matters most here:
+**every `[mm:ss]` anchor must appear verbatim in the transcript it cites.** A timestamp that is
+well-formed, inside the video's runtime, and absent from the transcript is a fabricated citation —
+the one failure this package cannot absorb, and the one the other guards do not catch.
+
+```
+python3 scripts/check_notes.py              # all notes
+python3 scripts/check_notes.py <video_id>   # one
+```
+
 > `slice_sections.py` and `slice_matching.py` read `sys.argv` at module level and cannot be
 > imported. `build_catalog.py` guards its entry point and is safely importable —
 > `build_app_data.py` reuses its `parse_frontmatter()` and `as_list()`.
@@ -117,12 +158,12 @@ Both are deterministic: re-running without changing an input produces byte-ident
 ## Two things the app is deliberately honest about
 
 **Citation density is uneven.** Files `01`–`08` carry **no** video-ID citations. The nine
-`topic_reference` files carry 227 between them. The notes carry all 16,272 timestamps. So the
+`topic_reference` files carry 227 between them. The notes carry all 16,631 timestamps. So the
 app renders live citations on notes and topic references, and never fabricates one on a
 synthesis page. Related sources shown there are labelled *by tag*, not as claim-level citations.
 
 **The practice filters are derived and partial.** Duration, position and equipment are
-pattern-matched out of the source's own wording: of 703 practices, 144 state a readable
+pattern-matched out of the source's own wording: of 713 practices, 144 state a readable
 duration, 19 a seated cue, 6 "no equipment." Misses are listed in
 `app/unclassified_practices.txt` and can be corrected by hand in `app/practice_overrides.json`.
 The raw source string always appears on the card, so a filter can never hide what the material
@@ -139,8 +180,8 @@ cauda equina, first episode of chest pain — are stated without softening. See
 ## Source and attribution
 
 Every transcript, note and synthesised file in this repository derives from
-**[The Feynman Way](https://www.youtube.com/@The_Feynman_Way)** — 224 videos fetched,
-190 written up, ~89 hours of runtime. All rights in the underlying material remain with
+**[The Feynman Way](https://www.youtube.com/@The_Feynman_Way)** — 227 videos fetched,
+193 written up, ~90 hours of runtime. All rights in the underlying material remain with
 that channel.
 
 This is a personal, non-commercial study aid. It is not affiliated with or endorsed by the

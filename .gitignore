@@ -15,3 +15,6 @@ venv/
 ios/build/
 ios/**/xcuserdata/
 *.xcuserstate
+
+# Transient fetch batch, rewritten by add_videos.py on every run.
+scripts/video_ids_added.txt
