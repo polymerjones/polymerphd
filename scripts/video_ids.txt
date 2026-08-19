@@ -1,0 +1,77 @@
+# Restorative Vitality Guide — selected source videos
+# Channel: The Feynman Way — https://www.youtube.com/@The_Feynman_Way
+# yt-dlp batch file. Lines starting with # are ignored.
+
+# --- Nervous system & stress regulation (9) ---
+https://www.youtube.com/watch?v=QSBLYfC95AA
+https://www.youtube.com/watch?v=ulHJ4R7i1Z4
+https://www.youtube.com/watch?v=hCW0TehxqEI
+https://www.youtube.com/watch?v=sr9sFZnBz6c
+https://www.youtube.com/watch?v=4i1dOrfSBJI
+https://www.youtube.com/watch?v=2e_Yp9YJgrQ
+https://www.youtube.com/watch?v=wXM6jLEeQzY
+https://www.youtube.com/watch?v=KyOB22-Byvs
+https://www.youtube.com/watch?v=H1IPL6q95Ec
+
+# --- Sleep & circadian (10) ---
+https://www.youtube.com/watch?v=XmpDZRse3KA
+https://www.youtube.com/watch?v=zEQf8XkI5eU
+https://www.youtube.com/watch?v=MUQSpFXrSnc
+https://www.youtube.com/watch?v=yk3Amg7jkMc
+https://www.youtube.com/watch?v=UDN4JHYlq7o
+https://www.youtube.com/watch?v=5qdc4-rR9uQ
+https://www.youtube.com/watch?v=BG6yth4tJBc
+https://www.youtube.com/watch?v=2gwQ9BVOscI
+https://www.youtube.com/watch?v=nMac0Ull9m4
+https://www.youtube.com/watch?v=WK6ke9ZpcOk
+
+# --- Movement, posture, spine & connective tissue (11) ---
+https://www.youtube.com/watch?v=wJUWg397i00
+https://www.youtube.com/watch?v=6fu-RL-0F9o
+https://www.youtube.com/watch?v=5GShDTK0lrI
+https://www.youtube.com/watch?v=lJNfShSEta8
+https://www.youtube.com/watch?v=bUF1mry7i_k
+https://www.youtube.com/watch?v=nkKfxfLwxCo
+https://www.youtube.com/watch?v=7_URSXBuQUc
+https://www.youtube.com/watch?v=eDFP49iNwaI
+https://www.youtube.com/watch?v=fHKfNsL6wnM
+https://www.youtube.com/watch?v=tx-4Ed23PlM
+https://www.youtube.com/watch?v=5nJH1YIU5LM
+
+# --- Cardiovascular, circulation & lymphatic (6) ---
+https://www.youtube.com/watch?v=tSVNb2Ummfw
+https://www.youtube.com/watch?v=7GSqPgeYk-0
+https://www.youtube.com/watch?v=12kGPUoN0BA
+https://www.youtube.com/watch?v=W00gPRmrtog
+https://www.youtube.com/watch?v=1wjs-atgmMw
+https://www.youtube.com/watch?v=s5k7g6av5gw
+
+# --- Breathing & respiratory (4) ---
+https://www.youtube.com/watch?v=rO6QLZgmIHs
+https://www.youtube.com/watch?v=Wes7ZGxQ8SY
+https://www.youtube.com/watch?v=chsavHoBtJs
+https://www.youtube.com/watch?v=axWLB9fmQic
+
+# --- Digestive & metabolic (6) ---
+https://www.youtube.com/watch?v=iV3tqeWNdeM
+https://www.youtube.com/watch?v=lj_r9NOh6Mc
+https://www.youtube.com/watch?v=4Rl1gvTNaDI
+https://www.youtube.com/watch?v=lx5gTHaPMLk
+https://www.youtube.com/watch?v=aL4S_1VVpBI
+https://www.youtube.com/watch?v=egzhIyTP3vE
+
+# --- Light, environment & outdoors (5) ---
+https://www.youtube.com/watch?v=ui8y9vOm6dw
+https://www.youtube.com/watch?v=n2F24fK1uLY
+https://www.youtube.com/watch?v=17BFodH03VQ
+https://www.youtube.com/watch?v=zCtsCJ9cACY
+https://www.youtube.com/watch?v=Hc79_xF69-s
+
+# --- Aging, endocrine, immune & bone (7) ---
+https://www.youtube.com/watch?v=qQQgl_BGiVg
+https://www.youtube.com/watch?v=1Rlw2NRsKnI
+https://www.youtube.com/watch?v=sF9zE_QXSYA
+https://www.youtube.com/watch?v=GZui4zfvxjA
+https://www.youtube.com/watch?v=IuOaImg5zUc
+https://www.youtube.com/watch?v=1mANxKIPcK8
+https://www.youtube.com/watch?v=PQ3lOdnt7HQ

@@ -1,0 +1,744 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Polymer Ph.D.</title>
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/png;base64,__ICON__">
+<link rel="apple-touch-icon" href="data:image/png;base64,__ICON__">
+<style>
+:root{
+  --paper:#faf8f5; --ink:#1f1d1a; --muted:#6b645c; --rule:#e3ddd3;
+  --accent:#8a4b2a; --accent-soft:#f0e7df; --card:#fffefc; --warn:#8a2a2a;
+  --warn-bg:#f9efec; --shadow:0 1px 2px rgba(31,29,26,.05);
+  --serif:"Iowan Old Style","Charter","Palatino","Palatino Linotype",Georgia,serif;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+  --measure:34rem;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#17150f; --ink:#eae4d9; --muted:#9b9186; --rule:#332e26;
+    --accent:#d99a6c; --accent-soft:#2a2219; --card:#1e1b15; --warn:#e8927f;
+    --warn-bg:#2c1c18; --shadow:none;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#17150f; --ink:#eae4d9; --muted:#9b9186; --rule:#332e26;
+  --accent:#d99a6c; --accent-soft:#2a2219; --card:#1e1b15; --warn:#e8927f;
+  --warn-bg:#2c1c18; --shadow:none;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font-family:var(--serif); font-size:19px; line-height:1.65;
+  padding-bottom:env(safe-area-inset-bottom);
+}
+.sans{font-family:var(--sans)}
+
+/* ---- chrome ---- */
+header{
+  position:sticky; top:0; z-index:20; background:var(--paper);
+  border-bottom:1px solid var(--rule); padding:.6rem 1rem .55rem;
+  padding-top:calc(.6rem + env(safe-area-inset-top));
+}
+.bar{display:flex; align-items:center; gap:.65rem; max-width:52rem; margin:0 auto}
+.mark{width:30px;height:30px;border-radius:7px;flex:none}
+.wordmark{font-weight:600;font-size:1rem;letter-spacing:.01em;white-space:nowrap}
+.wordmark small{display:block;font-family:var(--sans);font-size:.63rem;
+  color:var(--muted);font-weight:400;letter-spacing:.04em;text-transform:uppercase}
+#q{
+  flex:1; min-width:0; font-family:var(--sans); font-size:16px;
+  padding:.5rem .7rem; border:1px solid var(--rule); border-radius:8px;
+  background:var(--card); color:var(--ink); min-height:40px;
+}
+#q:focus{outline:2px solid var(--accent); outline-offset:-1px}
+.themebtn{
+  font-family:var(--sans);font-size:1rem;background:none;border:1px solid var(--rule);
+  border-radius:8px;color:var(--muted);cursor:pointer;min-width:40px;min-height:40px;flex:none;
+}
+
+nav{
+  display:flex; gap:.15rem; max-width:52rem; margin:.5rem auto 0;
+  overflow-x:auto; scrollbar-width:none;
+}
+nav::-webkit-scrollbar{display:none}
+nav a{
+  font-family:var(--sans); font-size:.8rem; text-decoration:none; color:var(--muted);
+  padding:.35rem .6rem; border-radius:7px; white-space:nowrap;
+}
+nav a.on{background:var(--accent-soft); color:var(--accent); font-weight:600}
+
+main{max-width:52rem; margin:0 auto; padding:1.6rem 1.15rem 4rem}
+.prose{max-width:var(--measure)}
+
+/* ---- typography ---- */
+h1{font-size:1.85rem;line-height:1.2;margin:0 0 .5rem;font-weight:600;letter-spacing:-.01em}
+h2{font-size:1.3rem;line-height:1.3;margin:2rem 0 .5rem;font-weight:600}
+h3{font-size:1.08rem;margin:1.5rem 0 .4rem;font-weight:600}
+h4{font-size:1rem;margin:1.2rem 0 .3rem;font-weight:600;color:var(--muted)}
+p,ul,ol,table{margin:0 0 1rem}
+ul,ol{padding-left:1.3rem}
+li{margin:.3rem 0}
+a{color:var(--accent);text-underline-offset:2px}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.85em;
+  background:var(--accent-soft);padding:.1em .35em;border-radius:4px}
+blockquote{margin:1rem 0;padding-left:1rem;border-left:3px solid var(--rule);color:var(--muted)}
+hr{border:none;border-top:1px solid var(--rule);margin:2rem 0}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 0 1rem}
+table{border-collapse:collapse;font-size:.92rem;min-width:100%}
+th,td{border:1px solid var(--rule);padding:.45rem .6rem;text-align:left;vertical-align:top}
+th{background:var(--accent-soft);font-family:var(--sans);font-size:.8rem}
+.lede{color:var(--muted);font-size:1.02rem;margin-bottom:1.5rem}
+.meta{font-family:var(--sans);font-size:.78rem;color:var(--muted)}
+
+/* ---- components ---- */
+.ts{font-family:var(--sans);font-size:.72rem;text-decoration:none;background:var(--accent-soft);
+  color:var(--accent);padding:.08em .4em;border-radius:4px;white-space:nowrap}
+.ts:hover{background:var(--accent);color:var(--paper)}
+.card{background:var(--card);border:1px solid var(--rule);border-radius:10px;
+  padding:.9rem 1rem;margin:0 0 .7rem;box-shadow:var(--shadow)}
+.card h3{margin:0 0 .3rem;font-size:1.02rem;line-height:1.35}
+.tags{display:flex;flex-wrap:wrap;gap:.3rem;margin-top:.5rem}
+.tag{font-family:var(--sans);font-size:.7rem;color:var(--muted);
+  border:1px solid var(--rule);border-radius:20px;padding:.1rem .5rem}
+.tag.k{background:var(--accent-soft);color:var(--accent);border-color:transparent}
+.safety{background:var(--warn-bg);border-left:3px solid var(--warn);
+  padding:.6rem .8rem;margin:.6rem 0 0;border-radius:0 6px 6px 0;font-size:.92rem}
+.safety b{color:var(--warn)}
+.filters{display:flex;flex-wrap:wrap;gap:.35rem;margin:0 0 1.2rem}
+.filters button{font-family:var(--sans);font-size:.78rem;background:var(--card);
+  border:1px solid var(--rule);border-radius:20px;padding:.35rem .75rem;color:var(--muted);
+  cursor:pointer;min-height:34px}
+.filters button.on{background:var(--accent);border-color:var(--accent);color:var(--paper)}
+.note{font-family:var(--sans);font-size:.78rem;color:var(--muted);background:var(--accent-soft);
+  border-radius:8px;padding:.6rem .8rem;margin:0 0 1.2rem;line-height:1.5}
+.list a{display:block;text-decoration:none;color:inherit;padding:.7rem 0;
+  border-bottom:1px solid var(--rule)}
+.list a:hover .t{color:var(--accent)}
+.t{font-weight:600;font-size:1rem;line-height:1.35;display:block}
+mark{background:var(--accent-soft);color:inherit;font-weight:600;padding:0 .1em}
+.empty{color:var(--muted);font-style:italic;padding:2rem 0}
+.back{font-family:var(--sans);font-size:.8rem;display:inline-block;margin-bottom:1rem}
+.count{font-family:var(--sans);font-size:.78rem;color:var(--muted);margin:0 0 1rem}
+#boot{padding:4rem 1.5rem;text-align:center;color:var(--muted);font-family:var(--sans)}
+
+/* ---- about overlay ---- */
+.mark{cursor:pointer;transition:transform .12s ease}
+.mark:hover{transform:scale(1.06)}
+.scrim{position:fixed;inset:0;z-index:50;background:rgba(15,13,10,.62);
+  backdrop-filter:blur(3px);display:flex;align-items:center;justify-content:center;
+  padding:1.25rem;opacity:0;animation:fade .18s ease forwards}
+@keyframes fade{to{opacity:1}}
+@keyframes rise{from{transform:translateY(10px) scale(.985);opacity:0}}
+.about{background:var(--card);border:1px solid var(--rule);border-radius:16px;
+  max-width:23rem;width:100%;max-height:88vh;overflow-y:auto;text-align:center;
+  padding:1.5rem 1.4rem 1.3rem;box-shadow:0 18px 50px rgba(0,0,0,.3);
+  animation:rise .22s cubic-bezier(.2,.8,.3,1) forwards}
+.about img{width:170px;height:170px;border-radius:26px;display:block;margin:0 auto .9rem;
+  box-shadow:0 6px 20px rgba(0,0,0,.22)}
+.about h2{margin:0 0 .1rem;font-size:1.35rem}
+.about .sub{font-family:var(--sans);font-size:.72rem;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--muted);margin:0 0 1rem}
+.about p{font-size:.94rem;line-height:1.55;text-align:left;margin:0 0 .8rem}
+.figs{display:grid;grid-template-columns:1fr 1fr;gap:.5rem;margin:0 0 1rem}
+.fig{background:var(--accent-soft);border-radius:9px;padding:.55rem .3rem}
+.fig b{display:block;font-size:1.1rem;line-height:1.2;color:var(--accent)}
+.fig span{font-family:var(--sans);font-size:.66rem;color:var(--muted);letter-spacing:.02em}
+.about .close{font-family:var(--sans);font-size:.85rem;background:var(--accent);
+  color:var(--paper);border:none;border-radius:9px;padding:.6rem 1.4rem;cursor:pointer;
+  min-height:44px;width:100%;margin-top:.2rem}
+@media (max-width:640px){ .about img{width:140px;height:140px} }
+
+/* ---- mobile ---- */
+@media (max-width:640px){
+  body{font-size:17px}
+  /* Wrapped chips cost ~1000px before the first card on a phone. One
+     non-wrapping scroller per row keeps every filter reachable in ~44px. */
+  .filters{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;
+    margin-bottom:.45rem;padding-bottom:.15rem}
+  .filters::-webkit-scrollbar{display:none}
+  .filters button{flex:none}
+  h1{font-size:1.5rem}
+  main{padding:1.2rem 1rem 5.5rem}
+  .wordmark{display:none}
+  nav{
+    position:fixed;left:0;right:0;bottom:0;z-index:30;margin:0;
+    background:var(--paper);border-top:1px solid var(--rule);
+    padding:.35rem .5rem calc(.35rem + env(safe-area-inset-bottom));
+    justify-content:space-around;overflow:visible;
+  }
+  nav a{flex:1;text-align:center;font-size:.68rem;padding:.5rem .2rem;min-height:44px;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.1rem}
+  nav a .ico{font-size:1.1rem;line-height:1}
+}
+@media (min-width:641px){ nav a .ico{display:none} }
+</style>
+</head>
+<body>
+<div id="boot">Loading the knowledge base…</div>
+<script>
+const RAW = /*__DATA__*/;
+
+/* ------------------------------------------------------------------ boot */
+let D = null, INDEX = null, VID = {}, PRAC = {};
+
+async function inflate(b64){
+  const bytes = Uint8Array.from(atob(b64), c => c.charCodeAt(0));
+  const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream("gzip"));
+  return JSON.parse(await new Response(stream).text());
+}
+
+/* ------------------------------------------------------- small utilities */
+const $ = s => document.querySelector(s);
+const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const uniq = a => [...new Set(a)];
+
+/* [mm:ss] and [h:mm:ss] anchors become links into the video at that second.
+   16,272 of these exist; they are the only claim-level provenance in the set. */
+const TS = /\[(\d{1,2}):(\d{2})(?::(\d{2}))?\]/g;
+function linkTimestamps(html, videoId){
+  if(!videoId) return html.replace(TS, "");
+  return html.replace(TS, (m, a, b, c) => {
+    const secs = c ? (+a*3600 + +b*60 + +c) : (+a*60 + +b);
+    const label = c ? `${a}:${b}:${c}` : `${a}:${b}`;
+    return ` <a class="ts" target="_blank" rel="noopener"
+      href="https://www.youtube.com/watch?v=${videoId}&t=${secs}s">${label}</a>`;
+  });
+}
+function stripTS(s){ return (s||"").replace(TS, "").replace(/\s{2,}/g," ").trim().replace(/[ ,;.]+$/,""); }
+
+/* ------------------------------------------------- markdown subset render
+   Enough for this corpus: headings, tables, lists, blockquotes, rules,
+   bold/italic/code/links. Tables scroll inside their own box so the page
+   never scrolls sideways on a phone. */
+function inline(s){
+  return esc(s)
+    .replace(/`([^`]+)`/g, "<code>$1</code>")
+    .replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>")
+    .replace(/(^|[\s(])\*([^*\n]+)\*/g, "$1<i>$2</i>")
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g,
+             '<a href="$2" target="_blank" rel="noopener">$1</a>');
+}
+function md(src, videoId){
+  const lines = (src||"").split("\n");
+  const out = []; let i = 0;
+  const flushPara = buf => { if(buf.length) out.push("<p>"+inline(buf.join(" "))+"</p>"); };
+
+  while(i < lines.length){
+    const line = lines[i];
+
+    if(!line.trim()){ i++; continue; }
+
+    if(/^#{1,6}\s/.test(line)){
+      const level = line.match(/^#+/)[0].length;
+      out.push(`<h${Math.min(level+1,6)}>${inline(line.replace(/^#+\s*/,""))}</h${Math.min(level+1,6)}>`);
+      i++; continue;
+    }
+    if(/^(-{3,}|\*{3,})$/.test(line.trim())){ out.push("<hr>"); i++; continue; }
+
+    if(line.trim().startsWith("|")){
+      const rows = [];
+      while(i < lines.length && lines[i].trim().startsWith("|")) rows.push(lines[i++]);
+      const cells = r => r.trim().replace(/^\||\|$/g,"").split("|").map(c=>c.trim());
+      const body = rows.filter(r => !/^\s*\|[\s:|-]+\|\s*$/.test(r));
+      const head = cells(body[0]);
+      out.push('<div class="scroll"><table><thead><tr>' +
+        head.map(c=>`<th>${inline(c)}</th>`).join("") + "</tr></thead><tbody>" +
+        body.slice(1).map(r=>"<tr>"+cells(r).map(c=>`<td>${inline(c)}</td>`).join("")+"</tr>").join("") +
+        "</tbody></table></div>");
+      continue;
+    }
+
+    if(/^\s*>/.test(line)){
+      const buf = [];
+      while(i < lines.length && /^\s*>/.test(lines[i])) buf.push(lines[i++].replace(/^\s*>\s?/,""));
+      out.push("<blockquote>"+md(buf.join("\n"), videoId)+"</blockquote>");
+      continue;
+    }
+
+    if(/^\s*([-*]|\d+\.)\s/.test(line)){
+      const ordered = /^\s*\d+\./.test(line);
+      const items = [];
+      while(i < lines.length && /^\s*([-*]|\d+\.)\s/.test(lines[i])){
+        let text = lines[i++].replace(/^\s*([-*]|\d+\.)\s+/, "");
+        // fold wrapped continuation lines into the bullet they belong to
+        while(i < lines.length && lines[i].trim() && !/^\s*([-*]|\d+\.)\s/.test(lines[i])
+              && /^\s{2,}/.test(lines[i]) && !lines[i].trim().startsWith("|")){
+          text += " " + lines[i++].trim();
+        }
+        items.push("<li>"+inline(text)+"</li>");
+      }
+      out.push(`<${ordered?"ol":"ul"}>${items.join("")}</${ordered?"ol":"ul"}>`);
+      continue;
+    }
+
+    const buf = [];
+    while(i < lines.length && lines[i].trim() && !/^\s*([-*>|]|\d+\.|#)/.test(lines[i])) buf.push(lines[i++]);
+    if(buf.length) flushPara(buf); else i++;
+  }
+  return linkTimestamps(out.join("\n"), videoId);
+}
+
+/* ------------------------------------------------------------ search index
+   Hand-rolled inverted index, built at load. 190 notes plus 20 knowledge
+   files index in well under a second, and it avoids shipping a second copy
+   of the text as a prebuilt index. */
+const STOP = new Set("the a an and or of to in on at for with that this it its is are was were be been from by as no not than then more most".split(" "));
+const tok = s => (s.toLowerCase().match(/[a-z0-9]+/g)||[])
+  .filter(w => w.length>2 && !STOP.has(w))
+  .map(w => w.length>4 ? w.replace(/(ing|ies|es|s)$/,"") : w);
+
+function buildIndex(){
+  const docs = [], map = new Map();
+  const add = doc => {
+    const id = docs.push(doc)-1;
+    const counts = new Map();
+    for(const w of tok(doc.title+" "+doc.text)) counts.set(w,(counts.get(w)||0)+1);
+    for(const [w,n] of counts){
+      if(!map.has(w)) map.set(w, []);
+      map.get(w).push([id, n]);
+    }
+  };
+  for(const v of D.videos)
+    add({kind:"note", title:v.title, id:v.id,
+         text:v.sections.map(s=>s.heading+" "+stripTS(s.body)).join(" ")});
+  // 09 is a 279 KB metadata listing of every video: it contains nearly every
+  // keyword in the corpus and would top every query. The Sources surface covers
+  // it properly, so it stays browsable but out of the index.
+  for(const f of D.library.filter(f => f.slug !== "09_SOURCE_CATALOG"))
+    for(const s of f.sections)
+      add({kind:"library", title:f.title, sub:s.heading, id:f.slug,
+           text:s.intro+" "+s.subsections.map(x=>x.heading+" "+x.body).join(" ")});
+  return {docs, map};
+}
+
+function search(q){
+  const terms = tok(q);
+  if(!terms.length) return [];
+  const scores = new Map();
+  for(const t of terms){
+    // prefix match so "vagus" also finds "vagal"
+    for(const [w, postings] of INDEX.map){
+      if(w !== t && !w.startsWith(t)) continue;
+      const weight = w === t ? 1 : 0.6;
+      const idf = Math.log(1 + INDEX.docs.length / postings.length);
+      for(const [id,n] of postings)
+        scores.set(id, (scores.get(id)||0) + weight * idf * (1 + Math.log(n)));
+    }
+  }
+  return [...scores.entries()].sort((a,b)=>b[1]-a[1]).slice(0,60)
+    .map(([id,score]) => ({...INDEX.docs[id], score}));
+}
+
+function snippet(text, q){
+  const terms = tok(q);
+  const lower = text.toLowerCase();
+  let at = -1;
+  for(const t of terms){ const p = lower.indexOf(t); if(p>-1 && (at<0||p<at)) at = p; }
+  if(at < 0) at = 0;
+  const start = Math.max(0, at-90);
+  let s = text.slice(start, start+260).trim();
+  if(start > 0) s = "…"+s;
+  if(start+260 < text.length) s += "…";
+  let html = esc(s);
+  for(const t of uniq(terms))
+    html = html.replace(new RegExp("("+t.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"\\w*)","gi"), "<mark>$1</mark>");
+  return html;
+}
+
+/* --------------------------------------------------------------- helpers */
+const SAFETY_HEADINGS = ["Safety framing stated in the source",
+  "Safety — stated by the video", "Medical framing stated in the source"];
+const PRACTICE_HEADINGS = ["Practices","The practice","The protocol","Practices summary"];
+const pick = (v, headings) => v.sections.filter(s => headings.includes(s.heading));
+
+const DURATIONS = [["under-1-min","Under a minute"],["under-5-min","5 minutes or less"],
+  ["under-15-min","15 minutes or less"],["over-15-min","Longer"]];
+const POSITIONS = [["seated","Seated"],["lying","Lying down"],
+  ["supported","Wall or rail"],["standing","Standing"]];
+
+let filters = {system:null, duration:null, position:null, equipment:null};
+
+function chips(defs, active, onPick){
+  return defs.map(([v,label]) =>
+    `<button data-v="${esc(v)}" class="${active===v?"on":""}">${esc(label)}</button>`).join("");
+}
+function wire(scope, key, rerender){
+  scope.querySelectorAll("button[data-v]").forEach(b => b.onclick = () => {
+    filters[key] = filters[key] === b.dataset.v ? null : b.dataset.v;
+    rerender();
+  });
+}
+function videoLine(v){
+  return `<a href="#/video/${v.id}"><span class="t">${esc(v.title)}</span>
+    <span class="meta">${v.duration} · ${v.upload_date} · ${v.anchors} timestamps</span></a>`;
+}
+
+/* ----------------------------------------------------------------- views */
+function viewSearch(q){
+  if(!q) {
+    const s = D.stats;
+    return `<div class="prose">
+      <h1>Polymer Ph.D.</h1>
+      <p class="lede">A reference to ${s.videos} sources on restorative physiology.
+      Everything here is drawn from the knowledge package — nothing is generated.</p>
+      <p>Search above, or start with a surface:</p>
+      <ul>
+        <li><a href="#/practices">Practices</a> — ${s.practices} of them, with dose and timing.</li>
+        <li><a href="#/symptoms">Symptoms</a> — ${s.symptoms.toLocaleString()} body signals, each traced to a source.</li>
+        <li><a href="#/sources">Sources</a> — all ${s.videos} videos, ${s.anchors.toLocaleString()} timestamps.</li>
+        <li><a href="#/reference">Reference</a> — ${s.library_files} knowledge files and ${s.glossary_terms} glossary terms.</li>
+      </ul>
+      <div class="note">Works entirely offline. No account, no network, no model —
+      every word was written during the synthesis pass and is only being looked up here.</div>
+    </div>`;
+  }
+  const hits = search(q);
+  if(!hits.length) return `<p class="empty">Nothing matches “${esc(q)}”.</p>`;
+  const notes = hits.filter(h=>h.kind==="note"), lib = hits.filter(h=>h.kind==="library");
+  const block = (title, rows, sub) => !rows.length ? "" :
+    `<h2>${title}</h2><p class="count">${rows.length} result${rows.length>1?"s":""}${sub||""}</p>
+     <div class="list">${rows.map(r => `
+       <a href="${r.kind==="note"?`#/video/${r.id}`:`#/file/${r.id}`}">
+         <span class="t">${esc(r.title)}${r.sub?` — ${esc(r.sub)}`:""}</span>
+         <span class="meta">${snippet(r.text, q)}</span>
+       </a>`).join("")}</div>`;
+  return `<div class="prose"><h1>“${esc(q)}”</h1>
+    ${block("Sources", notes, " · claim-level timestamps")}
+    ${block("Knowledge files", lib)}</div>`;
+}
+
+function viewPractices(){
+  const wrap = document.createElement("div");
+  const render = () => {
+    let rows = D.practices;
+    if(filters.system)   rows = rows.filter(p => VID[p.video_id].systems.includes(filters.system));
+    if(filters.duration) rows = rows.filter(p => p.duration_bucket === filters.duration);
+    if(filters.position) rows = rows.filter(p => p.position.includes(filters.position));
+    if(filters.equipment)rows = rows.filter(p => p.equipment === filters.equipment);
+    const term = (wrap.querySelector("#pf")?.value||"").toLowerCase();
+    if(term) rows = rows.filter(p => p.text.toLowerCase().includes(term));
+
+    wrap.innerHTML = `<div class="prose"><h1>Practices</h1>
+      <p class="lede">${D.practices.length} practices drawn from ${uniq(D.practices.map(p=>p.video_id)).length} sources,
+      with the dose and timing exactly as the material gives them.</p></div>
+      <input id="pf" class="sans" placeholder="Filter practices…" value="${esc(term)}"
+        style="width:100%;max-width:var(--measure);padding:.5rem .7rem;font-size:16px;
+        border:1px solid var(--rule);border-radius:8px;
+        background:var(--card);color:var(--ink);margin-bottom:.9rem">
+      <div class="filters" id="fd">${chips(DURATIONS, filters.duration)}</div>
+      <div class="filters" id="fp">${chips(POSITIONS, filters.position)}</div>
+      <div class="filters" id="fe">${chips([["none","No equipment"],["required","Needs equipment"]], filters.equipment)}</div>
+      <div class="filters" id="fs">${chips(Object.keys(D.vocab.systems).map(s=>[s,s]), filters.system)}</div>
+      <div class="note"><b>These filters are derived, and partial.</b> Duration, position and
+      equipment are pattern-matched out of the source's own wording — about a third of practices
+      state one plainly. Unmatched practices are not hidden by accident: they simply carry no
+      such claim. The source text is always shown in full on the card.</div>
+      <p class="count">${rows.length} practice${rows.length===1?"":"s"}</p>
+      ${rows.length ? rows.map(p => {
+        const v = VID[p.video_id];
+        const safety = pick(v, SAFETY_HEADINGS);
+        return `<div class="card">
+          <h3>${esc(p.text)}</h3>
+          <span class="meta"><a href="#/video/${v.id}">${esc(v.title)}</a></span>
+          <div class="tags">
+            ${p.duration_seconds ? `<span class="tag k">${p.duration_seconds<60
+              ? p.duration_seconds+"s" : Math.round(p.duration_seconds/60)+" min"}</span>`:""}
+            ${p.position.map(x=>`<span class="tag">${esc(x)}</span>`).join("")}
+            ${p.equipment==="none"?'<span class="tag">no equipment</span>':""}
+            ${p.equipment==="required"?'<span class="tag">equipment</span>':""}
+            ${v.systems.map(s=>`<span class="tag">${esc(s)}</span>`).join("")}
+          </div>
+          ${safety.length ? `<div class="safety"><b>Stated limits</b>
+            ${md(safety.map(s=>s.body).join("\n\n"), v.id)}</div>` : ""}
+        </div>`;
+      }).join("") : `<p class="empty">No practice matches those filters.</p>`}`;
+
+    wire(wrap.querySelector("#fd"), "duration", render);
+    wire(wrap.querySelector("#fp"), "position", render);
+    wire(wrap.querySelector("#fe"), "equipment", render);
+    wire(wrap.querySelector("#fs"), "system", render);
+    const inp = wrap.querySelector("#pf");
+    inp.oninput = () => { const p = inp.selectionStart; render();
+      const n = wrap.querySelector("#pf"); n.focus(); n.setSelectionRange(p,p); };
+  };
+  render();
+  return wrap;
+}
+
+function viewSymptoms(){
+  const wrap = document.createElement("div");
+  const render = () => {
+    const term = (wrap.querySelector("#sf")?.value||"").toLowerCase();
+    let rows = D.symptoms;
+    if(filters.system) rows = rows.filter(s => VID[s.video_id].systems.includes(filters.system));
+    if(term) rows = rows.filter(s => s.raw.toLowerCase().includes(term));
+
+    // group by the curated 05 entry where one was matched, so the mechanism
+    // panel sits above the signals it explains
+    const groups = new Map();
+    for(const s of rows){
+      const key = s.curated === null ? "__none__" : s.curated;
+      if(!groups.has(key)) groups.set(key, []);
+      groups.get(key).push(s);
+    }
+    const ordered = [...groups.entries()]
+      .sort((a,b) => (a[0]==="__none__") - (b[0]==="__none__") || b[1].length - a[1].length);
+
+    const entry = s => {
+      const v = VID[s.video_id];
+      const link = s.seconds.length
+        ? `<a class="ts" target="_blank" rel="noopener"
+             href="https://www.youtube.com/watch?v=${v.id}&t=${s.seconds[0]}s">watch</a>` : "";
+      return `<a href="#/video/${v.id}"><span class="t">${inline(stripTS(s.raw))}</span>
+        <span class="meta">${esc(v.title)} ${link}</span></a>`;
+    };
+
+    wrap.innerHTML = `<div class="prose"><h1>Symptoms and body signals</h1>
+      <p class="lede">${D.symptoms.length.toLocaleString()} signals catalogued across the sources.
+      This looks things up — it does not diagnose. The material maps a signal to a mechanism as
+      explanation, not identification.</p></div>
+      <input id="sf" class="sans" placeholder="Filter signals…" value="${esc(term)}"
+        style="width:100%;max-width:var(--measure);padding:.5rem .7rem;font-size:16px;
+        border:1px solid var(--rule);border-radius:8px;background:var(--card);
+        color:var(--ink);margin-bottom:.9rem">
+      <div class="filters" id="fs">${chips(Object.keys(D.vocab.systems).map(s=>[s,s]), filters.system)}</div>
+      <p class="count">${rows.length.toLocaleString()} signal${rows.length===1?"":"s"}</p>
+      ${ordered.map(([key, items]) => {
+        if(key === "__none__")
+          return `<h2>Other catalogued signals</h2>
+            <p class="count">Not matched to a curated entry — each still links to its source.</p>
+            <div class="list">${items.map(entry).join("")}</div>`;
+        const c = D.curated_symptoms[key];
+        return `<h2>${esc(c.heading)}</h2>
+          <p class="meta">${esc(c.group)}</p>
+          <div class="prose">${md(c.body, null)}</div>
+          <div class="note">The signals below were matched to this entry by wording, not by an
+          explicit link in the source. Each one carries its own citation.</div>
+          <div class="list">${items.map(entry).join("")}</div>`;
+      }).join("")}`;
+
+    wire(wrap.querySelector("#fs"), "system", render);
+    const inp = wrap.querySelector("#sf");
+    inp.oninput = () => { const p = inp.selectionStart; render();
+      const n = wrap.querySelector("#sf"); n.focus(); n.setSelectionRange(p,p); };
+  };
+  render();
+  return wrap;
+}
+
+function viewSources(){
+  const wrap = document.createElement("div");
+  const render = () => {
+    const term = (wrap.querySelector("#vf")?.value||"").toLowerCase();
+    let rows = D.videos;
+    if(filters.system) rows = rows.filter(v => v.systems.includes(filters.system));
+    if(term) rows = rows.filter(v =>
+      (v.title+" "+v.subjects.join(" ")+" "+v.concepts.join(" ")).toLowerCase().includes(term));
+    rows = [...rows].sort((a,b) => a.title.localeCompare(b.title));
+
+    wrap.innerHTML = `<div class="prose"><h1>Sources</h1>
+      <p class="lede">All ${D.videos.length} videos written up, carrying
+      ${D.stats.anchors.toLocaleString()} timestamps between them. Every claim in a note links
+      back to the second the source states it.</p></div>
+      <input id="vf" class="sans" placeholder="Filter by title, subject or concept…" value="${esc(term)}"
+        style="width:100%;max-width:var(--measure);padding:.5rem .7rem;font-size:16px;
+        border:1px solid var(--rule);border-radius:8px;background:var(--card);
+        color:var(--ink);margin-bottom:.9rem">
+      <div class="filters" id="fs">${chips(Object.keys(D.vocab.systems).map(s=>[s,s]), filters.system)}</div>
+      <p class="count">${rows.length} source${rows.length===1?"":"s"}</p>
+      <div class="list">${rows.map(videoLine).join("")}</div>`;
+    wire(wrap.querySelector("#fs"), "system", render);
+    const inp = wrap.querySelector("#vf");
+    inp.oninput = () => { const p = inp.selectionStart; render();
+      const n = wrap.querySelector("#vf"); n.focus(); n.setSelectionRange(p,p); };
+  };
+  render();
+  return wrap;
+}
+
+function viewVideo(id){
+  const v = VID[id];
+  if(!v) return `<p class="empty">No such source.</p>`;
+  const facet = (label, items) => !items.length ? "" :
+    `<h4>${label}</h4><div class="tags">${items.map(x=>`<span class="tag">${esc(x)}</span>`).join("")}</div>`;
+  return `<div class="prose">
+    <a class="back" href="#/sources">← All sources</a>
+    <h1>${esc(v.title)}</h1>
+    <p class="meta">${v.upload_date} · ${v.duration} · ${v.anchors} timestamps ·
+      <a href="${v.url}" target="_blank" rel="noopener">Watch on YouTube</a></p>
+    ${facet("Body systems", v.systems)}
+    ${facet("Practices", v.practices)}
+    ${facet("Subjects", v.subjects)}
+    ${facet("Concepts", v.concepts)}
+    <hr>
+    ${v.sections.map(s => `<h2>${esc(s.heading)}</h2>${md(s.body, v.id)}`).join("")}
+  </div>`;
+}
+
+function viewReference(){
+  const wrap = document.createElement("div");
+  const render = () => {
+    const term = (wrap.querySelector("#gf")?.value||"").toLowerCase();
+    const terms = term ? D.glossary.filter(g =>
+      g.term.toLowerCase().includes(term) || g.definition.toLowerCase().includes(term))
+      : D.glossary;
+    wrap.innerHTML = `<div class="prose"><h1>Reference</h1>
+      <p class="lede">The ${D.library.length} knowledge files, and the
+      ${D.glossary.length}-term glossary.</p>
+      <h2>Knowledge files</h2>
+      <div class="list">${D.library.map(f => `
+        <a href="#/file/${f.slug}"><span class="t">${esc(f.title)}</span>
+        <span class="meta">${f.words.toLocaleString()} words${f.cited_ids.length
+          ? ` · ${f.cited_ids.length} sources cited` : ""}</span></a>`).join("")}</div>
+      <h2>Glossary</h2></div>
+      <input id="gf" class="sans" placeholder="Find a term…" value="${esc(term)}"
+        style="width:100%;max-width:var(--measure);padding:.5rem .7rem;font-size:16px;
+        border:1px solid var(--rule);border-radius:8px;background:var(--card);
+        color:var(--ink);margin-bottom:.9rem">
+      <p class="count">${terms.length} term${terms.length===1?"":"s"}</p>
+      <div class="prose">${terms.map(g =>
+        `<p><b>${esc(g.term)}</b> — ${inline(g.definition)}</p>`).join("")}</div>`;
+    const inp = wrap.querySelector("#gf");
+    inp.oninput = () => { const p = inp.selectionStart; render();
+      const n = wrap.querySelector("#gf"); n.focus(); n.setSelectionRange(p,p); };
+  };
+  render();
+  return wrap;
+}
+
+function viewFile(slug){
+  const f = D.library.find(x => x.slug === slug);
+  if(!f) return `<p class="empty">No such file.</p>`;
+  // 01-08 carry no video ids; the topic_reference files carry 227 between them.
+  // Only render a sources block where the file actually cites.
+  const cited = f.cited_ids.filter(id => VID[id]);
+  return `<div class="prose">
+    <a class="back" href="#/reference">← Reference</a>
+    <h1>${esc(f.title)}</h1>
+    <p class="meta">${f.words.toLocaleString()} words · ${f.slug}</p>
+    ${f.sections.map(s => `
+      ${s.heading ? `<h2>${esc(s.heading)}</h2>` : ""}
+      ${s.intro ? md(s.intro, null) : ""}
+      ${s.subsections.map(x => `<h3>${esc(x.heading)}</h3>${md(x.body, null)}`).join("")}
+    `).join("")}
+    ${cited.length ? `<hr><h2>Sources cited in this file</h2>
+      <div class="list">${cited.map(id => videoLine(VID[id])).join("")}</div>` : ""}
+  </div>`;
+}
+
+/* ------------------------------------------------------------ about panel */
+function showAbout(){
+  const s = D.stats;
+  const fig = (n, label) => `<div class="fig"><b>${n}</b><span>${label}</span></div>`;
+  const scrim = document.createElement("div");
+  scrim.className = "scrim";
+  scrim.innerHTML = `<div class="about" role="dialog" aria-modal="true" aria-label="About">
+    <img alt="Doctor Paul" src="data:image/jpeg;base64,__SPLASH__">
+    <h2>Polymer Ph.D.</h2>
+    <p class="sub">Restorative physiology</p>
+    <div class="figs">
+      ${fig(s.videos, "sources")}
+      ${fig(s.anchors.toLocaleString(), "timestamps")}
+      ${fig(s.practices, "practices")}
+      ${fig(s.symptoms.toLocaleString(), "body signals")}
+    </div>
+    <p>A reference built from ${s.videos} videos on human physiology, restorative practice and
+    the biology of ageing — synthesised into ${s.library_files} knowledge files and
+    ${s.glossary_terms} glossary terms.</p>
+    <p>Every claim traces to a source at a specific second. Nothing here is generated: there is
+    no model in this app, and it makes no network requests. It works offline, permanently.</p>
+    <button class="close">Close</button>
+  </div>`;
+  const close = () => { scrim.remove(); document.removeEventListener("keydown", onKey); };
+  const onKey = e => { if(e.key === "Escape") close(); };
+  scrim.onclick = e => { if(e.target === scrim) close(); };
+  scrim.querySelector(".close").onclick = close;
+  document.addEventListener("keydown", onKey);
+  document.body.appendChild(scrim);
+}
+
+/* ---------------------------------------------------------------- router */
+const TABS = [
+  ["#/",          "Search",    "🔍"],
+  ["#/practices", "Practices", "🏃"],
+  ["#/symptoms",  "Symptoms",  "🩺"],
+  ["#/sources",   "Sources",   "🎬"],
+  ["#/reference", "Reference", "📖"],
+];
+
+function route(){
+  const hash = location.hash || "#/";
+  const main = $("main");
+  const q = $("#q").value.trim();
+  let node, active = hash;
+
+  if(hash.startsWith("#/video/"))        { node = viewVideo(decodeURIComponent(hash.slice(8))); active = "#/sources"; }
+  else if(hash.startsWith("#/file/"))    { node = viewFile(decodeURIComponent(hash.slice(7)));  active = "#/reference"; }
+  else if(hash === "#/practices")        node = viewPractices();
+  else if(hash === "#/symptoms")         node = viewSymptoms();
+  else if(hash === "#/sources")          node = viewSources();
+  else if(hash === "#/reference")        node = viewReference();
+  else                                   node = viewSearch(q);
+
+  main.innerHTML = "";
+  if(typeof node === "string") main.innerHTML = node; else main.appendChild(node);
+  document.querySelectorAll("nav a").forEach(a =>
+    a.classList.toggle("on", a.getAttribute("href") === active));
+  window.scrollTo(0,0);
+}
+
+/* ------------------------------------------------------------------ init */
+(async function init(){
+  try{
+    D = await inflate(RAW);
+  }catch(e){
+    $("#boot").textContent = "Could not load the knowledge base: " + e.message;
+    return;
+  }
+  for(const v of D.videos) VID[v.id] = v;
+  INDEX = buildIndex();
+
+  document.body.innerHTML = `
+    <header>
+      <div class="bar">
+        <img class="mark" id="mark" alt="About Polymer Ph.D." title="About"
+             src="data:image/png;base64,__ICON__">
+        <div class="wordmark">Polymer Ph.D.<small>Restorative physiology</small></div>
+        <input id="q" type="search" placeholder="Search ${D.stats.videos} sources…"
+               autocomplete="off" autocapitalize="off" spellcheck="false">
+        <button class="themebtn" id="theme" title="Switch theme">◐</button>
+      </div>
+      <nav>${TABS.map(([href,label,ico]) =>
+        `<a href="${href}"><span class="ico">${ico}</span>${label}</a>`).join("")}</nav>
+    </header>
+    <main></main>`;
+
+  const q = $("#q");
+  let timer;
+  q.oninput = () => {
+    clearTimeout(timer);
+    timer = setTimeout(() => {
+      if(location.hash !== "#/") location.hash = "#/"; else route();
+    }, 160);
+  };
+  q.onkeydown = e => { if(e.key === "Enter"){ e.preventDefault(); q.blur();
+    if(location.hash !== "#/") location.hash = "#/"; else route(); } };
+
+  $("#mark").onclick = showAbout;
+
+  $("#theme").onclick = () => {
+    const cur = document.documentElement.getAttribute("data-theme");
+    const next = cur === "dark" ? "light" : cur === "light" ? "" : "dark";
+    if(next) document.documentElement.setAttribute("data-theme", next);
+    else document.documentElement.removeAttribute("data-theme");
+  };
+
+  addEventListener("hashchange", route);
+  route();
+})();
+</script>
+</body>
+</html>

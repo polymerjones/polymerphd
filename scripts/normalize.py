@@ -1,0 +1,201 @@
+#!/usr/bin/env python3
+"""
+Normalize yt-dlp json3 auto-captions into readable transcripts.
+
+Reads  source_transcripts/raw/<id>.en-orig.json3  (falls back to .en.json3)
+       source_transcripts/raw/<id>.info.json
+Writes source_transcripts/clean/<id>.txt
+       source_transcripts/manifest.json   (metadata for the source catalog)
+
+Originals in raw/ are read-only — never modified.
+"""
+
+import json
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+RAW = ROOT / "source_transcripts" / "raw"
+CLEAN = ROOT / "source_transcripts" / "clean"
+MANIFEST = ROOT / "source_transcripts" / "manifest.json"
+
+ANCHOR_EVERY_SEC = 60
+
+# Sound-effect and non-speech caption tags.
+TAG_RE = re.compile(r"\[[^\]]{0,40}\]")
+
+# Channel boilerplate: subscription asks, like prompts, generic sign-offs.
+BOILERPLATE_PATTERNS = [
+    r"\b(?:please\s+)?(?:don'?t forget to\s+)?(?:like(?:,| and)?\s+)?subscribe\b[^.?!]*[.?!]",
+    r"\bhit the (?:like|bell|notification)[^.?!]*[.?!]",
+    r"\bring the bell\b[^.?!]*[.?!]",
+    r"\bsmash that like\b[^.?!]*[.?!]",
+    r"\bleave a comment\b[^.?!]*[.?!]",
+    r"\blet me know in the comments\b[^.?!]*[.?!]",
+    r"\bcheck the (?:link|description) below\b[^.?!]*[.?!]",
+    r"\bthis (?:video|channel) is (?:not|for) (?:medical|educational)[^.?!]*[.?!]",
+]
+BOILERPLATE_RE = re.compile("|".join(BOILERPLATE_PATTERNS), re.IGNORECASE)
+
+
+def read_json(path):
+    with open(path, encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+def caption_path(vid):
+    """Prefer the original-language track over the machine-translated one."""
+    for suffix in (".en-orig.json3", ".en.json3"):
+        p = RAW / f"{vid}{suffix}"
+        if p.exists():
+            return p
+    return None
+
+
+def extract_events(data):
+    """Yield (start_seconds, text) from json3, dropping rolling-window duplicates."""
+    for ev in data.get("events", []):
+        # aAppend events re-send the tail of the previous caption line.
+        if ev.get("aAppend"):
+            continue
+        segs = ev.get("segs")
+        if not segs:
+            continue
+        text = "".join(seg.get("utf8", "") for seg in segs)
+        text = text.replace("\n", " ").strip()
+        if not text:
+            continue
+        yield ev.get("tStartMs", 0) / 1000.0, text
+
+
+def dedupe_consecutive(events):
+    """Drop lines identical to, or fully contained in, the line just before."""
+    out = []
+    for start, text in events:
+        if out:
+            prev = out[-1][1]
+            if text == prev or text in prev:
+                continue
+        out.append((start, text))
+    return out
+
+
+def clean_text(text):
+    text = TAG_RE.sub(" ", text)
+    text = BOILERPLATE_RE.sub(" ", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+def mmss(seconds):
+    return f"{int(seconds) // 60:02d}:{int(seconds) % 60:02d}"
+
+
+def build_body(events):
+    """Join caption lines into flowing paragraphs with periodic [mm:ss] anchors."""
+    paragraphs = []
+    current = []
+    next_anchor = 0.0
+
+    for start, text in events:
+        if start >= next_anchor:
+            if current:
+                paragraphs.append(" ".join(current))
+                current = []
+            current.append(f"[{mmss(start)}]")
+            next_anchor = start + ANCHOR_EVERY_SEC
+        current.append(text)
+
+    if current:
+        paragraphs.append(" ".join(current))
+
+    cleaned = []
+    for para in paragraphs:
+        # Keep the anchor, clean only the prose after it.
+        m = re.match(r"^(\[\d{2}:\d{2}\])\s*(.*)$", para, re.DOTALL)
+        if m:
+            anchor, prose = m.group(1), clean_text(m.group(2))
+            if prose:
+                cleaned.append(f"{anchor} {prose}")
+        else:
+            prose = clean_text(para)
+            if prose:
+                cleaned.append(prose)
+    return "\n\n".join(cleaned)
+
+
+def fmt_date(raw):
+    if raw and len(raw) == 8 and raw.isdigit():
+        return f"{raw[:4]}-{raw[4:6]}-{raw[6:]}"
+    return "not available"
+
+
+def main():
+    CLEAN.mkdir(parents=True, exist_ok=True)
+    info_files = sorted(RAW.glob("*.info.json"))
+    if not info_files:
+        sys.exit("No .info.json files found — run fetch_transcripts.sh first.")
+
+    manifest = []
+    skipped = []
+
+    for info_path in info_files:
+        vid = info_path.name[: -len(".info.json")]
+        info = read_json(info_path)
+
+        cap = caption_path(vid)
+        if cap is None:
+            skipped.append({"id": vid, "title": info.get("title"), "reason": "no captions"})
+            continue
+
+        events = dedupe_consecutive(extract_events(read_json(cap)))
+        body = build_body(events)
+        if not body.strip():
+            skipped.append({"id": vid, "title": info.get("title"), "reason": "empty transcript"})
+            continue
+
+        title = info.get("title") or "not available"
+        date = fmt_date(info.get("upload_date"))
+        duration = info.get("duration")
+        url = info.get("webpage_url") or f"https://www.youtube.com/watch?v={vid}"
+        dur_str = mmss(duration) if duration else "not available"
+
+        header = (
+            f"TITLE: {title}\n"
+            f"VIDEO ID: {vid}\n"
+            f"URL: {url}\n"
+            f"UPLOAD DATE: {date}\n"
+            f"DURATION: {dur_str}\n"
+            f"CAPTION TRACK: {cap.name.split('.')[-2]}\n"
+            f"{'=' * 70}\n\n"
+        )
+        (CLEAN / f"{vid}.txt").write_text(header + body + "\n", encoding="utf-8")
+
+        manifest.append({
+            "id": vid,
+            "title": title,
+            "url": url,
+            "upload_date": date,
+            "duration_seconds": duration,
+            "duration": dur_str,
+            "word_count": len(body.split()),
+        })
+
+    manifest.sort(key=lambda r: r["title"].lower())
+    MANIFEST.write_text(
+        json.dumps({"videos": manifest, "skipped": skipped}, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+    total_words = sum(r["word_count"] for r in manifest)
+    print(f"normalized : {len(manifest)}")
+    print(f"skipped    : {len(skipped)}")
+    for s in skipped:
+        print(f"  - {s['id']}: {s['reason']}")
+    print(f"total words: {total_words:,}")
+    print(f"manifest   : {MANIFEST}")
+
+
+if __name__ == "__main__":
+    main()

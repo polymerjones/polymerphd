@@ -1,0 +1,17 @@
+# yt-dlp caption download dump — 297 MB, regenerable from manifest.json.
+# The cleaned transcripts in source_transcripts/clean/ are the provenance record.
+source_transcripts/raw/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Xcode
+ios/build/
+ios/**/xcuserdata/
+*.xcuserstate
