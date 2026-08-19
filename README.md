@@ -135,3 +135,15 @@ app: do not diagnose; do not advise starting, stopping or re-timing any medicati
 stated contraindications with the practice rather than after it. Emergency signals — stroke,
 cauda equina, first episode of chest pain — are stated without softening. See
 `PASTE_INTO_GPT_INSTRUCTIONS.txt` and `topic_reference_09_MEDICATION_INTERACTIONS.md`.
+
+## Source and attribution
+
+Every transcript, note and synthesised file in this repository derives from
+**[The Feynman Way](https://www.youtube.com/@The_Feynman_Way)** — 224 videos fetched,
+190 written up, ~89 hours of runtime. All rights in the underlying material remain with
+that channel.
+
+This is a personal, non-commercial study aid. It is not affiliated with or endorsed by the
+channel, and nothing here is presented as original writing. The `[mm:ss]` anchors exist so
+that any claim can be checked against the video that made it — the material is meant to be
+watched, not replaced. If you find this useful, watch and subscribe to the source.
