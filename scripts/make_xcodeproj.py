@@ -6,10 +6,17 @@ target's Resources. Keeping the project generated rather than checked in by hand
 means it can be rebuilt after the web app changes, with stable object ids so the
 file does not churn.
 """
+import os
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 PROJ = ROOT / "ios" / "PolymerPhD.xcodeproj"
+
+# Personal Apple ID team, so a freshly generated project can build to a device
+# without opening Xcode to set it by hand. Since this file regenerates
+# project.pbxproj, a team set in Xcode would be overwritten on the next build.
+# Override with the DEVELOPMENT_TEAM environment variable.
+DEVELOPMENT_TEAM = os.environ.get("DEVELOPMENT_TEAM", "976XKW42U9")
 
 NAMES = ["prj","target","product","group_root","group_app","group_products","group_res",
          "f_app_swift","f_content_swift","f_assets","f_html","f_plist","f_product",
@@ -29,8 +36,9 @@ COMMON = """				ALWAYS_SEARCH_USER_PATHS = NO;
 				SWIFT_VERSION = 5.0;
 """
 
-TARGET_COMMON = """				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+TARGET_COMMON = f"""				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = {DEVELOPMENT_TEAM};
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
