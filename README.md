@@ -53,6 +53,14 @@ appear anywhere downstream.
 
 ## The three delivery paths
 
+All three are built from the same corpus. The web app is also published, so it can be opened
+without installing anything:
+
+**<https://polymerjones.github.io/polymerphd/>** — GitHub Pages, served from `main` at the
+repository root, where a small `index.html` redirects to `app/index.html`. It redeploys about a
+minute after any push. The app needs iOS 16.4+ or macOS 13.3+, because it unpacks its data with
+`DecompressionStream`; on anything older the page opens blank.
+
 ### 1. Custom GPT
 
 Upload the 20 files in `restorative_vitality_knowledge/` and paste
