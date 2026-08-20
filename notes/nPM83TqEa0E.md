@@ -24,7 +24,7 @@ practices:
   - fibre to feed the butyrate-making bacteria
   - a long unhurried walk to clear circulating cortisol
 concepts:
-  - the enteric nervous system
+  - the gut's own nervous system, the second brain
   - tight junction proteins
   - splanchnic vasoconstriction
   - the migrating cleaning wave
@@ -329,7 +329,7 @@ a lining struggling, a whole bacterial population fallen into disorder"** — de
 
 ## Glossary terms introduced
 
-- **The enteric nervous system** — ~400 million neurons in the gut wall, "the second brain," which digests
+- **The second brain** — the ~400 million neurons in the gut wall running digestion on their own timing; digests
   even with the vagus cut `[00:00]`, `[04:01]`.
 - **Tight junction proteins (claudins, occludins)** — the living grout between the lining tiles, laid
   fresh moment to moment `[03:01]`.

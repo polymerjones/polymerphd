@@ -18,6 +18,22 @@ The second nucleus, for cardiac output specifically, is the **nucleus ambiguus**
 
 **That convergence is the practical fact.** It means signals from anatomically unrelated places — the skin of the chest, the cartilage of the ear, the wall of the pharynx, the pressure sensors in the carotid artery, cold water on the forehead — arrive at the same place and produce the same shift.
 
+## 1.1 What the upward majority is carrying — `nPM83TqEa0E`
+
+The 80% figure is usually quoted and left there. One video takes it as the whole subject and draws the consequence out: **the vagus is mostly a microphone and only a little a speaker.** Some 80,000 fibres run between gut and head, four of every five of them reporting up.
+
+What they report on is a barrier one cell thick, holding back roughly 38 trillion bacteria, sealed not by any thickness of wall but by living protein grout between the lining cells that must be reapplied moment to moment. Under sustained stress three things land on that seal at once: the blood supply clamps within about 200 milliseconds, the cleaning wave that sweeps the small intestine between meals switches off, and cortisol reaches inside the lining cells and turns down the order for fresh sealant. The seam opens microscopically, bacterial coat fragments cross into the blood, and the immune system reads them as invasion.
+
+**So the feeling in the stomach during a hard week is a status report, not a side effect.** The gut is genuinely in trouble and the nerve is faithfully saying so — a working microphone does not soften what it hears. This is the single strongest instance in the package of the principle that a bodily sensation is an accurate measurement.
+
+**Two consequences for everything below in this file.**
+
+**First, the practices in sections 3 and 4 work the minority channel.** Humming, the sigh, the dive reflex, the ten-second squeeze — all of them reach the *downward* speaker fibres, which are the smaller fraction. That is not a weakness in them; the source describes a slow extended exhale as "one of the few direct levers a person has" on those fibres. But it reframes what they are doing: they are talking back on a narrow channel, not silencing a loud one.
+
+**Second, the upward traffic can be changed at its source.** If the report is honest, then improving what is being reported on does more than sending a calmer instruction down. Feeding the bacteria that manufacture the fuel the sealing cells burn, and clearing circulating cortisol through unhurried walking, both act on the wall itself. **A vagal practice and a fibre-rich meal are working the same nerve from opposite ends.**
+
+> **Held with the source's own caution.** Every link in that chain is separately established, much of it in animal models with human data pointing the same way from less controlled observation. That the loop *closes and sustains itself* in a living person after the stressor has gone is explicitly the strong form of the idea — a mechanism worth taking seriously, not a settled fact.
+
 ---
 
 # 2. The measurement: heart rate variability

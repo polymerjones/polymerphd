@@ -15,9 +15,17 @@ Checks, per note:
   - every timestamp appears verbatim in source_transcripts/clean/<id>.txt
   - every cross-referenced video id has a note, or was deliberately deferred
 
+There is also an advisory pass, --terms, which reports glossary terms whose
+wording does not appear in the transcript that introduced them. It is advisory
+rather than a failure because auto-captions garble technical vocabulary (one
+note's "otoconia" is transcribed "odonia"), so a flag means "read this", not
+"this is wrong". It does catch terminology imported from outside the source,
+which is the thing worth catching.
+
 Usage:
   python3 scripts/check_notes.py              # all notes
   python3 scripts/check_notes.py KTwE1rj8-Ek  # one or more ids
+  python3 scripts/check_notes.py --terms      # advisory terminology review
 """
 import json
 import re
@@ -35,6 +43,55 @@ UNIVERSAL = [
     "Conflicts with other sources",
 ]
 FACETS = ["subjects", "systems", "practices", "concepts"]
+
+
+STOPWORDS = {"the", "and", "of", "a", "an", "as", "in", "to", "for", "its", "that",
+             "own", "one", "with", "or", "at", "by", "from", "into", "on", "is", "it"}
+
+
+def anglicise(text):
+    """Fold the notes' British spelling onto the captions' American spelling."""
+    text = re.sub(r"[^a-z0-9 ]", " ", text.lower())
+    text = re.sub(r"\b(\w+?)re\b", r"\1er", text)
+    text = re.sub(r"\b(\w+?)isation\b", r"\1ization", text)
+    text = re.sub(r"\b(\w+?)ise\b", r"\1ize", text)
+    return " " + re.sub(r"\s+", " ", text) + " "
+
+
+def term_roots(word):
+    """Crude stems, enough to match thixotropy against thixotropic."""
+    roots = {word}
+    for suffix in ("ies", "es", "s", "y", "ic", "al"):
+        if word.endswith(suffix) and len(word) - len(suffix) >= 4:
+            roots.add(word[: -len(suffix)])
+    return roots
+
+
+def review_terms(paths):
+    """Advisory: glossary terms whose wording is absent from their transcript."""
+    flagged = checked = 0
+    for path in paths:
+        transcript = ROOT / "source_transcripts" / "clean" / f"{path.stem}.txt"
+        if not path.exists() or not transcript.exists():
+            continue
+        body = anglicise(transcript.read_text(encoding="utf-8"))
+        text = path.read_text(encoding="utf-8")
+        if "## Glossary terms introduced" not in text:
+            continue
+        section = text.split("## Glossary terms introduced")[1].split("\n## ")[0]
+        for m in re.finditer(r"^- \*\*(.+?)\*\*", section, re.M):
+            checked += 1
+            words = [w for w in anglicise(m.group(1).split("(")[0]).split()
+                     if w not in STOPWORDS and len(w) > 3]
+            if not words:
+                continue
+            if not any(any(r in body for r in term_roots(w)) for w in words):
+                flagged += 1
+                print(f"  {path.stem}  {m.group(1)}")
+    print(f"\n{checked} glossary terms reviewed, {flagged} not found in their transcript.")
+    print("Most are auto-caption garbling. Any that are not are terminology "
+          "imported from outside the source.")
+    return 0
 
 
 def load_systems():
@@ -115,9 +172,14 @@ def main():
                               deferred_file.read_text(encoding="utf-8"))) \
         if deferred_file.exists() else set()
 
-    wanted = sys.argv[1:]
+    args = sys.argv[1:]
+    terms_only = "--terms" in args
+    wanted = [a for a in args if not a.startswith("--")]
     paths = ([ROOT / "notes" / f"{v}.md" for v in wanted] if wanted
              else sorted((ROOT / "notes").glob("*.md")))
+
+    if terms_only:
+        return review_terms(paths)
 
     failed = 0
     for path in paths:

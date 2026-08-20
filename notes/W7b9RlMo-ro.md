@@ -25,9 +25,9 @@ concepts:
   - nail fold capillary loops
   - nitric oxide and endothelial decline
   - protein cross-linking
-  - capillary rarefaction
-  - ribonucleotide reduction as an iron-dependent bottleneck
-  - zinc finger switches
+  - thinning of the capillary comb
+  - the iron-dependent bottleneck in blueprint copying
+  - zinc-clamped protein switches
   - Beau's line
 ---
 
@@ -351,9 +351,12 @@ oldest at the free end and newest at the base.**
   `[06:09]`.
 - **Protein cross-linking** — sugar welding long-lived proteins into a stiff glassy lattice; irreversible
   `[07:10]`.
-- **Capillary rarefaction** — the thinning of the comb, loops lost and not replaced `[08:10]`.
-- **The iron-dependent bottleneck** — the single machine every new DNA strand must pass through `[12:15]`.
-- **Zinc finger switches** — gene-reading proteins held in shape by a clamped zinc atom `[13:16]`.
+- **Thinning of the capillary comb** — loops lost and not replaced, survivors sitting farther apart
+  `[08:10]`.
+- **The iron-dependent bottleneck** — the single cellular machine every new strand of blueprint must pass
+  through, carrying an iron atom at its working heart `[12:15]`.
+- **Zinc-clamped protein switches** — gene-reading proteins that hold their gripping shape only while a
+  zinc atom is clamped into the fold `[13:16]`.
 - **Beau's line** — a transverse trench stamped by a week of serious illness `[17:23]`.
 
 ## Analogies worth reusing
@@ -425,7 +428,7 @@ invisibly.**
   of the three**, and the only one whose visible feature is time-ordered.
 
 **The single most valuable addition to the package** is a **readable, dated surface for processes the rest
-of the collection can only describe.** Endothelial decline, glycation and capillary rarefaction appear
+of the collection can only describe.** Endothelial decline, glycation and a thinning capillary bed appear
 across a dozen notes as things happening where you cannot look; **this locates all three on a strip of
 tissue the reader can tilt to the light tonight, with depth reading severity and spacing reading extent.**
 Its value is diagnostic literacy rather than practice — and the video's own two boundaries, that the

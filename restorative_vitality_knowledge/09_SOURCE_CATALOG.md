@@ -1219,7 +1219,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Main subjects:** the matrix as the hidden factory behind the cuticle, parallel production lines and the seam that becomes a ridge, hairpin capillary loops and independent failure, endothelial decline and glycation in the smallest vessels, thinning of the capillary comb with age, iron, zinc and biotin at three separate benches, depth and spacing as two readable dimensions, the nail as a six-month calendar
 - **Body systems:** cardiovascular, digestive and metabolic, musculoskeletal and connective tissue
 - **Recommended practices:** read the ridges by depth and spacing rather than as texture
-- **Important concepts:** the nail matrix, keratin, nail fold capillary loops, nitric oxide and endothelial decline, protein cross-linking, capillary rarefaction, ribonucleotide reduction as an iron-dependent bottleneck, zinc finger switches, Beau's line
+- **Important concepts:** the nail matrix, keratin, nail fold capillary loops, nitric oxide and endothelial decline, protein cross-linking, thinning of the capillary comb, the iron-dependent bottleneck in blueprint copying, zinc-clamped protein switches, Beau's line
 
 ## 102. What Your 40-Year-Old TRAUMA Still Does to Your Body
 
@@ -1363,7 +1363,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Main subjects:** the vagus as microphone rather than speaker, the one-cell-thick barrier and the seam that seals it, splanchnic vasoconstriction within 200 milliseconds, the cleaning wave stopping under stress hormones, butyrate as the fuel for the sealing cells, endotoxin translocation and the immune signature, the self-feeding cortisol loop as a stated hypothesis, where the loop is weak
 - **Body systems:** digestive and metabolic, nervous system, immune and lymphatic, endocrine and hormonal, sleep and circadian
 - **Recommended practices:** a slow extended breath out to reach the speaker fibres, fibre to feed the butyrate-making bacteria, a long unhurried walk to clear circulating cortisol
-- **Important concepts:** the enteric nervous system, tight junction proteins, splanchnic vasoconstriction, the migrating cleaning wave, butyrate, lipopolysaccharide, endotoxin translocation, low-grade systemic inflammation
+- **Important concepts:** the gut's own nervous system, the second brain, tight junction proteins, splanchnic vasoconstriction, the migrating cleaning wave, butyrate, lipopolysaccharide, endotoxin translocation, low-grade systemic inflammation
 
 ## 114. Why a 20 Second HUG Changes Your Body's Chemistry
 

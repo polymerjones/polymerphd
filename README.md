@@ -33,7 +33,7 @@ each delivery path below preserves it.
 | Symptom bullets catalogued | 1,178 |
 | Practice strings | 713, across 182 notes |
 | Body systems (controlled vocabulary) | 10 |
-| Glossary terms | 146 |
+| Glossary terms | 167 |
 | Source runtime | ~90 hours |
 
 ## How it was built
@@ -158,7 +158,7 @@ python3 scripts/check_notes.py <video_id>   # one
 ## Two things the app is deliberately honest about
 
 **Citation density is uneven.** Files `01`–`08` carry **no** video-ID citations. The nine
-`topic_reference` files carry 227 between them. The notes carry all 16,631 timestamps. So the
+`topic_reference` files carry 228 between them. The notes carry all 16,631 timestamps. So the
 app renders live citations on notes and topic references, and never fabricates one on a
 synthesis page. Related sources shown there are labelled *by tag*, not as claim-level citations.
 

@@ -36,6 +36,8 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 **Amygdala** — the brain's threat-detection centre. It classifies incoming signals as safe or dangerous below conscious awareness and triggers the stress cascade accordingly. It is enlarged and more reactive in people with chronic trauma histories, and it does not distinguish between a real threat and a remembered or televised one.
 
+**Anabolic resistance** — the age-related stiffening of the muscle growth switch, on both of its inputs at once. A serving of protein that turned the switch easily in a younger body produces a fraction of the response later in life, and an identical bout of resistance exercise yields a smaller building response in older muscle. Both keys still fit; each simply has to turn further before anything moves.
+
 **Anterior cingulate cortex** — a region processing the emotional component of pain. It activates for physical injury and for social loss alike.
 
 **Arrhenius equation** — describes how reaction rates and fluid properties change with temperature, exponentially rather than proportionally. It explains why synovial fluid thickens sharply in cold, why chemistry runs faster when warm, and why hypothermia both stops shivering and protects the brain.
@@ -54,6 +56,8 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 **BDNF (brain-derived neurotrophic factor)** — the primary molecular driver of synaptic plasticity and the growth of new neurons in the hippocampus. Walking raises it. Ketones raise it. Injury raises it locally.
 
+**Beau's line** — a transverse trench running across the whole width of the nail, stamped when a week of serious illness slows every production column at once. Because the nail grows out in strict order, the line rides slowly toward the tip over the following months, functioning as a dated marker of a bad week.
+
 **Beta-hydroxybutyrate** — the main ketone body, produced by the liver once glycogen is depleted. It fuels the brain and simultaneously acts as a signalling molecule that opens chromatin and increases BDNF expression.
 
 **Beta waves** — brain oscillations at 13–30 Hz, dominant during focused analytical work, worry and threat assessment.
@@ -61,6 +65,8 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 **Bohr effect** — the finding that rising carbon dioxide makes haemoglobin release its oxygen more readily. Described by Christian Bohr in 1904, it is the continuous operating principle of oxygen delivery.
 
 **Brown adipose tissue (brown fat)** — a specialised fat that burns fuel to produce heat rather than to produce usable energy. Packed with mitochondria, concentrated around the major vessels serving brain, heart and kidneys.
+
+**Butyrate** — a short molecule produced when gut bacteria ferment dietary fibre. The cells lining the colon burn it for the majority of their energy — on the order of 70%. Those are the same cells that hold the intestinal barrier sealed, so the wall keeping bacteria out is fuelled by the bacteria it is keeping out.
 
 ---
 
@@ -128,6 +134,8 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 **Endothelium** — the single layer of cells lining every blood vessel. It produces nitric oxide in response to the friction of flowing blood, keeping vessels dilated and anti-inflammatory. Without flow, it switches to an inflammatory state within about 45 minutes.
 
+**Endotoxin translocation** — the passage of bacterial outer-coat fragments from the inside of the gut into the bloodstream through a barrier that has become slightly permeable. Inside the gut the fragment is harmless and expected; in the blood it is read as proof of invasion, triggering inflammation with no live infection present.
+
 **Entrainment** — the tendency of two oscillating systems sharing a connection to fall into the same rhythm. It applies to pendulum clocks on a shared beam, to two hearts in contact, to a choir breathing together, and to the brain locking onto a repeated rhythm.
 
 **Epigenetics** — the layer of chemical marks sitting on top of DNA that determines which genes are readable. It is how identical genomes produce different outcomes, and how experience leaves a durable biological trace.
@@ -141,6 +149,8 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 **Fascia** — the connective sheets wrapping every muscle and organ. It requires mechanical pumping to stay hydrated and pliable; overnight stillness dehydrates it, which is part of morning stiffness.
 
 **Fick's law** — diffusion proceeds down a concentration gradient at a rate proportional to the gradient, the surface area and the contact time.
+
+**Focal adhesion kinase** — the enzyme docked at the inner end of each integrin. When the integrin physically bends under near-limit tension, this enzyme changes shape with it, switches on, and relays a chemical signal inward to the growth switch. It is the point where mechanical strain becomes a molecular instruction.
 
 **Functional residual capacity** — the air remaining in the lungs at the end of a normal passive breath out.
 
@@ -198,15 +208,29 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 **Insulin resistance** — the state in which cells respond less to insulin's instruction to take up glucose, so blood sugar stays elevated and insulin climbs to compensate.
 
+**Integrins** — protein bolts threaded through the outer membrane of a muscle fibre, gripping the collagen scaffolding outside and the cell's internal skeleton inside. They cluster in bands repeating along the fibre's whole length, so the entire cell reads load as one distributed strain gauge. Gentle tension leaves them unchanged; tension near what the fibre can bear physically bends them, and the bend is the signal.
+
 **Interstitial fluid** — the fluid in the spaces between cells, through which nutrients and waste move.
 
 **Intrathoracic pressure** — the pressure inside the chest cavity. It rises with a weight on the chest, with a long exhale, and with the closed glottis of humming, and each rise is detected by the baroreceptors.
+
+**Iron-dependent bottleneck** — the single cellular machine every new strand of genetic blueprint must pass through before a cell can divide, carrying an iron atom at its working heart. Because every division in a tissue squeezes through this one gate, a drop in iron delivery is the first thing in the chain to slow the tissue down.
+
+---
+
+## K
+
+**Keratin** — the hard structural protein that dividing cells fill themselves with before they die, forming hair and nail. The visible nail is entirely dead keratin-filled cells, pushed forward by living cells dividing behind them.
 
 ---
 
 ## L
 
+**Lipopolysaccharide (LPS)** — the sugar-and-fat molecule forming the outer skin of certain gut bacteria, shed constantly as they die. Immune cells carry a sensor built specifically to recognise it, because over evolutionary time it proved one of the most reliable fingerprints of bacterial presence. That specificity is also the problem: a fragment leaking through a stressed intestinal wall sets off the identical alarm a real invasion would.
+
 **Lipoprotein lipase** — the enzyme that clears fats from the blood and enables muscle glucose uptake. Its activity in leg muscle falls to near zero within hours of sitting and returns within minutes of walking.
+
+**Low-grade systemic inflammation** — a faint, continuous inflammatory signal circulating in the blood, producing fatigue, mental fog and a sense of being unwell without a nameable illness. Distinct from inflammaging in cause rather than character: this is driven by an ongoing source such as a permeable gut wall rather than by age alone.
 
 **Lux** — a measure of light intensity. Outdoor daylight is 10,000–100,000 lux; indoor lighting is typically 300–500. The difference is the reason indoor light does not set the body clock.
 
@@ -222,7 +246,7 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 **Mechanoreceptors** — sensors that detect physical force. The main classes are Meissner corpuscles (flutter and texture), Merkel cells (sustained pressure), Pacinian corpuscles (vibration) and Ruffini endings (stretch).
 
-**Mechanotransduction** — the conversion of mechanical force into a biological signal. It is how bone knows to build, how cartilage knows to maintain itself, and how the endothelium knows blood is flowing.
+**Mechanotransduction** — the conversion of mechanical force into a biological signal. It is how bone knows to build, how cartilage knows to maintain itself, how the endothelium knows blood is flowing, and — through integrins bending in the muscle fibre membrane — how muscle knows it was worked close to its limit.
 
 **Melanopsin / ipRGCs** — light-sensitive retinal cells that do not contribute to vision. They report light intensity directly to the master clock and are most sensitive to blue wavelengths.
 
@@ -232,21 +256,27 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 **Microchimerism** — the persistence of another person's living cells in your body. Cells cross the placenta in both directions during pregnancy and can remain for decades.
 
-**Migrating motor complex** — the four-phase cleaning wave that sweeps the small intestine between meals. It runs only in the fasting state and is switched off by eating.
+**Migrating motor complex** — the four-phase cleaning wave that sweeps the small intestine between meals. It runs only in the fasting state and is switched off by eating — and also by stress hormones, which removes the mechanism keeping the small intestine's bacterial population from creeping upward and settling where it should not.
 
 **Mirror neuron system** — circuitry that fires both when you perform an action and when you watch someone else perform it. It underlies contagious yawning and laughter, and it is the basis of mirror therapy for phantom limb pain.
 
 **Mitochondria** — the cell's power plants, and originally free-living bacteria incorporated about 1.5 billion years ago. They retain their own DNA and their own membranes.
 
-**mTOR** — the cell's nutrient sensor. When active it prioritises growth and suppresses repair; when it deactivates, autophagy is released.
+**mTOR** — the cell's nutrient sensor and the master switch for building new muscle protein. When active it prioritises growth and suppresses repair; when it deactivates, autophagy is released. For muscle it behaves as a lock taking two keys at once — one chemical, cut from dietary protein, and one structural, cut only by tension near the fibre's limit. Either key turned alone leaves the lock unmoved.
 
 **Muscle spindles** — sensors woven into muscle reporting length and stretch. They habituate to sustained positions and are reset by the stretch that accompanies a yawn.
 
 **Myelin** — the fatty insulation around fast nerve fibres. It allows the signal to jump between gaps rather than travel continuously, raising conduction speed roughly twentyfold.
 
+**Myonuclear domain** — the stretch of a muscle fibre that a single nucleus can supply with blueprints. A fibre is far too large for one command post, so it carries hundreds of nuclei, each governing its own territory. The protein a fibre can build and maintain is capped by how many nuclei it holds, which is why growth beyond a modest range waits on recruiting more.
+
 ---
 
 ## N
+
+**Nail fold capillary loops** — the blood supply to the nail matrix, arriving not as one broad river but as a dense row of hairpin vessels packed side by side like a comb of fine wire. Each loop serves the strip of dividing tissue directly above it and very little else, so a single loop can fail while its neighbour stays whole. With age the comb also thins, loops lost and not replaced, leaving survivors farther apart with no neighbour to lean on.
+
+**Nail matrix** — the crescent of living, dividing tissue tucked behind the cuticle where all nail is manufactured. It is divided lengthwise into narrow strips, each running as an independent production line fed by its own vessel. Where one strip slows while its neighbour keeps pace, the mismatch surfaces months later as a vertical ridge.
 
 **Natural killer cells** — immune cells that identify and destroy virus-infected and early cancerous cells without needing prior exposure. Their activity rises with forest air and falls with cortisol.
 
@@ -316,13 +346,19 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 **Saltatory conduction** — the jumping of a nerve signal from one myelin gap to the next, regenerating at full strength each time.
 
-**Sarcopenia** — the loss of muscle mass and strength that follows the removal of contractile load.
+**Sarcopenia** — the loss of muscle mass and strength that follows the removal of contractile load. After 50 it is compounded by anabolic resistance and by a thinning satellite cell pool, so the same habits that maintained muscle earlier slide under a threshold that keeps rising.
+
+**Satellite cells** — stem cells parked in shallow dormancy on the outer surface of a muscle fibre, between the membrane and the collagen wrap — stationed among the very bolts that read mechanical strain. The narrow space one sleeps in changes shape when the fibre beneath it deforms, so they are woken mechanically. Roused repeatedly across weeks they divide and fuse into the fibre, donating nuclei permanently.
+
+**Second brain** — the roughly 400 million neurons embedded in the gut wall — more than the spinal cord carries. They run digestion on their own timing, coordinating muscular waves and secretions without instruction from the brain. A gut with its vagus nerve cut still digests and still manages itself.
 
 **SERCA** — the calcium pump that resets muscle for the next contraction. It accounts for roughly a quarter of resting muscle metabolism and produces heat every time it fires.
 
 **Shear stress** — the frictional force of flowing blood against the vessel wall. It is the signal that tells the endothelium to produce nitric oxide.
 
 **Sickness behaviour** — the cluster of fatigue, withdrawal, appetite loss and heightened pain sensitivity produced by inflammatory cytokines. It appears identically in infection and in grief.
+
+**Size principle** — the fixed order in which the nervous system recruits muscle fibres: smallest and most fatigue-resistant first, largest and most powerful last. Light effort never reaches the largest units at all. They are called in only once everything smaller is spent, which is why the closing repetitions of a set to failure differ in kind from the first ones.
 
 **Sleep inertia** — the grogginess of waking out of deep slow-wave sleep rather than out of a light stage.
 
@@ -331,6 +367,8 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 **Slow wave sleep (N3)** — the deepest sleep stage, when tissue repair, immune function, memory consolidation and glymphatic clearance are at their peak.
 
 **Somatosensory cortex** — the strip of brain holding a point-by-point map of the body surface, disproportionately weighted toward hands and face.
+
+**Splanchnic vasoconstriction** — the clamping of blood vessels feeding the intestine when the body registers a threat, beginning within roughly 200 milliseconds — faster than the fright itself is consciously felt. Blood is redirected to muscle, heart and brain on the logic that digestion is a luxury in an emergency.
 
 **Stratum corneum** — the outermost skin layer, 10–15 micrometres thick on the hands. It is a selective barrier, not a seal.
 
@@ -352,7 +390,13 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 **Thymus** — the organ behind the breastbone where every T cell is trained to distinguish self from non-self. It peaks at puberty and is roughly 85% fat by 65.
 
+**Tight junctions (claudins and occludins)** — the sealing proteins stitching neighbouring intestinal lining cells to one another, tight enough that not even a bacterium passes between them. Picture floor tiles with a bead of living grout along every seam, constantly reapplied. They are maintained moment to moment rather than built once, so anything that reduces their manufacture lets the seams open.
+
+**Time under tension** — the total duration for which a load holds muscle fibres deformed, as distinct from how heavy the load is. A weight lowered over four seconds keeps the bolts bent for the whole descent where a dropped weight grants only a glimpse — the stimulus is integrated the way a long photographic exposure gathers light.
+
 **TRPM8 and TRPA1** — molecular cold sensors. TRPM8 opens below about 25 °C and signals cold; TRPA1 opens below about 17 °C and signals pain. Menthol opens TRPM8 without any temperature change.
+
+**Type II fibres (fast-twitch)** — the largest and most powerful muscle units, recruited last and lost fastest with age. They are the fibres that stand you out of a chair, catch you when a curb surprises you, and break the seal on a jar. Because recruitment runs smallest-first, comfortable effort leaves them asleep entirely.
 
 ---
 
@@ -371,3 +415,7 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 ## W
 
 **Wolff's law** — bone remodels along the lines of mechanical stress, thickening where forces are greatest and thinning where they are absent. Stated by Julius Wolff in 1892; the piezoelectric charge is the mechanism by which it works.
+
+## Z
+
+**Zinc-clamped protein switches** — gene-reading proteins that hold their gripping shape only while a zinc atom is clamped into the fold of each one. Without it the switch goes limp and can no longer find its place on the blueprint. Hundreds of cellular tools borrow zinc for the same structural trick, so the metal is stretched thin across a great deal of work at once.

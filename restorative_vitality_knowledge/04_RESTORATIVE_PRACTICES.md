@@ -95,13 +95,30 @@ Two of these — rocking and heel drops — deliver vestibular training **while 
 
 ## Strength and load
 
-- **Load heavy enough that the last two or three repetitions are genuinely hard** — eight to twelve repetitions rather than comfortable sets of fifteen to twenty.
-- **Increase loading by about ten percent per week.**
+**The variable is proximity to failure, not weight.** A muscle fibre cannot weigh anything; it reads only how near the tension came to its own limit. Light loads taken to genuine failure and heavy loads taken to genuine failure produce the same muscle growth — so the practical question is never *how heavy*, but *did the set actually arrive at the boundary*. Stopping at discomfort sits a long way short of it: discomfort is an opinion, failure is a measurement.
+
+**Genuine failure** is the repetition where speed drains out of the movement and the next clean attempt will not come. The final repetition carries most of the value and the one or two just shy of it carry nearly as much. A set that stops five comfortable repetitions early carries almost none.
+
+> **Before adding sets taken to failure:** they raise blood pressure while they last, and they ask real questions of joints and tendons. Anyone with a heart condition, unmanaged blood pressure or recent surgery should have this conversation with their physician before the first set, not after.
+
+Three levers reach that boundary with household objects, and each spares the joints in a way heavy weight does not — ageing tendons and cartilage tolerate a light object moved slowly far better than a heavy one moved fast.
+
+- **Slow the lowering to four seconds.** Deformation accumulates the way a long photographic exposure gathers light; a dropped weight grants only a glimpse. Lengthening under load also produces more tension than the effort feels like it should, so the descent is where a light object stands nearest the limit.
+- **Use one limb instead of two.** Any object carried in one hand stands twice as close to that limb's capacity. The suitcase, the watering can, the single-arm carry across the kitchen turn household mass into near-limit tension through nothing more than division.
+- **Pause where the load stands tallest** — the lowest inch of rising from a chair, the halfway point of a curl, the bottom of a straightened arm holding a bag. A hold there is deformation with the clock left running.
+
+Applied to the practices themselves:
+
 - **Deep-angle rising below 90° of hip flexion** — the range where the largest muscle in the body produces peak force, and precisely the range a chair eliminates.
-- **Four-second controlled descents into a chair** — eccentric loading.
-- **Two-minute loaded carry** with a bag in each hand.
+- **Four-second controlled descents into a chair** — eccentric loading, and the cheapest near-limit tension available.
+- **Two-minute loaded carry**, and prefer **one hand at a time**, swapping sides, over a bag in each hand.
 - **60-second squat hold**, wall-supported to begin.
 - **Wall push for bone**, 30 seconds morning and evening: both palms flat, elbows slightly bent, leaning about 15 degrees.
+- **Increase loading by about ten percent per week** — or, where adding weight is impractical, add time under tension instead: a slower descent, a longer pause, another repetition closer to the boundary.
+
+**Dose is a shape, not a session.** The older adults who added measurable muscle were those whose dormant muscle stem cells woke and multiplied, and that happened where demand arrived a few times a week and kept arriving across months. A single ambitious Saturday reads as noise; a season of that tension reads as policy.
+
+**Expect the mirror to lag.** The first weeks of new strength come mostly from the nervous system finding better routes to fibres you already own — coordination arrives before construction. The tissue answers on the slower schedule of months, in millimetres. An older body doing this correctly is doing everything right long before it looks like it.
 
 ## Movement to music
 

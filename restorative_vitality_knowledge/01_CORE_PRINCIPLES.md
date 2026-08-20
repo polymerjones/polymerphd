@@ -32,7 +32,7 @@ Maintaining order costs energy. The body will not spend that energy without a re
 
 - **Bone** thickens where mechanical stress is highest and thins where stress is absent. The signal is impact.
 - **Arteries** stay dilated and anti-inflammatory only while blood is flowing fast enough to create friction against the vessel wall. Below that threshold — reached after about 45 minutes of sitting — the lining switches to an inflammatory state.
-- **Muscle** maintains itself on contractile load. Remove the load and the fibres atrophy, the mitochondria inside them decline, and the metabolic capacity of the tissue falls.
+- **Muscle** maintains itself on contractile load — but the signal is not the load, it is how close the load came to the fibre's limit. Bolts in the fibre membrane bend only under near-limit tension, so a weight the body has already adapted to registers as silence no matter how faithfully it is lifted. Remove the load, or let it stay unchanged while capacity rises past it, and the fibres atrophy, the mitochondria inside them decline, and the metabolic capacity of the tissue falls.
 - **Cartilage** has no blood supply. It is fed only by fluid pushed in and out under alternating compression. Stillness starves it.
 - **Balance circuits** calibrate on the complexity of the input they receive. Flat, predictable ground supplies almost none.
 - **Brown fat** downregulates in a house held at a constant temperature, because nothing is asking it to produce heat.
@@ -40,6 +40,8 @@ Maintaining order costs energy. The body will not spend that energy without a re
 Every step, every contraction, every load is a maintenance request filed with a system that shuts down any department that stops filing requests.
 
 The person who stops moving has not contracted a disease. They have withdrawn the maintenance signal from every mechanical system in the body simultaneously.
+
+The harder case is the person who never stopped. A demand the body has fully adapted to is no longer a demand, so a routine held constant for years files a request that has quietly stopped being read. **Progress and silence are one event wearing two faces.**
 
 ---
 
@@ -84,6 +86,7 @@ This principle recurs more often than any other in the source material, and it c
 - Afternoon exhaustion with no exertion is not laziness. It is a brain that spent its glucose budget on rumination, blood pooled in unpumped legs, and adenosine meeting a circadian trough.
 - Post-visit sadness after a grandchild leaves is not sentimentality. It is withdrawal from a molecular signal the body had been receiving.
 - The startle that fires too fast, the sleep that does not restore, the response that others call disproportionate — each has a named mechanism.
+- The knot in the stomach during a hard week is not a figure of speech. Four of every five vagal fibres run upward, so it is a status report on an intestinal barrier that has genuinely changed — *the nerve is a microphone, and a working microphone does not soften what it hears.*
 
 The body reports through the only channels it has: sensation, fatigue, ache, unease. **When it reports something, the default assumption should be that it is measuring something real that has not yet been explained to you.**
 
@@ -165,6 +168,7 @@ Several times across this material, a standard measurement turns out to miss the
 - **Pulse oximetry reads how much oxygen is *loaded* onto haemoglobin, not how much is *delivered*.** Someone at 98% saturation with depleted carbon dioxide delivers less to their tissues than someone at 96% with adequate carbon dioxide.
 - **A blood panel showing normal cortisol may sit on top of a system with a depleted baseline and wildly exaggerated reactivity** — a pattern that averages out to unremarkable.
 - **Gait speed, which almost nobody measures, predicts survival better than blood pressure, cholesterol or smoking history**, because it summarises every system at once.
+- **The number on the weight is not the variable muscle responds to.** A fibre cannot weigh anything; it reads only how near the tension came to its own limit. Light loads carried to genuine failure and heavy loads carried to genuine failure arrive at the same reading, which is why a decade of comfortable sets at a respectable weight can build nothing at all.
 
 When a measurement says one thing and the body says another, the measurement may simply be reading a different variable.
 
@@ -206,5 +210,7 @@ Every molecule of love can be named — the dopamine, the oxytocin, the vasopres
 Every measurable effect of prayer can be recorded — the parietal deactivation, the six-breath cardiovascular resonance, the cortisol decline, the hearts synchronising across a congregation. And the instruments cannot say whether anyone is listening.
 
 Describing the medium does not diminish the experience. **It locates it.** And locating it in the body means what you felt was not imagined, not exaggerated, and not a story you told yourself.
+
+The same discipline applies to mechanisms that are merely plausible. Every link in the stress–gut loop is separately established — the blood diverting, the seal loosening, the fragment crossing, the brain answering inflammation with more cortisol — but that the ring *closes and sustains itself* in a living person once the stressor has gone is the hypothesis those real links assemble into, and the source says so outright. Likewise, that each nail ridge pairs to one specific failed capillary is the most reasonable reading of the anatomy, not something shown vessel by vessel. **In both cases the direction is solid and the last step is inference, and the difference is stated rather than smoothed away.**
 
 Where the measurement ends, this package says so rather than filling the gap.
