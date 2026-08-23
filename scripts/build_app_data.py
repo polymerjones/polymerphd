@@ -173,6 +173,25 @@ def duration_bucket(secs):
 # Loaders
 # ---------------------------------------------------------------------------
 
+def display_fields(entry):
+    """Kind-agnostic display fields for a source: a short extent string
+    (duration for video, page/paragraph count for text sources), a date,
+    and a URL (or None if the source isn't meaningfully linkable)."""
+    kind = entry.get("kind", "youtube")
+    anchor_kind = entry.get("anchor", {}).get("kind")
+    bound = entry.get("anchor", {}).get("bound")
+    if kind == "youtube":
+        extent = entry.get("duration") or "not available"
+    elif anchor_kind == "page" and bound is not None:
+        extent = f"{bound} page{'s' if bound != 1 else ''}"
+    elif anchor_kind == "paragraph" and bound is not None:
+        extent = f"{bound} paragraph{'s' if bound != 1 else ''}"
+    else:
+        extent = entry.get("duration") or "not available"
+    date = entry.get("upload_date") or entry.get("retrieved_date") or "not available"
+    return extent, date, entry.get("url")
+
+
 def load_notes(lib, by_id, problems):
     videos = []
     for path in sorted(lib.notes.glob("*.md")):
@@ -201,13 +220,15 @@ def load_notes(lib, by_id, problems):
                     f"{path.name}: anchor {literal} exceeds bound {bound} for `{source_id}`"
                 )
 
+        extent, date, url = display_fields(meta)
         videos.append({
             "id": vid,
+            "kind": meta.get("kind", "youtube"),
+            "evidence": meta.get("evidence"),
             "title": meta["title"],
-            "url": meta["url"],
-            "upload_date": meta["upload_date"],
-            "duration": meta["duration"],
-            "duration_seconds": meta["duration_seconds"],
+            "url": url,
+            "upload_date": date,
+            "duration": extent,
             **{f: sorted(as_list(fm.get(f))) for f in lib.facets},
             "sections": [{"heading": h, "body": b} for h, b in sections.items()],
             "anchors": len(citations),
@@ -406,6 +427,7 @@ def build_one(lib):
     }
 
     splash_path = lib.dir / lib.config.get("splash_file", "splash.b64")
+    facet_labels = lib.config.get("facet_labels", {})
     meta = {
         "slug": lib.slug,
         "title": lib.config.get("title", lib.slug),
@@ -413,6 +435,10 @@ def build_one(lib):
         "lede": lib.config.get("lede", ""),
         "about_paragraphs": lib.config.get("about_paragraphs", []),
         "splash_b64": splash_path.read_text(encoding="utf-8").strip() if splash_path.exists() else "",
+        "primary_facet": lib.primary_facet,
+        "primary_facet_label": facet_labels.get(lib.primary_facet, lib.primary_facet.capitalize()),
+        "facets": list(lib.facets),
+        "facet_labels": {f: facet_labels.get(f, f.capitalize()) for f in lib.facets},
     }
 
     data = {

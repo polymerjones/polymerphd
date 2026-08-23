@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "id": "assh-dupuytrens-contracture",
+      "kind": "pdf",
+      "title": "Dupuytren's Contracture",
+      "author": "American Society for Surgery of the Hand",
+      "url": "https://www.assh.org/handcare/condition/dupuytrens-contracture",
+      "clean_file": "clean/assh-dupuytrens-contracture.txt",
+      "word_count": 1828,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 3
+      },
+      "evidence": {
+        "type": "expert_commentary",
+        "level": "moderate",
+        "year": 2020
+      }
+    }
+  ]
+}

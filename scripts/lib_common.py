@@ -64,6 +64,14 @@ class Library:
         return tuple(self.config.get("facets", ["subjects", "systems", "practices", "concepts"]))
 
     @property
+    def primary_facet(self):
+        """The cross-cutting facet used as the shared filter across the
+        Practices/Symptoms/Sources surfaces (physiology's "systems"). Defaults
+        to the second declared facet if not set explicitly."""
+        facets = self.facets
+        return self.config.get("primary_facet", facets[1] if len(facets) > 1 else facets[0])
+
+    @property
     def universal_sections(self):
         return self.config.get("universal_sections", [])
 

@@ -1,0 +1,46 @@
+{
+  "slug": "dupuytren",
+  "title": "Dupuytren",
+  "subtitle": "Dupuytren's contracture",
+  "lede": "A reference to {videos} sources on Dupuytren's contracture — causes, staging, and treatment options.",
+  "about_paragraphs": [
+    "A reference built from {videos} sources on Dupuytren's contracture — guidelines, studies, and patient material — synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a specific point in a specific source — a page, a paragraph, or a video timestamp, depending on what kind of source made the claim. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["subjects", "anatomy", "management", "concepts"],
+  "primary_facet": "anatomy",
+  "controlled_facets": {},
+  "universal_sections": [
+    "Central claim",
+    "Symptoms and body signals addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+
+  "glossary_file": null,
+  "curated_facts_file": null,
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "subjects": "Main subjects",
+    "anatomy": "Anatomy",
+    "management": "Management options",
+    "concepts": "Important concepts"
+  },
+  "catalog_unit_label": "Sources",
+  "catalog_id_label": "Source ID",
+
+  "custom_gpt": { "enabled": false },
+
+  "evidence_types": ["guideline", "systematic_review", "rct", "cohort_study",
+    "case_report", "basic_science", "textbook", "expert_commentary",
+    "clinical_trial_record", "patient_experience", "other"],
+  "evidence_levels": ["high", "moderate", "low", "anecdotal"],
+
+  "derived_practice_facets": false
+}

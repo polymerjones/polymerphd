@@ -253,16 +253,23 @@ function fillTemplate(s, stats){
   });
 }
 
-/* [mm:ss] and [h:mm:ss] anchors become links into the video at that second.
-   16,272 of these exist; they are the only claim-level provenance in the set. */
-const TS = /\[(\d{1,2}):(\d{2})(?::(\d{2}))?\]/g;
+/* Anchors — [mm:ss]/[h:mm:ss] for video, [p.N] for a PDF page, [¶N] for a
+   paragraph — are the only claim-level provenance in the set. A timestamp on
+   a YouTube-kind source becomes a link that jumps to that second; a page or
+   paragraph anchor becomes a styled badge with no click target, since there's
+   no equivalent "open at this point" URL for a page inside a saved PDF/text. */
+const TS = /\[(?:(\d{1,2}):(\d{2})(?::(\d{2}))?|p\.(\d+)|¶(\d+))\]/g;
 function linkTimestamps(html, videoId){
-  if(!videoId) return html.replace(TS, "");
-  return html.replace(TS, (m, a, b, c) => {
-    const secs = c ? (+a*3600 + +b*60 + +c) : (+a*60 + +b);
-    const label = c ? `${a}:${b}:${c}` : `${a}:${b}`;
-    return ` <a class="ts" target="_blank" rel="noopener"
-      href="https://www.youtube.com/watch?v=${videoId}&t=${secs}s">${label}</a>`;
+  const v = videoId ? VID[videoId] : null;
+  return html.replace(TS, (m, a, b, c, page, para) => {
+    if(a !== undefined){
+      const secs = c ? (+a*3600 + +b*60 + +c) : (+a*60 + +b);
+      const label = c ? `${a}:${b}:${c}` : `${a}:${b}`;
+      if(!v || v.kind !== "youtube") return ` <span class="ts">${label}</span>`;
+      return ` <a class="ts" target="_blank" rel="noopener"
+        href="https://www.youtube.com/watch?v=${videoId}&t=${secs}s">${label}</a>`;
+    }
+    return ` <span class="ts">${page !== undefined ? `p. ${page}` : `¶${para}`}</span>`;
   });
 }
 function stripTS(s){ return (s||"").replace(TS, "").replace(/\s{2,}/g," ").trim().replace(/[ ,;.]+$/,""); }
@@ -333,7 +340,11 @@ function md(src, videoId){
     }
 
     const buf = [];
-    while(i < lines.length && lines[i].trim() && !/^\s*([-*>|]|\d+\.|#)/.test(lines[i])) buf.push(lines[i++]);
+    // A bare leading "*" or "-" only starts a NEW block (list item) when followed by a
+    // space; without one (as in "**bold** text starting a paragraph") it's prose, and
+    // must not stop paragraph accumulation — that previously dropped any paragraph
+    // starting with bold text entirely.
+    while(i < lines.length && lines[i].trim() && !/^\s*([-*]\s|>|\||\d+\.\s|#)/.test(lines[i])) buf.push(lines[i++]);
     if(buf.length) flushPara(buf); else i++;
   }
   return linkTimestamps(out.join("\n"), videoId);
@@ -428,9 +439,20 @@ function wire(scope, key, rerender){
   });
 }
 function libHref(...parts){ return `#/lib/${currentSlug}/${parts.join("/")}`; }
+
+/* A small evidence-tier badge — GUIDELINE, SYSTEMATIC REVIEW, PATIENT
+   EXPERIENCE, etc. — for libraries that declare per-source evidence typing.
+   Absent entirely for a library (like restorative-physiology) that doesn't. */
+function evidenceBadge(v){
+  if(!v.evidence || !v.evidence.type) return "";
+  const type = esc(v.evidence.type.replace(/_/g, " ").toUpperCase());
+  const level = v.evidence.level ? ` · ${esc(v.evidence.level)}` : "";
+  return `<span class="tag k" title="Evidence tier">${type}${level}</span>`;
+}
 function videoLine(v){
   return `<a href="${libHref("source", v.id)}"><span class="t">${esc(v.title)}</span>
-    <span class="meta">${v.duration} · ${v.upload_date} · ${v.anchors} timestamps</span></a>`;
+    <span class="meta">${v.duration} · ${v.upload_date} · ${v.anchors} anchors</span>
+    ${evidenceBadge(v) ? `<div class="tags">${evidenceBadge(v)}</div>` : ""}</a>`;
 }
 
 /* ----------------------------------------------------------------- views */
@@ -462,7 +484,7 @@ function viewSearch(q){
          <span class="meta">${snippet(r.text, q)}</span>
        </a>`).join("")}</div>`;
   return `<div class="prose"><h1>“${esc(q)}”</h1>
-    ${block("Sources", notes, " · claim-level timestamps")}
+    ${block("Sources", notes, " · claim-level anchors")}
     ${block("Knowledge files", lib)}</div>`;
 }
 
@@ -470,7 +492,7 @@ function viewPractices(){
   const wrap = document.createElement("div");
   const render = () => {
     let rows = D.practices;
-    if(filters.system)   rows = rows.filter(p => VID[p.video_id].systems.includes(filters.system));
+    if(filters.system)   rows = rows.filter(p => VID[p.video_id][D.meta.primary_facet].includes(filters.system));
     if(filters.duration) rows = rows.filter(p => p.duration_bucket === filters.duration);
     if(filters.position) rows = rows.filter(p => p.position.includes(filters.position));
     if(filters.equipment)rows = rows.filter(p => p.equipment === filters.equipment);
@@ -487,7 +509,7 @@ function viewPractices(){
       <div class="filters" id="fd">${chips(DURATIONS, filters.duration)}</div>
       <div class="filters" id="fp">${chips(POSITIONS, filters.position)}</div>
       <div class="filters" id="fe">${chips([["none","No equipment"],["required","Needs equipment"]], filters.equipment)}</div>
-      <div class="filters" id="fs">${chips(Object.keys(D.vocab.systems).map(s=>[s,s]), filters.system)}</div>
+      <div class="filters" id="fs">${chips(Object.keys(D.vocab[D.meta.primary_facet]).map(s=>[s,s]), filters.system)}</div>
       <div class="note"><b>These filters are derived, and partial.</b> Duration, position and
       equipment are pattern-matched out of the source's own wording — about a third of practices
       state one plainly. Unmatched practices are not hidden by accident: they simply carry no
@@ -505,7 +527,7 @@ function viewPractices(){
             ${p.position.map(x=>`<span class="tag">${esc(x)}</span>`).join("")}
             ${p.equipment==="none"?'<span class="tag">no equipment</span>':""}
             ${p.equipment==="required"?'<span class="tag">equipment</span>':""}
-            ${v.systems.map(s=>`<span class="tag">${esc(s)}</span>`).join("")}
+            ${v[D.meta.primary_facet].map(s=>`<span class="tag">${esc(s)}</span>`).join("")}
           </div>
           ${safety.length ? `<div class="safety"><b>Stated limits</b>
             ${md(safety.map(s=>s.body).join("\n\n"), v.id)}</div>` : ""}
@@ -529,7 +551,7 @@ function viewSymptoms(){
   const render = () => {
     const term = (wrap.querySelector("#sf")?.value||"").toLowerCase();
     let rows = D.symptoms;
-    if(filters.system) rows = rows.filter(s => VID[s.video_id].systems.includes(filters.system));
+    if(filters.system) rows = rows.filter(s => VID[s.video_id][D.meta.primary_facet].includes(filters.system));
     if(term) rows = rows.filter(s => s.raw.toLowerCase().includes(term));
 
     // group by the curated 05 entry where one was matched, so the mechanism
@@ -560,7 +582,7 @@ function viewSymptoms(){
         style="width:100%;max-width:var(--measure);padding:.5rem .7rem;font-size:16px;
         border:1px solid var(--rule);border-radius:8px;background:var(--card);
         color:var(--ink);margin-bottom:.9rem">
-      <div class="filters" id="fs">${chips(Object.keys(D.vocab.systems).map(s=>[s,s]), filters.system)}</div>
+      <div class="filters" id="fs">${chips(Object.keys(D.vocab[D.meta.primary_facet]).map(s=>[s,s]), filters.system)}</div>
       <p class="count">${rows.length.toLocaleString()} signal${rows.length===1?"":"s"}</p>
       ${ordered.map(([key, items]) => {
         if(key === "__none__")
@@ -590,7 +612,7 @@ function viewSources(){
   const render = () => {
     const term = (wrap.querySelector("#vf")?.value||"").toLowerCase();
     let rows = D.videos;
-    if(filters.system) rows = rows.filter(v => v.systems.includes(filters.system));
+    if(filters.system) rows = rows.filter(v => v[D.meta.primary_facet].includes(filters.system));
     if(term) rows = rows.filter(v =>
       (v.title+" "+v.subjects.join(" ")+" "+v.concepts.join(" ")).toLowerCase().includes(term));
     rows = [...rows].sort((a,b) => a.title.localeCompare(b.title));
@@ -603,7 +625,7 @@ function viewSources(){
         style="width:100%;max-width:var(--measure);padding:.5rem .7rem;font-size:16px;
         border:1px solid var(--rule);border-radius:8px;background:var(--card);
         color:var(--ink);margin-bottom:.9rem">
-      <div class="filters" id="fs">${chips(Object.keys(D.vocab.systems).map(s=>[s,s]), filters.system)}</div>
+      <div class="filters" id="fs">${chips(Object.keys(D.vocab[D.meta.primary_facet]).map(s=>[s,s]), filters.system)}</div>
       <p class="count">${rows.length} source${rows.length===1?"":"s"}</p>
       <div class="list">${rows.map(videoLine).join("")}</div>`;
     wire(wrap.querySelector("#fs"), "system", render);
@@ -623,12 +645,10 @@ function viewVideo(id){
   return `<div class="prose">
     <a class="back" href="${libHref("sources")}">← All sources</a>
     <h1>${esc(v.title)}</h1>
-    <p class="meta">${v.upload_date} · ${v.duration} · ${v.anchors} timestamps ·
-      <a href="${v.url}" target="_blank" rel="noopener">Watch on YouTube</a></p>
-    ${facet("Body systems", v.systems)}
-    ${facet("Practices", v.practices)}
-    ${facet("Subjects", v.subjects)}
-    ${facet("Concepts", v.concepts)}
+    <p class="meta">${v.upload_date} · ${v.duration} · ${v.anchors} anchors${v.url
+      ? ` · <a href="${v.url}" target="_blank" rel="noopener">${v.kind === "youtube" ? "Watch on YouTube" : "Open source"}</a>` : ""}</p>
+    ${evidenceBadge(v) ? `<div class="tags">${evidenceBadge(v)}</div>` : ""}
+    ${D.meta.facets.map(f => facet(D.meta.facet_labels[f], v[f])).join("")}
     <hr>
     ${v.sections.map(s => `<h2>${esc(s.heading)}</h2>${md(s.body, v.id)}`).join("")}
   </div>`;

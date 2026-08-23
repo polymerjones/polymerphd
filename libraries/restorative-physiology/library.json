@@ -11,6 +11,7 @@
   "splash_file": "splash.b64",
 
   "facets": ["subjects", "systems", "practices", "concepts"],
+  "primary_facet": "systems",
   "controlled_facets": {
     "systems": [
       "brain and sensory systems",
