@@ -45,7 +45,8 @@ header{
 }
 .bar{display:flex; align-items:center; gap:.65rem; max-width:52rem; margin:0 auto}
 .mark{width:30px;height:30px;border-radius:7px;flex:none}
-.wordmark{font-weight:600;font-size:1rem;letter-spacing:.01em;white-space:nowrap}
+.wordmark{font-weight:600;font-size:1rem;letter-spacing:.01em;white-space:nowrap;
+  text-decoration:none;color:inherit;display:inline-block}
 .wordmark small{display:block;font-family:var(--sans);font-size:.63rem;
   color:var(--muted);font-weight:400;letter-spacing:.04em;text-transform:uppercase}
 #q{
@@ -63,6 +64,7 @@ nav{
   display:flex; gap:.15rem; max-width:52rem; margin:.5rem auto 0;
   overflow-x:auto; scrollbar-width:none;
 }
+nav:empty{display:none}
 nav::-webkit-scrollbar{display:none}
 nav a{
   font-family:var(--sans); font-size:.8rem; text-decoration:none; color:var(--muted);
@@ -124,6 +126,19 @@ mark{background:var(--accent-soft);color:inherit;font-weight:600;padding:0 .1em}
 .count{font-family:var(--sans);font-size:.78rem;color:var(--muted);margin:0 0 1rem}
 #boot{padding:4rem 1.5rem;text-align:center;color:var(--muted);font-family:var(--sans)}
 
+/* ---- library picker ---- */
+.lib-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;
+  margin-top:1.5rem}
+.lib-card{display:flex;gap:.85rem;align-items:center;text-decoration:none;color:inherit;
+  background:var(--card);border:1px solid var(--rule);border-radius:14px;padding:1rem 1.1rem;
+  box-shadow:var(--shadow);transition:transform .12s ease,border-color .12s ease}
+.lib-card:hover{transform:translateY(-1px);border-color:var(--accent)}
+.lib-card-icon{width:52px;height:52px;border-radius:12px;flex:none;background-size:cover;
+  background-position:center;background-color:var(--accent-soft)}
+.lib-card-body{min-width:0}
+.lib-card .t{font-size:1.08rem}
+.lib-card .meta{display:block;margin-top:.15rem}
+
 /* ---- about overlay ---- */
 .mark{cursor:pointer;transition:transform .12s ease}
 .mark:hover{transform:scale(1.06)}
@@ -177,23 +192,66 @@ mark{background:var(--accent-soft);color:inherit;font-weight:600;padding:0 .1em}
 </style>
 </head>
 <body>
-<div id="boot">Loading the knowledge base…</div>
+<div id="boot">Loading…</div>
 <script>
-const RAW = /*__DATA__*/;
+/* LIBRARY_INDEX is small and plain (title/subtitle/teaser/icon per library) so the
+   picker renders instantly with nothing to decode. Each library's full dataset is
+   its own separate gzip+base64 blob in LIBRARIES, inflated lazily — only the first
+   time that library is actually entered — so opening the app never pays for data
+   you haven't asked to browse yet. Both are inlined at build time; nothing here is
+   ever fetched over the network. */
+const LIBRARY_INDEX = /*__LIBRARY_INDEX__*/;
+const LIBRARIES = /*__LIBRARIES__*/;
+const SHELL_SPLASH_B64 = "__SPLASH__";
+const SOUND_B64 = "__SOUND__";
+const SOUND = (SOUND_B64 && SOUND_B64 !== "__SOUND__") ? new Audio("data:audio/mpeg;base64," + SOUND_B64) : null;
+if(SOUND) SOUND.preload = "auto";
+function playAboutSound(){
+  if(!SOUND) return;
+  try{ SOUND.currentTime = 0; SOUND.play().catch(()=>{}); }catch(e){}
+}
 
 /* ------------------------------------------------------------------ boot */
-let D = null, INDEX = null, VID = {}, PRAC = {};
-
 async function inflate(b64){
   const bytes = Uint8Array.from(atob(b64), c => c.charCodeAt(0));
   const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream("gzip"));
   return JSON.parse(await new Response(stream).text());
 }
 
+/* Active library's state. enterLibrary() repoints these at a cached (or freshly
+   inflated) entry in LOADED, so every view function below can keep reading these
+   globals exactly as before — switching libraries never leaks filters or search
+   state between them, and revisiting one you've already opened is instant. */
+let currentSlug = null;
+let D = null, INDEX = null, VID = {}, filters = null;
+const LOADED = new Map();
+
+function freshFilters(){ return {system:null, duration:null, position:null, equipment:null}; }
+
+async function enterLibrary(slug){
+  let entry = LOADED.get(slug);
+  if(!entry){
+    const data = await inflate(LIBRARIES[slug]);
+    const vid = {};
+    for(const v of data.videos) vid[v.id] = v;
+    entry = {D: data, VID: vid, filters: freshFilters(), INDEX: null};
+    entry.INDEX = buildIndexFor(data);
+    LOADED.set(slug, entry);
+  }
+  currentSlug = slug;
+  D = entry.D; VID = entry.VID; INDEX = entry.INDEX; filters = entry.filters;
+}
+
 /* ------------------------------------------------------- small utilities */
 const $ = s => document.querySelector(s);
 const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const uniq = a => [...new Set(a)];
+function fillTemplate(s, stats){
+  return (s||"").replace(/\{(\w+)\}/g, (m, k) => {
+    if(stats[k] === undefined) return m;
+    return typeof stats[k] === "number" ? stats[k].toLocaleString() : stats[k];
+  });
+}
 
 /* [mm:ss] and [h:mm:ss] anchors become links into the video at that second.
    16,272 of these exist; they are the only claim-level provenance in the set. */
@@ -282,15 +340,15 @@ function md(src, videoId){
 }
 
 /* ------------------------------------------------------------ search index
-   Hand-rolled inverted index, built at load. 190 notes plus 20 knowledge
-   files index in well under a second, and it avoids shipping a second copy
-   of the text as a prebuilt index. */
+   Hand-rolled inverted index, built once per library (on first entry) and
+   cached in LOADED — avoids shipping a second copy of the text as a
+   prebuilt index, and avoids rebuilding it every time you revisit a library. */
 const STOP = new Set("the a an and or of to in on at for with that this it its is are was were be been from by as no not than then more most".split(" "));
 const tok = s => (s.toLowerCase().match(/[a-z0-9]+/g)||[])
   .filter(w => w.length>2 && !STOP.has(w))
   .map(w => w.length>4 ? w.replace(/(ing|ies|es|s)$/,"") : w);
 
-function buildIndex(){
+function buildIndexFor(data){
   const docs = [], map = new Map();
   const add = doc => {
     const id = docs.push(doc)-1;
@@ -301,13 +359,13 @@ function buildIndex(){
       map.get(w).push([id, n]);
     }
   };
-  for(const v of D.videos)
+  for(const v of data.videos)
     add({kind:"note", title:v.title, id:v.id,
          text:v.sections.map(s=>s.heading+" "+stripTS(s.body)).join(" ")});
-  // 09 is a 279 KB metadata listing of every video: it contains nearly every
+  // 09 is a large metadata listing of every source: it contains nearly every
   // keyword in the corpus and would top every query. The Sources surface covers
   // it properly, so it stays browsable but out of the index.
-  for(const f of D.library.filter(f => f.slug !== "09_SOURCE_CATALOG"))
+  for(const f of data.library.filter(f => f.slug !== "09_SOURCE_CATALOG"))
     for(const s of f.sections)
       add({kind:"library", title:f.title, sub:s.heading, id:f.slug,
            text:s.intro+" "+s.subsections.map(x=>x.heading+" "+x.body).join(" ")});
@@ -359,8 +417,6 @@ const DURATIONS = [["under-1-min","Under a minute"],["under-5-min","5 minutes or
 const POSITIONS = [["seated","Seated"],["lying","Lying down"],
   ["supported","Wall or rail"],["standing","Standing"]];
 
-let filters = {system:null, duration:null, position:null, equipment:null};
-
 function chips(defs, active, onPick){
   return defs.map(([v,label]) =>
     `<button data-v="${esc(v)}" class="${active===v?"on":""}">${esc(label)}</button>`).join("");
@@ -371,25 +427,25 @@ function wire(scope, key, rerender){
     rerender();
   });
 }
+function libHref(...parts){ return `#/lib/${currentSlug}/${parts.join("/")}`; }
 function videoLine(v){
-  return `<a href="#/video/${v.id}"><span class="t">${esc(v.title)}</span>
+  return `<a href="${libHref("source", v.id)}"><span class="t">${esc(v.title)}</span>
     <span class="meta">${v.duration} · ${v.upload_date} · ${v.anchors} timestamps</span></a>`;
 }
 
 /* ----------------------------------------------------------------- views */
 function viewSearch(q){
   if(!q) {
-    const s = D.stats;
+    const s = D.stats, m = D.meta;
     return `<div class="prose">
-      <h1>Polymer Ph.D.</h1>
-      <p class="lede">A reference to ${s.videos} sources on restorative physiology.
-      Everything here is drawn from the knowledge package — nothing is generated.</p>
+      <h1>${esc(m.title)}</h1>
+      <p class="lede">${fillTemplate(m.lede, s)}</p>
       <p>Search above, or start with a surface:</p>
       <ul>
-        <li><a href="#/practices">Practices</a> — ${s.practices} of them, with dose and timing.</li>
-        <li><a href="#/symptoms">Symptoms</a> — ${s.symptoms.toLocaleString()} body signals, each traced to a source.</li>
-        <li><a href="#/sources">Sources</a> — all ${s.videos} videos, ${s.anchors.toLocaleString()} timestamps.</li>
-        <li><a href="#/reference">Reference</a> — ${s.library_files} knowledge files and ${s.glossary_terms} glossary terms.</li>
+        <li><a href="${libHref("practices")}">Practices</a> — ${s.practices} of them, with dose and timing.</li>
+        <li><a href="${libHref("symptoms")}">Symptoms</a> — ${s.symptoms.toLocaleString()} body signals, each traced to a source.</li>
+        <li><a href="${libHref("sources")}">Sources</a> — all ${s.videos} sources, ${s.anchors.toLocaleString()} anchors.</li>
+        <li><a href="${libHref("reference")}">Reference</a> — ${s.library_files} knowledge files and ${s.glossary_terms} glossary terms.</li>
       </ul>
       <div class="note">Works entirely offline. No account, no network, no model —
       every word was written during the synthesis pass and is only being looked up here.</div>
@@ -401,7 +457,7 @@ function viewSearch(q){
   const block = (title, rows, sub) => !rows.length ? "" :
     `<h2>${title}</h2><p class="count">${rows.length} result${rows.length>1?"s":""}${sub||""}</p>
      <div class="list">${rows.map(r => `
-       <a href="${r.kind==="note"?`#/video/${r.id}`:`#/file/${r.id}`}">
+       <a href="${r.kind==="note"?libHref("source",r.id):libHref("file",r.id)}">
          <span class="t">${esc(r.title)}${r.sub?` — ${esc(r.sub)}`:""}</span>
          <span class="meta">${snippet(r.text, q)}</span>
        </a>`).join("")}</div>`;
@@ -442,7 +498,7 @@ function viewPractices(){
         const safety = pick(v, SAFETY_HEADINGS);
         return `<div class="card">
           <h3>${esc(p.text)}</h3>
-          <span class="meta"><a href="#/video/${v.id}">${esc(v.title)}</a></span>
+          <span class="meta"><a href="${libHref("source",v.id)}">${esc(v.title)}</a></span>
           <div class="tags">
             ${p.duration_seconds ? `<span class="tag k">${p.duration_seconds<60
               ? p.duration_seconds+"s" : Math.round(p.duration_seconds/60)+" min"}</span>`:""}
@@ -492,7 +548,7 @@ function viewSymptoms(){
       const link = s.seconds.length
         ? `<a class="ts" target="_blank" rel="noopener"
              href="https://www.youtube.com/watch?v=${v.id}&t=${s.seconds[0]}s">watch</a>` : "";
-      return `<a href="#/video/${v.id}"><span class="t">${inline(stripTS(s.raw))}</span>
+      return `<a href="${libHref("source",v.id)}"><span class="t">${inline(stripTS(s.raw))}</span>
         <span class="meta">${esc(v.title)} ${link}</span></a>`;
     };
 
@@ -540,9 +596,9 @@ function viewSources(){
     rows = [...rows].sort((a,b) => a.title.localeCompare(b.title));
 
     wrap.innerHTML = `<div class="prose"><h1>Sources</h1>
-      <p class="lede">All ${D.videos.length} videos written up, carrying
-      ${D.stats.anchors.toLocaleString()} timestamps between them. Every claim in a note links
-      back to the second the source states it.</p></div>
+      <p class="lede">All ${D.videos.length} sources written up, carrying
+      ${D.stats.anchors.toLocaleString()} anchors between them. Every claim in a note links
+      back to the point the source states it.</p></div>
       <input id="vf" class="sans" placeholder="Filter by title, subject or concept…" value="${esc(term)}"
         style="width:100%;max-width:var(--measure);padding:.5rem .7rem;font-size:16px;
         border:1px solid var(--rule);border-radius:8px;background:var(--card);
@@ -565,7 +621,7 @@ function viewVideo(id){
   const facet = (label, items) => !items.length ? "" :
     `<h4>${label}</h4><div class="tags">${items.map(x=>`<span class="tag">${esc(x)}</span>`).join("")}</div>`;
   return `<div class="prose">
-    <a class="back" href="#/sources">← All sources</a>
+    <a class="back" href="${libHref("sources")}">← All sources</a>
     <h1>${esc(v.title)}</h1>
     <p class="meta">${v.upload_date} · ${v.duration} · ${v.anchors} timestamps ·
       <a href="${v.url}" target="_blank" rel="noopener">Watch on YouTube</a></p>
@@ -590,7 +646,7 @@ function viewReference(){
       ${D.glossary.length}-term glossary.</p>
       <h2>Knowledge files</h2>
       <div class="list">${D.library.map(f => `
-        <a href="#/file/${f.slug}"><span class="t">${esc(f.title)}</span>
+        <a href="${libHref("file",f.slug)}"><span class="t">${esc(f.title)}</span>
         <span class="meta">${f.words.toLocaleString()} words${f.cited_ids.length
           ? ` · ${f.cited_ids.length} sources cited` : ""}</span></a>`).join("")}</div>
       <h2>Glossary</h2></div>
@@ -612,11 +668,11 @@ function viewReference(){
 function viewFile(slug){
   const f = D.library.find(x => x.slug === slug);
   if(!f) return `<p class="empty">No such file.</p>`;
-  // 01-08 carry no video ids; the topic_reference files carry 227 between them.
-  // Only render a sources block where the file actually cites.
+  // Some knowledge files carry no source ids; others carry many. Only render a
+  // sources block where the file actually cites.
   const cited = f.cited_ids.filter(id => VID[id]);
   return `<div class="prose">
-    <a class="back" href="#/reference">← Reference</a>
+    <a class="back" href="${libHref("reference")}">← Reference</a>
     <h1>${esc(f.title)}</h1>
     <p class="meta">${f.words.toLocaleString()} words · ${f.slug}</p>
     ${f.sections.map(s => `
@@ -629,29 +685,57 @@ function viewFile(slug){
   </div>`;
 }
 
+/* ------------------------------------------------------------- library picker */
+function viewPicker(){
+  return `<div class="prose">
+    <h1>Polymer Ph.D.</h1>
+    <p class="lede">Choose a library to explore. Every claim in every library traces to a
+    specific source — nothing is generated.</p>
+  </div>
+  <div class="lib-grid">
+    ${LIBRARY_INDEX.map(l => `
+      <a class="lib-card" href="#/lib/${l.slug}/">
+        <div class="lib-card-icon" style="background-image:url('data:image/png;base64,${l.icon_b64||SHELL_SPLASH_B64}')"></div>
+        <div class="lib-card-body">
+          <span class="t">${esc(l.title)}</span>
+          <span class="meta">${esc(l.subtitle||"")}</span>
+          ${l.teaser ? `<span class="meta">${esc(l.teaser)}</span>` : ""}
+        </div>
+      </a>`).join("")}
+  </div>`;
+}
+
 /* ------------------------------------------------------------ about panel */
 function showAbout(){
-  const s = D.stats;
-  const fig = (n, label) => `<div class="fig"><b>${n}</b><span>${label}</span></div>`;
+  playAboutSound();
   const scrim = document.createElement("div");
   scrim.className = "scrim";
-  scrim.innerHTML = `<div class="about" role="dialog" aria-modal="true" aria-label="About">
-    <img alt="Doctor Paul" src="data:image/jpeg;base64,__SPLASH__">
-    <h2>Polymer Ph.D.</h2>
-    <p class="sub">Restorative physiology</p>
-    <div class="figs">
-      ${fig(s.videos, "sources")}
-      ${fig(s.anchors.toLocaleString(), "timestamps")}
-      ${fig(s.practices, "practices")}
-      ${fig(s.symptoms.toLocaleString(), "body signals")}
-    </div>
-    <p>A reference built from ${s.videos} videos on human physiology, restorative practice and
-    the biology of ageing — synthesised into ${s.library_files} knowledge files and
-    ${s.glossary_terms} glossary terms.</p>
-    <p>Every claim traces to a source at a specific second. Nothing here is generated: there is
-    no model in this app, and it makes no network requests. It works offline, permanently.</p>
-    <button class="close">Close</button>
-  </div>`;
+  if(D && D.meta){
+    const m = D.meta, s = D.stats;
+    const fig = (n, label) => `<div class="fig"><b>${n}</b><span>${label}</span></div>`;
+    scrim.innerHTML = `<div class="about" role="dialog" aria-modal="true" aria-label="About">
+      <img alt="${esc(m.title)}" src="data:image/jpeg;base64,${m.splash_b64 || SHELL_SPLASH_B64}">
+      <h2>${esc(m.title)}</h2>
+      <p class="sub">${esc(m.subtitle||"")}</p>
+      <div class="figs">
+        ${fig(s.videos, "sources")}
+        ${fig(s.anchors.toLocaleString(), "anchors")}
+        ${fig(s.practices, "practices")}
+        ${fig(s.symptoms.toLocaleString(), "body signals")}
+      </div>
+      ${(m.about_paragraphs||[]).map(p => `<p>${inline(fillTemplate(p, s))}</p>`).join("")}
+      <button class="close">Close</button>
+    </div>`;
+  } else {
+    scrim.innerHTML = `<div class="about" role="dialog" aria-modal="true" aria-label="About">
+      <img alt="Polymer Ph.D." src="data:image/jpeg;base64,${SHELL_SPLASH_B64}">
+      <h2>Polymer Ph.D.</h2>
+      <p class="sub">${LIBRARY_INDEX.length} librar${LIBRARY_INDEX.length===1?"y":"ies"}</p>
+      <p>Choose a library to explore. Everything here traces to a specific source — nothing
+      is generated, and it makes no network requests. It works offline, permanently.</p>
+      <button class="close">Close</button>
+    </div>`;
+  }
   const close = () => { scrim.remove(); document.removeEventListener("keydown", onKey); };
   const onKey = e => { if(e.key === "Escape") close(); };
   scrim.onclick = e => { if(e.target === scrim) close(); };
@@ -662,57 +746,91 @@ function showAbout(){
 
 /* ---------------------------------------------------------------- router */
 const TABS = [
-  ["#/",          "Search",    "🔍"],
-  ["#/practices", "Practices", "🏃"],
-  ["#/symptoms",  "Symptoms",  "🩺"],
-  ["#/sources",   "Sources",   "🎬"],
-  ["#/reference", "Reference", "📖"],
+  ["",          "Search",    "🔍"],
+  ["practices", "Practices", "🏃"],
+  ["symptoms",  "Symptoms",  "🩺"],
+  ["sources",   "Sources",   "🎬"],
+  ["reference", "Reference", "📖"],
 ];
 
-function route(){
+function renderNav(activeSuffix){
+  $("nav").innerHTML = TABS.map(([suffix,label,ico]) => {
+    const on = suffix === activeSuffix;
+    return `<a href="${libHref(suffix)}" class="${on?"on":""}"><span class="ico">${ico}</span>${label}</a>`;
+  }).join("");
+}
+
+function showPickerChrome(){
+  $("#q").style.display = "none";
+  $("nav").innerHTML = "";
+  $(".wordmark").innerHTML = "Polymer Ph.D.";
+  document.title = "Polymer Ph.D.";
+}
+
+function showLibraryChrome(){
+  const m = D.meta;
+  $("#q").style.display = "";
+  $("#q").placeholder = `Search ${D.stats.videos} sources…`;
+  $(".wordmark").innerHTML = `Polymer Ph.D.<small>${esc(m.title)}</small>`;
+  document.title = `${m.title} · Polymer Ph.D.`;
+}
+
+async function route(){
   const hash = location.hash || "#/";
   const main = $("main");
+  const m = hash.match(/^#\/lib\/([^/]+)\/?(.*)$/);
+
+  if(!m){
+    if(LIBRARY_INDEX.length === 1){ location.hash = `#/lib/${LIBRARY_INDEX[0].slug}/`; return; }
+    showPickerChrome();
+    main.innerHTML = viewPicker();
+    window.scrollTo(0,0);
+    return;
+  }
+
+  const slug = decodeURIComponent(m[1]);
+  const rest = m[2] || "";
+  if(!LIBRARY_INDEX.some(l => l.slug === slug)){
+    location.hash = "#/";
+    return;
+  }
+
+  if(currentSlug !== slug){
+    main.innerHTML = `<p class="empty">Loading…</p>`;
+  }
+  await enterLibrary(slug);
+
+  let node, activeSuffix = rest.split("/")[0] || "";
   const q = $("#q").value.trim();
-  let node, active = hash;
 
-  if(hash.startsWith("#/video/"))        { node = viewVideo(decodeURIComponent(hash.slice(8))); active = "#/sources"; }
-  else if(hash.startsWith("#/file/"))    { node = viewFile(decodeURIComponent(hash.slice(7)));  active = "#/reference"; }
-  else if(hash === "#/practices")        node = viewPractices();
-  else if(hash === "#/symptoms")         node = viewSymptoms();
-  else if(hash === "#/sources")          node = viewSources();
-  else if(hash === "#/reference")        node = viewReference();
-  else                                   node = viewSearch(q);
+  if(rest.startsWith("source/"))      { node = viewVideo(decodeURIComponent(rest.slice(7))); activeSuffix = "sources"; }
+  else if(rest.startsWith("file/"))   { node = viewFile(decodeURIComponent(rest.slice(5)));  activeSuffix = "reference"; }
+  else if(rest === "practices")       node = viewPractices();
+  else if(rest === "symptoms")        node = viewSymptoms();
+  else if(rest === "sources")         node = viewSources();
+  else if(rest === "reference")       node = viewReference();
+  else                                 node = viewSearch(q);
 
+  showLibraryChrome();
+  renderNav(activeSuffix);
   main.innerHTML = "";
   if(typeof node === "string") main.innerHTML = node; else main.appendChild(node);
-  document.querySelectorAll("nav a").forEach(a =>
-    a.classList.toggle("on", a.getAttribute("href") === active));
   window.scrollTo(0,0);
 }
 
 /* ------------------------------------------------------------------ init */
-(async function init(){
-  try{
-    D = await inflate(RAW);
-  }catch(e){
-    $("#boot").textContent = "Could not load the knowledge base: " + e.message;
-    return;
-  }
-  for(const v of D.videos) VID[v.id] = v;
-  INDEX = buildIndex();
-
+(function init(){
   document.body.innerHTML = `
     <header>
       <div class="bar">
         <img class="mark" id="mark" alt="About Polymer Ph.D." title="About"
              src="data:image/png;base64,__ICON__">
-        <div class="wordmark">Polymer Ph.D.<small>Restorative physiology</small></div>
-        <input id="q" type="search" placeholder="Search ${D.stats.videos} sources…"
+        <a class="wordmark" href="#/">Polymer Ph.D.</a>
+        <input id="q" type="search" placeholder="Search…"
                autocomplete="off" autocapitalize="off" spellcheck="false">
         <button class="themebtn" id="theme" title="Switch theme">◐</button>
       </div>
-      <nav>${TABS.map(([href,label,ico]) =>
-        `<a href="${href}"><span class="ico">${ico}</span>${label}</a>`).join("")}</nav>
+      <nav></nav>
     </header>
     <main></main>`;
 
@@ -721,11 +839,13 @@ function route(){
   q.oninput = () => {
     clearTimeout(timer);
     timer = setTimeout(() => {
-      if(location.hash !== "#/") location.hash = "#/"; else route();
+      const home = libHref("");
+      if(location.hash !== home) location.hash = home; else route();
     }, 160);
   };
   q.onkeydown = e => { if(e.key === "Enter"){ e.preventDefault(); q.blur();
-    if(location.hash !== "#/") location.hash = "#/"; else route(); } };
+    const home = libHref("");
+    if(location.hash !== home) location.hash = home; else route(); } };
 
   $("#mark").onclick = showAbout;
 

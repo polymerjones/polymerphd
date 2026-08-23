@@ -1,25 +1,31 @@
 #!/usr/bin/env python3
 """
-Build a library's offline reference app from its notes and knowledge files.
+Build the offline reference app shell from every library's notes and knowledge files.
 
-Reads   libraries/<slug>/notes/<id>.md          (YAML frontmatter + universal sections)
-        libraries/<slug>/knowledge/*.md          (the synthesised knowledge files)
-        libraries/<slug>/sources/manifest.json   (authoritative source metadata)
-        libraries/<slug>/overrides.json          (hand corrections for derived facets)
+Reads, per library under libraries/<slug>/:
+        notes/<id>.md          (YAML frontmatter + universal sections)
+        knowledge/*.md          (the synthesised knowledge files)
+        sources/manifest.json   (authoritative source metadata)
+        overrides.json          (hand corrections for derived facets)
 
-Writes  app/data.json   the dataset on its own, for any later consumer
-        app/index.html  the same data inlined into app.template.html, single file
+Writes  app/data/<slug>.json  each library's dataset on its own, for any later consumer
+        app/index.html        one self-contained app: a library picker plus every
+                               library's data inlined as its own gzip+base64 blob,
+                               lazily inflated client-side the first time that
+                               library is actually entered
 
-Phase 1 note: this still builds ONE library's data into ONE inline blob, exactly
-as before — the picker / multi-library shell is Phase 2 work. Nothing outside
-app/ is written. The source material is read, never modified.
+Every library's data stays inlined in this one file rather than fetched at
+runtime, so the app keeps making zero network requests and works fully offline
+on both GitHub Pages and the iOS WKWebView wrapper — see CLAUDE.md.
+
+Nothing outside app/ is written. The source material is read, never modified.
 
 Determinism matters here: the output is regenerated whenever notes are added, so
 every collection is sorted and json is dumped with sorted keys. Re-running without
 changing an input must produce a byte-identical file.
 
 Usage:
-  python3 scripts/build_app_data.py <slug>
+  python3 scripts/build_app_data.py
 """
 
 import base64
@@ -36,13 +42,14 @@ from pathlib import Path
 # section splitter is reimplemented below against the same heading convention.
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from build_catalog import parse_frontmatter, as_list  # noqa: E402
-from lib_common import require_slug, find_anchor_citations  # noqa: E402
+from lib_common import all_library_slugs, load_library, find_anchor_citations  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 APP = ROOT / "app"
 TEMPLATE = APP / "app.template.html"
-OUT_JSON = APP / "data.json"
 OUT_HTML = APP / "index.html"
+DATA_DIR = APP / "data"
+SOUND = APP / "sound.b64"
 
 
 def strip_frontmatter(text):
@@ -208,7 +215,7 @@ def load_notes(lib, by_id, problems):
     return videos
 
 
-def load_library(lib, by_id, problems):
+def load_knowledge_files(lib, by_id, problems):
     """The knowledge files, split by heading so the app can deep-link a section."""
     files = []
     for path in sorted(lib.knowledge.glob("*.md")):
@@ -373,12 +380,8 @@ def build_vocab(videos, facets):
 # Entry point
 # ---------------------------------------------------------------------------
 
-def main():
-    lib, _ = require_slug(sys.argv[1:], "Usage: python3 scripts/build_app_data.py <slug>")
-
-    if not lib.notes.exists() or not any(lib.notes.glob("*.md")):
-        sys.exit(f"No notes found in {lib.notes} — run the extraction pass first.")
-
+def build_one(lib):
+    """Build one library's full data dict. Returns (data, problems, unclassified)."""
     problems = []
     by_id = lib.sources_by_id()
     overrides_path = lib.dir / "overrides.json"
@@ -386,20 +389,31 @@ def main():
     derive_facets = bool(lib.config.get("derived_practice_facets", False))
 
     videos = load_notes(lib, by_id, problems)
-    library = load_library(lib, by_id, problems)
+    library = load_knowledge_files(lib, by_id, problems)
     glossary = load_glossary(lib, problems)
     curated = load_curated_symptoms(lib, problems)
     symptoms = build_symptoms(videos, curated)
     practices, unclassified = build_practices(videos, overrides, derive_facets)
     vocab = build_vocab(videos, lib.facets)
 
-    if problems:
-        print(f"\n{len(problems)} validation problem(s) — nothing written:\n", file=sys.stderr)
-        for p in problems[:40]:
-            print(f"  - {p}", file=sys.stderr)
-        if len(problems) > 40:
-            print(f"  ... and {len(problems) - 40} more", file=sys.stderr)
-        sys.exit(1)
+    stats = {
+        "videos": len(videos),
+        "library_files": len(library),
+        "glossary_terms": len(glossary),
+        "symptoms": len(symptoms),
+        "practices": len(practices),
+        "anchors": sum(v["anchors"] for v in videos),
+    }
+
+    splash_path = lib.dir / lib.config.get("splash_file", "splash.b64")
+    meta = {
+        "slug": lib.slug,
+        "title": lib.config.get("title", lib.slug),
+        "subtitle": lib.config.get("subtitle", ""),
+        "lede": lib.config.get("lede", ""),
+        "about_paragraphs": lib.config.get("about_paragraphs", []),
+        "splash_b64": splash_path.read_text(encoding="utf-8").strip() if splash_path.exists() else "",
+    }
 
     data = {
         "videos": videos,
@@ -409,57 +423,108 @@ def main():
         "symptoms": symptoms,
         "practices": practices,
         "vocab": vocab,
-        "stats": {
-            "videos": len(videos),
-            "library_files": len(library),
-            "glossary_terms": len(glossary),
-            "symptoms": len(symptoms),
-            "practices": len(practices),
-            "anchors": sum(v["anchors"] for v in videos),
-        },
+        "stats": stats,
+        "meta": meta,
     }
+    return data, problems, unclassified
+
+
+def main():
+    slugs = all_library_slugs()
+    if not slugs:
+        sys.exit("No libraries found under libraries/*/library.json — nothing to build.")
 
     APP.mkdir(exist_ok=True)
-    payload = json.dumps(data, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
-    OUT_JSON.write_text(payload, encoding="utf-8")
+    DATA_DIR.mkdir(exist_ok=True)
+
+    library_index = []
+    blobs = {}
+    total_payload_bytes = 0
+
+    for slug in slugs:
+        lib = load_library(slug)
+        if not lib.notes.exists() or not any(lib.notes.glob("*.md")):
+            sys.exit(f"No notes found in {lib.notes} — run the extraction pass first.")
+
+        data, problems, unclassified = build_one(lib)
+        if problems:
+            print(f"\n{slug}: {len(problems)} validation problem(s) — nothing written:\n", file=sys.stderr)
+            for p in problems[:40]:
+                print(f"  - {p}", file=sys.stderr)
+            if len(problems) > 40:
+                print(f"  ... and {len(problems) - 40} more", file=sys.stderr)
+            sys.exit(1)
+
+        payload = json.dumps(data, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+        total_payload_bytes += len(payload)
+        (DATA_DIR / f"{slug}.json").write_text(payload, encoding="utf-8")
+
+        # mtime=0 keeps the gzip header byte-identical between runs.
+        blob = gzip.compress(payload.encode("utf-8"), compresslevel=9, mtime=0)
+        blobs[slug] = base64.b64encode(blob).decode("ascii")
+
+        # The icon is pre-encoded (96px PNG, ~27 KB) rather than downscaled here, so
+        # the build has no dependency on macOS sips.
+        icon_path = lib.dir / lib.config.get("icon_file", "icon.b64")
+        s = data["stats"]
+        library_index.append({
+            "slug": slug,
+            "title": lib.config.get("title", slug),
+            "subtitle": lib.config.get("subtitle", ""),
+            "teaser": f"{s['videos']} sources",
+            "icon_b64": icon_path.read_text(encoding="utf-8").strip() if icon_path.exists() else "",
+        })
+
+        if unclassified:
+            report = APP / f"unclassified_practices_{slug}.txt"
+            report.write_text("\n".join(sorted(unclassified)) + "\n", encoding="utf-8")
+
+        matched = sum(1 for e in data["symptoms"] if e["curated"] is not None)
+        classified = len(data["practices"]) - len(unclassified)
+        print(
+            f"{slug}: {s['videos']} notes · {s['library_files']} knowledge files · "
+            f"{s['glossary_terms']} glossary terms\n"
+            f"  {s['anchors']:,} anchors resolved\n"
+            f"  {s['symptoms']:,} symptoms indexed ({matched} matched to a curated entry)\n"
+            f"  {s['practices']} practice cards ({classified} carry at least one derived facet, "
+            f"{len(unclassified)} unclassified)"
+        )
+        if unclassified:
+            print(f"  → unclassified keys listed in app/unclassified_practices_{slug}.txt "
+                  f"for correction in libraries/{slug}/overrides.json")
 
     if not TEMPLATE.exists():
-        sys.exit(f"Missing {TEMPLATE} — cannot build the single-file app.")
+        sys.exit(f"Missing {TEMPLATE} — cannot build the app shell.")
     html = TEMPLATE.read_text(encoding="utf-8")
-    if "/*__DATA__*/" not in html:
-        sys.exit("Template has no /*__DATA__*/ placeholder.")
-    # mtime=0 keeps the gzip header byte-identical between runs.
-    blob = gzip.compress(payload.encode("utf-8"), compresslevel=9, mtime=0)
-    encoded = base64.b64encode(blob).decode("ascii")
-    # The icon is pre-encoded (96px PNG, ~27 KB) rather than downscaled here, so
-    # the build has no dependency on macOS sips.
-    icon = lib.dir / lib.config.get("icon_file", "icon.b64")
-    splash = lib.dir / lib.config.get("splash_file", "splash.b64")
-    if icon.exists():
-        html = html.replace("__ICON__", icon.read_text(encoding="utf-8").strip())
-    if splash.exists():
-        html = html.replace("__SPLASH__", splash.read_text(encoding="utf-8").strip())
-    OUT_HTML.write_text(html.replace("/*__DATA__*/", f'"{encoded}"'), encoding="utf-8")
+    for placeholder in ("/*__LIBRARY_INDEX__*/", "/*__LIBRARIES__*/"):
+        if placeholder not in html:
+            sys.exit(f"Template has no {placeholder} placeholder.")
 
-    s = data["stats"]
-    matched = sum(1 for e in symptoms if e["curated"] is not None)
-    classified = len(practices) - len(unclassified)
+    html = html.replace("/*__LIBRARY_INDEX__*/",
+                         json.dumps(library_index, ensure_ascii=False, sort_keys=True))
+    html = html.replace("/*__LIBRARIES__*/",
+                         json.dumps(blobs, ensure_ascii=False, sort_keys=True))
+
+    # Shell-level branding (favicon/apple-touch-icon, and the About panel's
+    # fallback splash on the picker screen) comes from the first library,
+    # alphabetically, since there's no separate umbrella artwork yet.
+    shell_lib = load_library(slugs[0])
+    shell_icon = shell_lib.dir / shell_lib.config.get("icon_file", "icon.b64")
+    shell_splash = shell_lib.dir / shell_lib.config.get("splash_file", "splash.b64")
+    if shell_icon.exists():
+        html = html.replace("__ICON__", shell_icon.read_text(encoding="utf-8").strip())
+    if shell_splash.exists():
+        html = html.replace("__SPLASH__", shell_splash.read_text(encoding="utf-8").strip())
+    if SOUND.exists():
+        html = html.replace("__SOUND__", SOUND.read_text(encoding="utf-8").strip())
+
+    OUT_HTML.write_text(html, encoding="utf-8")
+
+    total_mb = total_payload_bytes / 1_048_576
     print(
-        f"Wrote {OUT_JSON.relative_to(ROOT)} and {OUT_HTML.relative_to(ROOT)}\n"
-        f"  {s['videos']} notes · {s['library_files']} knowledge files · "
-        f"{s['glossary_terms']} glossary terms\n"
-        f"  {s['anchors']:,} anchors resolved\n"
-        f"  {s['symptoms']:,} symptoms indexed ({matched} matched to a curated entry)\n"
-        f"  {s['practices']} practice cards ({classified} carry at least one derived facet, "
-        f"{len(unclassified)} unclassified)\n"
-        f"  {len(payload) / 1_048_576:.2f} MB of data → "
-        f"{OUT_HTML.stat().st_size / 1_048_576:.2f} MB single-file app (gzipped)"
+        f"\nWrote {OUT_HTML.relative_to(ROOT)} — {len(slugs)} librar{'y' if len(slugs) == 1 else 'ies'}, "
+        f"{total_mb:.2f} MB of data → {OUT_HTML.stat().st_size / 1_048_576:.2f} MB single-file app (gzipped)"
     )
-    if unclassified:
-        report = APP / "unclassified_practices.txt"
-        report.write_text("\n".join(sorted(unclassified)) + "\n", encoding="utf-8")
-        print(f"  → unclassified keys listed in {report.relative_to(ROOT)} "
-              f"for correction in libraries/{lib.slug}/overrides.json")
 
 
 if __name__ == "__main__":

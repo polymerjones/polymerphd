@@ -7,9 +7,6 @@
 #
 # Run after writing or editing any note. The build scripts refuse to write if a
 # note is malformed, so a bad note fails here rather than shipping.
-#
-# Phase 1 note: app/index.html is still one library's app, inlined directly
-# (build_app_data.py <slug>). The picker across multiple libraries is Phase 2.
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
@@ -32,16 +29,7 @@ done
 
 echo
 echo "── 2/3  offline web app ────────────────────────────────"
-if [ "${#LIBRARIES[@]}" -gt 1 ]; then
-  echo "More than one library found — app/index.html still only builds a single" >&2
-  echo "library's app (the picker is Phase 2). Pass a slug explicitly:" >&2
-  for cfg in "${LIBRARIES[@]}"; do
-    echo "  python3 scripts/build_app_data.py $(basename "$(dirname "$cfg")")" >&2
-  done
-  exit 1
-fi
-SLUG="$(basename "$(dirname "${LIBRARIES[0]}")")"
-python3 scripts/build_app_data.py "$SLUG" | tail -8
+python3 scripts/build_app_data.py
 
 echo
 echo "── 3/3  iOS project ────────────────────────────────────"
