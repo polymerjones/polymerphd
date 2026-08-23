@@ -2,12 +2,15 @@
 """
 Normalize yt-dlp json3 auto-captions into readable transcripts.
 
-Reads  source_transcripts/raw/<id>.en-orig.json3  (falls back to .en.json3)
-       source_transcripts/raw/<id>.info.json
-Writes source_transcripts/clean/<id>.txt
-       source_transcripts/manifest.json   (metadata for the source catalog)
+Reads  libraries/<slug>/sources/raw/<id>.en-orig.json3  (falls back to .en.json3)
+       libraries/<slug>/sources/raw/<id>.info.json
+Writes libraries/<slug>/sources/clean/<id>.txt
+       libraries/<slug>/sources/manifest.json   (metadata for the source catalog)
 
 Originals in raw/ are read-only — never modified.
+
+Usage:
+  python3 scripts/normalize.py <slug>
 """
 
 import json
@@ -15,10 +18,8 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-RAW = ROOT / "source_transcripts" / "raw"
-CLEAN = ROOT / "source_transcripts" / "clean"
-MANIFEST = ROOT / "source_transcripts" / "manifest.json"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from lib_common import require_slug  # noqa: E402
 
 ANCHOR_EVERY_SEC = 60
 
@@ -44,10 +45,10 @@ def read_json(path):
         return json.load(fh)
 
 
-def caption_path(vid):
+def caption_path(raw_dir, vid):
     """Prefer the original-language track over the machine-translated one."""
     for suffix in (".en-orig.json3", ".en.json3"):
-        p = RAW / f"{vid}{suffix}"
+        p = raw_dir / f"{vid}{suffix}"
         if p.exists():
             return p
     return None
@@ -132,19 +133,26 @@ def fmt_date(raw):
 
 
 def main():
-    CLEAN.mkdir(parents=True, exist_ok=True)
-    info_files = sorted(RAW.glob("*.info.json"))
+    lib, _ = require_slug(sys.argv[1:], "Usage: python3 scripts/normalize.py <slug>")
+    raw_dir, clean_dir = lib.raw_dir, lib.clean_dir
+    clean_dir.mkdir(parents=True, exist_ok=True)
+
+    info_files = sorted(raw_dir.glob("*.info.json"))
     if not info_files:
         sys.exit("No .info.json files found — run fetch_transcripts.sh first.")
 
-    manifest = []
+    existing = lib.load_manifest()
+    # Keep any non-youtube sources (pdf/website/text) already in the manifest untouched.
+    other_sources = [s for s in existing.get("sources", []) if s.get("kind") != "youtube"]
+
+    sources = []
     skipped = []
 
     for info_path in info_files:
         vid = info_path.name[: -len(".info.json")]
         info = read_json(info_path)
 
-        cap = caption_path(vid)
+        cap = caption_path(raw_dir, vid)
         if cap is None:
             skipped.append({"id": vid, "title": info.get("title"), "reason": "no captions"})
             continue
@@ -170,31 +178,34 @@ def main():
             f"CAPTION TRACK: {cap.name.split('.')[-2]}\n"
             f"{'=' * 70}\n\n"
         )
-        (CLEAN / f"{vid}.txt").write_text(header + body + "\n", encoding="utf-8")
+        (clean_dir / f"{vid}.txt").write_text(header + body + "\n", encoding="utf-8")
 
-        manifest.append({
+        sources.append({
             "id": vid,
+            "kind": "youtube",
             "title": title,
             "url": url,
             "upload_date": date,
             "duration_seconds": duration,
             "duration": dur_str,
             "word_count": len(body.split()),
+            "clean_file": f"clean/{vid}.txt",
+            "anchor": {
+                "kind": "timestamp", "format": "mm:ss",
+                "bound_field": "duration_seconds", "bound": duration,
+            },
         })
 
-    manifest.sort(key=lambda r: r["title"].lower())
-    MANIFEST.write_text(
-        json.dumps({"videos": manifest, "skipped": skipped}, indent=2, ensure_ascii=False),
-        encoding="utf-8",
-    )
+    sources.sort(key=lambda r: r["title"].lower())
+    lib.save_manifest({"sources": other_sources + sources, "skipped": skipped})
 
-    total_words = sum(r["word_count"] for r in manifest)
-    print(f"normalized : {len(manifest)}")
+    total_words = sum(r["word_count"] for r in sources)
+    print(f"normalized : {len(sources)}")
     print(f"skipped    : {len(skipped)}")
     for s in skipped:
         print(f"  - {s['id']}: {s['reason']}")
     print(f"total words: {total_words:,}")
-    print(f"manifest   : {MANIFEST}")
+    print(f"manifest   : {lib.manifest_path}")
 
 
 if __name__ == "__main__":

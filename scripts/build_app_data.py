@@ -1,20 +1,25 @@
 #!/usr/bin/env python3
 """
-Build the offline reference app from the notes and the knowledge package.
+Build a library's offline reference app from its notes and knowledge files.
 
-Reads   notes/<id>.md                        (YAML frontmatter + six universal sections)
-        restorative_vitality_knowledge/*.md  (the synthesised knowledge files)
-        source_transcripts/manifest.json     (authoritative video metadata)
-        app/practice_overrides.json          (hand corrections for derived facets)
+Reads   libraries/<slug>/notes/<id>.md          (YAML frontmatter + universal sections)
+        libraries/<slug>/knowledge/*.md          (the synthesised knowledge files)
+        libraries/<slug>/sources/manifest.json   (authoritative source metadata)
+        libraries/<slug>/overrides.json          (hand corrections for derived facets)
 
 Writes  app/data.json   the dataset on its own, for any later consumer
         app/index.html  the same data inlined into app.template.html, single file
 
-Nothing outside app/ is written. The source material is read, never modified.
+Phase 1 note: this still builds ONE library's data into ONE inline blob, exactly
+as before — the picker / multi-library shell is Phase 2 work. Nothing outside
+app/ is written. The source material is read, never modified.
 
 Determinism matters here: the output is regenerated whenever notes are added, so
 every collection is sorted and json is dumped with sorted keys. Re-running without
 changing an input must produce a byte-identical file.
+
+Usage:
+  python3 scripts/build_app_data.py <slug>
 """
 
 import base64
@@ -28,42 +33,16 @@ from pathlib import Path
 # parse_frontmatter/as_list already solve the frontmatter shape (string-or-list
 # facets included). build_catalog guards its entry point, so importing is safe.
 # slice_sections is NOT importable -- it reads sys.argv at module level -- so its
-# section splitter is reimplemented below against the same six headings.
+# section splitter is reimplemented below against the same heading convention.
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from build_catalog import parse_frontmatter, as_list  # noqa: E402
+from lib_common import require_slug, find_anchor_citations  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-NOTES = ROOT / "notes"
-KNOWLEDGE = ROOT / "restorative_vitality_knowledge"
-MANIFEST = ROOT / "source_transcripts" / "manifest.json"
 APP = ROOT / "app"
 TEMPLATE = APP / "app.template.html"
-OVERRIDES = APP / "practice_overrides.json"
-ICON = APP / "icon.b64"
-SPLASH = APP / "splash.b64"
 OUT_JSON = APP / "data.json"
 OUT_HTML = APP / "index.html"
-
-UNIVERSAL_SECTIONS = [
-    "Central claim",
-    "Symptoms and body signals addressed",
-    "Glossary terms introduced",
-    "Analogies worth reusing",
-    "Source-stated confidence",
-    "Conflicts with other sources",
-]
-
-# Sections that carry the source's own safety language. The material states limits
-# with the practice rather than after it, so these ride on the practice card.
-SAFETY_HEADINGS = [
-    "Safety framing stated in the source",
-    "Safety — stated by the video",
-    "Medical framing stated in the source",
-]
-
-PRACTICE_HEADINGS = ["Practices", "The practice", "The protocol", "Practices summary"]
-
-TS_RE = re.compile(r"\[(\d{1,2}):(\d{2})(?::(\d{2}))?\]")
 
 
 def strip_frontmatter(text):
@@ -86,14 +65,6 @@ def split_sections(text, level="## "):
     return out
 
 
-def timestamps(text):
-    """Every [mm:ss] / [h:mm:ss] anchor in a chunk of text, as second offsets."""
-    secs = []
-    for h, mm, ss in TS_RE.findall(text):
-        secs.append(int(h) * 3600 + int(mm) * 60 + int(ss) if ss else int(h) * 60 + int(mm))
-    return secs
-
-
 def bullets(text):
     """Top-level bullet lines, with their wrapped continuation lines folded in."""
     out = []
@@ -112,8 +83,12 @@ def bullets(text):
 # These are pattern-matched out of free text and are therefore PARTIAL. Roughly
 # 15% of practice strings state a readable duration, 7% a seated/supported cue.
 # Two things keep that honest: anything unclassified is reported for hand
-# correction in practice_overrides.json, and the raw source string always rides
-# on the card, so a filter can never hide what the material actually said.
+# correction in overrides.json, and the raw source string always rides on the
+# card, so a filter can never hide what the material actually said.
+#
+# Gated by library.json's "derived_practice_facets" (default off): this pattern
+# set is tuned for restorative-physiology's practice-instruction prose and isn't
+# assumed to fit every library's content.
 # ---------------------------------------------------------------------------
 
 UNIT_SECONDS = {"second": 1, "sec": 1, "minute": 60, "min": 60, "hour": 3600}
@@ -191,12 +166,9 @@ def duration_bucket(secs):
 # Loaders
 # ---------------------------------------------------------------------------
 
-FACETS = ("subjects", "systems", "practices", "concepts")
-
-
-def load_notes(by_id, problems):
+def load_notes(lib, by_id, problems):
     videos = []
-    for path in sorted(NOTES.glob("*.md")):
+    for path in sorted(lib.notes.glob("*.md")):
         fm = parse_frontmatter(path)
         vid = fm.get("id")
         if vid not in by_id:
@@ -206,16 +178,20 @@ def load_notes(by_id, problems):
         body = strip_frontmatter(path.read_text(encoding="utf-8"))
         sections = split_sections(body)
 
-        missing = [h for h in UNIVERSAL_SECTIONS if h not in sections]
+        missing = [h for h in lib.universal_sections if h not in sections]
         if missing:
             problems.append(f"{path.name}: missing section(s) {', '.join(missing)}")
 
-        # A timestamp past the end of the video means a malformed anchor.
-        for secs in timestamps(body):
-            if secs > meta["duration_seconds"]:
+        citations = find_anchor_citations(body, vid)
+        for source_id, kind, value, literal in citations:
+            entry = by_id.get(source_id)
+            if entry is None:
+                problems.append(f"{path.name}: anchor cites unknown source `{source_id}`: {literal}")
+                continue
+            bound = entry.get("anchor", {}).get("bound")
+            if bound is not None and value > bound:
                 problems.append(
-                    f"{path.name}: anchor at {secs}s exceeds duration "
-                    f"{meta['duration_seconds']}s"
+                    f"{path.name}: anchor {literal} exceeds bound {bound} for `{source_id}`"
                 )
 
         videos.append({
@@ -225,17 +201,17 @@ def load_notes(by_id, problems):
             "upload_date": meta["upload_date"],
             "duration": meta["duration"],
             "duration_seconds": meta["duration_seconds"],
-            **{f: sorted(as_list(fm.get(f))) for f in FACETS},
+            **{f: sorted(as_list(fm.get(f))) for f in lib.facets},
             "sections": [{"heading": h, "body": b} for h, b in sections.items()],
-            "anchors": len(timestamps(body)),
+            "anchors": len(citations),
         })
     return videos
 
 
-def load_library(problems):
+def load_library(lib, by_id, problems):
     """The knowledge files, split by heading so the app can deep-link a section."""
     files = []
-    for path in sorted(KNOWLEDGE.glob("*.md")):
+    for path in sorted(lib.knowledge.glob("*.md")):
         text = path.read_text(encoding="utf-8")
         m = re.match(r"^#\s+(.+?)\s*$", text, re.M)
         title = m.group(1) if m else path.stem
@@ -248,8 +224,11 @@ def load_library(problems):
             sections.append({"heading": gh, "intro": intro.strip(),
                              "subsections": [{"heading": sh, "body": sb}
                                              for sh, sb in subs.items()]})
-        # topic_reference files cite video ids; the numbered 01-08 files do not.
-        cited = sorted(set(re.findall(r"`([A-Za-z0-9_-]{11})`", text)))
+        # topic_reference-style files cite source ids; numbered synthesis files do not.
+        # Filtered against the manifest so a backtick-quoted filename (`09_SOURCE_CATALOG.md`)
+        # or other stray backtick text is never mistaken for a source citation.
+        backticked = set(re.findall(r"`([^`]+)`", text))
+        cited = sorted(backticked & by_id.keys())
         files.append({
             "slug": path.stem,
             "title": title,
@@ -262,11 +241,14 @@ def load_library(problems):
     return files
 
 
-def load_glossary(problems):
-    """146 terms from 07, formatted '**Term** — definition'."""
-    path = KNOWLEDGE / "07_PLAIN_ENGLISH_GLOSSARY.md"
+def load_glossary(lib, problems):
+    """Terms from the library's glossary file, formatted '**Term** — definition'."""
+    filename = lib.glossary_file
+    if not filename:
+        return []
+    path = lib.knowledge / filename
     if not path.exists():
-        problems.append("07_PLAIN_ENGLISH_GLOSSARY.md is missing")
+        problems.append(f"{filename} is missing")
         return []
     entries = []
     for line in path.read_text(encoding="utf-8").splitlines():
@@ -276,11 +258,14 @@ def load_glossary(problems):
     return sorted(entries, key=lambda e: e["term"].lower())
 
 
-def load_curated_symptoms(problems):
-    """The curated symptom entries in 05, which supply the mechanism panel."""
-    path = KNOWLEDGE / "05_SYMPTOMS_AND_BODY_SIGNALS.md"
+def load_curated_symptoms(lib, problems):
+    """The curated entries in the library's curated-facts file, if it has one."""
+    filename = lib.curated_facts_file
+    if not filename:
+        return []
+    path = lib.knowledge / filename
     if not path.exists():
-        problems.append("05_SYMPTOMS_AND_BODY_SIGNALS.md is missing")
+        problems.append(f"{filename} is missing")
         return []
     text = path.read_text(encoding="utf-8")
     curated = []
@@ -308,7 +293,7 @@ def tokens(text):
 
 
 def match_curated(bullet, curated_tokens):
-    """Attach a bullet to a curated 05 entry by token overlap.
+    """Attach a bullet to a curated entry by token overlap.
 
     Heuristic, and labelled as such in the UI. The threshold is deliberately
     strict: a wrong match would attribute a mechanism to a symptom the source
@@ -336,26 +321,27 @@ def build_symptoms(videos, curated):
             entries.append({
                 "raw": b,
                 "video_id": v["id"],
-                "seconds": timestamps(b),
+                "seconds": [val for _, kind, val, _ in find_anchor_citations(b, v["id"])
+                            if kind == "timestamp"],
                 "curated": match_curated(b, curated_tokens),
             })
     return entries
 
 
-def build_practices(videos, overrides):
+def build_practices(videos, overrides, derive_facets):
     """One card per frontmatter practice string, enriched from the note body."""
     cards = []
     unclassified = []
     for v in videos:
-        for text in v["practices"]:
+        for text in v.get("practices", []):
             if text.strip().lower() in {"none recorded", "none"}:
                 continue
             key = f"{v['id']}::{text}"
             o = overrides.get(key, {})
-            secs = o.get("duration_seconds", derive_duration(text))
-            position = o.get("position", derive_position(text))
-            equipment = o.get("equipment", derive_equipment(text))
-            if secs is None and not position and equipment is None:
+            secs = o.get("duration_seconds", derive_duration(text) if derive_facets else None)
+            position = o.get("position", derive_position(text) if derive_facets else None)
+            equipment = o.get("equipment", derive_equipment(text) if derive_facets else None)
+            if derive_facets and secs is None and not position and equipment is None:
                 unclassified.append(key)
             cards.append({
                 "key": key,
@@ -370,14 +356,14 @@ def build_practices(videos, overrides):
     return cards, unclassified
 
 
-def build_vocab(videos):
+def build_vocab(videos, facets):
     """Observed vocabularies with the video ids under each, so the UI's facet
     counts come from the data rather than being hardcoded."""
     vocab = {}
-    for facet in FACETS:
+    for facet in facets:
         index = defaultdict(list)
         for v in videos:
-            for term in v[facet]:
+            for term in v.get(facet, []):
                 index[term].append(v["id"])
         vocab[facet] = {k: sorted(set(ids)) for k, ids in sorted(index.items())}
     return vocab
@@ -388,21 +374,24 @@ def build_vocab(videos):
 # ---------------------------------------------------------------------------
 
 def main():
-    if not NOTES.exists() or not any(NOTES.glob("*.md")):
-        sys.exit("No notes found — run the extraction pass first.")
+    lib, _ = require_slug(sys.argv[1:], "Usage: python3 scripts/build_app_data.py <slug>")
+
+    if not lib.notes.exists() or not any(lib.notes.glob("*.md")):
+        sys.exit(f"No notes found in {lib.notes} — run the extraction pass first.")
 
     problems = []
-    manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
-    by_id = {v["id"]: v for v in manifest["videos"]}
-    overrides = json.loads(OVERRIDES.read_text(encoding="utf-8")) if OVERRIDES.exists() else {}
+    by_id = lib.sources_by_id()
+    overrides_path = lib.dir / "overrides.json"
+    overrides = json.loads(overrides_path.read_text(encoding="utf-8")) if overrides_path.exists() else {}
+    derive_facets = bool(lib.config.get("derived_practice_facets", False))
 
-    videos = load_notes(by_id, problems)
-    library = load_library(problems)
-    glossary = load_glossary(problems)
-    curated = load_curated_symptoms(problems)
+    videos = load_notes(lib, by_id, problems)
+    library = load_library(lib, by_id, problems)
+    glossary = load_glossary(lib, problems)
+    curated = load_curated_symptoms(lib, problems)
     symptoms = build_symptoms(videos, curated)
-    practices, unclassified = build_practices(videos, overrides)
-    vocab = build_vocab(videos)
+    practices, unclassified = build_practices(videos, overrides, derive_facets)
+    vocab = build_vocab(videos, lib.facets)
 
     if problems:
         print(f"\n{len(problems)} validation problem(s) — nothing written:\n", file=sys.stderr)
@@ -444,10 +433,12 @@ def main():
     encoded = base64.b64encode(blob).decode("ascii")
     # The icon is pre-encoded (96px PNG, ~27 KB) rather than downscaled here, so
     # the build has no dependency on macOS sips.
-    if ICON.exists():
-        html = html.replace("__ICON__", ICON.read_text(encoding="utf-8").strip())
-    if SPLASH.exists():
-        html = html.replace("__SPLASH__", SPLASH.read_text(encoding="utf-8").strip())
+    icon = lib.dir / lib.config.get("icon_file", "icon.b64")
+    splash = lib.dir / lib.config.get("splash_file", "splash.b64")
+    if icon.exists():
+        html = html.replace("__ICON__", icon.read_text(encoding="utf-8").strip())
+    if splash.exists():
+        html = html.replace("__SPLASH__", splash.read_text(encoding="utf-8").strip())
     OUT_HTML.write_text(html.replace("/*__DATA__*/", f'"{encoded}"'), encoding="utf-8")
 
     s = data["stats"]
@@ -457,7 +448,7 @@ def main():
         f"Wrote {OUT_JSON.relative_to(ROOT)} and {OUT_HTML.relative_to(ROOT)}\n"
         f"  {s['videos']} notes · {s['library_files']} knowledge files · "
         f"{s['glossary_terms']} glossary terms\n"
-        f"  {s['anchors']:,} timestamp anchors resolved\n"
+        f"  {s['anchors']:,} anchors resolved\n"
         f"  {s['symptoms']:,} symptoms indexed ({matched} matched to a curated entry)\n"
         f"  {s['practices']} practice cards ({classified} carry at least one derived facet, "
         f"{len(unclassified)} unclassified)\n"
@@ -468,7 +459,7 @@ def main():
         report = APP / "unclassified_practices.txt"
         report.write_text("\n".join(sorted(unclassified)) + "\n", encoding="utf-8")
         print(f"  → unclassified keys listed in {report.relative_to(ROOT)} "
-              f"for correction in practice_overrides.json")
+              f"for correction in libraries/{lib.slug}/overrides.json")
 
 
 if __name__ == "__main__":

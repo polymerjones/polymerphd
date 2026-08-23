@@ -1,28 +1,26 @@
 #!/usr/bin/env python3
 """
-Generate 09_SOURCE_CATALOG.md mechanically from the per-video note frontmatter.
+Generate a library's source catalog mechanically from its per-source note frontmatter.
 
 Building the catalog from notes/ rather than by hand makes it complete by
-construction: every ingested video appears exactly once, and no video can be
+construction: every ingested source appears exactly once, and no source can be
 cited in the package that was not actually processed.
 
-Reads  notes/<id>.md            (YAML frontmatter)
-       source_transcripts/manifest.json
-Writes restorative_vitality_knowledge/09_SOURCE_CATALOG.md
+Reads  libraries/<slug>/notes/<id>.md            (YAML frontmatter)
+       libraries/<slug>/sources/manifest.json
+Writes libraries/<slug>/knowledge/<catalog_file>  (library.json's catalog_file, default 09_SOURCE_CATALOG.md)
+
+Usage:
+  python3 scripts/build_catalog.py <slug>
 """
 
-import json
 import sys
 from pathlib import Path
 
 import yaml
 
-ROOT = Path(__file__).resolve().parent.parent
-NOTES = ROOT / "notes"
-MANIFEST = ROOT / "source_transcripts" / "manifest.json"
-OUT = ROOT / "restorative_vitality_knowledge" / "09_SOURCE_CATALOG.md"
-
-FIELDS = ("subjects", "systems", "practices", "concepts")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from lib_common import require_slug  # noqa: E402
 
 
 def parse_frontmatter(path):
@@ -48,16 +46,42 @@ def bullets(items):
     return ", ".join(items) if items else "none recorded"
 
 
-def main():
-    if not NOTES.exists() or not any(NOTES.glob("*.md")):
-        sys.exit("No notes found — run the extraction pass first.")
+def catalog_heading(catalog_file):
+    stem = catalog_file.rsplit(".", 1)[0]
+    if "_" in stem:
+        num, rest = stem.split("_", 1)
+        return f"# {num} — {rest.replace('_', ' ').title()}"
+    return f"# {stem.replace('_', ' ').title()}"
 
-    manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
-    by_id = {v["id"]: v for v in manifest["videos"]}
+
+def attribution_line(lib):
+    attr = lib.config.get("attribution")
+    if not attr:
+        return None
+    name, url = attr.get("name"), attr.get("url")
+    label = "Channel" if attr.get("style") == "youtube_channel" else "Source"
+    if name and url:
+        return f"**{label}:** {name} — {url}  "
+    if name:
+        return f"**{label}:** {name}  "
+    return None
+
+
+def main():
+    lib, _ = require_slug(sys.argv[1:], "Usage: python3 scripts/build_catalog.py <slug>")
+    fields = lib.facets
+    facet_labels = lib.config.get("facet_labels", {})
+    unit_label = lib.config.get("catalog_unit_label", "Sources")
+    id_label = lib.config.get("catalog_id_label", "Source ID")
+
+    if not lib.notes.exists() or not any(lib.notes.glob("*.md")):
+        sys.exit(f"No notes found in {lib.notes} — run the extraction pass first.")
+
+    by_id = lib.sources_by_id()
 
     entries = []
     problems = []
-    for note in sorted(NOTES.glob("*.md")):
+    for note in sorted(lib.notes.glob("*.md")):
         fm = parse_frontmatter(note)
         vid = fm.get("id")
         if vid not in by_id:
@@ -67,11 +91,12 @@ def main():
         entries.append({
             "id": vid,
             "title": meta["title"],
-            "url": meta["url"],
-            "upload_date": meta["upload_date"],
-            "duration": meta["duration"],
-            "source_file": f"source_transcripts/clean/{vid}.txt",
-            **{f: as_list(fm.get(f)) for f in FIELDS},
+            "url": meta.get("url"),
+            "author": meta.get("author"),
+            "upload_date": meta.get("upload_date"),
+            "duration": meta.get("duration"),
+            "source_file": f"sources/{meta.get('clean_file', f'clean/{vid}.txt')}",
+            **{f: as_list(fm.get(f)) for f in fields},
         })
 
     if problems:
@@ -79,51 +104,62 @@ def main():
 
     entries.sort(key=lambda e: e["title"].lower())
 
+    default_description = (
+        "Every source ingested into this knowledge package, with the "
+        + ", ".join(facet_labels.get(f, f) for f in fields[:-1])
+        + f", and {facet_labels.get(fields[-1], fields[-1])} each one covers."
+    ) if fields else "Every source ingested into this knowledge package."
+
     lines = [
-        "# 09 — Source Catalog",
+        catalog_heading(lib.catalog_file),
         "",
-        "Every transcript ingested into this knowledge package, with the subjects, "
-        "body systems, practices, and concepts each one covers.",
+        lib.config.get("catalog_description", default_description),
         "",
-        f"**Channel:** The Feynman Way — https://www.youtube.com/@The_Feynman_Way  ",
-        f"**Videos catalogued:** {len(entries)}",
+    ]
+    attr_line = attribution_line(lib)
+    if attr_line:
+        lines.append(attr_line)
+    lines += [
+        f"**{unit_label} catalogued:** {len(entries)}",
         "",
-        "Entries are alphabetical by title. Use the video ID to trace any claim in the "
-        "other files back to its source.",
+        f"Entries are alphabetical by title. Use the {id_label[0].lower() + id_label[1:]} to "
+        "trace any claim in the other files back to its source.",
         "",
         "---",
         "",
     ]
 
     for i, e in enumerate(entries, 1):
-        lines += [
-            f"## {i}. {e['title']}",
-            "",
-            f"- **Video ID:** `{e['id']}`",
-            f"- **URL:** {e['url']}",
-            f"- **Upload date:** {e['upload_date']}",
-            f"- **Duration:** {e['duration']}",
-            f"- **Source file:** `{e['source_file']}`",
-            f"- **Main subjects:** {bullets(e['subjects'])}",
-            f"- **Body systems:** {bullets(e['systems'])}",
-            f"- **Recommended practices:** {bullets(e['practices'])}",
-            f"- **Important concepts:** {bullets(e['concepts'])}",
-            "",
-        ]
+        lines += [f"## {i}. {e['title']}", "", f"- **{id_label}:** `{e['id']}`"]
+        if e.get("url"):
+            lines.append(f"- **URL:** {e['url']}")
+        if e.get("author"):
+            lines.append(f"- **Author:** {e['author']}")
+        if e.get("upload_date"):
+            lines.append(f"- **Upload date:** {e['upload_date']}")
+        if e.get("duration"):
+            lines.append(f"- **Duration:** {e['duration']}")
+        lines.append(f"- **Source file:** `{e['source_file']}`")
+        for f in fields:
+            lines.append(f"- **{facet_labels.get(f, f.capitalize())}:** {bullets(e[f])}")
+        lines.append("")
 
-    # Reverse index: system -> videos, so the GPT can find sources by system.
-    lines += ["---", "", "## Index by body system", ""]
+    # Reverse index: systems (or the library's second facet) -> sources.
+    index_facet = "systems" if "systems" in fields else (fields[1] if len(fields) > 1 else fields[0])
+    index_label = facet_labels.get(index_facet, index_facet).lower()
+    lines += ["---", "", f"## Index by {index_label}", ""]
     index = {}
     for e in entries:
-        for s in e["systems"]:
+        for s in e[index_facet]:
             index.setdefault(s.strip().lower(), []).append(e)
-    for system in sorted(index):
-        titles = ", ".join(f"{v['title']} (`{v['id']}`)" for v in index[system])
-        lines += [f"**{system}** — {titles}", ""]
+    for key in sorted(index):
+        titles = ", ".join(f"{v['title']} (`{v['id']}`)" for v in index[key])
+        lines += [f"**{key}** — {titles}", ""]
 
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text("\n".join(lines), encoding="utf-8")
-    print(f"Wrote {OUT} — {len(entries)} entries, {len(index)} systems indexed.")
+    out = lib.knowledge / lib.catalog_file
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text("\n".join(lines), encoding="utf-8")
+    print(f"Wrote {out} — {len(entries)} entries, {len(index)} {index_label} indexed.")
 
 
 if __name__ == "__main__":

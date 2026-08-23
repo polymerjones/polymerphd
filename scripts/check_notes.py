@@ -1,19 +1,22 @@
 #!/usr/bin/env python3
-"""Validate notes against the schema and the corpus's provenance rules.
+"""Validate a library's notes against its schema and provenance rules.
 
 The build scripts already refuse to write on a malformed note. This runs the
 same class of checks earlier and adds the one that matters most to this
-project: every [mm:ss] anchor must actually exist in the transcript it claims
-to cite. A plausible-looking timestamp that no transcript contains is a
+project: every anchor (a video timestamp, a PDF page, a paragraph number —
+whatever kind the cited source uses) must actually exist in that source's own
+cleaned text. A plausible-looking anchor that no source contains is a
 fabricated citation, which is the one failure the package cannot absorb.
 
 Checks, per note:
-  - the six universal sections are present
-  - the four frontmatter facets are present
-  - every declared system is in the controlled vocabulary
-  - no timestamp runs past the end of its video
-  - every timestamp appears verbatim in source_transcripts/clean/<id>.txt
-  - every cross-referenced video id has a note, or was deliberately deferred
+  - the library's universal sections are present
+  - the library's frontmatter facets are present
+  - every declared controlled-vocabulary value (e.g. systems) is on-list
+  - every anchor (bare, or `source-id`[anchor] scoped to a different source)
+    resolves to a real source, matches that source's own anchor kind, does
+    not run past that source's bound, and appears verbatim in its clean text
+  - every cross-referenced id has a note, is a known (not-yet-written) source
+    in the manifest, or was deliberately deferred
 
 There is also an advisory pass, --terms, which reports glossary terms whose
 wording does not appear in the transcript that introduced them. It is advisory
@@ -23,27 +26,16 @@ note's "otoconia" is transcribed "odonia"), so a flag means "read this", not
 which is the thing worth catching.
 
 Usage:
-  python3 scripts/check_notes.py              # all notes
-  python3 scripts/check_notes.py KTwE1rj8-Ek  # one or more ids
-  python3 scripts/check_notes.py --terms      # advisory terminology review
+  python3 scripts/check_notes.py <slug>              # all notes in that library
+  python3 scripts/check_notes.py <slug> KTwE1rj8-Ek  # one or more ids
+  python3 scripts/check_notes.py <slug> --terms       # advisory terminology review
 """
-import json
 import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-
-UNIVERSAL = [
-    "Central claim",
-    "Symptoms and body signals addressed",
-    "Glossary terms introduced",
-    "Analogies worth reusing",
-    "Source-stated confidence",
-    "Conflicts with other sources",
-]
-FACETS = ["subjects", "systems", "practices", "concepts"]
-
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from lib_common import require_slug, find_anchor_citations, BACKTICK_ID_RE  # noqa: E402
 
 STOPWORDS = {"the", "and", "of", "a", "an", "as", "in", "to", "for", "its", "that",
              "own", "one", "with", "or", "at", "by", "from", "into", "on", "is", "it"}
@@ -67,11 +59,11 @@ def term_roots(word):
     return roots
 
 
-def review_terms(paths):
-    """Advisory: glossary terms whose wording is absent from their transcript."""
+def review_terms(lib, paths):
+    """Advisory: glossary terms whose wording is absent from their source text."""
     flagged = checked = 0
     for path in paths:
-        transcript = ROOT / "source_transcripts" / "clean" / f"{path.stem}.txt"
+        transcript = lib.clean_dir / f"{path.stem}.txt"
         if not path.exists() or not transcript.exists():
             continue
         body = anglicise(transcript.read_text(encoding="utf-8"))
@@ -88,98 +80,99 @@ def review_terms(paths):
             if not any(any(r in body for r in term_roots(w)) for w in words):
                 flagged += 1
                 print(f"  {path.stem}  {m.group(1)}")
-    print(f"\n{checked} glossary terms reviewed, {flagged} not found in their transcript.")
+    print(f"\n{checked} glossary terms reviewed, {flagged} not found in their source text.")
     print("Most are auto-caption garbling. Any that are not are terminology "
           "imported from outside the source.")
     return 0
 
 
-def load_systems():
-    """Controlled vocabulary, taken from the built dataset when available."""
-    data = ROOT / "app" / "data.json"
-    if data.exists():
-        return set(json.loads(data.read_text(encoding="utf-8"))["vocab"]["systems"])
-    # Fall back to whatever the notes themselves already agree on.
-    seen = set()
-    for note in (ROOT / "notes").glob("*.md"):
-        fm = note.read_text(encoding="utf-8").split("---")[1]
-        if "systems:" in fm:
-            block = fm.split("systems:")[1].split("practices:")[0]
-            seen.update(re.findall(r"^  - (.+)$", block, re.M))
-    return seen
-
-
-def check(path, manifest, note_ids, systems, deferred):
+def check(path, lib, note_ids, sources, deferred):
     vid = path.stem
     text = path.read_text(encoding="utf-8")
     problems = []
 
     headings = [l[3:].strip() for l in text.splitlines() if l.startswith("## ")]
-    for section in UNIVERSAL:
+    for section in lib.universal_sections:
         if section not in headings:
             problems.append(f"missing section: {section}")
 
     parts = text.split("---")
     fm = parts[1] if len(parts) > 2 else ""
-    for facet in FACETS:
+    for facet in lib.facets:
         if f"{facet}:" not in fm:
             problems.append(f"missing frontmatter facet: {facet}")
 
-    if "systems:" in fm and "practices:" in fm:
-        block = fm.split("systems:")[1].split("practices:")[0]
-        for s in re.findall(r"^  - (.+)$", block, re.M):
-            if s not in systems:
-                problems.append(f"system off-vocabulary: {s}")
+    for facet, allowed in lib.controlled_facets.items():
+        if f"{facet}:" not in fm:
+            continue
+        block = fm.split(f"{facet}:", 1)[1]
+        next_key = re.search(r"\n[A-Za-z_]+:", block)
+        if next_key:
+            block = block[: next_key.start()]
+        for v in re.findall(r"^  - (.+)$", block, re.M):
+            if v not in allowed:
+                problems.append(f"{facet} off-vocabulary: {v}")
 
-    stamps = set(re.findall(r"\[(\d{2}):(\d{2})\]", text))
-
-    entry = manifest.get(vid)
-    if entry is None:
+    if vid not in sources:
         problems.append("id not present in manifest.json")
-    else:
-        limit = entry.get("duration_seconds") or 0
-        for m, s in sorted(stamps):
-            if int(m) * 60 + int(s) > limit:
-                problems.append(f"timestamp past end of video: [{m}:{s}] (video is {entry['duration']})")
 
-    transcript = ROOT / "source_transcripts" / "clean" / f"{vid}.txt"
-    if not transcript.exists():
-        problems.append("no cleaned transcript on disk")
-    else:
-        body = transcript.read_text(encoding="utf-8")
-        for m, s in sorted(stamps):
-            if f"[{m}:{s}]" not in body:
-                problems.append(f"timestamp not in transcript: [{m}:{s}]")
+    missing_body_reported = set()
+    for source_id, kind, value, literal in find_anchor_citations(text, vid):
+        entry = sources.get(source_id)
+        if entry is None:
+            problems.append(f"anchor cites unknown source `{source_id}`: {literal}")
+            continue
 
-    for ref in sorted(set(re.findall(r"`([A-Za-z0-9_-]{11})`", text)) - {vid}):
-        # A deferred video is a legitimate reference: it was fetched and read,
-        # then set aside as physics-framed rather than written up.
-        if ref not in note_ids and ref not in deferred:
-            problems.append(f"cross-reference has no note: {ref}")
+        anchor_cfg = entry.get("anchor", {})
+        expected_kind = anchor_cfg.get("kind")
+        if expected_kind and expected_kind != kind:
+            problems.append(
+                f"anchor kind mismatch for `{source_id}`: {literal} looks like "
+                f"{kind}, but that source is anchored by {expected_kind}"
+            )
+            continue
+
+        bound = anchor_cfg.get("bound")
+        if bound is not None and value > bound:
+            problems.append(f"anchor past end of source `{source_id}`: {literal} (bound is {bound})")
+
+        clean_file = entry.get("clean_file")
+        body = None
+        if clean_file:
+            clean_path = lib.sources_dir / clean_file
+            if clean_path.exists():
+                body = clean_path.read_text(encoding="utf-8")
+        if body is None:
+            if source_id not in missing_body_reported:
+                problems.append(f"no cleaned source text on disk for `{source_id}`")
+                missing_body_reported.add(source_id)
+        elif literal not in body:
+            problems.append(f"anchor not in source text for `{source_id}`: {literal}")
+
+    for ref in sorted(set(BACKTICK_ID_RE.findall(text)) - {vid}):
+        if ref not in note_ids and ref not in deferred and ref not in sources:
+            problems.append(f"cross-reference has no note and is not a known source: {ref}")
 
     return problems
 
 
 def main():
-    manifest = {v["id"]: v for v in
-                json.loads((ROOT / "source_transcripts" / "manifest.json")
-                           .read_text(encoding="utf-8"))["videos"]}
-    note_ids = {p.stem for p in (ROOT / "notes").glob("*.md")}
-    systems = load_systems()
+    lib, rest = require_slug(
+        sys.argv[1:],
+        "Usage: python3 scripts/check_notes.py <slug> [id...] [--terms]",
+    )
 
-    deferred_file = ROOT / "scripts" / "deferred_videos.txt"
-    deferred = set(re.findall(r"[A-Za-z0-9_-]{11}",
-                              deferred_file.read_text(encoding="utf-8"))) \
-        if deferred_file.exists() else set()
+    sources = lib.sources_by_id()
+    note_ids = {p.stem for p in lib.notes.glob("*.md")}
+    deferred = lib.deferred_ids()
 
-    args = sys.argv[1:]
-    terms_only = "--terms" in args
-    wanted = [a for a in args if not a.startswith("--")]
-    paths = ([ROOT / "notes" / f"{v}.md" for v in wanted] if wanted
-             else sorted((ROOT / "notes").glob("*.md")))
+    terms_only = "--terms" in rest
+    wanted = [a for a in rest if not a.startswith("--")]
+    paths = ([lib.notes / f"{v}.md" for v in wanted] if wanted
+             else sorted(lib.notes.glob("*.md")))
 
     if terms_only:
-        return review_terms(paths)
+        return review_terms(lib, paths)
 
     failed = 0
     for path in paths:
@@ -187,7 +180,7 @@ def main():
             print(f"FAIL {path.stem}\n  - no such note")
             failed += 1
             continue
-        problems = check(path, manifest, note_ids, systems, deferred)
+        problems = check(path, lib, note_ids, sources, deferred)
         if problems:
             failed += 1
             print(f"FAIL {path.stem}")

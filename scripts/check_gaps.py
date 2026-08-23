@@ -7,15 +7,19 @@ either side of such a gap can read as one continuous (but garbled) sentence, so
 gaps must be found from the timestamps rather than the prose. Anything reported
 here is missing from the source and must never be filled in by inference.
 
-Writes source_transcripts/caption_gaps.json and prints a summary.
+Writes libraries/restorative-physiology/sources/caption_gaps.json and prints a summary.
+
+One-time triage tool, scoped to the restorative-physiology library specifically
+(it predates the multi-library layout and isn't part of the per-library pipeline).
 """
 
 import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-RAW = ROOT / "source_transcripts" / "raw"
-OUT = ROOT / "source_transcripts" / "caption_gaps.json"
+LIB = ROOT / "libraries" / "restorative-physiology"
+RAW = LIB / "sources" / "raw"
+OUT = LIB / "sources" / "caption_gaps.json"
 
 GAP_THRESHOLD_SEC = 45
 
@@ -33,10 +37,10 @@ def caption_path(vid):
 
 
 def main():
-    manifest = json.loads((ROOT / "source_transcripts" / "manifest.json").read_text())
+    manifest = json.loads((LIB / "sources" / "manifest.json").read_text())
     report = {}
 
-    for v in manifest["videos"]:
+    for v in manifest["sources"]:
         vid = v["id"]
         cap = caption_path(vid)
         if cap is None:

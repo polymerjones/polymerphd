@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-NOTES = ROOT / "notes"
+NOTES = ROOT / "libraries" / "restorative-physiology" / "notes"
 
 PATTERN = re.compile(sys.argv[1], re.I)
 OUT = Path(sys.argv[2])

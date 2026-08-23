@@ -4,15 +4,22 @@
 # Safe to re-run: --no-overwrites skips anything already fetched.
 #
 # Usage:
-#   bash scripts/fetch_transcripts.sh                        # the original slate
-#   bash scripts/fetch_transcripts.sh scripts/video_ids_added.txt
+#   bash scripts/fetch_transcripts.sh <slug>                                # the original slate
+#   bash scripts/fetch_transcripts.sh <slug> libraries/<slug>/ingest_state/video_ids_added.txt
 #
-# add_videos.py writes video_ids_added.txt, so pass that after adding links.
+# add_videos.py writes ingest_state/video_ids_added.txt, so pass that after adding links.
 set -uo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-RAW="$ROOT/source_transcripts/raw"
-BATCH="${1:-$ROOT/scripts/video_ids.txt}"
+SLUG="${1:?Usage: bash scripts/fetch_transcripts.sh <slug> [batch-file]}"
+LIB="$ROOT/libraries/$SLUG"
+RAW="$LIB/sources/raw"
+BATCH="${2:-$LIB/ingest_state/video_ids.txt}"
+
+if [ ! -d "$LIB" ]; then
+  echo "No such library: $SLUG (expected $LIB)" >&2
+  exit 1
+fi
 
 if [ ! -f "$BATCH" ]; then
   echo "No batch file at: $BATCH" >&2

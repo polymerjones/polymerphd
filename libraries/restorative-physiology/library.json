@@ -1,0 +1,72 @@
+{
+  "slug": "restorative-physiology",
+  "title": "Restorative Physiology",
+  "subtitle": "The Feynman Way",
+  "lede": "A reference to {videos} sources on restorative physiology.",
+  "about_paragraphs": [
+    "A reference built from {videos} videos on human physiology, restorative practice and the biology of ageing — synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a source at a specific second. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["subjects", "systems", "practices", "concepts"],
+  "controlled_facets": {
+    "systems": [
+      "brain and sensory systems",
+      "cardiovascular",
+      "digestive and metabolic",
+      "endocrine and hormonal",
+      "immune and lymphatic",
+      "musculoskeletal and connective tissue",
+      "nervous system",
+      "respiratory",
+      "sleep and circadian",
+      "urinary and renal"
+    ]
+  },
+  "universal_sections": [
+    "Central claim",
+    "Symptoms and body signals addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+  "role_sections": {
+    "safety": [
+      "Safety framing stated in the source",
+      "Safety — stated by the video",
+      "Medical framing stated in the source"
+    ],
+    "practice": ["Practices", "The practice", "The protocol", "Practices summary"]
+  },
+
+  "glossary_file": "07_PLAIN_ENGLISH_GLOSSARY.md",
+  "curated_facts_file": "05_SYMPTOMS_AND_BODY_SIGNALS.md",
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "subjects": "Main subjects",
+    "systems": "Body systems",
+    "practices": "Recommended practices",
+    "concepts": "Important concepts"
+  },
+  "catalog_description": "Every transcript ingested into this knowledge package, with the subjects, body systems, practices, and concepts each one covers.",
+  "catalog_unit_label": "Videos",
+  "catalog_id_label": "Video ID",
+
+  "attribution": {
+    "style": "youtube_channel",
+    "name": "The Feynman Way",
+    "url": "https://www.youtube.com/@The_Feynman_Way"
+  },
+
+  "custom_gpt": {
+    "enabled": true,
+    "instructions_file": "PASTE_INTO_GPT_INSTRUCTIONS.txt",
+    "file_limit": 20
+  },
+
+  "derived_practice_facets": true
+}

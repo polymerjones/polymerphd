@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Rebuild every output from the notes, then push so the shared link updates.
+# Rebuild every output from every library's notes, then push so the shared link updates.
 #
 # Usage:
 #   bash scripts/publish.sh                 # rebuild, show what changed, don't push
@@ -7,6 +7,9 @@
 #
 # Run after writing or editing any note. The build scripts refuse to write if a
 # note is malformed, so a bad note fails here rather than shipping.
+#
+# Phase 1 note: app/index.html is still one library's app, inlined directly
+# (build_app_data.py <slug>). The picker across multiple libraries is Phase 2.
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
@@ -15,12 +18,30 @@ cd "$ROOT"
 PUSH=0
 [ "${1:-}" = "--push" ] && PUSH=1
 
-echo "── 1/3  source catalog ─────────────────────────────────"
-python3 scripts/build_catalog.py
+LIBRARIES=("$ROOT"/libraries/*/library.json)
+if [ ! -e "${LIBRARIES[0]}" ]; then
+  echo "No libraries found under $ROOT/libraries/*/library.json" >&2
+  exit 1
+fi
+
+echo "── 1/3  source catalogs ────────────────────────────────"
+for cfg in "${LIBRARIES[@]}"; do
+  slug="$(basename "$(dirname "$cfg")")"
+  python3 scripts/build_catalog.py "$slug"
+done
 
 echo
 echo "── 2/3  offline web app ────────────────────────────────"
-python3 scripts/build_app_data.py | tail -8
+if [ "${#LIBRARIES[@]}" -gt 1 ]; then
+  echo "More than one library found — app/index.html still only builds a single" >&2
+  echo "library's app (the picker is Phase 2). Pass a slug explicitly:" >&2
+  for cfg in "${LIBRARIES[@]}"; do
+    echo "  python3 scripts/build_app_data.py $(basename "$(dirname "$cfg")")" >&2
+  done
+  exit 1
+fi
+SLUG="$(basename "$(dirname "${LIBRARIES[0]}")")"
+python3 scripts/build_app_data.py "$SLUG" | tail -8
 
 echo
 echo "── 3/3  iOS project ────────────────────────────────────"
@@ -36,7 +57,7 @@ if [ "$PUSH" -eq 1 ]; then
     echo "Nothing to publish — no files changed."
     exit 0
   fi
-  NEW=$(git status --porcelain notes/ | grep -c '^??' || true)
+  NEW=$(git status --porcelain libraries/*/notes/ | grep -c '^??' || true)
   echo
   echo "── publishing ──────────────────────────────────────────"
   git add -A

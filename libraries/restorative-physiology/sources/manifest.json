@@ -1,2047 +1,3863 @@
 {
-  "videos": [
+  "sources": [
     {
       "id": "m4p36gcifP4",
+      "kind": "youtube",
       "title": "5 Brain Systems Activate at Once — No Other Exercise Comes Close",
       "url": "https://www.youtube.com/watch?v=m4p36gcifP4",
       "upload_date": "2026-04-17",
       "duration_seconds": 1729,
       "duration": "28:49",
-      "word_count": 4414
+      "word_count": 4414,
+      "clean_file": "clean/m4p36gcifP4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1729
+      }
     },
     {
       "id": "_POo-RCC_2Y",
+      "kind": "youtube",
       "title": "5 Things Happening Inside YOUR Body With Every Step",
       "url": "https://www.youtube.com/watch?v=_POo-RCC_2Y",
       "upload_date": "2026-04-29",
       "duration_seconds": 1661,
       "duration": "27:41",
-      "word_count": 4137
+      "word_count": 4137,
+      "clean_file": "clean/_POo-RCC_2Y.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1661
+      }
     },
     {
       "id": "IuOaImg5zUc",
+      "kind": "youtube",
       "title": "7 Habits of the Worlds LONGEST Living People What They Do Every Day",
       "url": "https://www.youtube.com/watch?v=IuOaImg5zUc",
       "upload_date": "2026-07-10",
       "duration_seconds": 1716,
       "duration": "28:36",
-      "word_count": 4219
+      "word_count": 4219,
+      "clean_file": "clean/IuOaImg5zUc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1716
+      }
     },
     {
       "id": "okdXWBde4iw",
+      "kind": "youtube",
       "title": "A Warm Cup In Your Hands Changes How You Judge People",
       "url": "https://www.youtube.com/watch?v=okdXWBde4iw",
       "upload_date": "2026-04-03",
       "duration_seconds": 1741,
       "duration": "29:01",
-      "word_count": 4380
+      "word_count": 4380,
+      "clean_file": "clean/okdXWBde4iw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1741
+      }
     },
     {
       "id": "sBNDNOU1VH8",
+      "kind": "youtube",
       "title": "Can Love Be Explained? — The Science Nobody Talks About",
       "url": "https://www.youtube.com/watch?v=sBNDNOU1VH8",
       "upload_date": "2026-03-15",
       "duration_seconds": 1681,
       "duration": "28:01",
-      "word_count": 4106
+      "word_count": 4106,
+      "clean_file": "clean/sBNDNOU1VH8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1681
+      }
     },
     {
       "id": "LKAxXiiY7Kg",
+      "kind": "youtube",
       "title": "Can Suppressing Tears Actually Harm You?",
       "url": "https://www.youtube.com/watch?v=LKAxXiiY7Kg",
       "upload_date": "2026-04-09",
       "duration_seconds": 1895,
       "duration": "31:35",
-      "word_count": 4338
+      "word_count": 4338,
+      "clean_file": "clean/LKAxXiiY7Kg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1895
+      }
     },
     {
       "id": "ySrXSv0HpgA",
+      "kind": "youtube",
       "title": "Can You Actually Change Someone's Mind With Facts?",
       "url": "https://www.youtube.com/watch?v=ySrXSv0HpgA",
       "upload_date": "2026-03-20",
       "duration_seconds": 1850,
       "duration": "30:50",
-      "word_count": 4522
+      "word_count": 4522,
+      "clean_file": "clean/ySrXSv0HpgA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1850
+      }
     },
     {
       "id": "WGcUzYlIvxM",
+      "kind": "youtube",
       "title": "Can You Live FOREVER? Physics Has an ANSWER",
       "url": "https://www.youtube.com/watch?v=WGcUzYlIvxM",
       "upload_date": "2026-02-23",
       "duration_seconds": 2013,
       "duration": "33:33",
-      "word_count": 4874
+      "word_count": 4874,
+      "clean_file": "clean/WGcUzYlIvxM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2013
+      }
     },
     {
       "id": "rRStxBEUE1A",
+      "kind": "youtube",
       "title": "Doing Nothing Is the Most EXHAUSTING Thing Your Body Does",
       "url": "https://www.youtube.com/watch?v=rRStxBEUE1A",
       "upload_date": "2026-03-16",
       "duration_seconds": 1681,
       "duration": "28:01",
-      "word_count": 4356
+      "word_count": 4356,
+      "clean_file": "clean/rRStxBEUE1A.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1681
+      }
     },
     {
       "id": "E-7nvQbmmgc",
+      "kind": "youtube",
       "title": "For 300,000 Years Every Human Did This — Then We Stopped",
       "url": "https://www.youtube.com/watch?v=E-7nvQbmmgc",
       "upload_date": "2026-03-25",
       "duration_seconds": 1896,
       "duration": "31:36",
-      "word_count": 4599
+      "word_count": 4599,
+      "clean_file": "clean/E-7nvQbmmgc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1896
+      }
     },
     {
       "id": "1JqxzJ6xGN0",
+      "kind": "youtube",
       "title": "For Every Second You Lie YOUR Body Broadcasts the Truth",
       "url": "https://www.youtube.com/watch?v=1JqxzJ6xGN0",
       "upload_date": "2026-07-27",
       "duration_seconds": 1673,
       "duration": "27:53",
-      "word_count": 4220
+      "word_count": 4220,
+      "clean_file": "clean/1JqxzJ6xGN0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1673
+      }
     },
     {
       "id": "frP79hCSSyw",
+      "kind": "youtube",
       "title": "How an Emotion Reshapes Your Heart in Seconds",
       "url": "https://www.youtube.com/watch?v=frP79hCSSyw",
       "upload_date": "2026-03-30",
       "duration_seconds": 1901,
       "duration": "31:41",
-      "word_count": 4440
+      "word_count": 4440,
+      "clean_file": "clean/frP79hCSSyw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1901
+      }
     },
     {
       "id": "rUbioJP1KCM",
+      "kind": "youtube",
       "title": "If You Have Type O Blood — Here's What YOUR Cells Never Built",
       "url": "https://www.youtube.com/watch?v=rUbioJP1KCM",
       "upload_date": "2026-08-04",
       "duration_seconds": 1649,
       "duration": "27:29",
-      "word_count": 4211
+      "word_count": 4211,
+      "clean_file": "clean/rUbioJP1KCM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1649
+      }
     },
     {
       "id": "Wp02siBKjD0",
+      "kind": "youtube",
       "title": "If You Wake Up With a DRY MOUTH Your Body Is Warning You",
       "url": "https://www.youtube.com/watch?v=Wp02siBKjD0",
       "upload_date": "2026-06-19",
       "duration_seconds": 1666,
       "duration": "27:46",
-      "word_count": 4343
+      "word_count": 4343,
+      "clean_file": "clean/Wp02siBKjD0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1666
+      }
     },
     {
       "id": "r5XfC82DhKU",
+      "kind": "youtube",
       "title": "If You're OVER 50 This Matters Most",
       "url": "https://www.youtube.com/watch?v=r5XfC82DhKU",
       "upload_date": "2026-06-13",
       "duration_seconds": 1656,
       "duration": "27:36",
-      "word_count": 4313
+      "word_count": 4313,
+      "clean_file": "clean/r5XfC82DhKU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1656
+      }
     },
     {
       "id": "nFA2-ICtphg",
+      "kind": "youtube",
       "title": "Only 2% of People Know This About Eating",
       "url": "https://www.youtube.com/watch?v=nFA2-ICtphg",
       "upload_date": "2026-07-13",
       "duration_seconds": 1575,
       "duration": "26:15",
-      "word_count": 4120
+      "word_count": 4120,
+      "clean_file": "clean/nFA2-ICtphg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1575
+      }
     },
     {
       "id": "MClMvcFgidw",
+      "kind": "youtube",
       "title": "Over 60? Do THESE 5 Exercises To Strengthen YOUR Legs",
       "url": "https://www.youtube.com/watch?v=MClMvcFgidw",
       "upload_date": "2026-06-06",
       "duration_seconds": 1709,
       "duration": "28:29",
-      "word_count": 4287
+      "word_count": 4287,
+      "clean_file": "clean/MClMvcFgidw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1709
+      }
     },
     {
       "id": "3Ky1YtmNFZM",
+      "kind": "youtube",
       "title": "Rain Does Something to Your Brain That No Sleep Aid Can",
       "url": "https://www.youtube.com/watch?v=3Ky1YtmNFZM",
       "upload_date": "2026-04-06",
       "duration_seconds": 1857,
       "duration": "30:57",
-      "word_count": 4425
+      "word_count": 4425,
+      "clean_file": "clean/3Ky1YtmNFZM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1857
+      }
     },
     {
       "id": "KyOB22-Byvs",
+      "kind": "youtube",
       "title": "Sigh 3 Times — What Just Happened Was Not Frustration",
       "url": "https://www.youtube.com/watch?v=KyOB22-Byvs",
       "upload_date": "2026-04-10",
       "duration_seconds": 1821,
       "duration": "30:21",
-      "word_count": 4320
+      "word_count": 4320,
+      "clean_file": "clean/KyOB22-Byvs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1821
+      }
     },
     {
       "id": "W00gPRmrtog",
+      "kind": "youtube",
       "title": "The 1 Move That FIXES YOUR Leg Circulation",
       "url": "https://www.youtube.com/watch?v=W00gPRmrtog",
       "upload_date": "2026-05-30",
       "duration_seconds": 1601,
       "duration": "26:41",
-      "word_count": 4182
+      "word_count": 4182,
+      "clean_file": "clean/W00gPRmrtog.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1601
+      }
     },
     {
       "id": "wXM6jLEeQzY",
+      "kind": "youtube",
       "title": "The 10-Second Squeeze That Goes Deeper Than Meditation",
       "url": "https://www.youtube.com/watch?v=wXM6jLEeQzY",
       "upload_date": "2026-04-17",
       "duration_seconds": 1700,
       "duration": "28:20",
-      "word_count": 4346
+      "word_count": 4346,
+      "clean_file": "clean/wXM6jLEeQzY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1700
+      }
     },
     {
       "id": "vcLlMM7pmhM",
+      "kind": "youtube",
       "title": "The 2-Minute Protocol That REVERSES What 50 Years of Footwear Did",
       "url": "https://www.youtube.com/watch?v=vcLlMM7pmhM",
       "upload_date": "2026-04-25",
       "duration_seconds": 1736,
       "duration": "28:56",
-      "word_count": 4212
+      "word_count": 4212,
+      "clean_file": "clean/vcLlMM7pmhM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1736
+      }
     },
     {
       "id": "C3VQYvIo0Mo",
+      "kind": "youtube",
       "title": "The 3 Fall Directions YOUR Body Has Never Rehearsed",
       "url": "https://www.youtube.com/watch?v=C3VQYvIo0Mo",
       "upload_date": "2026-06-07",
       "duration_seconds": 1699,
       "duration": "28:19",
-      "word_count": 4371
+      "word_count": 4371,
+      "clean_file": "clean/C3VQYvIo0Mo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1699
+      }
     },
     {
       "id": "PQ3lOdnt7HQ",
+      "kind": "youtube",
       "title": "The 30 Second Wall Push That Loads Every Bone Walking Leaves Behind",
       "url": "https://www.youtube.com/watch?v=PQ3lOdnt7HQ",
       "upload_date": "2026-06-09",
       "duration_seconds": 1644,
       "duration": "27:24",
-      "word_count": 4198
+      "word_count": 4198,
+      "clean_file": "clean/PQ3lOdnt7HQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1644
+      }
     },
     {
       "id": "JGqF054OFx4",
+      "kind": "youtube",
       "title": "The 30-Second Bone-Building Exercise That Requires Nothing But Your Heels",
       "url": "https://www.youtube.com/watch?v=JGqF054OFx4",
       "upload_date": "2026-04-12",
       "duration_seconds": 1964,
       "duration": "32:44",
-      "word_count": 4605
+      "word_count": 4605,
+      "clean_file": "clean/JGqF054OFx4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1964
+      }
     },
     {
       "id": "GZui4zfvxjA",
+      "kind": "youtube",
       "title": "The 30-Second Habit That Fights What YOUR Immune System Can No Longer Stop",
       "url": "https://www.youtube.com/watch?v=GZui4zfvxjA",
       "upload_date": "2026-05-31",
       "duration_seconds": 1712,
       "duration": "28:32",
-      "word_count": 4333
+      "word_count": 4333,
+      "clean_file": "clean/GZui4zfvxjA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1712
+      }
     },
     {
       "id": "Lo7euCwbYcw",
+      "kind": "youtube",
       "title": "The 5 Systems That FAILED — Not YOUR Diet",
       "url": "https://www.youtube.com/watch?v=Lo7euCwbYcw",
       "upload_date": "2026-06-23",
       "duration_seconds": 1637,
       "duration": "27:17",
-      "word_count": 4330
+      "word_count": 4330,
+      "clean_file": "clean/Lo7euCwbYcw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1637
+      }
     },
     {
       "id": "1mANxKIPcK8",
+      "kind": "youtube",
       "title": "The 60-Second Morning Ritual That Activates 3 Organs at Once",
       "url": "https://www.youtube.com/watch?v=1mANxKIPcK8",
       "upload_date": "2026-06-10",
       "duration_seconds": 1773,
       "duration": "29:33",
-      "word_count": 4328
+      "word_count": 4328,
+      "clean_file": "clean/1mANxKIPcK8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1773
+      }
     },
     {
       "id": "z0b94Hpdklo",
+      "kind": "youtube",
       "title": "The 60-Second Squeeze That Silences YOUR Legs Before Sleep",
       "url": "https://www.youtube.com/watch?v=z0b94Hpdklo",
       "upload_date": "2026-04-25",
       "duration_seconds": 1677,
       "duration": "27:57",
-      "word_count": 4284
+      "word_count": 4284,
+      "clean_file": "clean/z0b94Hpdklo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1677
+      }
     },
     {
       "id": "yTMS_inQRCM",
+      "kind": "youtube",
       "title": "The 70-Year Mistake That Changed How YOU Treat the Sun",
       "url": "https://www.youtube.com/watch?v=yTMS_inQRCM",
       "upload_date": "2026-04-23",
       "duration_seconds": 1717,
       "duration": "28:37",
-      "word_count": 4355
+      "word_count": 4355,
+      "clean_file": "clean/yTMS_inQRCM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1717
+      }
     },
     {
       "id": "S_H09_FLeg4",
+      "kind": "youtube",
       "title": "The Cells She Left Behind — And Why They Never Left",
       "url": "https://www.youtube.com/watch?v=S_H09_FLeg4",
       "upload_date": "2026-04-06",
       "duration_seconds": 1830,
       "duration": "30:30",
-      "word_count": 4405
+      "word_count": 4405,
+      "clean_file": "clean/S_H09_FLeg4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1830
+      }
     },
     {
       "id": "4Rl1gvTNaDI",
+      "kind": "youtube",
       "title": "The Cleaning Wave YOUR Gut Runs Only When You Stop Eating",
       "url": "https://www.youtube.com/watch?v=4Rl1gvTNaDI",
       "upload_date": "2026-07-05",
       "duration_seconds": 1598,
       "duration": "26:38",
-      "word_count": 4210
+      "word_count": 4210,
+      "clean_file": "clean/4Rl1gvTNaDI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1598
+      }
     },
     {
       "id": "44EDJkTWP3o",
+      "kind": "youtube",
       "title": "The Direction YOUR Body Abandoned — And Why Your Hip Is Paying for It",
       "url": "https://www.youtube.com/watch?v=44EDJkTWP3o",
       "upload_date": "2026-05-26",
       "duration_seconds": 1568,
       "duration": "26:08",
-      "word_count": 4130
+      "word_count": 4130,
+      "clean_file": "clean/44EDJkTWP3o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1568
+      }
     },
     {
       "id": "12kGPUoN0BA",
+      "kind": "youtube",
       "title": "The Exercise That Pumps EVERY Lymph Vessel at Once",
       "url": "https://www.youtube.com/watch?v=12kGPUoN0BA",
       "upload_date": "2026-05-12",
       "duration_seconds": 1630,
       "duration": "27:10",
-      "word_count": 3971
+      "word_count": 3971,
+      "clean_file": "clean/12kGPUoN0BA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1630
+      }
     },
     {
       "id": "lx5gTHaPMLk",
+      "kind": "youtube",
       "title": "The First Thing Your STOMACH Should Receive Every Morning",
       "url": "https://www.youtube.com/watch?v=lx5gTHaPMLk",
       "upload_date": "2026-05-27",
       "duration_seconds": 1602,
       "duration": "26:42",
-      "word_count": 4127
+      "word_count": 4127,
+      "clean_file": "clean/lx5gTHaPMLk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1602
+      }
     },
     {
       "id": "Wes7ZGxQ8SY",
+      "kind": "youtube",
       "title": "The Fitness Advice That's Been Slowly Suffocating YOUR Diaphragm",
       "url": "https://www.youtube.com/watch?v=Wes7ZGxQ8SY",
       "upload_date": "2026-06-04",
       "duration_seconds": 1653,
       "duration": "27:33",
-      "word_count": 4343
+      "word_count": 4343,
+      "clean_file": "clean/Wes7ZGxQ8SY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1653
+      }
     },
     {
       "id": "axWLB9fmQic",
+      "kind": "youtube",
       "title": "The Gas That Keeps YOU Alive — And Why You're Making LESS",
       "url": "https://www.youtube.com/watch?v=axWLB9fmQic",
       "upload_date": "2026-06-16",
       "duration_seconds": 1782,
       "duration": "29:42",
-      "word_count": 4317
+      "word_count": 4317,
+      "clean_file": "clean/axWLB9fmQic.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1782
+      }
     },
     {
       "id": "E68D3GzYIgQ",
+      "kind": "youtube",
       "title": "The Hidden Switch Behind YOUR Hot Flashes and Night Sweats",
       "url": "https://www.youtube.com/watch?v=E68D3GzYIgQ",
       "upload_date": "2026-08-14",
       "duration_seconds": 1430,
       "duration": "23:50",
-      "word_count": 4339
+      "word_count": 4339,
+      "clean_file": "clean/E68D3GzYIgQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1430
+      }
     },
     {
       "id": "xqmvpVaCPbA",
+      "kind": "youtube",
       "title": "The Hormone Decline That DOUBLED YOUR Overnight Urine Production",
       "url": "https://www.youtube.com/watch?v=xqmvpVaCPbA",
       "upload_date": "2026-07-22",
       "duration_seconds": 1636,
       "duration": "27:16",
-      "word_count": 4165
+      "word_count": 4165,
+      "clean_file": "clean/xqmvpVaCPbA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1636
+      }
     },
     {
       "id": "XmpDZRse3KA",
+      "kind": "youtube",
       "title": "The Hour-by-Hour Schedule YOUR Body Was Designed to Follow",
       "url": "https://www.youtube.com/watch?v=XmpDZRse3KA",
       "upload_date": "2026-05-01",
       "duration_seconds": 1763,
       "duration": "29:23",
-      "word_count": 4279
+      "word_count": 4279,
+      "clean_file": "clean/XmpDZRse3KA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1763
+      }
     },
     {
       "id": "5NoC-mvYSHo",
+      "kind": "youtube",
       "title": "The Jaw Muscle That's Been Tightening YOUR Skull Since 8AM",
       "url": "https://www.youtube.com/watch?v=5NoC-mvYSHo",
       "upload_date": "2026-05-18",
       "duration_seconds": 1592,
       "duration": "26:32",
-      "word_count": 4124
+      "word_count": 4124,
+      "clean_file": "clean/5NoC-mvYSHo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1592
+      }
     },
     {
       "id": "BzlswZO0jY0",
+      "kind": "youtube",
       "title": "The Loop Inside YOUR Belly That No Diet Can Break Alone",
       "url": "https://www.youtube.com/watch?v=BzlswZO0jY0",
       "upload_date": "2026-07-25",
       "duration_seconds": 1705,
       "duration": "28:25",
-      "word_count": 4163
+      "word_count": 4163,
+      "clean_file": "clean/BzlswZO0jY0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1705
+      }
     },
     {
       "id": "WvmqXh_n7Zo",
+      "kind": "youtube",
       "title": "The Molecule in YOUR Garden That Works Like Valium",
       "url": "https://www.youtube.com/watch?v=WvmqXh_n7Zo",
       "upload_date": "2026-05-20",
       "duration_seconds": 1540,
       "duration": "25:40",
-      "word_count": 4169
+      "word_count": 4169,
+      "clean_file": "clean/WvmqXh_n7Zo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1540
+      }
     },
     {
       "id": "co54vFnEHWU",
+      "kind": "youtube",
       "title": "The Molecule You Were Taught Is Waste — Is Actually the One Your Brain Needs Most",
       "url": "https://www.youtube.com/watch?v=co54vFnEHWU",
       "upload_date": "2026-04-05",
       "duration_seconds": 1805,
       "duration": "30:05",
-      "word_count": 3874
+      "word_count": 3874,
+      "clean_file": "clean/co54vFnEHWU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1805
+      }
     },
     {
       "id": "tBUGWqOmjmA",
+      "kind": "youtube",
       "title": "The Morning Exercise That Exceeds the SAFETY LIMIT for YOUR Spine",
       "url": "https://www.youtube.com/watch?v=tBUGWqOmjmA",
       "upload_date": "2026-07-20",
       "duration_seconds": 1606,
       "duration": "26:46",
-      "word_count": 4039
+      "word_count": 4039,
+      "clean_file": "clean/tBUGWqOmjmA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1606
+      }
     },
     {
       "id": "lo86B1j2uf8",
+      "kind": "youtube",
       "title": "The One Thing Behind Every System Aging Inside YOUR Body",
       "url": "https://www.youtube.com/watch?v=lo86B1j2uf8",
       "upload_date": "2026-08-10",
       "duration_seconds": 1462,
       "duration": "24:22",
-      "word_count": 4371
+      "word_count": 4371,
+      "clean_file": "clean/lo86B1j2uf8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1462
+      }
     },
     {
       "id": "_nA9W1PC7Aw",
+      "kind": "youtube",
       "title": "The Plateau That Proves YOUR Walk Actually Worked",
       "url": "https://www.youtube.com/watch?v=_nA9W1PC7Aw",
       "upload_date": "2026-08-06",
       "duration_seconds": 1555,
       "duration": "25:55",
-      "word_count": 4598
+      "word_count": 4598,
+      "clean_file": "clean/_nA9W1PC7Aw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1555
+      }
     },
     {
       "id": "8-AmGuM3jPo",
+      "kind": "youtube",
       "title": "The Position That OUTPERFORMED Every Exercise",
       "url": "https://www.youtube.com/watch?v=8-AmGuM3jPo",
       "upload_date": "2026-05-05",
       "duration_seconds": 1698,
       "duration": "28:18",
-      "word_count": 4181
+      "word_count": 4181,
+      "clean_file": "clean/8-AmGuM3jPo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1698
+      }
     },
     {
       "id": "tSVNb2Ummfw",
+      "kind": "youtube",
       "title": "The Pump Inside YOUR Body That Moves Everything Except Blood",
       "url": "https://www.youtube.com/watch?v=tSVNb2Ummfw",
       "upload_date": "2026-08-09",
       "duration_seconds": 1448,
       "duration": "24:08",
-      "word_count": 4391
+      "word_count": 4391,
+      "clean_file": "clean/tSVNb2Ummfw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1448
+      }
     },
     {
       "id": "e27nQVumuek",
+      "kind": "youtube",
       "title": "The Real Reason PAIN Exists",
       "url": "https://www.youtube.com/watch?v=e27nQVumuek",
       "upload_date": "2026-03-03",
       "duration_seconds": 1858,
       "duration": "30:58",
-      "word_count": 4667
+      "word_count": 4667,
+      "clean_file": "clean/e27nQVumuek.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1858
+      }
     },
     {
       "id": "x22pxLJ5lSo",
+      "kind": "youtube",
       "title": "The Reason YOU Wake at 3AM That Has Nothing to Do With YOUR Body",
       "url": "https://www.youtube.com/watch?v=x22pxLJ5lSo",
       "upload_date": "2026-08-02",
       "duration_seconds": 1641,
       "duration": "27:21",
-      "word_count": 4165
+      "word_count": 4165,
+      "clean_file": "clean/x22pxLJ5lSo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1641
+      }
     },
     {
       "id": "eLp-r_5HSYA",
+      "kind": "youtube",
       "title": "The Reflex YOUR Body Kept After It Lost Its Purpose",
       "url": "https://www.youtube.com/watch?v=eLp-r_5HSYA",
       "upload_date": "2026-04-19",
       "duration_seconds": 1700,
       "duration": "28:20",
-      "word_count": 4393
+      "word_count": 4393,
+      "clean_file": "clean/eLp-r_5HSYA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1700
+      }
     },
     {
       "id": "WG0HVl45XQ4",
+      "kind": "youtube",
       "title": "The Same Food Changes Your Blood Sugar Depending on Who's at the Table",
       "url": "https://www.youtube.com/watch?v=WG0HVl45XQ4",
       "upload_date": "2026-03-29",
       "duration_seconds": 1862,
       "duration": "31:02",
-      "word_count": 4363
+      "word_count": 4363,
+      "clean_file": "clean/WG0HVl45XQ4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1862
+      }
     },
     {
       "id": "cwcKnKtjWMQ",
+      "kind": "youtube",
       "title": "The Science Of PERSUASION — Why You Agree Before YOUR Brain Finishes Thinking",
       "url": "https://www.youtube.com/watch?v=cwcKnKtjWMQ",
       "upload_date": "2026-05-14",
       "duration_seconds": 1550,
       "duration": "25:50",
-      "word_count": 4018
+      "word_count": 4018,
+      "clean_file": "clean/cwcKnKtjWMQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1550
+      }
     },
     {
       "id": "NG7MafPovIw",
+      "kind": "youtube",
       "title": "The Signal YOUR Heart Sends That Every Test Misses",
       "url": "https://www.youtube.com/watch?v=NG7MafPovIw",
       "upload_date": "2026-05-29",
       "duration_seconds": 1596,
       "duration": "26:36",
-      "word_count": 3975
+      "word_count": 3975,
+      "clean_file": "clean/NG7MafPovIw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1596
+      }
     },
     {
       "id": "5qdc4-rR9uQ",
+      "kind": "youtube",
       "title": "The Sleep Position That Protects the Most Organs After 50",
       "url": "https://www.youtube.com/watch?v=5qdc4-rR9uQ",
       "upload_date": "2026-05-06",
       "duration_seconds": 1588,
       "duration": "26:28",
-      "word_count": 3684
+      "word_count": 3684,
+      "clean_file": "clean/5qdc4-rR9uQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1588
+      }
     },
     {
       "id": "dJ3tdZF5-t0",
+      "kind": "youtube",
       "title": "The Switch Inside Your Cells That Flips at 16 Hours Fast",
       "url": "https://www.youtube.com/watch?v=dJ3tdZF5-t0",
       "upload_date": "2026-03-30",
       "duration_seconds": 1942,
       "duration": "32:22",
-      "word_count": 4332
+      "word_count": 4332,
+      "clean_file": "clean/dJ3tdZF5-t0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1942
+      }
     },
     {
       "id": "7GSqPgeYk-0",
+      "kind": "youtube",
       "title": "The System Inside YOU That Has No Pump — And Stops When You Sit",
       "url": "https://www.youtube.com/watch?v=7GSqPgeYk-0",
       "upload_date": "2026-05-07",
       "duration_seconds": 1554,
       "duration": "25:54",
-      "word_count": 3957
+      "word_count": 3957,
+      "clean_file": "clean/7GSqPgeYk-0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1554
+      }
     },
     {
       "id": "1Rlw2NRsKnI",
+      "kind": "youtube",
       "title": "This FIXES YOUR Muscle Loss After 50 — The Signal You Keep Missing",
       "url": "https://www.youtube.com/watch?v=1Rlw2NRsKnI",
       "upload_date": "2026-07-24",
       "duration_seconds": 1621,
       "duration": "27:01",
-      "word_count": 4183
+      "word_count": 4183,
+      "clean_file": "clean/1Rlw2NRsKnI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1621
+      }
     },
     {
       "id": "lJNfShSEta8",
+      "kind": "youtube",
       "title": "This Tiny Muscle in Your Calf Can Fix What Sitting Breaks",
       "url": "https://www.youtube.com/watch?v=lJNfShSEta8",
       "upload_date": "2026-04-13",
       "duration_seconds": 1823,
       "duration": "30:23",
-      "word_count": 4408
+      "word_count": 4408,
+      "clean_file": "clean/lJNfShSEta8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1823
+      }
     },
     {
       "id": "Uo8qxQY2T0U",
+      "kind": "youtube",
       "title": "Walking Is the Only Exercise Your Body Was Actually Designed For",
       "url": "https://www.youtube.com/watch?v=Uo8qxQY2T0U",
       "upload_date": "2026-03-13",
       "duration_seconds": 1681,
       "duration": "28:01",
-      "word_count": 4196
+      "word_count": 4196,
+      "clean_file": "clean/Uo8qxQY2T0U.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1681
+      }
     },
     {
       "id": "8fPiI1wPWO0",
+      "kind": "youtube",
       "title": "What 1 Hour in the Sun Does to YOUR DNA, Collagen, and Melanin",
       "url": "https://www.youtube.com/watch?v=8fPiI1wPWO0",
       "upload_date": "2026-06-25",
       "duration_seconds": 1593,
       "duration": "26:33",
-      "word_count": 4203
+      "word_count": 4203,
+      "clean_file": "clean/8fPiI1wPWO0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1593
+      }
     },
     {
       "id": "eDFP49iNwaI",
+      "kind": "youtube",
       "title": "What 3 Minutes Every Morning Does to YOUR Hips, Spine, and Grip",
       "url": "https://www.youtube.com/watch?v=eDFP49iNwaI",
       "upload_date": "2026-05-16",
       "duration_seconds": 1607,
       "duration": "26:47",
-      "word_count": 4219
+      "word_count": 4219,
+      "clean_file": "clean/eDFP49iNwaI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1607
+      }
     },
     {
       "id": "ulHJ4R7i1Z4",
+      "kind": "youtube",
       "title": "What 3 Pitches of Humming Do to YOUR Vagus Nerve, Sinuses, and Throat",
       "url": "https://www.youtube.com/watch?v=ulHJ4R7i1Z4",
       "upload_date": "2026-05-23",
       "duration_seconds": 1701,
       "duration": "28:21",
-      "word_count": 4294
+      "word_count": 4294,
+      "clean_file": "clean/ulHJ4R7i1Z4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1701
+      }
     },
     {
       "id": "rE07mxSv6X4",
+      "kind": "youtube",
       "title": "What 50 Years of SHOES Did to YOUR Brain",
       "url": "https://www.youtube.com/watch?v=rE07mxSv6X4",
       "upload_date": "2026-05-15",
       "duration_seconds": 1597,
       "duration": "26:37",
-      "word_count": 4169
+      "word_count": 4169,
+      "clean_file": "clean/rE07mxSv6X4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1597
+      }
     },
     {
       "id": "hCW0TehxqEI",
+      "kind": "youtube",
       "title": "What 60 Seconds of SHAKING Does to YOUR Nervous System That Wont Shut Off",
       "url": "https://www.youtube.com/watch?v=hCW0TehxqEI",
       "upload_date": "2026-06-01",
       "duration_seconds": 1730,
       "duration": "28:50",
-      "word_count": 4314
+      "word_count": 4314,
+      "clean_file": "clean/hCW0TehxqEI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1730
+      }
     },
     {
       "id": "hxc0opwYlyA",
+      "kind": "youtube",
       "title": "What 60 Seconds of SMILING Does to Your Brain — Even When You're Faking It",
       "url": "https://www.youtube.com/watch?v=hxc0opwYlyA",
       "upload_date": "2026-05-13",
       "duration_seconds": 1672,
       "duration": "27:52",
-      "word_count": 4126
+      "word_count": 4126,
+      "clean_file": "clean/hxc0opwYlyA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1672
+      }
     },
     {
       "id": "2gwQ9BVOscI",
+      "kind": "youtube",
       "title": "What a 20-Minute Nap Before 2PM Does to YOUR Body",
       "url": "https://www.youtube.com/watch?v=2gwQ9BVOscI",
       "upload_date": "2026-04-22",
       "duration_seconds": 1734,
       "duration": "28:54",
-      "word_count": 4417
+      "word_count": 4417,
+      "clean_file": "clean/2gwQ9BVOscI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1734
+      }
     },
     {
       "id": "BG6yth4tJBc",
+      "kind": "youtube",
       "title": "What a Hot Bath Does to YOUR Body Before Sleep",
       "url": "https://www.youtube.com/watch?v=BG6yth4tJBc",
       "upload_date": "2026-04-14",
       "duration_seconds": 1605,
       "duration": "26:45",
-      "word_count": 4387
+      "word_count": 4387,
+      "clean_file": "clean/BG6yth4tJBc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1605
+      }
     },
     {
       "id": "KTwE1rj8-Ek",
+      "kind": "youtube",
       "title": "What Actually Builds YOUR Muscle After 50",
       "url": "https://www.youtube.com/watch?v=KTwE1rj8-Ek",
       "upload_date": "2026-08-19",
       "duration_seconds": 1520,
       "duration": "25:20",
-      "word_count": 4371
+      "word_count": 4371,
+      "clean_file": "clean/KTwE1rj8-Ek.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1520
+      }
     },
     {
       "id": "3hu1d6tYi-w",
+      "kind": "youtube",
       "title": "What Actually Happens Inside YOUR Knuckles When They Pop",
       "url": "https://www.youtube.com/watch?v=3hu1d6tYi-w",
       "upload_date": "2026-04-21",
       "duration_seconds": 1673,
       "duration": "27:53",
-      "word_count": 4374
+      "word_count": 4374,
+      "clean_file": "clean/3hu1d6tYi-w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1673
+      }
     },
     {
       "id": "WK6ke9ZpcOk",
+      "kind": "youtube",
       "title": "What Actually Happens Inside YOUR Throat When You Snore",
       "url": "https://www.youtube.com/watch?v=WK6ke9ZpcOk",
       "upload_date": "2026-04-26",
       "duration_seconds": 1605,
       "duration": "26:45",
-      "word_count": 3986
+      "word_count": 3986,
+      "clean_file": "clean/WK6ke9ZpcOk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1605
+      }
     },
     {
       "id": "chsavHoBtJs",
+      "kind": "youtube",
       "title": "What Blowing Up a BALLOON Does to YOUR Body",
       "url": "https://www.youtube.com/watch?v=chsavHoBtJs",
       "upload_date": "2026-05-21",
       "duration_seconds": 1576,
       "duration": "26:16",
-      "word_count": 4268
+      "word_count": 4268,
+      "clean_file": "clean/chsavHoBtJs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1576
+      }
     },
     {
       "id": "kHe7AvbKoW4",
+      "kind": "youtube",
       "title": "What Changes Inside YOUR Body When YOU Face Fear",
       "url": "https://www.youtube.com/watch?v=kHe7AvbKoW4",
       "upload_date": "2026-08-07",
       "duration_seconds": 1633,
       "duration": "27:13",
-      "word_count": 4338
+      "word_count": 4338,
+      "clean_file": "clean/kHe7AvbKoW4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1633
+      }
     },
     {
       "id": "0R5HVYuESf0",
+      "kind": "youtube",
       "title": "What Cold Does to Your CELLS — The Physics Nobody Tells You",
       "url": "https://www.youtube.com/watch?v=0R5HVYuESf0",
       "upload_date": "2026-03-04",
       "duration_seconds": 1519,
       "duration": "25:19",
-      "word_count": 3614
+      "word_count": 3614,
+      "clean_file": "clean/0R5HVYuESf0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1519
+      }
     },
     {
       "id": "EX1zYCGmG9g",
+      "kind": "youtube",
       "title": "What FLOSSING Does to Your Arteries — The Connection Nobody Explains",
       "url": "https://www.youtube.com/watch?v=EX1zYCGmG9g",
       "upload_date": "2026-05-11",
       "duration_seconds": 1670,
       "duration": "27:50",
-      "word_count": 3908
+      "word_count": 3908,
+      "clean_file": "clean/EX1zYCGmG9g.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1670
+      }
     },
     {
       "id": "wdORoyWPbWM",
+      "kind": "youtube",
       "title": "What Gardening Does to Your Body — The Untold Physics",
       "url": "https://www.youtube.com/watch?v=wdORoyWPbWM",
       "upload_date": "2026-03-06",
       "duration_seconds": 1268,
       "duration": "21:08",
-      "word_count": 3293
+      "word_count": 3293,
+      "clean_file": "clean/wdORoyWPbWM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1268
+      }
     },
     {
       "id": "ion8SKZQ0oE",
+      "kind": "youtube",
       "title": "What GRIEF Does to Your Body",
       "url": "https://www.youtube.com/watch?v=ion8SKZQ0oE",
       "upload_date": "2026-03-16",
       "duration_seconds": 1883,
       "duration": "31:23",
-      "word_count": 4419
+      "word_count": 4419,
+      "clean_file": "clean/ion8SKZQ0oE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1883
+      }
     },
     {
       "id": "zCtsCJ9cACY",
+      "kind": "youtube",
       "title": "What Happens Inside YOUR Blood After 2 Hours in a Forest",
       "url": "https://www.youtube.com/watch?v=zCtsCJ9cACY",
       "upload_date": "2026-07-30",
       "duration_seconds": 1700,
       "duration": "28:20",
-      "word_count": 4207
+      "word_count": 4207,
+      "clean_file": "clean/zCtsCJ9cACY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1700
+      }
     },
     {
       "id": "H1IPL6q95Ec",
+      "kind": "youtube",
       "title": "What Happens Inside YOUR Body During a Panic Attack",
       "url": "https://www.youtube.com/watch?v=H1IPL6q95Ec",
       "upload_date": "2026-07-03",
       "duration_seconds": 1654,
       "duration": "27:34",
-      "word_count": 4225
+      "word_count": 4225,
+      "clean_file": "clean/H1IPL6q95Ec.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1654
+      }
     },
     {
       "id": "iV3tqeWNdeM",
+      "kind": "youtube",
       "title": "What Happens Inside YOUR Body in the 20 Minutes After Every Meal",
       "url": "https://www.youtube.com/watch?v=iV3tqeWNdeM",
       "upload_date": "2026-06-24",
       "duration_seconds": 1675,
       "duration": "27:55",
-      "word_count": 4306
+      "word_count": 4306,
+      "clean_file": "clean/iV3tqeWNdeM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1675
+      }
     },
     {
       "id": "NFy3cR3XncA",
+      "kind": "youtube",
       "title": "What Happens Inside YOUR Body When Sugar Stops Arriving for 21 Days",
       "url": "https://www.youtube.com/watch?v=NFy3cR3XncA",
       "upload_date": "2026-06-02",
       "duration_seconds": 1667,
       "duration": "27:47",
-      "word_count": 4253
+      "word_count": 4253,
+      "clean_file": "clean/NFy3cR3XncA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1667
+      }
     },
     {
       "id": "tYkCvmXCJBc",
+      "kind": "youtube",
       "title": "What Happens Inside YOUR Body When You Stand Up Too Fast",
       "url": "https://www.youtube.com/watch?v=tYkCvmXCJBc",
       "upload_date": "2026-07-16",
       "duration_seconds": 1586,
       "duration": "26:26",
-      "word_count": 4221
+      "word_count": 4221,
+      "clean_file": "clean/tYkCvmXCJBc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1586
+      }
     },
     {
       "id": "cGGB2PQ6PFQ",
+      "kind": "youtube",
       "title": "What Happens Inside YOUR BRAIN After 72 Hours of Complete Darkness",
       "url": "https://www.youtube.com/watch?v=cGGB2PQ6PFQ",
       "upload_date": "2026-05-28",
       "duration_seconds": 1612,
       "duration": "26:52",
-      "word_count": 4117
+      "word_count": 4117,
+      "clean_file": "clean/cGGB2PQ6PFQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1612
+      }
     },
     {
       "id": "Cekr_0A1-NI",
+      "kind": "youtube",
       "title": "What Happens Inside YOUR Muscles When Potassium Drops",
       "url": "https://www.youtube.com/watch?v=Cekr_0A1-NI",
       "upload_date": "2026-07-02",
       "duration_seconds": 1578,
       "duration": "26:18",
-      "word_count": 4143
+      "word_count": 4143,
+      "clean_file": "clean/Cekr_0A1-NI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1578
+      }
     },
     {
       "id": "RlE3IsQ1Dts",
+      "kind": "youtube",
       "title": "What Happens to YOUR Arteries When You Take Calcium Every Morning",
       "url": "https://www.youtube.com/watch?v=RlE3IsQ1Dts",
       "upload_date": "2026-07-26",
       "duration_seconds": 1635,
       "duration": "27:15",
-      "word_count": 4029
+      "word_count": 4029,
+      "clean_file": "clean/RlE3IsQ1Dts.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1635
+      }
     },
     {
       "id": "0fM-Q3jiQMw",
+      "kind": "youtube",
       "title": "What Happens to Your Atoms When You Get Old?",
       "url": "https://www.youtube.com/watch?v=0fM-Q3jiQMw",
       "upload_date": "2026-02-21",
       "duration_seconds": 4297,
       "duration": "71:37",
-      "word_count": 10401
+      "word_count": 10401,
+      "clean_file": "clean/0fM-Q3jiQMw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 4297
+      }
     },
     {
       "id": "iemsW1s7xH0",
+      "kind": "youtube",
       "title": "What Happens to Your ATOMS When Your Cat Purrs on You",
       "url": "https://www.youtube.com/watch?v=iemsW1s7xH0",
       "upload_date": "2026-03-05",
       "duration_seconds": 1460,
       "duration": "24:20",
-      "word_count": 3480
+      "word_count": 3480,
+      "clean_file": "clean/iemsW1s7xH0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1460
+      }
     },
     {
       "id": "YcmpJZrdqiI",
+      "kind": "youtube",
       "title": "What Happens to YOUR Back After 5 Minutes on a Hard Surface",
       "url": "https://www.youtube.com/watch?v=YcmpJZrdqiI",
       "upload_date": "2026-05-03",
       "duration_seconds": 1597,
       "duration": "26:37",
-      "word_count": 3928
+      "word_count": 3928,
+      "clean_file": "clean/YcmpJZrdqiI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1597
+      }
     },
     {
       "id": "lj_r9NOh6Mc",
+      "kind": "youtube",
       "title": "What Happens to Your Blood Sugar in the 60 Minutes After You Eat",
       "url": "https://www.youtube.com/watch?v=lj_r9NOh6Mc",
       "upload_date": "2026-04-12",
       "duration_seconds": 1879,
       "duration": "31:19",
-      "word_count": 4446
+      "word_count": 4446,
+      "clean_file": "clean/lj_r9NOh6Mc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1879
+      }
     },
     {
       "id": "zEQf8XkI5eU",
+      "kind": "youtube",
       "title": "What Happens to YOUR BODY If You're Still Awake at 10PM",
       "url": "https://www.youtube.com/watch?v=zEQf8XkI5eU",
       "upload_date": "2026-04-19",
       "duration_seconds": 1700,
       "duration": "28:20",
-      "word_count": 4549
+      "word_count": 4549,
+      "clean_file": "clean/zEQf8XkI5eU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1700
+      }
     },
     {
       "id": "TIfYtzKSpXM",
+      "kind": "youtube",
       "title": "What Happens to YOUR BODY When You Forgive Someone?",
       "url": "https://www.youtube.com/watch?v=TIfYtzKSpXM",
       "upload_date": "2026-03-24",
       "duration_seconds": 1997,
       "duration": "33:17",
-      "word_count": 4607
+      "word_count": 4607,
+      "clean_file": "clean/TIfYtzKSpXM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1997
+      }
     },
     {
       "id": "oqmj-CaeLXM",
+      "kind": "youtube",
       "title": "What Happens to Your Body When You Hear Birds Singing",
       "url": "https://www.youtube.com/watch?v=oqmj-CaeLXM",
       "upload_date": "2026-04-07",
       "duration_seconds": 1865,
       "duration": "31:05",
-      "word_count": 4409
+      "word_count": 4409,
+      "clean_file": "clean/oqmj-CaeLXM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1865
+      }
     },
     {
       "id": "M_Q_JnKZXe8",
+      "kind": "youtube",
       "title": "What Happens to YOUR BODY When You Hold Your Grandchild",
       "url": "https://www.youtube.com/watch?v=M_Q_JnKZXe8",
       "upload_date": "2026-04-15",
       "duration_seconds": 1842,
       "duration": "30:42",
-      "word_count": 4398
+      "word_count": 4398,
+      "clean_file": "clean/M_Q_JnKZXe8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1842
+      }
     },
     {
       "id": "aL4S_1VVpBI",
+      "kind": "youtube",
       "title": "What Happens to YOUR BODY When You Move on an Empty Stomach",
       "url": "https://www.youtube.com/watch?v=aL4S_1VVpBI",
       "upload_date": "2026-05-04",
       "duration_seconds": 1803,
       "duration": "30:03",
-      "word_count": 4165
+      "word_count": 4165,
+      "clean_file": "clean/aL4S_1VVpBI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1803
+      }
     },
     {
       "id": "UlXTeinaTBA",
+      "kind": "youtube",
       "title": "What Happens to Your BODY When You Pray",
       "url": "https://www.youtube.com/watch?v=UlXTeinaTBA",
       "upload_date": "2026-03-12",
       "duration_seconds": 1645,
       "duration": "27:25",
-      "word_count": 3860
+      "word_count": 3860,
+      "clean_file": "clean/UlXTeinaTBA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1645
+      }
     },
     {
       "id": "BJ0Sh6hOK18",
+      "kind": "youtube",
       "title": "What Happens to YOUR BODY When You Sleep on the Wrong Side",
       "url": "https://www.youtube.com/watch?v=BJ0Sh6hOK18",
       "upload_date": "2026-04-04",
       "duration_seconds": 1762,
       "duration": "29:22",
-      "word_count": 4397
+      "word_count": 4397,
+      "clean_file": "clean/BJ0Sh6hOK18.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1762
+      }
     },
     {
       "id": "ARiXnXyTr18",
+      "kind": "youtube",
       "title": "What Happens to YOUR Brain Every Time You Scratch an Itch",
       "url": "https://www.youtube.com/watch?v=ARiXnXyTr18",
       "upload_date": "2026-04-20",
       "duration_seconds": 1673,
       "duration": "27:53",
-      "word_count": 4410
+      "word_count": 4410,
+      "clean_file": "clean/ARiXnXyTr18.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1673
+      }
     },
     {
       "id": "LZXAp_TitR4",
+      "kind": "youtube",
       "title": "What Happens to Your BRAIN in the Last 7 Minutes of Life?",
       "url": "https://www.youtube.com/watch?v=LZXAp_TitR4",
       "upload_date": "2026-03-07",
       "duration_seconds": 1409,
       "duration": "23:29",
-      "word_count": 3327
+      "word_count": 3327,
+      "clean_file": "clean/LZXAp_TitR4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1409
+      }
     },
     {
       "id": "mN9wlM9bgMo",
+      "kind": "youtube",
       "title": "What Happens to YOUR BRAIN When All Sound Stops?",
       "url": "https://www.youtube.com/watch?v=mN9wlM9bgMo",
       "upload_date": "2026-03-25",
       "duration_seconds": 1847,
       "duration": "30:47",
-      "word_count": 4506
+      "word_count": 4506,
+      "clean_file": "clean/mN9wlM9bgMo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1847
+      }
     },
     {
       "id": "CkJMMyeFIH4",
+      "kind": "youtube",
       "title": "What Happens to YOUR Brain When Doctor Lowers Your Blood Pressure",
       "url": "https://www.youtube.com/watch?v=CkJMMyeFIH4",
       "upload_date": "2026-06-17",
       "duration_seconds": 1671,
       "duration": "27:51",
-      "word_count": 4295
+      "word_count": 4295,
+      "clean_file": "clean/CkJMMyeFIH4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1671
+      }
     },
     {
       "id": "QVoGbaq8xos",
+      "kind": "youtube",
       "title": "What Happens to YOUR BRAIN When You Hum for 60 Seconds?",
       "url": "https://www.youtube.com/watch?v=QVoGbaq8xos",
       "upload_date": "2026-04-07",
       "duration_seconds": 1917,
       "duration": "31:57",
-      "word_count": 4443
+      "word_count": 4443,
+      "clean_file": "clean/QVoGbaq8xos.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1917
+      }
     },
     {
       "id": "Bqn8bgi70fA",
+      "kind": "youtube",
       "title": "What Happens to YOUR Brain When You Read Out Loud for 5 Minutes",
       "url": "https://www.youtube.com/watch?v=Bqn8bgi70fA",
       "upload_date": "2026-04-16",
       "duration_seconds": 1527,
       "duration": "25:27",
-      "word_count": 4076
+      "word_count": 4076,
+      "clean_file": "clean/Bqn8bgi70fA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1527
+      }
     },
     {
       "id": "I45ltvsK4jI",
+      "kind": "youtube",
       "title": "What Happens to YOUR FOOT When This One Muscle Stops Working",
       "url": "https://www.youtube.com/watch?v=I45ltvsK4jI",
       "upload_date": "2026-06-08",
       "duration_seconds": 1578,
       "duration": "26:18",
-      "word_count": 4157
+      "word_count": 4157,
+      "clean_file": "clean/I45ltvsK4jI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1578
+      }
     },
     {
       "id": "_edZ6ca7Lsk",
+      "kind": "youtube",
       "title": "What Happens to YOUR MIND During Déjà Vu",
       "url": "https://www.youtube.com/watch?v=_edZ6ca7Lsk",
       "upload_date": "2026-04-21",
       "duration_seconds": 1677,
       "duration": "27:57",
-      "word_count": 4341
+      "word_count": 4341,
+      "clean_file": "clean/_edZ6ca7Lsk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1677
+      }
     },
     {
       "id": "6EwQXznpBsg",
+      "kind": "youtube",
       "title": "What Happens to YOUR MIND When You Sleep?",
       "url": "https://www.youtube.com/watch?v=6EwQXznpBsg",
       "upload_date": "2026-02-10",
       "duration_seconds": 1382,
       "duration": "23:02",
-      "word_count": 3725
+      "word_count": 3725,
+      "clean_file": "clean/6EwQXznpBsg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1382
+      }
     },
     {
       "id": "7_URSXBuQUc",
+      "kind": "youtube",
       "title": "What Happens to YOUR MUSCLES When You Stretch Past 60 Seconds",
       "url": "https://www.youtube.com/watch?v=7_URSXBuQUc",
       "upload_date": "2026-04-24",
       "duration_seconds": 1711,
       "duration": "28:31",
-      "word_count": 4318
+      "word_count": 4318,
+      "clean_file": "clean/7_URSXBuQUc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1711
+      }
     },
     {
       "id": "5GShDTK0lrI",
+      "kind": "youtube",
       "title": "What Happens to YOUR Spine, Shoulders, and Grip When You Hang  Every Day",
       "url": "https://www.youtube.com/watch?v=5GShDTK0lrI",
       "upload_date": "2026-05-02",
       "duration_seconds": 1620,
       "duration": "27:00",
-      "word_count": 3905
+      "word_count": 3905,
+      "clean_file": "clean/5GShDTK0lrI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1620
+      }
     },
     {
       "id": "W-3nzX9cdWo",
+      "kind": "youtube",
       "title": "What Happens to YOUR Stomach When Food Arrives Without Warning",
       "url": "https://www.youtube.com/watch?v=W-3nzX9cdWo",
       "upload_date": "2026-04-15",
       "duration_seconds": 1932,
       "duration": "32:12",
-      "word_count": 4580
+      "word_count": 4580,
+      "clean_file": "clean/W-3nzX9cdWo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1932
+      }
     },
     {
       "id": "2CZxrB1kiT0",
+      "kind": "youtube",
       "title": "What Happens When You Look at the Night Sky",
       "url": "https://www.youtube.com/watch?v=2CZxrB1kiT0",
       "upload_date": "2026-04-11",
       "duration_seconds": 2074,
       "duration": "34:34",
-      "word_count": 4707
+      "word_count": 4707,
+      "clean_file": "clean/2CZxrB1kiT0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2074
+      }
     },
     {
       "id": "dsXSF8Y6-QQ",
+      "kind": "youtube",
       "title": "What Happens When You STOP Watching News",
       "url": "https://www.youtube.com/watch?v=dsXSF8Y6-QQ",
       "upload_date": "2026-03-22",
       "duration_seconds": 1830,
       "duration": "30:30",
-      "word_count": 4365
+      "word_count": 4365,
+      "clean_file": "clean/dsXSF8Y6-QQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1830
+      }
     },
     {
       "id": "wbWYhVDIOEY",
+      "kind": "youtube",
       "title": "What Loneliness Does to Your Atoms?",
       "url": "https://www.youtube.com/watch?v=wbWYhVDIOEY",
       "upload_date": "2026-02-27",
       "duration_seconds": 3114,
       "duration": "51:54",
-      "word_count": 7318
+      "word_count": 7318,
+      "clean_file": "clean/wbWYhVDIOEY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3114
+      }
     },
     {
       "id": "yk3Amg7jkMc",
+      "kind": "youtube",
       "title": "What Missing ONE Night Does to Your Body",
       "url": "https://www.youtube.com/watch?v=yk3Amg7jkMc",
       "upload_date": "2026-08-05",
       "duration_seconds": 1674,
       "duration": "27:54",
-      "word_count": 4366
+      "word_count": 4366,
+      "clean_file": "clean/yk3Amg7jkMc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1674
+      }
     },
     {
       "id": "5m65orqBBAo",
+      "kind": "youtube",
       "title": "What ONE Failed Valve Does to Every Vein Below It in YOUR Leg",
       "url": "https://www.youtube.com/watch?v=5m65orqBBAo",
       "upload_date": "2026-07-06",
       "duration_seconds": 1612,
       "duration": "26:52",
-      "word_count": 4206
+      "word_count": 4206,
+      "clean_file": "clean/5m65orqBBAo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1612
+      }
     },
     {
       "id": "XkNJEa4UrfE",
+      "kind": "youtube",
       "title": "What Should YOUR Body Get Every Evening After 50",
       "url": "https://www.youtube.com/watch?v=XkNJEa4UrfE",
       "upload_date": "2026-06-29",
       "duration_seconds": 1659,
       "duration": "27:39",
-      "word_count": 4303
+      "word_count": 4303,
+      "clean_file": "clean/XkNJEa4UrfE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1659
+      }
     },
     {
       "id": "MUQSpFXrSnc",
+      "kind": "youtube",
       "title": "What Sleeping 8 Hours Does to YOUR BODY",
       "url": "https://www.youtube.com/watch?v=MUQSpFXrSnc",
       "upload_date": "2026-06-14",
       "duration_seconds": 1667,
       "duration": "27:47",
-      "word_count": 4317
+      "word_count": 4317,
+      "clean_file": "clean/MUQSpFXrSnc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1667
+      }
     },
     {
       "id": "W7b9RlMo-ro",
+      "kind": "youtube",
       "title": "What Those Nail Ridges Reveal About How YOU Age",
       "url": "https://www.youtube.com/watch?v=W7b9RlMo-ro",
       "upload_date": "2026-08-17",
       "duration_seconds": 1376,
       "duration": "22:56",
-      "word_count": 4205
+      "word_count": 4205,
+      "clean_file": "clean/W7b9RlMo-ro.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1376
+      }
     },
     {
       "id": "wrc2SDiMsOU",
+      "kind": "youtube",
       "title": "What Your 40-Year-Old TRAUMA Still Does to Your Body",
       "url": "https://www.youtube.com/watch?v=wrc2SDiMsOU",
       "upload_date": "2026-03-14",
       "duration_seconds": 1755,
       "duration": "29:15",
-      "word_count": 4305
+      "word_count": 4305,
+      "clean_file": "clean/wrc2SDiMsOU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1755
+      }
     },
     {
       "id": "vxxsAhxold8",
+      "kind": "youtube",
       "title": "What YOUR Body Does the Night Before a Stroke Hits",
       "url": "https://www.youtube.com/watch?v=vxxsAhxold8",
       "upload_date": "2026-05-08",
       "duration_seconds": 1672,
       "duration": "27:52",
-      "word_count": 3994
+      "word_count": 3994,
+      "clean_file": "clean/vxxsAhxold8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1672
+      }
     },
     {
       "id": "QSBLYfC95AA",
+      "kind": "youtube",
       "title": "What YOUR Forward Head Posture Is Doing to Your Vagus Nerve",
       "url": "https://www.youtube.com/watch?v=QSBLYfC95AA",
       "upload_date": "2026-07-08",
       "duration_seconds": 1708,
       "duration": "28:28",
-      "word_count": 4500
+      "word_count": 4500,
+      "clean_file": "clean/QSBLYfC95AA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1708
+      }
     },
     {
       "id": "izsNttOseXI",
+      "kind": "youtube",
       "title": "What YOUR Grip Reveals That Blood Pressure Cannot",
       "url": "https://www.youtube.com/watch?v=izsNttOseXI",
       "upload_date": "2026-06-05",
       "duration_seconds": 1697,
       "duration": "28:17",
-      "word_count": 4297
+      "word_count": 4297,
+      "clean_file": "clean/izsNttOseXI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1697
+      }
     },
     {
       "id": "7gvAenlEkqs",
+      "kind": "youtube",
       "title": "What YOUR Immune System Has Been Doing to YOUR Tattoo for 20 Years",
       "url": "https://www.youtube.com/watch?v=7gvAenlEkqs",
       "upload_date": "2026-07-31",
       "duration_seconds": 1600,
       "duration": "26:40",
-      "word_count": 4209
+      "word_count": 4209,
+      "clean_file": "clean/7gvAenlEkqs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1600
+      }
     },
     {
       "id": "kKJTsh-ofPY",
+      "kind": "youtube",
       "title": "What YOUR Morning Coffee Actually Does",
       "url": "https://www.youtube.com/watch?v=kKJTsh-ofPY",
       "upload_date": "2026-07-09",
       "duration_seconds": 1623,
       "duration": "27:03",
-      "word_count": 4227
+      "word_count": 4227,
+      "clean_file": "clean/kKJTsh-ofPY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1623
+      }
     },
     {
       "id": "HmUBEhrTs6Y",
+      "kind": "youtube",
       "title": "What YOUR Morning Erections Actually Tell You About Your Heart",
       "url": "https://www.youtube.com/watch?v=HmUBEhrTs6Y",
       "upload_date": "2026-06-20",
       "duration_seconds": 1709,
       "duration": "28:29",
-      "word_count": 4339
+      "word_count": 4339,
+      "clean_file": "clean/HmUBEhrTs6Y.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1709
+      }
     },
     {
       "id": "Adh1myK3_CE",
+      "kind": "youtube",
       "title": "Where Should You Spend 30 Minutes Every Month",
       "url": "https://www.youtube.com/watch?v=Adh1myK3_CE",
       "upload_date": "2026-03-27",
       "duration_seconds": 1889,
       "duration": "31:29",
-      "word_count": 4616
+      "word_count": 4616,
+      "clean_file": "clean/Adh1myK3_CE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1889
+      }
     },
     {
       "id": "fArccOlBJkI",
+      "kind": "youtube",
       "title": "Why 1 Flight of STAIRS Beats YOUR 30-Minute Walk",
       "url": "https://www.youtube.com/watch?v=fArccOlBJkI",
       "upload_date": "2026-05-17",
       "duration_seconds": 1617,
       "duration": "26:57",
-      "word_count": 4135
+      "word_count": 4135,
+      "clean_file": "clean/fArccOlBJkI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1617
+      }
     },
     {
       "id": "YWSgliDBHUQ",
+      "kind": "youtube",
       "title": "Why 20 Years of Stretching Never Fixed YOUR Hamstrings",
       "url": "https://www.youtube.com/watch?v=YWSgliDBHUQ",
       "upload_date": "2026-07-14",
       "duration_seconds": 1600,
       "duration": "26:40",
-      "word_count": 4329
+      "word_count": 4329,
+      "clean_file": "clean/YWSgliDBHUQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1600
+      }
     },
     {
       "id": "KQaRs0gSi4A",
+      "kind": "youtube",
       "title": "Why 75% Resolve Without Surgery — And YOUR Doctor May Not Have Said This",
       "url": "https://www.youtube.com/watch?v=KQaRs0gSi4A",
       "upload_date": "2026-07-17",
       "duration_seconds": 1621,
       "duration": "27:01",
-      "word_count": 4233
+      "word_count": 4233,
+      "clean_file": "clean/KQaRs0gSi4A.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1621
+      }
     },
     {
       "id": "nPM83TqEa0E",
+      "kind": "youtube",
       "title": "Why 80% of the Signals Run From YOUR Gut to Your Brain",
       "url": "https://www.youtube.com/watch?v=nPM83TqEa0E",
       "upload_date": "2026-08-18",
       "duration_seconds": 1450,
       "duration": "24:10",
-      "word_count": 4333
+      "word_count": 4333,
+      "clean_file": "clean/nPM83TqEa0E.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1450
+      }
     },
     {
       "id": "F4evGIwrjA0",
+      "kind": "youtube",
       "title": "Why a 20 Second HUG Changes Your Body's Chemistry",
       "url": "https://www.youtube.com/watch?v=F4evGIwrjA0",
       "upload_date": "2026-03-13",
       "duration_seconds": 1733,
       "duration": "28:53",
-      "word_count": 4166
+      "word_count": 4166,
+      "clean_file": "clean/F4evGIwrjA0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1733
+      }
     },
     {
       "id": "17BFodH03VQ",
+      "kind": "youtube",
       "title": "Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself",
       "url": "https://www.youtube.com/watch?v=17BFodH03VQ",
       "upload_date": "2026-06-30",
       "duration_seconds": 1658,
       "duration": "27:38",
-      "word_count": 4202
+      "word_count": 4202,
+      "clean_file": "clean/17BFodH03VQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1658
+      }
     },
     {
       "id": "nMac0Ull9m4",
+      "kind": "youtube",
       "title": "Why Blue Light WAKES You Up — But Blue Glasses CALM You Down",
       "url": "https://www.youtube.com/watch?v=nMac0Ull9m4",
       "upload_date": "2026-06-22",
       "duration_seconds": 1756,
       "duration": "29:16",
-      "word_count": 4323
+      "word_count": 4323,
+      "clean_file": "clean/nMac0Ull9m4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1756
+      }
     },
     {
       "id": "slwLCPeOZYk",
+      "kind": "youtube",
       "title": "Why Can't You REMEMBER Being Born? — Feynman on Memory, Neurons, and Consciousness",
       "url": "https://www.youtube.com/watch?v=slwLCPeOZYk",
       "upload_date": "2026-02-03",
       "duration_seconds": 1274,
       "duration": "21:14",
-      "word_count": 3266
+      "word_count": 3266,
+      "clean_file": "clean/slwLCPeOZYk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1274
+      }
     },
     {
       "id": "l3YyPgqDx0k",
+      "kind": "youtube",
       "title": "Why Cant You TICKLE Yourself: Feynman's Answer Reveals How Your Brain Predicts Reality",
       "url": "https://www.youtube.com/watch?v=l3YyPgqDx0k",
       "upload_date": "2026-02-05",
       "duration_seconds": 1385,
       "duration": "23:05",
-      "word_count": 3598
+      "word_count": 3598,
+      "clean_file": "clean/l3YyPgqDx0k.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1385
+      }
     },
     {
       "id": "sr9sFZnBz6c",
+      "kind": "youtube",
       "title": "Why Cold Water on Your Face Does What Breathing Exercises Can't",
       "url": "https://www.youtube.com/watch?v=sr9sFZnBz6c",
       "upload_date": "2026-04-04",
       "duration_seconds": 1821,
       "duration": "30:21",
-      "word_count": 4417
+      "word_count": 4417,
+      "clean_file": "clean/sr9sFZnBz6c.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1821
+      }
     },
     {
       "id": "7KL3oOYTByM",
+      "kind": "youtube",
       "title": "Why Cutting ALL Fat Is Starving YOUR Brain",
       "url": "https://www.youtube.com/watch?v=7KL3oOYTByM",
       "upload_date": "2026-07-04",
       "duration_seconds": 1556,
       "duration": "25:56",
-      "word_count": 4076
+      "word_count": 4076,
+      "clean_file": "clean/7KL3oOYTByM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1556
+      }
     },
     {
       "id": "jtLYRKdp4Dc",
+      "kind": "youtube",
       "title": "Why Cutting Salt Does Something to YOUR Body Nobody Warned You About",
       "url": "https://www.youtube.com/watch?v=jtLYRKdp4Dc",
       "upload_date": "2026-06-27",
       "duration_seconds": 1551,
       "duration": "25:51",
-      "word_count": 4122
+      "word_count": 4122,
+      "clean_file": "clean/jtLYRKdp4Dc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1551
+      }
     },
     {
       "id": "bw2S4yyF2YE",
+      "kind": "youtube",
       "title": "Why Does MUSIC Give You Chills — The Physics of Sound",
       "url": "https://www.youtube.com/watch?v=bw2S4yyF2YE",
       "upload_date": "2026-02-27",
       "duration_seconds": 1972,
       "duration": "32:52",
-      "word_count": 4781
+      "word_count": 4781,
+      "clean_file": "clean/bw2S4yyF2YE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1972
+      }
     },
     {
       "id": "ZdHrY0l78ug",
+      "kind": "youtube",
       "title": "Why Does Your Body NEVER Cool Below 37 Degrees?",
       "url": "https://www.youtube.com/watch?v=ZdHrY0l78ug",
       "upload_date": "2026-02-25",
       "duration_seconds": 1490,
       "duration": "24:50",
-      "word_count": 3661
+      "word_count": 3661,
+      "clean_file": "clean/ZdHrY0l78ug.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1490
+      }
     },
     {
       "id": "eLvlRCiKtzs",
+      "kind": "youtube",
       "title": "Why Does Your Brain NEVER Report Constant Smells?",
       "url": "https://www.youtube.com/watch?v=eLvlRCiKtzs",
       "upload_date": "2026-03-09",
       "duration_seconds": 1916,
       "duration": "31:56",
-      "word_count": 4770
+      "word_count": 4770,
+      "clean_file": "clean/eLvlRCiKtzs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1916
+      }
     },
     {
       "id": "OUln7rLXg3M",
+      "kind": "youtube",
       "title": "Why Eating Once a Day Helps YOUR Gut but Costs YOUR Muscle",
       "url": "https://www.youtube.com/watch?v=OUln7rLXg3M",
       "upload_date": "2026-08-01",
       "duration_seconds": 1634,
       "duration": "27:14",
-      "word_count": 4218
+      "word_count": 4218,
+      "clean_file": "clean/OUln7rLXg3M.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1634
+      }
     },
     {
       "id": "37OOcftcmbU",
+      "kind": "youtube",
       "title": "Why Every Doctor Gives You the Same Advice — And None of Them Explain Why",
       "url": "https://www.youtube.com/watch?v=37OOcftcmbU",
       "upload_date": "2026-04-08",
       "duration_seconds": 1879,
       "duration": "31:19",
-      "word_count": 4435
+      "word_count": 4435,
+      "clean_file": "clean/37OOcftcmbU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1879
+      }
     },
     {
       "id": "P2o1OdrXJAQ",
+      "kind": "youtube",
       "title": "Why Every Scan YOU Ever Had Is Still Written in Your DNA",
       "url": "https://www.youtube.com/watch?v=P2o1OdrXJAQ",
       "upload_date": "2026-06-28",
       "duration_seconds": 1609,
       "duration": "26:49",
-      "word_count": 4315
+      "word_count": 4315,
+      "clean_file": "clean/P2o1OdrXJAQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1609
+      }
     },
     {
       "id": "RYBagD7_RQM",
+      "kind": "youtube",
       "title": "Why Gardening Without Gloves Changes Your Brain Chemistry",
       "url": "https://www.youtube.com/watch?v=RYBagD7_RQM",
       "upload_date": "2026-04-09",
       "duration_seconds": 1935,
       "duration": "32:15",
-      "word_count": 4439
+      "word_count": 4439,
+      "clean_file": "clean/RYBagD7_RQM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1935
+      }
     },
     {
       "id": "4vXVV7ClxQs",
+      "kind": "youtube",
       "title": "Why LAUGHING Is the Most Violent Thing Your Body Does Willingly",
       "url": "https://www.youtube.com/watch?v=4vXVV7ClxQs",
       "upload_date": "2026-03-11",
       "duration_seconds": 1700,
       "duration": "28:20",
-      "word_count": 4137
+      "word_count": 4137,
+      "clean_file": "clean/4vXVV7ClxQs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1700
+      }
     },
     {
       "id": "2e_Yp9YJgrQ",
+      "kind": "youtube",
       "title": "Why Looking at the HORIZON Resets Your Entire Nervous System",
       "url": "https://www.youtube.com/watch?v=2e_Yp9YJgrQ",
       "upload_date": "2026-04-02",
       "duration_seconds": 1656,
       "duration": "27:36",
-      "word_count": 3883
+      "word_count": 3883,
+      "clean_file": "clean/2e_Yp9YJgrQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1656
+      }
     },
     {
       "id": "T8Jzg_lZ-fo",
+      "kind": "youtube",
       "title": "Why Losing Weight Gets HARDER Every Time YOU Try",
       "url": "https://www.youtube.com/watch?v=T8Jzg_lZ-fo",
       "upload_date": "2026-04-27",
       "duration_seconds": 1596,
       "duration": "26:36",
-      "word_count": 3990
+      "word_count": 3990,
+      "clean_file": "clean/T8Jzg_lZ-fo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1596
+      }
     },
     {
       "id": "DWXqhyZkwco",
+      "kind": "youtube",
       "title": "Why Moving SLOWLY Trains YOUR Brain Faster Than Moving Fast",
       "url": "https://www.youtube.com/watch?v=DWXqhyZkwco",
       "upload_date": "2026-05-19",
       "duration_seconds": 1682,
       "duration": "28:02",
-      "word_count": 4233
+      "word_count": 4233,
+      "clean_file": "clean/DWXqhyZkwco.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1682
+      }
     },
     {
       "id": "uG9xUDbjh1g",
+      "kind": "youtube",
       "title": "Why Moving Water Makes You Feel BETTER",
       "url": "https://www.youtube.com/watch?v=uG9xUDbjh1g",
       "upload_date": "2026-03-20",
       "duration_seconds": 1780,
       "duration": "29:40",
-      "word_count": 4108
+      "word_count": 4108,
+      "clean_file": "clean/uG9xUDbjh1g.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1780
+      }
     },
     {
       "id": "Jlt39TIPLMs",
+      "kind": "youtube",
       "title": "Why Poor Circulation Is the Wrong Answer for YOUR Numb Feet",
       "url": "https://www.youtube.com/watch?v=Jlt39TIPLMs",
       "upload_date": "2026-08-03",
       "duration_seconds": 1615,
       "duration": "26:55",
-      "word_count": 4221
+      "word_count": 4221,
+      "clean_file": "clean/Jlt39TIPLMs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1615
+      }
     },
     {
       "id": "ljs2l971lp4",
+      "kind": "youtube",
       "title": "Why Remembering YOUR Dreams Means You Slept Worse",
       "url": "https://www.youtube.com/watch?v=ljs2l971lp4",
       "upload_date": "2026-08-16",
       "duration_seconds": 1387,
       "duration": "23:07",
-      "word_count": 4330
+      "word_count": 4330,
+      "clean_file": "clean/ljs2l971lp4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1387
+      }
     },
     {
       "id": "wwgvdD9fQ_w",
+      "kind": "youtube",
       "title": "Why Rocking Calms You at 70 the Same Way It Calmed You at 7 Months",
       "url": "https://www.youtube.com/watch?v=wwgvdD9fQ_w",
       "upload_date": "2026-04-13",
       "duration_seconds": 1953,
       "duration": "32:33",
-      "word_count": 4552
+      "word_count": 4552,
+      "clean_file": "clean/wwgvdD9fQ_w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1953
+      }
     },
     {
       "id": "wrejViQw0Qo",
+      "kind": "youtube",
       "title": "Why Shivering Keeps You Alive",
       "url": "https://www.youtube.com/watch?v=wrejViQw0Qo",
       "upload_date": "2026-03-03",
       "duration_seconds": 1519,
       "duration": "25:19",
-      "word_count": 3609
+      "word_count": 3609,
+      "clean_file": "clean/wrejViQw0Qo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1519
+      }
     },
     {
       "id": "s5k7g6av5gw",
+      "kind": "youtube",
       "title": "Why Sitting in a Heated Room Reduced Cardiovascular Death by 50%",
       "url": "https://www.youtube.com/watch?v=s5k7g6av5gw",
       "upload_date": "2026-05-10",
       "duration_seconds": 1800,
       "duration": "30:00",
-      "word_count": 4175
+      "word_count": 4175,
+      "clean_file": "clean/s5k7g6av5gw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1800
+      }
     },
     {
       "id": "KG0ru4kRlsw",
+      "kind": "youtube",
       "title": "Why Some People Need Silence — What Neuroscience Found About Introverts",
       "url": "https://www.youtube.com/watch?v=KG0ru4kRlsw",
       "upload_date": "2026-03-19",
       "duration_seconds": 1823,
       "duration": "30:23",
-      "word_count": 4332
+      "word_count": 4332,
+      "clean_file": "clean/KG0ru4kRlsw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1823
+      }
     },
     {
       "id": "Hk5EXunxchY",
+      "kind": "youtube",
       "title": "Why Staring at FIRE Changes Your Brain — The Physics of 400,000 Years",
       "url": "https://www.youtube.com/watch?v=Hk5EXunxchY",
       "upload_date": "2026-03-09",
       "duration_seconds": 1469,
       "duration": "24:29",
-      "word_count": 3619
+      "word_count": 3619,
+      "clean_file": "clean/Hk5EXunxchY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1469
+      }
     },
     {
       "id": "nkKfxfLwxCo",
+      "kind": "youtube",
       "title": "Why Stretching Feels Good But Makes YOUR Body Worse",
       "url": "https://www.youtube.com/watch?v=nkKfxfLwxCo",
       "upload_date": "2026-06-18",
       "duration_seconds": 1664,
       "duration": "27:44",
-      "word_count": 4284
+      "word_count": 4284,
+      "clean_file": "clean/nkKfxfLwxCo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1664
+      }
     },
     {
       "id": "evPjSR8U-eY",
+      "kind": "youtube",
       "title": "Why Stroke Recovery Feels Like an Altered State",
       "url": "https://www.youtube.com/watch?v=evPjSR8U-eY",
       "upload_date": "2026-03-28",
       "duration_seconds": 1831,
       "duration": "30:31",
-      "word_count": 4390
+      "word_count": 4390,
+      "clean_file": "clean/evPjSR8U-eY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1831
+      }
     },
     {
       "id": "n2F24fK1uLY",
+      "kind": "youtube",
       "title": "Why Sunlight Is the Most Powerful Drug You Take Every Day",
       "url": "https://www.youtube.com/watch?v=n2F24fK1uLY",
       "upload_date": "2026-03-12",
       "duration_seconds": 1854,
       "duration": "30:54",
-      "word_count": 4512
+      "word_count": 4512,
+      "clean_file": "clean/n2F24fK1uLY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1854
+      }
     },
     {
       "id": "rzaxpumi_tI",
+      "kind": "youtube",
       "title": "Why the Food YOU Feared Does What Your Medication Can't",
       "url": "https://www.youtube.com/watch?v=rzaxpumi_tI",
       "upload_date": "2026-07-11",
       "duration_seconds": 1671,
       "duration": "27:51",
-      "word_count": 4260
+      "word_count": 4260,
+      "clean_file": "clean/rzaxpumi_tI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1671
+      }
     },
     {
       "id": "wJUWg397i00",
+      "kind": "youtube",
       "title": "Why the Posture You Were Taught Is STARVING YOUR Discs",
       "url": "https://www.youtube.com/watch?v=wJUWg397i00",
       "upload_date": "2026-07-12",
       "duration_seconds": 1658,
       "duration": "27:38",
-      "word_count": 4384
+      "word_count": 4384,
+      "clean_file": "clean/wJUWg397i00.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1658
+      }
     },
     {
       "id": "LWqhQvOLF8w",
+      "kind": "youtube",
       "title": "Why the Same Food Spikes Your Blood Sugar Differently",
       "url": "https://www.youtube.com/watch?v=LWqhQvOLF8w",
       "upload_date": "2026-04-03",
       "duration_seconds": 1798,
       "duration": "29:58",
-      "word_count": 4429
+      "word_count": 4429,
+      "clean_file": "clean/LWqhQvOLF8w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1798
+      }
     },
     {
       "id": "EjOr6Q-z9oM",
+      "kind": "youtube",
       "title": "Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day",
       "url": "https://www.youtube.com/watch?v=EjOr6Q-z9oM",
       "upload_date": "2026-08-15",
       "duration_seconds": 1402,
       "duration": "23:22",
-      "word_count": 4348
+      "word_count": 4348,
+      "clean_file": "clean/EjOr6Q-z9oM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1402
+      }
     },
     {
       "id": "kyTZl0KEXw8",
+      "kind": "youtube",
       "title": "Why the Smell of Rain Makes You Feel Something You Can't Name",
       "url": "https://www.youtube.com/watch?v=kyTZl0KEXw8",
       "upload_date": "2026-03-10",
       "duration_seconds": 1372,
       "duration": "22:52",
-      "word_count": 3365
+      "word_count": 3365,
+      "clean_file": "clean/kyTZl0KEXw8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1372
+      }
     },
     {
       "id": "I8h0RX28fw0",
+      "kind": "youtube",
       "title": "Why the Sunset You See Is Different From Any Sunset a Young Person See",
       "url": "https://www.youtube.com/watch?v=I8h0RX28fw0",
       "upload_date": "2026-03-07",
       "duration_seconds": 1322,
       "duration": "22:02",
-      "word_count": 3394
+      "word_count": 3394,
+      "clean_file": "clean/I8h0RX28fw0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1322
+      }
     },
     {
       "id": "Qvcd0UY-JB4",
+      "kind": "youtube",
       "title": "Why the Weather Makes Your Body ACHE",
       "url": "https://www.youtube.com/watch?v=Qvcd0UY-JB4",
       "upload_date": "2026-03-04",
       "duration_seconds": 1656,
       "duration": "27:36",
-      "word_count": 4130
+      "word_count": 4130,
+      "clean_file": "clean/Qvcd0UY-JB4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1656
+      }
     },
     {
       "id": "CtM-hB2oe4Q",
+      "kind": "youtube",
       "title": "Why Two Needles Silence YOUR Mind in 15 Minutes",
       "url": "https://www.youtube.com/watch?v=CtM-hB2oe4Q",
       "upload_date": "2026-04-16",
       "duration_seconds": 1770,
       "duration": "29:30",
-      "word_count": 4224
+      "word_count": 4224,
+      "clean_file": "clean/CtM-hB2oe4Q.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1770
+      }
     },
     {
       "id": "bUF1mry7i_k",
+      "kind": "youtube",
       "title": "Why Walking Backwards FIXES What Forward Walking Breaks",
       "url": "https://www.youtube.com/watch?v=bUF1mry7i_k",
       "upload_date": "2026-04-02",
       "duration_seconds": 1795,
       "duration": "29:55",
-      "word_count": 4197
+      "word_count": 4197,
+      "clean_file": "clean/bUF1mry7i_k.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1795
+      }
     },
     {
       "id": "yqDyF9LM2AQ",
+      "kind": "youtube",
       "title": "Why Weight on Your Body Calms Your Nervous System in Minutes",
       "url": "https://www.youtube.com/watch?v=yqDyF9LM2AQ",
       "upload_date": "2026-04-14",
       "duration_seconds": 1889,
       "duration": "31:29",
-      "word_count": 4496
+      "word_count": 4496,
+      "clean_file": "clean/yqDyF9LM2AQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1889
+      }
     },
     {
       "id": "RqFSA2WpQmI",
+      "kind": "youtube",
       "title": "Why Wind Makes You Feel More Alive Than Anything Indoors",
       "url": "https://www.youtube.com/watch?v=RqFSA2WpQmI",
       "upload_date": "2026-04-11",
       "duration_seconds": 1964,
       "duration": "32:44",
-      "word_count": 4616
+      "word_count": 4616,
+      "clean_file": "clean/RqFSA2WpQmI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1964
+      }
     },
     {
       "id": "dzzuKeLiYnM",
+      "kind": "youtube",
       "title": "Why YOU Always Have Mucus in Your Throat",
       "url": "https://www.youtube.com/watch?v=dzzuKeLiYnM",
       "upload_date": "2026-06-26",
       "duration_seconds": 1626,
       "duration": "27:06",
-      "word_count": 4321
+      "word_count": 4321,
+      "clean_file": "clean/dzzuKeLiYnM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1626
+      }
     },
     {
       "id": "flCOMoBwxBs",
+      "kind": "youtube",
       "title": "Why YOU Can Focus for Hours on This — But Not on That",
       "url": "https://www.youtube.com/watch?v=flCOMoBwxBs",
       "upload_date": "2026-07-23",
       "duration_seconds": 1591,
       "duration": "26:31",
-      "word_count": 4186
+      "word_count": 4186,
+      "clean_file": "clean/flCOMoBwxBs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1591
+      }
     },
     {
       "id": "wNTEGXK4lvo",
+      "kind": "youtube",
       "title": "Why YOU Can't Remember Names After 50",
       "url": "https://www.youtube.com/watch?v=wNTEGXK4lvo",
       "upload_date": "2026-07-01",
       "duration_seconds": 1566,
       "duration": "26:06",
-      "word_count": 4209
+      "word_count": 4209,
+      "clean_file": "clean/wNTEGXK4lvo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1566
+      }
     },
     {
       "id": "FpceoxOzlxY",
+      "kind": "youtube",
       "title": "Why You DISLIKE Some People Instantly — Your Body Knew First",
       "url": "https://www.youtube.com/watch?v=FpceoxOzlxY",
       "upload_date": "2026-03-21",
       "duration_seconds": 1686,
       "duration": "28:06",
-      "word_count": 3954
+      "word_count": 3954,
+      "clean_file": "clean/FpceoxOzlxY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1686
+      }
     },
     {
       "id": "-kyGLmKSjZk",
+      "kind": "youtube",
       "title": "Why You Feel Different in Sunlight Than in a Warm Room",
       "url": "https://www.youtube.com/watch?v=-kyGLmKSjZk",
       "upload_date": "2026-03-22",
       "duration_seconds": 1814,
       "duration": "30:14",
-      "word_count": 4203
+      "word_count": 4203,
+      "clean_file": "clean/-kyGLmKSjZk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1814
+      }
     },
     {
       "id": "HCFcXMpu-VY",
+      "kind": "youtube",
       "title": "Why You Feel Physically HEAVIER When You're Sad",
       "url": "https://www.youtube.com/watch?v=HCFcXMpu-VY",
       "upload_date": "2026-03-26",
       "duration_seconds": 1958,
       "duration": "32:38",
-      "word_count": 4730
+      "word_count": 4730,
+      "clean_file": "clean/HCFcXMpu-VY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1958
+      }
     },
     {
       "id": "Ck4A-XbrMN8",
+      "kind": "youtube",
       "title": "Why You Feel the Cold More as You Get Older — Physics of Aging",
       "url": "https://www.youtube.com/watch?v=Ck4A-XbrMN8",
       "upload_date": "2026-03-10",
       "duration_seconds": 1415,
       "duration": "23:35",
-      "word_count": 3483
+      "word_count": 3483,
+      "clean_file": "clean/Ck4A-XbrMN8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1415
+      }
     },
     {
       "id": "0iPYjyZuTGA",
+      "kind": "youtube",
       "title": "Why You Get Smarter As You Age — What Neuroscience Actually Found",
       "url": "https://www.youtube.com/watch?v=0iPYjyZuTGA",
       "upload_date": "2026-03-19",
       "duration_seconds": 1748,
       "duration": "29:08",
-      "word_count": 4104
+      "word_count": 4104,
+      "clean_file": "clean/0iPYjyZuTGA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1748
+      }
     },
     {
       "id": "mBZ6mBxwgHY",
+      "kind": "youtube",
       "title": "Why You Look Like Your Parents AFTER 60 — But Didn't at 30",
       "url": "https://www.youtube.com/watch?v=mBZ6mBxwgHY",
       "upload_date": "2026-03-08",
       "duration_seconds": 1445,
       "duration": "24:05",
-      "word_count": 3741
+      "word_count": 3741,
+      "clean_file": "clean/mBZ6mBxwgHY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1445
+      }
     },
     {
       "id": "_ZzJH1TlY2Y",
+      "kind": "youtube",
       "title": "Why You Press Your Palms Against Your Eyes When Youre Exhausted",
       "url": "https://www.youtube.com/watch?v=_ZzJH1TlY2Y",
       "upload_date": "2026-06-12",
       "duration_seconds": 1716,
       "duration": "28:36",
-      "word_count": 4337
+      "word_count": 4337,
+      "clean_file": "clean/_ZzJH1TlY2Y.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1716
+      }
     },
     {
       "id": "gvmz4zN8NHc",
+      "kind": "youtube",
       "title": "Why You Should LET Your Cat Sleep on You",
       "url": "https://www.youtube.com/watch?v=gvmz4zN8NHc",
       "upload_date": "2026-05-24",
       "duration_seconds": 1622,
       "duration": "27:02",
-      "word_count": 4177
+      "word_count": 4177,
+      "clean_file": "clean/gvmz4zN8NHc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1622
+      }
     },
     {
       "id": "gyOTlBlFEuo",
+      "kind": "youtube",
       "title": "Why You Should TOUCH a Tree Every Day — The Science Nobody Talks About",
       "url": "https://www.youtube.com/watch?v=gyOTlBlFEuo",
       "upload_date": "2026-02-26",
       "duration_seconds": 2023,
       "duration": "33:43",
-      "word_count": 5112
+      "word_count": 5112,
+      "clean_file": "clean/gyOTlBlFEuo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2023
+      }
     },
     {
       "id": "mb653wMoNEE",
+      "kind": "youtube",
       "title": "Why You Should Walk on Dirt, Not Concrete",
       "url": "https://www.youtube.com/watch?v=mb653wMoNEE",
       "upload_date": "2026-04-08",
       "duration_seconds": 1822,
       "duration": "30:22",
-      "word_count": 4451
+      "word_count": 4451,
+      "clean_file": "clean/mb653wMoNEE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1822
+      }
     },
     {
       "id": "HZP7rmDrboA",
+      "kind": "youtube",
       "title": "Why YOU Wake Up 1 Minute Before Your Alarm",
       "url": "https://www.youtube.com/watch?v=HZP7rmDrboA",
       "upload_date": "2026-04-22",
       "duration_seconds": 1624,
       "duration": "27:04",
-      "word_count": 4364
+      "word_count": 4364,
+      "clean_file": "clean/HZP7rmDrboA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1624
+      }
     },
     {
       "id": "UDN4JHYlq7o",
+      "kind": "youtube",
       "title": "Why You Wake Up at 3AM — What Your Body Is Really Doing",
       "url": "https://www.youtube.com/watch?v=UDN4JHYlq7o",
       "upload_date": "2026-03-15",
       "duration_seconds": 1582,
       "duration": "26:22",
-      "word_count": 4191
+      "word_count": 4191,
+      "clean_file": "clean/UDN4JHYlq7o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1582
+      }
     },
     {
       "id": "LHFObEj47Sc",
+      "kind": "youtube",
       "title": "Why You Wake Up at Your Most Vulnerable — And Never Know It",
       "url": "https://www.youtube.com/watch?v=LHFObEj47Sc",
       "upload_date": "2026-03-26",
       "duration_seconds": 2001,
       "duration": "33:21",
-      "word_count": 4926
+      "word_count": 4926,
+      "clean_file": "clean/LHFObEj47Sc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2001
+      }
     },
     {
       "id": "fHKfNsL6wnM",
+      "kind": "youtube",
       "title": "Why YOUR Back Pain Returns After Every Treatment",
       "url": "https://www.youtube.com/watch?v=fHKfNsL6wnM",
       "upload_date": "2026-05-22",
       "duration_seconds": 1625,
       "duration": "27:05",
-      "word_count": 4562
+      "word_count": 4562,
+      "clean_file": "clean/fHKfNsL6wnM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1625
+      }
     },
     {
       "id": "tx-4Ed23PlM",
+      "kind": "youtube",
       "title": "Why Your Balance Is the Most Dangerous Thing You're Losing",
       "url": "https://www.youtube.com/watch?v=tx-4Ed23PlM",
       "upload_date": "2026-04-01",
       "duration_seconds": 1810,
       "duration": "30:10",
-      "word_count": 4202
+      "word_count": 4202,
+      "clean_file": "clean/tx-4Ed23PlM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1810
+      }
     },
     {
       "id": "1wjs-atgmMw",
+      "kind": "youtube",
       "title": "Why YOUR Blood Pressure Stays High Even When You Do Everything Right",
       "url": "https://www.youtube.com/watch?v=1wjs-atgmMw",
       "upload_date": "2026-08-13",
       "duration_seconds": 1442,
       "duration": "24:02",
-      "word_count": 4445
+      "word_count": 4445,
+      "clean_file": "clean/1wjs-atgmMw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1442
+      }
     },
     {
       "id": "9-J4kMqOvWA",
+      "kind": "youtube",
       "title": "Why YOUR Body Shuts Down After Every Single Meal",
       "url": "https://www.youtube.com/watch?v=9-J4kMqOvWA",
       "upload_date": "2026-04-20",
       "duration_seconds": 1814,
       "duration": "30:14",
-      "word_count": 4417
+      "word_count": 4417,
+      "clean_file": "clean/9-J4kMqOvWA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1814
+      }
     },
     {
       "id": "Bt6AclD764Y",
+      "kind": "youtube",
       "title": "Why YOUR Body Treats a Quiet Room Like a Predator",
       "url": "https://www.youtube.com/watch?v=Bt6AclD764Y",
       "upload_date": "2026-08-12",
       "duration_seconds": 1442,
       "duration": "24:02",
-      "word_count": 4374
+      "word_count": 4374,
+      "clean_file": "clean/Bt6AclD764Y.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1442
+      }
     },
     {
       "id": "4i1dOrfSBJI",
+      "kind": "youtube",
       "title": "Why YOUR Body Treats Cold Water Like a Drug",
       "url": "https://www.youtube.com/watch?v=4i1dOrfSBJI",
       "upload_date": "2026-04-23",
       "duration_seconds": 1865,
       "duration": "31:05",
-      "word_count": 4435
+      "word_count": 4435,
+      "clean_file": "clean/4i1dOrfSBJI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1865
+      }
     },
     {
       "id": "6fu-RL-0F9o",
+      "kind": "youtube",
       "title": "Why Your Body Treats Sitting Like a DISEASE",
       "url": "https://www.youtube.com/watch?v=6fu-RL-0F9o",
       "upload_date": "2026-04-05",
       "duration_seconds": 1885,
       "duration": "31:25",
-      "word_count": 4433
+      "word_count": 4433,
+      "clean_file": "clean/6fu-RL-0F9o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1885
+      }
     },
     {
       "id": "_IBvK-rHEqY",
+      "kind": "youtube",
       "title": "Why Your Brain Processes a Whisper Differently From Every Other Sound You Make",
       "url": "https://www.youtube.com/watch?v=_IBvK-rHEqY",
       "upload_date": "2026-04-18",
       "duration_seconds": 1719,
       "duration": "28:39",
-      "word_count": 4391
+      "word_count": 4391,
+      "clean_file": "clean/_IBvK-rHEqY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1719
+      }
     },
     {
       "id": "Wag_cOqiLYE",
+      "kind": "youtube",
       "title": "Why Your Brain Produces A Pain It Cannot Feel",
       "url": "https://www.youtube.com/watch?v=Wag_cOqiLYE",
       "upload_date": "2026-04-30",
       "duration_seconds": 1752,
       "duration": "29:12",
-      "word_count": 4096
+      "word_count": 4096,
+      "clean_file": "clean/Wag_cOqiLYE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1752
+      }
     },
     {
       "id": "qzEsfLQ0oNo",
+      "kind": "youtube",
       "title": "Why Your Childhood Lasted Forever and Last Year Vanished",
       "url": "https://www.youtube.com/watch?v=qzEsfLQ0oNo",
       "upload_date": "2026-03-17",
       "duration_seconds": 1643,
       "duration": "27:23",
-      "word_count": 4098
+      "word_count": 4098,
+      "clean_file": "clean/qzEsfLQ0oNo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1643
+      }
     },
     {
       "id": "4SlLK0ebG8c",
+      "kind": "youtube",
       "title": "Why Your Dog Can READ Your Emotions",
       "url": "https://www.youtube.com/watch?v=4SlLK0ebG8c",
       "upload_date": "2026-03-06",
       "duration_seconds": 1386,
       "duration": "23:06",
-      "word_count": 3385
+      "word_count": 3385,
+      "clean_file": "clean/4SlLK0ebG8c.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1386
+      }
     },
     {
       "id": "huyjjXtmy4Y",
+      "kind": "youtube",
       "title": "Why YOUR Dying Brain Runs the Same 5 Stages as Everyone's",
       "url": "https://www.youtube.com/watch?v=huyjjXtmy4Y",
       "upload_date": "2026-07-29",
       "duration_seconds": 1699,
       "duration": "28:19",
-      "word_count": 4253
+      "word_count": 4253,
+      "clean_file": "clean/huyjjXtmy4Y.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1699
+      }
     },
     {
       "id": "Xd7Cz-cRkeU",
+      "kind": "youtube",
       "title": "Why YOUR Ears Ring And What the Sound Actually Is",
       "url": "https://www.youtube.com/watch?v=Xd7Cz-cRkeU",
       "upload_date": "2026-07-07",
       "duration_seconds": 1602,
       "duration": "26:42",
-      "word_count": 4239
+      "word_count": 4239,
+      "clean_file": "clean/Xd7Cz-cRkeU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1602
+      }
     },
     {
       "id": "leBnH_pE3EY",
+      "kind": "youtube",
       "title": "Why YOUR Hair Follicles Are Strangled",
       "url": "https://www.youtube.com/watch?v=leBnH_pE3EY",
       "upload_date": "2026-06-11",
       "duration_seconds": 1640,
       "duration": "27:20",
-      "word_count": 4230
+      "word_count": 4230,
+      "clean_file": "clean/leBnH_pE3EY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1640
+      }
     },
     {
       "id": "gBKD75NuFO4",
+      "kind": "youtube",
       "title": "Why YOUR Knee and Back Hurt at the Same Time",
       "url": "https://www.youtube.com/watch?v=gBKD75NuFO4",
       "upload_date": "2026-08-11",
       "duration_seconds": 1596,
       "duration": "26:36",
-      "word_count": 4185
+      "word_count": 4185,
+      "clean_file": "clean/gBKD75NuFO4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1596
+      }
     },
     {
       "id": "d9PWCrjX2sA",
+      "kind": "youtube",
       "title": "Why Your LEGS Are Filling Your Bladder at 2AM",
       "url": "https://www.youtube.com/watch?v=d9PWCrjX2sA",
       "upload_date": "2026-04-26",
       "duration_seconds": 1845,
       "duration": "30:45",
-      "word_count": 4776
+      "word_count": 4776,
+      "clean_file": "clean/d9PWCrjX2sA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1845
+      }
     },
     {
       "id": "drAIEKNP0Tw",
+      "kind": "youtube",
       "title": "Why YOUR Memory Works Better With a Pen Than a Screen",
       "url": "https://www.youtube.com/watch?v=drAIEKNP0Tw",
       "upload_date": "2026-04-24",
       "duration_seconds": 1708,
       "duration": "28:28",
-      "word_count": 4331
+      "word_count": 4331,
+      "clean_file": "clean/drAIEKNP0Tw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1708
+      }
     },
     {
       "id": "sF9zE_QXSYA",
+      "kind": "youtube",
       "title": "Why YOUR Muscle Ignores the Protein YOU Eat",
       "url": "https://www.youtube.com/watch?v=sF9zE_QXSYA",
       "upload_date": "2026-08-08",
       "duration_seconds": 1433,
       "duration": "23:53",
-      "word_count": 4321
+      "word_count": 4321,
+      "clean_file": "clean/sF9zE_QXSYA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1433
+      }
     },
     {
       "id": "6XmOWCCPh-c",
+      "kind": "youtube",
       "title": "Why YOUR NERVOUS SYSTEM Recovers Faster Under a Tree Than Anywhere Else",
       "url": "https://www.youtube.com/watch?v=6XmOWCCPh-c",
       "upload_date": "2026-03-23",
       "duration_seconds": 1890,
       "duration": "31:30",
-      "word_count": 4562
+      "word_count": 4562,
+      "clean_file": "clean/6XmOWCCPh-c.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1890
+      }
     },
     {
       "id": "P8dp3QJppBA",
+      "kind": "youtube",
       "title": "Why YOUR Reading Glasses Arrived on Schedule",
       "url": "https://www.youtube.com/watch?v=P8dp3QJppBA",
       "upload_date": "2026-07-15",
       "duration_seconds": 1608,
       "duration": "26:48",
-      "word_count": 4265
+      "word_count": 4265,
+      "clean_file": "clean/P8dp3QJppBA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1608
+      }
     },
     {
       "id": "S0CeHGxl2zY",
+      "kind": "youtube",
       "title": "Why YOUR Skin Grows Things That Weren't There at 30",
       "url": "https://www.youtube.com/watch?v=S0CeHGxl2zY",
       "upload_date": "2026-07-28",
       "duration_seconds": 1687,
       "duration": "28:07",
-      "word_count": 4235
+      "word_count": 4235,
+      "clean_file": "clean/S0CeHGxl2zY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1687
+      }
     },
     {
       "id": "dfwYYWTyGY4",
+      "kind": "youtube",
       "title": "Why YOUR Strength Doesn't Prevent Falls",
       "url": "https://www.youtube.com/watch?v=dfwYYWTyGY4",
       "upload_date": "2026-06-15",
       "duration_seconds": 1756,
       "duration": "29:16",
-      "word_count": 4354
+      "word_count": 4354,
+      "clean_file": "clean/dfwYYWTyGY4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1756
+      }
     },
     {
       "id": "nYEP1F5kFQA",
+      "kind": "youtube",
       "title": "Why YOUR TEETH Start Breaking After 50",
       "url": "https://www.youtube.com/watch?v=nYEP1F5kFQA",
       "upload_date": "2026-07-19",
       "duration_seconds": 1583,
       "duration": "26:23",
-      "word_count": 4123
+      "word_count": 4123,
+      "clean_file": "clean/nYEP1F5kFQA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1583
+      }
     },
     {
       "id": "uP2vf0RjeFs",
+      "kind": "youtube",
       "title": "You Process 11 Million Bits Per Second — You Are Aware of 50",
       "url": "https://www.youtube.com/watch?v=uP2vf0RjeFs",
       "upload_date": "2026-04-18",
       "duration_seconds": 1648,
       "duration": "27:28",
-      "word_count": 4395
+      "word_count": 4395,
+      "clean_file": "clean/uP2vf0RjeFs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1648
+      }
     },
     {
       "id": "qQQgl_BGiVg",
+      "kind": "youtube",
       "title": "Your Body Ages FASTER After 50 — Here's What's Happening Inside",
       "url": "https://www.youtube.com/watch?v=qQQgl_BGiVg",
       "upload_date": "2026-03-11",
       "duration_seconds": 1512,
       "duration": "25:12",
-      "word_count": 3672
+      "word_count": 3672,
+      "clean_file": "clean/qQQgl_BGiVg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1512
+      }
     },
     {
       "id": "ocXl03mS2uw",
+      "kind": "youtube",
       "title": "Your Body Creates ELECTRICITY — The Physics Nobody Explains",
       "url": "https://www.youtube.com/watch?v=ocXl03mS2uw",
       "upload_date": "2026-03-05",
       "duration_seconds": 1537,
       "duration": "25:37",
-      "word_count": 3663
+      "word_count": 3663,
+      "clean_file": "clean/ocXl03mS2uw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1537
+      }
     },
     {
       "id": "9MNqrOvyBZE",
+      "kind": "youtube",
       "title": "Your Body Has a FURNACE Nobody Told You About",
       "url": "https://www.youtube.com/watch?v=9MNqrOvyBZE",
       "upload_date": "2026-03-31",
       "duration_seconds": 1865,
       "duration": "31:05",
-      "word_count": 4357
+      "word_count": 4357,
+      "clean_file": "clean/9MNqrOvyBZE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1865
+      }
     },
     {
       "id": "zCvHYepPFuI",
+      "kind": "youtube",
       "title": "YOUR Brain Still Checks for Something That Disappeared 2 Million Years Ago",
       "url": "https://www.youtube.com/watch?v=zCvHYepPFuI",
       "upload_date": "2026-07-21",
       "duration_seconds": 1603,
       "duration": "26:43",
-      "word_count": 4264
+      "word_count": 4264,
+      "clean_file": "clean/zCvHYepPFuI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1603
+      }
     },
     {
       "id": "CkLns6R1QOs",
+      "kind": "youtube",
       "title": "Your Brain Was Never Meant to Read — Here's What Happens When It Does",
       "url": "https://www.youtube.com/watch?v=CkLns6R1QOs",
       "upload_date": "2026-03-17",
       "duration_seconds": 1872,
       "duration": "31:12",
-      "word_count": 4462
+      "word_count": 4462,
+      "clean_file": "clean/CkLns6R1QOs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1872
+      }
     },
     {
       "id": "qFz25EAthUE",
+      "kind": "youtube",
       "title": "Your Brain's PROOF That Colors Do NOT Exist",
       "url": "https://www.youtube.com/watch?v=qFz25EAthUE",
       "upload_date": "2026-02-28",
       "duration_seconds": 1661,
       "duration": "27:41",
-      "word_count": 4239
+      "word_count": 4239,
+      "clean_file": "clean/qFz25EAthUE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1661
+      }
     },
     {
       "id": "Ip_1lMrxGp8",
+      "kind": "youtube",
       "title": "YOUR Cells Aren't Broken — They're Waiting for a Different Signal",
       "url": "https://www.youtube.com/watch?v=Ip_1lMrxGp8",
       "upload_date": "2026-07-18",
       "duration_seconds": 1630,
       "duration": "27:10",
-      "word_count": 4229
+      "word_count": 4229,
+      "clean_file": "clean/Ip_1lMrxGp8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1630
+      }
     },
     {
       "id": "CdUXGQy_Q8s",
+      "kind": "youtube",
       "title": "Your Chair Is Aging You Faster Than Time",
       "url": "https://www.youtube.com/watch?v=CdUXGQy_Q8s",
       "upload_date": "2026-04-01",
       "duration_seconds": 1771,
       "duration": "29:31",
-      "word_count": 4331
+      "word_count": 4331,
+      "clean_file": "clean/CdUXGQy_Q8s.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1771
+      }
     },
     {
       "id": "lUxY0L1wmZk",
+      "kind": "youtube",
       "title": "Your EAR Has a Hidden Nerve — And It Reaches Your Heart",
       "url": "https://www.youtube.com/watch?v=lUxY0L1wmZk",
       "upload_date": "2026-05-25",
       "duration_seconds": 1620,
       "duration": "27:00",
-      "word_count": 4135
+      "word_count": 4135,
+      "clean_file": "clean/lUxY0L1wmZk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1620
+      }
     },
     {
       "id": "PmlpIs2TCOw",
+      "kind": "youtube",
       "title": "YOUR Eyes Have 16 Muscles You Never Exercise",
       "url": "https://www.youtube.com/watch?v=PmlpIs2TCOw",
       "upload_date": "2026-04-28",
       "duration_seconds": 1687,
       "duration": "28:07",
-      "word_count": 4250
+      "word_count": 4250,
+      "clean_file": "clean/PmlpIs2TCOw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1687
+      }
     },
     {
       "id": "ui8y9vOm6dw",
+      "kind": "youtube",
       "title": "YOUR Morning Decides How Fast You Age",
       "url": "https://www.youtube.com/watch?v=ui8y9vOm6dw",
       "upload_date": "2026-06-21",
       "duration_seconds": 1668,
       "duration": "27:48",
-      "word_count": 4364
+      "word_count": 4364,
+      "clean_file": "clean/ui8y9vOm6dw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1668
+      }
     },
     {
       "id": "Hc79_xF69-s",
+      "kind": "youtube",
       "title": "Your Morning Walk Is MISSING the One Thing That Actually Protects You",
       "url": "https://www.youtube.com/watch?v=Hc79_xF69-s",
       "upload_date": "2026-05-09",
       "duration_seconds": 1684,
       "duration": "28:04",
-      "word_count": 4227
+      "word_count": 4227,
+      "clean_file": "clean/Hc79_xF69-s.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1684
+      }
     },
     {
       "id": "5nJH1YIU5LM",
+      "kind": "youtube",
       "title": "YOUR Muscles Are Stronger Going Down — Nobody Told You to Use It",
       "url": "https://www.youtube.com/watch?v=5nJH1YIU5LM",
       "upload_date": "2026-06-03",
       "duration_seconds": 1643,
       "duration": "27:23",
-      "word_count": 4211
+      "word_count": 4211,
+      "clean_file": "clean/5nJH1YIU5LM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1643
+      }
     },
     {
       "id": "rO6QLZgmIHs",
+      "kind": "youtube",
       "title": "Your Nose Is a Drug Factory — The Science of How You Breathe",
       "url": "https://www.youtube.com/watch?v=rO6QLZgmIHs",
       "upload_date": "2026-03-23",
       "duration_seconds": 1708,
       "duration": "28:28",
-      "word_count": 4148
+      "word_count": 4148,
+      "clean_file": "clean/rO6QLZgmIHs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1708
+      }
     },
     {
       "id": "egzhIyTP3vE",
+      "kind": "youtube",
       "title": "Your Pancreas Has a Clock — And It Shuts Down Before Dinner",
       "url": "https://www.youtube.com/watch?v=egzhIyTP3vE",
       "upload_date": "2026-04-10",
       "duration_seconds": 1845,
       "duration": "30:45",
-      "word_count": 4465
+      "word_count": 4465,
+      "clean_file": "clean/egzhIyTP3vE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1845
+      }
     },
     {
       "id": "drmR73nU4AQ",
+      "kind": "youtube",
       "title": "Your Thymus Is Gone — And Your Immune System Is Running on What It Left Behind",
       "url": "https://www.youtube.com/watch?v=drmR73nU4AQ",
       "upload_date": "2026-03-28",
       "duration_seconds": 1848,
       "duration": "30:48",
-      "word_count": 4496
+      "word_count": 4496,
+      "clean_file": "clean/drmR73nU4AQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1848
+      }
     },
     {
       "id": "4ETtiIMRvlo",
+      "kind": "youtube",
       "title": "Your YAWN Has Nothing to Do With Oxygen",
       "url": "https://www.youtube.com/watch?v=4ETtiIMRvlo",
       "upload_date": "2026-03-27",
       "duration_seconds": 1803,
       "duration": "30:03",
-      "word_count": 4395
+      "word_count": 4395,
+      "clean_file": "clean/4ETtiIMRvlo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1803
+      }
     }
   ],
   "skipped": []

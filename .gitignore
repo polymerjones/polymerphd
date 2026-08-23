@@ -1,6 +1,7 @@
-# yt-dlp caption download dump — 297 MB, regenerable from manifest.json.
-# The cleaned transcripts in source_transcripts/clean/ are the provenance record.
-source_transcripts/raw/
+# Raw ingest dumps (yt-dlp captions, fetched HTML, source PDFs/EPUBs) — large,
+# regenerable from each library's sources/manifest.json. The cleaned text in
+# each library's sources/clean/ is the provenance record.
+libraries/*/sources/raw/
 
 # macOS
 .DS_Store
@@ -17,4 +18,4 @@ ios/**/xcuserdata/
 *.xcuserstate
 
 # Transient fetch batch, rewritten by add_videos.py on every run.
-scripts/video_ids_added.txt
+libraries/*/ingest_state/video_ids_added.txt

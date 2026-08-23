@@ -13,8 +13,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-NOTES = ROOT / "notes"
-OUT = Path(sys.argv[2]) if len(sys.argv) > 2 else ROOT / "scratch_sections"
+LIB = ROOT / "libraries" / "restorative-physiology"
+NOTES = LIB / "notes"
+OUT = Path(sys.argv[2]) if len(sys.argv) > 2 else LIB / "scratch_sections"
 
 TARGET = sys.argv[1]
 

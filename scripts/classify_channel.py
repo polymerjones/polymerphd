@@ -17,6 +17,7 @@ Borderline cases are included, not dropped -- subtitles are cheap and the brief 
 import pathlib, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
+LIB = ROOT / "libraries" / "restorative-physiology"
 
 # Excluded by video id, with the reason recorded so 00_README can report it honestly.
 EXCLUDE = {
@@ -84,7 +85,7 @@ EXCLUDE = {
 
 def main():
     rows = []
-    for line in (ROOT / "scripts" / "channel_full.tsv").read_text(encoding="utf-8").splitlines():
+    for line in (LIB / "ingest_state" / "channel_full.tsv").read_text(encoding="utf-8").splitlines():
         if not line.strip():
             continue
         p = line.split("\\t")
@@ -93,14 +94,14 @@ def main():
     inc = [r for r in rows if r["id"] not in EXCLUDE]
     exc = [r for r in rows if r["id"] in EXCLUDE]
 
-    out = ROOT / "scripts" / "video_ids_full.txt"
+    out = LIB / "ingest_state" / "video_ids_full.txt"
     out.write_text(
         "# Every video on @The_Feynman_Way pertaining to health and the human body.\n"
         f"# {len(inc)} of {len(rows)} channel videos. {len(exc)} excluded (see excluded_videos.tsv).\n"
         + "".join(f"https://www.youtube.com/watch?v={r['id']}\n" for r in inc),
         encoding="utf-8",
     )
-    (ROOT / "scripts" / "excluded_videos.tsv").write_text(
+    (LIB / "ingest_state" / "excluded_videos.tsv").write_text(
         "id\treason\ttitle\n"
         + "".join(f"{r['id']}\t{EXCLUDE[r['id']]}\t{r['title']}\n" for r in exc),
         encoding="utf-8",
