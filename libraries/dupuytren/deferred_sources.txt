@@ -28,6 +28,14 @@ sAYRSHnygng  # Dr. Paul Werker "First Web Space Collagenase Treatment" 2015 —
              # injection, six-month outcome data) is inferable from the title,
              # not from any reliably legible sentence in the transcript.
 
+fHoOhGlsgDU  # Paul Werker "Management of soft tissue..." 2010 — same "en"
+             # (non-original) caption-track pattern as sAYRSHnygng, badly
+             # fragmented throughout; general topic (comparing Dupuytren's
+             # scarring to hypertrophic scars/keloids, then Z-plasty and
+             # regional flap technique for skin closure) is inferable only
+             # from isolated legible fragments and the title, not reliable
+             # enough to quote or attribute specific claims to.
+
 # Reason category: duplicate upload of a talk already covered by a written note.
 
 EeWSekhmZS8  # Guido Dolmans "A clinical genetic study of familial..." 2010 —

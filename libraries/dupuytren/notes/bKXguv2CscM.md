@@ -111,7 +111,10 @@ against the more favorable patient satisfaction data, without claiming the two m
 
 ## Conflicts with other sources
 
-**Directly complements `1BURdqs3a4U`** (Pess's percutaneous fasciotomy and collagenase technique talk) — this
+**Directly complements `OD7cAtaNl3c`** (Pess's own talk on the same underlying trial) — that talk isolates the
+specific question of manipulation timing (24 vs. 48 vs. 72+ hours), finding no efficacy difference and actually
+a lower laceration rate at 72 hours, a practical scheduling finding this talk's efficacy/safety summary does
+not itself cover. **Directly complements `1BURdqs3a4U`** (Pess's percutaneous fasciotomy and collagenase technique talk) — this
 talk supplies the formal trial data behind the concurrent double-dose approach Pess discusses from a technique
 perspective; Badalamente explicitly frames her talk as overlapping with his. **Directly comparable to
 `OwSS6grbMAc`** (Badalamente's own CORD I single-joint collagenase trial talk) — this double-dose study's
