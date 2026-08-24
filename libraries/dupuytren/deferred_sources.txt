@@ -13,6 +13,14 @@ i0NyWNsYdgo  # Dr. Ruud Bank "Dupuytren Research Prerequisites" 2015 — near-to
              # isolated fragments legible (Groningen, fibroblast gene-expression
              # comparisons, vitamin C/collagen), not enough for confident claims.
 
+rp0ZsLbwh8Q  # Andrey Zhigalo "The features of surgical tactic in treatment..."
+             # 2010 — heavy-accent auto-captions produce nonsensical medical
+             # terms throughout (e.g. "radical prostatectomy," "partial
+             # mastectomy" in a hand-surgery talk), evidence of severe
+             # transcription corruption; skin blood-supply/vessel-injection
+             # study and a 62-vs-45-operation clinical comparison are
+             # legible in outline only, not reliable enough to quote or cite.
+
 # Reason category: duplicate upload of a talk already covered by a written note.
 
 EeWSekhmZS8  # Guido Dolmans "A clinical genetic study of familial..." 2010 —

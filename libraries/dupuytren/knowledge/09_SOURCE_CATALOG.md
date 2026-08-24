@@ -3,13 +3,25 @@
 Every source ingested into this knowledge package, with the Main subjects, Anatomy, Management options, and Important concepts each one covers.
 
 **Video sources from:** Dupuytren Foundation — https://www.youtube.com/@DupuytrenFoundation  
-**Sources catalogued:** 80
+**Sources catalogued:** 102
 
 Entries are alphabetical by title. Use the source ID to trace any claim in the other files back to its source.
 
 ---
 
-## 1. Advancing Dupuytren disease diagnosis and treatment
+## 1. 2010 IFSSH Needle Aponeurotomy presentation
+
+- **Source ID:** `wSZhfP1r1OY`
+- **URL:** https://www.youtube.com/watch?v=wSZhfP1r1OY
+- **Upload date:** 2016-05-18
+- **Duration:** 09:26
+- **Source file:** `sources/clean/wSZhfP1r1OY.txt`
+- **Main subjects:** why open surgery's own biology works against Dupuytren's disease control, a risk-tolerance explanation for why patients avoid surgery but accept needle release, specific technical keys — needle gauge, anesthesia depth, and the "do no harm" checks, a full case walkthrough, from anesthesia to final manipulation
+- **Anatomy:** pretendinous, natatory, and spiral cords, digital nerve, MCP and PIP joints
+- **Management options:** needle fasciotomy (needle aponeurotomy), Eaton's modified technique
+- **Important concepts:** flap elevation and wound tension as drivers of post-surgical inflammation, prospect theory — modest risk outweighing modest gain in patient decision-making, real-time patient feedback (sensation, tendon excursion) as the intraoperative safety check
+
+## 2. Advancing Dupuytren disease diagnosis and treatment
 
 - **Source ID:** `X-LhucSUXgQ`
 - **URL:** https://www.youtube.com/watch?v=X-LhucSUXgQ
@@ -21,7 +33,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** diagnostic versus predictive biomarker tests, biomarker-driven research as more fundable than clinical-measurement-only research, damage control versus disease control as models of care
 
-## 2. Anatomy Cords
+## 3. Albrecht Meinel MD, "The palmar fibromatosis the..." 2010 Miami Dupuytren Symposium Presentation
+
+- **Source ID:** `kq4hr06tOtY`
+- **URL:** https://www.youtube.com/watch?v=kq4hr06tOtY
+- **Upload date:** 2010-09-11
+- **Duration:** 12:24
+- **Source file:** `sources/clean/kq4hr06tOtY.txt`
+- **Main subjects:** reframing the bent Dupuytren's finger as tissue retention rather than active contraction, why the disease is proposed to occur specifically in the finger's mobile, flexed-position tissue, reinterpreting Luck's histogenic classification and the myofibroblast's role, a modified subcutaneous fasciotomy technique following from this theory
+- **Anatomy:** subcutaneous fibro-fatty tissue of the finger, Cleland's ligament, the palmar aponeurosis
+- **Management options:** Meinel's modified, exclusively subcutaneous release technique, called digital fasciotomy, static extension splinting, proposed to prevent tissue/finger retention
+- **Important concepts:** tissue retention versus active tissue contraction as competing explanatory models, fingers spending most of the day and night in a flexed position as a precondition for the disease, stress adaptation/remodeling of connective tissue as the proposed mechanism, rather than active shortening
+
+## 4. Anatomy Cords
 
 - **Source ID:** `iD3mYMmfN-Q`
 - **URL:** https://www.youtube.com/watch?v=iD3mYMmfN-Q
@@ -33,7 +57,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** central, retrovascular, lateral, and spiral cords as distinct clinical entities, residual contracting force without a palpable cord, incomplete correction versus early loss of correction as separate failure modes
 
-## 3. Anne Ouellette MD MBA, "Outcomes of Apligraf use in... " 2010 Miami Dupuytren Symposium
+## 5. Anne Ouellette MD MBA, "Outcomes of Apligraf use in... " 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `ZFj6QIZfHq8`
 - **URL:** https://www.youtube.com/watch?v=ZFj6QIZfHq8
@@ -45,7 +69,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** bioengineered (tissue-engineered) skin graft applied over open-palm (McCash) fasciectomy wounds
 - **Important concepts:** bioengineered skin as living cell therapy, not just a physical barrier, the McCash open-palm technique as the baseline being modified, donor-site pain reduction with bioengineered coverage
 
-## 4. Annet Van Rijssen MD, "5-year results of first-ever randomised..." 2010 Miami Dupuytren Symposium
+## 6. Annet Van Rijssen MD, "5-year results of first-ever randomised..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `oRdE0UKeJF0`
 - **URL:** https://www.youtube.com/watch?v=oRdE0UKeJF0
@@ -57,7 +81,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** percutaneous needle fasciotomy (PNF), limited fasciectomy (LF)
 - **Important concepts:** recurrence defined as a 30-degree TPD worsening from the 6-week post-operative measurement, worst-case and best-case sensitivity analysis for patients lost to follow-up, age as a predictor of recurrence independent of technique
 
-## 5. Ardeshir Bayat MD PhD "Genetics of Dupuytren's Disease" 2010 Dupuytren Symposium
+## 7. Ardeshir Bayat MD PhD "Genetics of Dupuytren's Disease" 2010 Dupuytren Symposium
 
 - **Source ID:** `g40N2M2C6qM`
 - **URL:** https://www.youtube.com/watch?v=g40N2M2C6qM
@@ -69,7 +93,31 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** sibling recurrence risk ratio as genetic evidence, LOD score as a linkage-study significance threshold, copy number variation (CNV), gene expression comparison across nodule, cord, and control tissue, personalized medicine / pharmacogenomics applied to treatment selection
 
-## 6. Biomarkers and the IDDB: 2021Symposium
+## 8. Bernhard Lukas Dr med, "Treatment of severe Dupuytren contracture..." 2010 Miami Dupuytren Symposium
+
+- **Source ID:** `r5L_NKVFdQw`
+- **URL:** https://www.youtube.com/watch?v=r5L_NKVFdQw
+- **Upload date:** 2010-10-21
+- **Duration:** 11:14
+- **Source file:** `sources/clean/r5L_NKVFdQw.txt`
+- **Main subjects:** a joint-severity-specific flap algorithm for skin closure after PIP joint release, a modified homodigital/heterodigital transposition flap technique, and why it replaced an earlier design, a five-year, 50-patient outcome series stratified by preoperative contracture severity, complications, including vascularity problems and two revision procedures
+- **Anatomy:** MCP joint, PIP joint, proximal and middle phalanx, neurovascular bundle
+- **Management options:** Z-plasty (for PIP contracture under 30 degrees), dorsolateral/homodigital and heterodigital transposition flaps with full-thickness skin grafting (for PIP contracture over 30 degrees), open arthrolysis, combinable with open palm technique
+- **Important concepts:** Tubiana staging (0 through IV) as the severity framework guiding technique choice, tension-free wound closure as essential after open arthrolysis, recurrence versus loss of intraoperatively achieved correction, tracked separately over time
+
+## 9. Bing Siang Gan MD PhD, "Needle aponeurotomy for..." 2010 Miami Dupuytren Symposium
+
+- **Source ID:** `-32nd2vQexQ`
+- **URL:** https://www.youtube.com/watch?v=-32nd2vQexQ
+- **Upload date:** 2010-10-22
+- **Duration:** 08:55
+- **Source file:** `sources/clean/-32nd2vQexQ.txt`
+- **Main subjects:** a personal reversal — publicly opposing needle aponeurotomy, then adopting it after a mentor's death, a prospective 62-finger series and how its results compare to prior literature, why the technique worked best at the MCP joint specifically, one flexor tendon laceration complication, and what Gan took from it
+- **Anatomy:** MCP joint, PIP joint, flexor tendon (zone I/II border)
+- **Management options:** needle aponeurotomy (a slicing, radial-to-ulnar technique variant)
+- **Important concepts:** total digital extension deficit as the outcome measure, cord proximity to the neurovascular bundle as the rationale for joint-specific technique preference, Gan's own stated lesson from reversing a public position, that never is not very long
+
+## 10. Biomarkers and the IDDB: 2021Symposium
 
 - **Source ID:** `Eqpst2Of7ow`
 - **URL:** https://www.youtube.com/watch?v=Eqpst2Of7ow
@@ -81,7 +129,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** repeat/revision fasciectomy after dermofasciectomy, with a stated amputation rate
 - **Important concepts:** cord-to-joint-axis geometry determining angular contracture, Dupuytren's diathesis as an "educated guess," not a measurement, age of diagnosis versus age of onset, blood biomarkers as the emerging standard across fibrotic diseases generally
 
-## 7. Boris Hinz PhD, "Fundamental aspects of..." 2010 Miami Dupuytren Symposium Presentation
+## 11. Boris Hinz PhD, "Fundamental aspects of..." 2010 Miami Dupuytren Symposium Presentation
 
 - **Source ID:** `fvmRS3OiWic`
 - **URL:** https://www.youtube.com/watch?v=fvmRS3OiWic
@@ -93,7 +141,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** myofibroblast as phenotype rather than cell type (Gabbiani's functional definition), the calcium/calmodulin/myosin light chain kinase pathway, the Rho-kinase pathway, periodic versus isometric contraction, matrix remodeling via cyclical slack creation and take-up
 
-## 8. British Dupuytren Society Seven Questions
+## 12. British Dupuytren Society Seven Questions
 
 - **Source ID:** `-jLfWXX3YUM`
 - **URL:** https://www.youtube.com/watch?v=-jLfWXX3YUM
@@ -105,7 +153,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** minimally invasive procedures (collagenase, needle fasciotomy) versus open procedures (fasciectomy, dermofasciectomy), tamoxifen and repeated cortisone injection as post-procedure recurrence-slowing trials, hand therapy, splinting, radiotherapy, massage, and supplements, each rated by evidence quality
 - **Important concepts:** Dupuytren's diathesis, the biomarker gap and why it blocks preventive-treatment research, the 20–40 degree PIP treatment window, minimizing lifetime permanent complications as the actual treatment goal
 
-## 9. Chrishan Samuel PhD, "Relaxin: an emerging therapy for..." 2010 Miami Dupuytren Symposium
+## 13. Chrishan Samuel PhD, "Relaxin: an emerging therapy for..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `2Yi43NqnvfM`
 - **URL:** https://www.youtube.com/watch?v=2Yi43NqnvfM
@@ -117,7 +165,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** relaxin (H2 relaxin) and its receptor RXFP1, SMAD signaling (SMAD2/3/4 pro-fibrotic, SMAD7 anti-fibrotic), disease-selective anti-fibrotic action (no effect on basal matrix turnover), relaxin knockout mice as causal evidence of its regulatory role
 
-## 10. Christina Raykha MSc Candidate, "Insulin-like Growth Factor..." 2010 Miami Dupuytren Symposium
+## 14. Christina Raykha MSc Candidate, "Insulin-like Growth Factor..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `8Kp5Fz7ZKl0`
 - **URL:** https://www.youtube.com/watch?v=8Kp5Fz7ZKl0
@@ -129,7 +177,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** IGFBP6 as a negative regulator of IGF2 bioavailability, TGF-beta repressing IGFBP6 as a proposed disease mechanism, dose-response fibroblast-populated collagen lattice (FPCL) testing
 
-## 11. David O'Gorman PhD, "Primary Dupuytren's Disease cell..." 2010 Miami Dupuytren Symposium
+## 15. David O'Gorman PhD, "Primary Dupuytren's Disease cell..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `XMQEyF-Gtv0`
 - **URL:** https://www.youtube.com/watch?v=XMQEyF-Gtv0
@@ -141,7 +189,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** the extracellular matrix as an active mediator of disease, not a passive scaffold, the cell migration hypothesis versus the ECM-mediated disease hypothesis, beta-catenin and periostin as matricellular/signaling markers, patient-matched genetically identical controls (disease-affected versus phenotypically normal fascia, same patient)
 
-## 12. Davor Jurisic Phd MD, "Screening of potential prodrugs on cells..." 2010 Miami Dupuytren Symposium
+## 16. Davor Jurisic Phd MD, "Screening of potential prodrugs on cells..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `e_14ZbU3pFM`
 - **URL:** https://www.youtube.com/watch?v=e_14ZbU3pFM
@@ -153,7 +201,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** selective versus non-specific antiproliferative activity, IC50/LC50 testing for differential drug effect, topoisomerase inhibition and tubulin interference as a drug mechanism
 
-## 13. Debbie Larson BScOT, "Splinting after contracture..." 2010 Miami Dupuytren Symposium
+## 17. Debbie Larson BScOT, "Splinting after contracture..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `KjV8R8x4OwE`
 - **URL:** https://www.youtube.com/watch?v=KjV8R8x4OwE
@@ -165,7 +213,31 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** static thermoplastic night splinting, six months, after fasciectomy or dermofasciectomy
 - **Important concepts:** pragmatic trial design, intention-to-treat versus per-protocol versus explanatory analysis, the minimally clinically important difference (MCID) used for sample size calculation, a "wait and see" splinting policy as a study conclusion
 
-## 14. Dr. Caroline Leclercq "Severe PIPj contractures" 2015 Dupuytren Symposium
+## 18. Dr. Adrian Chojnowski "Debate: Splinting confers no benefit" 2015 Dupuytren Symposium
+
+- **Source ID:** `dp45M2IEW3k`
+- **URL:** https://www.youtube.com/watch?v=dp45M2IEW3k
+- **Upload date:** 2015-11-20
+- **Duration:** 05:56
+- **Source file:** `sources/clean/dp45M2IEW3k.txt`
+- **Main subjects:** a laboratory rationale for why splinting tension might not help fibroblast biology, the single available paper on non-operative splinting, and its real limitations, three randomized trials of post-surgical night splinting, presented in sequence, why the debate concludes routine post-op night splinting isn't supported by the evidence
+- **Anatomy:** MCP joint, PIP joint
+- **Management options:** post-surgical night splinting, tested against hand therapy alone across three randomized trials
+- **Important concepts:** fibroblast/myofibroblast response to tensile stress in laboratory culture, intention-to-treat analysis with a built-in, ethically necessary crossover allowance, distinguishing patient satisfaction from statistically measured functional outcome
+
+## 19. Dr. Atanu Biswas "Soft Tissue Distraction versus Fasciectomy" 2015 Dupuytren Symposium
+
+- **Source ID:** `pE5YRmrXIGY`
+- **URL:** https://www.youtube.com/watch?v=pE5YRmrXIGY
+- **Upload date:** 2015-11-21
+- **Duration:** 07:28
+- **Source file:** `sources/clean/pE5YRmrXIGY.txt`
+- **Main subjects:** a retrospective comparison of a dynamic external distraction device against fasciectomy with check-rein release, why acute soft-tissue release risks digital artery spasm and skin loss, a detailed case walkthrough, including a secondary complication that emerged mid-treatment, where this device fits relative to needle aponeurotomy and collagenase by contracture severity
+- **Anatomy:** PIP joint, check-rein ligaments, digital arteries
+- **Management options:** the "digit widget" — a dynamic external soft-tissue distraction device, fasciectomy with check-rein ligament release
+- **Important concepts:** gradual soft-tissue lengthening as an alternative to acute surgical release, severity-stratified treatment selection across three modalities, retrospective cohort comparison design
+
+## 20. Dr. Caroline Leclercq "Severe PIPj contractures" 2015 Dupuytren Symposium
 
 - **Source ID:** `L3kjpUIwHIQ`
 - **URL:** https://www.youtube.com/watch?v=L3kjpUIwHIQ
@@ -177,7 +249,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** local flaps (V-Y) for isolated contracture under 90 degrees, skin grafting/dermofasciectomy for high-diathesis or recurrent contracture, two-stage palmar fasciotomy before definitive PIP surgery in very severe cases, external fixators for extreme contracture, PIP joint shortening arthrodesis (removing the middle phalanx) as a salvage option
 - **Important concepts:** the 90-degree threshold for defining severe contracture, dermofasciectomy's protective effect specifically under the grafted skin, the extension-versus-flexion tradeoff in aggressive joint release, the Tubiana disease test for extensor slackening
 
-## 15. Dr. Charles Eaton "Debate: Passive More than Active Contraction" 2015 Dupuytren Symposium
+## 21. Dr. Charles Eaton "Debate: Passive More than Active Contraction" 2015 Dupuytren Symposium
 
 - **Source ID:** `wsqTB5LAGYo`
 - **URL:** https://www.youtube.com/watch?v=wsqTB5LAGYo
@@ -189,7 +261,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** passive versus active contraction models, tissue laxity versus tissue tension as the determinant of where contracture develops, periodic contraction (calcium-regulated) versus isometric contraction (Rho-kinase pathway)
 
-## 16. Dr. Charles Eaton "Dupuytren Data Bank (IDDB)" 2015 Dupuytren Symposium
+## 22. Dr. Charles Eaton "Dupuytren Data Bank (IDDB)" 2015 Dupuytren Symposium
 
 - **Source ID:** `AbY1KVhTVAo`
 - **URL:** https://www.youtube.com/watch?v=AbY1KVhTVAo
@@ -201,7 +273,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** percutaneous fasciotomy (Eaton's own practice, source of the intake data discussed), statins, calcium channel blockers, and other medications examined for a disease-modifying signal
 - **Important concepts:** chronic disease research versus surgical research as methodologies, lack of a biomarker for Dupuytren's, the aggressive/systemic subset versus the benign/exposure-driven subset, patient evaluation measure (PEM) as a longitudinal quality-of-life metric, self-diagnosis by photo-matching to avoid goniometric measurement at a distance
 
-## 17. Dr. Charles Eaton, 2010 Miami Dupuytren Symposium Introduction
+## 23. Dr. Charles Eaton, 2010 Miami Dupuytren Symposium Introduction
 
 - **Source ID:** `Y6IZZLF-erw`
 - **URL:** https://www.youtube.com/watch?v=Y6IZZLF-erw
@@ -213,7 +285,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** traditional fasciectomy, framed as necessary but incomplete, disease-modifying (medical, non-surgical) approaches, framed as the missing piece
 - **Important concepts:** disease modification versus surgical management, the "green line" — how little of the literature addresses modifying the disease itself, Dupuytren's as the "flagship fibrotic condition"
 
-## 18. Dr. Clayton Peimer "Five‐Year CORDLESS Data" 2015 Dupuytren Symposium
+## 24. Dr. Clayton Peimer "Five‐Year CORDLESS Data" 2015 Dupuytren Symposium
 
 - **Source ID:** `0MBhLab1KUI`
 - **URL:** https://www.youtube.com/watch?v=0MBhLab1KUI
@@ -225,7 +297,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** collagenase (CCH) injection, tracked over five years across the original CORD/Joint trial cohorts
 - **Important concepts:** strict versus historical (30-degree) recurrence definitions, non-durable response as distinct from recurrence, the CORDLESS study design (pooling five prior trial cohorts)
 
-## 19. Dr. Clayton Peimer "PIP joint  Minimally invasive methods" 2015 Dupuytren Symposium
+## 25. Dr. Clayton Peimer "PIP joint  Minimally invasive methods" 2015 Dupuytren Symposium
 
 - **Source ID:** `we5tJK4uY8U`
 - **URL:** https://www.youtube.com/watch?v=we5tJK4uY8U
@@ -237,7 +309,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** collagenase injection for combined PIP/DIP contracture, including repeat treatment for recurrence, double dosing (splitting anesthesia/injection across two cords in one visit)
 - **Important concepts:** straight versus functional as competing definitions of surgical success, recurrence of contracture, not of the underlying disease
 
-## 20. Dr. David O'Gorman "Basic Research" 2015 Dupuytren Symposium
+## 26. Dr. David O'Gorman "Basic Research" 2015 Dupuytren Symposium
 
 - **Source ID:** `aL-aMj2B1hY`
 - **URL:** https://www.youtube.com/watch?v=aL-aMj2B1hY
@@ -249,7 +321,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** genomic imprinting and parent-of-origin-specific gene expression, loss of imprinting as a disease mechanism, oxygen tension as an overlooked culture variable, the need for tissue engineering, computational biology, and epigenetics expertise
 
-## 21. Dr. David O'Gorman 'The extracellular matrix" 2015 Dupuytren Symposium
+## 27. Dr. David O'Gorman 'The extracellular matrix" 2015 Dupuytren Symposium
 
 - **Source ID:** `6aG_CIYTX8A`
 - **URL:** https://www.youtube.com/watch?v=6aG_CIYTX8A
@@ -261,7 +333,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** collagenase, reframed explicitly as an already-existing ECM-targeting therapy, proposed future combination therapy (matrix-targeting plus myofibroblast-targeting)
 - **Important concepts:** the extracellular matrix as an active disease driver, not a passive bystander, the myofibroblast-matrix positive feedback loop, matricellular molecules as signaling "bridges" between cells and matrix, beta-catenin and canonical Wnt signaling, matrix stiffness (Young's modulus) as a biologically active variable
 
-## 22. Dr. David Warwick "Collagenase- what we may never know" 2015 Dupuytren Symposium
+## 28. Dr. David Warwick "Collagenase- what we may never know" 2015 Dupuytren Symposium
 
 - **Source ID:** `93IWNYYqCjs`
 - **URL:** https://www.youtube.com/watch?v=93IWNYYqCjs
@@ -273,7 +345,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** equipoise as a requirement for ethical randomization, societal cost of time off work as an omitted outcome measure, heterogeneity of cord type as a confound no single trial design can resolve
 
-## 23. Dr. David Warwick "Debate: Collagenase over PNF" 2015 Dupuytren Symposium
+## 29. Dr. David Warwick "Debate: Collagenase over PNF" 2015 Dupuytren Symposium
 
 - **Source ID:** `StgtqY8hqpw`
 - **URL:** https://www.youtube.com/watch?v=StgtqY8hqpw
@@ -285,7 +357,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** collagenase injection versus percutaneous needle fasciotomy, argued as a technique comparison
 - **Important concepts:** the "twigs versus logs" cord-size argument for technique selection, a drug effect that appears to outlast its own pharmacological half-life, collagenase removing collagen but not cells, as a proposed explanation for recurrence
 
-## 24. Dr. Dominic Furniss "How should we fund DD research" 2015 Dupuytren Symposium
+## 30. Dr. Dominic Furniss "How should we fund DD research" 2015 Dupuytren Symposium
 
 - **Source ID:** `_RvN3Twn6Z4`
 - **URL:** https://www.youtube.com/watch?v=_RvN3Twn6Z4
@@ -297,7 +369,31 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** patient-driven (not just researcher-driven) research prioritization, pump-priming funding for early-stage studies, crowdsourced/citizen-science funding models
 
-## 25. Dr. Gary Pess "Percutaneous Needle Fasciotomy and Collagenase (Xiaflex)"  2015 Dupuytren Symposium
+## 31. Dr. Eva Maria Baur "Collagenase vs. PNF" 2015 Dupuytren Symposium
+
+- **Source ID:** `0yaaVmLHlmc`
+- **URL:** https://www.youtube.com/watch?v=0yaaVmLHlmc
+- **Upload date:** 2015-11-20
+- **Duration:** 07:32
+- **Source file:** `sources/clean/0yaaVmLHlmc.txt`
+- **Main subjects:** a non-randomized prospective comparison of collagenase (CCH) against needle fasciotomy (PNF), why patient treatment preference made randomization impractical, closely matched extension-deficit results between the two treatments, a lower-than-expected recurrence rate the presenter can't fully explain
+- **Anatomy:** PIP joint, flexor tendon
+- **Management options:** collagenase (CCH) injection, at the standard 0.58mg dose, percutaneous needle fasciotomy (PNF), a fan-shaped vertical/horizontal technique
+- **Important concepts:** clinical success defined as under 10% persisting extension deficit, patient choice as an unavoidable source of selection bias in comparative studies, cost-effectiveness and same-day multi-digit treatment as practical advantages of PNF
+
+## 32. Dr. Gary Manley "The patient's view: Ledderhose Disease" 2015 Dupuytren Symposium
+
+- **Source ID:** `splC4aATa3g`
+- **URL:** https://www.youtube.com/watch?v=splC4aATa3g
+- **Upload date:** 2015-10-25
+- **Duration:** 06:03
+- **Source file:** `sources/clean/splC4aATa3g.txt`
+- **Main subjects:** the Ledderhose-specific results of the joint Dupuytren's/Ledderhose patient survey, a striking gender skew — women outnumbering men with Ledderhose in this survey, unlike Dupuytren's, risk-factor and age-of-onset patterns specific to Ledderhose disease, why patients rated radiotherapy far above every other Ledderhose treatment
+- **Anatomy:** none recorded
+- **Management options:** none recorded
+- **Important concepts:** a possible survey sampling bias versus a genuine gender-prevalence difference, patient-rated treatment satisfaction, on the same 1-10 scale used for the Dupuytren's portion of the survey, low perceived general medical-community knowledge of Ledderhose, contrasted with high confidence in one's own treating doctor
+
+## 33. Dr. Gary Pess "Percutaneous Needle Fasciotomy and Collagenase (Xiaflex)"  2015 Dupuytren Symposium
 
 - **Source ID:** `1BURdqs3a4U`
 - **URL:** https://www.youtube.com/watch?v=1BURdqs3a4U
@@ -309,7 +405,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** percutaneous needle fasciotomy (technique detail), collagenase injection (technique detail), splinting (static and dynamic) after either procedure
 - **Important concepts:** the pinch-and-poke technique, the safe injection zone (4mm from the proximal digital crease, 2-3mm depth), the "if you don't let it dry it won't die" open wound care principle, hidden/retracted cords not resolved by initial release
 
-## 26. Dr. Ghazi Rayan, "Dupuytren's disease: anatomy, pathology..." 2010 Miami Dupuytren's Symposium
+## 34. Dr. Ghazi Rayan, "Dupuytren's disease: anatomy, pathology..." 2010 Miami Dupuytren's Symposium
 
 - **Source ID:** `HE6nBpteAAo`
 - **URL:** https://www.youtube.com/watch?v=HE6nBpteAAo
@@ -321,7 +417,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** Dupuytren's diathesis as a distinct, more aggressive disease pattern, ectopic disease as evidence Dupuytren's is not purely a Northern European condition
 
-## 27. Dr. Heinrich Seegenschmiedt "Radiotherapy for Dupuytren & Ledderhose" 2015 Dupuytren Symposium
+## 35. Dr. Heinrich Seegenschmiedt "Radiotherapy for Dupuytren & Ledderhose" 2015 Dupuytren Symposium
 
 - **Source ID:** `x_vecaIme58`
 - **URL:** https://www.youtube.com/watch?v=x_vecaIme58
@@ -333,7 +429,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** radiotherapy (10x3Gy and 7x3Gy schedules) for early, progressive disease
 - **Important concepts:** TGF-beta as the radiosensitive driver of myofibroblast proliferation, the post-mitotic shortcut mechanism of radiation action, radiotherapy and surgery as complementary, not competing, treatments, disease staging by degree of contracture as the criterion for radiotherapy candidacy
 
-## 28. Dr. Jagdeep Nanchahal "Debate: Contracture in Dupuytren is Active" 2015 Dupuytren Symposium
+## 36. Dr. Ian Clark "Biomarkers of post-surgical progression" 2015 Dupuytren Symposium
+
+- **Source ID:** `2Q5gm6FDZb0`
+- **URL:** https://www.youtube.com/watch?v=2Q5gm6FDZb0
+- **Upload date:** 2015-10-27
+- **Duration:** 06:04
+- **Source file:** `sources/clean/2Q5gm6FDZb0.txt`
+- **Main subjects:** testing whether circulating blood biomarkers can predict recurrence, not just tissue markers, why tissue-level gene expression differences did not carry over into blood, MMP14 as a gene/protein that kept recurring across different analyses, an unbiased gene array turning up unexpected correlated gene clusters
+- **Anatomy:** none recorded
+- **Management options:** none recorded
+- **Important concepts:** total extension deficit (TED) as the quantitative outcome tracked over time, MMPs and TIMPs as the matrix-remodeling enzyme/inhibitor family under study, tissue gene expression differences not translating into circulating protein differences
+
+## 37. Dr. Jagdeep Nanchahal "Debate: Contracture in Dupuytren is Active" 2015 Dupuytren Symposium
 
 - **Source ID:** `QRUnLzXLyjE`
 - **URL:** https://www.youtube.com/watch?v=QRUnLzXLyjE
@@ -345,7 +453,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** adherens junctions and gap junctions as mechanical/chemical coupling between myofibroblasts, latent TGF-beta activation by mechanical pulling on the matrix, matrix metalloproteinases and high matrix turnover during contracture
 
-## 29. Dr. Joe Dias "Patient Rated Outcome Measures" 2015 Dupuytren Symposium
+## 38. Dr. Jagdeep Nanchahal "TNF as a therapeutic target" 2015 Dupuytren Symposium
+
+- **Source ID:** `T7VnrFtGnfY`
+- **URL:** https://www.youtube.com/watch?v=T7VnrFtGnfY
+- **Upload date:** 2015-10-28
+- **Duration:** 05:45
+- **Source file:** `sources/clean/T7VnrFtGnfY.txt`
+- **Main subjects:** macrophages found alongside myofibroblasts in disaggregated Dupuytren's nodules, a cell-type-specific divergence in how TNF affects Dupuytren's versus normal fibroblasts, TNF-Wnt signaling crosstalk found only in Dupuytren's palmar fibroblasts, moving from primary-cell-culture findings toward a funded anti-TNF clinical trial
+- **Anatomy:** Dupuytren's nodule, adherens junctions
+- **Management options:** anti-TNF agents, injected directly into early-disease nodules
+- **Important concepts:** primary/freshly disaggregated cell culture as more informative than passaged cell lines, a proposed explanation for why prior anti-TGF-beta fibrosis trials failed, TNF inhibiting GSK-3 beta to preserve beta-catenin, linking TNF and canonical Wnt signaling
+
+## 39. Dr. Joe Dias "Patient Rated Outcome Measures" 2015 Dupuytren Symposium
 
 - **Source ID:** `z1BL-Y_XWPo`
 - **URL:** https://www.youtube.com/watch?v=z1BL-Y_XWPo
@@ -357,7 +477,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** patient-rated outcome measure (PROM), minimum clinically important difference (MCID), URAM, Michigan Hand Questionnaire, PEM, and DASH as competing hand-outcome instruments, funnel-plot surgeon performance monitoring
 
-## 30. Dr. Larry Hurst "Collagenase Treatment" 2015 Dupuytren Symposium
+## 40. Dr. Larry Hurst "Collagenase Treatment" 2015 Dupuytren Symposium
 
 - **Source ID:** `9LY5fyLw618`
 - **URL:** https://www.youtube.com/watch?v=9LY5fyLw618
@@ -369,7 +489,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** collagenase injection (Xiaflex) — technique, dosing, and outcomes from the developer's own practice, split-thickness skin grafting combined with fasciotomy for recurrent disease with damaged skin, the "digit widget" for severe joint contracture
 - **Important concepts:** orphan drug status and FDA Investigational New Drug (IND) approval pathway, the CORD pivotal trial (16 US sites, 5 Australian sites), off-label use (DIP joints, double-dosing at the time of the talk), recurrence as an expected outcome regardless of treatment modality
 
-## 31. Dr. Lee Osterman, "Cline's Contracture. Dupuytren was a thief." 2010 Miami Dupuytren's Symposium
+## 41. Dr. Lee Osterman, "Cline's Contracture. Dupuytren was a thief." 2010 Miami Dupuytren's Symposium
 
 - **Source ID:** `iOd0iZNbM_w`
 - **URL:** https://www.youtube.com/watch?v=iOd0iZNbM_w
@@ -381,7 +501,43 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** priority disputes in medical eponyms, Paris's dominance in early-19th-century medical publishing as a mechanism of credit assignment, occupational causation as an early (pre-genetic) causal theory
 
-## 32. Dr. Paul Zidel, "Dupuytren's versus burn..." 2010 Miami Dupuytren Symposium Presentation
+## 42. Dr. Marie A  Badalamente "Clincal Research" 2015 Dupuytren Symposium
+
+- **Source ID:** `mUFigJz8r-U`
+- **URL:** https://www.youtube.com/watch?v=mUFigJz8r-U
+- **Upload date:** 2015-11-21
+- **Duration:** 10:46
+- **Source file:** `sources/clean/mUFigJz8r-U.txt`
+- **Main subjects:** practical advice on running clinical research, drawn from the collagenase development experience, why small, statistically underpowered studies don't actually change clinical practice, the sequential funding strategy that got collagenase's own research funded, independent safety monitoring as a non-negotiable requirement
+- **Anatomy:** none recorded
+- **Management options:** none recorded
+- **Important concepts:** safety monitoring independence, including recusal in the presence of financial conflict of interest, a sequential small-to-large funding strategy (pilot grants building toward larger consortium funding), stopping rules and clinical holds as pre-planned trial safeguards
+
+## 43. Dr. Marie Badalamente "Collagenase for  Adhesive Capsulitis" 2015 Dupuytren Symposium
+
+- **Source ID:** `Zk5Z5DdqAuM`
+- **URL:** https://www.youtube.com/watch?v=Zk5Z5DdqAuM
+- **Upload date:** 2015-11-21
+- **Duration:** 12:55
+- **Source file:** `sources/clean/Zk5Z5DdqAuM.txt`
+- **Main subjects:** repurposing collagenase for frozen shoulder, a different fibro-proliferative disorder, why frozen shoulder was chosen — its unusually high overlap with Dupuytren's patients, the injection-site and dose-ranging groundwork done before the reported trial, a 50-patient phase 2 dose-cohort study's range-of-motion, function, and safety results
+- **Anatomy:** shoulder capsule, bicipital groove and coracoid process (injection landmarks)
+- **Management options:** extra-articular collagenase injection for adhesive capsulitis (frozen shoulder)
+- **Important concepts:** fibro-proliferative disorders as a category collagenase might treat beyond Dupuytren's, extra-articular delivery confirmed by ultrasound before dosing patients, active versus passive range of motion as separate outcome measures
+
+## 44. Dr. Mels van Driel: "Peyronie's Disease Treatment" 2015 Dupuytren Symposium
+
+- **Source ID:** `S2k9bDzxSOU`
+- **URL:** https://www.youtube.com/watch?v=S2k9bDzxSOU
+- **Upload date:** 2015-11-21
+- **Duration:** 10:05
+- **Source file:** `sources/clean/S2k9bDzxSOU.txt`
+- **Main subjects:** a 22% Dupuytren's comorbidity rate among 400+ Peyronie's disease patients, the surgical history of Peyronie's treatment and a critique of the original Nesbit technique, a severity- and rigidity-based algorithm across plication, incision/excision, and grafting, collagenase's early, more limited results in Peyronie's compared to Dupuytren's
+- **Anatomy:** tunica albuginea (the "plaque"), dorsal penile nerve, neurovascular bundle of the penis
+- **Management options:** Nesbit plication procedure and its variations, plaque incision or excision with grafting (bovine/porcine pericardium), penile prosthesis implantation, collagenase injection into the plaque
+- **Important concepts:** counseling and patient expectations as central to treatment decision-making, graft material trade-offs (pliability, antigenicity, infection risk, cost), Peyronie's as a related but anatomically distinct fibrotic condition from Dupuytren's
+
+## 45. Dr. Paul Zidel, "Dupuytren's versus burn..." 2010 Miami Dupuytren Symposium Presentation
 
 - **Source ID:** `uR5OcoIKfOI`
 - **URL:** https://www.youtube.com/watch?v=uR5OcoIKfOI
@@ -393,7 +549,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** burn-scar treatments discussed as candidates for cross-application (serial casting, pressure garments, negative-pressure wound therapy, Integra dermal substitute, continuous passive motion, mechanical stretching devices)
 - **Important concepts:** hypertrophic scarring as a near-exclusively human phenomenon, regeneration versus repair as a depth-dependent tissue response, diathesis extended speculatively to psychosocial factors
 
-## 33. Dr. Roel Ophoff: "Genetics in Dupuytren Disease" 2015 Dupuytren Symposium
+## 46. Dr. Roel Ophoff: "Genetics in Dupuytren Disease" 2015 Dupuytren Symposium
 
 - **Source ID:** `-0JtjUrrU4o`
 - **URL:** https://www.youtube.com/watch?v=-0JtjUrrU4o
@@ -405,7 +561,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** heritability versus genetic variation explained, genome-wide association study (GWAS) loci, common versus rare allele frequency and effect size, the Wnt signaling pathway as a candidate mechanism
 
-## 34. Dr. Ruud Selles: "Consensus Definition of Recurrence" 2015 Dupuytren Symposium
+## 47. Dr. Ruud Selles: "Consensus Definition of Recurrence" 2015 Dupuytren Symposium
 
 - **Source ID:** `R4WPhcOpAMo`
 - **URL:** https://www.youtube.com/watch?v=R4WPhcOpAMo
@@ -417,7 +573,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** the Delphi consensus method, why nodules and cords were deliberately excluded from the definition, the six-week-versus-perioperative baseline choice
 
-## 35. Dr. Stephen Coleman: "The Australian Research Perspective" 2015 Dupuytren Symposium
+## 48. Dr. Stephen Coleman: "The Australian Research Perspective" 2015 Dupuytren Symposium
 
 - **Source ID:** `Gms1cs6bxoE`
 - **URL:** https://www.youtube.com/watch?v=Gms1cs6bxoE
@@ -429,7 +585,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** collagenase (Xiaflex) multi-site trials, from an investigating surgeon's operational perspective
 - **Important concepts:** contract research organization (CRO), human research ethics committee (HRC), the Declaration of Helsinki's 35 principles, principal investigator as a single accountable role per site
 
-## 36. Dr. Wolfgang Wach, discusses the Dupuytren Society at the 2010 International Symposium
+## 49. Dr. Steven Hovius: Percutaneous Aponeurotomy and Lipofilling" 2015 Dupuytren Symposium
+
+- **Source ID:** `nUVjZI2XCg0`
+- **URL:** https://www.youtube.com/watch?v=nUVjZI2XCg0
+- **Upload date:** 2015-11-21
+- **Duration:** 08:16
+- **Source file:** `sources/clean/nUVjZI2XCg0.txt`
+- **Main subjects:** a single-blinded randomized trial comparing PALF against limited fasciectomy, the PALF technique itself — multiple needle nicks plus fat grafting, why fat is used for more than filling, joint-specific correction, complication, and satisfaction results
+- **Anatomy:** MP joint, PIP joint
+- **Management options:** percutaneous aponeurotomy and lipofilling (PALF), limited fasciectomy (LF), used as the trial comparator
+- **Important concepts:** fat's wound-healing capacity as distinct from its role as a filler, early convalescence versus long-term recurrence as separate outcome axes, within-patient controls from bilaterally affected participants
+
+## 50. Dr. Wolfgang Wach, discusses the Dupuytren Society at the 2010 International Symposium
 
 - **Source ID:** `4qSMSqYhxOc`
 - **URL:** https://www.youtube.com/watch?v=4qSMSqYhxOc
@@ -441,7 +609,31 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** radiotherapy (Wach's own first-nodule treatment, radiated ~28 years prior), fasciectomy (Wach's own treatment, with a documented flare of new nodules afterward), night splinting as a preventive measure, with a specific complication described
 - **Important concepts:** the gap between surgeon-perceived and patient-perceived surgical success, male:female prevalence ratio as age-dependent, not fixed, the "Viking disease" myth, contradicted by global case data, the international Dupuytren database (IDOP) concept
 
-## 37. Dr. Zsolt Szabo: "Treatment of Dupuytren in different countries" 2015 Dupuytren Symposium
+## 51. Dr. Wolfgang Wach: "Debate: Splinting is Beneficial" 2015 Dupuytren Symposium
+
+- **Source ID:** `2-Ad4vp1EOA`
+- **URL:** https://www.youtube.com/watch?v=2-Ad4vp1EOA
+- **Upload date:** 2015-10-25
+- **Duration:** 06:33
+- **Source file:** `sources/clean/2-Ad4vp1EOA.txt`
+- **Main subjects:** Wach's own conflicting personal experience with and without post-treatment splinting, a series of patient anecdotes suggesting splinting maintains correction only while worn, a small six-patient study testing splinting alone, without any prior treatment, a proposed rule for when splinting helps and when it doesn't
+- **Anatomy:** MCP joint, PIP joint
+- **Management options:** night splinting, after surgery, after PNF, and as a standalone treatment without prior intervention
+- **Important concepts:** splinting's effect appearing to depend entirely on continued wear, with no stable cutoff point, a joint's "tendency to spring back" as the proposed indication for splinting, anecdotal patient reports treated explicitly as a lower tier of evidence than the closing study
+
+## 52. Dr. Wolfgang Wach: "The Patient's View -1" 2015 Dupuytren Symposium
+
+- **Source ID:** `LVxj5lEVnz0`
+- **URL:** https://www.youtube.com/watch?v=LVxj5lEVnz0
+- **Upload date:** 2015-10-25
+- **Duration:** 10:08
+- **Source file:** `sources/clean/LVxj5lEVnz0.txt`
+- **Main subjects:** a ~2,500-response global online patient survey, jointly covering Dupuytren's and Ledderhose disease, age of onset patterns by sex, and what they might suggest about genetics versus lifestyle, a strong smoking effect on age of onset, especially without family history, country-level differences in perceived consultation quality, and treatment satisfaction ratings
+- **Anatomy:** none recorded
+- **Management options:** patient-rated satisfaction across fasciectomy, PNF, collagenase, radiotherapy, steroid injection, and verapamil cream
+- **Important concepts:** patient-reported perceived quality of consultation and treatment, as distinct from clinical outcome measures, smoking-years threshold effect on disease onset, family history as a factor that changes how strongly other risk factors (smoking) act
+
+## 53. Dr. Zsolt Szabo: "Treatment of Dupuytren in different countries" 2015 Dupuytren Symposium
 
 - **Source ID:** `ZmQTAWOKqdA`
 - **URL:** https://www.youtube.com/watch?v=ZmQTAWOKqdA
@@ -453,7 +645,31 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** a survey of practice variation across needle aponeurotomy, open fasciectomy, radiotherapy, collagenase, and lipofilling
 - **Important concepts:** evidence-based data, patient values, and clinical expertise as the three pillars of decision-making, beliefs, knowledge, and hope as separate categories of a field's understanding
 
-## 38. Drs. Paul Werker and Jos Aartsen "Introductory Remarks" 2015 Dupuytren Symposium
+## 54. Drs. Ilse Degreef and Annelien Brauns "RCT Tension versus compression" 2015 Dupuytren Symposium
+
+- **Source ID:** `qoktkyD8P_o`
+- **URL:** https://www.youtube.com/watch?v=qoktkyD8P_o
+- **Upload date:** 2015-10-28
+- **Duration:** 07:44
+- **Source file:** `sources/clean/qoktkyD8P_o.txt`
+- **Main subjects:** a pilot randomized trial of tension splinting versus compression splinting, the mechanistic rationale for each — opposite effects on myofibroblast behavior, matched extension gains between the two, but a clear tolerability difference, open questions about interface pressure and how long splinting should continue
+- **Anatomy:** none recorded
+- **Management options:** tension splinting (dorsal extension insert), compression splinting (silicone-bed, Velcro-strip design)
+- **Important concepts:** mechanical/mechanotransduction therapy as a non-invasive intervention aimed at myofibroblasts directly, opposite proposed mechanisms — tension inducing contracture-relevant activity versus compression inducing myofibroblast apoptosis, patient tolerability as distinct from measured efficacy
+
+## 55. Drs. Ilse Degreef and Marieke Torrekens "Full-Thickness Skin Grafting" 2015 Dupuytren Symposium
+
+- **Source ID:** `HNWobAG54ro`
+- **URL:** https://www.youtube.com/watch?v=HNWobAG54ro
+- **Upload date:** 2015-10-28
+- **Duration:** 08:19
+- **Source file:** `sources/clean/HNWobAG54ro.txt`
+- **Main subjects:** a 47-patient review re-testing Hueston's claim that recurrence never occurs under a skin graft, separating true recurrence, false recurrence, and disease extension as three distinct outcomes, diathesis score as a predictor of extension specifically, not of true recurrence, a historical tribute crediting how much of today's thinking Hueston anticipated
+- **Anatomy:** PIP joint of the fifth digit
+- **Management options:** full-thickness skin grafting ("firebreak" procedure)
+- **Important concepts:** true recurrence versus false recurrence versus extension as distinct, separately defined outcomes, a diathesis score based on named risk factors, used to predict extension risk, the myofibroblast's attachment to skin as a rationale for why grafting works
+
+## 56. Drs. Paul Werker and Jos Aartsen "Introductory Remarks" 2015 Dupuytren Symposium
 
 - **Source ID:** `hRJZEQzxy4U`
 - **URL:** https://www.youtube.com/watch?v=hRJZEQzxy4U
@@ -465,7 +681,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** vibration exposure through a hockey stick as a proposed risk factor, a non-hereditary presentation prompting an environmental-cause hypothesis
 
-## 39. Dupuytren Decision Trees
+## 57. Drs. Wolfgang Wach and Charles Eaton: "Welcome!" 2015 Dupuytren Symposium
+
+- **Source ID:** `_hoXDJ5qBFU`
+- **URL:** https://www.youtube.com/watch?v=_hoXDJ5qBFU
+- **Upload date:** 2015-10-25
+- **Duration:** 08:47
+- **Source file:** `sources/clean/_hoXDJ5qBFU.txt`
+- **Main subjects:** the international patient-and-physician society structure behind the symposium, a speculative idea that the cord itself may be reactive tissue, not the disease, why genetics alone can't explain why a body-wide predisposition manifests only in the hand, framing Dupuytren's research as needing a team, not a single expert
+- **Anatomy:** none recorded
+- **Management options:** none recorded
+- **Important concepts:** the cord as a possible reactive/secondary phenomenon rather than the primary disease process, constitutional hand anatomy and use as a missing piece in disease theories, a fever analogy for distinguishing a symptom from the underlying disease process
+
+## 58. Dupuytren Decision Trees
 
 - **Source ID:** `THqIKjgOnkU`
 - **URL:** https://www.youtube.com/watch?v=THqIKjgOnkU
@@ -477,7 +705,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** dermofasciectomy as the current gold-standard biology-modifying procedure, barrier procedures (absorbable sheet or fascial flap) as an emerging alternative, sagittal band reconstruction combined with needle fasciotomy or open fasciectomy
 - **Important concepts:** treating anatomy without controlling biology, the standard chronic-disease surgical role, the reconstructive ladder for choosing redo treatment, a "stealth diagnosis" (sagittal band rupture) mimicking Dupuytren's MP contracture
 
-## 40. Dupuytren Foundation: Surgeons' Perspectives
+## 59. Dupuytren Foundation: Surgeons' Perspectives
 
 - **Source ID:** `UMcH32yrY2c`
 - **URL:** https://www.youtube.com/watch?v=UMcH32yrY2c
@@ -489,7 +717,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** functional goals versus cosmetic perfection as competing patient priorities, PIP contracture bothering patients more than MCP contracture, patient surprise at learning the condition is lifelong, not a one-time fix
 
-## 41. Dupuytren Severity
+## 60. Dupuytren Severity
 
 - **Source ID:** `jk7w-i8PPrs`
 - **URL:** https://www.youtube.com/watch?v=jk7w-i8PPrs
@@ -501,7 +729,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** risk-stratified treatment expectations by joint, contracture degree, and procedure type
 - **Important concepts:** the six risk milestones (developing signs, progressing to contracture, achieving correction, early lost correction, recurrence, long-term stability), dose-dependent family history risk, stress shielding as a mechanism of long-term biological inactivity, pseudo-Dupuytren / traumatic palmar fasciitis
 
-## 42. Dupuytren's Contracture
+## 61. Dupuytren's Contracture
 
 - **Source ID:** `assh-dupuytrens-contracture`
 - **URL:** https://www.assh.org/handcare/condition/dupuytrens-contracture
@@ -512,7 +740,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** observation for mild cases, splinting or stretching (not preventive, but safe), needle fasciotomy (needle aponeurotomy), collagenase injection, surgical fasciotomy, surgical fasciectomy, post-treatment splinting and hand therapy
 - **Important concepts:** fascia thickening into non-contractile cord tissue, Dupuytren's diathesis, the tabletop test, recurrence versus cure
 
-## 43. Dupuytren's disease: a localised and accessible human fibrotic disorder.
+## 62. Dupuytren's disease: a localised and accessible human fibrotic disorder.
 
 - **Source ID:** `layton-2023-fibrotic-disorder-review`
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/36566101/
@@ -523,7 +751,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** local TNF inhibition (described as producing softening and reduced nodule size)
 - **Important concepts:** genetic, environmental, and epigenetic interplay in disease development, the stromal-immune cell interaction inside a nodule, Dupuytren's as an accessible model for less-accessible fibrotic diseases elsewhere in the body
 
-## 44. Dupuytren's Disease: Hand Surgery Pathway
+## 63. Dupuytren's Disease: Hand Surgery Pathway
 
 - **Source ID:** `girft-bssh-dupuytrens-pathway`
 - **URL:** https://gettingitrightfirsttime.co.uk/wp-content/uploads/2023/12/2023-12-11_Hand-surgery_Pathway_Dupuytrens.drawio.pdf
@@ -534,7 +762,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** clinical history and examination in primary care, cortisone injection for painful nodules, referral to a community MSK service, percutaneous fasciotomy in outpatients, daycase surgery, radiotherapy (flagged for local audit or research only), post-operative splinting, dressing changes, and hand therapy
 - **Important concepts:** the 30°/20° flexion-contracture threshold for surgery, rapidly progressive disease as its own referral trigger, Patient Initiated Follow-up (PIFU)
 
-## 45. Effectiveness and Safety of Dupuytren Contracture Treatments: A Systematic Review and Meta-Analysis Using the GRADE Approach.
+## 64. Effectiveness and Safety of Dupuytren Contracture Treatments: A Systematic Review and Meta-Analysis Using the GRADE Approach.
 
 - **Source ID:** `shaheen-2025-treatment-comparison-review`
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/39451139/
@@ -545,7 +773,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** percutaneous needle fasciotomy (PNF), collagenase clostridium histolyticum (CCH), limited fasciectomy (LF)
 - **Important concepts:** the GRADE approach to certainty of evidence, residual contracture as an effectiveness measure, distinct from recurrence, the effectiveness/durability/safety tradeoff across all three treatments
 
-## 46. Giulio Gabbiani MD PhD, "The N-terminal peptide of a-smooth..." 2010 Miami Dupuytren Symposium.
+## 65. Giulio Gabbiani MD PhD, "The N-terminal peptide of a-smooth..." 2010 Miami Dupuytren Symposium.
 
 - **Source ID:** `6YYYYh8aoJE`
 - **URL:** https://www.youtube.com/watch?v=6YYYYh8aoJE
@@ -557,7 +785,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** the N-terminal decapeptide epitope of alpha-smooth-muscle actin, a hypothesized endogenous compound regulating actin polymerization at this site, Antennapedia-sequence-mediated cell penetration, the splinted wound contraction model (Abercrombie)
 
-## 47. Guido Dolmans MD, "A first genome-wide association study in..." 2010 Miami Dupuytren Symposium
+## 66. Guido Dolmans MD, "A first genome-wide association study in..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `-3a_yiOu_3I`
 - **URL:** https://www.youtube.com/watch?v=-3a_yiOu_3I
@@ -569,7 +797,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** genome-wide association study (GWAS) methodology, single nucleotide polymorphism (SNP), linkage disequilibrium (correlated markers), the Manhattan plot and QQ plot as GWAS result visualizations, odds ratio as a measure of a genetic marker's disease-risk effect
 
-## 48. Hans Hennies PhD, "Characterization of the epidemiology..." 2010 Miami Dupuytren Symposium
+## 67. Guido Dolmans MD, "Linkage analysis in six Dutch families..." 2010 Miami Dupuytren Symposium
+
+- **Source ID:** `pI2QWctr2y4`
+- **URL:** https://www.youtube.com/watch?v=pI2QWctr2y4
+- **Upload date:** 2010-10-16
+- **Duration:** 08:28
+- **Source file:** `sources/clean/pI2QWctr2y4.txt`
+- **Main subjects:** linkage analysis as a distinct genetic method from genome-wide association studies, why finding different chromosomes in the two methods is expected, not contradictory, suggestive but non-genome-wide-significant regions on chromosomes 7, 18, and 19, failing to replicate a previously published Swedish-family finding on chromosome 16
+- **Anatomy:** none recorded
+- **Management options:** none recorded
+- **Important concepts:** linkage analysis versus genome-wide association study as complementary genetic methods, the logarithm of odds (LOD) score as the significance measure in linkage analysis, genetic heterogeneity as an explanation for non-replication across family cohorts
+
+## 68. Hans Hennies PhD, "Characterization of the epidemiology..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `m2x0kipr2Y8`
 - **URL:** https://www.youtube.com/watch?v=m2x0kipr2Y8
@@ -581,7 +821,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** the multifactorial disease model (environmental factors plus risk alleles), a multi-stage genome-wide association study design, gene expression profiling from tissue versus cultured cell RNA
 
-## 49. Heinrich Seegenschmiedt MD, "Radiotherapy For Primary Or..." 2010 Miami Dupuytren Symposium
+## 69. Heinrich Seegenschmiedt MD, "Radiotherapy For Primary Or..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `gdhJMB_OsDU`
 - **URL:** https://www.youtube.com/watch?v=gdhJMB_OsDU
@@ -593,7 +833,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** radiotherapy (10x3Gy, two courses eight to twelve weeks apart) for Ledderhose disease, contrasted against local/wide excision, subtotal and total plantar fasciectomy
 - **Important concepts:** the cross-specialty communication gap between hand surgeons and podiatrists, progression defined precisely as new/enlarging nodules, new cords, or worsening symptoms, patient satisfaction as a distinct, separately tracked outcome from objective remission
 
-## 50. Heinrich Seegenschmiedt MD, "Review Of Radiotherapy For Morbus..." 2010 Miami Dupuytren Symposium
+## 70. Heinrich Seegenschmiedt MD, "Review Of Radiotherapy For Morbus..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `oXR_NOAaSa0`
 - **URL:** https://www.youtube.com/watch?v=oXR_NOAaSa0
@@ -605,7 +845,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** radiotherapy for early-stage Dupuytren's (7x3Gy versus 10x3Gy schedules), radiotherapy for Ledderhose disease (two courses of 5x3Gy, 8-12 weeks apart)
 - **Important concepts:** radionecrosis misattribution versus failed post-surgical healing, the post-mitotic contracture endpoint of unchecked fibroblast proliferation, a distinct staging threshold for radiotherapy candidacy (10 degrees)
 
-## 51. Ilse Degreef MD PhD "Highly-dosed neo-adjuvant tamoxifen..." 2010 Miami Dupuytren Symposium
+## 71. Holger Erne Dr med, "Percutaneous needle fasciotomy a serious..." 2010 Miami Dupuytren Symposium
+
+- **Source ID:** `vOSY4FZEJGM`
+- **URL:** https://www.youtube.com/watch?v=vOSY4FZEJGM
+- **Upload date:** 2010-10-22
+- **Duration:** 08:03
+- **Source file:** `sources/clean/vOSY4FZEJGM.txt`
+- **Main subjects:** a 43-patient, 58-ray retrospective outcome series for needle fasciotomy, why nerve injury and recurrence were the two specific concerns going in, and how each turned out, what predicts a better outcome — cord definability, absence of arthrogenic contracture, lower stage, the "no burned bridges" advantage — needle fasciotomy leaving future surgery unhindered
+- **Anatomy:** MCP, PIP, and DIP joints, digital nerve, flexor tendon-associated cord
+- **Management options:** percutaneous needle fasciotomy (20-gauge needle, multi-level technique)
+- **Important concepts:** Tubiana staging with degree ranges attached to each stage, cutting performed without anesthesia specifically to preserve nerve-injury feedback from the patient, recurrence rate compared directly against both other needle series and open-technique literature
+
+## 72. Ilse Degreef MD PhD "Highly-dosed neo-adjuvant tamoxifen..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `-OKFB6sX_64`
 - **URL:** https://www.youtube.com/watch?v=-OKFB6sX_64
@@ -617,7 +869,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** high-dose neoadjuvant tamoxifen combined with segmental fasciectomy
 - **Important concepts:** the Abe risk score for recurrence, neoadjuvant dosing (before and after surgery, not instead of it), Dupuytren's framed explicitly as a lifelong disease surgery treats but doesn't cure
 
-## 52. Ilse Degreef MD PhD, "Cellular implant improves surgical outcome..." 2010 Miami Dupuytren Symposium
+## 73. Ilse Degreef MD PhD, "Cellular implant improves surgical outcome..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `ROG_3VraQmE`
 - **URL:** https://www.youtube.com/watch?v=ROG_3VraQmE
@@ -629,7 +881,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** a cellulose implant placed within a segmental fasciectomy incision
 - **Important concepts:** the "fire break" analogy for preventing recurrence, relative (Tubiana index) versus absolute correction as outcome measures, selecting high-risk patients to make a small trial statistically feasible
 
-## 53. Ilse Degreef MD PhD, "Surgical outcome of Dupuytren's disease." 2010 Miami Dupuytren Symposium
+## 74. Ilse Degreef MD PhD, "Surgical outcome of Dupuytren's disease." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `1Xqmh80rYPQ`
 - **URL:** https://www.youtube.com/watch?v=1Xqmh80rYPQ
@@ -641,7 +893,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** segmental fasciectomy versus total strand resection versus full-thickness skin grafting
 - **Important concepts:** patient-perceived recurrence as the outcome measure that actually matters to patients, indication bias (surgeons choosing bigger surgery for higher-risk patients), the Abe risk score used to test for and adjust away that bias
 
-## 54. Ivana Ratkaj, "Microarray expression analysis of Dupuytren's..." 2010 Miami Dupuytren Symposium
+## 75. Ivana Ratkaj, "Microarray expression analysis of Dupuytren's..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `Ht1uUsc6fdw`
 - **URL:** https://www.youtube.com/watch?v=Ht1uUsc6fdw
@@ -653,7 +905,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** matched patient-and-control tissue sampling, the "movie reel" explanation for inter-patient expression variability, proliferative and anti-apoptotic signaling as "two sides of the same coin"
 
-## 55. Janine Morris PhD, "Collagen degradation and the expression of..." 2010 Miami Dupuytren Symposium
+## 76. Janine Morris PhD, "Collagen degradation and the expression of..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `UB71XI_3fxA`
 - **URL:** https://www.youtube.com/watch?v=UB71XI_3fxA
@@ -665,7 +917,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** matrix metalloproteinases (MMPs) and their tissue inhibitors (TIMPs), ADAMTS family procollagen peptidases, MMP-14 as a TIMP-1-resistant "partner" activating MMP-2, gene expression profiling correlated with post-surgical recurrence
 
-## 56. John Agee MD, "Growing the PIP straight with the Digit Widget" 2010 Miami Dupuytren Symposium
+## 77. John Agee MD, "Growing the PIP straight with the Digit Widget" 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `2A9j4yqtpGI`
 - **URL:** https://www.youtube.com/watch?v=2A9j4yqtpGI
@@ -677,7 +929,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** the Digit Widget — a rubber-band skeletal-traction device for PIP joint extension, combining band/nodule excision with post-operative skeletal traction
 - **Important concepts:** torque as force times moment arm, applied to finger joint mechanics, skeletal traction versus skin-transmitted (splint/cast) force, moment-arm displacement as a mechanism of post-surgical recurrence, the PIP-MP torque relationship and claw deformity
 
-## 57. Likelihood of Dupuytren Contracture Recurrence After Limited Fasciectomy, Needle Aponeurotomy or Collagenase Clostridium histolyticum: Systematic Review of Prospective Data With 2- to 7-Year Follow-up.
+## 78. Likelihood of Dupuytren Contracture Recurrence After Limited Fasciectomy, Needle Aponeurotomy or Collagenase Clostridium histolyticum: Systematic Review of Prospective Data With 2- to 7-Year Follow-up.
 
 - **Source ID:** `nocek-2026-recurrence-systematic-review`
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/41853763/
@@ -688,7 +940,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** limited fasciectomy (LF), collagenase Clostridium histolyticum (CCH), needle aponeurotomy (NA)
 - **Important concepts:** prospective, in-person follow-up as an inclusion requirement, recurrence defined explicitly, not left to each study's own wording, reintervention rate as a downstream consequence of recurrence
 
-## 58. Lynn Ketchum MD, "Dermofasciectomies and full-thickness skin..." 2010 Miami Dupuytren Symposium
+## 79. Lynn Ketchum MD, "Dermofasciectomies and full-thickness skin..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `klWbjOcG3Kk`
 - **URL:** https://www.youtube.com/watch?v=klWbjOcG3Kk
@@ -700,7 +952,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** expanded dermofasciectomy with full-thickness skin graft, contrasted against limited fasciectomy and the McCash technique
 - **Important concepts:** recurrence beneath the graft versus extension beyond its margin, the diathesis concept as a rationale for prophylactic graft use, squared-off versus pointed graft margins
 
-## 59. Marie Badalamente PhD, "Injectable collagenase clostridium..." 2010 Miami Dupuytren Symposium
+## 80. Marie Badalamente PhD, "Injectable collagenase clostridium..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `OwSS6grbMAc`
 - **URL:** https://www.youtube.com/watch?v=OwSS6grbMAc
@@ -712,7 +964,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** collagenase (Xiaflex) injection — full CORD I trial dosing and outcome data
 - **Important concepts:** the strict 0-5-degree-of-normal-extension primary endpoint, severity-stratified response by joint type, open-label extension design
 
-## 60. Martin Robson MD, "Using laboratory models to develop molecular..." 2010 Miami Dupuytren Symposium
+## 81. Martin Robson MD, "Using laboratory models to develop molecular..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `dMW6VVm4FhU`
 - **URL:** https://www.youtube.com/watch?v=dMW6VVm4FhU
@@ -724,7 +976,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** candidate anti-fibrotic drugs tested in lab models (interferon alpha-2b, interferon gamma, TGF-beta 3, tamoxifen)
 - **Important concepts:** the fibroblast as an "end organ" responding to upstream signals, not the disease's root cause, TGF-beta isoform specificity (1 and 2 fibrogenic, 3 not), the nude rat's isolated single-artery/single-vein flap model, TGF-beta suppressing fibroblast apoptosis as a mechanism of sustained fibrosis
 
-## 61. Massimiliano Tripoli MD, "The "Jacobsen flap"  for the treatment..." 2010 Miami Dupuytren Symposium
+## 82. Massimiliano Tripoli MD, "The "Jacobsen flap"  for the treatment..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `dxYwTKGRBgk`
 - **URL:** https://www.youtube.com/watch?v=dxYwTKGRBgk
@@ -736,7 +988,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** the Jacobsen flap (H-shaped skin flap, open-palm healing by secondary intention), contrasted against needle fasciotomy and dermofasciectomy with full-thickness skin graft for advanced disease
 - **Important concepts:** the Tubiana staging classification (stage 0 through IV), open-palm healing by secondary intention, reflex sympathetic dystrophy as a reported complication
 
-## 62. Michael Papaloïzos MD, "Minimizing cutaneous necrosis and delayed..." 2010 Miami Dupuytren Symposium
+## 83. Michael Papaloïzos MD, "Minimizing cutaneous necrosis and delayed..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `eMQf8efjOtQ`
 - **URL:** https://www.youtube.com/watch?v=eMQf8efjOtQ
@@ -748,7 +1000,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** a short-armed (4-5mm) zigzag incision with thick tangential flap elevation, contrasted against standard open-palm (McCash) and larger Z-plasty/Bruner closed techniques
 - **Important concepts:** a four-point necrosis grading scale (0 to 3), small zigzag tacks instead of large flap elevation, borrowed from sailing, Houston's dictum that the patient, not the surgeon, determines recurrence
 
-## 63. Needle Fasciotomy for Dupuytren's Contracture
+## 84. Needle Fasciotomy for Dupuytren's Contracture
 
 - **Source ID:** `nice-htg21-needle-fasciotomy`
 - **URL:** https://www.nice.org.uk/guidance/htg21/chapter/1-Recommendations
@@ -759,7 +1011,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** needle fasciotomy (needle aponeurotomy), non-surgical options with data described as lacking (vitamin E cream, ultrasonic therapy)
 - **Important concepts:** dividing a fibrous cord with a blade or needle bevel rather than removing it, patient selection by age and surgical suitability, recurrence as a near-universal long-term outcome across treatments
 
-## 64. Paul Smith MD, "A Logical Approach to the PIP Joint..." 2010 Miami Dupuytren Symposium
+## 85. Paul Smith MD, "A Logical Approach to the PIP Joint..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `atbGE2kJ5_U`
 - **URL:** https://www.youtube.com/watch?v=atbGE2kJ5_U
@@ -771,7 +1023,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** digital fasciectomy, followed stepwise by gentle passive manipulation, volar plate release, accessory collateral ligament release, and central slip treatment as needed
 - **Important concepts:** falsifiability as a standard for surgical practice (Russell's teapot versus the Higgs boson), central slip attenuation and its correlation with preoperative joint angle, the counterintuitive finding that gentler technique outperformed aggressive technique on severe cases
 
-## 65. Professor Hanno Millesi, "Changes of visco-elastic..." 2010 Miami Dupuytren Symposium Presentation
+## 86. Professor Hanno Millesi, "Changes of visco-elastic..." 2010 Miami Dupuytren Symposium Presentation
 
 - **Source ID:** `vRc9XFBOVTk`
 - **URL:** https://www.youtube.com/watch?v=vRc9XFBOVTk
@@ -783,7 +1035,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** pre-clinical fascial changes preceding visible nodules or cords, viscoelastic creep and recovery time as a measurable tissue property, patient-reported diagnostic delay
 
-## 66. Progression of Dupuytren Contracture: A Randomized Controlled Trial Comparing Surgery, Needle Fasciotomy, and Collagenase Injection.
+## 87. Progression of Dupuytren Contracture: A Randomized Controlled Trial Comparing Surgery, Needle Fasciotomy, and Collagenase Injection.
 
 - **Source ID:** `detect-2026-progression-rct`
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/41334972/
@@ -794,7 +1046,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** surgery, needle fasciotomy, collagenase injection
 - **Important concepts:** progression defined as increased contracture angle from 3 months to 2 years, the DETECT trial's finger-level analysis design, {'risk factors': 'age, smoking, joint, and digit involved'}
 
-## 67. Radiation Therapy for Early Dupuytren's Disease
+## 88. Radiation Therapy for Early Dupuytren's Disease
 
 - **Source ID:** `nice-htg427-radiotherapy`
 - **URL:** https://www.nice.org.uk/guidance/htg427/chapter/1-Recommendations
@@ -805,7 +1057,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** radiation therapy (21, 30, or 32 Gy) for early Dupuytren's disease
 - **Important concepts:** special arrangements for governance, consent, and audit or research, regression versus stability versus progression as the three outcome buckets, acute versus chronic toxicity, re-irradiation of a site that progresses in-field
 
-## 68. Reddit r/todayilearned thread on Dupuytren's disease — commenter discussion
+## 89. Reddit r/todayilearned thread on Dupuytren's disease — commenter discussion
 
 - **Source ID:** `reddit-til-dupuytrens-thread`
 - **URL:** https://www.reddit.com/r/todayilearned/comments/1790qye/til_about_dupuytrens_disease_which_causes_nodules/
@@ -815,7 +1067,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** surgery (patient-reported experience), radiation therapy (raised by a commenter as an overlooked option)
 - **Important concepts:** conflicting lay theories on alcohol and hand-use as risk factors, family clustering and Northern European ancestry, self-reported
 
-## 69. Robert Choa MD, "Digital Nerves in Dupuytrens Surgery"" 2010 Miami Dupuytren Symposium
+## 90. Robert Choa MD, "Digital Nerves in Dupuytrens Surgery"" 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `gMD3XNuUFFM`
 - **URL:** https://www.youtube.com/watch?v=gMD3XNuUFFM
@@ -827,7 +1079,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** nerve injury rates in Dupuytren's surgery, a nerve branch pattern nicknamed "nerves to the disease", describing location as a percentage of finger length for surgical reproducibility
 
-## 70. Roger Khouri MD, "Extensive Percutaneous Aponeurotomy..." 2010 Miami Dupuytren Symposium
+## 91. Roger Khouri MD, "Extensive Percutaneous Aponeurotomy..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `fmWiC5V76YI`
 - **URL:** https://www.youtube.com/watch?v=fmWiC5V76YI
@@ -839,7 +1091,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** extensive percutaneous aponeurotomy (EPA), fat grafting combined with percutaneous release
 - **Important concepts:** the "violin string" cutting principle, meshing a contracted cord like a skin graft, via multiple superficial nicks, fat graft revascularization through a micro-porous trellis defect, RSD (reflex sympathetic dystrophy) risk as a patient-selection factor
 
-## 71. Sandeep Kathju MD PhD, "Establishing an animal model of..." 2010 Miami Dupuytren Symposium
+## 92. Sandeep Kathju MD PhD, "Establishing an animal model of..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `ic6Wd3sT62Q`
 - **URL:** https://www.youtube.com/watch?v=ic6Wd3sT62Q
@@ -851,7 +1103,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** lipophilic fluorescent cell tracing for in vivo cell-fate tracking, nude rat forepaw injection as an animal model platform, the absence of a good animal model as a stated impediment to new treatments
 
-## 72. Sem Phan PhD MD, "Mechanisms of Myofibroblast..." 2010 Miami Dupuytren Symposium Presentation
+## 93. Sem Phan PhD MD, "Mechanisms of Myofibroblast..." 2010 Miami Dupuytren Symposium Presentation
 
 - **Source ID:** `dsPwSUDrz1Y`
 - **URL:** https://www.youtube.com/watch?v=dsPwSUDrz1Y
@@ -863,7 +1115,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none — basic-science mechanism talk, no treatment discussed
 - **Important concepts:** myofibroblast differentiation, TGF-beta/SMAD signaling and SMAD binding elements, Notch/Jagged signaling, epithelial-to-mesenchymal transition (evidence against, in vivo), DNA methylation and histone modification as differentiation gatekeepers
 
-## 73. Susan Emeigh Hart VMD PhD, "A primer of collagen biology..." 2010 Miami Dupuytren Symposium
+## 94. Susan Emeigh Hart VMD PhD, "A primer of collagen biology..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `Fj5WfRonTOg`
 - **URL:** https://www.youtube.com/watch?v=Fj5WfRonTOg
@@ -875,7 +1127,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** collagenase as a drug, explained mechanistically via what "collagenase" activity actually requires
 - **Important concepts:** the triple helix and Gly-X-Y motif defining collagen, fibripositor-mediated collagen secretion and fibrillogenesis, the three-step requirement (bind, unwind, cleave) for true collagenase activity, collagen as a signal transducer under mechanical tension
 
-## 74. Terri Skirven OTR/L CHT, "Hand therapy for Dupuytren's..." 2010 Miami Dupuytren Symposium
+## 95. Terri Skirven OTR/L CHT, "Hand therapy for Dupuytren's..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `MO1w1Ed-Yqc`
 - **URL:** https://www.youtube.com/watch?v=MO1w1Ed-Yqc
@@ -887,7 +1139,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** pre-operative splinting and continuous elongation devices, post-operative dynamic and static splinting protocols, continuous passive motion (CPM), scar and edema management techniques
 - **Important concepts:** the "no tension" splinting hypothesis (mechanical stress, hypoxia, and hypertrophic scar), splint compliance as an outcome predictor, boutonnière-pattern central slip attenuation after release
 
-## 75. Terry Spilken DPM, "Cryotherapy for Plantar Fibromas" 2010 Miami Dupuytren Symposium
+## 96. Terry Spilken DPM, "Cryotherapy for Plantar Fibromas" 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `5fqC-xS8WhM`
 - **URL:** https://www.youtube.com/watch?v=5fqC-xS8WhM
@@ -899,7 +1151,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** cryosurgery (cryoprobe freezing) for plantar fibromas
 - **Important concepts:** the Joule-Thomson effect as the physical basis of the ice ball, Wallerian degeneration with preserved myelin sheath, perineurium, and epineurium, ruling out sarcoma before treating an arch lesion as a simple fibroma
 
-## 76. The Likelihood of Future Dupuytren Disease Intervention After Initial Treatment in the Same Digit, Another Digit, and Contralateral Hand.
+## 97. The Likelihood of Future Dupuytren Disease Intervention After Initial Treatment in the Same Digit, Another Digit, and Contralateral Hand.
 
 - **Source ID:** `future-intervention-risk-cohort-2026`
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/42274446/
@@ -910,7 +1162,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** collagenase treatment, surgical fasciectomy
 - **Important concepts:** future intervention as a single umbrella outcome spanning three different locations, retrospective cohort design at a single institution
 
-## 77. The Molecular Pathogenesis of Dupuytren Disease: Review of the Literature and Suggested New Approaches to Treatment.
+## 98. The Molecular Pathogenesis of Dupuytren Disease: Review of the Literature and Suggested New Approaches to Treatment.
 
 - **Source ID:** `sayadi-2019-molecular-pathogenesis-review`
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/31232804/
@@ -921,7 +1173,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** future biologic treatments aimed at the disease process itself, not yet named specifically
 - **Important concepts:** the proliferative, involutional, and residual disease stages, three organizing categories -- molecular alterations, structural alterations, genetic predisposition, PRISMA-guided systematic review methodology applied to basic science literature
 
-## 78. Vilhjalmur Finsen Phd, "The epidemiology of Dupuytren's..." 2010 Miami Dupuytren Symposium
+## 99. Veronique Moulin PhD, "Tissue engineering and the myofibroblasts." 2010 Miami Dupuytren Symposium
+
+- **Source ID:** `doc6HW0c3RE`
+- **URL:** https://www.youtube.com/watch?v=doc6HW0c3RE
+- **Upload date:** 2010-09-12
+- **Duration:** 09:56
+- **Source file:** `sources/clean/doc6HW0c3RE.txt`
+- **Main subjects:** a tissue-engineered skin model used to study cell-cell interaction in fibrosis, hypertrophic-scar keratinocytes driving a thicker dermis via a secreted factor, a newly found role for myofibroblasts in promoting capillary network formation, why this matters for pathological tissue formation generally
+- **Anatomy:** none recorded
+- **Management options:** none recorded
+- **Important concepts:** self-assembly tissue engineering as an in-vitro model that behaves like in vivo tissue, keratinocyte-to-dermis signaling as a driver of fibrotic thickening, myofibroblasts as active participants in angiogenesis, not just matrix contraction
+
+## 100. Vilhjalmur Finsen Phd, "The epidemiology of Dupuytren's..." 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `W_Tbwi613Qw`
 - **URL:** https://www.youtube.com/watch?v=W_Tbwi613Qw
@@ -933,7 +1197,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** none recorded
 - **Important concepts:** prevalence versus need for treatment, a three-stage severity classification (palmar changes only, under 90 degrees, over 90 degrees), DASH score comparison against other hand conditions
 
-## 79. Wayne Hellstrom MD, "Medical Management of Peyronie's Disease" 2010 Miami Dupuytren Symposium
+## 101. Wayne Hellstrom MD, "Medical Management of Peyronie's Disease" 2010 Miami Dupuytren Symposium
 
 - **Source ID:** `nLR3nKuAufs`
 - **URL:** https://www.youtube.com/watch?v=nLR3nKuAufs
@@ -945,7 +1209,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Management options:** interlesional injection therapies (steroids, verapamil, interferon, collagenase), surgical reconstruction as the eventual gold standard for established disease
 - **Important concepts:** Peyronie's disease as a heterogeneous, not uniform, wound-healing disorder, the early/active phase versus stable phase distinction, and why surgery waits, modeling (mechanical straightening after injection) as an outcome modifier
 
-## 80. YouTube comments — "Dupuytren's Contracture: Causes, Symptoms, & Treatment" (TheHandSociety)
+## 102. YouTube comments — "Dupuytren's Contracture: Causes, Symptoms, & Treatment" (TheHandSociety)
 
 - **Source ID:** `youtube-comments-handsociety-dupuytrens`
 - **URL:** https://www.youtube.com/watch?v=V_EmTwz9iso
@@ -965,9 +1229,13 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **accessory collateral ligament, palmar plate, extensor mechanism** — Anatomy Cords (`iD3mYMmfN-Q`)
 
+**adherens junctions** — Dr. Jagdeep Nanchahal "TNF as a therapeutic target" 2015 Dupuytren Symposium (`T7VnrFtGnfY`)
+
 **adm (abductor digiti minimi) cord** — Dr. Gary Pess "Percutaneous Needle Fasciotomy and Collagenase (Xiaflex)"  2015 Dupuytren Symposium (`1BURdqs3a4U`)
 
 **alpha-smooth-muscle actin** — Giulio Gabbiani MD PhD, "The N-terminal peptide of a-smooth..." 2010 Miami Dupuytren Symposium. (`6YYYYh8aoJE`), Sandeep Kathju MD PhD, "Establishing an animal model of..." 2010 Miami Dupuytren Symposium (`ic6Wd3sT62Q`)
+
+**bicipital groove and coracoid process (injection landmarks)** — Dr. Marie Badalamente "Collagenase for  Adhesive Capsulitis" 2015 Dupuytren Symposium (`Zk5Z5DdqAuM`)
 
 **central slip** — Paul Smith MD, "A Logical Approach to the PIP Joint..." 2010 Miami Dupuytren Symposium (`atbGE2kJ5_U`)
 
@@ -976,6 +1244,10 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 **central, lateral, spiral, and double-spiral cords** — Dr. Caroline Leclercq "Severe PIPj contractures" 2015 Dupuytren Symposium (`L3kjpUIwHIQ`)
 
 **central, spiral, and lateral cords** — Dr. Larry Hurst "Collagenase Treatment" 2015 Dupuytren Symposium (`9LY5fyLw618`)
+
+**check-rein ligaments** — Dr. Atanu Biswas "Soft Tissue Distraction versus Fasciectomy" 2015 Dupuytren Symposium (`pE5YRmrXIGY`)
+
+**cleland's ligament** — Albrecht Meinel MD, "The palmar fibromatosis the..." 2010 Miami Dupuytren Symposium Presentation (`kq4hr06tOtY`)
 
 **cmc joint** — Biomarkers and the IDDB: 2021Symposium (`Eqpst2Of7ow`)
 
@@ -999,13 +1271,21 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **dermis and subcutaneous fat** — Roger Khouri MD, "Extensive Percutaneous Aponeurotomy..." 2010 Miami Dupuytren Symposium (`fmWiC5V76YI`)
 
+**digital arteries** — Dr. Atanu Biswas "Soft Tissue Distraction versus Fasciectomy" 2015 Dupuytren Symposium (`pE5YRmrXIGY`)
+
+**digital nerve** — 2010 IFSSH Needle Aponeurotomy presentation (`wSZhfP1r1OY`), Holger Erne Dr med, "Percutaneous needle fasciotomy a serious..." 2010 Miami Dupuytren Symposium (`vOSY4FZEJGM`)
+
 **dip joint** — Dr. Clayton Peimer "PIP joint  Minimally invasive methods" 2015 Dupuytren Symposium (`we5tJK4uY8U`), Dr. Larry Hurst "Collagenase Treatment" 2015 Dupuytren Symposium (`9LY5fyLw618`), Terri Skirven OTR/L CHT, "Hand therapy for Dupuytren's..." 2010 Miami Dupuytren Symposium (`MO1w1Ed-Yqc`)
+
+**dorsal penile nerve** — Dr. Mels van Driel: "Peyronie's Disease Treatment" 2015 Dupuytren Symposium (`S2k9bDzxSOU`)
 
 **dorsal pipjs** — Dupuytren's Disease: Hand Surgery Pathway (`girft-bssh-dupuytrens-pathway`)
 
 **dorsal plaque** — Wayne Hellstrom MD, "Medical Management of Peyronie's Disease" 2010 Miami Dupuytren Symposium (`nLR3nKuAufs`)
 
 **dorsum of the fingers** — Dr. Charles Eaton "Debate: Passive More than Active Contraction" 2015 Dupuytren Symposium (`wsqTB5LAGYo`)
+
+**dupuytren's nodule** — Dr. Jagdeep Nanchahal "TNF as a therapeutic target" 2015 Dupuytren Symposium (`T7VnrFtGnfY`)
 
 **elastin and extracellular matrix** — Ivana Ratkaj, "Microarray expression analysis of Dupuytren's..." 2010 Miami Dupuytren Symposium (`Ht1uUsc6fdw`)
 
@@ -1031,9 +1311,13 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **flexor sheath and pulleys** — Dr. Caroline Leclercq "Severe PIPj contractures" 2015 Dupuytren Symposium (`L3kjpUIwHIQ`)
 
-**flexor tendon** — Dr. David Warwick "Debate: Collagenase over PNF" 2015 Dupuytren Symposium (`StgtqY8hqpw`)
+**flexor tendon** — Dr. David Warwick "Debate: Collagenase over PNF" 2015 Dupuytren Symposium (`StgtqY8hqpw`), Dr. Eva Maria Baur "Collagenase vs. PNF" 2015 Dupuytren Symposium (`0yaaVmLHlmc`)
+
+**flexor tendon (zone i/ii border)** — Bing Siang Gan MD PhD, "Needle aponeurotomy for..." 2010 Miami Dupuytren Symposium (`-32nd2vQexQ`)
 
 **flexor tendon sheath** — Dupuytren Decision Trees (`THqIKjgOnkU`)
+
+**flexor tendon-associated cord** — Holger Erne Dr med, "Percutaneous needle fasciotomy a serious..." 2010 Miami Dupuytren Symposium (`vOSY4FZEJGM`)
 
 **fourth finger** — Radiation Therapy for Early Dupuytren's Disease (`nice-htg427-radiotherapy`)
 
@@ -1059,17 +1343,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **mcp (mp) joint** — British Dupuytren Society Seven Questions (`-jLfWXX3YUM`), Dr. Clayton Peimer "Five‐Year CORDLESS Data" 2015 Dupuytren Symposium (`0MBhLab1KUI`), Dr. Larry Hurst "Collagenase Treatment" 2015 Dupuytren Symposium (`9LY5fyLw618`), John Agee MD, "Growing the PIP straight with the Digit Widget" 2010 Miami Dupuytren Symposium (`2A9j4yqtpGI`), Marie Badalamente PhD, "Injectable collagenase clostridium..." 2010 Miami Dupuytren Symposium (`OwSS6grbMAc`), Roger Khouri MD, "Extensive Percutaneous Aponeurotomy..." 2010 Miami Dupuytren Symposium (`fmWiC5V76YI`)
 
-**mcp and pip joints** — Anatomy Cords (`iD3mYMmfN-Q`), Dr. Ruud Selles: "Consensus Definition of Recurrence" 2015 Dupuytren Symposium (`R4WPhcOpAMo`)
+**mcp and pip joints** — 2010 IFSSH Needle Aponeurotomy presentation (`wSZhfP1r1OY`), Anatomy Cords (`iD3mYMmfN-Q`), Dr. Ruud Selles: "Consensus Definition of Recurrence" 2015 Dupuytren Symposium (`R4WPhcOpAMo`)
 
-**mcp joint** — Biomarkers and the IDDB: 2021Symposium (`Eqpst2Of7ow`), Debbie Larson BScOT, "Splinting after contracture..." 2010 Miami Dupuytren Symposium (`KjV8R8x4OwE`), Dupuytren Severity (`jk7w-i8PPrs`), Terri Skirven OTR/L CHT, "Hand therapy for Dupuytren's..." 2010 Miami Dupuytren Symposium (`MO1w1Ed-Yqc`)
+**mcp joint** — Bernhard Lukas Dr med, "Treatment of severe Dupuytren contracture..." 2010 Miami Dupuytren Symposium (`r5L_NKVFdQw`), Bing Siang Gan MD PhD, "Needle aponeurotomy for..." 2010 Miami Dupuytren Symposium (`-32nd2vQexQ`), Biomarkers and the IDDB: 2021Symposium (`Eqpst2Of7ow`), Debbie Larson BScOT, "Splinting after contracture..." 2010 Miami Dupuytren Symposium (`KjV8R8x4OwE`), Dr. Adrian Chojnowski "Debate: Splinting confers no benefit" 2015 Dupuytren Symposium (`dp45M2IEW3k`), Dr. Wolfgang Wach: "Debate: Splinting is Beneficial" 2015 Dupuytren Symposium (`2-Ad4vp1EOA`), Dupuytren Severity (`jk7w-i8PPrs`), Terri Skirven OTR/L CHT, "Hand therapy for Dupuytren's..." 2010 Miami Dupuytren Symposium (`MO1w1Ed-Yqc`)
 
-**mcp, pip, and dip joints** — Michael Papaloïzos MD, "Minimizing cutaneous necrosis and delayed..." 2010 Miami Dupuytren Symposium (`eMQf8efjOtQ`)
+**mcp, pip, and dip joints** — Holger Erne Dr med, "Percutaneous needle fasciotomy a serious..." 2010 Miami Dupuytren Symposium (`vOSY4FZEJGM`), Michael Papaloïzos MD, "Minimizing cutaneous necrosis and delayed..." 2010 Miami Dupuytren Symposium (`eMQf8efjOtQ`)
 
 **mcpj (metacarpophalangeal joint)** — Dupuytren's Disease: Hand Surgery Pathway (`girft-bssh-dupuytrens-pathway`)
 
 **metacarpophalangeal (mcp) joint** — Likelihood of Dupuytren Contracture Recurrence After Limited Fasciectomy, Needle Aponeurotomy or Collagenase Clostridium histolyticum: Systematic Review of Prospective Data With 2- to 7-Year Follow-up. (`nocek-2026-recurrence-systematic-review`)
 
 **metacarpophalangeal joint** — Needle Fasciotomy for Dupuytren's Contracture (`nice-htg21-needle-fasciotomy`)
+
+**mp joint** — Dr. Steven Hovius: Percutaneous Aponeurotomy and Lipofilling" 2015 Dupuytren Symposium (`nUVjZI2XCg0`)
 
 **myofibroblasts** — Boris Hinz PhD, "Fundamental aspects of..." 2010 Miami Dupuytren Symposium Presentation (`fvmRS3OiWic`), Chrishan Samuel PhD, "Relaxin: an emerging therapy for..." 2010 Miami Dupuytren Symposium (`2Yi43NqnvfM`), Christina Raykha MSc Candidate, "Insulin-like Growth Factor..." 2010 Miami Dupuytren Symposium (`8Kp5Fz7ZKl0`), Davor Jurisic Phd MD, "Screening of potential prodrugs on cells..." 2010 Miami Dupuytren Symposium (`e_14ZbU3pFM`), Dr. Charles Eaton "Debate: Passive More than Active Contraction" 2015 Dupuytren Symposium (`wsqTB5LAGYo`), Dr. Charles Eaton "Dupuytren Data Bank (IDDB)" 2015 Dupuytren Symposium (`AbY1KVhTVAo`), Dr. David O'Gorman "Basic Research" 2015 Dupuytren Symposium (`aL-aMj2B1hY`), Dr. David O'Gorman 'The extracellular matrix" 2015 Dupuytren Symposium (`6aG_CIYTX8A`), Dr. Jagdeep Nanchahal "Debate: Contracture in Dupuytren is Active" 2015 Dupuytren Symposium (`QRUnLzXLyjE`), Giulio Gabbiani MD PhD, "The N-terminal peptide of a-smooth..." 2010 Miami Dupuytren Symposium. (`6YYYYh8aoJE`), Ivana Ratkaj, "Microarray expression analysis of Dupuytren's..." 2010 Miami Dupuytren Symposium (`Ht1uUsc6fdw`), Janine Morris PhD, "Collagen degradation and the expression of..." 2010 Miami Dupuytren Symposium (`UB71XI_3fxA`), Martin Robson MD, "Using laboratory models to develop molecular..." 2010 Miami Dupuytren Symposium (`dMW6VVm4FhU`), Sandeep Kathju MD PhD, "Establishing an animal model of..." 2010 Miami Dupuytren Symposium (`ic6Wd3sT62Q`), Sem Phan PhD MD, "Mechanisms of Myofibroblast..." 2010 Miami Dupuytren Symposium Presentation (`dsPwSUDrz1Y`), Susan Emeigh Hart VMD PhD, "A primer of collagen biology..." 2010 Miami Dupuytren Symposium (`Fj5WfRonTOg`)
 
@@ -1078,6 +1364,10 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 **natatory cords** — Dr. Gary Pess "Percutaneous Needle Fasciotomy and Collagenase (Xiaflex)"  2015 Dupuytren Symposium (`1BURdqs3a4U`)
 
 **natatory ligament, grayson's ligament, cleland's ligament** — Anatomy Cords (`iD3mYMmfN-Q`)
+
+**neurovascular bundle** — Bernhard Lukas Dr med, "Treatment of severe Dupuytren contracture..." 2010 Miami Dupuytren Symposium (`r5L_NKVFdQw`)
+
+**neurovascular bundle of the penis** — Dr. Mels van Driel: "Peyronie's Disease Treatment" 2015 Dupuytren Symposium (`S2k9bDzxSOU`)
 
 **nodules** — Dupuytren's Contracture (`assh-dupuytrens-contracture`)
 
@@ -1113,9 +1403,11 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **pip and mcp joints** — Dupuytren Decision Trees (`THqIKjgOnkU`)
 
-**pip joint** — Biomarkers and the IDDB: 2021Symposium (`Eqpst2Of7ow`), British Dupuytren Society Seven Questions (`-jLfWXX3YUM`), Debbie Larson BScOT, "Splinting after contracture..." 2010 Miami Dupuytren Symposium (`KjV8R8x4OwE`), Dr. Caroline Leclercq "Severe PIPj contractures" 2015 Dupuytren Symposium (`L3kjpUIwHIQ`), Dr. Clayton Peimer "Five‐Year CORDLESS Data" 2015 Dupuytren Symposium (`0MBhLab1KUI`), Dr. Clayton Peimer "PIP joint  Minimally invasive methods" 2015 Dupuytren Symposium (`we5tJK4uY8U`), Dr. David Warwick "Debate: Collagenase over PNF" 2015 Dupuytren Symposium (`StgtqY8hqpw`), Dr. Larry Hurst "Collagenase Treatment" 2015 Dupuytren Symposium (`9LY5fyLw618`), Dr. Wolfgang Wach, discusses the Dupuytren Society at the 2010 International Symposium (`4qSMSqYhxOc`), Dupuytren Severity (`jk7w-i8PPrs`), John Agee MD, "Growing the PIP straight with the Digit Widget" 2010 Miami Dupuytren Symposium (`2A9j4yqtpGI`), Marie Badalamente PhD, "Injectable collagenase clostridium..." 2010 Miami Dupuytren Symposium (`OwSS6grbMAc`), Paul Smith MD, "A Logical Approach to the PIP Joint..." 2010 Miami Dupuytren Symposium (`atbGE2kJ5_U`), Roger Khouri MD, "Extensive Percutaneous Aponeurotomy..." 2010 Miami Dupuytren Symposium (`fmWiC5V76YI`), Terri Skirven OTR/L CHT, "Hand therapy for Dupuytren's..." 2010 Miami Dupuytren Symposium (`MO1w1Ed-Yqc`)
+**pip joint** — Bernhard Lukas Dr med, "Treatment of severe Dupuytren contracture..." 2010 Miami Dupuytren Symposium (`r5L_NKVFdQw`), Bing Siang Gan MD PhD, "Needle aponeurotomy for..." 2010 Miami Dupuytren Symposium (`-32nd2vQexQ`), Biomarkers and the IDDB: 2021Symposium (`Eqpst2Of7ow`), British Dupuytren Society Seven Questions (`-jLfWXX3YUM`), Debbie Larson BScOT, "Splinting after contracture..." 2010 Miami Dupuytren Symposium (`KjV8R8x4OwE`), Dr. Adrian Chojnowski "Debate: Splinting confers no benefit" 2015 Dupuytren Symposium (`dp45M2IEW3k`), Dr. Atanu Biswas "Soft Tissue Distraction versus Fasciectomy" 2015 Dupuytren Symposium (`pE5YRmrXIGY`), Dr. Caroline Leclercq "Severe PIPj contractures" 2015 Dupuytren Symposium (`L3kjpUIwHIQ`), Dr. Clayton Peimer "Five‐Year CORDLESS Data" 2015 Dupuytren Symposium (`0MBhLab1KUI`), Dr. Clayton Peimer "PIP joint  Minimally invasive methods" 2015 Dupuytren Symposium (`we5tJK4uY8U`), Dr. David Warwick "Debate: Collagenase over PNF" 2015 Dupuytren Symposium (`StgtqY8hqpw`), Dr. Eva Maria Baur "Collagenase vs. PNF" 2015 Dupuytren Symposium (`0yaaVmLHlmc`), Dr. Larry Hurst "Collagenase Treatment" 2015 Dupuytren Symposium (`9LY5fyLw618`), Dr. Steven Hovius: Percutaneous Aponeurotomy and Lipofilling" 2015 Dupuytren Symposium (`nUVjZI2XCg0`), Dr. Wolfgang Wach, discusses the Dupuytren Society at the 2010 International Symposium (`4qSMSqYhxOc`), Dr. Wolfgang Wach: "Debate: Splinting is Beneficial" 2015 Dupuytren Symposium (`2-Ad4vp1EOA`), Dupuytren Severity (`jk7w-i8PPrs`), John Agee MD, "Growing the PIP straight with the Digit Widget" 2010 Miami Dupuytren Symposium (`2A9j4yqtpGI`), Marie Badalamente PhD, "Injectable collagenase clostridium..." 2010 Miami Dupuytren Symposium (`OwSS6grbMAc`), Paul Smith MD, "A Logical Approach to the PIP Joint..." 2010 Miami Dupuytren Symposium (`atbGE2kJ5_U`), Roger Khouri MD, "Extensive Percutaneous Aponeurotomy..." 2010 Miami Dupuytren Symposium (`fmWiC5V76YI`), Terri Skirven OTR/L CHT, "Hand therapy for Dupuytren's..." 2010 Miami Dupuytren Symposium (`MO1w1Ed-Yqc`)
 
 **pip joint (fifth finger specifically)** — Ilse Degreef MD PhD "Highly-dosed neo-adjuvant tamoxifen..." 2010 Miami Dupuytren Symposium (`-OKFB6sX_64`)
+
+**pip joint of the fifth digit** — Drs. Ilse Degreef and Marieke Torrekens "Full-Thickness Skin Grafting" 2015 Dupuytren Symposium (`HNWobAG54ro`)
 
 **pip joint, central slip** — Dr. Gary Pess "Percutaneous Needle Fasciotomy and Collagenase (Xiaflex)"  2015 Dupuytren Symposium (`1BURdqs3a4U`)
 
@@ -1129,7 +1421,11 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **pretendinous bands, spiral bands, central and lateral cords** — Anatomy Cords (`iD3mYMmfN-Q`)
 
+**pretendinous, natatory, and spiral cords** — 2010 IFSSH Needle Aponeurotomy presentation (`wSZhfP1r1OY`)
+
 **proper digital nerves** — Robert Choa MD, "Digital Nerves in Dupuytrens Surgery"" 2010 Miami Dupuytren Symposium (`gMD3XNuUFFM`)
+
+**proximal and middle phalanx** — Bernhard Lukas Dr med, "Treatment of severe Dupuytren contracture..." 2010 Miami Dupuytren Symposium (`r5L_NKVFdQw`)
 
 **proximal interphalangeal (pip) joint** — Likelihood of Dupuytren Contracture Recurrence After Limited Fasciectomy, Needle Aponeurotomy or Collagenase Clostridium histolyticum: Systematic Review of Prospective Data With 2- to 7-Year Follow-up. (`nocek-2026-recurrence-systematic-review`), Progression of Dupuytren Contracture: A Randomized Controlled Trial Comparing Surgery, Needle Fasciotomy, and Collagenase Injection. (`detect-2026-progression-rct`)
 
@@ -1143,15 +1439,23 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **same digit as initially treated** — The Likelihood of Future Dupuytren Disease Intervention After Initial Treatment in the Same Digit, Another Digit, and Contralateral Hand. (`future-intervention-risk-cohort-2026`)
 
+**shoulder capsule** — Dr. Marie Badalamente "Collagenase for  Adhesive Capsulitis" 2015 Dupuytren Symposium (`Zk5Z5DdqAuM`)
+
 **soles of feet** — Dupuytren's Disease: Hand Surgery Pathway (`girft-bssh-dupuytrens-pathway`)
 
 **soles of the feet** — Dupuytren's Contracture (`assh-dupuytrens-contracture`)
 
+**subcutaneous fibro-fatty tissue of the finger** — Albrecht Meinel MD, "The palmar fibromatosis the..." 2010 Miami Dupuytren Symposium Presentation (`kq4hr06tOtY`)
+
 **the extracellular matrix** — Dr. David O'Gorman 'The extracellular matrix" 2015 Dupuytren Symposium (`6aG_CIYTX8A`)
+
+**the palmar aponeurosis** — Albrecht Meinel MD, "The palmar fibromatosis the..." 2010 Miami Dupuytren Symposium Presentation (`kq4hr06tOtY`)
 
 **thumb and index finger webspace** — Dupuytren's Disease: Hand Surgery Pathway (`girft-bssh-dupuytrens-pathway`)
 
 **tunica albuginea** — Wayne Hellstrom MD, "Medical Management of Peyronie's Disease" 2010 Miami Dupuytren Symposium (`nLR3nKuAufs`)
+
+**tunica albuginea (the "plaque")** — Dr. Mels van Driel: "Peyronie's Disease Treatment" 2015 Dupuytren Symposium (`S2k9bDzxSOU`)
 
 **type iii collagen distribution by skin depth** — Lynn Ketchum MD, "Dermofasciectomies and full-thickness skin..." 2010 Miami Dupuytren Symposium (`klWbjOcG3Kk`)
 
