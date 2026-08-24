@@ -108,7 +108,11 @@ recontracture or how to identify at-risk patients — he states plainly this rem
 
 ## Conflicts with other sources
 
-**Directly paired with `2-Ad4vp1EOA`** (Wach's "Debate: Splinting is Beneficial," the opposing side of this
+**Directly relevant to `rNihCBbmTx8`** (Lanting's disease clusters talk) — that talk finds Dupuytren's disease
+course fluctuates substantially even without treatment, meaning any apparent splinting benefit in a study
+without a no-treatment comparison arm could partly reflect natural disease-course variation rather than a true
+splinting effect; this strengthens the case for the randomized-trial evidence this talk relies on over
+anecdotal or uncontrolled reports. **Directly paired with `2-Ad4vp1EOA`** (Wach's "Debate: Splinting is Beneficial," the opposing side of this
 same formal symposium debate) — Wach's anecdotal cases and small study more often describe splinting for
 recurrence-prone joints or as a standalone preventive measure, distinct from the routine post-surgical
 splinting these three RCTs specifically test; read together, the two talks may be more reconcilable than
