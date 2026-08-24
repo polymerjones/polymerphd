@@ -98,4 +98,8 @@ aponeurotomy's recurrence at 46.4% over a mean 3.8-year follow-up — close to, 
 guidance's "approximately 50% at 3 to 5 years," and consistent with the same conclusion that needle-based
 treatment recurs more than surgery. **Also relevant to `girft-bssh-dupuytrens-pathway`**, which lists
 percutaneous fasciotomy as one of its two surgical-review pathways without stating a recurrence figure of its
-own — this guidance supplies the number that pathway leaves implicit.
+own — this guidance supplies the number that pathway leaves implicit. **`oRdE0UKeJF0`** (Van Rijssen's
+randomized PNF-versus-fasciectomy trial) reports a notably higher PNF recurrence rate — 85% at 5 years,
+versus this guidance's ~50% at 3–5 years — worth reading as a real discrepancy rather than the same finding
+restated: that trial required a minimum 30-degree baseline contracture and used a stricter 30-degree-TPD-
+worsening recurrence definition, either of which could plausibly explain the gap.

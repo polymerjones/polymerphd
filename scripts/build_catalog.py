@@ -54,12 +54,20 @@ def catalog_heading(catalog_file):
     return f"# {stem.replace('_', ' ').title()}"
 
 
+ATTRIBUTION_LABELS = {
+    "youtube_channel": "Channel",
+    # For a library that mixes video with other source kinds (PDFs, websites) —
+    # "Channel:" alone would wrongly imply every entry traces to that one channel.
+    "youtube_channel_partial": "Video sources from",
+}
+
+
 def attribution_line(lib):
     attr = lib.config.get("attribution")
     if not attr:
         return None
     name, url = attr.get("name"), attr.get("url")
-    label = "Channel" if attr.get("style") == "youtube_channel" else "Source"
+    label = ATTRIBUTION_LABELS.get(attr.get("style"), "Source")
     if name and url:
         return f"**{label}:** {name} — {url}  "
     if name:
@@ -155,6 +163,28 @@ def main():
     for key in sorted(index):
         titles = ", ".join(f"{v['title']} (`{v['id']}`)" for v in index[key])
         lines += [f"**{key}** — {titles}", ""]
+
+    # Videos with no caption track or an empty transcript can't back a citation —
+    # nothing here is a claim, just a link, so no anchors and no note required. This
+    # doesn't mean the video is silent, only that nothing was extractable from it —
+    # say so plainly rather than implying the content itself has no narration.
+    manifest = lib.load_manifest()
+    silent = [s for s in manifest.get("skipped", [])
+              if s.get("reason") in ("no captions", "empty transcript") and s.get("url")]
+    if silent:
+        silent.sort(key=lambda s: (s.get("title") or "").lower())
+        lines += [
+            "---", "",
+            "## No transcript available — link only, not cited", "",
+            "No caption track could be extracted for these (a YouTube limitation, not "
+            "necessarily an absence of dialogue), so there's no transcript to anchor a claim "
+            "against. They aren't sourced or fact-checked against anything here — just links, "
+            "for watching directly.", "",
+        ]
+        for s in silent:
+            dur = f" ({s['duration']})" if s.get("duration") else ""
+            lines.append(f"- [{s['title']}]({s['url']}){dur}")
+        lines.append("")
 
     out = lib.knowledge / lib.catalog_file
     out.parent.mkdir(parents=True, exist_ok=True)

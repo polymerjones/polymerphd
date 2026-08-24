@@ -187,12 +187,17 @@ cauda equina, first episode of chest pain — are stated without softening. See
 
 ## Source and attribution
 
-Every transcript, note and synthesised file in this repository derives from
+Every transcript, note and synthesised file in this repository derives from its named source.
+The `restorative-physiology` library derives from
 **[The Feynman Way](https://www.youtube.com/@The_Feynman_Way)** — 227 videos fetched,
-193 written up, ~90 hours of runtime. All rights in the underlying material remain with
-that channel.
+193 written up, ~90 hours of runtime. The `dupuytren` library's video notes derive from
+**[Dupuytren Foundation](https://www.youtube.com/@DupuytrenFoundation)**; its other sources
+(clinical guidelines, systematic reviews, patient material) are cited individually in
+`libraries/dupuytren/sources/manifest.json` and its own source catalog. All rights in the
+underlying material remain with the respective channel or publisher.
 
-This is a personal, non-commercial study aid. It is not affiliated with or endorsed by the
-channel, and nothing here is presented as original writing. The `[mm:ss]` anchors exist so
-that any claim can be checked against the video that made it — the material is meant to be
-watched, not replaced. If you find this useful, watch and subscribe to the source.
+This is a personal, non-commercial study aid. It is not affiliated with or endorsed by either
+channel, and nothing here is presented as original writing. The `[mm:ss]`/`[p.N]`/`[¶N]`
+anchors exist so that any claim can be checked against the source that made it — the material
+is meant to be watched or read, not replaced. If you find this useful, watch and subscribe to
+the source channels.

@@ -152,22 +152,27 @@ def main():
         vid = info_path.name[: -len(".info.json")]
         info = read_json(info_path)
 
+        title = info.get("title") or "not available"
+        duration = info.get("duration")
+        url = info.get("webpage_url") or f"https://www.youtube.com/watch?v={vid}"
+        dur_str = mmss(duration) if duration else "not available"
+
         cap = caption_path(raw_dir, vid)
         if cap is None:
-            skipped.append({"id": vid, "title": info.get("title"), "reason": "no captions"})
+            skipped.append({"id": vid, "title": title, "url": url,
+                             "duration_seconds": duration, "duration": dur_str,
+                             "reason": "no captions"})
             continue
 
         events = dedupe_consecutive(extract_events(read_json(cap)))
         body = build_body(events)
         if not body.strip():
-            skipped.append({"id": vid, "title": info.get("title"), "reason": "empty transcript"})
+            skipped.append({"id": vid, "title": title, "url": url,
+                             "duration_seconds": duration, "duration": dur_str,
+                             "reason": "empty transcript"})
             continue
 
-        title = info.get("title") or "not available"
         date = fmt_date(info.get("upload_date"))
-        duration = info.get("duration")
-        url = info.get("webpage_url") or f"https://www.youtube.com/watch?v={vid}"
-        dur_str = mmss(duration) if duration else "not available"
 
         header = (
             f"TITLE: {title}\n"

@@ -35,6 +35,12 @@
   "catalog_unit_label": "Sources",
   "catalog_id_label": "Source ID",
 
+  "attribution": {
+    "style": "youtube_channel_partial",
+    "name": "Dupuytren Foundation",
+    "url": "https://www.youtube.com/@DupuytrenFoundation"
+  },
+
   "custom_gpt": { "enabled": false },
 
   "evidence_types": ["guideline", "systematic_review", "rct", "cohort_study",

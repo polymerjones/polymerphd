@@ -250,6 +250,2524 @@
         "level": "anecdotal"
       },
       "note": "Paraphrased summary, not verbatim source text — see clean_file header."
+    },
+    {
+      "id": "AEtlrIjvGDM",
+      "kind": "youtube",
+      "title": "\"Percutaneous Needle Fasciotomy\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=AEtlrIjvGDM",
+      "upload_date": "2015-12-12",
+      "duration_seconds": 325,
+      "duration": "05:25",
+      "word_count": 699,
+      "clean_file": "clean/AEtlrIjvGDM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 325
+      }
+    },
+    {
+      "id": "wSZhfP1r1OY",
+      "kind": "youtube",
+      "title": "2010 IFSSH Needle Aponeurotomy presentation",
+      "url": "https://www.youtube.com/watch?v=wSZhfP1r1OY",
+      "upload_date": "2016-05-18",
+      "duration_seconds": 566,
+      "duration": "09:26",
+      "word_count": 1271,
+      "clean_file": "clean/wSZhfP1r1OY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 566
+      }
+    },
+    {
+      "id": "E4qAoklf4sE",
+      "kind": "youtube",
+      "title": "2010 Miami Dupuytren Symposium Presentation 01",
+      "url": "https://www.youtube.com/watch?v=E4qAoklf4sE",
+      "upload_date": "2010-08-10",
+      "duration_seconds": 978,
+      "duration": "16:18",
+      "word_count": 2402,
+      "clean_file": "clean/E4qAoklf4sE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 978
+      }
+    },
+    {
+      "id": "SgtXLK75Nz8",
+      "kind": "youtube",
+      "title": "2017 Dupuytren Awareness",
+      "url": "https://www.youtube.com/watch?v=SgtXLK75Nz8",
+      "upload_date": "2017-03-18",
+      "duration_seconds": 215,
+      "duration": "03:35",
+      "word_count": 504,
+      "clean_file": "clean/SgtXLK75Nz8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 215
+      }
+    },
+    {
+      "id": "2Dq1u73_LZU",
+      "kind": "youtube",
+      "title": "2018Germany",
+      "url": "https://www.youtube.com/watch?v=2Dq1u73_LZU",
+      "upload_date": "2018-05-12",
+      "duration_seconds": 275,
+      "duration": "04:35",
+      "word_count": 742,
+      "clean_file": "clean/2Dq1u73_LZU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 275
+      }
+    },
+    {
+      "id": "sAs4b1pNjEU",
+      "kind": "youtube",
+      "title": "2019 Dupuytren Review",
+      "url": "https://www.youtube.com/watch?v=sAs4b1pNjEU",
+      "upload_date": "2019-10-23",
+      "duration_seconds": 2969,
+      "duration": "49:29",
+      "word_count": 7695,
+      "clean_file": "clean/sAs4b1pNjEU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2969
+      }
+    },
+    {
+      "id": "LkOronhIgQU",
+      "kind": "youtube",
+      "title": "2022 Dupuytren Disease and Research for a Cure",
+      "url": "https://www.youtube.com/watch?v=LkOronhIgQU",
+      "upload_date": "2022-11-29",
+      "duration_seconds": 4089,
+      "duration": "68:09",
+      "word_count": 10742,
+      "clean_file": "clean/LkOronhIgQU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 4089
+      }
+    },
+    {
+      "id": "z67UzHOAGOs",
+      "kind": "youtube",
+      "title": "2023 Dupuytren Disease and Research for a Cure",
+      "url": "https://www.youtube.com/watch?v=z67UzHOAGOs",
+      "upload_date": "2023-06-07",
+      "duration_seconds": 5215,
+      "duration": "86:55",
+      "word_count": 15183,
+      "clean_file": "clean/z67UzHOAGOs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 5215
+      }
+    },
+    {
+      "id": "LKcl3SdhhpQ",
+      "kind": "youtube",
+      "title": "Advancing Dupuytren Disease Diagnosis and Treatment",
+      "url": "https://www.youtube.com/watch?v=LKcl3SdhhpQ",
+      "upload_date": "2025-12-02",
+      "duration_seconds": 435,
+      "duration": "07:15",
+      "word_count": 1167,
+      "clean_file": "clean/LKcl3SdhhpQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 435
+      }
+    },
+    {
+      "id": "X-LhucSUXgQ",
+      "kind": "youtube",
+      "title": "Advancing Dupuytren disease diagnosis and treatment",
+      "url": "https://www.youtube.com/watch?v=X-LhucSUXgQ",
+      "upload_date": "2026-02-10",
+      "duration_seconds": 431,
+      "duration": "07:11",
+      "word_count": 1169,
+      "clean_file": "clean/X-LhucSUXgQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 431
+      }
+    },
+    {
+      "id": "kq4hr06tOtY",
+      "kind": "youtube",
+      "title": "Albrecht Meinel MD, \"The palmar fibromatosis the...\" 2010 Miami Dupuytren Symposium Presentation",
+      "url": "https://www.youtube.com/watch?v=kq4hr06tOtY",
+      "upload_date": "2010-09-11",
+      "duration_seconds": 744,
+      "duration": "12:24",
+      "word_count": 1044,
+      "clean_file": "clean/kq4hr06tOtY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 744
+      }
+    },
+    {
+      "id": "882JB9cXDME",
+      "kind": "youtube",
+      "title": "Albrecht Meinel MD, \"The role of static night splinting...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=882JB9cXDME",
+      "upload_date": "2010-10-23",
+      "duration_seconds": 408,
+      "duration": "06:48",
+      "word_count": 510,
+      "clean_file": "clean/882JB9cXDME.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 408
+      }
+    },
+    {
+      "id": "R1fg99FAIfE",
+      "kind": "youtube",
+      "title": "Amazing Things: Hands and Hand Surgery",
+      "url": "https://www.youtube.com/watch?v=R1fg99FAIfE",
+      "upload_date": "2017-09-20",
+      "duration_seconds": 2781,
+      "duration": "46:21",
+      "word_count": 7170,
+      "clean_file": "clean/R1fg99FAIfE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2781
+      }
+    },
+    {
+      "id": "iD3mYMmfN-Q",
+      "kind": "youtube",
+      "title": "Anatomy Cords",
+      "url": "https://www.youtube.com/watch?v=iD3mYMmfN-Q",
+      "upload_date": "2017-09-06",
+      "duration_seconds": 862,
+      "duration": "14:22",
+      "word_count": 1860,
+      "clean_file": "clean/iD3mYMmfN-Q.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 862
+      }
+    },
+    {
+      "id": "rp0ZsLbwh8Q",
+      "kind": "youtube",
+      "title": "Andrey Zhigalo MD, \"The features of surgical tactic in treatment...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=rp0ZsLbwh8Q",
+      "upload_date": "2010-10-20",
+      "duration_seconds": 992,
+      "duration": "16:32",
+      "word_count": 1171,
+      "clean_file": "clean/rp0ZsLbwh8Q.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 992
+      }
+    },
+    {
+      "id": "ZFj6QIZfHq8",
+      "kind": "youtube",
+      "title": "Anne Ouellette MD MBA, \"Outcomes of Apligraf use in... \" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=ZFj6QIZfHq8",
+      "upload_date": "2010-10-23",
+      "duration_seconds": 665,
+      "duration": "11:05",
+      "word_count": 1927,
+      "clean_file": "clean/ZFj6QIZfHq8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 665
+      }
+    },
+    {
+      "id": "oRdE0UKeJF0",
+      "kind": "youtube",
+      "title": "Annet Van Rijssen MD, \"5-year results of first-ever randomised...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=oRdE0UKeJF0",
+      "upload_date": "2010-10-22",
+      "duration_seconds": 701,
+      "duration": "11:41",
+      "word_count": 1568,
+      "clean_file": "clean/oRdE0UKeJF0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 701
+      }
+    },
+    {
+      "id": "g40N2M2C6qM",
+      "kind": "youtube",
+      "title": "Ardeshir Bayat MD PhD \"Genetics of Dupuytren's Disease\" 2010 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=g40N2M2C6qM",
+      "upload_date": "2011-03-13",
+      "duration_seconds": 1365,
+      "duration": "22:45",
+      "word_count": 2905,
+      "clean_file": "clean/g40N2M2C6qM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1365
+      }
+    },
+    {
+      "id": "r5L_NKVFdQw",
+      "kind": "youtube",
+      "title": "Bernhard Lukas Dr med, \"Treatment of severe Dupuytren contracture...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=r5L_NKVFdQw",
+      "upload_date": "2010-10-21",
+      "duration_seconds": 674,
+      "duration": "11:14",
+      "word_count": 1097,
+      "clean_file": "clean/r5L_NKVFdQw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 674
+      }
+    },
+    {
+      "id": "-32nd2vQexQ",
+      "kind": "youtube",
+      "title": "Bing Siang Gan MD PhD, \"Needle aponeurotomy for...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=-32nd2vQexQ",
+      "upload_date": "2010-10-22",
+      "duration_seconds": 535,
+      "duration": "08:55",
+      "word_count": 1381,
+      "clean_file": "clean/-32nd2vQexQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 535
+      }
+    },
+    {
+      "id": "Eqpst2Of7ow",
+      "kind": "youtube",
+      "title": "Biomarkers and the IDDB: 2021Symposium",
+      "url": "https://www.youtube.com/watch?v=Eqpst2Of7ow",
+      "upload_date": "2021-09-24",
+      "duration_seconds": 1159,
+      "duration": "19:19",
+      "word_count": 2917,
+      "clean_file": "clean/Eqpst2Of7ow.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1159
+      }
+    },
+    {
+      "id": "fvmRS3OiWic",
+      "kind": "youtube",
+      "title": "Boris Hinz PhD, \"Fundamental aspects of...\" 2010 Miami Dupuytren Symposium Presentation",
+      "url": "https://www.youtube.com/watch?v=fvmRS3OiWic",
+      "upload_date": "2010-09-08",
+      "duration_seconds": 1056,
+      "duration": "17:36",
+      "word_count": 3205,
+      "clean_file": "clean/fvmRS3OiWic.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1056
+      }
+    },
+    {
+      "id": "-jLfWXX3YUM",
+      "kind": "youtube",
+      "title": "British Dupuytren Society Seven Questions",
+      "url": "https://www.youtube.com/watch?v=-jLfWXX3YUM",
+      "upload_date": "2020-04-06",
+      "duration_seconds": 1280,
+      "duration": "21:20",
+      "word_count": 3185,
+      "clean_file": "clean/-jLfWXX3YUM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1280
+      }
+    },
+    {
+      "id": "MKJlNbyux0o",
+      "kind": "youtube",
+      "title": "Catherine Ball \"Systematic Review Of Non-Surgical Treatments\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=MKJlNbyux0o",
+      "upload_date": "2015-11-30",
+      "duration_seconds": 380,
+      "duration": "06:20",
+      "word_count": 701,
+      "clean_file": "clean/MKJlNbyux0o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 380
+      }
+    },
+    {
+      "id": "2Yi43NqnvfM",
+      "kind": "youtube",
+      "title": "Chrishan Samuel PhD, \"Relaxin: an emerging therapy for...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=2Yi43NqnvfM",
+      "upload_date": "2010-10-24",
+      "duration_seconds": 791,
+      "duration": "13:11",
+      "word_count": 1917,
+      "clean_file": "clean/2Yi43NqnvfM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 791
+      }
+    },
+    {
+      "id": "8Kp5Fz7ZKl0",
+      "kind": "youtube",
+      "title": "Christina Raykha MSc Candidate, \"Insulin-like Growth Factor...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=8Kp5Fz7ZKl0",
+      "upload_date": "2010-10-17",
+      "duration_seconds": 592,
+      "duration": "09:52",
+      "word_count": 1332,
+      "clean_file": "clean/8Kp5Fz7ZKl0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 592
+      }
+    },
+    {
+      "id": "XMQEyF-Gtv0",
+      "kind": "youtube",
+      "title": "David O'Gorman PhD, \"Primary Dupuytren's Disease cell...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=XMQEyF-Gtv0",
+      "upload_date": "2010-10-17",
+      "duration_seconds": 822,
+      "duration": "13:42",
+      "word_count": 2741,
+      "clean_file": "clean/XMQEyF-Gtv0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 822
+      }
+    },
+    {
+      "id": "e_14ZbU3pFM",
+      "kind": "youtube",
+      "title": "Davor Jurisic Phd MD, \"Screening of potential prodrugs on cells...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=e_14ZbU3pFM",
+      "upload_date": "2010-10-24",
+      "duration_seconds": 588,
+      "duration": "09:48",
+      "word_count": 1508,
+      "clean_file": "clean/e_14ZbU3pFM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 588
+      }
+    },
+    {
+      "id": "KjV8R8x4OwE",
+      "kind": "youtube",
+      "title": "Debbie Larson BScOT, \"Splinting after contracture...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=KjV8R8x4OwE",
+      "upload_date": "2010-10-23",
+      "duration_seconds": 614,
+      "duration": "10:14",
+      "word_count": 1688,
+      "clean_file": "clean/KjV8R8x4OwE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 614
+      }
+    },
+    {
+      "id": "t8kzlpSJLj0",
+      "kind": "youtube",
+      "title": "Dr Chao Zhou \"Collagenase Injection versus Limited Fasciectomy\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=t8kzlpSJLj0",
+      "upload_date": "2015-10-25",
+      "duration_seconds": 319,
+      "duration": "05:19",
+      "word_count": 704,
+      "clean_file": "clean/t8kzlpSJLj0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 319
+      }
+    },
+    {
+      "id": "dp45M2IEW3k",
+      "kind": "youtube",
+      "title": "Dr. Adrian Chojnowski \"Debate: Splinting confers no benefit\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=dp45M2IEW3k",
+      "upload_date": "2015-11-20",
+      "duration_seconds": 356,
+      "duration": "05:56",
+      "word_count": 943,
+      "clean_file": "clean/dp45M2IEW3k.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 356
+      }
+    },
+    {
+      "id": "pE5YRmrXIGY",
+      "kind": "youtube",
+      "title": "Dr. Atanu Biswas \"Soft Tissue Distraction versus Fasciectomy\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=pE5YRmrXIGY",
+      "upload_date": "2015-11-21",
+      "duration_seconds": 448,
+      "duration": "07:28",
+      "word_count": 1258,
+      "clean_file": "clean/pE5YRmrXIGY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 448
+      }
+    },
+    {
+      "id": "3PcPMAWaUDM",
+      "kind": "youtube",
+      "title": "Dr. Bert Reichert \"Favorite Options of German Hand Surgeons\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=3PcPMAWaUDM",
+      "upload_date": "2015-10-25",
+      "duration_seconds": 377,
+      "duration": "06:17",
+      "word_count": 848,
+      "clean_file": "clean/3PcPMAWaUDM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 377
+      }
+    },
+    {
+      "id": "L3kjpUIwHIQ",
+      "kind": "youtube",
+      "title": "Dr. Caroline Leclercq \"Severe PIPj contractures\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=L3kjpUIwHIQ",
+      "upload_date": "2015-10-25",
+      "duration_seconds": 1035,
+      "duration": "17:15",
+      "word_count": 2412,
+      "clean_file": "clean/L3kjpUIwHIQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1035
+      }
+    },
+    {
+      "id": "SZEmawrCaK8",
+      "kind": "youtube",
+      "title": "Dr. Chao Zhou \"Hand function following fasciectomy\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=SZEmawrCaK8",
+      "upload_date": "2015-10-25",
+      "duration_seconds": 330,
+      "duration": "05:30",
+      "word_count": 732,
+      "clean_file": "clean/SZEmawrCaK8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 330
+      }
+    },
+    {
+      "id": "wsqTB5LAGYo",
+      "kind": "youtube",
+      "title": "Dr. Charles Eaton \"Debate: Passive More than Active Contraction\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=wsqTB5LAGYo",
+      "upload_date": "2015-10-25",
+      "duration_seconds": 312,
+      "duration": "05:12",
+      "word_count": 872,
+      "clean_file": "clean/wsqTB5LAGYo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 312
+      }
+    },
+    {
+      "id": "AbY1KVhTVAo",
+      "kind": "youtube",
+      "title": "Dr. Charles Eaton \"Dupuytren Data Bank (IDDB)\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=AbY1KVhTVAo",
+      "upload_date": "2015-07-01",
+      "duration_seconds": 1140,
+      "duration": "19:00",
+      "word_count": 3153,
+      "clean_file": "clean/AbY1KVhTVAo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1140
+      }
+    },
+    {
+      "id": "Y6IZZLF-erw",
+      "kind": "youtube",
+      "title": "Dr. Charles Eaton, 2010 Miami Dupuytren Symposium Introduction",
+      "url": "https://www.youtube.com/watch?v=Y6IZZLF-erw",
+      "upload_date": "2010-08-22",
+      "duration_seconds": 978,
+      "duration": "16:18",
+      "word_count": 2387,
+      "clean_file": "clean/Y6IZZLF-erw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 978
+      }
+    },
+    {
+      "id": "0MBhLab1KUI",
+      "kind": "youtube",
+      "title": "Dr. Clayton Peimer \"Five‐Year CORDLESS Data\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=0MBhLab1KUI",
+      "upload_date": "2015-10-28",
+      "duration_seconds": 553,
+      "duration": "09:13",
+      "word_count": 1187,
+      "clean_file": "clean/0MBhLab1KUI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 553
+      }
+    },
+    {
+      "id": "we5tJK4uY8U",
+      "kind": "youtube",
+      "title": "Dr. Clayton Peimer \"PIP joint  Minimally invasive methods\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=we5tJK4uY8U",
+      "upload_date": "2015-11-30",
+      "duration_seconds": 776,
+      "duration": "12:56",
+      "word_count": 1635,
+      "clean_file": "clean/we5tJK4uY8U.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 776
+      }
+    },
+    {
+      "id": "aL-aMj2B1hY",
+      "kind": "youtube",
+      "title": "Dr. David O'Gorman \"Basic Research\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=aL-aMj2B1hY",
+      "upload_date": "2015-11-21",
+      "duration_seconds": 722,
+      "duration": "12:02",
+      "word_count": 2430,
+      "clean_file": "clean/aL-aMj2B1hY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 722
+      }
+    },
+    {
+      "id": "6aG_CIYTX8A",
+      "kind": "youtube",
+      "title": "Dr. David O'Gorman 'The extracellular matrix\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=6aG_CIYTX8A",
+      "upload_date": "2015-11-21",
+      "duration_seconds": 1233,
+      "duration": "20:33",
+      "word_count": 3715,
+      "clean_file": "clean/6aG_CIYTX8A.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1233
+      }
+    },
+    {
+      "id": "93IWNYYqCjs",
+      "kind": "youtube",
+      "title": "Dr. David Warwick \"Collagenase- what we may never know\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=93IWNYYqCjs",
+      "upload_date": "2015-11-22",
+      "duration_seconds": 520,
+      "duration": "08:40",
+      "word_count": 1469,
+      "clean_file": "clean/93IWNYYqCjs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 520
+      }
+    },
+    {
+      "id": "StgtqY8hqpw",
+      "kind": "youtube",
+      "title": "Dr. David Warwick \"Debate: Collagenase over PNF\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=StgtqY8hqpw",
+      "upload_date": "2015-11-22",
+      "duration_seconds": 458,
+      "duration": "07:38",
+      "word_count": 1401,
+      "clean_file": "clean/StgtqY8hqpw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 458
+      }
+    },
+    {
+      "id": "ciw1Un8sJdc",
+      "kind": "youtube",
+      "title": "Dr. Dieuwke Broekstra \" Vibration and Dupuytren disease\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=ciw1Un8sJdc",
+      "upload_date": "2015-11-20",
+      "duration_seconds": 337,
+      "duration": "05:37",
+      "word_count": 825,
+      "clean_file": "clean/ciw1Un8sJdc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 337
+      }
+    },
+    {
+      "id": "G5O4EBAoEyg",
+      "kind": "youtube",
+      "title": "Dr. Dieuwke Broekstra \"A systematic review and meta-analysis\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=G5O4EBAoEyg",
+      "upload_date": "2015-11-20",
+      "duration_seconds": 329,
+      "duration": "05:29",
+      "word_count": 802,
+      "clean_file": "clean/G5O4EBAoEyg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 329
+      }
+    },
+    {
+      "id": "_RvN3Twn6Z4",
+      "kind": "youtube",
+      "title": "Dr. Dominic Furniss \"How should we fund DD research\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=_RvN3Twn6Z4",
+      "upload_date": "2015-10-28",
+      "duration_seconds": 549,
+      "duration": "09:09",
+      "word_count": 1407,
+      "clean_file": "clean/_RvN3Twn6Z4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 549
+      }
+    },
+    {
+      "id": "0yaaVmLHlmc",
+      "kind": "youtube",
+      "title": "Dr. Eva Maria Baur \"Collagenase vs. PNF\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=0yaaVmLHlmc",
+      "upload_date": "2015-11-20",
+      "duration_seconds": 452,
+      "duration": "07:32",
+      "word_count": 1196,
+      "clean_file": "clean/0yaaVmLHlmc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 452
+      }
+    },
+    {
+      "id": "OD7cAtaNl3c",
+      "kind": "youtube",
+      "title": "Dr. Gary M Pess \"Collagenase Clostridium Histolyticum Treatment\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=OD7cAtaNl3c",
+      "upload_date": "2015-11-21",
+      "duration_seconds": 330,
+      "duration": "05:30",
+      "word_count": 678,
+      "clean_file": "clean/OD7cAtaNl3c.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 330
+      }
+    },
+    {
+      "id": "splC4aATa3g",
+      "kind": "youtube",
+      "title": "Dr. Gary Manley \"The patient's view: Ledderhose Disease\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=splC4aATa3g",
+      "upload_date": "2015-10-25",
+      "duration_seconds": 363,
+      "duration": "06:03",
+      "word_count": 951,
+      "clean_file": "clean/splC4aATa3g.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 363
+      }
+    },
+    {
+      "id": "1BURdqs3a4U",
+      "kind": "youtube",
+      "title": "Dr. Gary Pess \"Percutaneous Needle Fasciotomy and Collagenase (Xiaflex)\"  2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=1BURdqs3a4U",
+      "upload_date": "2015-11-21",
+      "duration_seconds": 722,
+      "duration": "12:02",
+      "word_count": 1885,
+      "clean_file": "clean/1BURdqs3a4U.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 722
+      }
+    },
+    {
+      "id": "HE6nBpteAAo",
+      "kind": "youtube",
+      "title": "Dr. Ghazi Rayan, \"Dupuytren's disease: anatomy, pathology...\" 2010 Miami Dupuytren's Symposium",
+      "url": "https://www.youtube.com/watch?v=HE6nBpteAAo",
+      "upload_date": "2010-08-22",
+      "duration_seconds": 1053,
+      "duration": "17:33",
+      "word_count": 2106,
+      "clean_file": "clean/HE6nBpteAAo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1053
+      }
+    },
+    {
+      "id": "qBx1dR5ZHy0",
+      "kind": "youtube",
+      "title": "Dr. Gloria Sue: \"Use of Acellular Dermal Matrix\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=qBx1dR5ZHy0",
+      "upload_date": "2015-10-30",
+      "duration_seconds": 350,
+      "duration": "05:50",
+      "word_count": 941,
+      "clean_file": "clean/qBx1dR5ZHy0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 350
+      }
+    },
+    {
+      "id": "x_vecaIme58",
+      "kind": "youtube",
+      "title": "Dr. Heinrich Seegenschmiedt \"Radiotherapy for Dupuytren & Ledderhose\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=x_vecaIme58",
+      "upload_date": "2015-10-28",
+      "duration_seconds": 1053,
+      "duration": "17:33",
+      "word_count": 2520,
+      "clean_file": "clean/x_vecaIme58.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1053
+      }
+    },
+    {
+      "id": "2Q5gm6FDZb0",
+      "kind": "youtube",
+      "title": "Dr. Ian Clark \"Biomarkers of post-surgical progression\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=2Q5gm6FDZb0",
+      "upload_date": "2015-10-27",
+      "duration_seconds": 364,
+      "duration": "06:04",
+      "word_count": 1121,
+      "clean_file": "clean/2Q5gm6FDZb0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 364
+      }
+    },
+    {
+      "id": "QRUnLzXLyjE",
+      "kind": "youtube",
+      "title": "Dr. Jagdeep Nanchahal \"Debate: Contracture in Dupuytren is Active\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=QRUnLzXLyjE",
+      "upload_date": "2015-10-28",
+      "duration_seconds": 257,
+      "duration": "04:17",
+      "word_count": 672,
+      "clean_file": "clean/QRUnLzXLyjE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 257
+      }
+    },
+    {
+      "id": "T7VnrFtGnfY",
+      "kind": "youtube",
+      "title": "Dr. Jagdeep Nanchahal \"TNF as a therapeutic target\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=T7VnrFtGnfY",
+      "upload_date": "2015-10-28",
+      "duration_seconds": 345,
+      "duration": "05:45",
+      "word_count": 970,
+      "clean_file": "clean/T7VnrFtGnfY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 345
+      }
+    },
+    {
+      "id": "eyucbReVKDI",
+      "kind": "youtube",
+      "title": "Dr. Jesper Nordenskjold \"Using local anesthesia before collagenase\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=eyucbReVKDI",
+      "upload_date": "2015-11-21",
+      "duration_seconds": 327,
+      "duration": "05:27",
+      "word_count": 712,
+      "clean_file": "clean/eyucbReVKDI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 327
+      }
+    },
+    {
+      "id": "-PUJvVwlJis",
+      "kind": "youtube",
+      "title": "Dr. Joe Dias \"MCID for the Patient Evaluation Measure\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=-PUJvVwlJis",
+      "upload_date": "2015-11-20",
+      "duration_seconds": 357,
+      "duration": "05:57",
+      "word_count": 879,
+      "clean_file": "clean/-PUJvVwlJis.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 357
+      }
+    },
+    {
+      "id": "z1BL-Y_XWPo",
+      "kind": "youtube",
+      "title": "Dr. Joe Dias \"Patient Rated Outcome Measures\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=z1BL-Y_XWPo",
+      "upload_date": "2015-11-20",
+      "duration_seconds": 1187,
+      "duration": "19:47",
+      "word_count": 3308,
+      "clean_file": "clean/z1BL-Y_XWPo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1187
+      }
+    },
+    {
+      "id": "wUK_0ab9HR0",
+      "kind": "youtube",
+      "title": "Dr. Joe Dias \"The epidemiology of surgical intervention\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=wUK_0ab9HR0",
+      "upload_date": "2015-11-20",
+      "duration_seconds": 307,
+      "duration": "05:07",
+      "word_count": 772,
+      "clean_file": "clean/wUK_0ab9HR0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 307
+      }
+    },
+    {
+      "id": "EAU0emyHHOg",
+      "kind": "youtube",
+      "title": "Dr. Joe Dias: \"URAMS as a PROM\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=EAU0emyHHOg",
+      "upload_date": "2015-11-20",
+      "duration_seconds": 317,
+      "duration": "05:17",
+      "word_count": 815,
+      "clean_file": "clean/EAU0emyHHOg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 317
+      }
+    },
+    {
+      "id": "snvUupQRiQQ",
+      "kind": "youtube",
+      "title": "Dr. Joe Dias: Focus on Research 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=snvUupQRiQQ",
+      "upload_date": "2015-11-20",
+      "duration_seconds": 148,
+      "duration": "02:28",
+      "word_count": 410,
+      "clean_file": "clean/snvUupQRiQQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 148
+      }
+    },
+    {
+      "id": "9LY5fyLw618",
+      "kind": "youtube",
+      "title": "Dr. Larry Hurst \"Collagenase Treatment\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=9LY5fyLw618",
+      "upload_date": "2015-11-22",
+      "duration_seconds": 1820,
+      "duration": "30:20",
+      "word_count": 5240,
+      "clean_file": "clean/9LY5fyLw618.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1820
+      }
+    },
+    {
+      "id": "iOd0iZNbM_w",
+      "kind": "youtube",
+      "title": "Dr. Lee Osterman, \"Cline's Contracture. Dupuytren was a thief.\" 2010 Miami Dupuytren's Symposium",
+      "url": "https://www.youtube.com/watch?v=iOd0iZNbM_w",
+      "upload_date": "2010-08-22",
+      "duration_seconds": 1230,
+      "duration": "20:30",
+      "word_count": 3059,
+      "clean_file": "clean/iOd0iZNbM_w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1230
+      }
+    },
+    {
+      "id": "RE7rX_ZqQy8",
+      "kind": "youtube",
+      "title": "Dr. Marianna Kruithof de Julio \"PDGFR­‐β targeted interferon gamma\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=RE7rX_ZqQy8",
+      "upload_date": "2015-11-20",
+      "duration_seconds": 249,
+      "duration": "04:09",
+      "word_count": 624,
+      "clean_file": "clean/RE7rX_ZqQy8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 249
+      }
+    },
+    {
+      "id": "mUFigJz8r-U",
+      "kind": "youtube",
+      "title": "Dr. Marie A  Badalamente \"Clincal Research\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=mUFigJz8r-U",
+      "upload_date": "2015-11-21",
+      "duration_seconds": 646,
+      "duration": "10:46",
+      "word_count": 1326,
+      "clean_file": "clean/mUFigJz8r-U.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 646
+      }
+    },
+    {
+      "id": "Zk5Z5DdqAuM",
+      "kind": "youtube",
+      "title": "Dr. Marie Badalamente \"Collagenase for  Adhesive Capsulitis\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=Zk5Z5DdqAuM",
+      "upload_date": "2015-11-21",
+      "duration_seconds": 775,
+      "duration": "12:55",
+      "word_count": 1442,
+      "clean_file": "clean/Zk5Z5DdqAuM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 775
+      }
+    },
+    {
+      "id": "bKXguv2CscM",
+      "kind": "youtube",
+      "title": "Dr. Marie Badalamente \"Concurrent Collagenase Injections\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=bKXguv2CscM",
+      "upload_date": "2015-11-30",
+      "duration_seconds": 464,
+      "duration": "07:44",
+      "word_count": 869,
+      "clean_file": "clean/bKXguv2CscM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 464
+      }
+    },
+    {
+      "id": "NjNR2dDZO4Q",
+      "kind": "youtube",
+      "title": "Dr. Marike van Beuge: \"Wnt pathway signals\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=NjNR2dDZO4Q",
+      "upload_date": "2015-11-23",
+      "duration_seconds": 378,
+      "duration": "06:18",
+      "word_count": 941,
+      "clean_file": "clean/NjNR2dDZO4Q.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 378
+      }
+    },
+    {
+      "id": "S2k9bDzxSOU",
+      "kind": "youtube",
+      "title": "Dr. Mels van Driel: \"Peyronie's Disease Treatment\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=S2k9bDzxSOU",
+      "upload_date": "2015-11-21",
+      "duration_seconds": 605,
+      "duration": "10:05",
+      "word_count": 1051,
+      "clean_file": "clean/S2k9bDzxSOU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 605
+      }
+    },
+    {
+      "id": "3IASp1txMP0",
+      "kind": "youtube",
+      "title": "Dr. Michael Ng: \"Genome-wide Association Study\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=3IASp1txMP0",
+      "upload_date": "2015-11-30",
+      "duration_seconds": 405,
+      "duration": "06:45",
+      "word_count": 916,
+      "clean_file": "clean/3IASp1txMP0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 405
+      }
+    },
+    {
+      "id": "fHwzOWXybsc",
+      "kind": "youtube",
+      "title": "Dr. Paul Binhammer: \"Steroid injection and needle aponeurotomy\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=fHwzOWXybsc",
+      "upload_date": "2015-10-28",
+      "duration_seconds": 356,
+      "duration": "05:56",
+      "word_count": 707,
+      "clean_file": "clean/fHwzOWXybsc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 356
+      }
+    },
+    {
+      "id": "U5hQ6P-wfDQ",
+      "kind": "youtube",
+      "title": "Dr. Paul Werker: \"Debate PNF is Best\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=U5hQ6P-wfDQ",
+      "upload_date": "2015-10-28",
+      "duration_seconds": 266,
+      "duration": "04:26",
+      "word_count": 627,
+      "clean_file": "clean/U5hQ6P-wfDQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 266
+      }
+    },
+    {
+      "id": "sAYRSHnygng",
+      "kind": "youtube",
+      "title": "Dr. Paul Werker: \"First Web Space Collagenase Treatment\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=sAYRSHnygng",
+      "upload_date": "2015-10-28",
+      "duration_seconds": 286,
+      "duration": "04:46",
+      "word_count": 737,
+      "clean_file": "clean/sAYRSHnygng.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 286
+      }
+    },
+    {
+      "id": "uR5OcoIKfOI",
+      "kind": "youtube",
+      "title": "Dr. Paul Zidel, \"Dupuytren's versus burn...\" 2010 Miami Dupuytren Symposium Presentation",
+      "url": "https://www.youtube.com/watch?v=uR5OcoIKfOI",
+      "upload_date": "2010-09-11",
+      "duration_seconds": 985,
+      "duration": "16:25",
+      "word_count": 1926,
+      "clean_file": "clean/uR5OcoIKfOI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 985
+      }
+    },
+    {
+      "id": "3f0LUyPiPfg",
+      "kind": "youtube",
+      "title": "Dr. Philip Blazar: \"Collagenase US Dupuytren Treatment Patterns\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=3f0LUyPiPfg",
+      "upload_date": "2015-11-21",
+      "duration_seconds": 369,
+      "duration": "06:09",
+      "word_count": 860,
+      "clean_file": "clean/3f0LUyPiPfg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 369
+      }
+    },
+    {
+      "id": "-0JtjUrrU4o",
+      "kind": "youtube",
+      "title": "Dr. Roel Ophoff: \"Genetics in Dupuytren Disease\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=-0JtjUrrU4o",
+      "upload_date": "2015-11-21",
+      "duration_seconds": 1178,
+      "duration": "19:38",
+      "word_count": 3394,
+      "clean_file": "clean/-0JtjUrrU4o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1178
+      }
+    },
+    {
+      "id": "rNihCBbmTx8",
+      "kind": "youtube",
+      "title": "Dr. Rosanne Lanting: \"Dupuytren Disease Clusters\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=rNihCBbmTx8",
+      "upload_date": "2015-11-30",
+      "duration_seconds": 361,
+      "duration": "06:01",
+      "word_count": 806,
+      "clean_file": "clean/rNihCBbmTx8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 361
+      }
+    },
+    {
+      "id": "i0NyWNsYdgo",
+      "kind": "youtube",
+      "title": "Dr. Ruud Bank: \"Dupuytren Research Prerequisites\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=i0NyWNsYdgo",
+      "upload_date": "2015-10-28",
+      "duration_seconds": 712,
+      "duration": "11:52",
+      "word_count": 2199,
+      "clean_file": "clean/i0NyWNsYdgo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 712
+      }
+    },
+    {
+      "id": "R4WPhcOpAMo",
+      "kind": "youtube",
+      "title": "Dr. Ruud Selles: \"Consensus Definition of Recurrence\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=R4WPhcOpAMo",
+      "upload_date": "2015-10-25",
+      "duration_seconds": 466,
+      "duration": "07:46",
+      "word_count": 1152,
+      "clean_file": "clean/R4WPhcOpAMo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 466
+      }
+    },
+    {
+      "id": "Gms1cs6bxoE",
+      "kind": "youtube",
+      "title": "Dr. Stephen Coleman: \"The Australian Research Perspective\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=Gms1cs6bxoE",
+      "upload_date": "2015-10-28",
+      "duration_seconds": 823,
+      "duration": "13:43",
+      "word_count": 2445,
+      "clean_file": "clean/Gms1cs6bxoE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 823
+      }
+    },
+    {
+      "id": "nUVjZI2XCg0",
+      "kind": "youtube",
+      "title": "Dr. Steven Hovius: Percutaneous Aponeurotomy and Lipofilling\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=nUVjZI2XCg0",
+      "upload_date": "2015-11-21",
+      "duration_seconds": 496,
+      "duration": "08:16",
+      "word_count": 1310,
+      "clean_file": "clean/nUVjZI2XCg0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 496
+      }
+    },
+    {
+      "id": "4qSMSqYhxOc",
+      "kind": "youtube",
+      "title": "Dr. Wolfgang Wach, discusses the Dupuytren Society at the 2010 International Symposium",
+      "url": "https://www.youtube.com/watch?v=4qSMSqYhxOc",
+      "upload_date": "2010-08-21",
+      "duration_seconds": 868,
+      "duration": "14:28",
+      "word_count": 2009,
+      "clean_file": "clean/4qSMSqYhxOc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 868
+      }
+    },
+    {
+      "id": "2-Ad4vp1EOA",
+      "kind": "youtube",
+      "title": "Dr. Wolfgang Wach: \"Debate: Splinting is Beneficial\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=2-Ad4vp1EOA",
+      "upload_date": "2015-10-25",
+      "duration_seconds": 393,
+      "duration": "06:33",
+      "word_count": 830,
+      "clean_file": "clean/2-Ad4vp1EOA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 393
+      }
+    },
+    {
+      "id": "LVxj5lEVnz0",
+      "kind": "youtube",
+      "title": "Dr. Wolfgang Wach: \"The Patient's View -1\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=LVxj5lEVnz0",
+      "upload_date": "2015-10-25",
+      "duration_seconds": 608,
+      "duration": "10:08",
+      "word_count": 1310,
+      "clean_file": "clean/LVxj5lEVnz0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 608
+      }
+    },
+    {
+      "id": "ZmQTAWOKqdA",
+      "kind": "youtube",
+      "title": "Dr. Zsolt Szabo: \"Treatment of Dupuytren in different countries\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=ZmQTAWOKqdA",
+      "upload_date": "2015-11-20",
+      "duration_seconds": 943,
+      "duration": "15:43",
+      "word_count": 2622,
+      "clean_file": "clean/ZmQTAWOKqdA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 943
+      }
+    },
+    {
+      "id": "qoktkyD8P_o",
+      "kind": "youtube",
+      "title": "Drs. Ilse Degreef and Annelien Brauns \"RCT Tension versus compression\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=qoktkyD8P_o",
+      "upload_date": "2015-10-28",
+      "duration_seconds": 464,
+      "duration": "07:44",
+      "word_count": 1115,
+      "clean_file": "clean/qoktkyD8P_o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 464
+      }
+    },
+    {
+      "id": "HNWobAG54ro",
+      "kind": "youtube",
+      "title": "Drs. Ilse Degreef and Marieke Torrekens \"Full-Thickness Skin Grafting\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=HNWobAG54ro",
+      "upload_date": "2015-10-28",
+      "duration_seconds": 499,
+      "duration": "08:19",
+      "word_count": 1205,
+      "clean_file": "clean/HNWobAG54ro.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 499
+      }
+    },
+    {
+      "id": "hRJZEQzxy4U",
+      "kind": "youtube",
+      "title": "Drs. Paul Werker and Jos Aartsen \"Introductory Remarks\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=hRJZEQzxy4U",
+      "upload_date": "2015-11-30",
+      "duration_seconds": 696,
+      "duration": "11:36",
+      "word_count": 1561,
+      "clean_file": "clean/hRJZEQzxy4U.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 696
+      }
+    },
+    {
+      "id": "_hoXDJ5qBFU",
+      "kind": "youtube",
+      "title": "Drs. Wolfgang Wach and Charles Eaton: \"Welcome!\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=_hoXDJ5qBFU",
+      "upload_date": "2015-10-25",
+      "duration_seconds": 527,
+      "duration": "08:47",
+      "word_count": 1191,
+      "clean_file": "clean/_hoXDJ5qBFU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 527
+      }
+    },
+    {
+      "id": "kLYBA2hLRPs",
+      "kind": "youtube",
+      "title": "Dupuytren Awareness",
+      "url": "https://www.youtube.com/watch?v=kLYBA2hLRPs",
+      "upload_date": "2017-10-02",
+      "duration_seconds": 2450,
+      "duration": "40:50",
+      "word_count": 6750,
+      "clean_file": "clean/kLYBA2hLRPs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2450
+      }
+    },
+    {
+      "id": "JJk42abIEeQ",
+      "kind": "youtube",
+      "title": "Dupuytren Awareness WPB",
+      "url": "https://www.youtube.com/watch?v=JJk42abIEeQ",
+      "upload_date": "2018-12-20",
+      "duration_seconds": 3394,
+      "duration": "56:34",
+      "word_count": 10256,
+      "clean_file": "clean/JJk42abIEeQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3394
+      }
+    },
+    {
+      "id": "THqIKjgOnkU",
+      "kind": "youtube",
+      "title": "Dupuytren Decision Trees",
+      "url": "https://www.youtube.com/watch?v=THqIKjgOnkU",
+      "upload_date": "2017-09-06",
+      "duration_seconds": 632,
+      "duration": "10:32",
+      "word_count": 1495,
+      "clean_file": "clean/THqIKjgOnkU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 632
+      }
+    },
+    {
+      "id": "UMcH32yrY2c",
+      "kind": "youtube",
+      "title": "Dupuytren Foundation: Surgeons' Perspectives",
+      "url": "https://www.youtube.com/watch?v=UMcH32yrY2c",
+      "upload_date": "2014-10-21",
+      "duration_seconds": 530,
+      "duration": "08:50",
+      "word_count": 1487,
+      "clean_file": "clean/UMcH32yrY2c.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 530
+      }
+    },
+    {
+      "id": "94JHxC-FZW0",
+      "kind": "youtube",
+      "title": "Dupuytren Foundation: Surgeons' Perspectives 2",
+      "url": "https://www.youtube.com/watch?v=94JHxC-FZW0",
+      "upload_date": "2014-10-30",
+      "duration_seconds": 337,
+      "duration": "05:37",
+      "word_count": 889,
+      "clean_file": "clean/94JHxC-FZW0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 337
+      }
+    },
+    {
+      "id": "KWPI8PKDalU",
+      "kind": "youtube",
+      "title": "Dupuytren Infographic video",
+      "url": "https://www.youtube.com/watch?v=KWPI8PKDalU",
+      "upload_date": "2014-07-15",
+      "duration_seconds": 220,
+      "duration": "03:40",
+      "word_count": 541,
+      "clean_file": "clean/KWPI8PKDalU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 220
+      }
+    },
+    {
+      "id": "aqvLzZzqivM",
+      "kind": "youtube",
+      "title": "Dupuytren Research 2022",
+      "url": "https://www.youtube.com/watch?v=aqvLzZzqivM",
+      "upload_date": "2020-10-31",
+      "duration_seconds": 22,
+      "duration": "00:22",
+      "word_count": 49,
+      "clean_file": "clean/aqvLzZzqivM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 22
+      }
+    },
+    {
+      "id": "Iu7ui2TQ4CY",
+      "kind": "youtube",
+      "title": "Dupuytren Research Explained",
+      "url": "https://www.youtube.com/watch?v=Iu7ui2TQ4CY",
+      "upload_date": "2018-12-20",
+      "duration_seconds": 150,
+      "duration": "02:30",
+      "word_count": 390,
+      "clean_file": "clean/Iu7ui2TQ4CY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 150
+      }
+    },
+    {
+      "id": "jk7w-i8PPrs",
+      "kind": "youtube",
+      "title": "Dupuytren Severity",
+      "url": "https://www.youtube.com/watch?v=jk7w-i8PPrs",
+      "upload_date": "2017-09-06",
+      "duration_seconds": 676,
+      "duration": "11:16",
+      "word_count": 1536,
+      "clean_file": "clean/jk7w-i8PPrs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 676
+      }
+    },
+    {
+      "id": "1JQOy7jNuxc",
+      "kind": "youtube",
+      "title": "Ending Dupuytren disease",
+      "url": "https://www.youtube.com/watch?v=1JQOy7jNuxc",
+      "upload_date": "2018-12-20",
+      "duration_seconds": 77,
+      "duration": "01:17",
+      "word_count": 198,
+      "clean_file": "clean/1JQOy7jNuxc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 77
+      }
+    },
+    {
+      "id": "6YYYYh8aoJE",
+      "kind": "youtube",
+      "title": "Giulio Gabbiani MD PhD, \"The N-terminal peptide of a-smooth...\" 2010 Miami Dupuytren Symposium.",
+      "url": "https://www.youtube.com/watch?v=6YYYYh8aoJE",
+      "upload_date": "2010-10-13",
+      "duration_seconds": 1077,
+      "duration": "17:57",
+      "word_count": 1707,
+      "clean_file": "clean/6YYYYh8aoJE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1077
+      }
+    },
+    {
+      "id": "EeWSekhmZS8",
+      "kind": "youtube",
+      "title": "Guido Dolmans MD, \"A clinical genetic study of familial...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=EeWSekhmZS8",
+      "upload_date": "2010-10-16",
+      "duration_seconds": 821,
+      "duration": "13:41",
+      "word_count": 1889,
+      "clean_file": "clean/EeWSekhmZS8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 821
+      }
+    },
+    {
+      "id": "-3a_yiOu_3I",
+      "kind": "youtube",
+      "title": "Guido Dolmans MD, \"A first genome-wide association study in...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=-3a_yiOu_3I",
+      "upload_date": "2010-10-16",
+      "duration_seconds": 822,
+      "duration": "13:42",
+      "word_count": 1890,
+      "clean_file": "clean/-3a_yiOu_3I.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 822
+      }
+    },
+    {
+      "id": "pI2QWctr2y4",
+      "kind": "youtube",
+      "title": "Guido Dolmans MD, \"Linkage analysis in six Dutch families...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=pI2QWctr2y4",
+      "upload_date": "2010-10-16",
+      "duration_seconds": 508,
+      "duration": "08:28",
+      "word_count": 1112,
+      "clean_file": "clean/pI2QWctr2y4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 508
+      }
+    },
+    {
+      "id": "m2x0kipr2Y8",
+      "kind": "youtube",
+      "title": "Hans Hennies PhD, \"Characterization of the epidemiology...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=m2x0kipr2Y8",
+      "upload_date": "2010-10-16",
+      "duration_seconds": 836,
+      "duration": "13:56",
+      "word_count": 1673,
+      "clean_file": "clean/m2x0kipr2Y8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 836
+      }
+    },
+    {
+      "id": "gdhJMB_OsDU",
+      "kind": "youtube",
+      "title": "Heinrich Seegenschmiedt MD, \"Radiotherapy For Primary Or...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=gdhJMB_OsDU",
+      "upload_date": "2010-10-23",
+      "duration_seconds": 895,
+      "duration": "14:55",
+      "word_count": 2269,
+      "clean_file": "clean/gdhJMB_OsDU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 895
+      }
+    },
+    {
+      "id": "oXR_NOAaSa0",
+      "kind": "youtube",
+      "title": "Heinrich Seegenschmiedt MD, \"Review Of Radiotherapy For Morbus...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=oXR_NOAaSa0",
+      "upload_date": "2010-10-15",
+      "duration_seconds": 1023,
+      "duration": "17:03",
+      "word_count": 2505,
+      "clean_file": "clean/oXR_NOAaSa0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1023
+      }
+    },
+    {
+      "id": "vOSY4FZEJGM",
+      "kind": "youtube",
+      "title": "Holger Erne Dr med, \"Percutaneous needle fasciotomy a serious...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=vOSY4FZEJGM",
+      "upload_date": "2010-10-22",
+      "duration_seconds": 483,
+      "duration": "08:03",
+      "word_count": 983,
+      "clean_file": "clean/vOSY4FZEJGM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 483
+      }
+    },
+    {
+      "id": "-OKFB6sX_64",
+      "kind": "youtube",
+      "title": "Ilse Degreef MD PhD \"Highly-dosed neo-adjuvant tamoxifen...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=-OKFB6sX_64",
+      "upload_date": "2010-10-24",
+      "duration_seconds": 929,
+      "duration": "15:29",
+      "word_count": 2391,
+      "clean_file": "clean/-OKFB6sX_64.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 929
+      }
+    },
+    {
+      "id": "ROG_3VraQmE",
+      "kind": "youtube",
+      "title": "Ilse Degreef MD PhD, \"Cellular implant improves surgical outcome...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=ROG_3VraQmE",
+      "upload_date": "2010-10-23",
+      "duration_seconds": 558,
+      "duration": "09:18",
+      "word_count": 1464,
+      "clean_file": "clean/ROG_3VraQmE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 558
+      }
+    },
+    {
+      "id": "1Xqmh80rYPQ",
+      "kind": "youtube",
+      "title": "Ilse Degreef MD PhD, \"Surgical outcome of Dupuytren's disease.\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=1Xqmh80rYPQ",
+      "upload_date": "2010-11-05",
+      "duration_seconds": 683,
+      "duration": "11:23",
+      "word_count": 1844,
+      "clean_file": "clean/1Xqmh80rYPQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 683
+      }
+    },
+    {
+      "id": "Ht1uUsc6fdw",
+      "kind": "youtube",
+      "title": "Ivana Ratkaj, \"Microarray expression analysis of Dupuytren's...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=Ht1uUsc6fdw",
+      "upload_date": "2010-10-16",
+      "duration_seconds": 871,
+      "duration": "14:31",
+      "word_count": 2150,
+      "clean_file": "clean/Ht1uUsc6fdw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 871
+      }
+    },
+    {
+      "id": "UB71XI_3fxA",
+      "kind": "youtube",
+      "title": "Janine Morris PhD, \"Collagen degradation and the expression of...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=UB71XI_3fxA",
+      "upload_date": "2010-10-16",
+      "duration_seconds": 837,
+      "duration": "13:57",
+      "word_count": 2137,
+      "clean_file": "clean/UB71XI_3fxA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 837
+      }
+    },
+    {
+      "id": "2A9j4yqtpGI",
+      "kind": "youtube",
+      "title": "John Agee MD, \"Growing the PIP straight with the Digit Widget\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=2A9j4yqtpGI",
+      "upload_date": "2010-10-22",
+      "duration_seconds": 967,
+      "duration": "16:07",
+      "word_count": 2785,
+      "clean_file": "clean/2A9j4yqtpGI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 967
+      }
+    },
+    {
+      "id": "klWbjOcG3Kk",
+      "kind": "youtube",
+      "title": "Lynn Ketchum MD, \"Dermofasciectomies and full-thickness skin...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=klWbjOcG3Kk",
+      "upload_date": "2010-10-17",
+      "duration_seconds": 957,
+      "duration": "15:57",
+      "word_count": 1688,
+      "clean_file": "clean/klWbjOcG3Kk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 957
+      }
+    },
+    {
+      "id": "OwSS6grbMAc",
+      "kind": "youtube",
+      "title": "Marie Badalamente PhD, \"Injectable collagenase clostridium...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=OwSS6grbMAc",
+      "upload_date": "2010-10-23",
+      "duration_seconds": 882,
+      "duration": "14:42",
+      "word_count": 1696,
+      "clean_file": "clean/OwSS6grbMAc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 882
+      }
+    },
+    {
+      "id": "dMW6VVm4FhU",
+      "kind": "youtube",
+      "title": "Martin Robson MD, \"Using laboratory models to develop molecular...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=dMW6VVm4FhU",
+      "upload_date": "2010-10-16",
+      "duration_seconds": 974,
+      "duration": "16:14",
+      "word_count": 2308,
+      "clean_file": "clean/dMW6VVm4FhU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 974
+      }
+    },
+    {
+      "id": "dxYwTKGRBgk",
+      "kind": "youtube",
+      "title": "Massimiliano Tripoli MD, \"The \"Jacobsen flap\"  for the treatment...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=dxYwTKGRBgk",
+      "upload_date": "2010-10-21",
+      "duration_seconds": 813,
+      "duration": "13:33",
+      "word_count": 1694,
+      "clean_file": "clean/dxYwTKGRBgk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 813
+      }
+    },
+    {
+      "id": "deJJtpYEy1k",
+      "kind": "youtube",
+      "title": "Measurement of Dupuytren Disease",
+      "url": "https://www.youtube.com/watch?v=deJJtpYEy1k",
+      "upload_date": "2013-08-11",
+      "duration_seconds": 147,
+      "duration": "02:27",
+      "word_count": 452,
+      "clean_file": "clean/deJJtpYEy1k.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 147
+      }
+    },
+    {
+      "id": "eMQf8efjOtQ",
+      "kind": "youtube",
+      "title": "Michael Papaloïzos MD, \"Minimizing cutaneous necrosis and delayed...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=eMQf8efjOtQ",
+      "upload_date": "2010-10-20",
+      "duration_seconds": 800,
+      "duration": "13:20",
+      "word_count": 1433,
+      "clean_file": "clean/eMQf8efjOtQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 800
+      }
+    },
+    {
+      "id": "atbGE2kJ5_U",
+      "kind": "youtube",
+      "title": "Paul Smith MD, \"A Logical Approach to the PIP Joint...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=atbGE2kJ5_U",
+      "upload_date": "2010-10-21",
+      "duration_seconds": 803,
+      "duration": "13:23",
+      "word_count": 1720,
+      "clean_file": "clean/atbGE2kJ5_U.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 803
+      }
+    },
+    {
+      "id": "fHoOhGlsgDU",
+      "kind": "youtube",
+      "title": "Paul Werker MD PhD, \"Management of soft tissue...\" 2010 Miami Dupuytren Symposium Presentation",
+      "url": "https://www.youtube.com/watch?v=fHoOhGlsgDU",
+      "upload_date": "2010-09-05",
+      "duration_seconds": 801,
+      "duration": "13:21",
+      "word_count": 668,
+      "clean_file": "clean/fHoOhGlsgDU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 801
+      }
+    },
+    {
+      "id": "vRc9XFBOVTk",
+      "kind": "youtube",
+      "title": "Professor Hanno Millesi, \"Changes of visco-elastic...\" 2010 Miami Dupuytren Symposium Presentation",
+      "url": "https://www.youtube.com/watch?v=vRc9XFBOVTk",
+      "upload_date": "2010-09-11",
+      "duration_seconds": 1114,
+      "duration": "18:34",
+      "word_count": 1728,
+      "clean_file": "clean/vRc9XFBOVTk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1114
+      }
+    },
+    {
+      "id": "JZMHER_m-SI",
+      "kind": "youtube",
+      "title": "Research for a Dupuytren Cure",
+      "url": "https://www.youtube.com/watch?v=JZMHER_m-SI",
+      "upload_date": "2019-05-01",
+      "duration_seconds": 78,
+      "duration": "01:18",
+      "word_count": 193,
+      "clean_file": "clean/JZMHER_m-SI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 78
+      }
+    },
+    {
+      "id": "gMD3XNuUFFM",
+      "kind": "youtube",
+      "title": "Robert Choa MD, \"Digital Nerves in Dupuytrens Surgery\"\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=gMD3XNuUFFM",
+      "upload_date": "2010-11-05",
+      "duration_seconds": 470,
+      "duration": "07:50",
+      "word_count": 1132,
+      "clean_file": "clean/gMD3XNuUFFM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 470
+      }
+    },
+    {
+      "id": "fmWiC5V76YI",
+      "kind": "youtube",
+      "title": "Roger Khouri MD, \"Extensive Percutaneous Aponeurotomy...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=fmWiC5V76YI",
+      "upload_date": "2010-10-22",
+      "duration_seconds": 1334,
+      "duration": "22:14",
+      "word_count": 3405,
+      "clean_file": "clean/fmWiC5V76YI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1334
+      }
+    },
+    {
+      "id": "ic6Wd3sT62Q",
+      "kind": "youtube",
+      "title": "Sandeep Kathju MD PhD, \"Establishing an animal model of...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=ic6Wd3sT62Q",
+      "upload_date": "2010-10-16",
+      "duration_seconds": 680,
+      "duration": "11:20",
+      "word_count": 1759,
+      "clean_file": "clean/ic6Wd3sT62Q.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 680
+      }
+    },
+    {
+      "id": "dsPwSUDrz1Y",
+      "kind": "youtube",
+      "title": "Sem Phan PhD MD, \"Mechanisms of Myofibroblast...\" 2010 Miami Dupuytren Symposium Presentation",
+      "url": "https://www.youtube.com/watch?v=dsPwSUDrz1Y",
+      "upload_date": "2010-09-11",
+      "duration_seconds": 1706,
+      "duration": "28:26",
+      "word_count": 3711,
+      "clean_file": "clean/dsPwSUDrz1Y.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1706
+      }
+    },
+    {
+      "id": "Fj5WfRonTOg",
+      "kind": "youtube",
+      "title": "Susan Emeigh Hart VMD PhD, \"A primer of collagen biology...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=Fj5WfRonTOg",
+      "upload_date": "2010-10-16",
+      "duration_seconds": 1145,
+      "duration": "19:05",
+      "word_count": 2947,
+      "clean_file": "clean/Fj5WfRonTOg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1145
+      }
+    },
+    {
+      "id": "MO1w1Ed-Yqc",
+      "kind": "youtube",
+      "title": "Terri Skirven OTR/L CHT, \"Hand therapy for Dupuytren's...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=MO1w1Ed-Yqc",
+      "upload_date": "2010-10-23",
+      "duration_seconds": 1019,
+      "duration": "16:59",
+      "word_count": 2720,
+      "clean_file": "clean/MO1w1Ed-Yqc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1019
+      }
+    },
+    {
+      "id": "5fqC-xS8WhM",
+      "kind": "youtube",
+      "title": "Terry Spilken DPM, \"Cryotherapy for Plantar Fibromas\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=5fqC-xS8WhM",
+      "upload_date": "2010-10-24",
+      "duration_seconds": 980,
+      "duration": "16:20",
+      "word_count": 2576,
+      "clean_file": "clean/5fqC-xS8WhM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 980
+      }
+    },
+    {
+      "id": "cR-2s5DUzUc",
+      "kind": "youtube",
+      "title": "Using a finger goniometer",
+      "url": "https://www.youtube.com/watch?v=cR-2s5DUzUc",
+      "upload_date": "2017-11-08",
+      "duration_seconds": 40,
+      "duration": "00:40",
+      "word_count": 122,
+      "clean_file": "clean/cR-2s5DUzUc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 40
+      }
+    },
+    {
+      "id": "doc6HW0c3RE",
+      "kind": "youtube",
+      "title": "Veronique Moulin PhD, \"Tissue engineering and the myofibroblasts.\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=doc6HW0c3RE",
+      "upload_date": "2010-09-12",
+      "duration_seconds": 596,
+      "duration": "09:56",
+      "word_count": 1211,
+      "clean_file": "clean/doc6HW0c3RE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 596
+      }
+    },
+    {
+      "id": "W_Tbwi613Qw",
+      "kind": "youtube",
+      "title": "Vilhjalmur Finsen Phd, \"The epidemiology of Dupuytren's...\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=W_Tbwi613Qw",
+      "upload_date": "2010-10-16",
+      "duration_seconds": 660,
+      "duration": "11:00",
+      "word_count": 1615,
+      "clean_file": "clean/W_Tbwi613Qw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 660
+      }
+    },
+    {
+      "id": "nLR3nKuAufs",
+      "kind": "youtube",
+      "title": "Wayne Hellstrom MD, \"Medical Management of Peyronie's Disease\" 2010 Miami Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=nLR3nKuAufs",
+      "upload_date": "2010-10-23",
+      "duration_seconds": 848,
+      "duration": "14:08",
+      "word_count": 2367,
+      "clean_file": "clean/nLR3nKuAufs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 848
+      }
+    },
+    {
+      "id": "8_S22GNolm8",
+      "kind": "youtube",
+      "title": "What Does Dupuytren's Look Like?",
+      "url": "https://www.youtube.com/watch?v=8_S22GNolm8",
+      "upload_date": "2013-06-02",
+      "duration_seconds": 142,
+      "duration": "02:22",
+      "word_count": 377,
+      "clean_file": "clean/8_S22GNolm8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 142
+      }
+    },
+    {
+      "id": "qu3wdzdpN54",
+      "kind": "youtube",
+      "title": "What Is Dupuytrens?",
+      "url": "https://www.youtube.com/watch?v=qu3wdzdpN54",
+      "upload_date": "2013-06-02",
+      "duration_seconds": 145,
+      "duration": "02:25",
+      "word_count": 423,
+      "clean_file": "clean/qu3wdzdpN54.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 145
+      }
+    },
+    {
+      "id": "JpEbk2eCP-Y",
+      "kind": "youtube",
+      "title": "WPBF Dupuytren Foundation Interview Apr 15 2016",
+      "url": "https://www.youtube.com/watch?v=JpEbk2eCP-Y",
+      "upload_date": "2016-04-22",
+      "duration_seconds": 136,
+      "duration": "02:16",
+      "word_count": 403,
+      "clean_file": "clean/JpEbk2eCP-Y.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 136
+      }
+    },
+    {
+      "id": "hlQIh5_thNU",
+      "kind": "youtube",
+      "title": "WPTV Dupuytren Foundation Interview Mar 8 2016",
+      "url": "https://www.youtube.com/watch?v=hlQIh5_thNU",
+      "upload_date": "2016-04-22",
+      "duration_seconds": 194,
+      "duration": "03:14",
+      "word_count": 553,
+      "clean_file": "clean/hlQIh5_thNU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 194
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "id": "09E5_WEnAdM",
+      "title": "Needle Aponeurotomy for Dupuytren's combined contracture and Dolphin Tenotomy for Boutonniere",
+      "url": "https://www.youtube.com/watch?v=09E5_WEnAdM",
+      "duration_seconds": 43,
+      "duration": "00:43",
+      "reason": "no captions"
+    },
+    {
+      "id": "0FvJfOmBvSc",
+      "title": "Needle Aponeurotomy for Dupuytren's MCP contracture",
+      "url": "https://www.youtube.com/watch?v=0FvJfOmBvSc",
+      "duration_seconds": 84,
+      "duration": "01:24",
+      "reason": "no captions"
+    },
+    {
+      "id": "0RRxu-FuBQk",
+      "title": "Dupuytren Spectrum",
+      "url": "https://www.youtube.com/watch?v=0RRxu-FuBQk",
+      "duration_seconds": 3633,
+      "duration": "60:33",
+      "reason": "no captions"
+    },
+    {
+      "id": "3Ph76fNAxBo",
+      "title": "Dupuytren is Everywhere!",
+      "url": "https://www.youtube.com/watch?v=3Ph76fNAxBo",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "reason": "no captions"
+    },
+    {
+      "id": "8cDAYw0_gOw",
+      "title": "Dupuytren Montage",
+      "url": "https://www.youtube.com/watch?v=8cDAYw0_gOw",
+      "duration_seconds": 3633,
+      "duration": "60:33",
+      "reason": "no captions"
+    },
+    {
+      "id": "96_L9ZGt6x8",
+      "title": "Needle Aponeurotomy for Dupuytren's PIP joint contracture",
+      "url": "https://www.youtube.com/watch?v=96_L9ZGt6x8",
+      "duration_seconds": 111,
+      "duration": "01:51",
+      "reason": "no captions"
+    },
+    {
+      "id": "AjAxuUzl4aw",
+      "title": "Dupuytren Spectrum",
+      "url": "https://www.youtube.com/watch?v=AjAxuUzl4aw",
+      "duration_seconds": 3633,
+      "duration": "60:33",
+      "reason": "no captions"
+    },
+    {
+      "id": "KOrWEYWl4fA",
+      "title": "2010 Miami Dupuytren Symposium Screensaver",
+      "url": "https://www.youtube.com/watch?v=KOrWEYWl4fA",
+      "duration_seconds": 1712,
+      "duration": "28:32",
+      "reason": "no captions"
+    },
+    {
+      "id": "XwyXkhHAiZ8",
+      "title": "Dupuytren disease anatomy",
+      "url": "https://www.youtube.com/watch?v=XwyXkhHAiZ8",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "reason": "no captions"
+    },
+    {
+      "id": "Yof7-qiKdRA",
+      "title": "Needle Aponeurotomy for Dupuytren's combined contracture with a spiral neurovascular cord",
+      "url": "https://www.youtube.com/watch?v=Yof7-qiKdRA",
+      "duration_seconds": 43,
+      "duration": "00:43",
+      "reason": "no captions"
+    },
+    {
+      "id": "a5iYXAdZCYc",
+      "title": "Searching for a cure for Dupuytren's",
+      "url": "https://www.youtube.com/watch?v=a5iYXAdZCYc",
+      "duration_seconds": 35,
+      "duration": "00:35",
+      "reason": "no captions"
+    },
+    {
+      "id": "b1HKOYVJRL4",
+      "title": "Dr. Jane C Messina \"The Continuous Extension Technique\" 2015 Dupuytren Symposium",
+      "url": "https://www.youtube.com/watch?v=b1HKOYVJRL4",
+      "duration_seconds": 440,
+      "duration": "07:20",
+      "reason": "no captions"
+    },
+    {
+      "id": "cr4dKa37hus",
+      "title": "Dupuytren Foundation: Surgeons' Perspectives 3",
+      "url": "https://www.youtube.com/watch?v=cr4dKa37hus",
+      "duration_seconds": 501,
+      "duration": "08:21",
+      "reason": "no captions"
+    },
+    {
+      "id": "oHr53V-fUXA",
+      "title": "Needle Aponeurotomy for Dupuytren's combined contracture",
+      "url": "https://www.youtube.com/watch?v=oHr53V-fUXA",
+      "duration_seconds": 94,
+      "duration": "01:34",
+      "reason": "no captions"
+    },
+    {
+      "id": "r4PxNQFVI2A",
+      "title": "Needle Aponeurotomy for Dupuytren's with diffuse skin involvement and wide cords",
+      "url": "https://www.youtube.com/watch?v=r4PxNQFVI2A",
+      "duration_seconds": 23,
+      "duration": "00:23",
+      "reason": "no captions"
+    },
+    {
+      "id": "rMkFAcK6Oec",
+      "title": "Needle Aponeurotomy for Dupuytren's  severe combined contracture",
+      "url": "https://www.youtube.com/watch?v=rMkFAcK6Oec",
+      "duration_seconds": 116,
+      "duration": "01:56",
+      "reason": "no captions"
+    },
+    {
+      "id": "sBq9ZUxs3SY",
+      "title": "Needle Aponeurotomy for Dupuytren's thumb contracture",
+      "url": "https://www.youtube.com/watch?v=sBq9ZUxs3SY",
+      "duration_seconds": 64,
+      "duration": "01:04",
+      "reason": "no captions"
     }
   ]
 }

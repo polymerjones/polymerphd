@@ -1,0 +1,31 @@
+# Videos fetched and normalized, but deliberately NOT written up as notes.
+# Reason category: auto-caption quality too degraded to support reliable
+# direct quotation or figures. Unlike the "no captions"/"empty transcript"
+# skip in sources/manifest.json (which becomes a plain, uncited link in the
+# source catalog), these have substantial caption text — it just cannot be
+# trusted sentence-by-sentence. Writing a note from these risks exactly the
+# fabrication CLAUDE.md warns against: a plausible-sounding number or claim
+# that was never actually said. Transcripts remain on disk and can be
+# revisited if a cleaner caption track ever becomes available.
+
+i0NyWNsYdgo  # Dr. Ruud Bank "Dupuytren Research Prerequisites" 2015 — near-total
+             # auto-caption failure (heavy accent, non-"en-orig" track); only
+             # isolated fragments legible (Groningen, fibroblast gene-expression
+             # comparisons, vitamin C/collagen), not enough for confident claims.
+
+# Reason category: duplicate upload of a talk already covered by a written note.
+
+EeWSekhmZS8  # Guido Dolmans "A clinical genetic study of familial..." 2010 —
+             # same talk, same speaker, near-word-identical transcript as
+             # `-3a_yiOu_3I` ("A first genome-wide association study in...").
+             # See that note for the GWAS findings (chromosome 7 and 22 loci).
+
+LKcl3SdhhpQ  # "Advancing Dupuytren Disease Diagnosis and Treatment" — same
+             # Eaton narration, near-word-identical transcript as `X-LhucSUXgQ`
+             # ("Advancing Dupuytren disease diagnosis and treatment", same
+             # title different capitalization). See that note.
+
+E4qAoklf4sE  # "2010 Miami Dupuytren Symposium Presentation 01" — generic
+             # title, but word-for-word Eaton's symposium introduction
+             # speech, same as `Y6IZZLF-erw` ("Dr. Charles Eaton, 2010 Miami
+             # Dupuytren Symposium Introduction"). See that note.
