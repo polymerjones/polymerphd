@@ -55,9 +55,10 @@ to roughly his pre-injection state.**
   which he reports **"helped immeasurably."**
 - A patient who wore a splint **consistently for three years**, maintaining PNF results throughout — then lost
   the splint while moving, stopped wearing it, and had a **quick recurrence.**
-- An example supplied by **Albrecht Meinel** (see `kq4hr06tOtY`): a patient shown before PNF, after PNF, and
-  five weeks into subsequent splinting — the hand opening visibly further than the PNF result alone achieved —
-  with dramatic further improvement after **15 months of splinting.**
+- An example supplied by **Albrecht Meinel** (see `882JB9cXDME`, his own dedicated splinting-case-series talk):
+  a patient shown before PNF, after PNF, and five weeks into subsequent splinting — the hand opening visibly
+  further than the PNF result alone achieved — with dramatic further improvement after **15 months of
+  splinting.**
 
 ## A small controlled study of splinting alone
 
@@ -114,10 +115,12 @@ specifically test **post-surgical routine night splinting** and find no signific
 anecdotes and small study more often describe splinting for **recurrence-prone joints or as a standalone
 preventive measure** — a distinction that may reconcile rather than contradict the two talks' conclusions,
 consistent with Wach's own proposed rule that splinting's value depends on the specific clinical situation
-rather than being uniformly beneficial or useless. **Relevant to `kq4hr06tOtY`** (Meinel's pathogenesis talk) —
-the patient case Wach attributes to Meinel is a direct link between that talk's proposed "tissue retention"
-model and this talk's practical claim that continued extension splinting can further open a joint beyond a
-release procedure's own result. **Relevant to `qoktkyD8P_o`** (Degreef & Brauns's tension-vs-compression
+rather than being uniformly beneficial or useless. **Directly relevant to `882JB9cXDME`** (Meinel's own
+splinting case-series talk) — the patient case Wach attributes to Meinel almost certainly comes from that
+talk's own series, which reports the same pattern (continued extension gains from splinting after PNF)
+across several further cases. **Relevant to `kq4hr06tOtY`** (Meinel's pathogenesis talk) — that talk's
+"tissue retention" theory is the proposed theoretical basis for why splinting continues to help even after
+PNF has already released the cord. **Relevant to `qoktkyD8P_o`** (Degreef & Brauns's tension-vs-compression
 splinting RCT) — that trial's non-surgical splinting population and significant extension-deficit improvement
 is broadly consistent with Wach's framing of splinting as most clearly beneficial outside the routine
 post-surgical context Chojnowski's trials specifically test.
