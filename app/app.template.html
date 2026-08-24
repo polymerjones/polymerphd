@@ -730,7 +730,7 @@ function showAbout(){
   playAboutSound();
   const scrim = document.createElement("div");
   scrim.className = "scrim";
-  if(D && D.meta){
+  if(currentSlug && D && D.meta){
     const m = D.meta, s = D.stats;
     const fig = (n, label) => `<div class="fig"><b>${n}</b><span>${label}</span></div>`;
     scrim.innerHTML = `<div class="about" role="dialog" aria-modal="true" aria-label="About">
@@ -747,12 +747,23 @@ function showAbout(){
       <button class="close">Close</button>
     </div>`;
   } else {
+    const fig = (n, label) => `<div class="fig"><b>${n}</b><span>${label}</span></div>`;
+    const totalSources = LIBRARY_INDEX.reduce((n,l) => n + (l.sources||0), 0);
+    const totalAnchors = LIBRARY_INDEX.reduce((n,l) => n + (l.anchors||0), 0);
     scrim.innerHTML = `<div class="about" role="dialog" aria-modal="true" aria-label="About">
       <img alt="Polymer Ph.D." src="data:image/jpeg;base64,${SHELL_SPLASH_B64}">
       <h2>Polymer Ph.D.</h2>
-      <p class="sub">${LIBRARY_INDEX.length} librar${LIBRARY_INDEX.length===1?"y":"ies"}</p>
-      <p>Choose a library to explore. Everything here traces to a specific source — nothing
-      is generated, and it makes no network requests. It works offline, permanently.</p>
+      <p class="sub">A library of libraries</p>
+      <div class="figs">
+        ${fig(LIBRARY_INDEX.length, LIBRARY_INDEX.length===1?"library":"libraries")}
+        ${fig(totalSources.toLocaleString(), "sources")}
+        ${fig(totalAnchors.toLocaleString(), "anchors")}
+      </div>
+      <p>Each library below is a self-contained reference built from a specific set of sources —
+      videos, papers, guidelines, or discussions. Every claim in every library traces back to a
+      specific point in a specific source; nothing is generated.</p>
+      <p>There is no model in this app, and it makes no network requests. It works offline,
+      permanently.</p>
       <button class="close">Close</button>
     </div>`;
   }
@@ -802,6 +813,10 @@ async function route(){
 
   if(!m){
     if(LIBRARY_INDEX.length === 1){ location.hash = `#/lib/${LIBRARY_INDEX[0].slug}/`; return; }
+    // Leaving a library (if one was active) back to the picker — clear the
+    // active-library pointers so the About panel and anything else that
+    // checks "is a library currently open" doesn't act on stale state.
+    currentSlug = null; D = null; INDEX = null; VID = {}; filters = null;
     showPickerChrome();
     main.innerHTML = viewPicker();
     window.scrollTo(0,0);

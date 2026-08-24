@@ -498,6 +498,8 @@ def main():
             "title": lib.config.get("title", slug),
             "subtitle": lib.config.get("subtitle", ""),
             "teaser": f"{s['videos']} sources",
+            "sources": s["videos"],
+            "anchors": s["anchors"],
             "icon_b64": icon_path.read_text(encoding="utf-8").strip() if icon_path.exists() else "",
         })
 
