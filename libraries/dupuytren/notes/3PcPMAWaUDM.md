@@ -107,7 +107,11 @@ even though the survey itself was structured around it.
 
 ## Conflicts with other sources
 
-**Directly contrasts with `3f0LUyPiPfg`** (Blazar's US collagenase treatment patterns talk) — the two talks
+**Directly comparable to `wUK_0ab9HR0`** (Dias's UK epidemiology talk) — both are national practice-pattern
+studies from the same general period; Dias's English data shows an 8-fold variation in surgical rate between
+hospitals attributed to preference rather than evidence, a similar theme to this talk's finding that German
+hand surgeons' treatment choice is often driven by personal criteria (low complication risk versus best
+outcome) rather than a single evidence-based standard. **Directly contrasts with `3f0LUyPiPfg`** (Blazar's US collagenase treatment patterns talk) — the two talks
 describe starkly different national outcomes for the same drug over the same general period: collagenase grew
 to roughly 30% of US Dupuytren's treatment by 2013, while this talk reports it as **practically unavailable in
 Germany** due to a specific, named reimbursement policy decision (the GBA's 2011 ruling) — a clear
