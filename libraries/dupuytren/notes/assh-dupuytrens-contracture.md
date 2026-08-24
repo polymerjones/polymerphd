@@ -177,4 +177,14 @@ smoothed into confidence the source does not claim:
 
 ## Conflicts with other sources
 
-None yet — this is the first source in this library.
+**Converges closely with `nice-htg21-needle-fasciotomy`**, which independently states needle fasciotomy's
+recurrence at "approximately 50% at 3 to 5 years" — consistent with this source's "roughly one third" for
+both nonsurgical options, though NICE's figure runs somewhat higher; both agree recurrence, not cure, is the
+realistic expectation. **Converges with `nocek-2026-recurrence-systematic-review` and
+`shaheen-2025-treatment-comparison-review`**, both of which independently rank needle-based treatment as
+recurring more than collagenase, and collagenase more than surgical fasciectomy — the same ordering this
+source's "roughly one third" figure for both nonsurgical options (without distinguishing between them) is
+consistent with, once the sharper split is available. **Converges with `girft-bssh-dupuytrens-pathway`**,
+whose surgical referral threshold (30° at the MCPJ or 20° at the PIPJ) gives the precise numeric version of
+what this source states only qualitatively as "the contracture prevents the hand from lying flat on a
+table."

@@ -98,6 +98,12 @@ def check(path, lib, note_ids, sources, deferred):
 
     parts = text.split("---")
     fm = parts[1] if len(parts) > 2 else ""
+    try:
+        import yaml
+        yaml.safe_load(fm)
+    except Exception as e:
+        problems.append(f"frontmatter is not valid YAML (would break the build): {e}")
+
     for facet in lib.facets:
         if f"{facet}:" not in fm:
             problems.append(f"missing frontmatter facet: {facet}")
