@@ -103,7 +103,10 @@ settled methodological consensus, and invites disagreement rather than presentin
 
 ## Conflicts with other sources
 
-**Directly in tension with `oRdE0UKeJF0`** (Van Rijssen's randomized PNF-vs-fasciectomy trial) — that trial
+**Directly answered by `t8kzlpSJLj0`** (Zhou's collagenase-vs-fasciectomy talk, presented the following day) —
+Zhou explicitly cites this talk's argument by name and offers propensity score matching on a real-world cohort
+as a practical alternative when true randomization is impractical, rather than accepting that no comparison
+can be made at all. **Directly in tension with `oRdE0UKeJF0`** (Van Rijssen's randomized PNF-vs-fasciectomy trial) — that trial
 is precisely the kind of comparison Warwick argues can't be done validly; notably, Van Rijssen's own trial
 does grapple with several of Warwick's objections (patients were randomized rather than self-selected,
 recurrence was defined with a specific quantitative threshold), so this talk is best read as a challenge to
