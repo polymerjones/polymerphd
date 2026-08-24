@@ -1,0 +1,24 @@
+TITLE: Progression of Dupuytren Contracture: A Randomized Controlled Trial Comparing Surgery, Needle Fasciotomy, and Collagenase Injection.
+AUTHOR: Karjalainen VL(1), Soikkeli J(2), Räisänen MP(1)(3), Leppänen OV(4), Reito A(5), Stjernberg-Salmela S(6), Buchbinder R(7), Karjalainen T(4)(7).
+SOURCE URL: https://pubmed.ncbi.nlm.nih.gov/41334972/
+RETRIEVED: 2026-08-23
+PARAGRAPH COUNT: 9
+======================================================================
+
+[¶1] 1. Plast Reconstr Surg. 2026 Jul 1;158(1):101-112. doi: 10.1097/PRS.0000000000012666. Epub 2025 Dec 4.
+
+[¶2] Progression of Dupuytren Contracture: A Randomized Controlled Trial Comparing Surgery, Needle Fasciotomy, and Collagenase Injection.
+
+[¶3] Karjalainen VL(1), Soikkeli J(2), Räisänen MP(1)(3), Leppänen OV(4), Reito A(5), Stjernberg-Salmela S(6), Buchbinder R(7), Karjalainen T(4)(7).
+
+[¶4] BACKGROUND: Dupuytren contracture can be treated by surgery, needle fasciotomy, or collagenase injection, but how these treatments affect disease progression in both treated and untreated fingers is poorly understood. This study aimed to compare the progression of Dupuytren contracture across these 3 treatments over a 2-year follow-up and identify patients at highest risk for progression and retreatment.
+
+[¶5] METHODS: This finger-level analysis used data from DETECT (Dupuytren Treatment Effectiveness Trial) and included 302 participants with 423 initially treated fingers. Progression was defined as an increase in contracture angle between 3 months and 2 years after treatment. Analyses included treated, adjacent untreated, and all untreated fingers. The authors used linear regression models to identify risk factors for progression and retreatment.
+
+[¶6] RESULTS: Of the 302 participants, 279 (92%) completed 3-month contracture measurements and 274 (91%) completed 2-year contracture measurements. In treated fingers, surgery resulted in less progression than needle fasciotomy (mean difference, 9.7 degrees [95% CI, 3.7 to 16]) and collagenase injection (mean difference, 6.0 degrees [95% CI, 0.1 to 12]), and fewer retreatments. No between-group differences were observed in adjacent untreated or all untreated fingers. Younger age at treatment, smoking, dominantly affected proximal interphalangeal joint, and involvement of the little finger were associated with increased risk of progression or retreatment.
+
+[¶7] CONCLUSIONS: Surgery offers more durable results in treated fingers compared with percutaneous methods, although progression and retreatment rates in untreated fingers are similar across all treatment groups. Patients at higher risk for progression (ie, young smokers with affected little fingers) may benefit most from surgery. Conflict of interest statement: The authors have no financial relationships or conflicts of interest to declare. This study has been funded by the Research Council of Finland.
+
+[¶8] Copyright © 2025 The Authors. Published by Wolters Kluwer Health, Inc. on behalf of the American Society of Plastic Surgeons.
+
+[¶9] DOI: 10.1097/PRS.0000000000012666 PMCID: PMC13290052 PMID: 41334972 [Indexed for MEDLINE]

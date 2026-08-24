@@ -6,6 +6,7 @@
       "title": "Dupuytren's Contracture",
       "author": "American Society for Surgery of the Hand",
       "url": "https://www.assh.org/handcare/condition/dupuytrens-contracture",
+      "retrieved_date": "2026-08-23",
       "clean_file": "clean/assh-dupuytrens-contracture.txt",
       "word_count": 1828,
       "anchor": {
@@ -19,6 +20,236 @@
         "level": "moderate",
         "year": 2020
       }
+    },
+    {
+      "id": "layton-2023-fibrotic-disorder-review",
+      "kind": "website",
+      "title": "Dupuytren's disease: a localised and accessible human fibrotic disorder.",
+      "author": "Layton TB(1), Williams L(1), Nanchahal J(2).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36566101/",
+      "retrieved_date": "2026-08-23",
+      "clean_file": "clean/layton-2023-fibrotic-disorder-review.txt",
+      "word_count": 177,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 6
+      },
+      "evidence": {
+        "type": "basic_science",
+        "level": "moderate",
+        "year": 2023
+      }
+    },
+    {
+      "id": "girft-bssh-dupuytrens-pathway",
+      "kind": "pdf",
+      "title": "Dupuytren's Disease: Hand Surgery Pathway",
+      "author": "GIRFT / British Society for Surgery of the Hand",
+      "url": "https://gettingitrightfirsttime.co.uk/wp-content/uploads/2023/12/2023-12-11_Hand-surgery_Pathway_Dupuytrens.drawio.pdf",
+      "retrieved_date": "2026-08-23",
+      "clean_file": "clean/girft-bssh-dupuytrens-pathway.txt",
+      "word_count": 774,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "guideline",
+        "level": "high",
+        "year": 2023
+      }
+    },
+    {
+      "id": "shaheen-2025-treatment-comparison-review",
+      "kind": "website",
+      "title": "Effectiveness and Safety of Dupuytren Contracture Treatments: A Systematic Review and Meta-Analysis Using the GRADE Approach.",
+      "author": "Shaheen MS(1)(2), Karjalainen VL(3), Reddy A(2)(4), Karjalainen T(5), Chung KC(2).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39451139/",
+      "retrieved_date": "2026-08-23",
+      "clean_file": "clean/shaheen-2025-treatment-comparison-review.txt",
+      "word_count": 345,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 10
+      },
+      "evidence": {
+        "type": "systematic_review",
+        "level": "high",
+        "year": 2025
+      }
+    },
+    {
+      "id": "nocek-2026-recurrence-systematic-review",
+      "kind": "website",
+      "title": "Likelihood of Dupuytren Contracture Recurrence After Limited Fasciectomy, Needle Aponeurotomy or Collagenase Clostridium histolyticum: Systematic Review of Prospective Data With 2- to 7-Year Follow-up.",
+      "author": "Nocek M(1), Wakefield D(2), Vitale MA(2)(3).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41853763/",
+      "retrieved_date": "2026-08-23",
+      "clean_file": "clean/nocek-2026-recurrence-systematic-review.txt",
+      "word_count": 407,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 10
+      },
+      "evidence": {
+        "type": "systematic_review",
+        "level": "high",
+        "year": 2026
+      }
+    },
+    {
+      "id": "nice-htg21-needle-fasciotomy",
+      "kind": "website",
+      "title": "Needle Fasciotomy for Dupuytren's Contracture",
+      "author": "NICE",
+      "url": "https://www.nice.org.uk/guidance/htg21/chapter/1-Recommendations",
+      "retrieved_date": "2026-08-23",
+      "clean_file": "clean/nice-htg21-needle-fasciotomy.txt",
+      "word_count": 425,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 3
+      },
+      "evidence": {
+        "type": "guideline",
+        "level": "high"
+      }
+    },
+    {
+      "id": "detect-2026-progression-rct",
+      "kind": "website",
+      "title": "Progression of Dupuytren Contracture: A Randomized Controlled Trial Comparing Surgery, Needle Fasciotomy, and Collagenase Injection.",
+      "author": "Karjalainen VL(1), Soikkeli J(2), Räisänen MP(1)(3), Leppänen OV(4), Reito A(5), Stjernberg-Salmela S(6), Buchbinder R(7), Karjalainen T(4)(7).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41334972/",
+      "retrieved_date": "2026-08-23",
+      "clean_file": "clean/detect-2026-progression-rct.txt",
+      "word_count": 362,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 9
+      },
+      "evidence": {
+        "type": "rct",
+        "level": "high",
+        "year": 2026
+      }
+    },
+    {
+      "id": "nice-htg427-radiotherapy",
+      "kind": "website",
+      "title": "Radiation Therapy for Early Dupuytren's Disease",
+      "author": "NICE",
+      "url": "https://www.nice.org.uk/guidance/htg427/chapter/1-Recommendations",
+      "retrieved_date": "2026-08-23",
+      "clean_file": "clean/nice-htg427-radiotherapy.txt",
+      "word_count": 1939,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 58
+      },
+      "evidence": {
+        "type": "guideline",
+        "level": "high",
+        "year": 2016
+      }
+    },
+    {
+      "id": "reddit-til-dupuytrens-thread",
+      "kind": "website",
+      "title": "Reddit r/todayilearned thread on Dupuytren's disease — commenter discussion",
+      "author": null,
+      "url": "https://www.reddit.com/r/todayilearned/comments/1790qye/til_about_dupuytrens_disease_which_causes_nodules/",
+      "retrieved_date": "2026-08-23",
+      "clean_file": "clean/reddit-til-dupuytrens-thread.txt",
+      "word_count": 618,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 7
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      },
+      "note": "Paraphrased summary, not verbatim source text — see clean_file header."
+    },
+    {
+      "id": "future-intervention-risk-cohort-2026",
+      "kind": "website",
+      "title": "The Likelihood of Future Dupuytren Disease Intervention After Initial Treatment in the Same Digit, Another Digit, and Contralateral Hand.",
+      "author": "El Bachaoui R(1), Cossu E(2), Zhang D(2), Earp BE(2), Blazar PE(3).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42274446/",
+      "retrieved_date": "2026-08-23",
+      "clean_file": "clean/future-intervention-risk-cohort-2026.txt",
+      "word_count": 430,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 10
+      },
+      "evidence": {
+        "type": "cohort_study",
+        "level": "moderate",
+        "year": 2026
+      }
+    },
+    {
+      "id": "sayadi-2019-molecular-pathogenesis-review",
+      "kind": "website",
+      "title": "The Molecular Pathogenesis of Dupuytren Disease: Review of the Literature and Suggested New Approaches to Treatment.",
+      "author": "Sayadi LR(1), Alhunayan D(1), Sarantopoulos N(1), Kong C(1), Condamoor S(1), Sayadi J(2), Banyard DA(1), Shaterian A(1), Leis A(1), Evans GRD(1), Widgerow AD(1).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31232804/",
+      "retrieved_date": "2026-08-23",
+      "clean_file": "clean/sayadi-2019-molecular-pathogenesis-review.txt",
+      "word_count": 237,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 8
+      },
+      "evidence": {
+        "type": "basic_science",
+        "level": "moderate",
+        "year": 2019
+      }
+    },
+    {
+      "id": "youtube-comments-handsociety-dupuytrens",
+      "kind": "website",
+      "title": "YouTube comments — \"Dupuytren's Contracture: Causes, Symptoms, & Treatment\" (TheHandSociety)",
+      "author": null,
+      "url": "https://www.youtube.com/watch?v=V_EmTwz9iso",
+      "retrieved_date": "2026-08-23",
+      "clean_file": "clean/youtube-comments-handsociety-dupuytrens.txt",
+      "word_count": 737,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 9
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      },
+      "note": "Paraphrased summary, not verbatim source text — see clean_file header."
     }
   ]
 }

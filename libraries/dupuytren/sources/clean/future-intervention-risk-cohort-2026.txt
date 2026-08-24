@@ -1,0 +1,26 @@
+TITLE: The Likelihood of Future Dupuytren Disease Intervention After Initial Treatment in the Same Digit, Another Digit, and Contralateral Hand.
+AUTHOR: El Bachaoui R(1), Cossu E(2), Zhang D(2), Earp BE(2), Blazar PE(3).
+SOURCE URL: https://pubmed.ncbi.nlm.nih.gov/42274446/
+RETRIEVED: 2026-08-23
+PARAGRAPH COUNT: 10
+======================================================================
+
+[¶1] 1. J Hand Surg Am. 2026 Jun 11:S0363-5023(26)00369-2. doi: 10.1016/j.jhsa.2026.05.004. Online ahead of print.
+
+[¶2] The Likelihood of Future Dupuytren Disease Intervention After Initial Treatment in the Same Digit, Another Digit, and Contralateral Hand.
+
+[¶3] El Bachaoui R(1), Cossu E(2), Zhang D(2), Earp BE(2), Blazar PE(3).
+
+[¶4] PURPOSE: Patients treated for Dupuytren contracture in one digit are at risk for future intervention in other digits or the contralateral hand. Identifying predictive factors can aid in patient counseling.
+
+[¶5] METHODS: A single institutional database was queried for procedural codes for collagenase treatment or surgical fasciectomy. A total of 658 patients were identified in this query. Out of this cohort, 341 patients were eligible for inclusion. The cohort consists of 141 initially treated with fasciectomy and 200 initially treated with collagenase, between 2015 and 2019. The primary outcome was the need for subsequent treatment in the same digit, other digits of the same hand, or the contralateral hand. Predictor variables included demographics, medical history, and pretreatment contracture severity.
+
+[¶6] RESULTS: At a mean follow-up of 5.3 years, 142 (42%) of patients underwent additional treatment. Revision procedures on the same digit occurred in 88 patients (26%) at a mean of 3.2 years, on another digit in the same hand in 35 patients (10%) at a mean of 3.6 years, and on the contralateral hand in 79 patients (23%) at a mean of 2.3 years. Procedure, multiple digits treated, and initial nontreated contracture are associated with subsequent procedures on the same digit. Younger age, active smoking, and initial nontreated contracture are associated with subsequent procedures on another digit in the same hand. Dominant hand was initially treated; initial nontreated contracture are associated with subsequent procedures on the contralateral hand.
+
+[¶7] CONCLUSIONS: Within 5 years of initial treatment for Dupuytren contracture in one digit, patients have over 40% likelihood of future intervention for contracture. Patients have approximately a 10% likelihood of future treatment on another digit in the same hand and nearly a 25% likelihood of future treatment in the contralateral hand. Key risk factors include age, multiple digits treated, smoking, and the presence of initially nontreated fingers, which should be incorporated into patient counseling.
+
+[¶8] LEVEL OF EVIDENCE/TYPE OF STUDY: 3-Retrospective cohort study, prognostic. Conflict of interest statement: Conflicts of Interest Dr Blazar is a consultant for Endo Pharmaceuticals. No benefits in any form have been received or will be received by the other authors related directly to this article.
+
+[¶9] Copyright © 2026 American Society for Surgery of the Hand. Published by Elsevier Inc. All rights reserved.
+
+[¶10] DOI: 10.1016/j.jhsa.2026.05.004 PMID: 42274446

@@ -1,0 +1,26 @@
+TITLE: Effectiveness and Safety of Dupuytren Contracture Treatments: A Systematic Review and Meta-Analysis Using the GRADE Approach.
+AUTHOR: Shaheen MS(1)(2), Karjalainen VL(3), Reddy A(2)(4), Karjalainen T(5), Chung KC(2).
+SOURCE URL: https://pubmed.ncbi.nlm.nih.gov/39451139/
+RETRIEVED: 2026-08-23
+PARAGRAPH COUNT: 10
+======================================================================
+
+[¶1] 1. Plast Reconstr Surg. 2025 Sep 1;156(3):375e-384e. doi: 10.1097/PRS.0000000000011816. Epub 2024 Oct 15.
+
+[¶2] Effectiveness and Safety of Dupuytren Contracture Treatments: A Systematic Review and Meta-Analysis Using the GRADE Approach.
+
+[¶3] Shaheen MS(1)(2), Karjalainen VL(3), Reddy A(2)(4), Karjalainen T(5), Chung KC(2).
+
+[¶4] BACKGROUND: There is currently no consensus on the optimal treatment for Dupuytren contracture. Prior meta-analyses have been limited by suboptimal data synthesis methodologies. The authors conducted an updated evidence review comparing the effectiveness and safety of percutaneous needle fasciotomy (PNF), collagenase clostridium histolyticum (CCH), and limited fasciectomy (LF) using the Grading of Recommendations Assessment, Development and Evaluation approach.
+
+[¶5] METHODS: CENTRAL, MEDLINE, and Embase were searched for randomized controlled trials comparing outcomes following PNF, CCH, and LF for Dupuytren contracture treatment. Outcomes of interest included residual contracture, recurrence rate, hand function, pain, global satisfaction, and adverse events. Time points included 3 months, 1 year, and 2 to 3 years.
+
+[¶6] RESULTS: Seventeen publications (1010 patients) were included. High- to moderate-certainty evidence showed no clinically important difference in long-term contracture reduction (PNF versus LF: mean difference [MD], 7.6 degrees; 95% CI, 1.8 to 13.4 degrees. CCH versus LF: MD, 4.8 degrees; 95% CI, -1.3 to 10.9 degrees). Moderate-certainty evidence indicated that LF provides the lowest risk of long-term recurrence (PNF versus LF: relative risk [RR], 12.3; 95% CI, 1.6 to 92.4. CCH versus LF: RR, 9.5; 95% CI, 1.2 to 73.4), LF has a higher risk of serious adverse events than PNF (RR, 0.5; 95% CI, 0.3 to 0.9), and CCH has a higher risk of overall adverse events than PNF (RR, 4.8; 95% CI, 2.9 to 7.0).
+
+[¶7] CONCLUSIONS: CCH, PNF, and LF are equally effective in long-term contracture reduction. However, LF yields more durable results at a higher risk of rare but serious adverse events. Current evidence suggests the use of PNF over CCH. However, ultimate treatment decisions should be tailored to individual patient preferences.
+
+[¶8] CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, II.
+
+[¶9] Copyright © 2024 by the American Society of Plastic Surgeons.
+
+[¶10] DOI: 10.1097/PRS.0000000000011816 PMID: 39451139 [Indexed for MEDLINE]

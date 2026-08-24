@@ -1,6 +1,7 @@
 TITLE: Dupuytren's Contracture
 AUTHOR: American Society for Surgery of the Hand
 SOURCE URL: https://www.assh.org/handcare/condition/dupuytrens-contracture
+RETRIEVED: 2026-08-23
 PAGE COUNT: 3
 ======================================================================
 

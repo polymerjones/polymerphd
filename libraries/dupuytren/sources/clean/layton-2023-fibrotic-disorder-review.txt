@@ -1,0 +1,18 @@
+TITLE: Dupuytren's disease: a localised and accessible human fibrotic disorder.
+AUTHOR: Layton TB(1), Williams L(1), Nanchahal J(2).
+SOURCE URL: https://pubmed.ncbi.nlm.nih.gov/36566101/
+RETRIEVED: 2026-08-23
+PARAGRAPH COUNT: 6
+======================================================================
+
+[¶1] 1. Trends Mol Med. 2023 Mar;29(3):218-227. doi: 10.1016/j.molmed.2022.12.001. Epub 2022 Dec 23.
+
+[¶2] Dupuytren's disease: a localised and accessible human fibrotic disorder.
+
+[¶3] Layton TB(1), Williams L(1), Nanchahal J(2).
+
+[¶4] We review the biology of Dupuytren's disease (DD), a common localised fibrotic disorder of the hand. The disease develops through a complex interplay of genetic and environmental factors, and epigenetic signalling. The early-stage disease nodules comprise a complex milieu of stromal and immune cells which interact to promote disease development. Recently, inhibition of tumour necrosis factor (TNF) locally resulted in softening and a decrease in nodule size, potentially controlling disease progression. Unlike fibrotic disorders of the visceral organs, the easy access to tissue in DD patients enables dissection of the cellular landscape and molecular signalling pathways. In addition, the study of DD may have wider benefits in enhancing our understanding of less-accessible fibrotic tissues. Conflict of interest statement: Declaration of interests No interests are declared.
+
+[¶5] Copyright © 2022 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+[¶6] DOI: 10.1016/j.molmed.2022.12.001 PMID: 36566101 [Indexed for MEDLINE]

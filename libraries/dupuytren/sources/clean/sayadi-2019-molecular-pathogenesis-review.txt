@@ -1,0 +1,22 @@
+TITLE: The Molecular Pathogenesis of Dupuytren Disease: Review of the Literature and Suggested New Approaches to Treatment.
+AUTHOR: Sayadi LR(1), Alhunayan D(1), Sarantopoulos N(1), Kong C(1), Condamoor S(1), Sayadi J(2), Banyard DA(1), Shaterian A(1), Leis A(1), Evans GRD(1), Widgerow AD(1).
+SOURCE URL: https://pubmed.ncbi.nlm.nih.gov/31232804/
+RETRIEVED: 2026-08-23
+PARAGRAPH COUNT: 8
+======================================================================
+
+[¶1] 1. Ann Plast Surg. 2019 Nov;83(5):594-600. doi: 10.1097/SAP.0000000000001918.
+
+[¶2] The Molecular Pathogenesis of Dupuytren Disease: Review of the Literature and Suggested New Approaches to Treatment.
+
+[¶3] Sayadi LR(1), Alhunayan D(1), Sarantopoulos N(1), Kong C(1), Condamoor S(1), Sayadi J(2), Banyard DA(1), Shaterian A(1), Leis A(1), Evans GRD(1), Widgerow AD(1).
+
+[¶4] BACKGROUND: Ever since the classification of Dupuytren disease into the proliferative, involutional, and residual stages, extensive research has been performed to uncover the molecular underpinnings of the disease and develop better treatment modalities for patients. The aim of this article is to systematically review the basic science literature pertaining to Dupuytren disease and suggest a new approach to treatment.
+
+[¶5] METHODS: Following Preferred Reporting Items for Systematic Reviews and Meta-Analysis guidelines, a systematic review was conducted using the MEDLINE database to identify basic science literature on Dupuytren pathophysiology falling under 1 or more of the following categories: (1) Molecular alterations, (2) Structural alterations, and (3) Genetic predisposition.
+
+[¶6] RESULTS: A total of 177 articles were reviewed of which 77 studies met inclusion criteria. Articles were categorized into respective sections outlined in the study methods.
+
+[¶7] CONCLUSION: The pathophysiological changes involved in Dupuytren's disease can be divided into a number of molecular and structural alterations with genetic predisposition playing a contributory role. Understanding these changes can allow for the development of biologics which may disrupt and halt the disease process.
+
+[¶8] DOI: 10.1097/SAP.0000000000001918 PMID: 31232804 [Indexed for MEDLINE]

@@ -14,6 +14,7 @@ Usage:
                               [--author A] [--url U]
 """
 import argparse
+import datetime
 import re
 import sys
 from pathlib import Path
@@ -74,6 +75,7 @@ def main():
 
     source_id = args.id or slugify(args.pdf.stem)
     title = args.title or args.pdf.stem
+    retrieved = datetime.date.today().isoformat()
 
     pages = list(extract_pages(args.pdf))
     if not any(pages):
@@ -85,6 +87,7 @@ def main():
         f"TITLE: {title}\n"
         + (f"AUTHOR: {args.author}\n" if args.author else "")
         + (f"SOURCE URL: {args.url}\n" if args.url else "")
+        + f"RETRIEVED: {retrieved}\n"
         + f"PAGE COUNT: {len(pages)}\n"
         + "=" * 70 + "\n\n"
     )
@@ -99,6 +102,7 @@ def main():
         "title": title,
         "author": args.author,
         "url": args.url,
+        "retrieved_date": retrieved,
         "clean_file": f"clean/{source_id}.txt",
         "word_count": len(body.split()),
         "anchor": {"kind": "page", "format": "p.N", "bound_field": "page_count", "bound": len(pages)},

@@ -1,0 +1,26 @@
+TITLE: Likelihood of Dupuytren Contracture Recurrence After Limited Fasciectomy, Needle Aponeurotomy or Collagenase Clostridium histolyticum: Systematic Review of Prospective Data With 2- to 7-Year Follow-up.
+AUTHOR: Nocek M(1), Wakefield D(2), Vitale MA(2)(3).
+SOURCE URL: https://pubmed.ncbi.nlm.nih.gov/41853763/
+RETRIEVED: 2026-08-23
+PARAGRAPH COUNT: 10
+======================================================================
+
+[¶1] 1. J Hand Surg Glob Online. 2026 Mar 5;8(3):100979. doi: 10.1016/j.jhsg.2026.100979. eCollection 2026 May.
+
+[¶2] Likelihood of Dupuytren Contracture Recurrence After Limited Fasciectomy, Needle Aponeurotomy or Collagenase Clostridium histolyticum: Systematic Review of Prospective Data With 2- to 7-Year Follow-up.
+
+[¶3] Nocek M(1), Wakefield D(2), Vitale MA(2)(3).
+
+[¶4] PURPOSE: Compare contracture recurrence after limited fasciectomy (LF), collagenase Clostridium histolyticum (CCH), and needle aponeurotomy (NA) for Dupuytren contracture (DC) using prospectively collected studies with ≥2-year follow-up and assess recurrence by joint (metacarpophalangeal [MCP] vs proximal interphalangeal [PIP]).
+
+[¶5] METHODS: Systematic review restricted to prospective cohort series or randomized controlled trials treating DC with LF, CCH, and/or NA. Eligibility required ≥2-year, in-person clinical follow-up and explicit definition of contracture recurrence. Exclusions included non-English publications, telephone/questionnaire-only follow-up, no recurrence data at follow-up, and sample size <15 patients. The primary end point was recurrence by treatment. Secondary analyses evaluated recurrence by joint treated and reintervention and complications when reported.
+
+[¶6] RESULTS: Ten studies met criteria, encompassing 1,411 patients and 1,698 treated joints with a mean follow-up of 3.8 years. Across studies, LF demonstrated a lower risk of recurrence than both CCH and NA, and CCH demonstrated a lower risk of recurrence than NA. Recurrence was less likely in the treatment of MCP versus PIP contractures across all treatments. For studies that reported subsequent procedures for recurrence, there was a lower likelihood of reinterventions after LF than after CCH or NA. Commonly reported complications included digital nerve injury, tendon injury, skin tears, swelling, pain, and bleeding.
+
+[¶7] CONCLUSIONS: In prospectively collected cohorts with a mean 3.8 years of follow-up, recurrence after DC treatment was common. LF demonstrated the lowest recurrence (16.5%), CCH had an intermediate recurrence (32.5%), and NA showed the highest recurrence (46.4%). PIP joint contractures were more likely to recur than MCP joint contractures, regardless of treatment.
+
+[¶8] CLINICAL RELEVANCE: LF offers greater durability and a lower likelihood of subsequent procedures than CCH or NA in the treatment of DC at intermediate term follow-up; however, the clinician must also weigh the length of recovery and potential complications between these three treatment options. Patients with PIP contractures should be counseled about a higher recurrence risk and potential need for closer follow-up. Conflict of interest statement: Dr. Mark A. Vitale served on the advisory board for Endo Pharmaceuticals, Inc in 2022. The other authors have no relevant conflicts to disclose.
+
+[¶9] © 2026 The Authors.
+
+[¶10] DOI: 10.1016/j.jhsg.2026.100979 PMCID: PMC12992953 PMID: 41853763

@@ -1,0 +1,123 @@
+TITLE: Radiation Therapy for Early Dupuytren's Disease
+AUTHOR: NICE
+SOURCE URL: https://www.nice.org.uk/guidance/htg427/chapter/1-Recommendations
+ADDITIONAL PAGES: https://www.nice.org.uk/guidance/htg427/chapter/2-Indications-and-current-treatments, https://www.nice.org.uk/guidance/htg427/chapter/3-The-procedure, https://www.nice.org.uk/guidance/htg427/chapter/4-Efficacy, https://www.nice.org.uk/guidance/htg427/chapter/5-Safety, https://www.nice.org.uk/guidance/htg427/chapter/6-Committee-comments
+RETRIEVED: 2026-08-23
+PARAGRAPH COUNT: 58
+======================================================================
+
+[¶1] 1.1 The evidence on radiation therapy for early Dupuytren's disease raises no major safety concerns. Current evidence on its efficacy is inadequate in quantity and quality, and is difficult to interpret because of uncertainty about the natural history of Dupuytren's disease. Therefore, this procedure should only be used with special arrangements for clinical governance, consent and audit or research.
+
+[¶2] 2.1 Dupuytren's disease is a benign fibroproliferative disorder of the fascia of the hand and fingers. Its aetiology is unknown. It is characterised by connective tissue thickening in the palm of the hand, forming nodules. These nodules are thought to progress to form cords, which cause difficulty in extending the fingers. Symptoms include reduced range of motion, reduced hand function and pain. It most commonly affects the fourth and fifth fingers. Most patients are affected in both hands. There is no formal clinical definition of early disease but the term is generally used for patients with contractures of 30 degrees or less, with or without palmar disease. Not all patients have progressive disease, and the natural history of the disease is not well understood.
+
+[¶3] 3.1 The aim of this procedure is to prevent or postpone disease progression, and reduce the need for surgical intervention. The mechanism of action of radiation therapy is uncertain, but it is thought to affect the development and growth rate of fibroblasts in the palmar fascia.
+
+[¶4] 4 Efficacy This section describes efficacy outcomes from the published literature that the committee considered as part of the evidence about this procedure. For more detailed information on the evidence, see the interventional procedure overview.
+
+[¶5] 4.1
+
+[¶6] In a randomised controlled trial (RCT) of 129 patients (198 hands), in which both groups had radiation therapy, objective symptom assessment (number and consistency of cords and nodules, and degree of extension deficit) showed regression of Dupuytren's disease at 1‑year follow-up in 56% (53/95) of hands treated with 30 Gy of radiation and in 53% (55/103) of hands treated with 21 Gy (p<0.01 for the before-after change in both groups; no statistically significant difference between groups). The symptoms remained stable in a further 37% (35/95) of hands treated with 30 Gy of radiation and a further 38% (39/103) of hands treated with 21 Gy (no statistically significant difference between groups). Overall disease progression rate at 1 year was 8% (16/198). New nodules were reported in 6% (11/198) of hands, new cords in 4% (7/198) and increased flexion deformity in 6% (12/198). The same trial reported that subjective symptom assessment (not otherwise defined) showed statistically significant regression of Dupuytren's disease at 1‑year follow-up in 65% (41/63) of patients in the group treated with 30 Gy of radiation, and 53% (35/66) of patients treated with 21 Gy (p<0.01 for the within group change; level of statistical significance between groups not reported). The condition remained stable in a further 30% (19/63) of patients in the 30 Gy group and a further 41% (27/66) of patients in the 21 Gy group (level of statistical significance between groups not reported).
+
+[¶7] 4.2
+
+[¶8] In a case series of 206 patients treated with 32 Gy of radiation, which collected self-reported questionnaire data at a median follow-up of 40 months, symptoms regressed in 45% (93/206) of patients and there was no further disease progression (including in patients with regression) in 80% (165/206) of patients.
+
+[¶9] 4.3
+
+[¶10] In a case series of 135 patients (208 hands) treated with 30 Gy of radiation, clinical evaluation after a median follow-up of 13 years showed complete relief of symptoms in 16% (14/87) of patients, good relief in symptoms in 18% (16/87), minor relief in 32% (28/87), unchanged symptoms in 14% (12/87) and progression of symptoms in 20% (17/87). In the same case series, clinical evaluation after a median follow-up of 13 years showed regression of the disease in 10% (20/208) of hands, stable disease in 59% (123/208) of hands and progression in 31% (65/208) of hands.
+
+[¶11] 4.4
+
+[¶12] In a case series of 33 patients (60 treated sites), which collected self-reported survey data after a median follow-up of 31 months, the disease progressed at any location within or outside the radiation therapy treatment field in 61% (20/33) of patients. In-field progression occurred in 23% (14/60) of sites but 4 sites were successfully re-irradiated with final local control in 83% (50/60) of sites. In the same study, the symptoms improved or remained stable in 93% of sites (relative numbers not given).
+
+[¶13] 4.5
+
+[¶14] In the RCT of 129 patients (198 hands) treated with 30 Gy or 21 Gy of radiation, 3% (4/129) of patients needed hand surgery for disease progression within 1 year of follow-up. In the case series of 135 patients (208 hands), 20% (42/208) of hands needed surgery within a median follow-up of 13 years. In the case series of 33 patients, 6% (2/33) of patients needed surgery within a median follow-up of 31 months.
+
+[¶15] 4.6
+
+[¶16] In the case series of 206 patients, the mean (± standard deviation) score for satisfaction with the therapy (measured with a visual analogue scale from 0 [not satisfied] to 10 [extremely satisfied]) was 7.9±2.7 points (n=198 patients) at a median follow-up of 40 months. In the case series of 33 patients, 94% (31/33) of patients considered radiation therapy successful (defined by patient report indicating whether patients felt that radiation therapy had been successful or not) at a median follow-up of 31 months.
+
+[¶17] 4.7
+
+[¶18] The specialist advisers listed the following key efficacy outcomes: absence of progression, time to recurrence or progression to a functionally significant contracture, and rates of subsequent surgery.
+
+[¶19] 4.8
+
+[¶20] Thirty four commentaries from patients who had experience of this procedure were received, which were discussed by the committee.
+
+[¶21] 5 Safety This section describes safety outcomes from the published literature that the committee considered as part of the evidence about this procedure. For more detailed information on the evidence, see the interventional procedure overview.
+
+[¶22] Acute toxicity
+
+[¶23] 5.1
+
+[¶24] Overall, acute toxicity including skin tenderness, redness, peeling, or mild pain was reported in 50% (n=8, denominator not stated) of patients in a case series of 17 patients (treated with 21 Gy of radiation) that collected self-report questionnaire data.
+
+[¶25] 5.2
+
+[¶26] Dry skin or redness was reported in 38% (76/198) of hands in a randomised controlled trial (RCT) of 129 patients treated with 30 Gy or 21 Gy of radiation within a 4‑week follow-up.
+
+[¶27] 5.3
+
+[¶28] Dry desquamation was reported in 5% (10/198) of hands and wet desquamation in 2% (3/198) of hands in the RCT of 129 patients treated with 30 Gy or 21 Gy of radiation within a 4‑week follow-up.
+
+[¶29] 5.4
+
+[¶30] Extensive erythema was reported in 6% (12/198) of hands in the RCT of 129 patients treated with 30 Gy or 21 Gy of radiation within a 4‑week follow-up. Erythema was reported in 20% (42/206) of patients in a case series of 206 patients treated with 32 Gy of radiation within a 4-week follow-up.
+
+[¶31] 5.5
+
+[¶32] Pronounced swelling was reported in 2% (3/198) of hands in the RCT of 129 patients treated with 30 Gy or 21 Gy of radiation within a 4‑week follow-up.
+
+[¶33] 5.6
+
+[¶34] Tenderness was reported in 3% (2/60) of sites in a case series of 33 patients.
+
+[¶35] Chronic toxicity
+
+[¶36] 5.7
+
+[¶37] Overall, chronic toxicity including mild tightness of the skin, dryness, skin thickening, mild swelling and decreased sensation was reported in 31% (n=5, denominator not stated) of patients in the case series of 17 patients, with a mean follow-up of 35 months.
+
+[¶38] 5.8
+
+[¶39] Overall, chronic toxicity events occurred in 16% (15/95) of hands treated with 30 Gy of radiation and in 11% (11/103) of hands treated with 21 Gy within 3 months and in 4% (4/95), and 5% (5/103) of hands treated with 30 Gy or 21 Gy respectively within 12 months of radiation therapy, in the RCT of 129 patients. Most of these events were skin dryness, increased desquamation, mild skin atrophy or slight subcutaneous fibrosis needing topical treatment (type of treatment not stated).
+
+[¶40] 5.9
+
+[¶41] Dry skin was reported in 20% (41/206) of patients in the case series of 206 patients treated with 32 Gy of radiation, in more than 4 weeks of follow-up. Desquamation was reported in 2% (5/206) of patients in the same case series of 206 patients. Dry skin and increased desquamation were reported in 23% (47/208) of hands in a case series of 135 patients within a median follow-up of 13 years.
+
+[¶42] 5.10
+
+[¶43] Lack of sweating was reported in 4% (8/206) of patients in the case series of 206 patients treated with 32 Gy of radiation within a median follow-up of 40 months.
+
+[¶44] 5.11
+
+[¶45] Skin atrophy was reported in 3% (7/206) of patients in the case series of 206 patients treated with 32 Gy of radiation, in more than 4 weeks of follow-up. In the same study, telangiectasia was reported in 3% (6/206) of patients, in more than 4 weeks of follow-up. Mild skin atrophy with occasional telangiectasia was reported in 7% (14/208) of hands in the case series of 135 patients within a median follow-up of 13 years.
+
+[¶46] 5.12
+
+[¶47] Alteration of heat and pain sensation was reported in 4% (8/198) of hands in the RCT of 129 patients treated with 30 Gy or 21 Gy (minimum follow-up of 1 year). Sensory affection was reported in 2% (4/206) of patients in the case series of 206 patients treated with 32 Gy of radiation, in more than 4 weeks of follow‑up. Erythema was reported in 2% (5/208) of patients in the case series of 135 patients at up to 1 year.
+
+[¶48] 5.13
+
+[¶49] Weakness (subjective 10–20% reduction in strength) was reported in 3% (2/60) of sites in the case series of 33 patients within a median follow-up of 31 months.
+
+[¶50] 5.14
+
+[¶51] Reduced nail health was reported in 3% (2/60) of sites in the case series of 33 patients within a median follow-up of 31 months.
+
+[¶52] 5.15
+
+[¶53] Hyperpigmentation was reported in 3% (2/60) of sites in the case series of 33 patients within a median follow-up of 31 months.
+
+[¶54] 5.16
+
+[¶55] In addition to safety outcomes reported in the literature, specialist advisers are asked about anecdotal adverse events (events which they have heard about) and about theoretical adverse events (events which they think might possibly occur, even if they have never done so). For this procedure, specialist advisers did not list any new anecdotal adverse events. They considered that the following were theoretical adverse events: radiation‑induced malignancy and adverse surgical outcome due to poor wound healing in irradiated skin.
+
+[¶56] 5.17
+
+[¶57] Thirty-four commentaries from patients who had experience of this procedure were received, which were discussed by the committee.
+
+[¶58] 6.1 The committee noted that, despite the recommendations in the previous guidance for audit, and encouragement for further research, data collection since the guidance was published had been disappointing. The committee noted the large number of supportive comments received from patients who have had the procedure. The committee noted that, given the uncertainty over the natural history of the disease, it is difficult to identify which patients have disease that will progress. The committee noted that, despite the theoretical risk of malignancy, there were no reports of radiation-induced malignancy in the literature identified in the overview. The committee noted that a review of the use of radiotherapy for benign conditions published by the Royal College of Radiologists in 2015 recommended that only patients whose disease has progressed within the last 6 to 12 months should be treated.

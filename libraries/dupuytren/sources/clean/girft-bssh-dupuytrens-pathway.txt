@@ -1,0 +1,90 @@
+TITLE: Dupuytren's Disease: Hand Surgery Pathway
+AUTHOR: GIRFT / British Society for Surgery of the Hand
+SOURCE URL: https://gettingitrightfirsttime.co.uk/wp-content/uploads/2023/12/2023-12-11_Hand-surgery_Pathway_Dupuytrens.drawio.pdf
+RETRIEVED: 2026-08-23
+PAGE COUNT: 1
+======================================================================
+
+[p.1] This source is a single-page clinical care pathway flowchart, "Dupuytren's disease — Hand surgery,
+December 2023," co-branded GIRFT (Getting It Right First Time) and BSSH (British Society for Surgery of the
+Hand), with BAPRAS and the British Orthopaedic Association also credited. It has five stages, left to right:
+Presentation, Referral, Surgical review, Operative procedure, Recovery and rehabilitation. What follows
+transcribes the flowchart's boxes and decision branches in their actual connected order, not the order text
+extraction happened to produce.
+
+STAGE 1 — PRESENTATION
+
+Entry point: "Presentation in Primary Care." Next box: "Take history and perform clinical examination (see
+note 1)."
+
+Note 1 — Clinical history and examination (footnote, applies to this box):
+History: hand dominance, patient's occupation, interference with normal daily activities/occupation/
+recreational activities, location/duration/history of symptoms in hand or fingers, trauma, previous hand
+surgery, recurrence, co-morbidities including diabetes/smoking, family history of Dupuytren's contracture.
+"Ring finger most commonly affected followed by little and middle fingers."
+Examination: loss of hand function; skin thickening or pitting in the palm; firm fixed (to skin/deep fascia)
+nodules; fibrous tendon-like cords; flexion deformity of the MCPJs and IPJs; reduction of the span between
+thumb and index finger webspace; unable to lay palm and fingers flat on table top. Ectopic lesions: nodules
+overlying dorsal PIPJs, soles of feet, or penile fibromatosis.
+Differential diagnosis to consider: callus, ganglion cyst, giant cell tumour, inclusion cyst, ulnar nerve
+palsy, trigger finger, post trauma/infection, joint disease, diabetic cheiroarthropathy, camptodactyly,
+Volkmann's contracture, epithelioid sarcoma (rare).
+
+From "Take history and perform clinical examination," the pathway branches on a decision diamond, "Threshold
+for surgery":
+- "Flexion contracture of 30° or more at the MCPJ or 20° at the PIPJ."
+- "Thumb contracture impairing function."
+- "Previously failed non-operative management."
+- "Rapidly progressive disease."
+
+If the threshold for surgery is NOT met (No): the pathway goes to a second decision diamond — "Diagnostic
+uncertainty?" / "Intolerably painful nodules and not trained to give cortisone injections?"
+  - If Yes to that: "If available, referral to community MSK service for confirmation of diagnosis +/-
+    steroid injection," which then rejoins the Referral-stage assessment box.
+  - If No: "Inject intolerably painful nodules with cortisone," then "Provision of BSSH approved patient
+    information and Primary Care contact details," then "Reassure tender nodules likely to become less
+    tender over time" — an exit point (no surgical referral).
+  There is also a separate exit from the "Threshold for surgery: No" branch to "Consider referral for
+  radiotherapy as part of local audit or research if available."
+
+If the threshold for surgery IS met (Yes): the pathway proceeds directly into Stage 2, "Hand surgery referral
+with full patient history."
+
+STAGE 2 — REFERRAL
+
+Box: "Hand surgery referral with full patient history," followed by "Provision of BSSH patient information"
+and a "Decision support tool" link.
+Decision diamond: "Any of: Contracture meets threshold for surgery. Persistent painful nodules."
+  - Yes leads into Stage 3.
+  - No loops back to the community-MSK-service referral box described above.
+
+STAGE 3 — SURGICAL REVIEW
+
+Box: "Assessment in clinic by/supervised by surgeon with appropriate training in Hand Surgery. Confirm
+diagnosis and that surgery is appropriate. Informed Consent process."
+Then: "Choice of procedure based on surgeon preference / patient factors / disease characteristics," which
+splits into two parallel paths:
+  - "Perform or list for percutaneous fasciotomy in OPD."
+  - "List for daycase surgery. Complete locally agreed pre-operative assessment processes."
+Both paths converge into Stage 4.
+
+STAGE 4 — OPERATIVE PROCEDURE
+
+"Admission on day of surgery" → "Reaffirmation of consent process" → "Surgery by or supervised by surgeon
+with appropriate training in Hand Surgery, sterile operating or approved procedures room, with field
+sterility." → "Advice given to patient: driving, analgesia, managing ADLs, range of movement exercises. Hand
+therapy referral as per locally agreed protocols."
+
+STAGE 5 — RECOVERY AND REHABILITATION
+
+"Nurse led discharge: As per local protocols, analgesia, elevation, follow-up arrangements" leads to a
+decision diamond that is not spelled out with a label beyond Yes/No branches:
+  - No → "Surgical review" (loops back into surgical review).
+  - Yes → "Provide patient with written information. Discharge from inpatient services."
+Then, "At 3–5 days post surgery": "Consider reducing/changing dressings, wound check, range of motion
+exercises and night splint."
+Then, "At 10–14 days post surgery": "Suture removal if required in Treatment room, Community Services or
+Primary Care as per local arrangements." Also: "Ongoing hand therapy/splint provision/scar management as
+required. Consider one virtual or face to face review with surgeon or Extended Scope Practitioner (locally
+agreed)."
+Final box: "Discharge with Patient Initiated Follow-up (PIFU)."
