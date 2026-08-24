@@ -544,7 +544,11 @@ def main():
     if shell_splash.exists():
         html = html.replace("__SPLASH__", shell_splash.read_text(encoding="utf-8").strip())
     if SOUND.exists():
-        html = html.replace("__SOUND__", SOUND.read_text(encoding="utf-8").strip())
+        # count=1: the template's sentinel check re-uses the literal "__SOUND__"
+        # token as its own "no sound configured" placeholder (app.template.html),
+        # so a blanket replace would clobber that comparison too and SOUND would
+        # always come out null even with real audio data in the first slot.
+        html = html.replace("__SOUND__", SOUND.read_text(encoding="utf-8").strip(), 1)
 
     OUT_HTML.write_text(html, encoding="utf-8")
 
