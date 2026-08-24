@@ -106,6 +106,9 @@ true-recurrence/extension conflation this study set out to resolve may have affe
 
 ## Conflicts with other sources
 
+**Directly extended by `qBx1dR5ZHy0`** (Sue's acellular dermal matrix talk) — that study tests whether this
+talk's confirmed 0%-true-recurrence-under-a-graft finding can be recreated with a sheet of AlloDerm placed
+over a standard fasciotomy wound bed, avoiding the need to remove and replace the overlying skin itself.
 **Directly extends the historical grafting rationale referenced across this library's surgical-technique
 talks** — this study is a modern, carefully defined re-test of Hueston's original "no recurrence under a
 graft" claim, distinguishing it methodologically from studies that don't separate true recurrence from

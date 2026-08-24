@@ -166,4 +166,8 @@ standard flat culture conditions, though it doesn't invalidate tissue-based or i
 studies specifically. **Extends the collagenase discussion in `9LY5fyLw618` and `OwSS6grbMAc`** — O'Gorman's
 reframing of collagenase as an ECM-targeting therapy, and his proposal to combine it with myofibroblast-
 targeted treatment, is a novel synthesis point connecting the mechanistic and clinical-trial threads in this
-library.
+library. **Directly relevant to `NjNR2dDZO4Q`** (van Beuge's Wnt pathway signals talk), which confirms WISP1's
+upregulation in actual nodule tissue but finds knocking it down in cultured nodule cells does not change
+fibrotic marker expression — a finding worth weighing against this talk's demonstration that WISP1 is robustly
+induced by mechanical stretch, together suggesting WISP1 may be a reliable disease/mechanical-loading marker
+whose direct causal contribution to the fibrotic phenotype is still unresolved.

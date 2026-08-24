@@ -118,7 +118,11 @@ injection approach is still moving into early-phase dose-ranging trial work, not
 
 ## Conflicts with other sources
 
-**Directly relevant to `doc6HW0c3RE`** (Moulin's tissue engineering talk) and `2Q5gm6FDZb0` (Clark's biomarkers
+**Directly relevant to `NjNR2dDZO4Q`** (van Beuge's Wnt pathway signals talk) — that talk independently
+identifies TGF-beta (rather than TNF) as sensitizing Dupuytren's fibroblasts to canonical Wnt/beta-catenin
+signaling, via downregulation of endogenous Wnt antagonists; together the two talks describe two distinct
+profibrotic pathways (TNF here, TGF-beta there) each converging on the same beta-catenin signaling node
+through different molecular routes. **Directly relevant to `doc6HW0c3RE`** (Moulin's tissue engineering talk) and `2Q5gm6FDZb0` (Clark's biomarkers
 talk) — both study cell-signaling and secreted-factor mechanisms in fibrotic tissue; this talk's TNF/TGF-beta
 divergence finding adds an important methodological caution (primary versus passaged culture) relevant to
 interpreting any cell-culture-based mechanistic claim elsewhere in this library. **Relevant to any note
