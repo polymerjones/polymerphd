@@ -91,6 +91,10 @@ The vagus is the principal parasympathetic pathway and the most accessible lever
 | **Trigeminal** | Cold on the face triggers a reflex arc to the brainstem | Cold water, cold air |
 | **Deep pressure** | Skin mechanoreceptors detecting sustained distributed compression send collaterals to the brainstem's autonomic integration centre | Weighted blanket, sustained embrace |
 | **Diaphragmatic** | The vagus passes directly through the diaphragm; each contraction stimulates it mechanically | Laughter — about five contractions per second |
+| **Visceral stretch** | Sensors lining the esophagus, stomach wall and peritoneum register the abdominal pressure swing of a deep breath — a separate stream from laryngeal vibration or laughter's shaking | Deep diaphragmatic (belly) breathing |
+| **Cervical, not vagal** | Suboccipital muscle spindles report position via cervical nerves that share the vagus's brainstem integration centre | Cupping the base of the skull, head tipped back |
+
+Full detail on the two newer rows, including the specific clinical evidence for the auricular branch, is in `topic_reference_07_VAGUS_AND_AUTONOMIC_REGULATION.md`.
 
 **Why the mechanical routes matter more than they appear to:** they work when cognition is unavailable. Breathing exercises require counting and sustained attention. Meditation requires a mind that will settle. Both fail precisely when distress has consumed the executive function they depend on. Vibration, pressure and reflex do not ask.
 
@@ -230,6 +234,30 @@ There it is absorbed by cytochrome c oxidase, the terminal enzyme of the respira
 The same wavelengths also trigger local **mitochondrial melatonin** synthesis — chemically the same molecule as the sleep hormone, but produced inside the cell, not released into the blood, and acting as a targeted antioxidant at exactly the site where energy production generates free radicals.
 
 **The design is self-protecting:** the light that accelerates energy output also triggers the synthesis of the molecule protecting the machinery from the damage that accelerated output creates. Indoor life does not stop the engine. It removes the maintenance system.
+
+## Mitochondrial biogenesis — the window that builds new capacity, not just repairs existing capacity
+
+Everything above concerns **quality control**: keeping existing mitochondria running and recycling the ones that fail. `e28MeRe_axE` describes a separate process — **building new ones** — and it is gated by a much narrower condition than exercise in general.
+
+**The population itself declines with age** — roughly 10% per decade in cross-sectional comparisons of young versus old muscle, though longitudinal tracking of the same active people over years shows a gentler slide, suggesting much of the apparent age effect is really the accumulated cost of moving less. Population is measurable by proxy: **citrate synthase** activity in a small muscle sample tracks mitochondrial number reliably enough to serve as a bench measurement.
+
+**The master switch is PGC-1 alpha**, a transcription factor that activates only when the cell senses a genuine energy shortfall — existing mitochondria failing to keep pace with demand. This produces a signal with an unusually narrow operating window:
+
+| Effort level | What happens to mitochondria |
+|---|---|
+| **Below the window** (an easy, well-adapted walk) | No strain reaches them. They coast, maintaining but not growing |
+| **Inside the window** (roughly 60–70% of max heart rate — the effort where a full sentence is possible but reluctantly so) | Fully committed, running at the edge of capacity, still the primary fuel supplier. PGC-1 alpha activates |
+| **Above the window** (a sprint, a hard interval) | Demand outruns what mitochondria can supply. Glycolysis — a faster but roughly **15-fold less fuel-efficient** emergency route — takes over instead, and the mitochondria are bypassed rather than strained |
+
+**The practical trap this creates:** a walk that once sat inside the window, once the body adapts to it, drifts below it — the same route, the same pace, quietly stops building new capacity even though it continues to deliver every other benefit walking provides (see `04_RESTORATIVE_PRACTICES.md`). Pushing harder does not fix this; it overshoots into the glycolytic zone, which produces its own real adaptations (stronger cardiac stroke volume, better lactate clearance) but not new mitochondrial mass, because the emergency route handles the demand without ever straining the existing population.
+
+**Field instruments for finding the window**, in increasing precision: the talk test (a full sentence is still possible but you'd rather not finish it); heart rate at roughly 60–70% of maximum (the 220-minus-age formula is only a crude opening guess); and blood lactate holding at or below roughly 2 mmol/L, the point where production and clearance still balance.
+
+**The timeline is slower than most people expect.** The first two to three weeks mostly tune the enzymes inside mitochondria that already exist — real, but not new mass. Genuinely new mitochondria, built by the mitochondrion's own DNA loop copying itself and the organelle elongating and dividing (**fission**), become measurable only around **weeks four to six**. A visibly denser population under microscopy takes **eight to twelve weeks** of steady, repeated sessions in the window. **Knowing this in advance matters practically** — the source notes explicitly that this is what kept them from abandoning the practice at the three-week mark, which is where earlier attempts had been quietly given up.
+
+**One consequence worth carrying forward:** the NAD-based electron shuttle feeding the first step of the respiratory chain thins with age, so each individual mitochondrion produces a little less over the years — a decline this mechanism does not reverse. But because total capacity depends on *how many* mitochondria are spreading that shortage, **building more of them is how the body partly answers a shortage it cannot otherwise fix.**
+
+**A hard boundary, stated explicitly in the source:** this signal is completely separate from the one that builds muscle protein, which requires mechanical tension from real load and answers to a different pathway entirely. Endurance-zone training expands energy-producing capacity; only resistance training against real load triggers muscle growth. Neither substitutes for the other.
 
 ---
 

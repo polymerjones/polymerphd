@@ -60,15 +60,17 @@ Variability between beats is the visible trace of that brake being modulated bre
 
 # 3. The routes in
 
-The corpus describes five anatomically distinct doors to the same brainstem nucleus. They are worth knowing separately, because they fail and succeed under different conditions.
+The corpus describes seven anatomically distinct doors to the same brainstem nucleus. They are worth knowing separately, because they fail and succeed under different conditions.
 
 | Route | Where it enters | Reached by |
 |---|---|---|
-| **The auricular branch** | The tragus of the outer ear — the only place a vagal branch surfaces in skin | Sustained tragal compression |
+| **The auricular branch** | The outer ear — the only place a vagal branch surfaces in skin, at the tragus and at the cymba concha shelf above the ear canal | Sustained tragal compression, or gentle circular pressure on the cymba concha |
 | **Pharyngeal and laryngeal branches** | The throat wall and vocal folds | Humming, singing, gargling |
 | **Pulmonary stretch receptors** | The lungs | Slow breathing, extended exhale, weight on the chest |
 | **The baroreflex** | Carotid and aortic pressure sensors | Extended exhale, sighing, muscular release, posture change |
 | **Thoracic mechanoreceptors** | Skin of the chest | Distributed weight, being held |
+| **Visceral stretch sensors** | The esophagus, stomach wall and peritoneal lining | Deep diaphragmatic (belly) breathing |
+| **Suboccipital muscle spindles** *(cervical, not vagal — converges at the same nucleus)* | The half-inch at the base of the skull | Cupping the neck, head tipped back |
 
 Plus one that is not the vagus but lands in the same place: **the trigeminal route**, via cold on the face.
 
@@ -84,6 +86,12 @@ A branch of the vagus surfaces in the cartilage of the outer ear closer to the s
 - **A throat tickle or an urge to cough is direct confirmation the nerve is active** — this is Arnold's ear-cough reflex, and it is a genuine anatomical marker rather than a coincidence.
 - **Pair it with resonant breathing at ~6 breaths per minute** (5 seconds in, 5 seconds out) — tonic input plus phasic input to the same nucleus. The video is careful here: **the combination is a physics-based prediction, not a measured result.**
 - **Discuss with a cardiologist first if you have an implanted pacemaker or defibrillator.**
+
+**A second video, `DpjVGHgdZug`, locates the surface branch more precisely** — not the tragus generally but a specific shelf of cartilage called the **cymba concha**, just above the ear canal entrance, mapped dissection by dissection by Pucker and Filler in *Clinical Anatomy*. This is also where the clinical evidence is cleanest in the whole file:
+
+> Transcutaneous stimulation there widens heart rate spacing and shifts circulating inflammation markers (Badran and colleagues, *Brain Stimulation*), and brain imaging from the same research shows **the nucleus of the solitary tract lighting up specifically when the cymba concha is stimulated, and staying quiet when the pulses move to the earlobe** — ordinary cervical-nerve skin, used deliberately as the trial's placebo site. "A centimetre away, the key stops turning."
+
+The source calls this the cleanest proof in the whole map: a light touch on cartilage changes almost nothing else in the body, so if that alone widens heart rate spacing, the listening cable is doing the work by itself — no breathing, no posture, no other mechanical accomplice. **What it feels like from the inside is subtraction, not a surge** — the jaw unclenching a degree, the breath dropping lower, "a room becoming slightly quieter without a single sound changing." And the source is explicit that while the anatomy and the direction of the clinical effect are established, the ideal pressure, rhythm and duration for a bare fingertip rather than an electrode are **still being worked out** — a claimed proven finger protocol is running ahead of the evidence.
 
 ## 3.2 The throat — humming and singing
 
@@ -114,6 +122,8 @@ Three cycles rather than one because the responses build cumulatively and overla
 - **Before bed, sitting on the edge of the bed, eyes closed** is the highest-value slot.
 
 The video is explicit about who this is for: **people for whom meditation and counted breathing have failed.** Humming needs no counting, no sustained attention, and no belief.
+
+**Why the throat route works mechanically, not just acoustically** (`DpjVGHgdZug`): the vagus's own motor line to the vocal cords is the **recurrent laryngeal nerve**, which loops down past the voice box, under a chest artery, and back up. Ordinary speech gives it "chopped, irregular" output shaped by grammar; a sustained hum turns it into continuous, driven vibration — and because sound only happens on the exhale, a held note is by necessity a long, slow exhale, so **the vibration door and the breath door open on the same note.** The larynx also carries its own vagal sensory endings that register the vibration as it happens, so the same nerve that generates the signal has a sensory branch that feels it — a closed loop the video is explicit is "an assembly this map proposes rather than a finding any single laboratory has certified."
 
 **Singing** (`E-7nvQbmmgc`) is the same mechanism at higher intensity and with additions the solo practice cannot supply:
 
@@ -199,6 +209,24 @@ No counting, no app, no equipment, no closed eyes, no quieted mind.
 
 **A related observation worth carrying:** crying, laughing, breath-holding and yawning each disrupt normal tidal breathing and accelerate alveolar collapse — and each is followed by an involuntary sigh. So *"the sigh after laughter is not contentment. The sigh after crying is not residual sadness. The sigh after a breath hold is not relief."* All three are the same brainstem reset.
 
+## 3.6 The belly — diaphragmatic pressure, not diaphragmatic vibration
+
+`DpjVGHgdZug` describes a route distinct from the laughter-driven diaphragmatic *vibration* covered in `03_BIOLOGICAL_MECHANISMS.md` — this one is **pressure**, not shaking.
+
+Most adult breathing barely moves the diaphragm: desk posture, waistbands and habitual belly-holding confine it to a fraction of its range. A deliberately deep, belly-led breath roughly doubles diaphragm travel and swings abdominal pressure by **5–20 cm of water** per cycle — "enough pressure to lift a column of water the length of your hand, applied softly to everything in the belly once every few seconds."
+
+Vagal stretch sensors lining the esophagus, stomach wall and the peritoneal membrane — the same sensors that report a full stomach after a meal — register that rhythmic pressure wave as its own stream into the nucleus of the solitary tract, mechanical where the breath-rhythm route (3 above) is respiratory. **One deep breath therefore writes the calm signal through two doors at once**, and there is a structural bonus: the vagus's two main trunks physically pass through the diaphragm's own opening on their way to the stomach, so the muscle moves around the nerve it is signalling through with every cycle.
+
+## 3.7 The base of the skull — position, not breath or touch
+
+`DpjVGHgdZug` names a fourth door that is stranger than the rest because **it does not use the vagus to get in.**
+
+The suboccipital muscles at the base of the skull carry an exceptional density of muscle spindles — roughly 36 per gram of tissue, "dozens of times beyond the big muscles of the hip" — because they continuously steer the platform the eyes and inner ear ride on. **Cupping a palm over that hollow, head tipped back a few degrees, takes weight off those muscles**, and their signal output shifts "from strain readings to the steady low-level report of tissue at rest under warm familiar pressure."
+
+That signal travels on **cervical spinal nerves**, not the vagus — but those nerves have their own separate brainstem entrance, and part of their traffic still terminates at the same nucleus of the solitary tract. This is the glossopharyngeal-nerve arrangement noted in section 1 paying off a second time: the room was built to accept mail from more than one carrier.
+
+This route has an unusual double life in the corpus. `topic_reference_04_SPINE_POSTURE_AND_CONNECTIVE_TISSUE.md` and section 5 below describe the *same half-inch of tissue* going wrong — forward head posture loading these muscles into sustained near-ischemic contraction, degrading the signal that reaches the brainstem. The instinctive hand cupping the back of the neck during a hard moment is the opposite condition, deliberately created: weight *off* the muscles rather than sustained tension *on* them. **The gesture people already make under stress is the correct direction to apply to a structure that is more often described here as a problem than as a doorway.**
+
 ---
 
 # 4. Two practices that reach it through muscle
@@ -250,7 +278,7 @@ The reason the corpus returns to this nerve so often is that autonomic capacity 
 - **Vagal tone declines**, so the brake holding the sinoatrial node down has less force.
 - **HRV falls**, and it falls without producing a symptom.
 - **Sinus ostia narrow**, reducing baseline nitric oxide ventilation — which is why the humming protocol has a restorative rather than an additive framing.
-- **Postural change compounds it.** `QSBLYfC95AA` describes forward head posture loading the suboccipital muscles — which sit directly over the passage carrying the vagus out of the skull. Sustained isometric contraction beyond about 30 seconds compresses the capillaries inside the muscle, and the ergonomic threshold for ischemia is around 15% of maximum voluntary capacity. These muscles work far above that. **The tension is the symptom; the degraded brainstem-to-organ signal is the consequence.**
+- **Postural change compounds it.** `QSBLYfC95AA` describes forward head posture loading the suboccipital muscles — which sit directly over the passage carrying the vagus out of the skull. Sustained isometric contraction beyond about 30 seconds compresses the capillaries inside the muscle, and the ergonomic threshold for ischemia is around 15% of maximum voluntary capacity. These muscles work far above that. **The tension is the symptom; the degraded brainstem-to-organ signal is the consequence.** See 3.7 for the same tissue described as a deliberate doorway rather than a chronic injury site — the direction of relief is simply weight taken off rather than added.
 
 The framing that runs through all of it: **these practices do not add a capacity the body never had. They restore an input the body used to receive from ordinary life** — from physical activity, from vocal use, from being touched, from unobstructed breathing — and that sedentary indoor life progressively removed.
 
@@ -306,6 +334,8 @@ All of these reach the same brainstem. They differ in speed, in what they requir
 | **Weighted blanket** | 5–10 min | **Yes — requires nothing at all** | Runs all night; pre-loads against the 3 a.m. spike |
 | **Resonant breathing at 6/min** | 5 min | Requires some attention | Pairs with tragal compression |
 | **Singing with others** | Weekly | — | Cardiac entrainment and oxytocin that solo practice cannot supply |
+| **Deep belly breathing** | A few minutes | Yes | Doubles as door 3 (respiratory) and a distinct visceral-pressure route at once |
+| **Cupping the neck, head tipped back** | A few minutes | Yes | The instinctive stress gesture; not vagal, but reaches the same nucleus |
 
 **The reason there are so many is the reason they are worth having.** Every one of these was designed around the same problem: the techniques that require a calm mind stop working at exactly the moment a calm mind is unavailable. Every practice above bypasses the cortex.
 

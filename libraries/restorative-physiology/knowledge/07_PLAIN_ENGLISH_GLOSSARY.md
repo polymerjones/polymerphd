@@ -20,6 +20,8 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 **Adenosine triphosphate (ATP)** — the universal energy currency of every cell. Breaking one of its phosphate bonds releases the energy that powers muscle contraction, nerve firing, protein synthesis and every other cellular process. The reaction is roughly 40% efficient; the remaining 60% becomes heat.
 
+**Adiponectin** — a protective hormone released by fat cells that keeps muscle and liver sensitive to insulin. Small fat cells release it generously; as fat cells enlarge past a certain size they outgrow their own blood supply and produce steadily less of it, which is part of why weight gain itself makes insulin resistance worse over time.
+
 **Adrenaline (epinephrine) and noradrenaline (norepinephrine)** — the catecholamines released by the adrenal glands during acute stress. They raise heart rate, blood pressure and alertness. At extreme concentrations they become directly toxic to cardiac muscle.
 
 **Advanced glycation end products (AGEs)** — permanent cross-links formed when glucose binds non-enzymatically to proteins. They stiffen ageing collagen, making arteries rigid, joints less pliable and the lens of the eye less clear. Once formed they are not easily removed.
@@ -43,6 +45,8 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 **Arrhenius equation** — describes how reaction rates and fluid properties change with temperature, exponentially rather than proportionally. It explains why synovial fluid thickens sharply in cold, why chemistry runs faster when warm, and why hypothermia both stops shivering and protects the brain.
 
 **Articular cartilage** — the smooth resilient tissue capping bone ends inside joints. It has no blood supply and no nerve endings. It is fed entirely by fluid moving in and out under alternating compression, and it acts as insulation between mechanical events and the pain-sensitive bone beneath.
+
+**Auricular branch (of the vagus)** — the only place the vagus nerve reaches the skin's surface, at a small shelf of ear cartilage called the cymba concha, just above the ear canal entrance. Gentle pressure there is a genuine, measurable route into the same brainstem circuit reached by breath and touch elsewhere in the body.
 
 **Autophagy** — the cell's recycling programme. It identifies damaged components, engulfs them in a membrane sac, delivers them for breakdown and reuses the parts. It is suppressed while nutrients are abundant and released when they are not.
 
@@ -164,7 +168,7 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 **Geosmin** — the molecule that gives soil and rain their earthy smell, released when *Streptomyces* bacteria die. Humans detect it at five parts per trillion.
 
-**Ghrelin and leptin** — the hormones signalling hunger and fullness. Sleep loss raises ghrelin and lowers leptin.
+**Ghrelin and leptin** — the hormones signalling hunger and fullness. Sleep loss raises ghrelin and lowers leptin. Leptin is made by fat cells in proportion to their size and is read by the hypothalamus as a report of how full the body's fat stores are; years of elevated weight cause the hypothalamic receptors to grow less responsive to it (leptin resistance), so hunger can persist even when fat stores are objectively full.
 
 **Glucocorticoid receptors** — the binding sites for cortisol, present in nearly every tissue. Under chronic elevation they downregulate, which is why long-term stress produces both low resting cortisol and exaggerated reactivity.
 
@@ -181,6 +185,8 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 ## H
 
 **Haemoglobin** — the four-part protein in red blood cells that carries oxygen. Loading oxygen and delivering it are separate problems; a full load means nothing if it is not released.
+
+**Hallux valgus** — the medical name for the bump beside the big toe, from the Latin for "the big toe turning away from the midline." It describes a joint dislocated in angle, not new bone growth: the toe drifts toward its neighbours while the long bone behind it drifts the opposite way, exposing the joint head under the skin. Once the tendons' line of pull shifts with the joint, they begin actively pulling it further off course with every step.
 
 **Heart rate variability (HRV)** — the beat-to-beat variation in the intervals between heartbeats. High variability indicates a flexible, well-regulated system; low variability indicates sympathetic dominance and predicts cardiovascular events.
 
@@ -240,7 +246,7 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 ## M
 
-**Macular pigment** — a yellow filter of lutein and zeaxanthin in front of the central retina, absorbing blue light before it reaches the photoreceptors. It comes entirely from diet.
+**Macular pigment** — a yellow filter of lutein, zeaxanthin and meso-zeaxanthin in front of the central retina, absorbing blue light before it reaches the photoreceptors. Lutein and zeaxanthin come entirely from diet (dark leafy greens, egg yolk, orange produce); meso-zeaxanthin has almost no dietary source and is instead made on site by an eye enzyme that also regenerates visual pigment, converting a small amount of the lutein already delivered by food. Denser pigment correlates with faster recovery from glare — how quickly vision returns after an oncoming headlight — and the filter is built molecule by molecule over months, not days.
 
 **Major histocompatibility complex (MHC/HLA)** — the gene cluster determining immune self-recognition and transplant compatibility. It also produces a volatile scent signature nearly unique to each person, which the nose reads below awareness.
 
@@ -260,7 +266,7 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 **Mirror neuron system** — circuitry that fires both when you perform an action and when you watch someone else perform it. It underlies contagious yawning and laughter, and it is the basis of mirror therapy for phantom limb pain.
 
-**Mitochondria** — the cell's power plants, and originally free-living bacteria incorporated about 1.5 billion years ago. They retain their own DNA and their own membranes.
+**Mitochondria** — the cell's power plants, and originally free-living bacteria incorporated about 1.5 billion years ago. They retain their own DNA and their own membranes. Population falls with age and with disuse, but new ones can still be built (mitochondrial biogenesis) — a separate process from maintaining existing ones, gated by PGC-1 alpha and triggered only within a narrow window of sustained effort.
 
 **mTOR** — the cell's nutrient sensor and the master switch for building new muscle protein. When active it prioritises growth and suppresses repair; when it deactivates, autophagy is released. For muscle it behaves as a lock taking two keys at once — one chemical, cut from dietary protein, and one structural, cut only by tension near the fibre's limit. Either key turned alone leaves the lock unmoved.
 
@@ -314,6 +320,8 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 
 **Petrichor** — the smell of rain on dry earth, named in 1964 from the Greek for stone and the blood of the gods.
 
+**PGC-1 alpha** — the master switch that triggers a cell to build new mitochondria. It activates only when existing mitochondria can no longer keep pace with sustained energy demand — an effort level held too gently coasts under the threshold, and effort pushed too hard overshoots into a faster, much less efficient fuel route that bypasses mitochondria entirely rather than straining them.
+
 **Photobiomodulation** — the use of red and near-infrared light to increase cellular energy output and blood flow by acting on cytochrome c oxidase.
 
 **Phytoncides** — antimicrobial compounds released by trees, principally alpha-pinene and beta-pinene. Inhaled, they raise natural killer cell activity for days.
@@ -335,6 +343,8 @@ If a term appears in another file and you want the fuller treatment, `03_BIOLOGI
 ## R
 
 **Reactive hyperemia** — the surge of blood into a region after a period of restricted flow.
+
+**Resistin** — a hormone released by fat cells that directly blunts insulin sensitivity, rising as fat cells enlarge just as adiponectin (its protective opposite) falls. The two together are part of why weight gain compounds its own effect on blood sugar control.
 
 **Rayleigh scattering** — the scattering of light by air molecules, proportional to the inverse fourth power of wavelength. Blue scatters about nine times more than red, which is why the sky is blue and sunsets are not.
 
