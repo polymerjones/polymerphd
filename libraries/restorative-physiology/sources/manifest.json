@@ -69,6 +69,23 @@
       }
     },
     {
+      "id": "xKz0XJw79R8",
+      "kind": "youtube",
+      "title": "Can Cremation Destroy Your DNA?",
+      "url": "https://www.youtube.com/watch?v=xKz0XJw79R8",
+      "upload_date": "2026-02-25",
+      "duration_seconds": 1574,
+      "duration": "26:14",
+      "word_count": 3932,
+      "clean_file": "clean/xKz0XJw79R8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1574
+      }
+    },
+    {
       "id": "sBNDNOU1VH8",
       "kind": "youtube",
       "title": "Can Love Be Explained? — The Science Nobody Talks About",
@@ -86,6 +103,23 @@
       }
     },
     {
+      "id": "liSEa7clRlg",
+      "kind": "youtube",
+      "title": "Can Machines THINK? - Richard Feynman",
+      "url": "https://www.youtube.com/watch?v=liSEa7clRlg",
+      "upload_date": "2026-02-12",
+      "duration_seconds": 1305,
+      "duration": "21:45",
+      "word_count": 3533,
+      "clean_file": "clean/liSEa7clRlg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1305
+      }
+    },
+    {
       "id": "LKAxXiiY7Kg",
       "kind": "youtube",
       "title": "Can Suppressing Tears Actually Harm You?",
@@ -100,6 +134,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1895
+      }
+    },
+    {
+      "id": "dAEsOqnMsyc",
+      "kind": "youtube",
+      "title": "Can the Same Pattern of Atoms Create YOU Again? — The Physics of Identity",
+      "url": "https://www.youtube.com/watch?v=dAEsOqnMsyc",
+      "upload_date": "2026-02-20",
+      "duration_seconds": 1539,
+      "duration": "25:39",
+      "word_count": 4020,
+      "clean_file": "clean/dAEsOqnMsyc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1539
       }
     },
     {
@@ -137,6 +188,74 @@
       }
     },
     {
+      "id": "GYHJYZgnW3U",
+      "kind": "youtube",
+      "title": "Can You Think Without a Brain?",
+      "url": "https://www.youtube.com/watch?v=GYHJYZgnW3U",
+      "upload_date": "2026-02-19",
+      "duration_seconds": 1221,
+      "duration": "20:21",
+      "word_count": 3154,
+      "clean_file": "clean/GYHJYZgnW3U.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1221
+      }
+    },
+    {
+      "id": "7EgV7ms7xTU",
+      "kind": "youtube",
+      "title": "Can Your Memories Survive DE*TH? — Physics Has The Answer",
+      "url": "https://www.youtube.com/watch?v=7EgV7ms7xTU",
+      "upload_date": "2026-03-08",
+      "duration_seconds": 1418,
+      "duration": "23:38",
+      "word_count": 3404,
+      "clean_file": "clean/7EgV7ms7xTU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1418
+      }
+    },
+    {
+      "id": "3b1Tj0SbPYI",
+      "kind": "youtube",
+      "title": "Cremation vs. Burial — Which Returns You to the Universe Faster?",
+      "url": "https://www.youtube.com/watch?v=3b1Tj0SbPYI",
+      "upload_date": "2026-02-21",
+      "duration_seconds": 1571,
+      "duration": "26:11",
+      "word_count": 3910,
+      "clean_file": "clean/3b1Tj0SbPYI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1571
+      }
+    },
+    {
+      "id": "OCOdeRfhYUE",
+      "kind": "youtube",
+      "title": "Death May Be a Misunderstanding — What Relativity Actually Says",
+      "url": "https://www.youtube.com/watch?v=OCOdeRfhYUE",
+      "upload_date": "2026-03-18",
+      "duration_seconds": 1611,
+      "duration": "26:51",
+      "word_count": 4204,
+      "clean_file": "clean/OCOdeRfhYUE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1611
+      }
+    },
+    {
       "id": "rRStxBEUE1A",
       "kind": "youtube",
       "title": "Doing Nothing Is the Most EXHAUSTING Thing Your Body Does",
@@ -151,6 +270,57 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1681
+      }
+    },
+    {
+      "id": "sP_6mtYPcVY",
+      "kind": "youtube",
+      "title": "Feynman Explains Why Time Only Moves Forward",
+      "url": "https://www.youtube.com/watch?v=sP_6mtYPcVY",
+      "upload_date": "2026-02-17",
+      "duration_seconds": 1007,
+      "duration": "16:47",
+      "word_count": 2761,
+      "clean_file": "clean/sP_6mtYPcVY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1007
+      }
+    },
+    {
+      "id": "7Id25KkupFo",
+      "kind": "youtube",
+      "title": "Feynman's Last Message to the World",
+      "url": "https://www.youtube.com/watch?v=7Id25KkupFo",
+      "upload_date": "2026-02-19",
+      "duration_seconds": 1392,
+      "duration": "23:12",
+      "word_count": 3882,
+      "clean_file": "clean/7Id25KkupFo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1392
+      }
+    },
+    {
+      "id": "T7QkjKjVfcc",
+      "kind": "youtube",
+      "title": "Feynman's PROOF Earth's Core Is NOT A Magnet",
+      "url": "https://www.youtube.com/watch?v=T7QkjKjVfcc",
+      "upload_date": "2026-02-14",
+      "duration_seconds": 1307,
+      "duration": "21:47",
+      "word_count": 3350,
+      "clean_file": "clean/T7QkjKjVfcc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1307
       }
     },
     {
@@ -205,6 +375,23 @@
       }
     },
     {
+      "id": "EvBgcC5Ps_g",
+      "kind": "youtube",
+      "title": "How Quantum Mechanics Makes Life Possible",
+      "url": "https://www.youtube.com/watch?v=EvBgcC5Ps_g",
+      "upload_date": "2026-02-16",
+      "duration_seconds": 1288,
+      "duration": "21:28",
+      "word_count": 3274,
+      "clean_file": "clean/EvBgcC5Ps_g.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1288
+      }
+    },
+    {
       "id": "rUbioJP1KCM",
       "kind": "youtube",
       "title": "If You Have Type O Blood — Here's What YOUR Cells Never Built",
@@ -256,6 +443,40 @@
       }
     },
     {
+      "id": "IrsNj9rADqA",
+      "kind": "youtube",
+      "title": "Interstellar Travel Is IMPOSSIBLE — The Math Proves It",
+      "url": "https://www.youtube.com/watch?v=IrsNj9rADqA",
+      "upload_date": "2026-02-13",
+      "duration_seconds": 1178,
+      "duration": "19:38",
+      "word_count": 3057,
+      "clean_file": "clean/IrsNj9rADqA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1178
+      }
+    },
+    {
+      "id": "q_J8LrPOjoY",
+      "kind": "youtube",
+      "title": "Is Water the Most Dangerous Molecule on Earth?",
+      "url": "https://www.youtube.com/watch?v=q_J8LrPOjoY",
+      "upload_date": "2026-03-01",
+      "duration_seconds": 1630,
+      "duration": "27:10",
+      "word_count": 4026,
+      "clean_file": "clean/q_J8LrPOjoY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1630
+      }
+    },
+    {
       "id": "nFA2-ICtphg",
       "kind": "youtube",
       "title": "Only 2% of People Know This About Eating",
@@ -270,6 +491,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1575
+      }
+    },
+    {
+      "id": "zMgHxkfScqQ",
+      "kind": "youtube",
+      "title": "ONLY Feynman Can Explain What a THOUGHT Actually Is",
+      "url": "https://www.youtube.com/watch?v=zMgHxkfScqQ",
+      "upload_date": "2026-02-06",
+      "duration_seconds": 1100,
+      "duration": "18:20",
+      "word_count": 2914,
+      "clean_file": "clean/zMgHxkfScqQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1100
       }
     },
     {
@@ -290,6 +528,23 @@
       }
     },
     {
+      "id": "DpjVGHgdZug",
+      "kind": "youtube",
+      "title": "Press This One Spot to Reset YOUR Nervous System in Seconds",
+      "url": "https://www.youtube.com/watch?v=DpjVGHgdZug",
+      "upload_date": "2026-08-20",
+      "duration_seconds": 1474,
+      "duration": "24:34",
+      "word_count": 4332,
+      "clean_file": "clean/DpjVGHgdZug.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1474
+      }
+    },
+    {
       "id": "3Ky1YtmNFZM",
       "kind": "youtube",
       "title": "Rain Does Something to Your Brain That No Sleep Aid Can",
@@ -304,6 +559,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1857
+      }
+    },
+    {
+      "id": "nK8wsFFuEaY",
+      "kind": "youtube",
+      "title": "Richard Feynman's PROOF That Magnets Do NOT Attract",
+      "url": "https://www.youtube.com/watch?v=nK8wsFFuEaY",
+      "upload_date": "2026-02-11",
+      "duration_seconds": 1105,
+      "duration": "18:25",
+      "word_count": 2954,
+      "clean_file": "clean/nK8wsFFuEaY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1105
       }
     },
     {
@@ -681,6 +953,23 @@
       }
     },
     {
+      "id": "NUzrRI_V3lU",
+      "kind": "youtube",
+      "title": "The Illusion of Free Will Explained by Feynman",
+      "url": "https://www.youtube.com/watch?v=NUzrRI_V3lU",
+      "upload_date": "2026-02-15",
+      "duration_seconds": 1259,
+      "duration": "20:59",
+      "word_count": 3332,
+      "clean_file": "clean/NUzrRI_V3lU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1259
+      }
+    },
+    {
       "id": "5NoC-mvYSHo",
       "kind": "youtube",
       "title": "The Jaw Muscle That's Been Tightening YOUR Skull Since 8AM",
@@ -780,6 +1069,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1462
+      }
+    },
+    {
+      "id": "l0daW72898A",
+      "kind": "youtube",
+      "title": "The Organ Inside You That Fights Back When You Lose Weight",
+      "url": "https://www.youtube.com/watch?v=l0daW72898A",
+      "upload_date": "2026-08-25",
+      "duration_seconds": 1427,
+      "duration": "23:47",
+      "word_count": 4345,
+      "clean_file": "clean/l0daW72898A.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1427
       }
     },
     {
@@ -953,6 +1259,23 @@
       }
     },
     {
+      "id": "GviiD1a4bbM",
+      "kind": "youtube",
+      "title": "The SOUND Your Atoms Make — Why Everything Vibrates at Absolute Zero",
+      "url": "https://www.youtube.com/watch?v=GviiD1a4bbM",
+      "upload_date": "2026-02-22",
+      "duration_seconds": 1256,
+      "duration": "20:56",
+      "word_count": 3178,
+      "clean_file": "clean/GviiD1a4bbM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1256
+      }
+    },
+    {
       "id": "dJ3tdZF5-t0",
       "kind": "youtube",
       "title": "The Switch Inside Your Cells That Flips at 16 Hours Fast",
@@ -984,6 +1307,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1554
+      }
+    },
+    {
+      "id": "EfZ7pc0Eci8",
+      "kind": "youtube",
+      "title": "The Universe Is Broken - That's Why You Exist",
+      "url": "https://www.youtube.com/watch?v=EfZ7pc0Eci8",
+      "upload_date": "2026-02-02",
+      "duration_seconds": 1282,
+      "duration": "21:22",
+      "word_count": 3069,
+      "clean_file": "clean/EfZ7pc0Eci8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1282
       }
     },
     {
@@ -1154,6 +1494,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1734
+      }
+    },
+    {
+      "id": "fdFsDiQFTFs",
+      "kind": "youtube",
+      "title": "What a FLAME Actually Is?",
+      "url": "https://www.youtube.com/watch?v=fdFsDiQFTFs",
+      "upload_date": "2026-02-24",
+      "duration_seconds": 1470,
+      "duration": "24:30",
+      "word_count": 3760,
+      "clean_file": "clean/fdFsDiQFTFs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1470
       }
     },
     {
@@ -1463,6 +1820,40 @@
       }
     },
     {
+      "id": "z8O6eIOOfEo",
+      "kind": "youtube",
+      "title": "What Happens to Your ATOMS After You're Cremated? — Feynman's Physics of Death",
+      "url": "https://www.youtube.com/watch?v=z8O6eIOOfEo",
+      "upload_date": "2026-02-04",
+      "duration_seconds": 1427,
+      "duration": "23:47",
+      "word_count": 3836,
+      "clean_file": "clean/z8O6eIOOfEo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1427
+      }
+    },
+    {
+      "id": "Fm5dlA2MMbY",
+      "kind": "youtube",
+      "title": "What Happens to Your Atoms in a Nuclear Blast? — Feynman Explains",
+      "url": "https://www.youtube.com/watch?v=Fm5dlA2MMbY",
+      "upload_date": "2026-02-26",
+      "duration_seconds": 1332,
+      "duration": "22:12",
+      "word_count": 3419,
+      "clean_file": "clean/Fm5dlA2MMbY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1332
+      }
+    },
+    {
       "id": "0fM-Q3jiQMw",
       "kind": "youtube",
       "title": "What Happens to Your Atoms When You Get Old?",
@@ -1545,6 +1936,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1700
+      }
+    },
+    {
+      "id": "EJkFixZIlsw",
+      "kind": "youtube",
+      "title": "What Happens to Your Body in the First 72 Hours After Death",
+      "url": "https://www.youtube.com/watch?v=EJkFixZIlsw",
+      "upload_date": "2026-02-22",
+      "duration_seconds": 2692,
+      "duration": "44:52",
+      "word_count": 6596,
+      "clean_file": "clean/EJkFixZIlsw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2692
       }
     },
     {
@@ -1854,6 +2262,23 @@
       }
     },
     {
+      "id": "MEDNsDnQUZM",
+      "kind": "youtube",
+      "title": "What Happens When Space-Time Bends? — Feynman on Gravity",
+      "url": "https://www.youtube.com/watch?v=MEDNsDnQUZM",
+      "upload_date": "2026-02-18",
+      "duration_seconds": 1198,
+      "duration": "19:58",
+      "word_count": 3140,
+      "clean_file": "clean/MEDNsDnQUZM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1198
+      }
+    },
+    {
       "id": "2CZxrB1kiT0",
       "kind": "youtube",
       "title": "What Happens When You Look at the Night Sky",
@@ -1885,6 +2310,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1830
+      }
+    },
+    {
+      "id": "NAFhLOuL3Qs",
+      "kind": "youtube",
+      "title": "What If You Fell Into a Black Hole?",
+      "url": "https://www.youtube.com/watch?v=NAFhLOuL3Qs",
+      "upload_date": "2026-02-07",
+      "duration_seconds": 1328,
+      "duration": "22:08",
+      "word_count": 3510,
+      "clean_file": "clean/NAFhLOuL3Qs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1328
       }
     },
     {
@@ -1973,6 +2415,23 @@
       }
     },
     {
+      "id": "eOOEmX-m-Ac",
+      "kind": "youtube",
+      "title": "What That Bump Beside YOUR Big Toe Actually Is",
+      "url": "https://www.youtube.com/watch?v=eOOEmX-m-Ac",
+      "upload_date": "2026-08-23",
+      "duration_seconds": 1432,
+      "duration": "23:52",
+      "word_count": 4341,
+      "clean_file": "clean/eOOEmX-m-Ac.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1432
+      }
+    },
+    {
       "id": "W7b9RlMo-ro",
       "kind": "youtube",
       "title": "What Those Nail Ridges Reveal About How YOU Age",
@@ -2021,6 +2480,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1672
+      }
+    },
+    {
+      "id": "VS4TD9BcVKo",
+      "kind": "youtube",
+      "title": "What Your Dreams Say About Reality Itself",
+      "url": "https://www.youtube.com/watch?v=VS4TD9BcVKo",
+      "upload_date": "2026-02-16",
+      "duration_seconds": 1186,
+      "duration": "19:46",
+      "word_count": 3280,
+      "clean_file": "clean/VS4TD9BcVKo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1186
       }
     },
     {
@@ -2109,6 +2585,74 @@
       }
     },
     {
+      "id": "2On4u6pNnaU",
+      "kind": "youtube",
+      "title": "Where Do Trees Come From? - Richard Feynman",
+      "url": "https://www.youtube.com/watch?v=2On4u6pNnaU",
+      "upload_date": "2026-03-01",
+      "duration_seconds": 1767,
+      "duration": "29:27",
+      "word_count": 4467,
+      "clean_file": "clean/2On4u6pNnaU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1767
+      }
+    },
+    {
+      "id": "P6xIOcV1siw",
+      "kind": "youtube",
+      "title": "Where Do You GO After You Stop Being Alive?",
+      "url": "https://www.youtube.com/watch?v=P6xIOcV1siw",
+      "upload_date": "2026-02-18",
+      "duration_seconds": 1223,
+      "duration": "20:23",
+      "word_count": 3165,
+      "clean_file": "clean/P6xIOcV1siw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1223
+      }
+    },
+    {
+      "id": "EKXCuqE2QRk",
+      "kind": "youtube",
+      "title": "Where Does Consciousness Go After Death?",
+      "url": "https://www.youtube.com/watch?v=EKXCuqE2QRk",
+      "upload_date": "2026-02-20",
+      "duration_seconds": 1664,
+      "duration": "27:44",
+      "word_count": 4147,
+      "clean_file": "clean/EKXCuqE2QRk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1664
+      }
+    },
+    {
+      "id": "VwRgijBm6kk",
+      "kind": "youtube",
+      "title": "Where Does YOUR ENERGY Go When You Die? - Physics Has The Answer",
+      "url": "https://www.youtube.com/watch?v=VwRgijBm6kk",
+      "upload_date": "2026-02-28",
+      "duration_seconds": 1512,
+      "duration": "25:12",
+      "word_count": 3819,
+      "clean_file": "clean/VwRgijBm6kk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1512
+      }
+    },
+    {
       "id": "Adh1myK3_CE",
       "kind": "youtube",
       "title": "Where Should You Spend 30 Minutes Every Month",
@@ -2123,6 +2667,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1889
+      }
+    },
+    {
+      "id": "0w7xf-HSG6o",
+      "kind": "youtube",
+      "title": "Where Your Body Goes After Burial — 100 Years in 30 Minutes",
+      "url": "https://www.youtube.com/watch?v=0w7xf-HSG6o",
+      "upload_date": "2026-03-21",
+      "duration_seconds": 1864,
+      "duration": "31:04",
+      "word_count": 4363,
+      "clean_file": "clean/0w7xf-HSG6o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1864
       }
     },
     {
@@ -2296,6 +2857,23 @@
       }
     },
     {
+      "id": "93RkAyNoz9A",
+      "kind": "youtube",
+      "title": "Why Consciousness is a Quantum Phenomenon?",
+      "url": "https://www.youtube.com/watch?v=93RkAyNoz9A",
+      "upload_date": "2026-02-24",
+      "duration_seconds": 1429,
+      "duration": "23:49",
+      "word_count": 3548,
+      "clean_file": "clean/93RkAyNoz9A.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1429
+      }
+    },
+    {
       "id": "7KL3oOYTByM",
       "kind": "youtube",
       "title": "Why Cutting ALL Fat Is Starving YOUR Brain",
@@ -2381,6 +2959,23 @@
       }
     },
     {
+      "id": "DFAaQcTZUsg",
+      "kind": "youtube",
+      "title": "Why Does Your Compass NEVER Point East?",
+      "url": "https://www.youtube.com/watch?v=DFAaQcTZUsg",
+      "upload_date": "2026-02-08",
+      "duration_seconds": 1278,
+      "duration": "21:18",
+      "word_count": 3383,
+      "clean_file": "clean/DFAaQcTZUsg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1278
+      }
+    },
+    {
       "id": "OUln7rLXg3M",
       "kind": "youtube",
       "title": "Why Eating Once a Day Helps YOUR Gut but Costs YOUR Muscle",
@@ -2395,6 +2990,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1634
+      }
+    },
+    {
+      "id": "HdSzogi-x3w",
+      "kind": "youtube",
+      "title": "Why Electricity Doesn't Flow Through Wires?",
+      "url": "https://www.youtube.com/watch?v=HdSzogi-x3w",
+      "upload_date": "2026-03-02",
+      "duration_seconds": 1568,
+      "duration": "26:08",
+      "word_count": 4099,
+      "clean_file": "clean/HdSzogi-x3w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1568
+      }
+    },
+    {
+      "id": "hHTVbWELwqY",
+      "kind": "youtube",
+      "title": "Why ELECTRONS Don't Fall Into the Nucleus",
+      "url": "https://www.youtube.com/watch?v=hHTVbWELwqY",
+      "upload_date": "2026-02-23",
+      "duration_seconds": 1286,
+      "duration": "21:26",
+      "word_count": 3226,
+      "clean_file": "clean/hHTVbWELwqY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1286
       }
     },
     {
@@ -2446,6 +3075,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1935
+      }
+    },
+    {
+      "id": "9e9APoYO2MU",
+      "kind": "youtube",
+      "title": "Why Is There Something Rather Than Nothing?",
+      "url": "https://www.youtube.com/watch?v=9e9APoYO2MU",
+      "upload_date": "2026-03-18",
+      "duration_seconds": 1762,
+      "duration": "29:22",
+      "word_count": 4473,
+      "clean_file": "clean/9e9APoYO2MU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1762
+      }
+    },
+    {
+      "id": "8Srl8GL_nbY",
+      "kind": "youtube",
+      "title": "Why It Feels Like Part of YOU Didn't Come Back After Anaesthesia",
+      "url": "https://www.youtube.com/watch?v=8Srl8GL_nbY",
+      "upload_date": "2026-08-24",
+      "duration_seconds": 1378,
+      "duration": "22:58",
+      "word_count": 4253,
+      "clean_file": "clean/8Srl8GL_nbY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1378
       }
     },
     {
@@ -2602,6 +3265,23 @@
       }
     },
     {
+      "id": "e28MeRe_axE",
+      "kind": "youtube",
+      "title": "Why Simple Walking Stopped Rebuilding YOUR Energy",
+      "url": "https://www.youtube.com/watch?v=e28MeRe_axE",
+      "upload_date": "2026-08-21",
+      "duration_seconds": 1408,
+      "duration": "23:28",
+      "word_count": 4333,
+      "clean_file": "clean/e28MeRe_axE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1408
+      }
+    },
+    {
       "id": "s5k7g6av5gw",
       "kind": "youtube",
       "title": "Why Sitting in a Heated Room Reduced Cardiovascular Death by 50%",
@@ -2701,6 +3381,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1854
+      }
+    },
+    {
+      "id": "Rtgrp0Bkyb4",
+      "kind": "youtube",
+      "title": "Why the Food You Ate Decides What YOUR Eyes Can Do",
+      "url": "https://www.youtube.com/watch?v=Rtgrp0Bkyb4",
+      "upload_date": "2026-08-22",
+      "duration_seconds": 1564,
+      "duration": "26:04",
+      "word_count": 4579,
+      "clean_file": "clean/Rtgrp0Bkyb4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1564
       }
     },
     {
@@ -3384,6 +4081,23 @@
       }
     },
     {
+      "id": "7rDQAHs1paM",
+      "kind": "youtube",
+      "title": "Why YOUR EXISTENCE Is the Rarest Thing in the Universe",
+      "url": "https://www.youtube.com/watch?v=7rDQAHs1paM",
+      "upload_date": "2026-03-14",
+      "duration_seconds": 1648,
+      "duration": "27:28",
+      "word_count": 3940,
+      "clean_file": "clean/7rDQAHs1paM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1648
+      }
+    },
+    {
       "id": "leBnH_pE3EY",
       "kind": "youtube",
       "title": "Why YOUR Hair Follicles Are Strangled",
@@ -3857,6 +4571,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1803
+      }
+    },
+    {
+      "id": "ZbbNPpfRbrk",
+      "kind": "youtube",
+      "title": "You’re Not Actually Made of Matter — Here’s Why",
+      "url": "https://www.youtube.com/watch?v=ZbbNPpfRbrk",
+      "upload_date": "2026-02-17",
+      "duration_seconds": 1040,
+      "duration": "17:20",
+      "word_count": 2809,
+      "clean_file": "clean/ZbbNPpfRbrk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1040
       }
     }
   ],
