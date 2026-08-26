@@ -1,0 +1,51 @@
+{
+  "slug": "nutrition",
+  "title": "Nutrition",
+  "subtitle": "Foods, drinks, and additives worth a second look",
+  "lede": "A reference to {videos} sources on food and product safety — brands, contamination, and additives worth watching.",
+  "about_paragraphs": [
+    "A reference built from {videos} sources on nutrition and food/product safety — consumer-facing claims about specific brands, contaminants, and additives — synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a specific point in a specific source — a page, a paragraph, or a video timestamp, depending on what kind of source made the claim. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["subjects", "foods", "concerns", "concepts"],
+  "primary_facet": "foods",
+  "controlled_facets": {},
+  "universal_sections": [
+    "Central claim",
+    "Symptoms and body signals addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+
+  "glossary_file": null,
+  "curated_facts_file": null,
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "subjects": "Main subjects",
+    "foods": "Foods & products",
+    "concerns": "Concerns",
+    "concepts": "Important concepts"
+  },
+  "catalog_unit_label": "Sources",
+  "catalog_id_label": "Source ID",
+
+  "attribution": {
+    "style": "youtube_channel_partial",
+    "name": "Paul Saladino MD",
+    "url": "https://www.youtube.com/@Paulsaladinomd"
+  },
+
+  "custom_gpt": { "enabled": false },
+
+  "evidence_types": ["influencer_commentary", "peer_reviewed_study", "systematic_review",
+    "government_guideline", "industry_test_result", "patient_experience", "other"],
+  "evidence_levels": ["high", "moderate", "low", "anecdotal"],
+
+  "derived_practice_facets": false
+}

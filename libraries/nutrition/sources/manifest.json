@@ -1,0 +1,447 @@
+{
+  "sources": [
+    {
+      "id": "6tT1RQ_9-l8",
+      "kind": "youtube",
+      "title": "All about WATER. Fluoride? Alkaline? Structured? Filtration? Contaminants in your spring water?",
+      "url": "https://www.youtube.com/watch?v=6tT1RQ_9-l8",
+      "upload_date": "2022-04-26",
+      "duration_seconds": 3990,
+      "duration": "66:30",
+      "word_count": 13276,
+      "clean_file": "clean/6tT1RQ_9-l8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3990
+      }
+    },
+    {
+      "id": "Xr1Wkn1fj58",
+      "kind": "youtube",
+      "title": "Are you drinking radioactive elements in your bottled water?",
+      "url": "https://www.youtube.com/watch?v=Xr1Wkn1fj58",
+      "upload_date": "2022-04-29",
+      "duration_seconds": 646,
+      "duration": "10:46",
+      "word_count": 2072,
+      "clean_file": "clean/Xr1Wkn1fj58.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 646
+      }
+    },
+    {
+      "id": "AUuy4PHnMO8",
+      "kind": "youtube",
+      "title": "Avoid These Drinks At All Costs",
+      "url": "https://www.youtube.com/watch?v=AUuy4PHnMO8",
+      "upload_date": "2026-02-20",
+      "duration_seconds": 632,
+      "duration": "10:32",
+      "word_count": 2301,
+      "clean_file": "clean/AUuy4PHnMO8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 632
+      }
+    },
+    {
+      "id": "bLEaUZ3gwIw",
+      "kind": "youtube",
+      "title": "Avoid These Fish at All Costs",
+      "url": "https://www.youtube.com/watch?v=bLEaUZ3gwIw",
+      "upload_date": "2025-04-28",
+      "duration_seconds": 1971,
+      "duration": "32:51",
+      "word_count": 6696,
+      "clean_file": "clean/bLEaUZ3gwIw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1971
+      }
+    },
+    {
+      "id": "JpW1utNfQM0",
+      "kind": "youtube",
+      "title": "Avoid These Olive Oils",
+      "url": "https://www.youtube.com/watch?v=JpW1utNfQM0",
+      "upload_date": "2024-12-17",
+      "duration_seconds": 470,
+      "duration": "07:50",
+      "word_count": 1683,
+      "clean_file": "clean/JpW1utNfQM0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 470
+      }
+    },
+    {
+      "id": "SR0x-de80iU",
+      "kind": "youtube",
+      "title": "Bottled Water Brands To AVOID at All Costs (And 2 That Won’t Poison You)",
+      "url": "https://www.youtube.com/watch?v=SR0x-de80iU",
+      "upload_date": "2026-02-27",
+      "duration_seconds": 1247,
+      "duration": "20:47",
+      "word_count": 4162,
+      "clean_file": "clean/SR0x-de80iU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1247
+      }
+    },
+    {
+      "id": "mV58zXMBco4",
+      "kind": "youtube",
+      "title": "Don’t Make These Mistakes When Buying Olive Oil",
+      "url": "https://www.youtube.com/watch?v=mV58zXMBco4",
+      "upload_date": "2025-02-12",
+      "duration_seconds": 227,
+      "duration": "03:47",
+      "word_count": 838,
+      "clean_file": "clean/mV58zXMBco4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 227
+      }
+    },
+    {
+      "id": "Ynis4uKZUfY",
+      "kind": "youtube",
+      "title": "How Contaminated Is Your Favorite Salt?",
+      "url": "https://www.youtube.com/watch?v=Ynis4uKZUfY",
+      "upload_date": "2024-11-01",
+      "duration_seconds": 665,
+      "duration": "11:05",
+      "word_count": 2247,
+      "clean_file": "clean/Ynis4uKZUfY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 665
+      }
+    },
+    {
+      "id": "fpO3Y5yVVIA",
+      "kind": "youtube",
+      "title": "How To Decode Egg Labels For The Healthiest Choice",
+      "url": "https://www.youtube.com/watch?v=fpO3Y5yVVIA",
+      "upload_date": "2024-07-06",
+      "duration_seconds": 388,
+      "duration": "06:28",
+      "word_count": 1360,
+      "clean_file": "clean/fpO3Y5yVVIA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 388
+      }
+    },
+    {
+      "id": "9cmx-lt3n1w",
+      "kind": "youtube",
+      "title": "I Tested the Top 7 Salts for Toxins (Only 2 Passed)",
+      "url": "https://www.youtube.com/watch?v=9cmx-lt3n1w",
+      "upload_date": "2026-04-06",
+      "duration_seconds": 973,
+      "duration": "16:13",
+      "word_count": 3281,
+      "clean_file": "clean/9cmx-lt3n1w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 973
+      }
+    },
+    {
+      "id": "A0D0zCk-y4w",
+      "kind": "youtube",
+      "title": "Is Alkaline water/Structured water BS?",
+      "url": "https://www.youtube.com/watch?v=A0D0zCk-y4w",
+      "upload_date": "2022-04-28",
+      "duration_seconds": 337,
+      "duration": "05:37",
+      "word_count": 1181,
+      "clean_file": "clean/A0D0zCk-y4w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 337
+      }
+    },
+    {
+      "id": "SPaqnDv-qmQ",
+      "kind": "youtube",
+      "title": "Never Buy These Egg Brands in 2026 (Get THIS Instead)",
+      "url": "https://www.youtube.com/watch?v=SPaqnDv-qmQ",
+      "upload_date": "2026-06-05",
+      "duration_seconds": 904,
+      "duration": "15:04",
+      "word_count": 2998,
+      "clean_file": "clean/SPaqnDv-qmQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 904
+      }
+    },
+    {
+      "id": "Kl-SL9MSOQY",
+      "kind": "youtube",
+      "title": "New Study Shows Sweeteners Make You Hungrier",
+      "url": "https://www.youtube.com/watch?v=Kl-SL9MSOQY",
+      "upload_date": "2025-09-17",
+      "duration_seconds": 439,
+      "duration": "07:19",
+      "word_count": 1502,
+      "clean_file": "clean/Kl-SL9MSOQY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 439
+      }
+    },
+    {
+      "id": "d4mYLeFxONQ",
+      "kind": "youtube",
+      "title": "The Best Olive Oils Money Can Buy",
+      "url": "https://www.youtube.com/watch?v=d4mYLeFxONQ",
+      "upload_date": "2025-10-10",
+      "duration_seconds": 1010,
+      "duration": "16:50",
+      "word_count": 3500,
+      "clean_file": "clean/d4mYLeFxONQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1010
+      }
+    },
+    {
+      "id": "RAz7L3rD9_M",
+      "kind": "youtube",
+      "title": "The Best Way to Stay Hydrated (Not Water)",
+      "url": "https://www.youtube.com/watch?v=RAz7L3rD9_M",
+      "upload_date": "2024-11-24",
+      "duration_seconds": 798,
+      "duration": "13:18",
+      "word_count": 2726,
+      "clean_file": "clean/RAz7L3rD9_M.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 798
+      }
+    },
+    {
+      "id": "PmObqSKkX1w",
+      "kind": "youtube",
+      "title": "The Disturbing History of Corn Flakes",
+      "url": "https://www.youtube.com/watch?v=PmObqSKkX1w",
+      "upload_date": "2024-11-20",
+      "duration_seconds": 359,
+      "duration": "05:59",
+      "word_count": 1186,
+      "clean_file": "clean/PmObqSKkX1w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 359
+      }
+    },
+    {
+      "id": "DqHqBWCW3Hs",
+      "kind": "youtube",
+      "title": "The Side of Seed Oils Nobody Talks About",
+      "url": "https://www.youtube.com/watch?v=DqHqBWCW3Hs",
+      "upload_date": "2025-11-19",
+      "duration_seconds": 425,
+      "duration": "07:05",
+      "word_count": 1350,
+      "clean_file": "clean/DqHqBWCW3Hs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 425
+      }
+    },
+    {
+      "id": "kGqGeYdPxMk",
+      "kind": "youtube",
+      "title": "The Truth About Using Nicotine in 2026",
+      "url": "https://www.youtube.com/watch?v=kGqGeYdPxMk",
+      "upload_date": "2026-08-21",
+      "duration_seconds": 1679,
+      "duration": "27:59",
+      "word_count": 5154,
+      "clean_file": "clean/kGqGeYdPxMk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1679
+      }
+    },
+    {
+      "id": "fyO6eROqf2c",
+      "kind": "youtube",
+      "title": "The Untold Side Effects of Nicotine",
+      "url": "https://www.youtube.com/watch?v=fyO6eROqf2c",
+      "upload_date": "2025-07-17",
+      "duration_seconds": 231,
+      "duration": "03:51",
+      "word_count": 829,
+      "clean_file": "clean/fyO6eROqf2c.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 231
+      }
+    },
+    {
+      "id": "c1kyubykrvA",
+      "kind": "youtube",
+      "title": "This Is How Canada Convinced You To Eat Engine Lubricant",
+      "url": "https://www.youtube.com/watch?v=c1kyubykrvA",
+      "upload_date": "2024-04-24",
+      "duration_seconds": 120,
+      "duration": "02:00",
+      "word_count": 437,
+      "clean_file": "clean/c1kyubykrvA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 120
+      }
+    },
+    {
+      "id": "sPGdfZtLYKk",
+      "kind": "youtube",
+      "title": "What is fluoride really?",
+      "url": "https://www.youtube.com/watch?v=sPGdfZtLYKk",
+      "upload_date": "2024-03-20",
+      "duration_seconds": 494,
+      "duration": "08:14",
+      "word_count": 1740,
+      "clean_file": "clean/sPGdfZtLYKk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 494
+      }
+    },
+    {
+      "id": "Ya-P2K5k6PY",
+      "kind": "youtube",
+      "title": "What's WRONG With Your Milk (and how to fix it)",
+      "url": "https://www.youtube.com/watch?v=Ya-P2K5k6PY",
+      "upload_date": "2025-11-27",
+      "duration_seconds": 567,
+      "duration": "09:27",
+      "word_count": 1799,
+      "clean_file": "clean/Ya-P2K5k6PY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 567
+      }
+    },
+    {
+      "id": "hljJ0T7yASU",
+      "kind": "youtube",
+      "title": "Why Sugar & Fruit Juice Are NOT The Same",
+      "url": "https://www.youtube.com/watch?v=hljJ0T7yASU",
+      "upload_date": "2025-07-31",
+      "duration_seconds": 528,
+      "duration": "08:48",
+      "word_count": 1934,
+      "clean_file": "clean/hljJ0T7yASU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 528
+      }
+    },
+    {
+      "id": "e5K6O41hQ3A",
+      "kind": "youtube",
+      "title": "Why we do not need fluoride to prevent tooth decay",
+      "url": "https://www.youtube.com/watch?v=e5K6O41hQ3A",
+      "upload_date": "2022-04-27",
+      "duration_seconds": 210,
+      "duration": "03:30",
+      "word_count": 745,
+      "clean_file": "clean/e5K6O41hQ3A.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 210
+      }
+    },
+    {
+      "id": "1Fke1NV4ZdA",
+      "kind": "youtube",
+      "title": "Why Your \"Organic\" Honey Is Full Of Pesticides (w/ Eric Mason)",
+      "url": "https://www.youtube.com/watch?v=1Fke1NV4ZdA",
+      "upload_date": "2025-05-20",
+      "duration_seconds": 5995,
+      "duration": "99:55",
+      "word_count": 22521,
+      "clean_file": "clean/1Fke1NV4ZdA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 5995
+      }
+    },
+    {
+      "id": "AN0M9rUugpI",
+      "kind": "youtube",
+      "title": "You Are Being Lied To About Fish Oil",
+      "url": "https://www.youtube.com/watch?v=AN0M9rUugpI",
+      "upload_date": "2025-09-14",
+      "duration_seconds": 313,
+      "duration": "05:13",
+      "word_count": 1005,
+      "clean_file": "clean/AN0M9rUugpI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 313
+      }
+    }
+  ],
+  "skipped": []
+}
