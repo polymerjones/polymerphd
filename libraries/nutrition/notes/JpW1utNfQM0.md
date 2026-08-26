@@ -34,16 +34,16 @@ concepts:
 **A recent independent analysis found striking, brand-specific differences in phthalate
 contamination between named olive and avocado oils — driven by plastic contact during pressing and
 storage, not by the fruit itself — meaning the choice of brand, not just "olive oil versus seed
-oil," meaningfully changes phthalate exposure.** `[00:00]` **"The results were pretty
-striking."**
+oil," meaningfully changes phthalate exposure.** `[00:00]` "The results were pretty
+striking."
 
 ## Why phthalates get into oil at all
 
-`[00:00]`–`[02:03]` — Phthalates are described as **plasticizers** found in tubing and other
+`[00:00]`–`[02:03]` — Phthalates are described as plasticizers found in tubing and other
 plastics that contact the oil during pressing or storage: an olive itself **"shouldn't really have
 any phthalates in it"** — contamination happens only once pressed oil touches plastic. The oils are
-said to **pull the phthalates out of the plastic** they contact more readily than water would,
-"because of the chemical properties of an oil" — explicitly more than **bottled water in plastic**,
+said to pull the phthalates out of the plastic they contact more readily than water would,
+"because of the chemical properties of an oil" — explicitly more than bottled water in plastic,
 which runs "1.5 to 4.5 parts per billion."
 
 ## Named brand comparisons
@@ -65,16 +65,16 @@ phthalates that this olive oil [Brags] did."**
 
 ## Comparison to other fats
 
-`[03:03]` — Studies cited (unnamed in speech) on **butter, ghee, coconut oil, raw milk, and milk**
+`[03:03]` — Studies cited (unnamed in speech) on butter, ghee, coconut oil, raw milk, and milk
 found **"significantly lower levels of phthalates"** in all of them relative to the olive and
 avocado oil figures above.
 
 ## Buying criteria and cooking caution
 
-`[01:00]`, `[04:04]`–`[05:05]` — Recommended: **single source, organic, cold-pressed, opaque
-glass**; avoid refined avocado oil in favor of cold-pressed. The source draws an explicit
+`[01:00]`, `[04:04]`–`[05:05]` — Recommended: single source, organic, cold-pressed, opaque
+glass; avoid refined avocado oil in favor of cold-pressed. The source draws an explicit
 distinction: **"don't confuse smoke point with peroxidation index"** — butter, ghee, and tallow
-have a **lower peroxidation index** (more heat-stable) than olive or avocado oil, which in turn
+have a lower peroxidation index (more heat-stable) than olive or avocado oil, which in turn
 have a lower peroxidation index than seed oils. On seed oils specifically: **"if you are using seed
 oils, you should immediately throw them out of your house."**
 

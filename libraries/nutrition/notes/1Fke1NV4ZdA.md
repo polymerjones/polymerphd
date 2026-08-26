@@ -38,8 +38,8 @@ concepts:
 **Honey is easy to fake and easy to contaminate, and neither "organic" nor "raw" on a label
 guarantees the honey is free of glyphosate, neonicotinoid residue, or heavy metals — testing the
 finished product is presented as the only real safeguard.** `[00:00]` Eric Mason's summary line:
-**"honey's pretty easy to fake. It's like farm-raised [salmon], right?"** `[00:00]`, and later:
-**"it's very hard to know... there's so much"** contamination risk even in honey the host produces
+"honey's pretty easy to fake. It's like farm-raised [salmon], right?" `[00:00]`, and later:
+"it's very hard to know... there's so much" contamination risk even in honey the host produces
 himself `[68:07]`.
 
 ## How honey is actually made (briefly)
@@ -48,25 +48,25 @@ himself `[68:07]`.
 (carbohydrate) from flowers, pass nectar between several bees' crops to concentrate and add trace
 hydrogen peroxide, then store it in wax cells and fan it with their wings to reduce water content
 before capping it `[16:19]`–`[18:21]`. Mason estimates a single worker bee produces roughly **"a
-12th of a teaspoon"** of honey in its 6–8 week summer lifetime, while pollinating **"thousands of
-flowers"** in that same period `[13:15]`–`[14:16]`.
+12th of a teaspoon"** of honey in its 6–8 week summer lifetime, while pollinating "thousands of
+flowers" in that same period `[13:15]`–`[14:16]`.
 
 ## Fake and adulterated honey
 
 `[38:39]`–`[42:42]` — Mason's working example: a children's honey throat lozenge listed "real
 organic honey" as its seventh ingredient, with the first five being sugar and fiber products —
-**"I would have called that a fake honey product because what it had was, let's call it, 1 to 3%
-honey and then 97% everything else."** He describes a global trade problem: **"the United States
-only produces 30% of the honey we eat. 70% is imported,"** and recounts Chinese-produced honey
-being rerouted through Thailand to dodge US tariffs, sometimes as honey **"mixed with sugar, high
-fructose corn syrup... rice syrup... or some kind of molasses"** rather than real honey. His rule
+"I would have called that a fake honey product because what it had was, let's call it, 1 to 3%
+honey and then 97% everything else." He describes a global trade problem: "the United States
+only produces 30% of the honey we eat. 70% is imported," and recounts Chinese-produced honey
+being rerouted through Thailand to dodge US tariffs, sometimes as honey "mixed with sugar, high
+fructose corn syrup... rice syrup... or some kind of molasses" rather than real honey. His rule
 of thumb: **"anything that's... in the store and anything that says honey syrup, just assume that
 it's not honey. As soon as it says syrup, it's not honey."** He also flags that beekeepers
 sometimes feed bees plain sugar water during lean seasons, and the resulting "capped" product is
-still not honey in a meaningful sense: **"it's sugar water that bees have processed... it doesn't
-have the same biodiversity"** `[42:42]`–`[43:42]`. The host cites (hedged, uncited) that he's
+still not honey in a meaningful sense: "it's sugar water that bees have processed... it doesn't
+have the same biodiversity" `[42:42]`–`[43:42]`. The host cites (hedged, uncited) that he's
 **"seen some studies [suggesting] 30 to 70% of the honey on the shelf has some sort of
-contamination,"** and Mason responds he **"wouldn't dispute that number because I don't know"**
+contamination,"** and Mason responds he "wouldn't dispute that number because I don't know"
 `[41:42]`–`[42:42]`.
 
 ## Glyphosate, and why "organic" doesn't mean glyphosate-free
@@ -74,35 +74,35 @@ contamination,"** and Mason responds he **"wouldn't dispute that number because 
 `[59:58]`–`[62:01]` — Mason states plainly: **"for a honey to be glyphosate free, it has to be in
 a bubble... the hive has to be at least 5 miles in every direction"** from any glyphosate
 application. He confirms directly that an "organic" honey label does not guarantee this: if a
-certified-organic apiary sits **"a mile or two from a farm that's spraying glyphosate,"** the
-resulting honey **"can't be organic"** in a meaningful sense even if labeled so — and the label
+certified-organic apiary sits "a mile or two from a farm that's spraying glyphosate," the
+resulting honey "can't be organic" in a meaningful sense even if labeled so — and the label
 itself, per Mason, means only that **"there's no pesticides used in the hive production"** by the
 beekeeper, not that the surrounding several-mile radius is clean. He states most US hives are
-migratory (**"90% of our hives are on the road"**), which he says makes true organic honey
-production **"very few"** in number in the US `[65:04]`–`[66:05]`.
+migratory ("90% of our hives are on the road"), which he says makes true organic honey
+production "very few" in number in the US `[65:04]`–`[66:05]`.
 
 ## Neonicotinoids and the seed-coating regulatory gap
 
 `[50:49]`–`[55:56]` — Mason distinguishes "pesticide" from more specific terms he prefers
-(herbicide, insecticide, rodenticide, fungicide), on the grounds that **"a dandelion isn't a
-pest."** He describes neonicotinoids ("neonics") as systemic insecticides that become part of the
+(herbicide, insecticide, rodenticide, fungicide), on the grounds that "a dandelion isn't a
+pest." He describes neonicotinoids ("neonics") as systemic insecticides that become part of the
 plant itself and are picked up by bees in pollen and nectar, shortening lifespan and impairing gut
 health at sublethal doses. The regulatory gap he identifies: **"the EPA actually regulates the
 spraying and the saturating of neonics, but they don't regulate seed production"** — so seed
-manufacturers coat seeds pre-sale, and **"80 to 90% of it goes into the soil"** regardless, with
+manufacturers coat seeds pre-sale, and "80 to 90% of it goes into the soil" regardless, with
 the rest taken up by the plant. He compares this to DDT's mechanism of harm: **"everybody said DDT
 is safe for birds... but the birds' offspring aren't fine because they're dying in shell"** —
 i.e., a toxin's harm can be delayed and indirect rather than immediately visible `[55:56]`.
 
 ## Migratory beekeeping and industrial monocrop pollination
 
-`[56:57]`–`[59:58]` — Mason states **"88% of the managed [US] bees"** — out of roughly 2.5–2.7
-million total hives — were recently concentrated in **"a 20 mile by 120 mile area of California
-pollinating the almond crop,"** a concentration he says another (unnamed) doctor called **"a Super
+`[56:57]`–`[59:58]` — Mason states "88% of the managed [US] bees" — out of roughly 2.5–2.7
+million total hives — were recently concentrated in "a 20 mile by 120 mile area of California
+pollinating the almond crop," a concentration he says another (unnamed) doctor called **"a Super
 Bowl of pathogen sharing."** He frames the practice as nutritionally impoverishing for bees, who
 are trucked crop to crop feeding on a single monocrop each time rather than a diverse diet, then
-often fed supplemental sugar between routes — his analogy: bees eating **"McDonald's French
-fries... a Big Mac... a shake"** at each successive stop. He notes that since roughly 2016,
+often fed supplemental sugar between routes — his analogy: bees eating "McDonald's French
+fries... a Big Mac... a shake" at each successive stop. He notes that since roughly 2016,
 **"beekeepers... stopped making the majority of their money from honey"** and now earn more from
 pollination services to industrial agriculture.
 
@@ -111,8 +111,8 @@ pollination services to industrial agriculture.
 `[48:49]`–`[49:49]` — The host states, in his own words, a hypothesis he says he's tweeted about
 previously: sugar harms us less through blood sugar and more because it **"affects the microbiome
 negatively"**, driving bacterial overgrowth whose lipopolysaccharide byproducts cause
-**"mitochondrial dysfunction."** He proposes real honey may counteract this because its numerous
-compounds **"may help balance the microbiome"** — explicitly labeled **"my hypothesis"** rather
+"mitochondrial dysfunction." He proposes real honey may counteract this because its numerous
+compounds "may help balance the microbiome" — explicitly labeled **"my hypothesis"** rather
 than settled fact.
 
 ## The diabetic honey study
@@ -136,8 +136,8 @@ same way toxins concentrate in animal fat, because bees lay their brood directly
 ## Heavy metals found in urban honey
 
 `[44:44]`–`[45:44]` — Mason cites researcher Sarah Scott's work on bee colonies in "legacy cities"
-(he names Detroit and Ann Arbor) foraging on land with **"a hundred-year history of humans being
-involved"** even where the specific plot hasn't been industrially used in 25 years — finding trace
+(he names Detroit and Ann Arbor) foraging on land with "a hundred-year history of humans being
+involved" even where the specific plot hasn't been industrially used in 25 years — finding trace
 lead and arsenic in the resulting comb and honey. His conclusion: **"if you look hard enough
 you'll find anything in honey because bees... are the canary in the coal mine. They're picking up
 whatever is out in our ecosystem."**

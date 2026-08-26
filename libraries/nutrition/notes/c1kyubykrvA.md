@@ -27,23 +27,23 @@ concepts:
 
 **Canola oil's presence in the food supply traces back to a wartime industrial-lubricant surplus
 problem, not a food-safety discovery — and the source argues that history, plus its refining
-process, should make people distrust its "healthy" reputation.** `[00:00]` **"I don't even think
+process, should make people distrust its "healthy" reputation.** `[00:00]` "I don't even think
 of them as food. The only thing they're good for is engine lubricants, and that's the way they
-should stay"** `[01:01]`.
+should stay" `[01:01]`.
 
 ## From ship lubricant to food oil
 
-`[00:00]` — Rapeseed oil was **"originally developed in World War II to lubricate ships and steam
-engines because the oil sticks to wet metal."** Canada scaled up production for the US war effort;
-after the war, demand collapsed, leaving Canada with a surplus product problem. The unmodified oil
-was **"toxic for humans, containing significant amounts of a monounsaturated fat called erucic
+`[00:00]` — Rapeseed oil was "originally developed in World War II to lubricate ships and steam
+engines because the oil sticks to wet metal." Canada scaled up production for the US war effort;
+after the war, demand collapsed, leaving Canada with a surplus product problem. **The unmodified oil
+was "toxic for humans, containing significant amounts of a monounsaturated fat called erucic
 acid, which seems to be damaging for the heart."** In 1980, genetic modification lowered the
-erucic acid content, and **"canola oil was born."**
+erucic acid content, and "canola oil was born."
 
 ## Canola, defined
 
-`[00:00]`–`[01:01]` — **"Canola is actually an acronym that stands for Canadian Oil, Low
-Acid."** It is now, per the source, **"one of the most highly consumed oils on the planet,"**
+`[00:00]`–`[01:01]` — "Canola is actually an acronym that stands for Canadian Oil, Low
+Acid." It is now, per the source, "one of the most highly consumed oils on the planet,"
 endorsed by mainstream authorities including "the American College of Cardiology" — an
 endorsement the source disputes: **"I beg to differ. There are multiple studies in both animal and
 human models showing clearly that seed oils like canola oil are harmful for us."** No specific
@@ -51,10 +51,10 @@ study is named.
 
 ## The refining process itself
 
-`[01:01]` — Getting oil out of the seed requires **"highly refined"** processing, **"exposed to
+`[01:01]` — Getting oil out of the seed requires "highly refined" processing, **"exposed to
 many extracting agents that are carcinogenic like benzene [and] hexane, and heated to high
 temperatures leading to oxidation of these fragile oils"** — with the distillation step's high
-heat also producing **"significant amounts of trans fats."**
+heat also producing "significant amounts of trans fats."
 
 ## Symptoms and body signals addressed
 
@@ -75,9 +75,9 @@ directly rather than developed as a separate analogy.
 
 ## Source-stated confidence
 
-Low relative to its conclusions. The mechanism claim is itself hedged — erucic acid "**seems**
-to be damaging for the heart" — but the closing verdict is delivered flatly and without that
-hedge: **"these oils are harmful for humans... they should never have become part of our food
+Low relative to its conclusions. The mechanism claim is itself hedged — erucic acid "seems
+to be damaging for the heart" — but **the closing verdict is delivered flatly and without that
+hedge: "these oils are harmful for humans... they should never have become part of our food
 supply."** "Multiple studies in both animal and human models" is asserted without naming a single
 one.
 

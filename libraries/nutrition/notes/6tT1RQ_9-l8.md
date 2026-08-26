@@ -55,7 +55,7 @@ the source says may add aluminum oxide to the water — "Berkey claims this is i
 it's a great thing to have added to your water regardless" `[10:12]`. His countertop RO unit drops
 total dissolved solids from roughly 300–400 ppm to 15–16 ppm, "pretty darn clean water... there's
 really nothing in there but water" `[11:12]`. Carbon fridge filters are dismissed outright: "it's
-probably a single carbon, it's not good enough in my opinion" `[13:15]`. He does **not**
+probably a single carbon, it's not good enough in my opinion" `[13:15]`. He does not
 remineralize his RO water, reasoning that seawater from surfing and mineral-rich food cover it:
 **"I don't think a few drops of a trace mineral thing in my water are going to make that much
 difference"** `[12:14]`, though he adds "maybe I'm wrong... maybe I'll do it in the future."
@@ -64,8 +64,8 @@ difference"** `[12:14]`, though he adds "maybe I'm wrong... maybe I'll do it in 
 
 `[17:21]`–`[29:35]` — Municipal water fluoridation is typically about 1 mg/L, versus toothpaste at
 roughly 1,500 mg/L and in-office fluoride gel treatments at 9,000–40,000 mg/L `[23:28]`. On that
-basis the source states a flat position on the higher-dose exposures: **"for me it's a definite no
-on fluoride and toothpaste, definite no on fluoride treatments"** for kids `[24:30]`. On water
+basis the source states a flat position on the higher-dose exposures: "for me it's a definite no
+on fluoride and toothpaste, definite no on fluoride treatments" for kids `[24:30]`. On water
 fluoridation itself he is more measured: **"I do not believe cavities are a fluoride deficiency"**
 `[24:30]`, attributing cavity resistance instead to well-nourished odontoblasts — living immune
 cells in the teeth — via fat-soluble vitamins D, E, A, and K2 from animal fat, egg yolks, and liver
@@ -73,14 +73,14 @@ cells in the teeth — via fat-soluble vitamins D, E, A, and K2 from animal fat,
 a pretty clear body of literature to suggest that putting fluoride in the water does decrease...
 rates of dental cavities"** `[27:34]`, calling it instead "a band-aid" for populations that are not
 well-nourished `[27:34]`. The Linus Pauling Institute's adequate-intake figures for fluoride (4
-mg/day adults, 3 mg infants, 0.7–1 mg children) are cited but questioned: **"I'm not sure it's quite
-that high or I'd agree with that"** `[29:35]`.
+mg/day adults, 3 mg infants, 0.7–1 mg children) are cited but questioned: "I'm not sure it's quite
+that high or I'd agree with that" `[29:35]`.
 
 ## Fluorosis in the Hadza and Tanzania
 
 `[17:21]`–`[23:28]` — Prompted by viewer questions about the Hadza's brown teeth, the source
-initially expected classic tooth decay but found staining and pitting consistent with **dental
-fluorosis**, not cavities: **"if you look at their teeth carefully you realize they don't have
+initially expected classic tooth decay but found staining and pitting consistent with dental
+fluorosis, not cavities: **"if you look at their teeth carefully you realize they don't have
 cavities, they have staining and they have something called fluorosis"** `[19:22]`. Research led
 him to a study on fluorosis in a Tanzanian population despite "negligible fluoride concentration"
 in the water — the actual driver identified was a vegetable tenderizer, spelled inconsistently in
@@ -97,11 +97,11 @@ it "quite fascinating" on investigation `[05:06]`. A 2001 UK study (Luke) found 
 sits outside the blood-brain barrier and accumulates fluoride via hydroxyapatite, with **"a positive
 correlation between pineal fluoride and pineal calcium but no correlation between pineal fluoride
 and bone fluoride"** `[31:36]`–`[32:38]`. Whether pineal calcification itself is pathological or
-just aging is explicitly left open: **"is this pathology or is this physiology? Is this a feature
-or is this a bug? We don't know"** `[32:38]`. A rat study found fluoride-free drinking water
+just aging is explicitly left open: "is this pathology or is this physiology? Is this a feature
+or is this a bug? We don't know" `[32:38]`. A rat study found fluoride-free drinking water
 increased pineal cell counts by 73–96% over controls, while fluoridated water suppressed that
 growth — **"dietary fluoride may be detrimental to the pineal gland"** in aged rats, though the
-source immediately caveats: **"if you're not a rat I think the question still remains"** `[40:44]`–
+source immediately caveats: "if you're not a rat I think the question still remains" `[40:44]`–
 `[42:46]`.
 
 ## Alkaline water and structured water
@@ -122,7 +122,7 @@ denatures pepsin," an important digestive enzyme `[52:57]`.
 gross-beta ranges — San Pellegrino at 487±162, one called "Toca" at 1,300 `[57:01]`–`[58:01]`.
 German mineral waters were checked for uranium's share of total dietary uranium intake:
 Gerolsteiner accounted for "50% of the uranium intake in this German study" `[61:05]`, with others
-(Saskia, Franz Ronda) up to 84%. **Mountain Valley** is presented as the clean counter-example:
+(Saskia, Franz Ronda) up to 84%. Mountain Valley is presented as the clean counter-example:
 uranium, gross alpha, and gross beta all "none detected," with only 0.1 mg/L fluoride — **"this
 Mountain Valley is pretty darn clean"** `[62:07]`–`[63:08]`.
 
@@ -168,10 +168,10 @@ out of your toilet would be very structured... you should just drink your toilet
 
 ## Source-stated confidence
 
-Multiple explicit hedges run through the video: **"I don't think we fully understand what's going
-on with pineal gland calcification and fluoride"** `[05:06]`; **"there is not a large amount of
-data or research here"** on the pineal question `[30:36]`; on the rat fluoride-free study, **"if
-you're not a rat I think the question still remains"** `[42:46]`; and most explicitly on fluoride
+Multiple explicit hedges run through the video: "I don't think we fully understand what's going
+on with pineal gland calcification and fluoride" `[05:06]`; "there is not a large amount of
+data or research here" on the pineal question `[30:36]`; on the rat fluoride-free study, "if
+you're not a rat I think the question still remains" `[42:46]`; and most explicitly on fluoride
 and cognition: **"the studies are not well conducted... I could not say that... more fluoride in
 drinking water equals lower IQs"** `[44:50]`–`[45:52]`. The optimal fluoride dose is stated as
 unknown outright: **"I don't think we know what the optimal amount of fluoride is for humans in a

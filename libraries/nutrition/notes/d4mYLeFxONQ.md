@@ -31,24 +31,24 @@ concepts:
 
 **The case for olive oil's health benefit rests on its polyphenols, not just its monounsaturated
 fat — and without a certificate of analysis, most consumer olive oil can't be trusted to actually
-contain them.** `[00:01]` The source's own inference from PREDIMED: **"this doesn't seem like the
+contain them.** `[00:01]` The source's own inference from PREDIMED: "this doesn't seem like the
 benefits are coming from just olive oil or oleic acid... The benefits are probably from the
-polyphenols in olive oil"** `[03:03]`.
+polyphenols in olive oil" `[03:03]`.
 
 ## The PREDIMED study, reread
 
-`[02:03]`–`[03:03]` — Over **7,000 participants, followed more than four years**, published in
-the *New England Journal of Medicine*; the experimental group was encouraged to use **more than
-four tablespoons of extra virgin olive oil per day**, done in the Mediterranean region where "it's
+`[02:03]`–`[03:03]` — Over 7,000 participants, followed more than four years, published in
+the *New England Journal of Medicine*; the experimental group was encouraged to use more than
+four tablespoons of extra virgin olive oil per day, done in the Mediterranean region where "it's
 not just any extra virgin olive oil, it's real extra virgin olive oil." The source flags a detail
 he says is often missed: **"the people in the control group were still using olive oil, but it
-wasn't the good stuff... it was mostly refined olive oil."** Since oleic acid is **"also found in
-tallow and butter,"** he argues the differentiator was more likely the extra-virgin group's
+wasn't the good stuff... it was mostly refined olive oil."** Since oleic acid is "also found in
+tallow and butter," he argues the differentiator was more likely the extra-virgin group's
 polyphenol content than the fat itself.
 
 ## The named polyphenols
 
-`[04:05]` — **Oleocanthol**, **hydroxytyrosol** and its derivatives, and **oleuropein** are the
+`[04:05]` — Oleocanthol, hydroxytyrosol and its derivatives, and oleuropein are the
 three named. Hydroxytyrosol gets the most attributed detail, hedged throughout: **"decreasing
 inflammation, potentially decreasing markers of immune reactivity in the gut, *maybe* decreasing
 harmful species in the gut, *maybe* even supporting the growth of beneficial species."**
@@ -57,8 +57,8 @@ something similar."
 
 ## Buying criteria and certificate-of-analysis metrics
 
-`[05:06]`–`[09:11]` — Recommended: **organic, extra virgin, opaque glass, cold-pressed, first cold
-pressing, and preferably single source.** A certificate of analysis should show:
+`[05:06]`–`[09:11]` — Recommended: organic, extra virgin, opaque glass, cold-pressed, first cold
+pressing, and preferably single source. A certificate of analysis should show:
 
 | Metric | What it flags |
 |---|---|
@@ -70,20 +70,20 @@ pressing, and preferably single source.** A certificate of analysis should show:
 Regional adulteration risk is named directly: **"when I looked at data for Italian olive oils,
 sometimes 10 or 15% are adulterated with seed oils"** `[08:08]`. On freshness, all four oils
 tested were about a year old despite "best before 2028" labels; the source's own ceiling is
-narrower: **"a year is about the max I'm going to go"** `[09:11]`.
+narrower: "a year is about the max I'm going to go" `[09:11]`.
 
 ## Four-oil taste test
 
-`[11:13]`–`[15:16]` — **Terra Diva** (reported over 1,500 mg/kg polyphenols, delta K 0.0060) gave
+`[11:13]`–`[15:16]` — Terra Diva (reported over 1,500 mg/kg polyphenols, delta K 0.0060) gave
 the strongest reaction: "that's real... it burns the back of my throat for 10, 15 seconds." A
 second bottle, reported similarly high in polyphenols, is described in less exact terms in the
-transcript. The **PJ Cabos organic high-phenolic Greek extra virgin** also produced a strong burn
+transcript. The PJ Cabos organic high-phenolic Greek extra virgin also produced a strong burn
 and was the source's stated favorite by taste: **"I like the Greek one the most"** `[15:16]`. The
-**Atlas** oil (roughly 500 mg/kg polyphenols by the source's own estimate, delta K reported as 0
-with no further figures given) produced a much weaker reaction — **"not getting the same burn at
-all... that one is like weak"** — while still being called "not a bad olive oil." The cheaper
-(~$25) Moroccan-labeled oil had **no certificate of analysis available**: **"I can't confirm any of
-these values."**
+Atlas oil (roughly 500 mg/kg polyphenols by the source's own estimate, delta K reported as 0
+with no further figures given) produced a much weaker reaction — "not getting the same burn at
+all... that one is like weak" — while still being called "not a bad olive oil." The cheaper
+(~$25) Moroccan-labeled oil had **no certificate of analysis available**: "I can't confirm any of
+these values."
 
 ## Why not cook with it
 
@@ -120,7 +120,7 @@ hedged gut effects, both framed statistically or mechanistically rather than as 
 Consistently hedged: "probably where the benefits... lie," hydroxytyrosol's effects qualified
 "maybe" twice, and an explicit acknowledgment that dosing is unresolved — **"the jury is still out
 on how much you need for a therapeutic effect"** `[16:17]`. The taste-test ranking is labeled
-outright as **"my subjective measure,"** not an objective lab result, even though it stands in for
+outright as "my subjective measure," not an objective lab result, even though it stands in for
 polyphenol potency throughout the video.
 
 ## Conflicts with other sources

@@ -36,25 +36,25 @@ concepts:
 
 **A brand-by-brand independent test of seven popular table and sea salts for heavy metals and
 microplastics found real, meaningful differences: some brands carry multiples of the Prop 65 lead
-limit, while others came back essentially clean.** `[00:00]` **"This one came back as the worst. It
-was five times higher than the California Prop 65 level for lead."**
+limit, while others came back essentially clean.** `[00:00]` "This one came back as the worst. It
+was five times higher than the California Prop 65 level for lead."
 
 ## The case that salt itself isn't the problem
 
-`[02:02]`–`[03:03]` — Sodium and chloride are called essential minerals, with blood sodium **"so
+`[02:02]`–`[03:03]` — Sodium and chloride are called essential minerals, with blood sodium "so
 tightly regulated that even a little bit high or a little bit low can cause headaches, fatigue,
-fainting, swelling of the brain"** — hypernatremia and hyponatremia. The central reframing: **"the
+fainting, swelling of the brain" — hypernatremia and hyponatremia. The central reframing: **"the
 problem with salt and hypertension, high blood pressure, is not the salt itself. It's the
 underlying insulin resistance."** The source offers his own numbers as informal counter-evidence:
-**"I eat 10 plus grams of salt per day, and I have normal blood pressure... 110 or 115 over 70."**
-Low-salt diets are linked to **"increased hypotension or lightheadedness when you stand up,
-erectile dysfunction, and an increase in stress hormones... like aldosterone."**
+"I eat 10 plus grams of salt per day, and I have normal blood pressure... 110 or 115 over 70."
+Low-salt diets are linked to "increased hypotension or lightheadedness when you stand up,
+erectile dysfunction, and an increase in stress hormones... like aldosterone."
 
 ## Dose context
 
 `[03:03]`–`[04:04]` — The CDC/FDA/US dietary guidelines figure cited is **"around 3 to 4,000 mg of
 salt per day"** (~2,000 mg sodium); the source reports his own intake at roughly double that,
-**"7, 8, 9 grams per day."**
+"7, 8, 9 grams per day."
 
 ## Historical framing
 
@@ -67,8 +67,8 @@ were lost, tied to wounds that couldn't heal from salt deficiency — explicitly
 ## The three metals and why they matter
 
 `[06:05]`–`[08:07]` — **Lead**: Prop 65 limit 0.5 micrograms/serving, FDA child limit 2.2
-micrograms/day, "there is really no safe level for lead." **Arsenic**: "consistently linked to
-cancers and other health issues." **Aluminum**: linked to "increased incidence... things like
+micrograms/day, "there is really no safe level for lead." Arsenic: "consistently linked to
+cancers and other health issues." Aluminum: linked to "increased incidence... things like
 Alzheimer's dementia, cognitive decline."
 
 ## Brand rankings
@@ -109,18 +109,18 @@ reusable explanatory device.
 Names its testing partner directly — **"I partnered with ABNRF, the Animal Based Nutrition
 Research Foundation"** — and says results are available online, more specific sourcing than most
 videos in this batch. Explicitly flags a limitation in its own microplastics finding: testing
-covered only particles **"bigger than 1 micrometer,"** with smaller nanometer-range plastics left
+covered only particles "bigger than 1 micrometer," with smaller nanometer-range plastics left
 for future testing `[11:12]`. The Napoleon casualty numbers are attributed to "historical figures,"
 an explicit hedge on an unverified figure `[05:05]`. States plainly that Himalayan salt was
-skipped this round: **"we probably should have"** `[08:07]`.
+skipped this round: "we probably should have" `[08:07]`.
 
 ## Conflicts with other sources
 
 Strongly corroborates `Ynis4uKZUfY`, the earlier salt video in this batch, on the two brands
-tested in both: **Celtic Sea Salt** is ranked worst for lead in both videos, and **Redmond** shows
+tested in both: **Celtic Sea Salt** is ranked worst for lead in both videos, and Redmond shows
 meaningfully elevated lead and aluminum in both — an independently repeated finding across two
-separately dated tests (2024-11-01 and 2026-04-06), not a single data point. **Jacobson** comes
-back clean/low in both as well. A **Diamond-brand salt** is the cleanest salt in both tests, though
+separately dated tests (2024-11-01 and 2026-04-06), not a single data point. Jacobson comes
+back clean/low in both as well. A Diamond-brand salt is the cleanest salt in both tests, though
 the exact product name differs — "Diamond Kosher Salt Flakes" in `Ynis4uKZUfY` versus "Diamond
 Crystal Salt" here — so this note treats them as likely, but not confirmed, to be the same product
 line. This video adds three brands not covered in `Ynis4uKZUfY` (Morton, Herkimer, Maldon) and a

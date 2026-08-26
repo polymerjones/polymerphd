@@ -66,8 +66,8 @@ in... we'll just take it out" `[06:09]`), leaving eight ranked places:
 ## Microplastics and nanoplastics
 
 `[11:15]`–`[13:18]` — The source rebuts a recent study claiming glass bottled water has more
-microplastics than plastic: **"this study is bunk... it's only looking at large microplastic
-fragments"** greater than one micrometer `[11:15]`. University research at finer resolution has
+microplastics than plastic: "this study is bunk... it's only looking at large microplastic
+fragments" greater than one micrometer `[11:15]`. University research at finer resolution has
 found **"up to 250,000 nanoplastics"** per liter in plastic bottled water, particles 50–500
 nanometers across `[12:16]`. These carry other contaminants: **"they can carry things that are
 endocrine disruptors like PFAS... they can carry BPA and BPS like a Trojan horse"** `[13:18]`.

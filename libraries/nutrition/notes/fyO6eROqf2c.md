@@ -31,9 +31,9 @@ concepts:
 
 **Asked to rank cigars, vapes, marijuana, cigarettes, and nicotine pouches by risk, the source
 ranks cigars least risky and cigarettes worst, but explicitly refuses to call any of them "net
-positive" — including pouches, despite nicotine's natural occurrence in the body.** **"Nicotine
+positive" — including pouches, despite nicotine's natural occurrence in the body.** "Nicotine
 occurs naturally in the human body... but they're quite addictive... to say that nicotine
-supplementation or these pouches is net positive, that's a stretch"** `[01:00]`–`[03:02]`.
+supplementation or these pouches is net positive, that's a stretch" `[01:00]`–`[03:02]`.
 
 ## Ranking the five
 
@@ -52,9 +52,9 @@ supplementation or these pouches is net positive, that's a stretch"** `[01:00]`�
 `[02:02]`–`[03:02]` — A named anecdote: a smoker ("John") argued nicotine is "good for you" because
 "people that smoke cigarettes actually didn't get the co virus as much as people who didn't
 smoke." Pressed on whether this means smoking is good, John narrows the claim to nicotine
-specifically. The source's response keeps the two separate: **"nicotine occurs naturally in the
+specifically. The source's response keeps the two separate: "nicotine occurs naturally in the
 human body. It is a neurotransmitter... there may be some studies that suggest that it affects the
-brain in a positive way, but there's always other side effects."** The response draws an explicit
+brain in a positive way, but there's always other side effects." The response draws an explicit
 analogy to cannabinoids — also endogenous, also carrying "downstream effects" when supplemented in
 excess — and concludes that calling nicotine supplementation "net positive... is a stretch," citing
 mild alertness benefit and unspecified "dementia" data as the only things weighed in its favor

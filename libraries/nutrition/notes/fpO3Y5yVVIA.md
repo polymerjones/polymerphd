@@ -32,14 +32,14 @@ concepts:
 **Eggs vary enormously based on what the chicken ate and how the egg is cooked — the buying
 checklist is organic, pasture-raised, and corn-and-soy-free, and the yolk and its cholesterol
 should not be feared.** `[00:00]` The source's own shorthand for the ideal beyond any carton label:
-**"raise your own chickens... feed them no grains... let them go in the woods and eat entirely bugs
-and worms"** `[01:01]`–`[02:02]`, with retail label choices ranked below that as approximations of
+"raise your own chickens... feed them no grains... let them go in the woods and eat entirely bugs
+and worms" `[01:01]`–`[02:02]`, with retail label choices ranked below that as approximations of
 it.
 
 ## The label checklist
 
-`[00:00]` — Organic first, because organic feed means **"less pesticides which means less
-bioaccumulation of pesticides into the eggs."** Between free-range and pasture-raised, free-range
+`[00:00]` — Organic first, because organic feed means "less pesticides which means less
+bioaccumulation of pesticides into the eggs." Between free-range and pasture-raised, free-range
 chickens "get to go outside" but are "kind of stuck in a small amount of land with each other";
 pasture-raised requires **"106 square ft per chicken,"** meaning more land and fewer chickens, and
 lets them "eat more of the bugs and worms." Corn-and-soy-free comes last on the checklist `[01:01]`:
@@ -112,7 +112,7 @@ Same channel and topic as `SPaqnDv-qmQ` ("Never Buy These Egg Brands in 2026"), 
 two years later, and the two agree on the core structure — organic and pasture-raised over
 free-range and cage-free, with linoleic acid as the feed-quality tell and yolk nutrition (choline,
 fat-soluble vitamins) worth defending rather than avoiding. But they give **different
-pasture-raised square-footage figures**: this video states **"106 square ft per chicken"**
+pasture-raised square-footage figures**: this video states "106 square ft per chicken"
 `[00:00]`, while `SPaqnDv-qmQ` states "108 square feet" and separately describes true
 pasture-raised housing as "hundreds and hundreds of square feet per chicken" — a small, unexplained
 numeric drift between the same channel's two videos on the same claim. This earlier video also

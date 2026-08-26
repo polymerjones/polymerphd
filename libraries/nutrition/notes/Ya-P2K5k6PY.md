@@ -38,24 +38,24 @@ concepts:
 **Conventional dairy — A1, pasteurized, homogenized, skim — is a downgraded version of what the
 speaker calls "a health food," and the upgrade path is A2, full-fat, raw, unhomogenized milk, but
 every step of that upgrade is stated with an explicit hedge rather than as a flat recommendation.**
-**"I think humans will tolerate A2 milk better than A1"** `[01:00]`; raw milk is framed not as
+"I think humans will tolerate A2 milk better than A1" `[01:00]`; raw milk is framed not as
 strictly safer but as carrying a different, farmer-dependent risk profile `[03:02]`–`[04:03]`; and
-even the closing framing is hedged: **"I don't think everyone needs to do it"** `[06:05]`.
+even the closing framing is hedged: "I don't think everyone needs to do it" `[06:05]`.
 
 ## A1 versus A2 casein
 
-`[00:00]`–`[01:00]` — A1 and A2 are described as **"a variant of casein, which is a milk
-protein,"** with **"a good amount of research pointing to... A1 casein [being] probably more
+`[00:00]`–`[01:00]` — A1 and A2 are described as "a variant of casein, which is a milk
+protein," with **"a good amount of research pointing to... A1 casein [being] probably more
 immunologically problematic for humans than A2."** Jersey and Guernsey cows are "all A2"; most
 other cows are "some mixture of A1 and A2." Goat, sheep, and bison milk are "all A2." A2/A2 means
 the cow is "homozygous for the A2 gene coding for the casein variant." The speaker's own childhood
-milk is given as the negative example: **"probably A1 skim pasteurized homogenized milk."**
+milk is given as the negative example: "probably A1 skim pasteurized homogenized milk."
 
 ## Odd-chain fatty acids and ferroptosis
 
 `[01:00]`–`[02:01]` — Dairy fat is called **"super healthy for humans... so incredibly healthy."**
 C15 (pentadecanoic acid) and C17 are named as odd-chain fatty acids whose levels "correlate with
-protection from lipid peroxide induced programmed death," which is **"called ferroptosis"** —
+protection from lipid peroxide induced programmed death," which is "called ferroptosis" —
 distinguished from apoptosis, and described as what happens with "too much oxidative stress...
 related to too many polyunsaturated fatty acids." C15 levels in the body are said to "directly
 correlate strongly to dairy consumption of full-fat dairy," which is the stated reason to choose
@@ -63,28 +63,28 @@ whole milk over skim or 2%.
 
 ## Raw versus pasteurized: a contamination trade-off, not a clean win
 
-`[03:02]`–`[04:03]` — The reasoning is explicitly comparative rather than one-sided: **"all raw
-food has a chance of contamination"** — sushi, oysters, carpaccio — and by volume, **"raw plant
+`[03:02]`–`[04:03]` — The reasoning is explicitly comparative rather than one-sided: "all raw
+food has a chance of contamination" — sushi, oysters, carpaccio — and by volume, **"raw plant
 foods are what cause the most food poisoning in humans every year,"** not animal foods. Pasteurized
-milk is not presented as risk-free either: **"one of the largest outbreaks ever in our history in
-America was 1986,"** with "thousands and thousands of people" sickened by salmonella in pasteurized
+milk is not presented as risk-free either: "one of the largest outbreaks ever in our history in
+America was 1986," with "thousands and thousands of people" sickened by salmonella in pasteurized
 milk. The argument for raw milk's safety is mechanistic — "naturally occurring flora in the raw
 milk... outcompete any listeria, any E. coli, any campylobacter, any salmonella" — but this is
 immediately qualified: **"every once in a while raw milk does get contaminated and people get
 sick,"** and safety "has to do with the quality of the production and how clean it is." The
-explicit fallback position: **"if you want to be absolutely sure you're never going to get sick
-from foodborne illness... you have to cook everything well done."**
+explicit fallback position: "if you want to be absolutely sure you're never going to get sick
+from foodborne illness... you have to cook everything well done."
 
 ## Reported benefits of raw milk, with hedges attached
 
-`[05:05]`–`[06:05]` — Cited evidence: **"the Gabriella study, many other studies in children
-growing up on or off farms,"** associating raw milk with lower rates of asthma, eczema, and
+`[05:05]`–`[06:05]` — Cited evidence: "the Gabriella study, many other studies in children
+growing up on or off farms," associating raw milk with lower rates of asthma, eczema, and
 allergy. This is paired with a personal history — childhood eczema, asthma, and allergies on
 "pasteurized A1 skim milk," with eczema severity cited as what "drove me to do a carnivore diet."
-But the framing stays hedged throughout: **"a lot of people, at least anecdotally, find benefits to
-it"**; **"it's an individual decision that every parent must make for themselves."** The speaker
+But the framing stays hedged throughout: "a lot of people, at least anecdotally, find benefits to
+it"; **"it's an individual decision that every parent must make for themselves."** The speaker
 also discloses a personal limit: still "a little bit sensitive to lactose," and explicitly states
-**"I don't think raw milk fixes lactose intolerance."** A friend's counter-example is given without
+"I don't think raw milk fixes lactose intolerance." A friend's counter-example is given without
 softening: **"his acne gets worse even when he has raw milk... it doesn't work for everyone"**
 `[08:05]`.
 
@@ -93,17 +93,17 @@ softening: **"his acne gets worse even when he has raw milk... it doesn't work f
 `[06:05]`–`[07:05]` — Framed as a mineral-balance argument, parallel to "zinc and copper balance":
 **"if you're not thinking about a calcium-phosphorus balance in your diet, you're leaving... money
 on the table."** Dairy is called one of the easiest calcium sources, though bone meal is named as
-an alternative. Historically, **"most people drank raw milk up until the late 1800s"**; urban
-raw milk caused sickness in the early 1900s because cows were milked unsanitarily and fed **"spent
-grains of alcohol fermentation, which is called swill"** — stated as the historical origin of the
+an alternative. Historically, "most people drank raw milk up until the late 1800s"; urban
+raw milk caused sickness in the early 1900s because cows were milked unsanitarily and fed "spent
+grains of alcohol fermentation, which is called swill" — stated as the historical origin of the
 term. Pasteurization is credited as having "had a place and was very effective," with the claim
 that the shift away from raw milk simply never reversed even as food-safety understanding improved
 `[07:05]`.
 
 ## Homogenization
 
-`[08:05]`–`[09:06]` — Described as **"a mechanical process that they put the milk through just so
-it doesn't separate,"** not present by default in raw milk. The speaker's stance is a preference
+`[08:05]`–`[09:06]` — Described as "a mechanical process that they put the milk through just so
+it doesn't separate," not present by default in raw milk. The speaker's stance is a preference
 rather than a safety claim: **"whether or not it actually is harmful to homogenize is
 questionable, but... milk is just more delicious"** unhomogenized, with cream rising to the top.
 

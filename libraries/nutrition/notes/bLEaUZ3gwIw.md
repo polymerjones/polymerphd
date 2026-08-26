@@ -37,33 +37,33 @@ concepts:
 **Almost all salmon sold at Costco is farmed Atlantic salmon, dyed to mimic the color wild salmon
 gets naturally from its diet, and carrying meaningfully more contamination (PCBs, PFAS, heavy
 metals, antibiotics) than wild salmon — while frequently costing more per pound than grass-fed
-beef.** `[00:00]`–`[02:04]` Stated flatly: **"I would never ever ever eat a piece of farm-raised
-salmon"** `[02:04]`.
+beef.** `[00:00]`–`[02:04]` Stated flatly: "I would never ever ever eat a piece of farm-raised
+salmon" `[02:04]`.
 
 ## How wild salmon gets its color, and how farmed salmon fakes it
 
 `[01:01]`–`[03:06]` — Wild salmon's orange/red color comes from astaxanthin, a pigment in krill
-that the host calls **"probably good for humans"** as an antioxidant. Species differ by how much
+that the host calls "probably good for humans" as an antioxidant. Species differ by how much
 krill (and therefore astaxanthin) they eat: sockeye is described as the most red, coho as more
 orange, and king as sometimes white or light orange because **"king salmon actually has an enzyme
 that prevents it from metabolizing astaxanthin."** Farm-raised Atlantic salmon, by contrast, is
-naturally **"stark white"** and only takes on its familiar orange color because it is **"fed
-betacarotene in the feed"** — labels for this state **"farm-raised means color added."** The host
+naturally "stark white" and only takes on its familiar orange color because it is "fed
+betacarotene in the feed" — labels for this state **"farm-raised means color added."** The host
 demonstrates this live with an uncolored piece of salmon at the store.
 
 ## What's wrong with farm-raised salmon
 
-`[02:04]` — Farmed salmon are described as raised **"in pens or open nets in the ocean,"** crowded
-together such that **"they share diseases,"** require antibiotic feeding, and are fed pellets
-**"contaminated with pesticides, heavy metals."** The host names a specific environmental effect —
-**eutrophication**, where waste from penned salmon pollutes surrounding ocean water — and states
-farmed salmon runs higher in **PCBs (polychlorinated biphenyls)** and **PFAS ("forever
+`[02:04]` — Farmed salmon are described as raised "in pens or open nets in the ocean," crowded
+together such that "they share diseases," require antibiotic feeding, and are fed pellets
+"contaminated with pesticides, heavy metals." The host names a specific environmental effect —
+eutrophication, where waste from penned salmon pollutes surrounding ocean water — and states
+**farmed salmon runs higher in PCBs (polychlorinated biphenyls) and PFAS ("forever
 chemicals")**, and is "probably" higher in heavy metals due to how it's raised.
 
 ## Labeling tricks called out
 
-- **"Pharaoh [Faroe] Island salmon"** at high-end restaurants is, per the host, **"just a fancy way
-  of saying farm-raised salmon"** `[03:06]`.
+- **"Pharaoh [Faroe] Island salmon"** at high-end restaurants is, per the host, "just a fancy way
+  of saying farm-raised salmon" `[03:06]`.
 - Smoked salmon products (Kirkland-brand and others) marketed with decorative Greek-flag branding
   or "honey maple smoked" names are still Atlantic (farmed) salmon with **"color added"** printed
   on the ingredient panel `[07:11]`, `[09:12]`.
@@ -76,7 +76,7 @@ chemicals")**, and is "probably" higher in heavy metals due to how it's raised.
 `[04:07]`–`[06:10]` — The host describes "AI" tuna (his term for previously frozen, old,
 brown/gray tuna) being trimmed, artificially colored, and treated with carbon monoxide gas in
 freezers to appear fresh and red. He connects heavy fish consumption of this kind to mercury
-toxicity, naming **hatterism** (his term/spelling for "hatter's disease," referencing the Mad
+toxicity, naming hatterism (his term/spelling for "hatter's disease," referencing the Mad
 Hatter) as the mercury-poisoning syndrome and stating he has **"seen diagnosed cases of hatterism
 from eating too much AI tuna in sushi restaurants."**
 
@@ -89,7 +89,7 @@ hematopoietic issues from mercury, and bone marrow/blood/lymphoma cancers associ
 — stated as established associations without a specific citation. Microplastics are described as
 concentrated in fish and in bottled water (**"hundreds of thousands or millions of particles of
 microplastics in a liter"**), with lower levels in beef by comparison, and the host speculates
-(**"I suspect"**, explicitly hedged) that farmed salmon carries more microplastic contamination
+("I suspect", explicitly hedged) that farmed salmon carries more microplastic contamination
 than wild.
 
 ## Salmon versus grass-fed beef, on cost

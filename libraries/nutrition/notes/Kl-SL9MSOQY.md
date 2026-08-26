@@ -37,9 +37,9 @@ calories," "gluten-free") while the ingredient list underneath tells a different
 ## The protein bar as artifact
 
 Reading a Pure Protein bar's own label live, the two speakers walk through what a front-of-pack
-health claim conceals: **"pure protein... 20 grams of protein, 1 gram of sugar, and 180
-calories... these must be healthy"** is contradicted by an ingredient list including titanium
-dioxide, the recently-regulated dyes **yellow 5, red 3, yellow 6, and blue 1**, sucralose, and
+health claim conceals: "pure protein... 20 grams of protein, 1 gram of sugar, and 180
+calories... these must be healthy" is contradicted by an ingredient list including titanium
+dioxide, the recently-regulated dyes yellow 5, red 3, yellow 6, and blue 1, sucralose, and
 carrageenan (**"kagenan is also in here which is harmful for the gut"**) `[01:01]`, `[04:06]`. One
 speaker calls "gluten-free" a weak health signal on its own: **"The gravel in my driveway is also
 gluten-free"** `[00:00]`.
@@ -47,10 +47,10 @@ gluten-free"** `[00:00]`.
 ## The sucralose/hunger study and the protein leverage hypothesis
 
 `[02:03]`–`[03:05]` — The speaker who raises the concern (addressed in the transcript as "Josh")
-describes a study that **"gave people a similar amount of sucralose to sugar versus water in
-drinks. And even more than sugar, sucralose made people hungrier afterward."** The other speaker
-connects this to what he calls **"protein leverage hypothesis,"** stated as **"not the only thing
-that affects our satiety"** but one driver of it — the idea that getting enough protein in a day
+describes a study that "gave people a similar amount of sucralose to sugar versus water in
+drinks. And even more than sugar, sucralose made people hungrier afterward." The other speaker
+connects this to what he calls **"protein leverage hypothesis,"** stated as "not the only thing
+that affects our satiety" but one driver of it — the idea that getting enough protein in a day
 increases satiety and reduces hunger.
 
 ## The dosing rule of thumb
@@ -67,7 +67,7 @@ translates this into food terms: a pound of meat has around 100 grams of protein
 `[04:06]`–`[06:09]` — Rather than protein bars, the speaker recommends cooking meat, fish, or
 chicken, and eating protein across two or three meals a day for **"long-term satiety, lack of
 hunger, weight loss, and resilience."** For a grocery-store, no-prep option, he suggests cheese
-(especially parmesan), calling the grocery store **"modern hunting"** — his own analogy for
+(especially parmesan), calling the grocery store "modern hunting" — his own analogy for
 picking the best available option from what's on the shelf, as opposed to what's ideal `[06:09]`.
 Fruit (banana, apple, orange) is floated as a better impulse choice than a candy bar when hunger
 strikes before a proper meal can be prepared `[05:08]`.
@@ -95,7 +95,7 @@ an artificial, zero-calorie sweetener can produce *more* post-consumption hunger
 
 ## Source-stated confidence
 
-The sucralose-versus-sugar-versus-water study is described only as **"a study"** with no name,
+The sucralose-versus-sugar-versus-water study is described only as "a study" with no name,
 author, journal, or sample size given `[02:03]`. The one-gram-per-pound protein figure is
 explicitly hedged by the speaker himself as **"probably even a little of an overestimate"** and
 he immediately estimates he personally needs less, rather than presenting it as a precise

@@ -36,7 +36,7 @@ concepts:
 cocktail of contaminants introduced during industrial refining and plastic storage — solvent
 residues, migrated packaging chemicals, and heat-breakdown products — plus the fact that
 switching a fryer to tallow doesn't fully undo the problem.** The two speakers open by naming
-**"refined, bleached, and deodorized"** as the real target of concern, separate from and beyond
+"refined, bleached, and deodorized" as the real target of concern, separate from and beyond
 oxidation from heating alone `[00:00]`.
 
 ## What "refined, bleached, and deodorized" hides
@@ -44,14 +44,14 @@ oxidation from heating alone `[00:00]`.
 `[00:00]`–`[01:00]` — A cited study found **"trace amounts of benzene, which is a known
 carcinogen,"** in solvent-extracted seed oils — "all seed oils are solvent extracted." Other
 named contaminants: acrolein (formed on heating), unspecified heavy metals in vegetable oils, and
-**antimony**, said to migrate into the oil from **polyethylene containers**.
+antimony, said to migrate into the oil from polyethylene containers.
 
 ## Phthalates as a "non-negligible exposure"
 
-`[01:00]`–`[02:01]` — Phthalates, called **"endocrine disrupting,"** are reported in a cited paper
+`[01:00]`–`[02:01]` — Phthalates, called "endocrine disrupting," are reported in a cited paper
 at a **calculated average estrogenic equivalent of 2.7 to 958.1 nanograms of estradiol per liter
 — "45 to 396 times those in bottled water."** The proposed fix — glass bottles instead of
-polyethylene — is dismissed as unrealistic: **"that's never going to happen."** Light, heat, and
+polyethylene — is dismissed as unrealistic: "that's never going to happen." Light, heat, and
 oxygen are named together as the oxidation trio degrading the oil in its container `[02:01]`.
 
 ## Heat breakdown: the acrolein-and-cigarettes comparison
@@ -60,19 +60,19 @@ oxygen are named together as the oxidation trio degrading the oil in its contain
 changed roughly weekly despite being in near-continuous use ("16 hours a day"). Citing a graph of
 aldehyde levels, the source states **"the amount of acrolein in a large French fry at McDonald's
 is equivalent to the amount of acrolein in a pack of cigarettes."** He immediately narrows the
-claim: **"people like to say Paul Saladino is saying that seed oils are worse than cigarettes,
-which is not what I just said... this is just one compound."** A cited quote frames a **154-gram
+claim: "people like to say Paul Saladino is saying that seed oils are worse than cigarettes,
+which is not what I just said... this is just one compound." A cited quote frames a 154-gram
 potato chip serving's aldehyde content as "not dissimilar to those arising from a daily
-allocation of 25 tobacco cigarettes."**
+allocation of 25 tobacco cigarettes."
 
 ## Does switching to tallow actually fix it? (the Steak 'n Shake example)
 
 `[05:04]`–`[06:04]` — Steak 'n Shake's tallow-cooked fries are flagged as an incomplete fix: **"the
 fries were pre-soaked in seed oils"** before ever reaching the tallow fryer. The tallow itself is
-also **refined** — altered to be **more monounsaturated and less saturated** so it stays liquid at
-room temperature, unlike "pure" tallow. Since **"the more unsaturated an oil is, the more quickly
-it's going to be damaged when you heat it,"** this refined tallow is framed as offering only a
-partial benefit — **"theoretically... decreases the amount of things like [acrolein]... somewhat."**
+also refined — altered to be more monounsaturated and less saturated so it stays liquid at
+room temperature, unlike "pure" tallow. Since "the more unsaturated an oil is, the more quickly
+it's going to be damaged when you heat it," this refined tallow is framed as offering only a
+partial benefit — "theoretically... decreases the amount of things like [acrolein]... somewhat."
 The closing point widens past any single fat: **"if you have any significant amount of your diet
 that's from a deep fried food, no matter what it's cooked in, you're probably not optimizing."**
 
@@ -93,8 +93,8 @@ class (carcinogen, endocrine disruptor, oxidative damage) rather than describing
 ## Analogies worth reusing
 
 - **Walnuts versus the deep fryer** — intact nuts and their extracted oil are treated as
-  functionally different foods: **"you don't put walnuts into a deep fryer, but you put soybean
-  oil into a deep fryer"** `[03:02]`.
+  functionally different foods: "you don't put walnuts into a deep fryer, but you put soybean
+  oil into a deep fryer" `[03:02]`.
 
 ## Source-stated confidence
 
@@ -102,7 +102,7 @@ Studies are referenced by description (a benzene paper, a phthalate estrogenic-e
 an aldehyde graph) but not named by author, journal, or title in speech — the claims are
 attributed to "there have been studies on this" rather than a specific citation. The source
 explicitly self-corrects an overstatement in real time (the cigarette comparison), and hedges the
-Steak 'n Shake fix as **"theoretically"** working and only **"somewhat"** effective, not a full
+Steak 'n Shake fix as "theoretically" working and only **"somewhat"** effective, not a full
 solution.
 
 ## Conflicts with other sources

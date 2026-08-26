@@ -53,18 +53,18 @@ plain water's hydration value: **"according to many studies like this one, milk 
 are even more hydrating than water"** `[02:02]`. The source's own daily intake is described as
 roughly a liter of raw milk plus a liter of fresh-squeezed orange juice or watermelon juice, with
 "maybe only two glasses per day" being actual water `[04:05]`. Coffee and alcohol are excluded from
-the hydration total: **"these don't really count the same way towards your intake of fluid because
-alcohol and coffee can be dehydrating"** `[05:08]`. Tap water is explicitly avoided: **"I would not
+the hydration total: "these don't really count the same way towards your intake of fluid because
+alcohol and coffee can be dehydrating" `[05:08]`. Tap water is explicitly avoided: **"I would not
 drink water from a tap, from a sink, because of fluoride"** `[05:08]`.
 
 ## Salt and hyponatremia
 
-`[06:09]`–`[09:12]` — Drinking the full fluid target without adequate salt risks **hyponatremia**:
+`[06:09]`–`[09:12]` — Drinking the full fluid target without adequate salt risks hyponatremia:
 **"if you just drink 10 glasses of water per day, you may be hydrated, but you could be
 overhydrated"** `[06:09]`, with endurance events like an "Iron Man or a marathon" as the extreme
 case. The recommended salt intake is **8–9 grams per day** (not just sodium, total salt), increased
-for heavy sweating or a ketogenic diet: **"when you're on a ketogenic diet, your insulin can
-actually drop too low and you will not hold on to electrolytes"** `[08:10]`, which the source
+for heavy sweating or a ketogenic diet: "when you're on a ketogenic diet, your insulin can
+actually drop too low and you will not hold on to electrolytes" `[08:10]`, which the source
 connects to his own history of muscle cramps on a long-term carnivore/ketogenic diet.
 
 ## Reading your own hydration status
@@ -77,7 +77,7 @@ level of specific gravity signals dehydration... some sources say any specific g
 
 ## Exercise hydration (the Galpin equation)
 
-`[11:16]`–`[12:17]` — For exercise, the source cites **"the Galpin equation"** (attributed to Andy
+`[11:16]`–`[12:17]` — For exercise, the source cites "the Galpin equation" (attributed to Andy
 Galpin): **"take your body weight in pounds, divide that by 30, and that is the number of ounces
 you should be drinking... every 15 to 20 minutes while you're exercising"** `[11:16]`.
 

@@ -35,7 +35,7 @@ animal-based diet.
 ## The odontoblast mechanism
 
 `[00:00]` — Referencing an earlier podcast with "a biologic dentist," the source describes
-**odontoblasts** as immune cells within the tooth that fight enamel damage caused by bacteria in an
+odontoblasts as immune cells within the tooth that fight enamel damage caused by bacteria in an
 acidic post-sugar environment. His claim is conditional, not a blanket denial that sugar matters:
 **"most of the mainstream media would believe that sugar causes tooth decay, and I think that is
 true if you are fat soluble vitamin deficient"** `[00:00]`. The vitamins named are D (from sun), E,
@@ -56,7 +56,7 @@ is a pretty clear body of literature to suggest that putting fluoride in the wat
 rates of dental cavities"**, attributing this to fluoride's ability to form hydroxyapatite in
 enamel, "just like calcium can" `[02:01]`. His objection is to necessity, not mechanism: **"I don't
 believe that we need to be doing that with fluoridated water if our children are well nourished"**
-`[03:02]`, closing with **"I think fluoride is a band-aid in the water"** `[03:02]`.
+`[03:02]`, closing with "I think fluoride is a band-aid in the water" `[03:02]`.
 
 ## Symptoms and body signals addressed
 

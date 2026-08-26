@@ -39,11 +39,11 @@ concepts:
 **Nicotine itself was never the real villain of cigarettes — the 7,000-chemical, 599-additive
 delivery machine was — but the pendulum has swung too far the other way, and the current framing
 of nicotine as a harmless or even beneficial "wellness" nootropic is, in the source's own words, a
-lie built on weak or industry-funded research.** **"The villain was really the delivery system...
+lie built on weak or industry-funded research.** "The villain was really the delivery system...
 nicotine is a molecule that occurs normally in the human body that was trapped inside a horrible
-machine"** `[00:00]`. The core research citation for the counter-claim: Vanderbilt researcher Paul
-Newhouse's 30 years of work concluding that **"in a healthy person nicotine does not enhance
-cognition... it only pushes you down the other side"** `[10:13]`.
+machine" `[00:00]`. The core research citation for the counter-claim: Vanderbilt researcher Paul
+Newhouse's 30 years of work concluding that "in a healthy person nicotine does not enhance
+cognition... it only pushes you down the other side" `[10:13]`.
 
 ## From ceremonial plant to industrial molecule
 
@@ -56,15 +56,15 @@ amount of wild tobacco... much lower nicotine that is much less bioavailable." T
 
 ## How cigarettes were engineered to addict
 
-`[03:02]`–`[05:05]` — In 1994, under congressional pressure, the tobacco industry disclosed **599
-chemical additives** in a cigarette, "over a 100 of them served one single purpose, to make it more
+`[03:02]`–`[05:05]` — In 1994, under congressional pressure, the tobacco industry disclosed 599
+chemical additives in a cigarette, "over a 100 of them served one single purpose, to make it more
 addictive." Diammonium phosphate was added to convert nicotine to its freebase form — **"the exact
 same process that's used to convert cocaine into crack"** — which crosses the blood-brain barrier
 faster than the nicotine salts in wild tobacco. Marlboro is given as the case study: originally a
 mild "ladies' cigarette," sales went "through the roof" once freebasing was added `[04:04]`.
 Bronchodilators were added to deepen inhalation, sugars to produce acetaldehyde (which inhibits
 dopamine breakdown for a bigger high), and menthol to numb the throat irritation freebased nicotine
-causes. Combustion itself then adds **over 7,000 chemicals, at least 70 known carcinogens** —
+causes. Combustion itself then adds over 7,000 chemicals, at least 70 known carcinogens —
 formaldehyde, benzene, arsenic, carbon monoxide `[05:05]`. The Royal College of Physicians (UK) is
 cited as having **"concluded that nicotine is not a significant contributor to smoking related
 diseases,"** with patch users showing no increased cancer incidence even over months or years
@@ -75,8 +75,8 @@ diseases,"** with patch users showing no increased cancer incidence even over mo
 `[07:08]`–`[09:11]` — Juul (2015, a Stanford startup) borrowed Swedish nicotine-salt technology,
 delivering nicotine at lower pH for less throat irritation and bigger doses; a single pod held
 roughly 5% nicotine, "equivalent to about a pack of cigarettes." Marketed as smoking cessation, but
-flavors like "mango, mint, cucumber, creme brulee" are read as evidence **"their intentions were
-not entirely benign."** An FDA loophole is described as letting disposable vapes keep flavors Juul
+flavors like "mango, mint, cucumber, creme brulee" are read as evidence "their intentions were
+not entirely benign." An FDA loophole is described as letting disposable vapes keep flavors Juul
 itself lost. In 2024, Americans bought **$581 million packs of Zyn** ($1.8 billion revenue), the
 fourth-largest tobacco brand; Philip Morris — "the same company that spent decades engineering
 cigarettes" — acquired Zyn's parent Swedish Match for $16 billion in 2022. Public endorsements are
@@ -90,17 +90,17 @@ powerful smart drug" while invested in a competing pouch brand; Tucker Carlson's
 `[10:13]`–`[12:18]` — Paul Newhouse, PhD, Vanderbilt, described as having studied nicotine in the
 human brain for 30 years, is the source's central counter-evidence: **"in a healthy person nicotine
 does not enhance cognition... if you are sleeping enough, if you are exercising enough, if your
-diet is good, nicotine does nothing for you."** A stated exception: in people with **mild cognitive
-impairment or memory issues, nicotine supplementation "may be helpful"** `[11:15]`. Mechanistically,
+diet is good, nicotine does nothing for you."** A stated exception: in people with mild cognitive
+impairment or memory issues, nicotine supplementation "may be helpful" `[11:15]`. Mechanistically,
 nicotine is an alkaloid also found naturally in nightshade-family foods (tomatoes, goji berries,
 eggplant, peppers), though "to get the amount of nicotine found in a single cigarette, you would
 have to eat 20 pounds of eggplant" `[11:15]`.
 
 ## How nicotine acts in the brain
 
-`[12:18]`–`[13:18]` — Nicotine crosses the blood-brain barrier and binds the **nicotinic
-acetylcholine receptor** — a receptor named for the historical research compound, not for any
-nicotine naturally made in the body; its actual endogenous ligand is **acetylcholine**, "one of
+`[12:18]`–`[13:18]` — Nicotine crosses the blood-brain barrier and binds the nicotinic
+acetylcholine receptor — a receptor named for the historical research compound, not for any
+nicotine naturally made in the body; its actual endogenous ligand is acetylcholine, "one of
 your body's most important neurotransmitters for learning, memory, and attention." Binding triggers
 release of dopamine (reward/motivation — "anything that triggers the release of dopamine... is very
 addictive"), norepinephrine (alertness/focus), and beta-endorphin (pain relief/calm).
@@ -111,16 +111,16 @@ addictive"), norepinephrine (alertness/focus), and beta-endorphin (pain relief/c
 not independently verified here), covering 41
 double-blind placebo-controlled trials, is acknowledged as having found benefits — but many of
 those trials tested smokers deprived of smoking for 4 hours before a nicotine patch, which the
-source argues inflates apparent benefit: **"of course you're going to find improvements... if you
-deprive a smoker."** Newhouse is credited with noting the endpoints "did not equate to intelligence"
-or complex problem-solving. Both researchers are said to converge on the **Yerkes-Dodson law** —
+source argues inflates apparent benefit: "of course you're going to find improvements... if you
+deprive a smoker." Newhouse is credited with noting the endpoints "did not equate to intelligence"
+or complex problem-solving. Both researchers are said to converge on the Yerkes-Dodson law —
 an optimal arousal level for task performance — with "Hushman" emphasizing that under-aroused
 (impaired, withdrawing, sleep-deprived) people may benefit, while Newhouse argues **"in an
 individual that's well-slept and well-fed... you're not going to get a benefit."** One stated
-exception is Parkinson's disease: **"over 50 studies suggesting that nicotine users have a 60%
-lower risk"** — hedged immediately: "there are other things that contribute to Parkinson's...
+exception is Parkinson's disease: "over 50 studies suggesting that nicotine users have a 60%
+lower risk" — hedged immediately: "there are other things that contribute to Parkinson's...
 nicotine may have a benefit," and "nicotine is not a vitamin." Even taken at face value, cited
-effect sizes for cognitive benefit are **"0.16 to 0.44," called "small to moderate."** A 2020
+effect sizes for cognitive benefit are "0.16 to 0.44," called "small to moderate." A 2020
 systematic review is cited finding **59% of researchers publishing nicotine cognitive-benefit
 studies had prior or current tobacco industry funding, over half undisclosed** `[16:21]`.
 
@@ -129,20 +129,20 @@ studies had prior or current tobacco industry funding, over half undisclosed** `
 `[16:21]`–`[18:23]` — Chronic nicotine use is described as producing more nicotinic receptors that
 are "stuck in a state that needs nicotine to function properly." A 2012 Baylor College of Medicine
 study is cited: after 12 weeks of nicotine use, **3 months of withdrawal produced a 29% drop in
-baseline dopamine**, a deficit persisting **"for at least 10 days."** The framing: the perceived
-**"bump"** from using these products **"is not a bump. It's just returning to normal levels"** —
-what feels like a cognitive boost is **"a sensation of withdrawal"** being relieved. Withdrawal
-below baseline is described as brain fog, difficulty concentrating, **anhedonia**
+baseline dopamine**, a deficit persisting "for at least 10 days." The framing: the perceived
+"bump" from using these products "is not a bump. It's just returning to normal levels" —
+what feels like a cognitive boost is "a sensation of withdrawal" being relieved. Withdrawal
+below baseline is described as brain fog, difficulty concentrating, anhedonia
 ("difficulty feeling pleasure"), and irritability `[18:23]`.
 
 ## Cardiovascular and sleep effects
 
 `[18:23]`–`[20:25]` — A 2025 review in the European Heart Journal is cited concluding **no nicotine
 delivery system — cigarettes, vaping, or pouches — can be considered safe for the heart and blood
-vessels.** Stated effects: each dose raises heart rate **10 to 15 beats a minute** and blood
-pressure **5 to 10 millimeters of mercury**; chronic use "can impair endothelial function," increase
+vessels.** Stated effects: each dose raises heart rate 10 to 15 beats a minute and blood
+pressure 5 to 10 millimeters of mercury; chronic use "can impair endothelial function," increase
 clotting propensity, and constrict blood vessels. A 2024 study is cited finding e-cigarette users
-**20% more likely to develop heart failure**, attributed to "the nicotine in the product itself,"
+20% more likely to develop heart failure, attributed to "the nicotine in the product itself,"
 not vape additives. A 2025 study in the journal Sleep Medicine found nicotine users (smokers,
 vapers, and pouch users) got **32 minutes less deep sleep per night** than non-users, with pouch
 users' disrupted sleep architecture "identical to" smokers' `[19:24]`–`[20:25]`.
@@ -173,7 +173,7 @@ patches), with the explicit caveat: **"least harmful is not the same as harmless
 
 ## Quitting protocol
 
-`[24:30]`–`[27:33]` — Framed around a **"333 rule"** for cold-turkey quitting: the first 3 days are
+`[24:30]`–`[27:33]` — Framed around a "333 rule" for cold-turkey quitting: the first 3 days are
 worst, the next 3 weeks carry psychological addiction, and the following 3 months require
 continued vigilance. For heavier users, tapering to a minimal dose before going cold turkey is
 suggested, alongside substitutes (non-nicotine "crunchy" or caffeine/mint pouches), hydration,

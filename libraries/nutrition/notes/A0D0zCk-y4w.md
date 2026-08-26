@@ -26,16 +26,16 @@ concepts:
 
 ## Central claim
 
-**Alkaline water and "structured" water are both dismissed outright — the body regulates blood pH
+Alkaline water and "structured" water are both dismissed outright — the body regulates blood pH
 within a narrow range no matter what's drunk, and structured-water devices rest on research that
-hasn't been consistently replicated.** On alkaline water: **"the idea that you need to be
+hasn't been consistently replicated. On alkaline water: **"the idea that you need to be
 excessively alkaline or that alkalinity will predict cancer is total horseshit"** `[00:00]`. On
 structured water: **"I'm unconvinced... I think it's basically a pretty big scam"** `[02:03]`.
 
 ## Alkaline water and blood pH regulation
 
 `[00:00]` — Water is normally pH 7; the body maintains blood pH at 7.35–7.45 regardless of intake,
-and pushing it too far can cause **metabolic alkalosis** or **respiratory alkalosis**: **"you could
+and pushing it too far can cause metabolic alkalosis or respiratory alkalosis: **"you could
 drink way too much alkaline water and make your body too alkaline. It's not a good thing"**
 `[00:00]`.
 
@@ -95,8 +95,8 @@ structured... you should just drink your toilet water"** `[02:03]`.
 
 The exclusion-zone research is explicitly hedged rather than endorsed or dismissed outright: **"he
 says it's like ice, but it's not ice, okay, maybe"** `[02:03]`, and the source separately invites
-better evidence rather than claiming the question is closed: **"I really look forward to somebody
-doing some consistent research on structured water"** `[03:04]`. The pH 8.8 reflux study is
+better evidence rather than claiming the question is closed: "I really look forward to somebody
+doing some consistent research on structured water" `[03:04]`. The pH 8.8 reflux study is
 acknowledged as real research — **"there is one study that shows the potential benefits"** `[03:04]`
 — rather than dismissed alongside the rest of the alkaline water claims.
 

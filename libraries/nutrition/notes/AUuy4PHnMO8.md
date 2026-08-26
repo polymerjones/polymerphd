@@ -39,7 +39,7 @@ alcohol, you are harming your heart."** `[01:02]`–`[02:03]`
 ## The industry-funded trial and the J-curve reversal
 
 `[00:00]`–`[02:03]` — The source describes being taught in medical school that moderate drinking
-follows a J-shaped curve, then names what he calls **"this $100 million lie"** — a trial referred
+follows a J-shaped curve, then names what he calls "this $100 million lie" — a trial referred
 to in the transcript as "the mock trial," said to have raised "$100 million from alcohol companies
 because researchers promised to show the J curve in all of its glory" `[01:02]`. He credits a 2024
 reanalysis of "107 trials" by a researcher named Tim Stockwell with overturning the J-curve: **"the

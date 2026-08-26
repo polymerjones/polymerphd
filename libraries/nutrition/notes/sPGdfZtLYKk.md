@@ -35,12 +35,12 @@ good."** `[00:00]`, `[03:04]`
 
 ## Where fluoride comes from
 
-`[00:00]`–`[01:02]` — The fluoride added to drinking water is described as **fluorosilicic acid**
+`[00:00]`–`[01:02]` — The fluoride added to drinking water is described as fluorosilicic acid
 ("floristic acid" in the transcript), a waste product of phosphate fertilizer manufacturing:
 **"they realized when they kept it in the fertilizer... it would burn the root and harm the
 plant"**, so it was removed and, per the video, eventually sold to municipalities for water
-treatment `[00:00]`. The claimed dental benefit is characterized as marginal: **"some of that
-evidence is weak at best... forming a nanoparticulate layer over the tooth"** `[01:02]`, with
+treatment `[00:00]`. The claimed dental benefit is characterized as marginal: "some of that
+evidence is weak at best... forming a nanoparticulate layer over the tooth" `[01:02]`, with
 brushing using hydroxyapatite offered as a comparable alternative.
 
 ## The toothpaste warning-label dose comparison
@@ -52,11 +52,11 @@ number of glasses of tap water a day, why wouldn't I call Poison Control?"** `[0
 
 ## The National Toxicology Program report
 
-`[03:04]`–`[04:04]` — Framed through a broader principle that **"very often it's the cumulative
-dosage that determines the poison"**, using mercury in tuna as the analogy: **"nobody got mercury
+`[03:04]`–`[04:04]` — Framed through a broader principle that "very often it's the cumulative
+dosage that determines the poison", using mercury in tuna as the analogy: **"nobody got mercury
 poisoning from eating one piece of tuna fish... but if they ate it every single day, the cumulative
 toxicity is what the problem is"** `[03:04]`. The NTP report itself is recalled with an explicit
-memory hedge — **"I want to say it was about 3600 municipalities"** `[03:04]` — and found, per the
+memory hedge — "I want to say it was about 3600 municipalities" `[03:04]` — and found, per the
 video, that **"52 of 54 studies"** showed **"an inverse relationship between IQ and fluoride
 concentration, especially in preteens and teens"** `[04:04]`. The report is said to have been
 "suppressed until March of last year" and released after a Freedom of Information Act lawsuit
@@ -64,9 +64,9 @@ concentration, especially in preteens and teens"** `[04:04]`. The report is said
 
 ## Filtration failure and the "temple as filter" framing
 
-`[04:04]`–`[06:07]` — The video frames the basic choice as: **"we can either filter things before
-they get to the temple, or we can let the temple be the filter"** `[04:04]`–`[05:06]`. On filter capability
-specifically: **"a brita filter... doesn't get fluoride out of your water"**, and **"even a berky
+`[04:04]`–`[06:07]` — The video frames the basic choice as: "we can either filter things before
+they get to the temple, or we can let the temple be the filter" `[04:04]`–`[05:06]`. On filter capability
+specifically: "a brita filter... doesn't get fluoride out of your water", and **"even a berky
 filter will not get fluoride out of the water unless you use their post filter, which then puts
 aluminum hydroxide into the water"** `[05:06]`. Four-stage reverse osmosis is presented as the
 practical fix: **"there are few better investments for your home... than a reverse osmosis
