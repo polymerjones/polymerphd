@@ -1,6 +1,23 @@
 {
   "sources": [
     {
+      "id": "MyZekF0Xgck",
+      "kind": "youtube",
+      "title": "4 Ways to Reduce Microplastics in Your Body",
+      "url": "https://www.youtube.com/watch?v=MyZekF0Xgck",
+      "upload_date": "2025-09-07",
+      "duration_seconds": 540,
+      "duration": "09:00",
+      "word_count": 1969,
+      "clean_file": "clean/MyZekF0Xgck.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 540
+      }
+    },
+    {
       "id": "6tT1RQ_9-l8",
       "kind": "youtube",
       "title": "All about WATER. Fluoride? Alkaline? Structured? Filtration? Contaminants in your spring water?",
@@ -15,6 +32,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 3990
+      }
+    },
+    {
+      "id": "oWFsV2PsgO0",
+      "kind": "youtube",
+      "title": "Are pork & chicken the new seed oils?",
+      "url": "https://www.youtube.com/watch?v=oWFsV2PsgO0",
+      "upload_date": "2023-11-20",
+      "duration_seconds": 401,
+      "duration": "06:41",
+      "word_count": 1393,
+      "clean_file": "clean/oWFsV2PsgO0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 401
+      }
+    },
+    {
+      "id": "y1VcuNM35Nc",
+      "kind": "youtube",
+      "title": "Are we being deceived about grass-finished labeling?",
+      "url": "https://www.youtube.com/watch?v=y1VcuNM35Nc",
+      "upload_date": "2024-03-30",
+      "duration_seconds": 837,
+      "duration": "13:57",
+      "word_count": 2852,
+      "clean_file": "clean/y1VcuNM35Nc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 837
       }
     },
     {
@@ -35,6 +86,23 @@
       }
     },
     {
+      "id": "cQqRQ4xXq54",
+      "kind": "youtube",
+      "title": "Attack of the Oxalates! A hidden but nasty plant toxin, with Sally K Norton, MPH",
+      "url": "https://www.youtube.com/watch?v=cQqRQ4xXq54",
+      "upload_date": "2019-04-19",
+      "duration_seconds": 4228,
+      "duration": "70:28",
+      "word_count": 13409,
+      "clean_file": "clean/cQqRQ4xXq54.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 4228
+      }
+    },
+    {
       "id": "AUuy4PHnMO8",
       "kind": "youtube",
       "title": "Avoid These Drinks At All Costs",
@@ -49,6 +117,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 632
+      }
+    },
+    {
+      "id": "biaZgPq4Uw0",
+      "kind": "youtube",
+      "title": "Avoid These Egg Brands At All Costs (Buy This Instead)",
+      "url": "https://www.youtube.com/watch?v=biaZgPq4Uw0",
+      "upload_date": "2026-08-17",
+      "duration_seconds": 713,
+      "duration": "11:53",
+      "word_count": 2311,
+      "clean_file": "clean/biaZgPq4Uw0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 713
       }
     },
     {
@@ -103,6 +188,40 @@
       }
     },
     {
+      "id": "2jXnCNs9etE",
+      "kind": "youtube",
+      "title": "Cyanotoxins in algae and seaweed- why they are not beneficial for our health",
+      "url": "https://www.youtube.com/watch?v=2jXnCNs9etE",
+      "upload_date": "2022-02-26",
+      "duration_seconds": 337,
+      "duration": "05:37",
+      "word_count": 969,
+      "clean_file": "clean/2jXnCNs9etE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 337
+      }
+    },
+    {
+      "id": "kFo6mmetKmc",
+      "kind": "youtube",
+      "title": "Don’t Make These Mistakes When Buying Butter",
+      "url": "https://www.youtube.com/watch?v=kFo6mmetKmc",
+      "upload_date": "2024-07-27",
+      "duration_seconds": 371,
+      "duration": "06:11",
+      "word_count": 1345,
+      "clean_file": "clean/kFo6mmetKmc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 371
+      }
+    },
+    {
       "id": "mV58zXMBco4",
       "kind": "youtube",
       "title": "Don’t Make These Mistakes When Buying Olive Oil",
@@ -117,6 +236,91 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 227
+      }
+    },
+    {
+      "id": "J7zMToZG6mE",
+      "kind": "youtube",
+      "title": "Eat meat, save the planet. With Will Harris",
+      "url": "https://www.youtube.com/watch?v=J7zMToZG6mE",
+      "upload_date": "2023-02-21",
+      "duration_seconds": 4239,
+      "duration": "70:39",
+      "word_count": 11290,
+      "clean_file": "clean/J7zMToZG6mE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 4239
+      }
+    },
+    {
+      "id": "NMR3kHPi3lk",
+      "kind": "youtube",
+      "title": "Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice)",
+      "url": "https://www.youtube.com/watch?v=NMR3kHPi3lk",
+      "upload_date": "2026-01-09",
+      "duration_seconds": 1157,
+      "duration": "19:17",
+      "word_count": 4295,
+      "clean_file": "clean/NMR3kHPi3lk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1157
+      }
+    },
+    {
+      "id": "wrL-i4zy9xU",
+      "kind": "youtube",
+      "title": "Exposing the “Healthy” Ingredient That’s Killing You Tucker Goodrich and Jeff Nobbs",
+      "url": "https://www.youtube.com/watch?v=wrL-i4zy9xU",
+      "upload_date": "2022-11-08",
+      "duration_seconds": 6683,
+      "duration": "111:23",
+      "word_count": 19709,
+      "clean_file": "clean/wrL-i4zy9xU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 6683
+      }
+    },
+    {
+      "id": "B7FyzKsWlqo",
+      "kind": "youtube",
+      "title": "FAKE MEAT, LESS T and THYROID?",
+      "url": "https://www.youtube.com/watch?v=B7FyzKsWlqo",
+      "upload_date": "2020-03-09",
+      "duration_seconds": 121,
+      "duration": "02:01",
+      "word_count": 425,
+      "clean_file": "clean/B7FyzKsWlqo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 121
+      }
+    },
+    {
+      "id": "nRN8yhYmyVc",
+      "kind": "youtube",
+      "title": "Glyphosate: how it's harming you",
+      "url": "https://www.youtube.com/watch?v=nRN8yhYmyVc",
+      "upload_date": "2022-08-23",
+      "duration_seconds": 4298,
+      "duration": "71:38",
+      "word_count": 13545,
+      "clean_file": "clean/nRN8yhYmyVc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 4298
       }
     },
     {
@@ -137,6 +341,57 @@
       }
     },
     {
+      "id": "QHgMGn1ohH4",
+      "kind": "youtube",
+      "title": "How I Find the Healthiest Grass Fed Steak",
+      "url": "https://www.youtube.com/watch?v=QHgMGn1ohH4",
+      "upload_date": "2025-01-17",
+      "duration_seconds": 954,
+      "duration": "15:54",
+      "word_count": 3551,
+      "clean_file": "clean/QHgMGn1ohH4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 954
+      }
+    },
+    {
+      "id": "2KMaKJqU5Gs",
+      "kind": "youtube",
+      "title": "How to avoid moldy meat and why cows are NOT driving rainforest deforestation",
+      "url": "https://www.youtube.com/watch?v=2KMaKJqU5Gs",
+      "upload_date": "2022-02-11",
+      "duration_seconds": 536,
+      "duration": "08:56",
+      "word_count": 1746,
+      "clean_file": "clean/2KMaKJqU5Gs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 536
+      }
+    },
+    {
+      "id": "Os8GRj2YEUs",
+      "kind": "youtube",
+      "title": "How To Cook Organ Meat With Anya",
+      "url": "https://www.youtube.com/watch?v=Os8GRj2YEUs",
+      "upload_date": "2020-07-06",
+      "duration_seconds": 426,
+      "duration": "07:06",
+      "word_count": 1433,
+      "clean_file": "clean/Os8GRj2YEUs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 426
+      }
+    },
+    {
       "id": "fpO3Y5yVVIA",
       "kind": "youtube",
       "title": "How To Decode Egg Labels For The Healthiest Choice",
@@ -151,6 +406,74 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 388
+      }
+    },
+    {
+      "id": "vvHMEumxHTc",
+      "kind": "youtube",
+      "title": "How to lower glyphosate exposure",
+      "url": "https://www.youtube.com/watch?v=vvHMEumxHTc",
+      "upload_date": "2022-08-29",
+      "duration_seconds": 213,
+      "duration": "03:33",
+      "word_count": 744,
+      "clean_file": "clean/vvHMEumxHTc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 213
+      }
+    },
+    {
+      "id": "5Rkk-Be3AqY",
+      "kind": "youtube",
+      "title": "How to raise chickens and pork appropriately",
+      "url": "https://www.youtube.com/watch?v=5Rkk-Be3AqY",
+      "upload_date": "2024-03-28",
+      "duration_seconds": 484,
+      "duration": "08:04",
+      "word_count": 1678,
+      "clean_file": "clean/5Rkk-Be3AqY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 484
+      }
+    },
+    {
+      "id": "mXRxFtQiT3I",
+      "kind": "youtube",
+      "title": "How To Shop For Meat And Eggs At Costco",
+      "url": "https://www.youtube.com/watch?v=mXRxFtQiT3I",
+      "upload_date": "2026-05-22",
+      "duration_seconds": 1158,
+      "duration": "19:18",
+      "word_count": 3864,
+      "clean_file": "clean/mXRxFtQiT3I.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1158
+      }
+    },
+    {
+      "id": "DwRxSE8m3sQ",
+      "kind": "youtube",
+      "title": "How to Shop for Meat at the Grocery Store",
+      "url": "https://www.youtube.com/watch?v=DwRxSE8m3sQ",
+      "upload_date": "2024-02-21",
+      "duration_seconds": 537,
+      "duration": "08:57",
+      "word_count": 1940,
+      "clean_file": "clean/DwRxSE8m3sQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 537
       }
     },
     {
@@ -188,6 +511,40 @@
       }
     },
     {
+      "id": "jhr-imd1HYI",
+      "kind": "youtube",
+      "title": "Is This The Best Butcher Shop In Texas?",
+      "url": "https://www.youtube.com/watch?v=jhr-imd1HYI",
+      "upload_date": "2025-11-28",
+      "duration_seconds": 933,
+      "duration": "15:33",
+      "word_count": 3258,
+      "clean_file": "clean/jhr-imd1HYI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 933
+      }
+    },
+    {
+      "id": "lDQofCXuYik",
+      "kind": "youtube",
+      "title": "McDonald's Secret Ingredients You Never Knew About",
+      "url": "https://www.youtube.com/watch?v=lDQofCXuYik",
+      "upload_date": "2024-03-05",
+      "duration_seconds": 822,
+      "duration": "13:42",
+      "word_count": 2841,
+      "clean_file": "clean/lDQofCXuYik.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 822
+      }
+    },
+    {
       "id": "SPaqnDv-qmQ",
       "kind": "youtube",
       "title": "Never Buy These Egg Brands in 2026 (Get THIS Instead)",
@@ -219,6 +576,57 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 439
+      }
+    },
+    {
+      "id": "9boE1IOF_M4",
+      "kind": "youtube",
+      "title": "Regeneratively raised cattle are carbon negative",
+      "url": "https://www.youtube.com/watch?v=9boE1IOF_M4",
+      "upload_date": "2022-07-01",
+      "duration_seconds": 372,
+      "duration": "06:12",
+      "word_count": 1150,
+      "clean_file": "clean/9boE1IOF_M4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 372
+      }
+    },
+    {
+      "id": "FFwAgyTDSH8",
+      "kind": "youtube",
+      "title": "Revealing Shake Shack Secret Ingredients",
+      "url": "https://www.youtube.com/watch?v=FFwAgyTDSH8",
+      "upload_date": "2024-11-09",
+      "duration_seconds": 1148,
+      "duration": "19:08",
+      "word_count": 3508,
+      "clean_file": "clean/FFwAgyTDSH8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1148
+      }
+    },
+    {
+      "id": "MMvzIVSS4wI",
+      "kind": "youtube",
+      "title": "Stop eating soy and beans (Genistein + Glyphosate)",
+      "url": "https://www.youtube.com/watch?v=MMvzIVSS4wI",
+      "upload_date": "2022-08-27",
+      "duration_seconds": 258,
+      "duration": "04:18",
+      "word_count": 706,
+      "clean_file": "clean/MMvzIVSS4wI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 258
       }
     },
     {
@@ -256,6 +664,108 @@
       }
     },
     {
+      "id": "MvP689Rmt14",
+      "kind": "youtube",
+      "title": "The dangers of additives",
+      "url": "https://www.youtube.com/watch?v=MvP689Rmt14",
+      "upload_date": "2023-02-06",
+      "duration_seconds": 486,
+      "duration": "08:06",
+      "word_count": 1592,
+      "clean_file": "clean/MvP689Rmt14.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 486
+      }
+    },
+    {
+      "id": "HK9_KYWli5I",
+      "kind": "youtube",
+      "title": "The dangers of high fructose corn syrup",
+      "url": "https://www.youtube.com/watch?v=HK9_KYWli5I",
+      "upload_date": "2023-02-02",
+      "duration_seconds": 655,
+      "duration": "10:55",
+      "word_count": 2021,
+      "clean_file": "clean/HK9_KYWli5I.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 655
+      }
+    },
+    {
+      "id": "e9UU45pt4Q8",
+      "kind": "youtube",
+      "title": "The dangers of pesticides",
+      "url": "https://www.youtube.com/watch?v=e9UU45pt4Q8",
+      "upload_date": "2022-08-25",
+      "duration_seconds": 271,
+      "duration": "04:31",
+      "word_count": 865,
+      "clean_file": "clean/e9UU45pt4Q8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 271
+      }
+    },
+    {
+      "id": "Ry4G6ljw5EA",
+      "kind": "youtube",
+      "title": "The dangers of PFAS in fish",
+      "url": "https://www.youtube.com/watch?v=Ry4G6ljw5EA",
+      "upload_date": "2022-06-17",
+      "duration_seconds": 412,
+      "duration": "06:52",
+      "word_count": 1298,
+      "clean_file": "clean/Ry4G6ljw5EA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 412
+      }
+    },
+    {
+      "id": "xt3ZOwgj_5Y",
+      "kind": "youtube",
+      "title": "The Dark Side of White Meat",
+      "url": "https://www.youtube.com/watch?v=xt3ZOwgj_5Y",
+      "upload_date": "2025-01-29",
+      "duration_seconds": 260,
+      "duration": "04:20",
+      "word_count": 857,
+      "clean_file": "clean/xt3ZOwgj_5Y.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 260
+      }
+    },
+    {
+      "id": "4eHW8mP9RJo",
+      "kind": "youtube",
+      "title": "The Deadly Red Meat Disease Taking Over America",
+      "url": "https://www.youtube.com/watch?v=4eHW8mP9RJo",
+      "upload_date": "2026-05-30",
+      "duration_seconds": 1172,
+      "duration": "19:32",
+      "word_count": 3832,
+      "clean_file": "clean/4eHW8mP9RJo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1172
+      }
+    },
+    {
       "id": "PmObqSKkX1w",
       "kind": "youtube",
       "title": "The Disturbing History of Corn Flakes",
@@ -270,6 +780,91 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 359
+      }
+    },
+    {
+      "id": "lzazaZLnWNA",
+      "kind": "youtube",
+      "title": "The history and DANGERS of seed oils",
+      "url": "https://www.youtube.com/watch?v=lzazaZLnWNA",
+      "upload_date": "2022-02-16",
+      "duration_seconds": 493,
+      "duration": "08:13",
+      "word_count": 1650,
+      "clean_file": "clean/lzazaZLnWNA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 493
+      }
+    },
+    {
+      "id": "7eNXCx4EUjQ",
+      "kind": "youtube",
+      "title": "The infant formula/seed oil scandal",
+      "url": "https://www.youtube.com/watch?v=7eNXCx4EUjQ",
+      "upload_date": "2023-12-25",
+      "duration_seconds": 385,
+      "duration": "06:25",
+      "word_count": 1176,
+      "clean_file": "clean/7eNXCx4EUjQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 385
+      }
+    },
+    {
+      "id": "CfmMPvcTLAg",
+      "kind": "youtube",
+      "title": "The problems with plant based meat",
+      "url": "https://www.youtube.com/watch?v=CfmMPvcTLAg",
+      "upload_date": "2023-07-06",
+      "duration_seconds": 532,
+      "duration": "08:52",
+      "word_count": 1732,
+      "clean_file": "clean/CfmMPvcTLAg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 532
+      }
+    },
+    {
+      "id": "-Wn32snt0YY",
+      "kind": "youtube",
+      "title": "The secret benefits of Grass-Fed BEEF TALLOW",
+      "url": "https://www.youtube.com/watch?v=-Wn32snt0YY",
+      "upload_date": "2024-08-06",
+      "duration_seconds": 555,
+      "duration": "09:15",
+      "word_count": 1963,
+      "clean_file": "clean/-Wn32snt0YY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 555
+      }
+    },
+    {
+      "id": "pvjeI77-7bA",
+      "kind": "youtube",
+      "title": "The secret ingredient in corn flakes is a religious agenda. Revisionist history with Gary Fettke, MD",
+      "url": "https://www.youtube.com/watch?v=pvjeI77-7bA",
+      "upload_date": "2019-08-06",
+      "duration_seconds": 5628,
+      "duration": "93:48",
+      "word_count": 16812,
+      "clean_file": "clean/pvjeI77-7bA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 5628
       }
     },
     {
@@ -324,6 +919,23 @@
       }
     },
     {
+      "id": "dm9-DDoSqhM",
+      "kind": "youtube",
+      "title": "There are NO hidden dangers in fruit and honey",
+      "url": "https://www.youtube.com/watch?v=dm9-DDoSqhM",
+      "upload_date": "2022-12-12",
+      "duration_seconds": 864,
+      "duration": "14:24",
+      "word_count": 2486,
+      "clean_file": "clean/dm9-DDoSqhM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 864
+      }
+    },
+    {
       "id": "c1kyubykrvA",
       "kind": "youtube",
       "title": "This Is How Canada Convinced You To Eat Engine Lubricant",
@@ -375,6 +987,57 @@
       }
     },
     {
+      "id": "4HurlX9qpLY",
+      "kind": "youtube",
+      "title": "Why grass-finished meat is better",
+      "url": "https://www.youtube.com/watch?v=4HurlX9qpLY",
+      "upload_date": "2022-08-27",
+      "duration_seconds": 181,
+      "duration": "03:01",
+      "word_count": 532,
+      "clean_file": "clean/4HurlX9qpLY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 181
+      }
+    },
+    {
+      "id": "jzszqg-xQGM",
+      "kind": "youtube",
+      "title": "Why I don't eat fish, chicken or pork!",
+      "url": "https://www.youtube.com/watch?v=jzszqg-xQGM",
+      "upload_date": "2022-06-14",
+      "duration_seconds": 3366,
+      "duration": "56:06",
+      "word_count": 10221,
+      "clean_file": "clean/jzszqg-xQGM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3366
+      }
+    },
+    {
+      "id": "Jy8fbpMHgqo",
+      "kind": "youtube",
+      "title": "Why PEANUT BUTTER is one of the worst foods with Dave Asprey",
+      "url": "https://www.youtube.com/watch?v=Jy8fbpMHgqo",
+      "upload_date": "2023-04-04",
+      "duration_seconds": 3963,
+      "duration": "66:03",
+      "word_count": 13328,
+      "clean_file": "clean/Jy8fbpMHgqo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3963
+      }
+    },
+    {
       "id": "hljJ0T7yASU",
       "kind": "youtube",
       "title": "Why Sugar & Fruit Juice Are NOT The Same",
@@ -409,6 +1072,23 @@
       }
     },
     {
+      "id": "Tg6qO3aEw9E",
+      "kind": "youtube",
+      "title": "Why You Should Avoid Cooking With These Oils",
+      "url": "https://www.youtube.com/watch?v=Tg6qO3aEw9E",
+      "upload_date": "2024-08-23",
+      "duration_seconds": 675,
+      "duration": "11:15",
+      "word_count": 2449,
+      "clean_file": "clean/Tg6qO3aEw9E.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 675
+      }
+    },
+    {
       "id": "1Fke1NV4ZdA",
       "kind": "youtube",
       "title": "Why Your \"Organic\" Honey Is Full Of Pesticides (w/ Eric Mason)",
@@ -440,6 +1120,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 313
+      }
+    },
+    {
+      "id": "HPTpID3vV_o",
+      "kind": "youtube",
+      "title": "Your bacon is BS: Stop eating pork",
+      "url": "https://www.youtube.com/watch?v=HPTpID3vV_o",
+      "upload_date": "2022-06-20",
+      "duration_seconds": 251,
+      "duration": "04:11",
+      "word_count": 723,
+      "clean_file": "clean/HPTpID3vV_o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 251
+      }
+    },
+    {
+      "id": "qxhOQ6PY5ME",
+      "kind": "youtube",
+      "title": "Your kale contains heavy metals",
+      "url": "https://www.youtube.com/watch?v=qxhOQ6PY5ME",
+      "upload_date": "2022-08-28",
+      "duration_seconds": 478,
+      "duration": "07:58",
+      "word_count": 1649,
+      "clean_file": "clean/qxhOQ6PY5ME.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 478
       }
     }
   ],

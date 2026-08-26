@@ -3,13 +3,25 @@
 Every source ingested into this knowledge package, with the Main subjects, Foods & products, Concerns, and Important concepts each one covers.
 
 **Video sources from:** Paul Saladino MD — https://www.youtube.com/@Paulsaladinomd  
-**Sources catalogued:** 26
+**Sources catalogued:** 68
 
 Entries are alphabetical by title. Use the source ID to trace any claim in the other files back to its source.
 
 ---
 
-## 1. All about WATER. Fluoride? Alkaline? Structured? Filtration? Contaminants in your spring water?
+## 1. 4 Ways to Reduce Microplastics in Your Body
+
+- **Source ID:** `MyZekF0Xgck`
+- **URL:** https://www.youtube.com/watch?v=MyZekF0Xgck
+- **Upload date:** 2025-09-07
+- **Duration:** 09:00
+- **Source file:** `sources/clean/MyZekF0Xgck.txt`
+- **Main subjects:** practical exposure points for microplastics (bottled water, hot liquids in plastic, tea bags, meat packaging, coffee makers), PFAS in moisture-wicking clothing, a pair of studies on polyester underwear and sperm count in humans and dogs
+- **Foods & products:** bottled water, canned soup and soda, tea (pyramidal plastic tea bags), meat (plastic-wrapped versus butcher paper or vacuum-sealed with a parchment barrier)
+- **Concerns:** microplastics found in human testicles, ovaries, and brains, hot liquid contact with plastic or aluminum increasing chemical/particle transfer, PFAS sprayed onto leggings and other clothing as a "moisture-wicking" treatment, polyester underwear reducing sperm count in a human and canine study
+- **Important concepts:** microplastics as a "flux" the body absorbs and gradually clears rather than a one-time dose, hot-liquid-to-plastic/aluminum transfer as the largest controllable exposure route, an electrostatic (not endocrine) mechanism proposed for the polyester/sperm-count finding
+
+## 2. All about WATER. Fluoride? Alkaline? Structured? Filtration? Contaminants in your spring water?
 
 - **Source ID:** `6tT1RQ_9-l8`
 - **URL:** https://www.youtube.com/watch?v=6tT1RQ_9-l8
@@ -21,7 +33,31 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluoride in municipal drinking water and in fluoride toothpaste/dental treatments, dental fluorosis traced to a vegetable tenderizer rather than water itself, radioactive contamination (uranium, alpha/beta particles) in European mineral waters, aluminum oxide/hydroxide added by Berkey post-filters, unsubstantiated marketing claims behind alkaline water and "structured" water devices
 - **Important concepts:** reverse osmosis as the preferred filtration method, unremineralized, a possible U-shaped dose-response for fluoride, pineal gland fluoride accumulation and calcification as an unresolved question, odontoblasts and fat-soluble vitamins as an alternative explanation for cavities, exclusion-zone ("fourth phase") water research contrasted with commercial "structuring" devices
 
-## 2. Are you drinking radioactive elements in your bottled water?
+## 3. Are pork & chicken the new seed oils?
+
+- **Source ID:** `oWFsV2PsgO0`
+- **URL:** https://www.youtube.com/watch?v=oWFsV2PsgO0
+- **Upload date:** 2023-11-20
+- **Duration:** 06:41
+- **Source file:** `sources/clean/oWFsV2PsgO0.txt`
+- **Main subjects:** linoleic acid content in conventionally fed pork, chicken, and their eggs, compared to seed oils, a farm visit near Byron Bay, Australia showing pastured pork done with attention to feed, a comparative argument that dietary fish oil and omega-3 fats may carry similar or greater peroxidation risk than omega-6 seed oils
+- **Foods & products:** pork (bacon, lard), chicken and chicken fat, eggs, fish oil, fatty fish (e.g., salmon), leaner fish, nuts and seeds (mentioned as another high-PUFA source)
+- **Concerns:** linoleic acid (omega-6 polyunsaturated fat) in commercially fed pork and chicken, lipid peroxidation from omega-3 fats, on the shelf and in the body, fish oil supplements already oxidized before consumption
+- **Important concepts:** the membrane pacemaker theory of aging, differing signaling byproducts ("ioso") produced by omega-3 versus omega-6 fats, peroxidation susceptibility scaling with number of double bonds in a fat
+
+## 4. Are we being deceived about grass-finished labeling?
+
+- **Source ID:** `y1VcuNM35Nc`
+- **URL:** https://www.youtube.com/watch?v=y1VcuNM35Nc
+- **Upload date:** 2024-03-30
+- **Duration:** 13:57
+- **Source file:** `sources/clean/y1VcuNM35Nc.txt`
+- **Main subjects:** how a new grass-fed, grass-finished, regeneratively raised meat stick is formulated and preserved, why the speakers believe most retail "grass-fed" meat cannot actually be grass-finished at that price point, air-drying versus curing versus cooking as preservation methods for meat snacks
+- **Foods & products:** a meat stick containing beef, heart, and liver, retail "grass-fed" ground meat and meat sticks (unnamed brands), grass pellets and alfalfa pellets fed to cattle marketed as grass-fed, organ capsules sourced from Chile and Argentina (comparison example)
+- **Concerns:** the "greenwashing" of grass-fed labels via pellet-fed cattle, synthetic vitamins and minerals added to feed pellets, undisclosed on the label, suppliers refusing farm visits or signed practice affidavits, preservatives (nitrates, nitrites, celery powder, lactic acid) in cured meat products
+- **Important concepts:** grass-fed versus grass-finished as distinct, commonly conflated claims, air drying as a preservation method distinct from curing or cooking, accelerated shelf-life testing as a substitute for added preservatives
+
+## 5. Are you drinking radioactive elements in your bottled water?
 
 - **Source ID:** `Xr1Wkn1fj58`
 - **URL:** https://www.youtube.com/watch?v=Xr1Wkn1fj58
@@ -33,7 +69,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** radioactive contaminants (uranium, gross alpha, gross beta) in European bottled mineral waters, plastic contamination in Fiji water
 - **Important concepts:** millisievert dose comparisons (chest x-ray, CT scan, flights) as a framework for interpreting water radioactivity, a mineral water's percentage share of a person's total daily uranium intake
 
-## 3. Avoid These Drinks At All Costs
+## 6. Attack of the Oxalates! A hidden but nasty plant toxin, with Sally K Norton, MPH
+
+- **Source ID:** `cQqRQ4xXq54`
+- **URL:** https://www.youtube.com/watch?v=cQqRQ4xXq54
+- **Upload date:** 2019-04-19
+- **Duration:** 70:28
+- **Source file:** `sources/clean/cQqRQ4xXq54.txt`
+- **Main subjects:** Sally Norton's personal history of decades-long joint pain, foot pain, and a sleep disorder that resolved on a low-oxalate diet, what oxalate is, how it forms crystals, and why plants make it, which common foods carry the most oxalate and roughly how much is tolerable, oxalate dumping, symptoms that appear when someone stops eating high-oxalate foods, whether collagen/gelatin intake meaningfully raises the body's own oxalate production
+- **Foods & products:** spinach, Swiss chard, beet greens, kale, rhubarb, almonds, peanuts, sesame seeds, poppy seeds, potatoes, sweet potatoes, sorrel, bone broth / gelatin / collagen
+- **Concerns:** kidney stones (calcium oxalate), vulvodynia and other tissue pain attributed to oxalate crystal deposition, a documented human death from oxalate toxicity (sorrel soup), electrolyte and B-vitamin depletion during a transition off high-oxalate foods
+- **Important concepts:** oxalate as a "nutrient-to-toxin" mineral binder (calcium oxalate formation), oxalate accumulation in tissue over years, distinct from acute dietary exposure, the citrate-form mineral strategy (potassium/magnesium/calcium citrate) for managing crystal reaccumulation, endogenous oxalate production from hydroxyproline (collagen) metabolism
+
+## 7. Avoid These Drinks At All Costs
 
 - **Source ID:** `AUuy4PHnMO8`
 - **URL:** https://www.youtube.com/watch?v=AUuy4PHnMO8
@@ -45,7 +93,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** alcohol-industry funding of favorable cardiovascular research, glyphosate/pesticide contamination in beer, wine, and some bourbons, gluten exposure from beer, congeners in dark/non-clear alcohols worsening hangovers
 - **Important concepts:** a linear, not J-shaped, dose-response between alcohol and cardiovascular risk, acetaldehyde as alcohol's toxic metabolite, alcohol disrupting normal sleep architecture
 
-## 4. Avoid These Fish at All Costs
+## 8. Avoid These Egg Brands At All Costs (Buy This Instead)
+
+- **Source ID:** `biaZgPq4Uw0`
+- **URL:** https://www.youtube.com/watch?v=biaZgPq4Uw0
+- **Upload date:** 2026-08-17
+- **Duration:** 11:53
+- **Source file:** `sources/clean/biaZgPq4Uw0.txt`
+- **Main subjects:** a side-by-side purchase and label breakdown of nine egg cartons bought at one store, what each carton label (outdoor access, cage-free, free-range, pasture-raised, organic, regenerative, grade, size, shell color) actually certifies, cracking all nine eggs open and ranking them by yolk height and white thickness
+- **Foods & products:** eggs (nine named cartons, including Vital Farms Restorative Pasture Raised, Vital Farms Organic Pasture Raised, "True Blue" heirloom blue eggs, and unnamed organic/free-range/ cage-free/outdoor-access store brands)
+- **Concerns:** vague or legally toothless labels (outdoor access, regenerative), yolk color manipulated with marigold or other pigmented feed, conventional grain feed carrying pesticide residue into the egg
+- **Important concepts:** eggshell color as chicken genetics (protoporphyrin IX, oocyanin), unrelated to egg quality, grade A/B as a visual-appearance standard, not a nutrition standard, regenerative labeling borrowed from cattle-grazing terminology, without legal definition
+
+## 9. Avoid These Fish at All Costs
 
 - **Source ID:** `bLEaUZ3gwIw`
 - **URL:** https://www.youtube.com/watch?v=bLEaUZ3gwIw
@@ -57,7 +117,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** {'farm-raised salmon': 'added coloring, antibiotics, PCBs, PFAS, higher heavy metal risk'}, eutrophication of surrounding ocean water from open-net salmon farming, AI ("previously frozen") tuna colored and carbon-monoxide-treated to look fresh, mercury, lead, cadmium, and arsenic exposure from fish, especially tuna, microplastics in seafood, drinking water, and bottled water, {'price': 'farmed salmon costing more per pound than grass-fed beef'}
 - **Important concepts:** astaxanthin as the natural pigment source in wild salmon versus added coloring in farmed salmon, eutrophication from concentrated open-net fish farming, sushi-grade labeling as a farmed-fish loophole around parasite-freezing rules
 
-## 5. Avoid These Olive Oils
+## 10. Avoid These Olive Oils
 
 - **Source ID:** `JpW1utNfQM0`
 - **URL:** https://www.youtube.com/watch?v=JpW1utNfQM0
@@ -69,7 +129,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** phthalate contamination via oil-plastic contact during processing/storage, endocrine disruption (infertility, hormone disruption, learning disorders), heat instability of olive/avocado oil relative to saturated animal fats
 - **Important concepts:** phthalates as lipophilic plasticizers, peroxidation index versus smoke point as distinct heat-stability measures, brand-level independent analysis as opposed to category-level claims
 
-## 6. Bottled Water Brands To AVOID at All Costs (And 2 That Won’t Poison You)
+## 11. Bottled Water Brands To AVOID at All Costs (And 2 That Won’t Poison You)
 
 - **Source ID:** `SR0x-de80iU`
 - **URL:** https://www.youtube.com/watch?v=SR0x-de80iU
@@ -81,7 +141,31 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** heavy metals (lead, mercury, arsenic, cadmium, aluminum) in bottled water, uranium (a radioactive element) in bottled water, PFAS ("forever chemicals") contamination, BPA in bottled water, microplastics and nanoplastics, especially from plastic bottles, bromoform/trihalomethane findings suggesting municipal water mixed into "spring water" brands
 - **Important concepts:** certificate-of-analysis transparency versus third-party consumer grading platforms, nanoplastic particle size versus microplastic particle size and why that changes what testing can detect, a cumulative, kilogram-quantity exposure argument for treating water as the largest single dietary input
 
-## 7. Don’t Make These Mistakes When Buying Olive Oil
+## 12. Cyanotoxins in algae and seaweed- why they are not beneficial for our health
+
+- **Source ID:** `2jXnCNs9etE`
+- **URL:** https://www.youtube.com/watch?v=2jXnCNs9etE
+- **Upload date:** 2022-02-26
+- **Duration:** 05:37
+- **Source file:** `sources/clean/2jXnCNs9etE.txt`
+- **Main subjects:** why algae supplements (spirulina, AFA, chlorella) count as defended plants rather than benign health foods, a 2016 study finding cyanotoxin contamination in commercial algae dietary supplements, a study finding toxic and anti-nutritional compounds, plus heavy metals, in seaweed
+- **Foods & products:** spirulina, AFA / Aphanizomenon flos-aquae ("blue-green algae" from Klamath Lake), chlorella, kelp, dulse, seaweed (general)
+- **Concerns:** cyanotoxin contamination in algae dietary supplements, heavy metal content in seaweed (cadmium, chromium, nickel, vanadium), digestive enzyme inhibitors and other plant defense chemicals in seaweed
+- **Important concepts:** cyanobacteria's roughly 3.5-billion-year evolutionary head start over the ~500-million-year plant/animal co-evolution the source cites, microcystins and BMAA as named cyanotoxins, chlorella as a short-term "medicine," not a daily food
+
+## 13. Don’t Make These Mistakes When Buying Butter
+
+- **Source ID:** `kFo6mmetKmc`
+- **URL:** https://www.youtube.com/watch?v=kFo6mmetKmc
+- **Upload date:** 2024-07-27
+- **Duration:** 06:11
+- **Source file:** `sources/clean/kFo6mmetKmc.txt`
+- **Main subjects:** a buying hierarchy for butter (raw, then grass-fed and organic), why olive and avocado oil are avoided as cooking fats here too, a butter-specific brand scandal and a warning about plant-based "butters", a contrarian claim that whole-food fats like butter don't cause weight gain
+- **Foods & products:** raw (unpasteurized) butter, grass-fed organic butter, including Irish grass-fed butter, Kerrygold butter (transcribed "KY gold"), plant-based butter spreads, including a named "Earth Balance" product, tallow, ghee, olive oil, avocado oil (comparison fats)
+- **Concerns:** pasteurization altering milk protein structure, PFAS ("forever chemicals") found in butter packaging, a grass-fed claim scandal at a named butter brand, seed oils in plant-based butter substitutes, oxidation of olive and avocado oil under cooking heat
+- **Important concepts:** conformational protein structure changed by pasteurization, odd-chain fatty acids (C15, C17) as a marker associated with good outcomes, CLA (conjugated linoleic acid) as a leanness-associated compound, satiety feedback as the mechanism preventing overeating on whole foods
+
+## 14. Don’t Make These Mistakes When Buying Olive Oil
 
 - **Source ID:** `mV58zXMBco4`
 - **URL:** https://www.youtube.com/watch?v=mV58zXMBco4
@@ -93,7 +177,67 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** phthalates from plastic packaging/processing contact, cutting olive or avocado oil with seed oil, assuming price predicts quality, low heat stability relative to animal fats
 - **Important concepts:** phthalates as endocrine disruptors, single-source sourcing as a defense against seed-oil cutting, lipophilic (fat-attracting) migration of plastic chemicals into oil
 
-## 8. How Contaminated Is Your Favorite Salt?
+## 15. Eat meat, save the planet. With Will Harris
+
+- **Source ID:** `J7zMToZG6mE`
+- **URL:** https://www.youtube.com/watch?v=J7zMToZG6mE
+- **Upload date:** 2023-02-21
+- **Duration:** 70:39
+- **Source file:** `sources/clean/J7zMToZG6mE.txt`
+- **Main subjects:** a podcast interview with Will Harris of White Oak Pastures on regenerative cattle grazing, the carbon cycle explained through photosynthesis, root exudates, and cattle methane, a life-cycle-assessment comparison between White Oak's grass-fed beef and an Impossible Burger, USDA labeling and "greenwashing" in pasture-raised and grass-fed marketing, whether regenerative agriculture can scale
+- **Foods & products:** grass-fed, grass-finished beef, Impossible Burger (as the carbon-footprint comparison), pasture-raised versus grass-fed/grass-finished retail beef labeling
+- **Concerns:** USDA country-of-origin and pasture-raised labeling described as misleading, monocrop agriculture stripping soil organic matter and causing topsoil runoff, CAFO (confined animal feeding operation) housing as a described form of animal cruelty
+- **Important concepts:** holistic management and the "cycles of nature" (water, energy, microbial, grazing, carbon), soil organic matter as both a carbon sink and a rainwater buffer, multi-species grazing symbiosis interrupting parasite life cycles, being "replicable" rather than "linearly scalable" as the framing for regenerative agriculture's growth
+
+## 16. Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice)
+
+- **Source ID:** `NMR3kHPi3lk`
+- **URL:** https://www.youtube.com/watch?v=NMR3kHPi3lk
+- **Upload date:** 2026-01-09
+- **Duration:** 19:17
+- **Source file:** `sources/clean/NMR3kHPi3lk.txt`
+- **Main subjects:** a grocery-store walkthrough applying a "food for humans" single-ingredient test aisle by aisle, organic-labeling verification and pesticide exposure in produce, meat, chicken, and salmon sourcing choices at Trader Joe's, specific packaged items (spinach artichoke dip, tortilla chips, hash browns) broken down by ingredient
+- **Foods & products:** Trader Joe's spinach and artichoke dip, Trader Joe's beef bulgogi, Trader Joe's seasoned corn ribs, Trader Joe's hash browns, Trader Joe's rolled corn tortilla chips with chili and lime, organic produce, raw milk cheese, grass-fed beef, conventional and air-chilled chicken, Atlantic and Alaskan sockeye salmon, eggs, coffee
+- **Concerns:** natural flavors as an undisclosed-ingredient loophole, seed oils in marinated meats and packaged foods, carrageenan and other gums, pesticide residue on non-organic produce, retained water and chlorine treatment in conventional chicken, contaminants (added coloring, heavy metals, PCBs, microplastics) in farmed Atlantic salmon, citric acid derived from black mold (Aspergillus), mold toxins in unscreened coffee
+- **Important concepts:** food for humans as a single-ingredient shopping heuristic, the organic barcode prefix as a label-verification trick, egg tier variation within a single farm based on feed and housing, alcohol as having no safe dose
+
+## 17. Exposing the “Healthy” Ingredient That’s Killing You Tucker Goodrich and Jeff Nobbs
+
+- **Source ID:** `wrL-i4zy9xU`
+- **URL:** https://www.youtube.com/watch?v=wrL-i4zy9xU
+- **Upload date:** 2022-11-08
+- **Duration:** 111:23
+- **Source file:** `sources/clean/wrL-i4zy9xU.txt`
+- **Main subjects:** the evolutionary and anthropological case against seed-oil consumption, 4-hydroxynonenal (HNE) as an obesogenic breakdown product of linoleic acid, the endocannabinoid system as a mechanism linking linoleic acid to overeating, oxidized LDL as the proposed initiating step of atherosclerosis, critiques of specific studies used to defend seed oils (the Swedish muffin study, Kevin Hall's ultra-processed-food study)
+- **Foods & products:** seed oils (canola, soybean, corn, sunflower, rice bran), conventionally raised chicken and pork fat versus wild chicken and pork fat, farmed salmon fed high-linoleic-acid feed, palm oil, tallow, lard, butter, fish oil versus whole fish (triglyceride versus phospholipid omega-3)
+- **Concerns:** HNE as a toxic, obesogenic linoleic-acid breakdown product, endocannabinoid-driven overeating from dietary linoleic acid, oxidized LDL initiating atherosclerosis, trans fats formed during seed-oil refining, mislabeled as "0 grams trans fat", linoleic acid's link to age-related macular degeneration, deforestation and land use from vegetable-oil cropland
+- **Important concepts:** the endocannabinoid system (AEA, 2-AG, CB1 receptors) and hypophagic/hyperphagic signaling, beta-oxidation/ketosis as a disposal route for HNE, triglyceride versus phospholipid position of fatty acids (sn-1/2/3, the Chimane/Tsimane and !Kung/Bushmen anthropological comparisons), healthy-user bias in observational nutrition studies
+
+## 18. FAKE MEAT, LESS T and THYROID?
+
+- **Source ID:** `B7FyzKsWlqo`
+- **URL:** https://www.youtube.com/watch?v=B7FyzKsWlqo
+- **Upload date:** 2020-03-09
+- **Duration:** 02:01
+- **Source file:** `sources/clean/B7FyzKsWlqo.txt`
+- **Main subjects:** soy protein in plant-based burgers and its claimed effect on thyroid function, male hypothyroidism as an under-recognized cause of low testosterone symptoms
+- **Foods & products:** plant-based burgers (Beyond Burger, Impossible Burger) containing soy protein
+- **Concerns:** soy protein's claimed thyroid impact, "specifically" for men, testosterone replacement or antidepressants prescribed without first checking the thyroid
+- **Important concepts:** thyroid as the "master" regulator of the broader hormone system, hypothyroidism as disproportionately diagnosed in women, under-recognized in men
+
+## 19. Glyphosate: how it's harming you
+
+- **Source ID:** `nRN8yhYmyVc`
+- **URL:** https://www.youtube.com/watch?v=nRN8yhYmyVc
+- **Upload date:** 2022-08-23
+- **Duration:** 71:38
+- **Source file:** `sources/clean/nRN8yhYmyVc.txt`
+- **Main subjects:** a deep dive into glyphosate research covering dosing, formulation additives, and human exposure data, Bruce Ames's argument that most dietary "pesticides" are natural, plant-made compounds, and why the source only partly accepts it, reviewed evidence connecting glyphosate/Roundup exposure to neurological, immune, reproductive, and endocrine effects, a digression into kale's thallium and dacthal contamination, practical steps to test for and lower personal glyphosate exposure
+- **Foods & products:** oat-based breakfast cereals (Cheerios, Quaker Oats, Nature Valley), beer and wine, grass-finished versus grain-finished beef, soy, beans, tofu, kale and other leafy greens
+- **Concerns:** glyphosate contamination of grains, produce, beer, wine, and drinking water, the herbicide adjuvant POEA making Roundup formulations more toxic than glyphosate alone, glyphosate's association with cancer, neurological disease, and reproductive/endocrine effects, thallium and dacthal contamination in kale, including organic kale, healthy-user bias in observational organic-food research
+- **Important concepts:** active-principle versus full-formulation toxicity testing, the shikimate pathway as glyphosate's proposed route to gut-microbiome disruption, IARC's Group 2 carcinogen classification, grass-fed/grass-finished as an (unverified without testing) proxy for lower agrochemical exposure
+
+## 20. How Contaminated Is Your Favorite Salt?
 
 - **Source ID:** `Ynis4uKZUfY`
 - **URL:** https://www.youtube.com/watch?v=Ynis4uKZUfY
@@ -105,7 +249,43 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** aluminum, arsenic, cadmium, and lead contamination in sea salt, heavy metal exposure more broadly (tap water, fish, deodorant, canned-food linings)
 - **Important concepts:** tolerable upper limit for lead (Prop 65 versus FDA), blood, urine, and hair testing for heavy metal body burden, per-gram dose math applied to daily salt intake
 
-## 9. How To Decode Egg Labels For The Healthiest Choice
+## 21. How I Find the Healthiest Grass Fed Steak
+
+- **Source ID:** `QHgMGn1ohH4`
+- **URL:** https://www.youtube.com/watch?v=QHgMGn1ohH4
+- **Upload date:** 2025-01-17
+- **Duration:** 15:54
+- **Source file:** `sources/clean/QHgMGn1ohH4.txt`
+- **Main subjects:** a filmed tour of "Underbelly," a whole-animal grass-fed butcher shop in Arizona, how the shop's cattle are raised, aged, and certified compared to commodity beef, the shop's own pastured, corn-and-soy-free pork and its house-made sausage, a primal-cut anatomy walkthrough with the butcher naming favorite cuts
+- **Foods & products:** grass-fed beef (ribeye, New York, flap/flank, skirt, bavette, ground beef, dry-aged beef), pastured pork (sausage, bacon, dry-aged pork), pastured lamb, beef liver, beef kidney
+- **Concerns:** commodity cattle finished on corn and soy at 16-18 months versus grass-finished to 48+ months, pigs fed corn and soy becoming enriched in linoleic acid, lack of intramuscular fat in some traditionally lean cattle breeds
+- **Important concepts:** third-party grass-fed certification (American Grass-Fed Association), dry-aging as a controlled, enzymatic breakdown process distinct from spoilage, whole-animal butchery and full-carcass ground beef as a "true representation" of the animal, inside skirt versus outside skirt (diaphragm) as different cuts with different flavor
+
+## 22. How to avoid moldy meat and why cows are NOT driving rainforest deforestation
+
+- **Source ID:** `2KMaKJqU5Gs`
+- **URL:** https://www.youtube.com/watch?v=2KMaKJqU5Gs
+- **Upload date:** 2022-02-11
+- **Duration:** 08:56
+- **Source file:** `sources/clean/2KMaKJqU5Gs.txt`
+- **Main subjects:** mold-toxin (mycotoxin) contamination of meat and dairy traced back to grain feed, urban versus rural environmental exposure (mold, cortisol, greenery) as a broader lifestyle theme, a rebuttal to the claim that cattle ranching drives Amazon rainforest deforestation
+- **Foods & products:** grain-finished beef, turkey, chicken, and pork, raw dairy (milk, cheese, goat milk) from grass-fed versus grain-fed animals, soy grown on cleared Amazonian land
+- **Concerns:** aflatoxin-contaminated peanut meal contaminating turkey meat, mold-toxin accumulation in milk and cheese from grain-fed cows, indoor/urban mold and air-pollution exposure generally, misattributing rainforest deforestation to cattle rather than soy cultivation
+- **Important concepts:** species-appropriate diet as an animal-based framework (organs, meat, fruit, honey, raw dairy), land-tenure law in Amazonia as the actual deforestation driver, knowing your farmer as a mycotoxin-avoidance strategy for raw dairy
+
+## 23. How To Cook Organ Meat With Anya
+
+- **Source ID:** `Os8GRj2YEUs`
+- **URL:** https://www.youtube.com/watch?v=Os8GRj2YEUs
+- **Upload date:** 2020-07-06
+- **Duration:** 07:06
+- **Source file:** `sources/clean/Os8GRj2YEUs.txt`
+- **Main subjects:** practical technique for cooking chicken and beef liver, heart, sweetbreads, spleen, and kidney, cooking for doneness and flavor rather than for a food-safety temperature standard
+- **Foods & products:** chicken liver, beef liver, lamb liver, heart (beef, lamb, chicken), sweetbreads, spleen, kidney
+- **Concerns:** USDA-style "cook until everything's dead" advice versus sourcing clean meat and cooking for taste, off/ammoniac smell as a freshness check on liver
+- **Important concepts:** cooking to "optimal deliciousness" rather than to a safety-driven temperature, marinating and post-cook acid (lemon, sherry vinegar, chimichurri) as a way to balance organ flavor
+
+## 24. How To Decode Egg Labels For The Healthiest Choice
 
 - **Source ID:** `fpO3Y5yVVIA`
 - **URL:** https://www.youtube.com/watch?v=fpO3Y5yVVIA
@@ -117,7 +297,55 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** pesticide bioaccumulation from chicken feed, linoleic acid (omega-6) content driven by corn-and-soy feed, PFAS ("forever chemicals") from nonstick cookware, oxidized cooking oils, misleading plant-based egg substitute labeling
 - **Important concepts:** LDL oxidation susceptibility as a diet-modifiable cardiovascular marker, dietary cholesterol versus blood cholesterol, saturated fat's relative resistance to oxidation when heated
 
-## 10. I Tested the Top 7 Salts for Toxins (Only 2 Passed)
+## 25. How to lower glyphosate exposure
+
+- **Source ID:** `vvHMEumxHTc`
+- **URL:** https://www.youtube.com/watch?v=vvHMEumxHTc
+- **Upload date:** 2022-08-29
+- **Duration:** 03:33
+- **Source file:** `sources/clean/vvHMEumxHTc.txt`
+- **Main subjects:** a checklist of actionable steps to lower personal glyphosate exposure, testing options for glyphosate and broader pesticide/toxin exposure, sourcing meat, produce, and water with glyphosate specifically in mind
+- **Foods & products:** grass-fed/grass-finished meat, organic fruit and vegetables, grains (oats, wheat), beans, soy, tofu
+- **Concerns:** glyphosate residue in grains, produce, and drinking water, genistein worsening glyphosate's estrogenic effects, thallium and dacthal contamination from non-organic kale
+- **Important concepts:** glyphosate level testing as a personal baseline metric, reverse osmosis as a glyphosate-reduction method for drinking water, broad-panel environmental toxin testing (GPL-TOX)
+
+## 26. How to raise chickens and pork appropriately
+
+- **Source ID:** `5Rkk-Be3AqY`
+- **URL:** https://www.youtube.com/watch?v=5Rkk-Be3AqY
+- **Upload date:** 2024-03-28
+- **Duration:** 08:04
+- **Source file:** `sources/clean/5Rkk-Be3AqY.txt`
+- **Main subjects:** why chickens and pigs resist being raised in a genuinely "species-appropriate" commercial way, unlike cattle, a first-person account of raising eight pigs on the host's own Texas farm, the "pasture-raised" pork label as a marketing term that can mask ring-nosed pigs prevented from rooting, soil mineral depletion on continuously grazed pasture, and Australian regenerative cattle farming near the ocean
+- **Foods & products:** chicken (backyard/farmers-market "caseros" chickens versus commercial chicken), pastured pork, grass-fed beef and other ruminants (sheep, goats, bison, deer)
+- **Concerns:** the practical impossibility of scaling truly species-appropriate chicken or pork production, ring-nosing pigs to stop them rooting so producers can still market them as "pasture raised", soil mineral depletion on land with a history of monocrop farming
+- **Important concepts:** species-appropriate behavior (jungle-fowl roosting for chickens, forest rooting for pigs) versus grassland grazing (ruminants), feed-conversion burden as a limit on truly free-range pig or chicken farming at scale, regenerative, rotational grazing as the reason ruminants scale better than pigs or chickens
+
+## 27. How To Shop For Meat And Eggs At Costco
+
+- **Source ID:** `mXRxFtQiT3I`
+- **URL:** https://www.youtube.com/watch?v=mXRxFtQiT3I
+- **Upload date:** 2026-05-22
+- **Duration:** 19:18
+- **Source file:** `sources/clean/mXRxFtQiT3I.txt`
+- **Main subjects:** a category-by-category Costco walkthrough (chicken, beef, fish, eggs) comparing labeled options side by side, how a chicken's chilling method (water versus air) changes what ends up in the meat, farmed versus wild salmon and how color is added to farmed fish, egg carton labels and visual quality cues at a specific retailer
+- **Foods & products:** chicken (organic, air-chilled, water-chilled, rotisserie), ground beef (grass-fed versus regular), ribeye (prime versus choice), flap steak, Atlantic salmon (farmed), wild sockeye salmon, wild Atlantic cod, ahi tuna, eggs (cage-free, organic free-range, heirloom)
+- **Concerns:** chlorine and other water-bath byproducts retained in water-chilled chicken, plastic packaging (including black plastic) and heat exposure in rotisserie chicken, carrageenan and other additives in rotisserie chicken seasoning, PCB contamination in farm-raised salmon, carbon monoxide treatment of ahi tuna and its mercury content, misleading egg labels (cage-free, free-range) versus actual chicken living conditions
+- **Important concepts:** water retention percentage as a chicken-processing disclosure, USDA prime versus choice grading as a marbling grade, not a feed-source distinction, astaxanthin as the source of wild salmon's color versus added coloring in farmed salmon, egg white viscosity and yolk height as visual proxies for chicken health
+
+## 28. How to Shop for Meat at the Grocery Store
+
+- **Source ID:** `DwRxSE8m3sQ`
+- **URL:** https://www.youtube.com/watch?v=DwRxSE8m3sQ
+- **Upload date:** 2024-02-21
+- **Duration:** 08:57
+- **Source file:** `sources/clean/DwRxSE8m3sQ.txt`
+- **Main subjects:** a four-way comparison of conventional, grass-fed, regeneratively raised, and plant-based "meat," using a grocery-store shelf as the walkthrough, the "100% grass-fed" label as a loophole check against partial-life grass feeding, regenerative grazing's claimed soil and carbon effects, an economic argument for paying more for higher-quality meat
+- **Foods & products:** conventional beef, 100% grass-fed beef, regeneratively raised beef and bison, plant-based meat substitutes (e.g., Beyond-style products)
+- **Concerns:** moldy or pesticide-contaminated feedlot grain, including grain the host says is legally allowed to contain plastic or food waste, grass-fed labels that omit "100%" as a loophole for partial-life grass feeding, ultra-processed ingredients (methylcellulose, pea protein, seed oils, carrageenan) in plant-based meat
+- **Important concepts:** carbon-negative versus carbon-positive food production, applied to regenerative beef versus plant-based meat, rotational grazing and paddock rest as the mechanism behind regenerative claims, soil mycorrhizal networks as the pathway from grazing animal waste to plant nutrient uptake
+
+## 29. I Tested the Top 7 Salts for Toxins (Only 2 Passed)
 
 - **Source ID:** `9cmx-lt3n1w`
 - **URL:** https://www.youtube.com/watch?v=9cmx-lt3n1w
@@ -129,7 +357,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** lead contamination, arsenic contamination, aluminum contamination, microplastics, anti-caking and additive ingredients in iodized salt, rock-salt (implied Himalayan) contamination risk, not directly tested here
 - **Important concepts:** Prop 65 lead limit versus FDA tolerable upper limit for lead, salt-and-hypertension attributed to underlying insulin resistance, not salt itself, the Alberger process, hypernatremia and hyponatremia as acute sodium-imbalance states
 
-## 11. Is Alkaline water/Structured water BS?
+## 30. Is Alkaline water/Structured water BS?
 
 - **Source ID:** `A0D0zCk-y4w`
 - **URL:** https://www.youtube.com/watch?v=A0D0zCk-y4w
@@ -141,7 +369,31 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** marketing claims behind alkaline water (immunity, cancer prevention), $500–$2,000 water-structuring/vortex devices, pH 8.8 alkaline water denaturing pepsin and worsening reflux symptoms
 - **Important concepts:** blood pH homeostasis (7.35–7.45) and metabolic/respiratory alkalosis, exclusion zone ("fourth phase") water research contrasted with commercial "structured water" claims, urinary pH as the body's own acid-base outlet rather than a dietary target
 
-## 12. Never Buy These Egg Brands in 2026 (Get THIS Instead)
+## 31. Is This The Best Butcher Shop In Texas?
+
+- **Source ID:** `jhr-imd1HYI`
+- **URL:** https://www.youtube.com/watch?v=jhr-imd1HYI
+- **Upload date:** 2025-11-28
+- **Duration:** 15:33
+- **Source file:** `sources/clean/jhr-imd1HYI.txt`
+- **Main subjects:** a guided tour of Radius, an Austin-area butcher shop, and the farm network it sources from, a comparison of Cornish-cross versus Red Bro chicken breeds and their chilling method, the shop's own plastics/PFAS testing of its beef against Whole Foods, a supplement brand's (Heart and Soil's) whey protein and organ products displayed in the shop
+- **Foods & products:** grass-fed Wagyu beef (t-bone, porterhouse, New York strip, ribeye, bavette, flat iron, ground beef), Red Bro chicken (air-chilled, pastured), beef cheek, beef tongue, thymus ("sweets"), sourdough bread, local produce (apples, chard, cruciferous vegetables, mushrooms)
+- **Concerns:** chlorine retained in water-chilled ("Cornish cross") chicken, plastic and plasticizer contamination in commercially processed beef, folic acid (versus natural folate) added to enriched flour, oxalates in chard and isothiocyanates ("goitrogens") in cruciferous vegetables
+- **Important concepts:** Cornish cross versus Red Bro chicken breed genetics and harvest age, whole-farm traceability (a map of named source farms) versus anonymous grocery sourcing, cold-processed whey protein preserving immunoglobulins that heat-processing denatures, taurine concentration in beef cheek
+
+## 32. McDonald's Secret Ingredients You Never Knew About
+
+- **Source ID:** `lDQofCXuYik`
+- **URL:** https://www.youtube.com/watch?v=lDQofCXuYik
+- **Upload date:** 2024-03-05
+- **Duration:** 13:42
+- **Source file:** `sources/clean/lDQofCXuYik.txt`
+- **Main subjects:** an in-store ingredient teardown of a McDonald's order (nuggets, fries, Big Mac, salt, McRib), the history of McDonald's switch from beef tallow to seed oils in its fryers, linoleic acid's proposed mechanism of harm at the mitochondrial level
+- **Foods & products:** McDonald's Chicken McNuggets, McDonald's french fries, McDonald's Big Mac, McDonald's iodized salt, McDonald's McRib, McDonald's ketchup and dipping sauces
+- **Concerns:** seed oils and trans fats from frying and dough, TBHQ as a preservative excluded from some retailers' shelves, bleached wheat flour (chlorine dioxide), aluminum compounds in pickles and salt, high-fructose corn syrup in sauces and ketchup, microplastics in processed cheese
+- **Important concepts:** linoleic acid accumulation in cell membranes and mitochondrial proton leak, ingredient-count comparison as a proxy for processing level, the 1990s tallow-to-seed-oil switch and the campaign that pushed it
+
+## 33. Never Buy These Egg Brands in 2026 (Get THIS Instead)
 
 - **Source ID:** `SPaqnDv-qmQ`
 - **URL:** https://www.youtube.com/watch?v=SPaqnDv-qmQ
@@ -153,7 +405,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** misleading food labeling, linoleic acid (omega-6) content driven by chicken feed, private-equity ownership pressure diverging a "clean" brand from its founding practice
 - **Important concepts:** egg carton label meanings (conventional, cage-free, free-range, organic, pasture-raised), linoleic acid content as a feed-quality indicator, third-party pasture-raised certification versus self-reported labeling
 
-## 13. New Study Shows Sweeteners Make You Hungrier
+## 34. New Study Shows Sweeteners Make You Hungrier
 
 - **Source ID:** `Kl-SL9MSOQY`
 - **URL:** https://www.youtube.com/watch?v=Kl-SL9MSOQY
@@ -165,7 +417,43 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** artificial sweeteners (sucralose) increasing post-consumption hunger, synthetic food dyes (yellow 5, red 3, yellow 6, blue 1), titanium dioxide and carrageenan as gut-unfriendly additives, front-of-package claims (gluten-free, 20 grams of protein) masking a long, poor-quality ingredient list
 - **Important concepts:** protein leverage hypothesis, satiety as a function of daily protein intake relative to goal body weight
 
-## 14. The Best Olive Oils Money Can Buy
+## 35. Regeneratively raised cattle are carbon negative
+
+- **Source ID:** `9boE1IOF_M4`
+- **URL:** https://www.youtube.com/watch?v=9boE1IOF_M4
+- **Upload date:** 2022-07-01
+- **Duration:** 06:12
+- **Source file:** `sources/clean/9boE1IOF_M4.txt`
+- **Main subjects:** a life-cycle-assessment finding that White Oak Pastures' grass-finished beef is carbon negative, the Conservation Reserve Program as unused land that could accelerate soil recovery under cattle, soil organic matter as the mechanism linking grazing to flood/erosion resistance
+- **Foods & products:** grass-finished beef, Beyond Burger, soybeans, pork, chicken (named as carbon-positive comparisons)
+- **Concerns:** monocrop agriculture stripping soil organic matter and requiring 50+ years of fallow recovery, topsoil runoff and flooding from low-organic-matter farmland
+- **Important concepts:** life cycle assessment (LCA) of grazing emissions, soil organic matter as a rainwater-holding capacity, the Conservation Reserve Program (CRP) as scalable grazing land
+
+## 36. Revealing Shake Shack Secret Ingredients
+
+- **Source ID:** `FFwAgyTDSH8`
+- **URL:** https://www.youtube.com/watch?v=FFwAgyTDSH8
+- **Upload date:** 2024-11-09
+- **Duration:** 19:08
+- **Source file:** `sources/clean/FFwAgyTDSH8.txt`
+- **Main subjects:** an in-store ingredient teardown of a Shake Shack order (Chicken Shack, Shack Burger, fries, grilled cheese), the gap between Shake Shack's "real premium ingredients" marketing and its actual ingredient lists, the discontinued vegan shake as a case study in what "vegan" doesn't mean
+- **Foods & products:** Shake Shack Chicken Shack (fried chicken sandwich), Shake Shack Burger, Shake Shack fries, Shake Shack grilled cheese, Shake Shack vegan milkshake (discontinued, "Not Milk")
+- **Concerns:** seed oils in frying and dough, preservatives (TBHQ, calcium propionate), emulsifiers and anti-foaming agents (polysorbate 80, DATEM, dimethyl polysiloxane), hidden MSG via "autolyzed yeast extract", undisclosed "natural flavors", gums (guar, xanthan) and carrageenan, BPA and other endocrine disruptors on thermal-paper receipts
+- **Important concepts:** ingredient-count comparison as a proxy for processing level, the "natural flavors" labeling loophole, antibiotic-free meat as a narrower claim than "clean" or "premium"
+
+## 37. Stop eating soy and beans (Genistein + Glyphosate)
+
+- **Source ID:** `MMvzIVSS4wI`
+- **URL:** https://www.youtube.com/watch?v=MMvzIVSS4wI
+- **Upload date:** 2022-08-27
+- **Duration:** 04:18
+- **Source file:** `sources/clean/MMvzIVSS4wI.txt`
+- **Main subjects:** a 2013 cell-line study showing glyphosate promotes estrogen-receptor-driven breast cancer cell growth, genistein, a soy/bean polyphenol, and its additive interaction with glyphosate on estrogen signaling, epidemiological evidence linking glyphosate to non-Hodgkin lymphoma
+- **Foods & products:** soy, beans (black beans, white beans), peanuts, beer
+- **Concerns:** glyphosate as an endocrine disruptor despite the EPA's contrary classification, genistein's effects on male fertility and reproduction, non-Hodgkin lymphoma risk from pesticide exposure
+- **Important concepts:** estrogen receptor alpha/beta expression ratio, estrogen response element transcription, isoflavonoid, additive effect between two compounds on the same receptor pathway
+
+## 38. The Best Olive Oils Money Can Buy
 
 - **Source ID:** `d4mYLeFxONQ`
 - **URL:** https://www.youtube.com/watch?v=d4mYLeFxONQ
@@ -177,7 +465,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** rancidity and oxidation of olive oil over time, adulteration with seed oils, lack of a certificate of analysis for sourcing/verification, PREDIMED's control group having used refined, non-extra-virgin olive oil
 - **Important concepts:** the PREDIMED study, olive oil polyphenols (oleocanthol, hydroxytyrosol, oleuropein), certificate-of-analysis metrics (acidity, peroxide value, K index, delta K, K232/K270), first cold pressing and single-source sourcing, oleic acid versus polyphenols as the likely source of olive oil's benefit
 
-## 15. The Best Way to Stay Hydrated (Not Water)
+## 39. The Best Way to Stay Hydrated (Not Water)
 
 - **Source ID:** `RAz7L3rD9_M`
 - **URL:** https://www.youtube.com/watch?v=RAz7L3rD9_M
@@ -189,7 +477,79 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluoride, pesticides, pharmaceuticals, and chlorine derivatives in tap water, overhydration/hyponatremia from excessive plain water intake, heavy metals in common sea salts
 - **Important concepts:** hydrating versus dehydrating fluids (milk/orange juice versus coffee/alcohol), the Galpin equation (body weight in pounds divided by 30 = ounces per 15–20 minutes of exercise), hyponatremia from water intake outpacing electrolyte intake, urine specific gravity as a hydration marker
 
-## 16. The Disturbing History of Corn Flakes
+## 40. The dangers of additives
+
+- **Source ID:** `MvP689Rmt14`
+- **URL:** https://www.youtube.com/watch?v=MvP689Rmt14
+- **Upload date:** 2023-02-06
+- **Duration:** 08:06
+- **Source file:** `sources/clean/MvP689Rmt14.txt`
+- **Main subjects:** cheese ingredient quality, specifically animal versus vegetable rennet and undisclosed silicon dioxide, supplement excipients as a hidden source of additive exposure, artificial food colorings and their association with childhood hyperactivity/ADHD, citric acid's proposed mechanistic link to cancer cell metabolism, a pandemic-era labeling exemption letting some food and supplement ingredients go undisclosed
+- **Foods & products:** Parmigiano-Reggiano and other grated cheeses, desiccated organ supplements, juices (apple, grape, pear), vitamin and mineral supplement tablets/capsules
+- **Concerns:** vegetable rennet and soy residue in cheese, especially for autoimmune or soy-sensitive people, silicon dioxide as an undisclosed anti-caking agent, titanium dioxide and talc as caking agents in supplements and pharmaceuticals, artificial food colorings linked to hyperactivity/ADHD in children, citric acid and vitamin C as contaminated, industrially-produced additives, undisclosed fillers and mislabeled ingredients under an emergency FDA/USDA exemption
+- **Important concepts:** excipients as inactive-seeming ingredients with real physiological effects, the "active ingredient plus total amount per serving" label-reading check, citrate synthase and fatty acid synthesis in cancer cell metabolism
+
+## 41. The dangers of high fructose corn syrup
+
+- **Source ID:** `HK9_KYWli5I`
+- **URL:** https://www.youtube.com/watch?v=HK9_KYWli5I
+- **Upload date:** 2023-02-02
+- **Duration:** 10:55
+- **Source file:** `sources/clean/HK9_KYWli5I.txt`
+- **Main subjects:** why high fructose corn syrup (HFCS) is presented as worse for humans than table sugar, honey, or maple syrup, a lab finding that HFCS-containing beverages may carry far more carbohydrate than their labels state, how HFCS is manufactured, and a historical mercury-contamination concern tied to that process
+- **Foods & products:** high fructose corn syrup, sucrose (table sugar), sugar cane / sugar cane juice, honey, maple syrup, molasses
+- **Concerns:** underlabeled carbohydrate/calorie content in HFCS-sweetened beverages, mercury contamination from a historical HFCS refining step (chlor-alkali process), HFCS's effect on weight gain and gut microbiota in animal studies, independent of calories
+- **Important concepts:** oligosaccharide underestimation via acid hydrolysis testing, the distinction between processed sugars and whole/less-refined sugar sources, HFCS 42 versus HFCS 55 (fructose fraction)
+
+## 42. The dangers of pesticides
+
+- **Source ID:** `e9UU45pt4Q8`
+- **URL:** https://www.youtube.com/watch?v=e9UU45pt4Q8
+- **Upload date:** 2022-08-25
+- **Duration:** 04:31
+- **Source file:** `sources/clean/e9UU45pt4Q8.txt`
+- **Main subjects:** why glyphosate research is complicated by dosing and by formulation additives, Bruce Ames's "Dietary Pesticides (99.9% All Natural)" argument that plants make far more "pesticide" than farmers spray, an anecdotal link between removing vegetables and improvement in autoimmune symptoms
+- **Foods & products:** cabbage, vegetables (general)
+- **Concerns:** synthetic pesticide additives ("adjuvants") making formulations more toxic than a single active ingredient, plant-made defense chemicals as an under-studied exposure in the human diet, vegetables as a possible autoimmune trigger in some people
+- **Important concepts:** adjuvant additives to herbicide formulations (transcribed "adant"), natural plant pesticides versus sprayed synthetic pesticides, glucosinolates as an example class of plant defense chemical
+
+## 43. The dangers of PFAS in fish
+
+- **Source ID:** `Ry4G6ljw5EA`
+- **URL:** https://www.youtube.com/watch?v=Ry4G6ljw5EA
+- **Upload date:** 2022-06-17
+- **Duration:** 06:52
+- **Source file:** `sources/clean/Ry4G6ljw5EA.txt`
+- **Main subjects:** PFAS ("forever chemicals") as a reason to avoid fish and shellfish specifically, a broader personal PFAS-avoidance practice covering plastics, floss, and takeout packaging, two cited papers on PFAS levels in fish-eating populations
+- **Foods & products:** fish and shellfish generally (not species-specific), grass-fed meat, delivered in glass instead of plastic
+- **Concerns:** PFAS exposure from fish and shellfish consumption, PFAS from dental floss, sparkling water, plastic take-out containers, and disposable cups, thyroid disease and dyslipidemia associated with PFAS exposure, BPA, BPS, and BPE as xenoestrogens beyond PFAS
+- **Important concepts:** PFAS as an umbrella term (PFOA, PFOS, PFHxS, and other named compounds), PFAS environmental and bodily persistence ("forever chemicals"), observational correlation versus confounding (fish intake correlating with other plastic use)
+
+## 44. The Dark Side of White Meat
+
+- **Source ID:** `xt3ZOwgj_5Y`
+- **URL:** https://www.youtube.com/watch?v=xt3ZOwgj_5Y
+- **Upload date:** 2025-01-29
+- **Duration:** 04:20
+- **Source file:** `sources/clean/xt3ZOwgj_5Y.txt`
+- **Main subjects:** chicken and pork as monogastric animals that bioaccumulate dietary linoleic acid, why ruminant meat (beef, bison, lamb, elk, deer) does not carry the same risk, a proton-leak/mitochondrial hypothesis for why excess linoleic acid matters
+- **Foods & products:** chicken, pork, bacon, eggs, beef (as the contrast case)
+- **Concerns:** linoleic acid (omega-6) accumulation from corn-and-soy-fed chicken and pigs, rising linoleic acid in egg yolks from feed
+- **Important concepts:** monogastric versus ruminant fat metabolism, evolutionarily inappropriate intake framed as a cumulative, multi-source exposure, proton leak and cellular energy transformation
+
+## 45. The Deadly Red Meat Disease Taking Over America
+
+- **Source ID:** `4eHW8mP9RJo`
+- **URL:** https://www.youtube.com/watch?v=4eHW8mP9RJo
+- **Upload date:** 2026-05-30
+- **Duration:** 19:32
+- **Source file:** `sources/clean/4eHW8mP9RJo.txt`
+- **Main subjects:** alpha-gal syndrome as a tick-bite-induced red meat allergy, the lone star tick's spread across the southeastern and northeastern United States, a filmed demonstration of "Solomon Auricular Allergy Treatment" as a proposed alpha-gal therapy
+- **Foods & products:** red meat, dairy and collagen products, honeydew melon (identified in the demonstration as a personal allergen), eggs (identified in the demonstration as a mild personal sensitivity)
+- **Concerns:** alpha-gal syndrome (galactose-alpha-1,3-galactose allergy) from lone star tick bites, low physician awareness and misdiagnosis (often as IBS) of alpha-gal syndrome, DEET and permethrin tick repellents, with unclear long-term organ and cancer risk
+- **Important concepts:** IgE-mediated delayed food allergy, the vascular autonomic signal (VAS), per Dr. Nogier's auricular medicine framework, O-ring muscle testing as a diagnostic device in this therapy
+
+## 46. The Disturbing History of Corn Flakes
 
 - **Source ID:** `PmObqSKkX1w`
 - **URL:** https://www.youtube.com/watch?v=PmObqSKkX1w
@@ -201,7 +561,67 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** synthetic food dyes (red 40, yellow 5, yellow 6, blue 1) permitted in the US but not Canada, BHT as a preservative Kellogg's is being petitioned to remove, Kellogg's selling naturally-colored cereal (paprika, turmeric) abroad while selling dye-colored cereal domestically
 - **Important concepts:** food dye addictiveness tied to evolutionary "fruit" color cues, the historical link between Kellogg's corn flakes and Seventh-day Adventist anti-libido dietary doctrine
 
-## 17. The Side of Seed Oils Nobody Talks About
+## 47. The history and DANGERS of seed oils
+
+- **Source ID:** `lzazaZLnWNA`
+- **URL:** https://www.youtube.com/watch?v=lzazaZLnWNA
+- **Upload date:** 2022-02-16
+- **Duration:** 08:13
+- **Source file:** `sources/clean/lzazaZLnWNA.txt`
+- **Main subjects:** the industrial and commercial history of seed oils entering the human diet, how animal-fat vilification and the cholesterol hypothesis took hold in mid-20th-century medicine, a case against LDL cholesterol as the direct cause of atherosclerosis
+- **Foods & products:** seed oils generally, canola oil (referenced via "quote unquote" example), tallow, lard, butter, margarine, Crisco
+- **Concerns:** the marketing of seed oils as a cheaper, non-spoiling animal-fat substitute, mainstream medicine treating LDL cholesterol as sufficient explanation for heart disease, correlation between seed-oil introduction and rising chronic illness (obesity, cancer, heart disease, diabetes)
+- **Important concepts:** the cholesterol hypothesis and its mid-20th-century origin, LDL versus ApoB-containing lipoproteins as measures used to indict animal fat, correlation versus causation in population-level dietary history
+
+## 48. The infant formula/seed oil scandal
+
+- **Source ID:** `7eNXCx4EUjQ`
+- **URL:** https://www.youtube.com/watch?v=7eNXCx4EUjQ
+- **Upload date:** 2023-12-25
+- **Duration:** 06:25
+- **Source file:** `sources/clean/7eNXCx4EUjQ.txt`
+- **Main subjects:** the legal requirement that US infant formula contain seed oils, and the lobbying history behind it, rising linoleic acid content in breast milk over the past 100 years, a YouTube video takedown the speaker experienced over an alternative formula suggestion, breastfeeding support, C-section rates, and formula-industry PR
+- **Foods & products:** infant formula (US-regulated, seed-oil-containing), imported European infant formula (black-market), breast milk
+- **Concerns:** soybean- and corn-industry lobbying shaping formula regulation, fraudulent, industry-funded research cited to Congress, rising linoleic acid in breast milk tracking rising seed-oil consumption, formula-industry PR allegedly discouraging breastfeeding, a black market for imported formula, and a US crackdown on it
+- **Important concepts:** linoleic acid as an 18-carbon polyunsaturated fatty acid concentrated in seed oils, formula composition benchmarked against (a possibly unhealthy) breast-milk population, C-section rates as a downstream effect of "medical incentives"
+
+## 49. The problems with plant based meat
+
+- **Source ID:** `CfmMPvcTLAg`
+- **URL:** https://www.youtube.com/watch?v=CfmMPvcTLAg
+- **Upload date:** 2023-07-06
+- **Duration:** 08:52
+- **Source file:** `sources/clean/CfmMPvcTLAg.txt`
+- **Main subjects:** why plant-based meat substitutes are shaped and flavored to mimic real meat, an EEG-based claim about unconscious meat cravings in vegans and vegetarians, deceptive "better for you / better for the planet" marketing on plant-based milk, comparing nutrition-label content between ground beef and almond milk
+- **Foods & products:** plant-based meat substitutes (Beyond Meat, Impossible Burger, fake bacon/sausage/ribs), plant-based milk (Oatly and other oat/almond milks), ground beef, almonds
+- **Concerns:** long, synthetic-heavy ingredient lists in plant-based meat, false or misleading "better for you"/"better for the planet" label claims, seed oils, carrageenan, and phytic acid in plant-based milk, CAFO-raised meat and monocropping both named as their own separate problems
+- **Important concepts:** unconscious versus conscious response to food cues (the EEG claim), synthetic fortification versus food that "comes equipped" with its own nutrients, intuitive eating as conditional on a baseline of metabolic health
+
+## 50. The secret benefits of Grass-Fed BEEF TALLOW
+
+- **Source ID:** `-Wn32snt0YY`
+- **URL:** https://www.youtube.com/watch?v=-Wn32snt0YY
+- **Upload date:** 2024-08-06
+- **Duration:** 09:15
+- **Source file:** `sources/clean/-Wn32snt0YY.txt`
+- **Main subjects:** why the host prefers tallow over olive oil or seed oils as a cooking fat, the specific nutrients tallow contains and their sourcing (grass-fed versus grain-fed), marketing for the host's own grass-fed, Australian-sourced tallow product
+- **Foods & products:** beef tallow (rendered beef fat), olive oil, seed oils (comparison fats), cocoa butter (comparison source of stearic acid)
+- **Concerns:** oxidized LDL from cooking with unstable (unsaturated) fats, glyphosate contamination in grain-fed cattle's fat
+- **Important concepts:** peroxidation index versus smoke point as the relevant stability measure for a cooking fat, vitamin K2 forms (MK-4 versus MK-7) and their food sources, conjugated linoleic acid (CLA) versus regular linoleic acid, odd-chain fatty acids (C15, C17) as blood markers associated with health outcomes
+
+## 51. The secret ingredient in corn flakes is a religious agenda. Revisionist history with Gary Fettke, MD
+
+- **Source ID:** `pvjeI77-7bA`
+- **URL:** https://www.youtube.com/watch?v=pvjeI77-7bA
+- **Upload date:** 2019-08-06
+- **Duration:** 93:48
+- **Source file:** `sources/clean/pvjeI77-7bA.txt`
+- **Main subjects:** Gary Fettke's account of being reported to and sanctioned by the Australian Medical Board for recommending diabetic patients cut sugar, a briefing document in which the Australian cereal industry allegedly targeted Fettke over falling profits from low-carb/paleo eating, his and his wife Belinda's research tracing modern dietary guidelines to Seventh-day Adventist Church figures and institutions, the mechanism of fructose toxicity, including the polyol pathway, the claim that Kellogg's corn flakes were invented to suppress masturbation
+- **Foods & products:** corn flakes / breakfast cereal, sugar / sucrose / fructose, meat and animal products, soy (soy milk, soy-based infant formula, fake meat)
+- **Concerns:** a dietitian-driven regulatory campaign against a doctor recommending low-carb eating, undisclosed conflicts of interest (a vegan/Adventist reviewer on a US dietary guidelines panel), food-industry funding (Coca-Cola, ILSI) shaping "lifestyle medicine" and medical-school curricula, poor sperm quality reported in a vegan/vegetarian population in a "blue zone"
+- **Important concepts:** the polyol pathway (glucose converted to fructose under insulin resistance), the "perfect storm" of sugar, refined carbohydrate, and polyunsaturated (seed) oils, generational education (uncritically inherited textbook claims), the Garden of Eden diet as a religious rather than health-based dietary ideal
+
+## 52. The Side of Seed Oils Nobody Talks About
 
 - **Source ID:** `DqHqBWCW3Hs`
 - **URL:** https://www.youtube.com/watch?v=DqHqBWCW3Hs
@@ -213,7 +633,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** benzene and other solvent residues from extraction, phthalates migrating from polyethylene packaging, heavy metals, specifically antimony, from plastic containers, acrolein and other aldehydes formed by heating, a "refined" tallow being altered toward a less saturated, less heat-stable fat
 - **Important concepts:** refined, bleached, and deodorized (RBD) processing, peroxide value as a marker of oxidative damage, estrogenic equivalence of phthalates, a "spectrum" of seed-oil risk depending on use case, with deep frying at the worst end
 
-## 18. The Truth About Using Nicotine in 2026
+## 53. The Truth About Using Nicotine in 2026
 
 - **Source ID:** `kGqGeYdPxMk`
 - **URL:** https://www.youtube.com/watch?v=kGqGeYdPxMk
@@ -225,7 +645,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** engineered addictiveness via freebasing (diammonium phosphate), cardiovascular harm from the nicotine molecule itself, sleep architecture disruption, adolescent prefrontal cortex exposure, tobacco-industry funding bias in cognitive-benefit research, dopamine tolerance and withdrawal
 - **Important concepts:** freebase nicotine versus nicotine salts, the nicotinic acetylcholine receptor and its endogenous ligand (acetylcholine), the Yerkes-Dodson law (optimal arousal for task performance), dopamine baseline depletion from chronic nicotine use, a harm-reduction hierarchy across nicotine delivery methods
 
-## 19. The Untold Side Effects of Nicotine
+## 54. The Untold Side Effects of Nicotine
 
 - **Source ID:** `fyO6eROqf2c`
 - **URL:** https://www.youtube.com/watch?v=fyO6eROqf2c
@@ -237,7 +657,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** vaping oils linked to lung pneumonia, pesticides and additives in cigarette tobacco, marijuana's hormonal effects (lowered androgens in men), nicotine pouch addictiveness, nicotine's cardiovascular effects (raised blood pressure and heart rate)
 - **Important concepts:** relative risk ranking across nicotine/tobacco/cannabis delivery methods, correlation-versus-causation in the "smokers and COVID" claim, endogenous versus exogenous signaling molecules (nicotine, cannabinoids)
 
-## 20. This Is How Canada Convinced You To Eat Engine Lubricant
+## 55. There are NO hidden dangers in fruit and honey
+
+- **Source ID:** `dm9-DDoSqhM`
+- **URL:** https://www.youtube.com/watch?v=dm9-DDoSqhM
+- **Upload date:** 2022-12-12
+- **Duration:** 14:24
+- **Source file:** `sources/clean/dm9-DDoSqhM.txt`
+- **Main subjects:** a direct response to ketogenic-community claims that fructose in fruit and honey causes "hidden" glycation damage, whether hemoglobin A1c and the fructosamine assay actually capture fructose glycation, a counter-argument that ketogenic diets themselves raise a different advanced glycation end product, methylglyoxal
+- **Foods & products:** fruit (orange juice, blood orange juice), honey
+- **Concerns:** claimed but (per this source) undetected fructose glycation from whole-food fructose sources, methylglyoxal elevation on ketogenic/Atkins diets
+- **Important concepts:** hemoglobin A1c and fructosamine as glycation assays, the distinction between pure/rodent-study fructose and whole-food fructose sources, advanced glycation end products (AGEs)
+
+## 56. This Is How Canada Convinced You To Eat Engine Lubricant
 
 - **Source ID:** `c1kyubykrvA`
 - **URL:** https://www.youtube.com/watch?v=c1kyubykrvA
@@ -249,7 +681,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** erucic acid toxicity in unmodified rapeseed oil, carcinogenic extraction solvents (benzene, hexane), oxidation and trans-fat formation from high-heat refining, mainstream health-authority endorsement of an oil the source calls harmful
 - **Important concepts:** canola as an acronym (Canadian Oil, Low Acid), genetic modification as the route from toxic rapeseed to food-grade canola, refining as extraction plus high-heat distillation
 
-## 21. What is fluoride really?
+## 57. What is fluoride really?
 
 - **Source ID:** `sPGdfZtLYKk`
 - **URL:** https://www.youtube.com/watch?v=sPGdfZtLYKk
@@ -261,7 +693,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluorosilicic acid as an industrial waste product added to municipal water, cumulative/chronic toxicity versus single-dose toxicity framing, carbon (Brita-style) filters, and even Berkey filters without a post-filter, failing to remove fluoride
 - **Important concepts:** filtering water before drinking it versus relying on the body to filter out contaminants (the video's own "temple" framing), cumulative dosage, not just single-dose amount, as the determinant of toxicity, transdermal absorption of chlorine during skin contact with tap water
 
-## 22. What's WRONG With Your Milk (and how to fix it)
+## 58. What's WRONG With Your Milk (and how to fix it)
 
 - **Source ID:** `Ya-P2K5k6PY`
 - **URL:** https://www.youtube.com/watch?v=Ya-P2K5k6PY
@@ -273,7 +705,43 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** A1 casein as more immunologically problematic than A2, foodborne illness risk from raw dairy, foodborne illness risk from pasteurized dairy (historical outbreaks), homogenization's necessity questioned
 - **Important concepts:** A2/A2 homozygosity in cattle breeds (Jersey, Guernsey), ferroptosis and lipid-peroxide-induced cell death, pentadecanoic acid (C15) as a biomarker of full-fat dairy intake, calcium-phosphorus mineral balance, swill milk and the historical origin of pasteurization
 
-## 23. Why Sugar & Fruit Juice Are NOT The Same
+## 59. Why grass-finished meat is better
+
+- **Source ID:** `4HurlX9qpLY`
+- **URL:** https://www.youtube.com/watch?v=4HurlX9qpLY
+- **Upload date:** 2022-08-27
+- **Duration:** 03:01
+- **Source file:** `sources/clean/4HurlX9qpLY.txt`
+- **Main subjects:** glyphosate exposure in humans and in conventionally raised cattle, what "organic grass-fed" actually excludes in a cow's feed
+- **Foods & products:** grain-finished beef, grass-finished beef, organic grass-fed beef
+- **Concerns:** glyphosate residue in cattle fed GMO grains or Roundup-sprayed grasses/hay, PFAS and microplastic exposure as additional (unquantified) grass-fed advantages
+- **Important concepts:** organic grass-fed as excluding GMO feed and glyphosate-sprayed grass/hay specifically
+
+## 60. Why I don't eat fish, chicken or pork!
+
+- **Source ID:** `jzszqg-xQGM`
+- **URL:** https://www.youtube.com/watch?v=jzszqg-xQGM
+- **Upload date:** 2022-06-14
+- **Duration:** 56:06
+- **Source file:** `sources/clean/jzszqg-xQGM.txt`
+- **Main subjects:** PFAS (per- and polyfluoroalkyl substances) in food packaging, dental floss, and sparkling water, heavy metal and microplastic contamination in fish and shellfish, chicken and pork as monogastric animals that bioaccumulate dietary linoleic acid, getting omega-3s and iodine from ruminant animal foods instead of fish
+- **Foods & products:** fish and shellfish, chicken, pork, bacon, beef, bison, lamb (as the source's preferred alternatives), eggs
+- **Concerns:** PFAS exposure from food packaging, nonstick cookware, dental floss, and sparkling water, heavy metals (mercury, lead, arsenic, cadmium) in fish, especially larger predatory species, microplastics in fish, shellfish, and salt, linoleic acid (omega-6) bioaccumulation from corn-and-soy-fed chicken and pigs, fish oil supplementation as unnecessary and potentially oxidized
+- **Important concepts:** monogastric versus ruminant fat metabolism, bioaccumulation as a general mechanism across PFAS, heavy metals, and linoleic acid, the "nutrient problem, not calorie problem" framing of global food scarcity
+
+## 61. Why PEANUT BUTTER is one of the worst foods with Dave Asprey
+
+- **Source ID:** `Jy8fbpMHgqo`
+- **URL:** https://www.youtube.com/watch?v=Jy8fbpMHgqo
+- **Upload date:** 2023-04-04
+- **Duration:** 66:03
+- **Source file:** `sources/clean/Jy8fbpMHgqo.txt`
+- **Main subjects:** Dave Asprey's case against peanut butter (aflatoxin, lectins, phytic acid, very long-chain fatty acids), plant defense chemicals more broadly (lectins, phytic acid, oxalates) and personalized food tolerance, a friendly on-air disagreement between Asprey and the host over fructose, honey, and fruit, a critique of using blood/serum linoleic acid levels to defend seed oils
+- **Foods & products:** peanuts / peanut butter, almonds / almond butter, oatmeal / grains / legumes generally, honey, maple syrup, coconut sugar, cane sugar, seed oils (rice bran oil, canola oil)
+- **Concerns:** aflatoxin in peanut butter, described as a leading dietary source of a major carcinogen, very long-chain fatty acids (VLCFA) accumulating in neuronal tissue, phytic acid's effect on mineral absorption and, per this source, bone density, Instagram content moderation flagging seed-oil and corn-flakes-history posts as misinformation
+- **Important concepts:** VLCFA (very long-chain fatty acids) and cell-membrane fit, phytic acid as a mineral chelator ("swallowing condoms" analogy), the aggregate nutrient density index (ANDI) critiqued as a flawed food-ranking metric, adipose-tissue linoleic acid versus blood linoleic acid as a marker of seed-oil consumption
+
+## 62. Why Sugar & Fruit Juice Are NOT The Same
 
 - **Source ID:** `hljJ0T7yASU`
 - **URL:** https://www.youtube.com/watch?v=hljJ0T7yASU
@@ -285,7 +753,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** pure/processed sugar raising endotoxin (lipopolysaccharide) via gut dysbiosis, protein pop-tarts and protein cookies as a booming but questionable processed-food category, heating/processing honey (or turning it into powder) breaking down its beneficial compounds, non-glyphosate-tested honey
 - **Important concepts:** dysbiosis and lipopolysaccharide (endotoxin) as the proposed mechanism for why sugar source matters, polyphenolic/plant compounds in honey and juice as gut-flora modifiers
 
-## 24. Why we do not need fluoride to prevent tooth decay
+## 63. Why we do not need fluoride to prevent tooth decay
 
 - **Source ID:** `e5K6O41hQ3A`
 - **URL:** https://www.youtube.com/watch?v=e5K6O41hQ3A
@@ -297,7 +765,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** framing tooth decay purely as a fluoride-deficiency problem
 - **Important concepts:** odontoblasts as living immune cells in teeth, fat-soluble vitamins (D, E, A, K2) as the proposed determinant of cavity resistance, hydroxyapatite formation via fluoride or calcium
 
-## 25. Why Your "Organic" Honey Is Full Of Pesticides (w/ Eric Mason)
+## 64. Why You Should Avoid Cooking With These Oils
+
+- **Source ID:** `Tg6qO3aEw9E`
+- **URL:** https://www.youtube.com/watch?v=Tg6qO3aEw9E
+- **Upload date:** 2024-08-23
+- **Duration:** 11:15
+- **Source file:** `sources/clean/Tg6qO3aEw9E.txt`
+- **Main subjects:** a ranked walkthrough of cooking oils and fats, from worst to best, smoke point versus peroxidation index as the correct way to judge an oil's heat safety, why olive and avocado oil are treated as salad oils, not cooking oils, the case for animal fats (tallow, butter, ghee) over both seed oils and plant oils
+- **Foods & products:** seed oils (canola, soybean), olive oil, avocado oil, tallow, butter (including raw butter and ghee), coconut oil, cacao butter
+- **Concerns:** PTFE/Teflon aerosolizing from nonstick pans, oxidation of polyunsaturated fats (seed, olive, avocado oil) when heated, olive and avocado oil being cut with seed oils, endocrine-disrupting plastic in can linings for olive and avocado oil, oxidized LDL and Lp(a) from seed-oil consumption
+- **Important concepts:** peroxidation index as the relevant heat-stability measure, not smoke point, the Maillard-adjacent "mercury ball effect" for testing a stainless pan's readiness, odd-chain and 18-carbon saturated fatty acids (stearic, pentadecanoic, heptadecanoic acid), fat-soluble vitamins (A, D, E, K/K2) concentrated in animal fat from grass-fed diets
+
+## 65. Why Your "Organic" Honey Is Full Of Pesticides (w/ Eric Mason)
 
 - **Source ID:** `1Fke1NV4ZdA`
 - **URL:** https://www.youtube.com/watch?v=1Fke1NV4ZdA
@@ -309,7 +789,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** glyphosate contamination reaching honey even under "organic" labeling, neonicotinoid ("neonic") seed coatings that are unregulated at the seed-production stage, adulterated/fake honey cut with sugar, high-fructose corn syrup, or rice syrup; mislabeled country of origin to dodge tariffs, heavy metals (lead, arsenic) turning up in urban bee colonies' honey and comb, heat/processing in "non-raw" honey reducing its biological complexity
 - **Important concepts:** dysbiosis and lipopolysaccharide (endotoxin) as the host's hypothesis for why sugar source matters, true source certification as a honey-authenticity standard, raw versus processed honey (heat and straining as the dividing line), the honeybee as an environmental "canary in the coal mine"
 
-## 26. You Are Being Lied To About Fish Oil
+## 66. You Are Being Lied To About Fish Oil
 
 - **Source ID:** `AN0M9rUugpI`
 - **URL:** https://www.youtube.com/watch?v=AN0M9rUugpI
@@ -321,15 +801,49 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** atrial fibrillation and arrhythmia linked to high-dose (4+ grams/day) fish oil, LDL oxidation from fish oil, fish oil rancidity ("fish burps") and industrial bleaching/deodorizing/refining of fish oil, lipid peroxidation from fatty fish and fish oil, including pharmaceutical-grade and cod liver oil
 - **Important concepts:** membrane pacemaker theory of aging, eicosanoids as the basis for treating omega-3 and omega-6 differently, polyunsaturated fat double-bond count as a predictor of oxidation susceptibility
 
+## 67. Your bacon is BS: Stop eating pork
+
+- **Source ID:** `HPTpID3vV_o`
+- **URL:** https://www.youtube.com/watch?v=HPTpID3vV_o
+- **Upload date:** 2022-06-20
+- **Duration:** 04:11
+- **Source file:** `sources/clean/HPTpID3vV_o.txt`
+- **Main subjects:** why pigs, as monogastric animals fed corn and soy, accumulate linoleic acid in their fat, a Tokelau-atoll natural-experiment paper used as a "wild-fed" baseline for pig and chicken fat
+- **Foods & products:** pork, bacon, chicken (as a comparison point)
+- **Concerns:** linoleic acid (omega-6) bioaccumulation in pork fat from corn-and-soy feed
+- **Important concepts:** monogastric versus ruminant fat storage and metabolism, feed composition as the determinant of an animal's own fatty-acid profile
+
+## 68. Your kale contains heavy metals
+
+- **Source ID:** `qxhOQ6PY5ME`
+- **URL:** https://www.youtube.com/watch?v=qxhOQ6PY5ME
+- **Upload date:** 2022-08-28
+- **Duration:** 07:58
+- **Source file:** `sources/clean/qxhOQ6PY5ME.txt`
+- **Main subjects:** a rebuttal of kale's popular health reputation, nutrient by nutrient, isothiocyanates and thyroid function, pesticide (Dacthal) contamination of kale, thallium uptake by leafy greens from soil, and one practitioner's clinical account of it
+- **Foods & products:** kale (including lacinato/dinosaur kale specifically), Brussels sprouts, chard (as other isothiocyanate/goitrin sources), spinach, liver, egg yolks (as the source's preferred alternative for vitamin A/beta-carotene)
+- **Concerns:** vitamin K1 (in kale) being conflated with vitamin K2, isothiocyanates and goitrin interfering with thyroid iodine uptake, Dacthal (DCPA) pesticide residue, an EPA-acknowledged thyroid endocrine disruptor, thallium contamination of leafy greens from naturally high-thallium soils, oxalates in spinach (mentioned in passing)
+- **Important concepts:** vitamin K1 versus K2 as distinct compounds with distinct effects, isothiocyanates and goitrin as thyroid-disrupting plant compounds, soil-to-plant heavy metal transfer, specifically thallium
+
 ---
 
 ## Index by foods & products
 
+**a meat stick containing beef, heart, and liver** — Are we being deceived about grass-finished labeling? (`y1VcuNM35Nc`)
+
 **acqua panna** — Bottled Water Brands To AVOID at All Costs (And 2 That Won’t Poison You) (`SR0x-de80iU`)
+
+**afa / aphanizomenon flos-aquae ("blue-green algae" from klamath lake)** — Cyanotoxins in algae and seaweed- why they are not beneficial for our health (`2jXnCNs9etE`)
 
 **alkaline bottled water (an "immunity booster" branded bottle, unnamed)** — Is Alkaline water/Structured water BS? (`A0D0zCk-y4w`)
 
+**almonds** — The problems with plant based meat (`CfmMPvcTLAg`)
+
+**almonds / almond butter** — Why PEANUT BUTTER is one of the worst foods with Dave Asprey (`Jy8fbpMHgqo`)
+
 **almonds / almond milk (as an example of an industrial monocrop dependent on trucked-in bees)** — Why Your "Organic" Honey Is Full Of Pesticides (w/ Eric Mason) (`1Fke1NV4ZdA`)
+
+**almonds, peanuts, sesame seeds, poppy seeds** — Attack of the Oxalates! A hidden but nasty plant toxin, with Sally K Norton, MPH (`cQqRQ4xXq54`)
 
 **an unnamed third olive oil brand** — Avoid These Olive Oils (`JpW1utNfQM0`)
 
@@ -337,25 +851,83 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **apple juice** — Why Sugar & Fruit Juice Are NOT The Same (`hljJ0T7yASU`)
 
+**atlantic and alaskan sockeye salmon** — Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice) (`NMR3kHPi3lk`)
+
 **atlantic salmon (farmed)** — Avoid These Fish at All Costs (`bLEaUZ3gwIw`)
+
+**atlantic salmon (farmed), wild sockeye salmon, wild atlantic cod, ahi tuna** — How To Shop For Meat And Eggs At Costco (`mXRxFtQiT3I`)
+
+**avocado oil** — Why You Should Avoid Cooking With These Oils (`Tg6qO3aEw9E`)
 
 **avocado oil (including a named "mava" brand)** — Don’t Make These Mistakes When Buying Olive Oil (`mV58zXMBco4`)
 
+**bacon** — The Dark Side of White Meat (`xt3ZOwgj_5Y`), Why I don't eat fish, chicken or pork! (`jzszqg-xQGM`), Your bacon is BS: Stop eating pork (`HPTpID3vV_o`)
+
 **baja gold** — How Contaminated Is Your Favorite Salt? (`Ynis4uKZUfY`)
 
-**beer** — Avoid These Drinks At All Costs (`AUuy4PHnMO8`)
+**beans (black beans, white beans)** — Stop eating soy and beans (Genistein + Glyphosate) (`MMvzIVSS4wI`)
+
+**beans, soy, tofu** — How to lower glyphosate exposure (`vvHMEumxHTc`)
+
+**beef (as the contrast case)** — The Dark Side of White Meat (`xt3ZOwgj_5Y`)
+
+**beef cheek, beef tongue, thymus ("sweets")** — Is This The Best Butcher Shop In Texas? (`jhr-imd1HYI`)
+
+**beef liver** — How To Cook Organ Meat With Anya (`Os8GRj2YEUs`)
+
+**beef liver, beef kidney** — How I Find the Healthiest Grass Fed Steak (`QHgMGn1ohH4`)
+
+**beef tallow (rendered beef fat)** — The secret benefits of Grass-Fed BEEF TALLOW (`-Wn32snt0YY`)
+
+**beef, bison, lamb (as the source's preferred alternatives)** — Why I don't eat fish, chicken or pork! (`jzszqg-xQGM`)
+
+**beer** — Avoid These Drinks At All Costs (`AUuy4PHnMO8`), Stop eating soy and beans (Genistein + Glyphosate) (`MMvzIVSS4wI`)
+
+**beer and wine** — Glyphosate: how it's harming you (`nRN8yhYmyVc`)
+
+**beyond burger, soybeans, pork, chicken (named as carbon-positive comparisons)** — Regeneratively raised cattle are carbon negative (`9boE1IOF_M4`)
 
 **bison milk** — What's WRONG With Your Milk (and how to fix it) (`Ya-P2K5k6PY`)
+
+**bone broth / gelatin / collagen** — Attack of the Oxalates! A hidden but nasty plant toxin, with Sally K Norton, MPH (`cQqRQ4xXq54`)
+
+**bottled water** — 4 Ways to Reduce Microplastics in Your Body (`MyZekF0Xgck`)
 
 **bourbon** — Avoid These Drinks At All Costs (`AUuy4PHnMO8`)
 
 **brags olive oil** — Avoid These Olive Oils (`JpW1utNfQM0`)
 
-**butter** — Why we do not need fluoride to prevent tooth decay (`e5K6O41hQ3A`)
+**breast milk** — The infant formula/seed oil scandal (`7eNXCx4EUjQ`)
+
+**brussels sprouts, chard (as other isothiocyanate/goitrin sources)** — Your kale contains heavy metals (`qxhOQ6PY5ME`)
+
+**butter** — The history and DANGERS of seed oils (`lzazaZLnWNA`), Why we do not need fluoride to prevent tooth decay (`e5K6O41hQ3A`)
+
+**butter (including raw butter and ghee)** — Why You Should Avoid Cooking With These Oils (`Tg6qO3aEw9E`)
+
+**cabbage** — The dangers of pesticides (`e9UU45pt4Q8`)
+
+**cacao butter** — Why You Should Avoid Cooking With These Oils (`Tg6qO3aEw9E`)
+
+**canned soup and soda** — 4 Ways to Reduce Microplastics in Your Body (`MyZekF0Xgck`)
 
 **canola oil (rapeseed oil)** — This Is How Canada Convinced You To Eat Engine Lubricant (`c1kyubykrvA`)
 
+**canola oil (referenced via "quote unquote" example)** — The history and DANGERS of seed oils (`lzazaZLnWNA`)
+
 **celtic sea salt** — How Contaminated Is Your Favorite Salt? (`Ynis4uKZUfY`), I Tested the Top 7 Salts for Toxins (Only 2 Passed) (`9cmx-lt3n1w`)
+
+**chicken** — The Dark Side of White Meat (`xt3ZOwgj_5Y`), Why I don't eat fish, chicken or pork! (`jzszqg-xQGM`)
+
+**chicken (as a comparison point)** — Your bacon is BS: Stop eating pork (`HPTpID3vV_o`)
+
+**chicken (backyard/farmers-market "caseros" chickens versus commercial chicken)** — How to raise chickens and pork appropriately (`5Rkk-Be3AqY`)
+
+**chicken (organic, air-chilled, water-chilled, rotisserie)** — How To Shop For Meat And Eggs At Costco (`mXRxFtQiT3I`)
+
+**chicken liver** — How To Cook Organ Meat With Anya (`Os8GRj2YEUs`)
+
+**chlorella** — Cyanotoxins in algae and seaweed- why they are not beneficial for our health (`2jXnCNs9etE`)
 
 **chosen foods avocado oil** — Avoid These Olive Oils (`JpW1utNfQM0`)
 
@@ -367,23 +939,51 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **cobram-type olive oil (transcribed "cobra mate")** — Avoid These Olive Oils (`JpW1utNfQM0`)
 
+**cocoa butter (comparison source of stearic acid)** — The secret benefits of Grass-Fed BEEF TALLOW (`-Wn32snt0YY`)
+
+**coconut oil** — Why You Should Avoid Cooking With These Oils (`Tg6qO3aEw9E`)
+
 **cod liver oil** — You Are Being Lied To About Fish Oil (`AN0M9rUugpI`)
 
-**coffee** — The Best Way to Stay Hydrated (Not Water) (`RAz7L3rD9_M`)
+**coffee** — Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice) (`NMR3kHPi3lk`), The Best Way to Stay Hydrated (Not Water) (`RAz7L3rD9_M`)
+
+**conventional and air-chilled chicken** — Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice) (`NMR3kHPi3lk`)
+
+**conventional beef, 100% grass-fed beef, regeneratively raised beef and bison** — How to Shop for Meat at the Grocery Store (`DwRxSE8m3sQ`)
+
+**conventionally raised chicken and pork fat versus wild chicken and pork fat** — Exposing the “Healthy” Ingredient That’s Killing You Tucker Goodrich and Jeff Nobbs (`wrL-i4zy9xU`)
+
+**corn flakes / breakfast cereal** — The secret ingredient in corn flakes is a religious agenda. Revisionist history with Gary Fettke, MD (`pvjeI77-7bA`)
 
 **cow milk** — What's WRONG With Your Milk (and how to fix it) (`Ya-P2K5k6PY`)
 
+**crisco** — The history and DANGERS of seed oils (`lzazaZLnWNA`)
+
+**dairy and collagen products** — The Deadly Red Meat Disease Taking Over America (`4eHW8mP9RJo`)
+
 **deer park** — Bottled Water Brands To AVOID at All Costs (And 2 That Won’t Poison You) (`SR0x-de80iU`)
+
+**desiccated organ supplements** — The dangers of additives (`MvP689Rmt14`)
 
 **diamond crystal salt** — I Tested the Top 7 Salts for Toxins (Only 2 Passed) (`9cmx-lt3n1w`)
 
 **diamond kosher salt flakes** — How Contaminated Is Your Favorite Salt? (`Ynis4uKZUfY`)
 
+**dulse** — Cyanotoxins in algae and seaweed- why they are not beneficial for our health (`2jXnCNs9etE`)
+
 **egg yolks** — Why we do not need fluoride to prevent tooth decay (`e5K6O41hQ3A`)
 
-**eggs** — How To Decode Egg Labels For The Healthiest Choice (`fpO3Y5yVVIA`), Never Buy These Egg Brands in 2026 (Get THIS Instead) (`SPaqnDv-qmQ`)
+**eggs** — Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice) (`NMR3kHPi3lk`), How To Decode Egg Labels For The Healthiest Choice (`fpO3Y5yVVIA`), Never Buy These Egg Brands in 2026 (Get THIS Instead) (`SPaqnDv-qmQ`), The Dark Side of White Meat (`xt3ZOwgj_5Y`), Why I don't eat fish, chicken or pork! (`jzszqg-xQGM`)
+
+**eggs (cage-free, organic free-range, heirloom)** — How To Shop For Meat And Eggs At Costco (`mXRxFtQiT3I`)
+
+**eggs (identified in the demonstration as a mild personal sensitivity)** — The Deadly Red Meat Disease Taking Over America (`4eHW8mP9RJo`)
+
+**eggs (nine named cartons, including vital farms restorative pasture raised, vital farms organic pasture raised, "true blue" heirloom blue eggs, and unnamed organic/free-range/ cage-free/outdoor-access store brands)** — Avoid These Egg Brands At All Costs (Buy This Instead) (`biaZgPq4Uw0`)
 
 **evian** — Bottled Water Brands To AVOID at All Costs (And 2 That Won’t Poison You) (`SR0x-de80iU`)
+
+**farmed salmon fed high-linoleic-acid feed** — Exposing the “Healthy” Ingredient That’s Killing You Tucker Goodrich and Jeff Nobbs (`wrL-i4zy9xU`)
 
 **fiji** — Bottled Water Brands To AVOID at All Costs (And 2 That Won’t Poison You) (`SR0x-de80iU`)
 
@@ -391,7 +991,15 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **filtered/reverse-osmosis water** — The Best Way to Stay Hydrated (Not Water) (`RAz7L3rD9_M`)
 
+**fish and shellfish** — Why I don't eat fish, chicken or pork! (`jzszqg-xQGM`)
+
+**fish and shellfish generally (not species-specific)** — The dangers of PFAS in fish (`Ry4G6ljw5EA`)
+
 **fish oil supplements** — You Are Being Lied To About Fish Oil (`AN0M9rUugpI`)
+
+**fish oil versus whole fish (triglyceride versus phospholipid omega-3)** — Exposing the “Healthy” Ingredient That’s Killing You Tucker Goodrich and Jeff Nobbs (`wrL-i4zy9xU`)
+
+**fish oil, fatty fish (e.g., salmon), leaner fish** — Are pork & chicken the new seed oils? (`oWFsV2PsgO0`)
 
 **fresh-squeezed orange juice** — The Best Way to Stay Hydrated (Not Water) (`RAz7L3rD9_M`)
 
@@ -399,43 +1007,129 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **fruit** — Why we do not need fluoride to prevent tooth decay (`e5K6O41hQ3A`)
 
+**fruit (orange juice, blood orange juice)** — There are NO hidden dangers in fruit and honey (`dm9-DDoSqhM`)
+
 **gerolsteiner** — All about WATER. Fluoride? Alkaline? Structured? Filtration? Contaminants in your spring water? (`6tT1RQ_9-l8`), Are you drinking radioactive elements in your bottled water? (`Xr1Wkn1fj58`)
 
 **gin** — Avoid These Drinks At All Costs (`AUuy4PHnMO8`)
 
 **goat milk** — What's WRONG With Your Milk (and how to fix it) (`Ya-P2K5k6PY`)
 
+**grain-finished beef, grass-finished beef, organic grass-fed beef** — Why grass-finished meat is better (`4HurlX9qpLY`)
+
+**grain-finished beef, turkey, chicken, and pork** — How to avoid moldy meat and why cows are NOT driving rainforest deforestation (`2KMaKJqU5Gs`)
+
+**grains (oats, wheat)** — How to lower glyphosate exposure (`vvHMEumxHTc`)
+
+**grass pellets and alfalfa pellets fed to cattle marketed as grass-fed** — Are we being deceived about grass-finished labeling? (`y1VcuNM35Nc`)
+
+**grass-fed beef** — Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice) (`NMR3kHPi3lk`)
+
 **grass-fed beef (as the comparison food)** — Avoid These Fish at All Costs (`bLEaUZ3gwIw`)
+
+**grass-fed beef (ribeye, new york, flap/flank, skirt, bavette, ground beef, dry-aged beef)** — How I Find the Healthiest Grass Fed Steak (`QHgMGn1ohH4`)
+
+**grass-fed beef and other ruminants (sheep, goats, bison, deer)** — How to raise chickens and pork appropriately (`5Rkk-Be3AqY`)
+
+**grass-fed meat, delivered in glass instead of plastic** — The dangers of PFAS in fish (`Ry4G6ljw5EA`)
+
+**grass-fed organic butter, including irish grass-fed butter** — Don’t Make These Mistakes When Buying Butter (`kFo6mmetKmc`)
+
+**grass-fed wagyu beef (t-bone, porterhouse, new york strip, ribeye, bavette, flat iron, ground beef)** — Is This The Best Butcher Shop In Texas? (`jhr-imd1HYI`)
+
+**grass-fed, grass-finished beef** — Eat meat, save the planet. With Will Harris (`J7zMToZG6mE`)
+
+**grass-fed/grass-finished meat** — How to lower glyphosate exposure (`vvHMEumxHTc`)
+
+**grass-finished beef** — Regeneratively raised cattle are carbon negative (`9boE1IOF_M4`)
+
+**grass-finished versus grain-finished beef** — Glyphosate: how it's harming you (`nRN8yhYmyVc`)
+
+**ground beef** — The problems with plant based meat (`CfmMPvcTLAg`)
+
+**ground beef (grass-fed versus regular), ribeye (prime versus choice), flap steak** — How To Shop For Meat And Eggs At Costco (`mXRxFtQiT3I`)
+
+**heart (beef, lamb, chicken)** — How To Cook Organ Meat With Anya (`Os8GRj2YEUs`)
 
 **herkimer sea salt** — I Tested the Top 7 Salts for Toxins (Only 2 Passed) (`9cmx-lt3n1w`)
 
-**honey** — Why Sugar & Fruit Juice Are NOT The Same (`hljJ0T7yASU`), Why we do not need fluoride to prevent tooth decay (`e5K6O41hQ3A`)
+**high fructose corn syrup** — The dangers of high fructose corn syrup (`HK9_KYWli5I`)
+
+**honey** — The dangers of high fructose corn syrup (`HK9_KYWli5I`), There are NO hidden dangers in fruit and honey (`dm9-DDoSqhM`), Why Sugar & Fruit Juice Are NOT The Same (`hljJ0T7yASU`), Why we do not need fluoride to prevent tooth decay (`e5K6O41hQ3A`)
 
 **honey (raw, organic, and conventional)** — Why Your "Organic" Honey Is Full Of Pesticides (w/ Eric Mason) (`1Fke1NV4ZdA`)
 
 **honey nut cheerios (used as an example of a "real honey" claim alongside high-fructose corn syrup and many other ingredients)** — Why Your "Organic" Honey Is Full Of Pesticides (w/ Eric Mason) (`1Fke1NV4ZdA`)
 
+**honey, maple syrup, coconut sugar, cane sugar** — Why PEANUT BUTTER is one of the worst foods with Dave Asprey (`Jy8fbpMHgqo`)
+
+**honeydew melon (identified in the demonstration as a personal allergen)** — The Deadly Red Meat Disease Taking Over America (`4eHW8mP9RJo`)
+
 **icelandic glacial** — Bottled Water Brands To AVOID at All Costs (And 2 That Won’t Poison You) (`SR0x-de80iU`)
+
+**imported european infant formula (black-market)** — The infant formula/seed oil scandal (`7eNXCx4EUjQ`)
+
+**impossible burger (as the carbon-footprint comparison)** — Eat meat, save the planet. With Will Harris (`J7zMToZG6mE`)
+
+**infant formula (us-regulated, seed-oil-containing)** — The infant formula/seed oil scandal (`7eNXCx4EUjQ`)
 
 **jacobson sea salt** — How Contaminated Is Your Favorite Salt? (`Ynis4uKZUfY`), I Tested the Top 7 Salts for Toxins (Only 2 Passed) (`9cmx-lt3n1w`)
 
+**juices (apple, grape, pear)** — The dangers of additives (`MvP689Rmt14`)
+
 **just egg (plant-based egg substitute)** — How To Decode Egg Labels For The Healthiest Choice (`fpO3Y5yVVIA`)
+
+**kale (including lacinato/dinosaur kale specifically)** — Your kale contains heavy metals (`qxhOQ6PY5ME`)
+
+**kale and other leafy greens** — Glyphosate: how it's harming you (`nRN8yhYmyVc`)
 
 **kellogg's corn flakes** — The Disturbing History of Corn Flakes (`PmObqSKkX1w`)
 
+**kelp** — Cyanotoxins in algae and seaweed- why they are not beneficial for our health (`2jXnCNs9etE`)
+
+**kerrygold butter (transcribed "ky gold")** — Don’t Make These Mistakes When Buying Butter (`kFo6mmetKmc`)
+
+**kidney** — How To Cook Organ Meat With Anya (`Os8GRj2YEUs`)
+
+**lamb liver** — How To Cook Organ Meat With Anya (`Os8GRj2YEUs`)
+
+**lard** — The history and DANGERS of seed oils (`lzazaZLnWNA`)
+
 **liver** — Why we do not need fluoride to prevent tooth decay (`e5K6O41hQ3A`)
+
+**liver, egg yolks (as the source's preferred alternative for vitamin a/beta-carotene)** — Your kale contains heavy metals (`qxhOQ6PY5ME`)
+
+**local produce (apples, chard, cruciferous vegetables, mushrooms)** — Is This The Best Butcher Shop In Texas? (`jhr-imd1HYI`)
 
 **maldon sea salt** — I Tested the Top 7 Salts for Toxins (Only 2 Passed) (`9cmx-lt3n1w`)
 
-**maple syrup** — Why Sugar & Fruit Juice Are NOT The Same (`hljJ0T7yASU`)
+**maple syrup** — The dangers of high fructose corn syrup (`HK9_KYWli5I`), Why Sugar & Fruit Juice Are NOT The Same (`hljJ0T7yASU`)
+
+**margarine** — The history and DANGERS of seed oils (`lzazaZLnWNA`)
 
 **marijuana** — The Untold Side Effects of Nicotine (`fyO6eROqf2c`)
 
 **mava avocado oil** — Avoid These Olive Oils (`JpW1utNfQM0`)
 
+**mcdonald's big mac** — McDonald's Secret Ingredients You Never Knew About (`lDQofCXuYik`)
+
+**mcdonald's chicken mcnuggets** — McDonald's Secret Ingredients You Never Knew About (`lDQofCXuYik`)
+
+**mcdonald's french fries** — McDonald's Secret Ingredients You Never Knew About (`lDQofCXuYik`)
+
+**mcdonald's iodized salt** — McDonald's Secret Ingredients You Never Knew About (`lDQofCXuYik`)
+
+**mcdonald's ketchup and dipping sauces** — McDonald's Secret Ingredients You Never Knew About (`lDQofCXuYik`)
+
+**mcdonald's mcrib** — McDonald's Secret Ingredients You Never Knew About (`lDQofCXuYik`)
+
+**meat (plastic-wrapped versus butcher paper or vacuum-sealed with a parchment barrier)** — 4 Ways to Reduce Microplastics in Your Body (`MyZekF0Xgck`)
+
+**meat and animal products** — The secret ingredient in corn flakes is a religious agenda. Revisionist history with Gary Fettke, MD (`pvjeI77-7bA`)
+
 **meat and organs (as an alternative source of trace minerals to remineralized water)** — All about WATER. Fluoride? Alkaline? Structured? Filtration? Contaminants in your spring water? (`6tT1RQ_9-l8`)
 
-**molasses** — Why Sugar & Fruit Juice Are NOT The Same (`hljJ0T7yASU`)
+**molasses** — The dangers of high fructose corn syrup (`HK9_KYWli5I`), Why Sugar & Fruit Juice Are NOT The Same (`hljJ0T7yASU`)
 
 **morton iodized sea salt** — I Tested the Top 7 Salts for Toxins (Only 2 Passed) (`9cmx-lt3n1w`)
 
@@ -447,29 +1141,87 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **nicotine pouches (zyn)** — The Truth About Using Nicotine in 2026 (`kGqGeYdPxMk`), The Untold Side Effects of Nicotine (`fyO6eROqf2c`)
 
-**olive oil** — Don’t Make These Mistakes When Buying Olive Oil (`mV58zXMBco4`)
+**nuts and seeds (mentioned as another high-pufa source)** — Are pork & chicken the new seed oils? (`oWFsV2PsgO0`)
+
+**oat-based breakfast cereals (cheerios, quaker oats, nature valley)** — Glyphosate: how it's harming you (`nRN8yhYmyVc`)
+
+**oatmeal / grains / legumes generally** — Why PEANUT BUTTER is one of the worst foods with Dave Asprey (`Jy8fbpMHgqo`)
+
+**olive oil** — Don’t Make These Mistakes When Buying Olive Oil (`mV58zXMBco4`), Why You Should Avoid Cooking With These Oils (`Tg6qO3aEw9E`)
 
 **olive oil (mentioned in passing, for its relative oxidation rate)** — The Side of Seed Oils Nobody Talks About (`DqHqBWCW3Hs`)
 
 **olive oil (terra diva, pj cabos greek extra virgin, atlas, an unverified ~$25 moroccan brand)** — The Best Olive Oils Money Can Buy (`d4mYLeFxONQ`)
 
+**olive oil, seed oils (comparison fats)** — The secret benefits of Grass-Fed BEEF TALLOW (`-Wn32snt0YY`)
+
+**organ capsules sourced from chile and argentina (comparison example)** — Are we being deceived about grass-finished labeling? (`y1VcuNM35Nc`)
+
+**organic fruit and vegetables** — How to lower glyphosate exposure (`vvHMEumxHTc`)
+
+**organic produce** — Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice) (`NMR3kHPi3lk`)
+
+**palm oil** — Exposing the “Healthy” Ingredient That’s Killing You Tucker Goodrich and Jeff Nobbs (`wrL-i4zy9xU`)
+
 **parmesan cheese, jerky, milk as ready-to-eat protein sources** — New Study Shows Sweeteners Make You Hungrier (`Kl-SL9MSOQY`)
 
+**parmigiano-reggiano and other grated cheeses** — The dangers of additives (`MvP689Rmt14`)
+
+**pasture-raised versus grass-fed/grass-finished retail beef labeling** — Eat meat, save the planet. With Will Harris (`J7zMToZG6mE`)
+
+**pastured lamb** — How I Find the Healthiest Grass Fed Steak (`QHgMGn1ohH4`)
+
+**pastured pork** — How to raise chickens and pork appropriately (`5Rkk-Be3AqY`)
+
+**pastured pork (sausage, bacon, dry-aged pork)** — How I Find the Healthiest Grass Fed Steak (`QHgMGn1ohH4`)
+
+**peanuts** — Stop eating soy and beans (Genistein + Glyphosate) (`MMvzIVSS4wI`)
+
+**peanuts / peanut butter** — Why PEANUT BUTTER is one of the worst foods with Dave Asprey (`Jy8fbpMHgqo`)
+
 **pedras salgadas** — Are you drinking radioactive elements in your bottled water? (`Xr1Wkn1fj58`)
+
+**plant-based burgers (beyond burger, impossible burger) containing soy protein** — FAKE MEAT, LESS T and THYROID? (`B7FyzKsWlqo`)
+
+**plant-based butter spreads, including a named "earth balance" product** — Don’t Make These Mistakes When Buying Butter (`kFo6mmetKmc`)
+
+**plant-based meat substitutes (beyond meat, impossible burger, fake bacon/sausage/ribs)** — The problems with plant based meat (`CfmMPvcTLAg`)
+
+**plant-based meat substitutes (e.g., beyond-style products)** — How to Shop for Meat at the Grocery Store (`DwRxSE8m3sQ`)
+
+**plant-based milk (oatly and other oat/almond milks)** — The problems with plant based meat (`CfmMPvcTLAg`)
+
+**pork** — The Dark Side of White Meat (`xt3ZOwgj_5Y`), Why I don't eat fish, chicken or pork! (`jzszqg-xQGM`), Your bacon is BS: Stop eating pork (`HPTpID3vV_o`)
+
+**pork (bacon, lard), chicken and chicken fat, eggs** — Are pork & chicken the new seed oils? (`oWFsV2PsgO0`)
+
+**potatoes, sweet potatoes** — Attack of the Oxalates! A hidden but nasty plant toxin, with Sally K Norton, MPH (`cQqRQ4xXq54`)
 
 **primal kitchen avocado oil** — Avoid These Olive Oils (`JpW1utNfQM0`)
 
 **protein bars (pure protein brand, "galactic brownie" flavor)** — New Study Shows Sweeteners Make You Hungrier (`Kl-SL9MSOQY`)
 
+**raw (unpasteurized) butter** — Don’t Make These Mistakes When Buying Butter (`kFo6mmetKmc`)
+
 **raw butter** — What's WRONG With Your Milk (and how to fix it) (`Ya-P2K5k6PY`)
 
 **raw cheese** — What's WRONG With Your Milk (and how to fix it) (`Ya-P2K5k6PY`)
 
+**raw dairy (milk, cheese, goat milk) from grass-fed versus grain-fed animals** — How to avoid moldy meat and why cows are NOT driving rainforest deforestation (`2KMaKJqU5Gs`)
+
 **raw milk** — The Best Way to Stay Hydrated (Not Water) (`RAz7L3rD9_M`), What's WRONG With Your Milk (and how to fix it) (`Ya-P2K5k6PY`), Why we do not need fluoride to prevent tooth decay (`e5K6O41hQ3A`)
+
+**raw milk cheese** — Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice) (`NMR3kHPi3lk`)
+
+**red bro chicken (air-chilled, pastured)** — Is This The Best Butcher Shop In Texas? (`jhr-imd1HYI`)
+
+**red meat** — The Deadly Red Meat Disease Taking Over America (`4eHW8mP9RJo`)
 
 **redmond real salt** — I Tested the Top 7 Salts for Toxins (Only 2 Passed) (`9cmx-lt3n1w`)
 
 **redmond salt** — How Contaminated Is Your Favorite Salt? (`Ynis4uKZUfY`)
+
+**retail "grass-fed" ground meat and meat sticks (unnamed brands)** — Are we being deceived about grass-finished labeling? (`y1VcuNM35Nc`)
 
 **salmon and other fatty fish** — You Are Being Lied To About Fish Oil (`AN0M9rUugpI`)
 
@@ -477,11 +1229,29 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **saratoga** — Bottled Water Brands To AVOID at All Costs (And 2 That Won’t Poison You) (`SR0x-de80iU`)
 
+**seaweed (general)** — Cyanotoxins in algae and seaweed- why they are not beneficial for our health (`2jXnCNs9etE`)
+
+**seed oils (canola, soybean)** — Why You Should Avoid Cooking With These Oils (`Tg6qO3aEw9E`)
+
+**seed oils (canola, soybean, corn, sunflower, rice bran)** — Exposing the “Healthy” Ingredient That’s Killing You Tucker Goodrich and Jeff Nobbs (`wrL-i4zy9xU`)
+
 **seed oils (corn, canola, sunflower, safflower, named as the comparison point)** — Don’t Make These Mistakes When Buying Olive Oil (`mV58zXMBco4`)
+
+**seed oils (rice bran oil, canola oil)** — Why PEANUT BUTTER is one of the worst foods with Dave Asprey (`Jy8fbpMHgqo`)
 
 **seed oils (soybean, corn, and canola oil blends used in commercial fryers)** — The Side of Seed Oils Nobody Talks About (`DqHqBWCW3Hs`)
 
-**seed oils generally** — This Is How Canada Convinced You To Eat Engine Lubricant (`c1kyubykrvA`)
+**seed oils generally** — The history and DANGERS of seed oils (`lzazaZLnWNA`), This Is How Canada Convinced You To Eat Engine Lubricant (`c1kyubykrvA`)
+
+**shake shack burger** — Revealing Shake Shack Secret Ingredients (`FFwAgyTDSH8`)
+
+**shake shack chicken shack (fried chicken sandwich)** — Revealing Shake Shack Secret Ingredients (`FFwAgyTDSH8`)
+
+**shake shack fries** — Revealing Shake Shack Secret Ingredients (`FFwAgyTDSH8`)
+
+**shake shack grilled cheese** — Revealing Shake Shack Secret Ingredients (`FFwAgyTDSH8`)
+
+**shake shack vegan milkshake (discontinued, "not milk")** — Revealing Shake Shack Secret Ingredients (`FFwAgyTDSH8`)
 
 **sheep milk** — What's WRONG With Your Milk (and how to fix it) (`Ya-P2K5k6PY`)
 
@@ -491,11 +1261,39 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **smoked salmon** — Avoid These Fish at All Costs (`bLEaUZ3gwIw`)
 
+**sorrel** — Attack of the Oxalates! A hidden but nasty plant toxin, with Sally K Norton, MPH (`cQqRQ4xXq54`)
+
+**sourdough bread** — Is This The Best Butcher Shop In Texas? (`jhr-imd1HYI`)
+
+**soy** — Stop eating soy and beans (Genistein + Glyphosate) (`MMvzIVSS4wI`)
+
+**soy (soy milk, soy-based infant formula, fake meat)** — The secret ingredient in corn flakes is a religious agenda. Revisionist history with Gary Fettke, MD (`pvjeI77-7bA`)
+
+**soy grown on cleared amazonian land** — How to avoid moldy meat and why cows are NOT driving rainforest deforestation (`2KMaKJqU5Gs`)
+
+**soy, beans, tofu** — Glyphosate: how it's harming you (`nRN8yhYmyVc`)
+
+**spinach** — Your kale contains heavy metals (`qxhOQ6PY5ME`)
+
+**spinach, swiss chard, beet greens, kale, rhubarb** — Attack of the Oxalates! A hidden but nasty plant toxin, with Sally K Norton, MPH (`cQqRQ4xXq54`)
+
+**spirulina** — Cyanotoxins in algae and seaweed- why they are not beneficial for our health (`2jXnCNs9etE`)
+
+**spleen** — How To Cook Organ Meat With Anya (`Os8GRj2YEUs`)
+
 **sucralose / splenda** — New Study Shows Sweeteners Make You Hungrier (`Kl-SL9MSOQY`)
+
+**sucrose (table sugar)** — The dangers of high fructose corn syrup (`HK9_KYWli5I`)
+
+**sugar / sucrose / fructose** — The secret ingredient in corn flakes is a religious agenda. Revisionist history with Gary Fettke, MD (`pvjeI77-7bA`)
+
+**sugar cane / sugar cane juice** — The dangers of high fructose corn syrup (`HK9_KYWli5I`)
 
 **sweet potatoes** — Why Sugar & Fruit Juice Are NOT The Same (`hljJ0T7yASU`)
 
-**tallow** — The Side of Seed Oils Nobody Talks About (`DqHqBWCW3Hs`)
+**sweetbreads** — How To Cook Organ Meat With Anya (`Os8GRj2YEUs`)
+
+**tallow** — The history and DANGERS of seed oils (`lzazaZLnWNA`), The Side of Seed Oils Nobody Talks About (`DqHqBWCW3Hs`), Why You Should Avoid Cooking With These Oils (`Tg6qO3aEw9E`)
 
 **tallow, butter, ghee** — Don’t Make These Mistakes When Buying Olive Oil (`mV58zXMBco4`)
 
@@ -503,11 +1301,27 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **tallow, butter, ghee, coconut oil, raw milk (comparison foods)** — Avoid These Olive Oils (`JpW1utNfQM0`)
 
+**tallow, ghee, olive oil, avocado oil (comparison fats)** — Don’t Make These Mistakes When Buying Butter (`kFo6mmetKmc`)
+
+**tallow, lard, butter** — Exposing the “Healthy” Ingredient That’s Killing You Tucker Goodrich and Jeff Nobbs (`wrL-i4zy9xU`)
+
 **tap water** — All about WATER. Fluoride? Alkaline? Structured? Filtration? Contaminants in your spring water? (`6tT1RQ_9-l8`), The Best Way to Stay Hydrated (Not Water) (`RAz7L3rD9_M`)
+
+**tea (pyramidal plastic tea bags)** — 4 Ways to Reduce Microplastics in Your Body (`MyZekF0Xgck`)
 
 **tequila** — Avoid These Drinks At All Costs (`AUuy4PHnMO8`)
 
 **toca** — Are you drinking radioactive elements in your bottled water? (`Xr1Wkn1fj58`)
+
+**trader joe's beef bulgogi** — Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice) (`NMR3kHPi3lk`)
+
+**trader joe's hash browns** — Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice) (`NMR3kHPi3lk`)
+
+**trader joe's rolled corn tortilla chips with chili and lime** — Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice) (`NMR3kHPi3lk`)
+
+**trader joe's seasoned corn ribs** — Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice) (`NMR3kHPi3lk`)
+
+**trader joe's spinach and artichoke dip** — Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice) (`NMR3kHPi3lk`)
 
 **tuna ("ai" / carbon-monoxide treated)** — Avoid These Fish at All Costs (`bLEaUZ3gwIw`)
 
@@ -515,7 +1329,11 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **vapes (juul)** — The Truth About Using Nicotine in 2026 (`kGqGeYdPxMk`)
 
+**vegetables (general)** — The dangers of pesticides (`e9UU45pt4Q8`)
+
 **vichy catalan** — All about WATER. Fluoride? Alkaline? Structured? Filtration? Contaminants in your spring water? (`6tT1RQ_9-l8`), Are you drinking radioactive elements in your bottled water? (`Xr1Wkn1fj58`)
+
+**vitamin and mineral supplement tablets/capsules** — The dangers of additives (`MvP689Rmt14`)
 
 **vitasnella** — Are you drinking radioactive elements in your bottled water? (`Xr1Wkn1fj58`)
 
