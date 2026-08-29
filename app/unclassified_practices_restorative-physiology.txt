@@ -22,6 +22,9 @@
 3Ky1YtmNFZM::keep the bedroom cool
 3Ky1YtmNFZM::open the window slightly on a rainy night
 3Ky1YtmNFZM::pink noise generator on dry nights
+3irVZ9Fo208::getting UVB-exposed skin time outdoors rather than through window glass or a car window, which absorbs ultraviolet B almost completely
+3irVZ9Fo208::not expecting sun exposure to overdose the system — skin production plateaus at a ceiling regardless of exposure length
+3irVZ9Fo208::treating a single storage-form blood test as a monthly-to-seasonal average of supply, not a real-time reading
 44EDJkTWP3o::full stride length, not a shuffle
 4ETtiIMRvlo::allow yawns to complete rather than suppressing them
 4ETtiIMRvlo::nasal breathing in a cool environment reduces the need
@@ -68,6 +71,10 @@
 9-J4kMqOvWA::smaller meals if postprandial dizziness occurs
 9MNqrOvyBZE::regular cold encounter to maintain thermal defences
 9MNqrOvyBZE::sustained mild cold exposure (15-19 C) rather than extreme cold
+9u-2y0eV4Ko::drinking in the first waking hour, when overnight dehydration is at its worst
+9u-2y0eV4Ko::moving a large evening glass of water into the afternoon instead, to avoid stacking volume on a stiff ventricle and slowed nighttime drain at once — the source's own stated change `[11:13]`
+9u-2y0eV4Ko::reading urine color as the hydration signal to trust after 60, rather than thirst or a fixed daily ounce target
+9u-2y0eV4Ko::spreading a day's water across small amounts rather than one large pour, since the kidney's excretion rate is what matters, not the daily total
 Adh1myK3_CE::one weekend in a forest per month
 BG6yth4tJBc::cool room and light clothing afterwards
 BG6yth4tJBc::footbath as an accessible substitute
@@ -270,6 +277,9 @@ XmpDZRse3KA::front-load fluids before 4pm
 XmpDZRse3KA::glass of water before coffee on waking
 XmpDZRse3KA::left-side sleeping and nasal breathing
 XmpDZRse3KA::protein-forward breakfast
+YT689Fn9A8Q::breathing through the nose rather than the mouth, since nasal resistance naturally slows the rate
+YT689Fn9A8Q::counting resting breathing rate for one quiet, unobserved minute to find out whether it runs above ~12-14 breaths/minute
+YT689Fn9A8Q::practicing a long, slow exhale that brings the rate down toward 5-6 breaths/minute, to let CO2 (and free calcium) rise back toward its set point
 YWSgliDBHUQ::move to first sensation only, never maximum stretch
 YWSgliDBHUQ::stop static hamstring stretching if the tightness is neural
 YWSgliDBHUQ::ten nerve glide oscillations daily
@@ -353,6 +363,9 @@ hxc0opwYlyA::combine with 4-second inhale, 6-second exhale nasal breathing
 hxc0opwYlyA::prefer phone calls to video calls where the choice exists
 iV3tqeWNdeM::high-fibre breakfast to set up the day
 iV3tqeWNdeM::move the largest meal earlier
+iWLkA7ME-78::eating slowly enough for the gut's fullness signal to arrive before the meal ends (folk advice reframed as GLP-1 transit time)
+iWLkA7ME-78::noticing the natural GLP-1 fullness pulse by pausing at the end of a large meal rather than eating straight through it — the source's own stated practice
+iWLkA7ME-78::prioritizing protein (35-40g in a meal, rich in leucine) and resistance training while on these medications, specifically to protect muscle against an appetite-suppressed low intake
 izsNttOseXI::monthly dynamometer reading, both hands
 izsNttOseXI::track the slope rather than the single number
 jtLYRKdp4Dc::raise cramps, fatigue, confusion or unsteadiness with a prescriber if on a thiazide
@@ -402,6 +415,9 @@ nkKfxfLwxCo::stretch only after the melting interval
 nkKfxfLwxCo::warm water on waking
 oqmj-CaeLXM::open the window onto trees
 oqmj-CaeLXM::wake to birdsong rather than an alarm where possible
+q1sSm5EDwAU::propping the heels on a small ramp or rolled towel to compensate for limited ankle dorsiflexion while depth is rebuilt
+q1sSm5EDwAU::regaining squat depth gradually with support — holding a door frame while lowering the hips, letting the arms take load while ankles and hips relearn the pattern
+q1sSm5EDwAU::scattering brief ~10-second squat breaks through an ordinary day (waiting for coffee, on a phone call) rather than relying on one long session
 r5XfC82DhKU::avoid evening fruit and fructose
 r5XfC82DhKU::expect a three-week appetite re-entrainment
 r5XfC82DhKU::make dinner the lightest meal

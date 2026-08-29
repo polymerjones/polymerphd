@@ -647,6 +647,23 @@
       }
     },
     {
+      "id": "iWLkA7ME-78",
+      "kind": "youtube",
+      "title": "The 2-Minute Signal YOUR Gut Sends That Ozempic Stretches to a Week",
+      "url": "https://www.youtube.com/watch?v=iWLkA7ME-78",
+      "upload_date": "2026-08-29",
+      "duration_seconds": 1492,
+      "duration": "24:52",
+      "word_count": 4258,
+      "clean_file": "clean/iWLkA7ME-78.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1492
+      }
+    },
+    {
       "id": "C3VQYvIo0Mo",
       "kind": "youtube",
       "title": "The 3 Fall Directions YOUR Body Has Never Rehearsed",
@@ -797,6 +814,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1830
+      }
+    },
+    {
+      "id": "YT689Fn9A8Q",
+      "kind": "youtube",
+      "title": "The Chemistry Between YOUR Breathing and YOUR Bone Density",
+      "url": "https://www.youtube.com/watch?v=YT689Fn9A8Q",
+      "upload_date": "2026-08-28",
+      "duration_seconds": 1389,
+      "duration": "23:09",
+      "word_count": 4346,
+      "clean_file": "clean/YT689Fn9A8Q.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1389
       }
     },
     {
@@ -1579,6 +1613,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1605
+      }
+    },
+    {
+      "id": "3irVZ9Fo208",
+      "kind": "youtube",
+      "title": "What Actually Happens to Vitamin D Inside YOUR Body",
+      "url": "https://www.youtube.com/watch?v=3irVZ9Fo208",
+      "upload_date": "2026-08-27",
+      "duration_seconds": 1418,
+      "duration": "23:38",
+      "word_count": 4394,
+      "clean_file": "clean/3irVZ9Fo208.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1418
       }
     },
     {
@@ -2582,6 +2633,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1709
+      }
+    },
+    {
+      "id": "9u-2y0eV4Ko",
+      "kind": "youtube",
+      "title": "What YOUR Urine Colour Says That Thirst Can No Longer Tell You",
+      "url": "https://www.youtube.com/watch?v=9u-2y0eV4Ko",
+      "upload_date": "2026-08-26",
+      "duration_seconds": 1496,
+      "duration": "24:56",
+      "word_count": 4390,
+      "clean_file": "clean/9u-2y0eV4Ko.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1496
       }
     },
     {
@@ -3976,6 +4044,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1885
+      }
+    },
+    {
+      "id": "q1sSm5EDwAU",
+      "kind": "youtube",
+      "title": "Why Your Body Was Actually Designed for Squatting",
+      "url": "https://www.youtube.com/watch?v=q1sSm5EDwAU",
+      "upload_date": "2026-08-29",
+      "duration_seconds": 1441,
+      "duration": "24:01",
+      "word_count": 3965,
+      "clean_file": "clean/q1sSm5EDwAU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1441
       }
     },
     {

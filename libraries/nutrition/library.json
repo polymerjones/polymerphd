@@ -22,7 +22,7 @@
     "Conflicts with other sources"
   ],
 
-  "glossary_file": null,
+  "glossary_file": "07_PLAIN_ENGLISH_GLOSSARY.md",
   "curated_facts_file": null,
   "catalog_file": "09_SOURCE_CATALOG.md",
 
@@ -41,7 +41,11 @@
     "url": "https://www.youtube.com/@Paulsaladinomd"
   },
 
-  "custom_gpt": { "enabled": false },
+  "custom_gpt": {
+    "enabled": true,
+    "instructions_file": "PASTE_INTO_GPT_INSTRUCTIONS.txt",
+    "file_limit": 20
+  },
 
   "evidence_types": ["influencer_commentary", "peer_reviewed_study", "systematic_review",
     "government_guideline", "industry_test_result", "patient_experience", "other"],

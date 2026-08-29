@@ -1,7 +1,8 @@
 # Polymer Ph.D.
 
-A knowledge base built from 193 YouTube transcripts on restorative physiology, the biology of
-ageing, and the mechanisms behind everyday health practices — and three ways to use it.
+A knowledge base built from YouTube transcripts, one library per source channel — restorative
+physiology, nutrition, Dupuytren's contracture, and others as they're added — and three ways to
+use each one.
 
 **Nothing in this repository originates outside the source transcripts.** Every claim traces to
 a specific video at a specific second. That constraint is the point of the whole project, and
@@ -13,37 +14,37 @@ each delivery path below preserves it.
 
 | Path | What it is |
 |---|---|
-| `source_transcripts/` | The raw and cleaned transcripts, plus `manifest.json` — the authoritative video metadata for all 227 fetched videos |
-| `notes/` | 193 structured notes, one per video. Identical schema throughout: four frontmatter facets and six universal sections |
-| `restorative_vitality_knowledge/` | The 20 synthesised knowledge files. This is the Custom GPT upload set |
-| `app/` | The offline reference app — one self-contained HTML file |
+| `libraries/<slug>/` | One directory per library. Everything below is per-library unless noted |
+| `libraries/<slug>/library.json` | That library's config: facets, controlled vocab, section headings, attribution, Custom GPT settings |
+| `libraries/<slug>/sources/` | Raw and cleaned transcripts, plus `manifest.json` — the authoritative video metadata |
+| `libraries/<slug>/notes/` | Structured notes, one per video. Identical schema within a library: frontmatter facets and six universal sections |
+| `libraries/<slug>/knowledge/` | The synthesised knowledge files. This is the Custom GPT upload set for that library |
+| `libraries/<slug>/deferred_sources.txt` | Video ids intentionally excluded from notes (out of scope for that library), one per line |
+| `libraries/<slug>/PASTE_INTO_GPT_INSTRUCTIONS.txt` | That library's Custom GPT system prompt |
+| `app/` | The offline reference app — one self-contained HTML file bundling every library |
 | `ios/` | An Xcode project wrapping that file as a native iOS app |
-| `scripts/` | The build pipeline |
-| `PASTE_INTO_GPT_INSTRUCTIONS.txt` | The Custom GPT system prompt |
+| `scripts/` | The build pipeline, shared across all libraries |
 
-## The corpus, in numbers
+## The libraries
 
-| | |
-|---|---|
-| Videos on the channel | 280 |
-| Health/body videos fetched | 227 |
-| Written up as notes | **193** (34 deferred as physics-framed) |
-| Total words across the notes | 586,296 |
-| `[mm:ss]` source anchors | **16,631**, in all 193 notes |
-| Symptom bullets catalogued | 1,178 |
-| Practice strings | 713, across 182 notes |
-| Body systems (controlled vocabulary) | 10 |
-| Glossary terms | 167 |
-| Source runtime | ~90 hours |
+| Slug | Title | Source |
+|---|---|---|
+| `restorative-physiology` | Restorative Physiology ("The Feynman Way") | [The Feynman Way](https://www.youtube.com/@The_Feynman_Way) |
+| `nutrition` | Nutrition | [Paul Saladino MD](https://www.youtube.com/@Paulsaladinomd) |
+| `dupuytren` | Dupuytren | [Dupuytren Foundation](https://www.youtube.com/@DupuytrenFoundation) + clinical guidelines/studies |
+
+Exact video/note counts drift as libraries grow — each library's own
+`knowledge/09_SOURCE_CATALOG.md` is the current, authoritative count; `libraries/<slug>/library.json`
+carries its `title`/`subtitle`/`attribution`.
 
 ## How it was built
 
-Two stages, deliberately separated:
+Two stages, deliberately separated, run independently per library:
 
 1. **Extraction.** Each transcript read once and turned into a structured note preserving
    mechanisms, doses, glossary terms, symptoms, the source's own confidence statements, and
    `[mm:ss]` anchors back to the video.
-2. **Synthesis.** The 20 knowledge files written **from the 193 notes, never from raw
+2. **Synthesis.** That library's knowledge files written **from its own notes, never from raw
    transcripts.**
 
 That separation is the anti-fabrication mechanism: if a claim is not in a note, it does not
@@ -61,11 +62,11 @@ repository root, where a small `index.html` redirects to `app/index.html`. It re
 minute after any push. The app needs iOS 16.4+ or macOS 13.3+, because it unpacks its data with
 `DecompressionStream`; on anything older the page opens blank.
 
-### 1. Custom GPT
+### 1. Custom GPT (one per library)
 
-Upload the 20 files in `restorative_vitality_knowledge/` and paste
-`PASTE_INTO_GPT_INSTRUCTIONS.txt` as the system prompt. Twenty files is exactly the Custom GPT
-knowledge limit; the package was scoped to fit it.
+Upload the files in `libraries/<slug>/knowledge/` and paste
+`libraries/<slug>/PASTE_INTO_GPT_INSTRUCTIONS.txt` as the system prompt. Each library is scoped
+to fit inside the Custom GPT 20-file knowledge limit.
 
 ### 2. Offline web app — `app/index.html`
 
@@ -103,44 +104,55 @@ a 7-day expiry. See `ios/README.md`.
 
 ## Adding a new video
 
-Four stages. Only the second is judgement; the rest is plumbing.
+Four stages, run against one library's slug (a directory name under `libraries/`). Only the
+second is judgement; the rest is plumbing.
 
 ```
-bash scripts/add.sh https://youtu.be/XXXXXXXXXXX     # 1. fetch + normalize, then list what needs a note
-                                                      # 2. write notes/<id>.md by hand
-python3 scripts/check_notes.py <id>                   # 3. validate before building
-bash scripts/publish.sh --push                        # 4. rebuild everything and ship
+bash scripts/add.sh <slug> https://youtu.be/XXXXXXXXXXX   # 1. fetch + normalize, then list what needs a note
+                                                            # 2. write libraries/<slug>/notes/<id>.md by hand
+python3 scripts/check_notes.py <slug> <id>                 # 3. validate before building
+bash scripts/publish.sh --push                              # 4. rebuild ALL libraries and ship
 ```
 
 **Stage 1** is safe to re-run and safe to paste duplicates into — `add_videos.py` sorts every id
 into *already fetched*, *already listed*, *previously excluded* or *new*, so nothing is silently
 dropped or re-downloaded. Captions only; no video or audio.
 
-**Stage 2** is the extraction pass. Read `source_transcripts/clean/<id>.txt` once and write the
-note: four frontmatter facets, the six universal sections, whatever video-specific sections the
-argument calls for in between, and an `[mm:ss]` anchor on every substantive claim. If the video is
-physics-framed rather than body-focused, add the id to `scripts/deferred_videos.txt` instead — a
-deferred id remains a legitimate cross-reference.
+**Stage 2** is the extraction pass. Read `libraries/<slug>/sources/clean/<id>.txt` once and write
+the note: that library's frontmatter facets, its six universal sections (headings declared in
+`library.json`), whatever video-specific sections the argument calls for in between, and an
+`[mm:ss]` anchor on every substantive claim. If a video is out of scope for the library, add its
+id to `libraries/<slug>/deferred_sources.txt` instead — a deferred id remains a legitimate
+cross-reference.
 
-**Stage 4** regenerates `09_SOURCE_CATALOG.md` automatically. **The other 19 knowledge files do
-not update themselves** — they were synthesised by hand from the notes, and whether a new video
-changes them is a judgement call each time. Skipping it is not wrong; it means the synthesis lags
-the notes by one video.
+**Stage 4** regenerates every library's `09_SOURCE_CATALOG.md` automatically, across all of
+`libraries/*/`. **The other knowledge files do not update themselves** — they were synthesised by
+hand from the notes, and whether a new video changes them is a judgement call each time. Skipping
+it is not wrong; it means the synthesis lags the notes by one video.
+
+Starting a brand-new library (a channel that's never been ingested before) is a manual, one-time
+setup — see "Adding a library" in `CLAUDE.md`.
 
 ---
 
 ## Scripts
 
+Every script below except `publish.sh`, `build_app_data.py`, and `make_xcodeproj.py` takes a
+`<slug>` as its first argument (a directory name under `libraries/`) — those three operate over
+every library at once.
+
 | Script | Purpose |
 |---|---|
-| `add.sh` | **Adding a video — one command.** Wraps the three ingestion scripts and reports what still needs a note |
-| `publish.sh` | **Shipping — one command.** Rebuilds catalog, app and Xcode project, then pushes with `--push` |
-| `check_notes.py` | Validates notes against the schema and the provenance rules |
-| `fetch_transcripts.sh`, `add_videos.py`, `normalize.py` | Ingestion |
-| `classify_channel.py`, `check_gaps.py` | Triage and caption-gap detection |
-| `slice_sections.py`, `slice_matching.py` | Read one dimension across all notes (staging for the synthesis pass) |
-| `build_catalog.py` | Generates `09_SOURCE_CATALOG.md` from note frontmatter |
-| `build_app_data.py` | Generates the offline app |
+| `add.sh <slug>` | **Adding a video — one command.** Wraps the ingestion scripts and reports what still needs a note |
+| `publish.sh` | **Shipping — one command.** Rebuilds every library's catalog, the app, and the Xcode project, then pushes with `--push` |
+| `check_notes.py <slug>` | Validates that library's notes against its schema and the provenance rules |
+| `lib_common.py` | Shared `Library` class — resolves per-slug paths/config; not run directly |
+| `fetch_transcripts.sh <slug>`, `add_videos.py <slug>`, `normalize.py <slug>` | YouTube ingestion |
+| `add_pdf.py <slug>`, `add_website.py <slug>` | Non-video source ingestion (PDF, web page) |
+| `list_channel.py`, `classify_channel.py`, `check_gaps.py` | Channel listing, triage, and caption-gap detection |
+| `slice_sections.py`, `slice_matching.py` | Read one dimension across a library's notes (staging for the synthesis pass) |
+| `build_catalog.py <slug>` | Generates that library's `09_SOURCE_CATALOG.md` from note frontmatter |
+| `build_app_data.py` | Generates the offline app for all libraries |
 | `make_xcodeproj.py` | Generates the Xcode project |
 
 `build_catalog.py` and `build_app_data.py` both refuse to write if a note's id is missing from
@@ -153,8 +165,8 @@ well-formed, inside the video's runtime, and absent from the transcript is a fab
 the one failure this package cannot absorb, and the one the other guards do not catch.
 
 ```
-python3 scripts/check_notes.py              # all notes
-python3 scripts/check_notes.py <video_id>   # one
+python3 scripts/check_notes.py <slug>              # all notes in that library
+python3 scripts/check_notes.py <slug> <video_id>   # one
 ```
 
 > `slice_sections.py` and `slice_matching.py` read `sys.argv` at module level and cannot be
@@ -164,6 +176,10 @@ python3 scripts/check_notes.py <video_id>   # one
 ---
 
 ## Two things the app is deliberately honest about
+
+(The specifics below describe `restorative-physiology`; the same pattern — numbered files with no
+citations, `topic_reference_*` files that carry them, notes that carry all the anchors — repeats
+in every library, with different file counts and numbers per library.)
 
 **Citation density is uneven.** Files `01`–`08` carry **no** video-ID citations. The nine
 `topic_reference` files carry 228 between them. The notes carry all 16,631 timestamps. So the
@@ -189,12 +205,14 @@ cauda equina, first episode of chest pain — are stated without softening. See
 
 Every transcript, note and synthesised file in this repository derives from its named source.
 The `restorative-physiology` library derives from
-**[The Feynman Way](https://www.youtube.com/@The_Feynman_Way)** — 227 videos fetched,
-193 written up, ~90 hours of runtime. The `dupuytren` library's video notes derive from
-**[Dupuytren Foundation](https://www.youtube.com/@DupuytrenFoundation)**; its other sources
-(clinical guidelines, systematic reviews, patient material) are cited individually in
-`libraries/dupuytren/sources/manifest.json` and its own source catalog. All rights in the
-underlying material remain with the respective channel or publisher.
+**[The Feynman Way](https://www.youtube.com/@The_Feynman_Way)**. The `nutrition` library derives
+from **[Paul Saladino MD](https://www.youtube.com/@Paulsaladinomd)**. The `dupuytren` library's
+video notes derive from **[Dupuytren Foundation](https://www.youtube.com/@DupuytrenFoundation)**;
+its other sources (clinical guidelines, systematic reviews, patient material) are cited
+individually in `libraries/dupuytren/sources/manifest.json` and its own source catalog. Each
+library's exact source count and runtime is in its own `library.json` and
+`knowledge/09_SOURCE_CATALOG.md`. All rights in the underlying material remain with the
+respective channel or publisher.
 
 This is a personal, non-commercial study aid. It is not affiliated with or endorsed by either
 channel, and nothing here is presented as original writing. The `[mm:ss]`/`[p.N]`/`[¶N]`

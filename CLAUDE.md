@@ -36,34 +36,49 @@ away.
 
 ## Adding a video
 
+This repo is multi-library: every script below takes a `<slug>` as its first argument (one of the
+directory names under `libraries/`, e.g. `restorative-physiology`, `nutrition`, `dupuytren`, or a
+new one — see "Adding a library" below). `publish.sh` is the one exception; it rebuilds every
+library in one pass, no slug needed.
+
 ```
-bash scripts/add.sh https://youtu.be/XXXXXXXXXXX     # fetch, normalize, list what needs a note
-                                                      # write notes/<id>.md          <- judgement
-python3 scripts/check_notes.py <id>                   # validate
-bash scripts/publish.sh --push                        # rebuild all outputs and ship
+bash scripts/add.sh <slug> https://youtu.be/XXXXXXXXXXX   # fetch, normalize, list what needs a note
+                                                            # write libraries/<slug>/notes/<id>.md   <- judgement
+python3 scripts/check_notes.py <slug> <id>                 # validate
+bash scripts/publish.sh --push                              # rebuild ALL libraries' outputs and ship
 ```
 
 Stage 1 and stage 4 are plumbing and safe to re-run. Stage 2 is the whole job.
 
 ### Writing the note
 
-Read `source_transcripts/clean/<id>.txt` once. Match the schema every existing note follows —
-read two or three neighbours in `notes/` first, and match their density, not just their headings.
+Read `libraries/<slug>/sources/clean/<id>.txt` once. Match the schema every existing note in that
+library follows — read two or three neighbours in `libraries/<slug>/notes/` first, and match
+their density, not just their headings. Different libraries have different densities (dense and
+clinical for `dupuytren`, conversational for `restorative-physiology`) — match the library you're
+writing into, not another one.
 
-**Four frontmatter facets:** `subjects`, `systems`, `practices`, `concepts`. `systems` must come
-from the ten-item controlled vocabulary (see any existing note, or `data.json`'s `vocab.systems`).
+**Frontmatter facets** are declared per library in `libraries/<slug>/library.json`'s `facets`
+list (e.g. `restorative-physiology` uses `subjects`, `systems`, `practices`, `concepts`). A facet
+listed under that file's `controlled_facets` must come from its fixed vocabulary — only
+`restorative-physiology`'s `systems` facet is controlled today (the ten-item body-system list; see
+any existing note there, or `library.json`'s `controlled_facets.systems`). Other libraries'
+facets are free-form.
 
-**Six universal sections, in this order at the edges:**
+**Six universal sections, in this order at the edges** (the exact headings are declared per
+library in `library.json`'s `universal_sections` — physiology/body libraries use "Symptoms and
+body signals addressed"; a library with a different subject can adapt that one heading's wording,
+e.g. a mindset/self-help library might use "Signals and internal states addressed" instead):
 
 - `## Central claim` — first
-- `## Symptoms and body signals addressed`
+- `## <the library's symptoms/signals heading>`
 - `## Glossary terms introduced`
 - `## Analogies worth reusing`
 - `## Source-stated confidence`
 - `## Conflicts with other sources` — last
 
-Between "Central claim" and "Symptoms", write whatever sections the video's own argument calls
-for. No two notes match there, and they should not.
+Between "Central claim" and the symptoms/signals section, write whatever sections the video's own
+argument calls for. No two notes match there, and they should not.
 
 **Conventions that make the notes what they are:** heavy direct quotation, an `[mm:ss]` anchor on
 every substantive claim, tables where the source is comparing things, bold for the load-bearing
@@ -71,8 +86,32 @@ sentence rather than scattered emphasis. `## Conflicts with other sources` does 
 the notes that overlap, name them by video id in backticks, and say whether this one converges,
 extends, or genuinely disagrees. Deferred videos are legitimate cross-references.
 
-If the video is physics-framed rather than body-focused, add the id to
-`scripts/deferred_videos.txt` instead of writing a note. Thirty-four have gone that way.
+If a video is out of scope for the library (e.g. physics-framed rather than body-focused, in
+`restorative-physiology`), add its id to `libraries/<slug>/deferred_sources.txt` instead of
+writing a note — one id per line. `add.sh` and `check_notes.py` both treat ids there as
+legitimately excluded, not missing.
+
+---
+
+## Adding a library
+
+There's no scaffold script for this — it's a manual, one-time setup per library, after which the
+normal "Adding a video" workflow above takes over:
+
+1. `mkdir -p libraries/<slug>/{notes,knowledge,sources/{clean,raw},ingest_state}` and
+   `touch libraries/<slug>/deferred_sources.txt`.
+2. Write `libraries/<slug>/library.json` — copy an existing one as a template.
+   `libraries/nutrition/library.json` is the better starting point for a non-physiology library
+   (free-form `facets`, empty `controlled_facets`); `libraries/restorative-physiology/library.json`
+   is the one with a controlled vocabulary if the new library needs one. Set `slug`, `title`,
+   `subtitle`, `facets`, `primary_facet`, `controlled_facets`, `universal_sections`, `attribution`
+   (channel name/url), and `custom_gpt` (20-file upload cap).
+3. Add `libraries/<slug>/icon.b64` and `splash.b64` — base64-encoded image data, referenced by
+   `library.json`'s `icon_file`/`splash_file`.
+4. `bash scripts/add.sh <slug> <urls...>` to start ingesting, same as any other library.
+5. `bash scripts/publish.sh --push` is what actually makes the new library appear in the app's
+   picker — `build_app_data.py` discovers libraries purely by scanning `libraries/*/library.json`,
+   so nothing needs registering by hand beyond that file existing with at least one note.
 
 ---
 
@@ -109,9 +148,12 @@ source material, restated in the README's Boundaries section.
   imported. `build_catalog.py` is safely importable.
 - **GitHub Pages caches for about ten minutes.** After a push, verify with a cache-busting query
   string or you will see the previous build and think the deploy failed.
-- **`source_transcripts/raw/` is gitignored** (~300 MB of yt-dlp dumps, regenerable). `clean/` is
-  the provenance record.
+- **`libraries/<slug>/sources/raw/` is gitignored** (yt-dlp dumps, regenerable, ~300 MB across all
+  libraries). `sources/clean/` is the provenance record and is committed.
 - **The iOS build expires after 7 days** on a free Apple ID. Rebuild to renew.
+- **`app/index.html` bundles every library, not just one you're working on.** `build_app_data.py`
+  and `publish.sh` always process all of `libraries/*/library.json` — there's no way to rebuild
+  just one library's slice of the app.
 
 ---
 
@@ -120,6 +162,6 @@ source material, restated in the README's Boundaries section.
 | Path | Updates when |
 |---|---|
 | <https://polymerjones.github.io/polymerphd/> | ~1 min after any push. This is the link Paul sends his father |
-| `app/index.html` | `build_app_data.py` |
+| `app/index.html` | `build_app_data.py` (all libraries at once) |
 | `ios/` | `make_xcodeproj.py`, then build to device |
-| **Custom GPT** | **Never automatically.** Re-upload the 20 files in `restorative_vitality_knowledge/` by hand after any synthesis change |
+| **Custom GPT** (one per library) | **Never automatically.** Re-upload the files in `libraries/<slug>/knowledge/` (per that library's `custom_gpt.file_limit`, 20 today) by hand after any synthesis change, with `libraries/<slug>/PASTE_INTO_GPT_INSTRUCTIONS.txt` as the system prompt |
