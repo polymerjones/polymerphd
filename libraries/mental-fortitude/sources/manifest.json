@@ -1,6 +1,1451 @@
 {
   "sources": [
     {
+      "id": "S7hpu79amxg",
+      "kind": "youtube",
+      "title": "10 Life Changing Stoic Affirmations to Repeat Every Morning — MORNING SECRET | STOICISM",
+      "url": "https://www.youtube.com/watch?v=S7hpu79amxg",
+      "upload_date": "2026-04-12",
+      "duration_seconds": 2019,
+      "duration": "33:39",
+      "word_count": 5097,
+      "clean_file": "clean/S7hpu79amxg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2019
+      }
+    },
+    {
+      "id": "h9PEdAahN3M",
+      "kind": "youtube",
+      "title": "10 Life Lessons LISTEN EVERY MORNING - You Will Never Be The Same | STOICISM",
+      "url": "https://www.youtube.com/watch?v=h9PEdAahN3M",
+      "upload_date": "2026-03-29",
+      "duration_seconds": 3211,
+      "duration": "53:31",
+      "word_count": 8510,
+      "clean_file": "clean/h9PEdAahN3M.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3211
+      }
+    },
+    {
+      "id": "ThphGO9tCTA",
+      "kind": "youtube",
+      "title": "10 Life-Changing Wisdom Most People Learn Too Late (LISTEN EVERY MORNING) | STOICISM",
+      "url": "https://www.youtube.com/watch?v=ThphGO9tCTA",
+      "upload_date": "2026-07-04",
+      "duration_seconds": 3743,
+      "duration": "62:23",
+      "word_count": 9336,
+      "clean_file": "clean/ThphGO9tCTA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3743
+      }
+    },
+    {
+      "id": "om5cjakYqmE",
+      "kind": "youtube",
+      "title": "10 Powerful Shifts That Happen When You THINK FOR YOURSELF - YOU BECOME DANGEROUS | STOICISM",
+      "url": "https://www.youtube.com/watch?v=om5cjakYqmE",
+      "upload_date": "2026-02-13",
+      "duration_seconds": 3154,
+      "duration": "52:34",
+      "word_count": 7457,
+      "clean_file": "clean/om5cjakYqmE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3154
+      }
+    },
+    {
+      "id": "91OKjLeq2so",
+      "kind": "youtube",
+      "title": "10 Quiet Habits That Make You SILENTLY Attractive - BECOME QUIETLY MAGNETIC | STOICISM",
+      "url": "https://www.youtube.com/watch?v=91OKjLeq2so",
+      "upload_date": "2026-07-28",
+      "duration_seconds": 2027,
+      "duration": "33:47",
+      "word_count": 5014,
+      "clean_file": "clean/91OKjLeq2so.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2027
+      }
+    },
+    {
+      "id": "tqXikW1UwZU",
+      "kind": "youtube",
+      "title": "10 Stoic Rules for DOUBLE YOUR FOCUS in a Distracted World - BUILD UNBREAKABLE FOCUS | STOICISM",
+      "url": "https://www.youtube.com/watch?v=tqXikW1UwZU",
+      "upload_date": "2026-07-20",
+      "duration_seconds": 1869,
+      "duration": "31:09",
+      "word_count": 4745,
+      "clean_file": "clean/tqXikW1UwZU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1869
+      }
+    },
+    {
+      "id": "at0MOAFmnb0",
+      "kind": "youtube",
+      "title": "10 Stoic Rules of a High Value Man - A CODE FOR MEN WHO BUILD | STOICISM",
+      "url": "https://www.youtube.com/watch?v=at0MOAFmnb0",
+      "upload_date": "2026-04-10",
+      "duration_seconds": 1871,
+      "duration": "31:11",
+      "word_count": 4638,
+      "clean_file": "clean/at0MOAFmnb0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1871
+      }
+    },
+    {
+      "id": "oUo1cstfL7A",
+      "kind": "youtube",
+      "title": "10 Stoic Rules to Build STRONGER Mental Resilience – Forged Not Motivated | STOICISM",
+      "url": "https://www.youtube.com/watch?v=oUo1cstfL7A",
+      "upload_date": "2026-02-06",
+      "duration_seconds": 3141,
+      "duration": "52:21",
+      "word_count": 7182,
+      "clean_file": "clean/oUo1cstfL7A.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3141
+      }
+    },
+    {
+      "id": "Y-YL0WhaCBQ",
+      "kind": "youtube",
+      "title": "10 Things You Must Do Alone At Least Once in Your Life | STOICISM",
+      "url": "https://www.youtube.com/watch?v=Y-YL0WhaCBQ",
+      "upload_date": "2026-07-11",
+      "duration_seconds": 1663,
+      "duration": "27:43",
+      "word_count": 3978,
+      "clean_file": "clean/Y-YL0WhaCBQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1663
+      }
+    },
+    {
+      "id": "Q_C3_vB-z4o",
+      "kind": "youtube",
+      "title": "11 Brutal Stoic Truths You'll Regret Not Knowing | STOICISM",
+      "url": "https://www.youtube.com/watch?v=Q_C3_vB-z4o",
+      "upload_date": "2026-07-05",
+      "duration_seconds": 2570,
+      "duration": "42:50",
+      "word_count": 6558,
+      "clean_file": "clean/Q_C3_vB-z4o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2570
+      }
+    },
+    {
+      "id": "QzJ7FkOpoOE",
+      "kind": "youtube",
+      "title": "12 Hidden Signs You’re Undervaluing Yourself (Stoic Wake-Up Call) - STOP PLAYING SMALL | STOICISM",
+      "url": "https://www.youtube.com/watch?v=QzJ7FkOpoOE",
+      "upload_date": "2026-01-15",
+      "duration_seconds": 2147,
+      "duration": "35:47",
+      "word_count": 4889,
+      "clean_file": "clean/QzJ7FkOpoOE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2147
+      }
+    },
+    {
+      "id": "CeNRjIKuKHo",
+      "kind": "youtube",
+      "title": "12 Life Lessons That Took Me 30 Years to Learn - REWIRE YOUR MIND | STOICISM",
+      "url": "https://www.youtube.com/watch?v=CeNRjIKuKHo",
+      "upload_date": "2026-01-21",
+      "duration_seconds": 3777,
+      "duration": "62:57",
+      "word_count": 8397,
+      "clean_file": "clean/CeNRjIKuKHo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3777
+      }
+    },
+    {
+      "id": "w8ehlN3vn18",
+      "kind": "youtube",
+      "title": "12 Powerful MORNING AFFIRMATIONS That REWIRE YOUR MIND in 60 Seconds | STOICISM",
+      "url": "https://www.youtube.com/watch?v=w8ehlN3vn18",
+      "upload_date": "2026-06-10",
+      "duration_seconds": 2763,
+      "duration": "46:03",
+      "word_count": 6940,
+      "clean_file": "clean/w8ehlN3vn18.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2763
+      }
+    },
+    {
+      "id": "1SNTbsNQxsQ",
+      "kind": "youtube",
+      "title": "12 Things Stoics Do Every Morning (That 95% of People Ignore) | STOICISM",
+      "url": "https://www.youtube.com/watch?v=1SNTbsNQxsQ",
+      "upload_date": "2026-03-07",
+      "duration_seconds": 2176,
+      "duration": "36:16",
+      "word_count": 5089,
+      "clean_file": "clean/1SNTbsNQxsQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2176
+      }
+    },
+    {
+      "id": "c4HdkPnl0mA",
+      "kind": "youtube",
+      "title": "15 Secret Life Lessons MARCUS AURELIUS Didn’t Want You to Ignore | STOICISM",
+      "url": "https://www.youtube.com/watch?v=c4HdkPnl0mA",
+      "upload_date": "2026-04-25",
+      "duration_seconds": 2072,
+      "duration": "34:32",
+      "word_count": 5214,
+      "clean_file": "clean/c4HdkPnl0mA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2072
+      }
+    },
+    {
+      "id": "0tMo6lZ8c-I",
+      "kind": "youtube",
+      "title": "3 Stoic Things Will Truly Matter in the End | STOICISM",
+      "url": "https://www.youtube.com/watch?v=0tMo6lZ8c-I",
+      "upload_date": "2026-04-18",
+      "duration_seconds": 1782,
+      "duration": "29:42",
+      "word_count": 4656,
+      "clean_file": "clean/0tMo6lZ8c-I.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1782
+      }
+    },
+    {
+      "id": "OxVWK3q5Kn8",
+      "kind": "youtube",
+      "title": "30 Minutes to Fix the Next 30 Years of Your Life | STOICISM",
+      "url": "https://www.youtube.com/watch?v=OxVWK3q5Kn8",
+      "upload_date": "2026-01-23",
+      "duration_seconds": 1800,
+      "duration": "30:00",
+      "word_count": 4234,
+      "clean_file": "clean/OxVWK3q5Kn8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1800
+      }
+    },
+    {
+      "id": "xed9L_fmk_U",
+      "kind": "youtube",
+      "title": "4 Stoic Pillars That Fix 99% of Your Problems (Beginner Guide) - RESET YOUR LIFE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=xed9L_fmk_U",
+      "upload_date": "2026-03-01",
+      "duration_seconds": 2327,
+      "duration": "38:47",
+      "word_count": 5368,
+      "clean_file": "clean/xed9L_fmk_U.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2327
+      }
+    },
+    {
+      "id": "Sj-PiZpf4oM",
+      "kind": "youtube",
+      "title": "5 Brutal Stoic Truths to STOP WASTING YOUR LIFE & START LIVING WITH PURPOSE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=Sj-PiZpf4oM",
+      "upload_date": "2026-03-11",
+      "duration_seconds": 2643,
+      "duration": "44:03",
+      "word_count": 6308,
+      "clean_file": "clean/Sj-PiZpf4oM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2643
+      }
+    },
+    {
+      "id": "9Ob2Q-_Up7o",
+      "kind": "youtube",
+      "title": "5 Habits That Will DESTROY Your Life in 2026 — FIX THEM NOW | STOICISM",
+      "url": "https://www.youtube.com/watch?v=9Ob2Q-_Up7o",
+      "upload_date": "2026-01-02",
+      "duration_seconds": 2414,
+      "duration": "40:14",
+      "word_count": 5882,
+      "clean_file": "clean/9Ob2Q-_Up7o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2414
+      }
+    },
+    {
+      "id": "Z04WG7t9GCo",
+      "kind": "youtube",
+      "title": "5 Harsh Truths That HURT But Will Set You Free - You Need to Hear to Heal | STOICISM",
+      "url": "https://www.youtube.com/watch?v=Z04WG7t9GCo",
+      "upload_date": "2026-05-08",
+      "duration_seconds": 1391,
+      "duration": "23:11",
+      "word_count": 3568,
+      "clean_file": "clean/Z04WG7t9GCo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1391
+      }
+    },
+    {
+      "id": "VPRjYUL1e18",
+      "kind": "youtube",
+      "title": "5 Life Changing Journaling Habits from the Stoics in 2026 | STOICISM",
+      "url": "https://www.youtube.com/watch?v=VPRjYUL1e18",
+      "upload_date": "2026-01-04",
+      "duration_seconds": 2209,
+      "duration": "36:49",
+      "word_count": 5181,
+      "clean_file": "clean/VPRjYUL1e18.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2209
+      }
+    },
+    {
+      "id": "My5XbWcaqpY",
+      "kind": "youtube",
+      "title": "5 Powerful Things to Tell Yourself Every Morning — MORNING SECRET | STOICISM",
+      "url": "https://www.youtube.com/watch?v=My5XbWcaqpY",
+      "upload_date": "2026-02-08",
+      "duration_seconds": 2002,
+      "duration": "33:22",
+      "word_count": 4783,
+      "clean_file": "clean/My5XbWcaqpY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2002
+      }
+    },
+    {
+      "id": "5F7WXDMe7YY",
+      "kind": "youtube",
+      "title": "5 Silent MISTAKES That DESTROY Your SUCCESS — Listen Every Morning | STOICISM",
+      "url": "https://www.youtube.com/watch?v=5F7WXDMe7YY",
+      "upload_date": "2026-04-16",
+      "duration_seconds": 1997,
+      "duration": "33:17",
+      "word_count": 4816,
+      "clean_file": "clean/5F7WXDMe7YY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1997
+      }
+    },
+    {
+      "id": "qimH9VVSytE",
+      "kind": "youtube",
+      "title": "5 Stoic Laws That Command Respect (Without Raising Your Voice)- SILENT POWER OF AUTHORITY | STOICISM",
+      "url": "https://www.youtube.com/watch?v=qimH9VVSytE",
+      "upload_date": "2026-04-02",
+      "duration_seconds": 2138,
+      "duration": "35:38",
+      "word_count": 5663,
+      "clean_file": "clean/qimH9VVSytE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2138
+      }
+    },
+    {
+      "id": "XhTNf3QTbGc",
+      "kind": "youtube",
+      "title": "5 Stoic Lessons to Act Like NOTHING BOTHERS YOU - MARCUS AURELIUS WISDOM | STOICISM",
+      "url": "https://www.youtube.com/watch?v=XhTNf3QTbGc",
+      "upload_date": "2026-06-13",
+      "duration_seconds": 2575,
+      "duration": "42:55",
+      "word_count": 6379,
+      "clean_file": "clean/XhTNf3QTbGc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2575
+      }
+    },
+    {
+      "id": "rnQ_ntJcgCc",
+      "kind": "youtube",
+      "title": "5 Stoic Secrets That Pull Success to You — WATCH EVERYTHING CHANGE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=rnQ_ntJcgCc",
+      "upload_date": "2026-03-27",
+      "duration_seconds": 1541,
+      "duration": "25:41",
+      "word_count": 4024,
+      "clean_file": "clean/rnQ_ntJcgCc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1541
+      }
+    },
+    {
+      "id": "-Fmp4M2jDcs",
+      "kind": "youtube",
+      "title": "5 Stoic Steps to KILL LUST Forever (This Actually Works) - CONTROL YOUR MIND | STOICISM",
+      "url": "https://www.youtube.com/watch?v=-Fmp4M2jDcs",
+      "upload_date": "2026-02-10",
+      "duration_seconds": 2148,
+      "duration": "35:48",
+      "word_count": 5441,
+      "clean_file": "clean/-Fmp4M2jDcs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2148
+      }
+    },
+    {
+      "id": "BmAgmM8jOmI",
+      "kind": "youtube",
+      "title": "5 Ways to Train Your Mind for an Extraordinary Life - BUILD A STRONGER MIND | STOICISM",
+      "url": "https://www.youtube.com/watch?v=BmAgmM8jOmI",
+      "upload_date": "2026-08-01",
+      "duration_seconds": 2339,
+      "duration": "38:59",
+      "word_count": 5714,
+      "clean_file": "clean/BmAgmM8jOmI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2339
+      }
+    },
+    {
+      "id": "OUWZjsbd4_4",
+      "kind": "youtube",
+      "title": "5 Words Every Stoic Repeats at Dawn – REPROGRAM YOUR MINDS | STOICISM",
+      "url": "https://www.youtube.com/watch?v=OUWZjsbd4_4",
+      "upload_date": "2026-07-24",
+      "duration_seconds": 2123,
+      "duration": "35:23",
+      "word_count": 5810,
+      "clean_file": "clean/OUWZjsbd4_4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2123
+      }
+    },
+    {
+      "id": "LVtZGAFDRjc",
+      "kind": "youtube",
+      "title": "6 Brutal Stoic Truths That Will Force You to Build Your Life NOW | STOICISM",
+      "url": "https://www.youtube.com/watch?v=LVtZGAFDRjc",
+      "upload_date": "2026-06-08",
+      "duration_seconds": 2669,
+      "duration": "44:29",
+      "word_count": 6734,
+      "clean_file": "clean/LVtZGAFDRjc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2669
+      }
+    },
+    {
+      "id": "t6b10n7rI74",
+      "kind": "youtube",
+      "title": "6 Laws Of KARMA That Will Change Your Life | Nothing In Your Life Is RANDOM (Stoicism)",
+      "url": "https://www.youtube.com/watch?v=t6b10n7rI74",
+      "upload_date": "2026-05-22",
+      "duration_seconds": 2311,
+      "duration": "38:31",
+      "word_count": 5397,
+      "clean_file": "clean/t6b10n7rI74.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2311
+      }
+    },
+    {
+      "id": "u0Ik_ZTsZdM",
+      "kind": "youtube",
+      "title": "6 Stoic Principles That Will Instantly Improve Your Focus - MASTER YOUR ATTENTION | STOICISM",
+      "url": "https://www.youtube.com/watch?v=u0Ik_ZTsZdM",
+      "upload_date": "2026-03-09",
+      "duration_seconds": 2353,
+      "duration": "39:13",
+      "word_count": 5500,
+      "clean_file": "clean/u0Ik_ZTsZdM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2353
+      }
+    },
+    {
+      "id": "S8XZHEAYc2Q",
+      "kind": "youtube",
+      "title": "6 Stoic Rules That Will Make You SILENTLY POWERFUL – SPEAK LESS | STOICISM",
+      "url": "https://www.youtube.com/watch?v=S8XZHEAYc2Q",
+      "upload_date": "2026-03-15",
+      "duration_seconds": 1782,
+      "duration": "29:42",
+      "word_count": 4573,
+      "clean_file": "clean/S8XZHEAYc2Q.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1782
+      }
+    },
+    {
+      "id": "1fycciCAZbU",
+      "kind": "youtube",
+      "title": "7 Brutal Stoic Truths That Will STOP YOU WASTING TIME FOREVER | STOICISM",
+      "url": "https://www.youtube.com/watch?v=1fycciCAZbU",
+      "upload_date": "2026-07-15",
+      "duration_seconds": 2021,
+      "duration": "33:41",
+      "word_count": 5206,
+      "clean_file": "clean/1fycciCAZbU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2021
+      }
+    },
+    {
+      "id": "YC3rTJteRVk",
+      "kind": "youtube",
+      "title": "7 Brutal Stoic Truths to Stop Wasting Time (Start BUILDING YOURSELF Today) | STOICISM",
+      "url": "https://www.youtube.com/watch?v=YC3rTJteRVk",
+      "upload_date": "2026-04-14",
+      "duration_seconds": 2024,
+      "duration": "33:44",
+      "word_count": 4978,
+      "clean_file": "clean/YC3rTJteRVk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2024
+      }
+    },
+    {
+      "id": "47yXxrDc-MY",
+      "kind": "youtube",
+      "title": "7 Daily Habits That Make Life Happier – THE SECRET TO HAPPINESS | STOICISM",
+      "url": "https://www.youtube.com/watch?v=47yXxrDc-MY",
+      "upload_date": "2026-07-30",
+      "duration_seconds": 2347,
+      "duration": "39:07",
+      "word_count": 5806,
+      "clean_file": "clean/47yXxrDc-MY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2347
+      }
+    },
+    {
+      "id": "mwHUDCUwWSw",
+      "kind": "youtube",
+      "title": "7 Habits That Bring POVERTY Into Your Home (Listen Every Morning) | STOICISM",
+      "url": "https://www.youtube.com/watch?v=mwHUDCUwWSw",
+      "upload_date": "2026-04-06",
+      "duration_seconds": 2421,
+      "duration": "40:21",
+      "word_count": 6286,
+      "clean_file": "clean/mwHUDCUwWSw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2421
+      }
+    },
+    {
+      "id": "f6L1eDv86nQ",
+      "kind": "youtube",
+      "title": "7 Hidden Truths of People Who Talk Behind Your Back | STOICISM",
+      "url": "https://www.youtube.com/watch?v=f6L1eDv86nQ",
+      "upload_date": "2026-06-17",
+      "duration_seconds": 2496,
+      "duration": "41:36",
+      "word_count": 6696,
+      "clean_file": "clean/f6L1eDv86nQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2496
+      }
+    },
+    {
+      "id": "rQ02NsGW8mk",
+      "kind": "youtube",
+      "title": "7 Laws For Building WILLPOWER Like Steel - Never Quit When It Gets Hard | STOICISM",
+      "url": "https://www.youtube.com/watch?v=rQ02NsGW8mk",
+      "upload_date": "2026-08-03",
+      "duration_seconds": 2252,
+      "duration": "37:32",
+      "word_count": 5652,
+      "clean_file": "clean/rQ02NsGW8mk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2252
+      }
+    },
+    {
+      "id": "jtAwm8GeXc8",
+      "kind": "youtube",
+      "title": "7 Life Lessons That Fixed My Mind Before Sunrise – REWIRE YOUR BRAIN EVERY MORNING | STOICISM",
+      "url": "https://www.youtube.com/watch?v=jtAwm8GeXc8",
+      "upload_date": "2026-02-02",
+      "duration_seconds": 2650,
+      "duration": "44:10",
+      "word_count": 6349,
+      "clean_file": "clean/jtAwm8GeXc8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2650
+      }
+    },
+    {
+      "id": "7tslwKq3jVM",
+      "kind": "youtube",
+      "title": "7 Life Lessons That Took Me 10 Years to Learn - NIGHT SECRET TO REWIRE YOUR MIND | STOICISM",
+      "url": "https://www.youtube.com/watch?v=7tslwKq3jVM",
+      "upload_date": "2026-03-19",
+      "duration_seconds": 2294,
+      "duration": "38:14",
+      "word_count": 5485,
+      "clean_file": "clean/7tslwKq3jVM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2294
+      }
+    },
+    {
+      "id": "FFgJRn--X3s",
+      "kind": "youtube",
+      "title": "7 Principles To Learn Anything Faster Than 99% of People – MASTER YOURSELF | STOICISM",
+      "url": "https://www.youtube.com/watch?v=FFgJRn--X3s",
+      "upload_date": "2026-04-27",
+      "duration_seconds": 2263,
+      "duration": "37:43",
+      "word_count": 5447,
+      "clean_file": "clean/FFgJRn--X3s.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2263
+      }
+    },
+    {
+      "id": "ZuJJ0jy9hKU",
+      "kind": "youtube",
+      "title": "7 Stoic Habits That Will Put You Ahead of 99% of People – BE THE 1% | STOICISM",
+      "url": "https://www.youtube.com/watch?v=ZuJJ0jy9hKU",
+      "upload_date": "2026-02-25",
+      "duration_seconds": 2103,
+      "duration": "35:03",
+      "word_count": 5172,
+      "clean_file": "clean/ZuJJ0jy9hKU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2103
+      }
+    },
+    {
+      "id": "hOl8am5nQS4",
+      "kind": "youtube",
+      "title": "7 Stoic Life Lessons to REINVENT YOURSELF IN 2026 – BECOME UNBREAKABLE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=hOl8am5nQS4",
+      "upload_date": "2025-12-31",
+      "duration_seconds": 3195,
+      "duration": "53:15",
+      "word_count": 7148,
+      "clean_file": "clean/hOl8am5nQS4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3195
+      }
+    },
+    {
+      "id": "S5UnSe-6bAs",
+      "kind": "youtube",
+      "title": "7 Stoic Rules That Will Make You DANGEROUSLY CONFIDENT - REACT TO NOTHING | STOICISM",
+      "url": "https://www.youtube.com/watch?v=S5UnSe-6bAs",
+      "upload_date": "2026-01-13",
+      "duration_seconds": 2835,
+      "duration": "47:15",
+      "word_count": 6024,
+      "clean_file": "clean/S5UnSe-6bAs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2835
+      }
+    },
+    {
+      "id": "ovqLnLG-hn4",
+      "kind": "youtube",
+      "title": "7 Stoic Rules to Fix Your Life Direction in 2026 - BUILD A PURPOSEFUL LIFE | Stoicism & Psychology",
+      "url": "https://www.youtube.com/watch?v=ovqLnLG-hn4",
+      "upload_date": "2026-03-13",
+      "duration_seconds": 2020,
+      "duration": "33:40",
+      "word_count": 4946,
+      "clean_file": "clean/ovqLnLG-hn4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2020
+      }
+    },
+    {
+      "id": "nJjBQ-0PWLY",
+      "kind": "youtube",
+      "title": "7 Stoic Rules to RESET, RESTART, and REFOCUS Your Life in Silence - RETURN UNBREAKABLE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=nJjBQ-0PWLY",
+      "upload_date": "2026-01-31",
+      "duration_seconds": 2230,
+      "duration": "37:10",
+      "word_count": 4974,
+      "clean_file": "clean/nJjBQ-0PWLY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2230
+      }
+    },
+    {
+      "id": "Awfltf390uA",
+      "kind": "youtube",
+      "title": "7 Stoic Rules — DON’T PANIC, LIFE WILL CHANGE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=Awfltf390uA",
+      "upload_date": "2026-02-19",
+      "duration_seconds": 2463,
+      "duration": "41:03",
+      "word_count": 5990,
+      "clean_file": "clean/Awfltf390uA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2463
+      }
+    },
+    {
+      "id": "bPEnprnsGN8",
+      "kind": "youtube",
+      "title": "7 Stoic Steps to Calm Anxiety (Listen Every Morning) | STOICISM",
+      "url": "https://www.youtube.com/watch?v=bPEnprnsGN8",
+      "upload_date": "2026-04-04",
+      "duration_seconds": 2603,
+      "duration": "43:23",
+      "word_count": 6789,
+      "clean_file": "clean/bPEnprnsGN8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2603
+      }
+    },
+    {
+      "id": "fYnD9hYHuGU",
+      "kind": "youtube",
+      "title": "7 Stoic Truths That Make Life WORK OUT In 2026 When You STOP WORRYING | STOICISM",
+      "url": "https://www.youtube.com/watch?v=fYnD9hYHuGU",
+      "upload_date": "2026-01-29",
+      "duration_seconds": 2956,
+      "duration": "49:16",
+      "word_count": 6721,
+      "clean_file": "clean/fYnD9hYHuGU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2956
+      }
+    },
+    {
+      "id": "blOFxOeuTmo",
+      "kind": "youtube",
+      "title": "7 Stoic Truths to Build A Ruthless Aura - DEVELOP AN UNSHAKABLE PRESENCE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=blOFxOeuTmo",
+      "upload_date": "2026-06-15",
+      "duration_seconds": 2797,
+      "duration": "46:37",
+      "word_count": 7067,
+      "clean_file": "clean/blOFxOeuTmo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2797
+      }
+    },
+    {
+      "id": "m2i5oPKQrys",
+      "kind": "youtube",
+      "title": "8 Brutal Stoic Laws of SELF-DISCIPLINE That Will Make You Mentally Unbreakable  | STOICISM",
+      "url": "https://www.youtube.com/watch?v=m2i5oPKQrys",
+      "upload_date": "2026-06-01",
+      "duration_seconds": 3180,
+      "duration": "53:00",
+      "word_count": 8329,
+      "clean_file": "clean/m2i5oPKQrys.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3180
+      }
+    },
+    {
+      "id": "-2BEqAxxBEc",
+      "kind": "youtube",
+      "title": "8 Stoic Lessons That Teach You HOW TO NEVER QUIT - IT'S NOT OVER UNTIL YOU WIN | STOICISM",
+      "url": "https://www.youtube.com/watch?v=-2BEqAxxBEc",
+      "upload_date": "2026-01-27",
+      "duration_seconds": 2261,
+      "duration": "37:41",
+      "word_count": 5187,
+      "clean_file": "clean/-2BEqAxxBEc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2261
+      }
+    },
+    {
+      "id": "6U_350zzKEc",
+      "kind": "youtube",
+      "title": "8 Stoic Truths That Could Save You 13+ Years of Your Life - RECLAIM YOUR LIFE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=6U_350zzKEc",
+      "upload_date": "2026-02-15",
+      "duration_seconds": 2787,
+      "duration": "46:27",
+      "word_count": 6166,
+      "clean_file": "clean/6U_350zzKEc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2787
+      }
+    },
+    {
+      "id": "AI_pzigrrgk",
+      "kind": "youtube",
+      "title": "9 Brutal Stoic Laws That’ll Outsmart TOXIC People - CLEAR YOUR MIND | STOICISM",
+      "url": "https://www.youtube.com/watch?v=AI_pzigrrgk",
+      "upload_date": "2026-01-25",
+      "duration_seconds": 3220,
+      "duration": "53:40",
+      "word_count": 7288,
+      "clean_file": "clean/AI_pzigrrgk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3220
+      }
+    },
+    {
+      "id": "btwOhox5_Sc",
+      "kind": "youtube",
+      "title": "9 Harsh Stoic Truths About Grief Most People Learn Too Late — FIND YOURSELF AGAIN | STOICISM",
+      "url": "https://www.youtube.com/watch?v=btwOhox5_Sc",
+      "upload_date": "2026-06-05",
+      "duration_seconds": 1739,
+      "duration": "28:59",
+      "word_count": 4341,
+      "clean_file": "clean/btwOhox5_Sc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1739
+      }
+    },
+    {
+      "id": "Ph4BFemuVIg",
+      "kind": "youtube",
+      "title": "9 Stoic Discipline Laws That Will Make You MENTALLY UNTOUCHABLE (Watch Them React) | STOICISM",
+      "url": "https://www.youtube.com/watch?v=Ph4BFemuVIg",
+      "upload_date": "2026-02-17",
+      "duration_seconds": 2621,
+      "duration": "43:41",
+      "word_count": 5708,
+      "clean_file": "clean/Ph4BFemuVIg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2621
+      }
+    },
+    {
+      "id": "1NZ3QXqT2Mw",
+      "kind": "youtube",
+      "title": "9 Stoic Lessons for DEEP SELF-RESPECT - Rewire Your Mind Every Morning | STOICISM",
+      "url": "https://www.youtube.com/watch?v=1NZ3QXqT2Mw",
+      "upload_date": "2026-03-03",
+      "duration_seconds": 3814,
+      "duration": "63:34",
+      "word_count": 9004,
+      "clean_file": "clean/1NZ3QXqT2Mw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3814
+      }
+    },
+    {
+      "id": "CeaiCZ56uh8",
+      "kind": "youtube",
+      "title": "9 Stoic Rules to BECOME YOUR BEST SELF – Success Starts With You | STOICISM",
+      "url": "https://www.youtube.com/watch?v=CeaiCZ56uh8",
+      "upload_date": "2026-02-05",
+      "duration_seconds": 3239,
+      "duration": "53:59",
+      "word_count": 7740,
+      "clean_file": "clean/CeaiCZ56uh8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3239
+      }
+    },
+    {
+      "id": "r_7Wh5At8Xw",
+      "kind": "youtube",
+      "title": "9 Stoic Rules to NEVER Be Controlled by NEGATIVE EMOTIONS Again – MASTER YOUR MIND | STOICISM",
+      "url": "https://www.youtube.com/watch?v=r_7Wh5At8Xw",
+      "upload_date": "2026-03-05",
+      "duration_seconds": 2993,
+      "duration": "49:53",
+      "word_count": 6535,
+      "clean_file": "clean/r_7Wh5At8Xw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2993
+      }
+    },
+    {
+      "id": "YBU9m_nwtok",
+      "kind": "youtube",
+      "title": "9 Stoic Self-Care Habits That Make You RESPECT YOURSELF AGAIN | STOICISM",
+      "url": "https://www.youtube.com/watch?v=YBU9m_nwtok",
+      "upload_date": "2026-07-22",
+      "duration_seconds": 2307,
+      "duration": "38:27",
+      "word_count": 5523,
+      "clean_file": "clean/YBU9m_nwtok.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2307
+      }
+    },
+    {
+      "id": "RviuycSkBLs",
+      "kind": "youtube",
+      "title": "BE SILENT. THINK DEEP. WIN QUIETLY. – 8 Stoic Principles by Marcus Aurelius | STOICISM",
+      "url": "https://www.youtube.com/watch?v=RviuycSkBLs",
+      "upload_date": "2026-02-03",
+      "duration_seconds": 2709,
+      "duration": "45:09",
+      "word_count": 5825,
+      "clean_file": "clean/RviuycSkBLs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2709
+      }
+    },
+    {
+      "id": "zMToQUzFuTs",
+      "kind": "youtube",
+      "title": "Before Life Gives You Everything, This Always Happens - Carl Jung (STOICISM)",
+      "url": "https://www.youtube.com/watch?v=zMToQUzFuTs",
+      "upload_date": "2026-05-17",
+      "duration_seconds": 1670,
+      "duration": "27:50",
+      "word_count": 4380,
+      "clean_file": "clean/zMToQUzFuTs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1670
+      }
+    },
+    {
+      "id": "3ce0m_ZTPVs",
+      "kind": "youtube",
+      "title": "Before the World Wakes Up – BREAK THE PRISON YOU BUILT (Listen Every Morning) | STOICISM",
+      "url": "https://www.youtube.com/watch?v=3ce0m_ZTPVs",
+      "upload_date": "2026-02-21",
+      "duration_seconds": 2210,
+      "duration": "36:50",
+      "word_count": 5816,
+      "clean_file": "clean/3ce0m_ZTPVs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2210
+      }
+    },
+    {
+      "id": "ZOzYSn6B3hw",
+      "kind": "youtube",
+      "title": "Destroy The Old You - REBUILD YOURSELF ALONE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=ZOzYSn6B3hw",
+      "upload_date": "2026-07-26",
+      "duration_seconds": 2190,
+      "duration": "36:30",
+      "word_count": 5769,
+      "clean_file": "clean/ZOzYSn6B3hw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2190
+      }
+    },
+    {
+      "id": "UeQPLu51MBI",
+      "kind": "youtube",
+      "title": "Disappear Silently. Win Completely - STOP BEING AVAILABLE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=UeQPLu51MBI",
+      "upload_date": "2026-05-20",
+      "duration_seconds": 2481,
+      "duration": "41:21",
+      "word_count": 6002,
+      "clean_file": "clean/UeQPLu51MBI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2481
+      }
+    },
+    {
+      "id": "G8Zgo9iXIxM",
+      "kind": "youtube",
+      "title": "DON'T BE TOO MUCH - 7 Harsh Life Lessons Every Man Must Learn Before It's Too Late | STOICISM",
+      "url": "https://www.youtube.com/watch?v=G8Zgo9iXIxM",
+      "upload_date": "2026-07-07",
+      "duration_seconds": 2064,
+      "duration": "34:24",
+      "word_count": 5121,
+      "clean_file": "clean/G8Zgo9iXIxM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2064
+      }
+    },
+    {
+      "id": "U5t7RM3whQI",
+      "kind": "youtube",
+      "title": "Don’t Force Anything, Let God Guide You - Powerful Morning Message | STOICISM",
+      "url": "https://www.youtube.com/watch?v=U5t7RM3whQI",
+      "upload_date": "2026-06-22",
+      "duration_seconds": 2533,
+      "duration": "42:13",
+      "word_count": 6870,
+      "clean_file": "clean/U5t7RM3whQI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2533
+      }
+    },
+    {
+      "id": "aCAzgPY5V4I",
+      "kind": "youtube",
+      "title": "EP 1 - Only 1% Win Their First Hour of the Day - BUILDS AN UNBREAKABLE MIND | STOIC MENTAL ARMOR",
+      "url": "https://www.youtube.com/watch?v=aCAzgPY5V4I",
+      "upload_date": "2026-06-24",
+      "duration_seconds": 2601,
+      "duration": "43:21",
+      "word_count": 6904,
+      "clean_file": "clean/aCAzgPY5V4I.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2601
+      }
+    },
+    {
+      "id": "2ivB04TzwsA",
+      "kind": "youtube",
+      "title": "EP 2 - 10 Silent Rules of Mentally Strong People – BECOME MENTALLY UNBREAKABLE | STOIC MENTAL ARMOR",
+      "url": "https://www.youtube.com/watch?v=2ivB04TzwsA",
+      "upload_date": "2026-06-27",
+      "duration_seconds": 2718,
+      "duration": "45:18",
+      "word_count": 6809,
+      "clean_file": "clean/2ivB04TzwsA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2718
+      }
+    },
+    {
+      "id": "Z68Pb9cO4H8",
+      "kind": "youtube",
+      "title": "EP 3 - 6 Stoic Practices To Master Your Mind - CONTROL YOUR LIFE | STOIC MENTAL ARMOR",
+      "url": "https://www.youtube.com/watch?v=Z68Pb9cO4H8",
+      "upload_date": "2026-06-29",
+      "duration_seconds": 2495,
+      "duration": "41:35",
+      "word_count": 6130,
+      "clean_file": "clean/Z68Pb9cO4H8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2495
+      }
+    },
+    {
+      "id": "wZrWocDhZUI",
+      "kind": "youtube",
+      "title": "Give Me 35 Minutes to FIX YOUR FOCUS - Reclaim Your Attention | STOICISM",
+      "url": "https://www.youtube.com/watch?v=wZrWocDhZUI",
+      "upload_date": "2026-04-08",
+      "duration_seconds": 1984,
+      "duration": "33:04",
+      "word_count": 5201,
+      "clean_file": "clean/wZrWocDhZUI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1984
+      }
+    },
+    {
+      "id": "x5A6ie9dMY8",
+      "kind": "youtube",
+      "title": "GO SILENT, WIN BIG — The Hidden Success Strategy | CARL JUNG & STOICISM",
+      "url": "https://www.youtube.com/watch?v=x5A6ie9dMY8",
+      "upload_date": "2026-05-02",
+      "duration_seconds": 2203,
+      "duration": "36:43",
+      "word_count": 5104,
+      "clean_file": "clean/x5A6ie9dMY8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2203
+      }
+    },
+    {
+      "id": "c19jjJ1LkFg",
+      "kind": "youtube",
+      "title": "How to REBUILD YOURSELF After Emotional Collapse (If You Feel Broken, Watch This) | STOICISM",
+      "url": "https://www.youtube.com/watch?v=c19jjJ1LkFg",
+      "upload_date": "2026-04-29",
+      "duration_seconds": 1758,
+      "duration": "29:18",
+      "word_count": 4562,
+      "clean_file": "clean/c19jjJ1LkFg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1758
+      }
+    },
+    {
+      "id": "WvEFqiQkCho",
+      "kind": "youtube",
+      "title": "Ignore Them. Outgrow Them. Outwork Them - WIN IN SILENCE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=WvEFqiQkCho",
+      "upload_date": "2026-03-21",
+      "duration_seconds": 1559,
+      "duration": "25:59",
+      "word_count": 3757,
+      "clean_file": "clean/WvEFqiQkCho.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1559
+      }
+    },
+    {
+      "id": "2bT67XaZ7IY",
+      "kind": "youtube",
+      "title": "LEARN TO BE IMPORTANT - 6 Stoic Lessons To Never Lower Yourself Again | STOICISM",
+      "url": "https://www.youtube.com/watch?v=2bT67XaZ7IY",
+      "upload_date": "2026-03-25",
+      "duration_seconds": 1848,
+      "duration": "30:48",
+      "word_count": 4715,
+      "clean_file": "clean/2bT67XaZ7IY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1848
+      }
+    },
+    {
+      "id": "PAhWKNqRMz4",
+      "kind": "youtube",
+      "title": "Leave Your House Even If You Are Alone - Nobody Is Coming To Save You | STOICISM",
+      "url": "https://www.youtube.com/watch?v=PAhWKNqRMz4",
+      "upload_date": "2026-03-31",
+      "duration_seconds": 1762,
+      "duration": "29:22",
+      "word_count": 4575,
+      "clean_file": "clean/PAhWKNqRMz4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1762
+      }
+    },
+    {
+      "id": "B_JRdXbu7f4",
+      "kind": "youtube",
+      "title": "Life Explained in 25 Minutes - 6 Harsh Truths God Teaches Through Every Season | STOICISM",
+      "url": "https://www.youtube.com/watch?v=B_JRdXbu7f4",
+      "upload_date": "2026-05-28",
+      "duration_seconds": 1501,
+      "duration": "25:01",
+      "word_count": 4077,
+      "clean_file": "clean/B_JRdXbu7f4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1501
+      }
+    },
+    {
+      "id": "sMnlQjV2S7k",
+      "kind": "youtube",
+      "title": "LISTEN EVERY MORNING - 7 Stoic Decisions to Make Before 45 (Or Regret It Forever) | STOICISM",
+      "url": "https://www.youtube.com/watch?v=sMnlQjV2S7k",
+      "upload_date": "2026-03-23",
+      "duration_seconds": 1868,
+      "duration": "31:08",
+      "word_count": 4760,
+      "clean_file": "clean/sMnlQjV2S7k.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1868
+      }
+    },
+    {
+      "id": "uU_0euGi3mk",
+      "kind": "youtube",
+      "title": "Lose Everyone, Find Yourself | STOICISM",
+      "url": "https://www.youtube.com/watch?v=uU_0euGi3mk",
+      "upload_date": "2026-01-11",
+      "duration_seconds": 3106,
+      "duration": "51:46",
+      "word_count": 7554,
+      "clean_file": "clean/uU_0euGi3mk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3106
+      }
+    },
+    {
+      "id": "fpJzbM0i8Mk",
+      "kind": "youtube",
+      "title": "MORNING STOICISM (Listen Every Day) - Listen First, React Later | STOICISM",
+      "url": "https://www.youtube.com/watch?v=fpJzbM0i8Mk",
+      "upload_date": "2026-03-17",
+      "duration_seconds": 2056,
+      "duration": "34:16",
+      "word_count": 4909,
+      "clean_file": "clean/fpJzbM0i8Mk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2056
+      }
+    },
+    {
+      "id": "age9L_ctADU",
+      "kind": "youtube",
+      "title": "Never Chase Anyone Again After Watching This - STOP BEGGING, STOP EXPLAINING | STOICISM",
+      "url": "https://www.youtube.com/watch?v=age9L_ctADU",
+      "upload_date": "2026-06-03",
+      "duration_seconds": 2051,
+      "duration": "34:11",
+      "word_count": 5040,
+      "clean_file": "clean/age9L_ctADU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2051
+      }
+    },
+    {
+      "id": "kpdV5ouBcD8",
+      "kind": "youtube",
+      "title": "NEVER Explain Yourself Again – 10 Stoic Lessons That Give Your Power Back | STOICISM",
+      "url": "https://www.youtube.com/watch?v=kpdV5ouBcD8",
+      "upload_date": "2026-02-27",
+      "duration_seconds": 2337,
+      "duration": "38:57",
+      "word_count": 5276,
+      "clean_file": "clean/kpdV5ouBcD8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2337
+      }
+    },
+    {
+      "id": "VsGOdOFPBVk",
+      "kind": "youtube",
+      "title": "Never Fight With Stupid People — WIN WITHOUT ARGUING | STOICISM",
+      "url": "https://www.youtube.com/watch?v=VsGOdOFPBVk",
+      "upload_date": "2026-05-26",
+      "duration_seconds": 2109,
+      "duration": "35:09",
+      "word_count": 5178,
+      "clean_file": "clean/VsGOdOFPBVk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2109
+      }
+    },
+    {
       "id": "PMTjanyqNm0",
       "kind": "youtube",
       "title": "Once You Heal Your Shadow, Nobody Controls You - TOTAL SELF MASTERY | STOICISM",
@@ -15,6 +1460,312 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 2105
+      }
+    },
+    {
+      "id": "Ei4b8-OiTJU",
+      "kind": "youtube",
+      "title": "Only 1% Control Their Thoughts Before 8AM — STOIC MENTAL ARMOR ROUTINE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=Ei4b8-OiTJU",
+      "upload_date": "2026-02-11",
+      "duration_seconds": 2218,
+      "duration": "36:58",
+      "word_count": 5232,
+      "clean_file": "clean/Ei4b8-OiTJU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2218
+      }
+    },
+    {
+      "id": "PJftyelyGx4",
+      "kind": "youtube",
+      "title": "Only 1% Develop This Level of Mental Strength - MORNING SECRET to TOTAL CONTROL | STOICISM",
+      "url": "https://www.youtube.com/watch?v=PJftyelyGx4",
+      "upload_date": "2026-07-18",
+      "duration_seconds": 1969,
+      "duration": "32:49",
+      "word_count": 4895,
+      "clean_file": "clean/PJftyelyGx4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1969
+      }
+    },
+    {
+      "id": "xsrJbk2vF9o",
+      "kind": "youtube",
+      "title": "Relax And You Will Attract Everything You Want | CALM IS POWER (Stoicism)",
+      "url": "https://www.youtube.com/watch?v=xsrJbk2vF9o",
+      "upload_date": "2026-04-21",
+      "duration_seconds": 2069,
+      "duration": "34:29",
+      "word_count": 5191,
+      "clean_file": "clean/xsrJbk2vF9o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2069
+      }
+    },
+    {
+      "id": "Lsdm9VkWhaQ",
+      "kind": "youtube",
+      "title": "Repeat These 10 Words Every Morning - Rewires Your Mind | STOICISM",
+      "url": "https://www.youtube.com/watch?v=Lsdm9VkWhaQ",
+      "upload_date": "2026-05-24",
+      "duration_seconds": 3551,
+      "duration": "59:11",
+      "word_count": 8772,
+      "clean_file": "clean/Lsdm9VkWhaQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3551
+      }
+    },
+    {
+      "id": "ZZckXiQRBBc",
+      "kind": "youtube",
+      "title": "Respond Less, Ignore More — Become More Powerful | STOICISM",
+      "url": "https://www.youtube.com/watch?v=ZZckXiQRBBc",
+      "upload_date": "2026-05-11",
+      "duration_seconds": 1630,
+      "duration": "27:10",
+      "word_count": 4170,
+      "clean_file": "clean/ZZckXiQRBBc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1630
+      }
+    },
+    {
+      "id": "bIrLhwGnggA",
+      "kind": "youtube",
+      "title": "Stand Alone. Think Alone. Conquer Alone. - THE STOIC PATH TO GREATNESS | STOICISM",
+      "url": "https://www.youtube.com/watch?v=bIrLhwGnggA",
+      "upload_date": "2026-07-09",
+      "duration_seconds": 2478,
+      "duration": "41:18",
+      "word_count": 5919,
+      "clean_file": "clean/bIrLhwGnggA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2478
+      }
+    },
+    {
+      "id": "v1W15Ef9-I4",
+      "kind": "youtube",
+      "title": "Stop Caring What People Think - Watch Everything Change | STOICISM",
+      "url": "https://www.youtube.com/watch?v=v1W15Ef9-I4",
+      "upload_date": "2026-05-30",
+      "duration_seconds": 1743,
+      "duration": "29:03",
+      "word_count": 4587,
+      "clean_file": "clean/v1W15Ef9-I4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1743
+      }
+    },
+    {
+      "id": "CHHKMghzEVs",
+      "kind": "youtube",
+      "title": "Stop Fighting For Everyone - FIGHT FOR YOURSELF | STOICISM",
+      "url": "https://www.youtube.com/watch?v=CHHKMghzEVs",
+      "upload_date": "2026-06-20",
+      "duration_seconds": 2678,
+      "duration": "44:38",
+      "word_count": 7019,
+      "clean_file": "clean/CHHKMghzEVs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2678
+      }
+    },
+    {
+      "id": "XZSfNHqxbjI",
+      "kind": "youtube",
+      "title": "STOP Talking, STOP Thinking, START Focusing – YOUR TRUE STRENGTH BEGINS IN SILENCE | STOICISM",
+      "url": "https://www.youtube.com/watch?v=XZSfNHqxbjI",
+      "upload_date": "2026-04-23",
+      "duration_seconds": 2342,
+      "duration": "39:02",
+      "word_count": 5479,
+      "clean_file": "clean/XZSfNHqxbjI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2342
+      }
+    },
+    {
+      "id": "YvyGzcozXHk",
+      "kind": "youtube",
+      "title": "The 1 Stoic Rule That Will Change How You Use Your Time | Seneca",
+      "url": "https://www.youtube.com/watch?v=YvyGzcozXHk",
+      "upload_date": "2026-08-18",
+      "duration_seconds": 823,
+      "duration": "13:43",
+      "word_count": 1862,
+      "clean_file": "clean/YvyGzcozXHk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 823
+      }
+    },
+    {
+      "id": "6IYxfBkb0nA",
+      "kind": "youtube",
+      "title": "The 5 AM Secret That Made a Poor Man Rich in Discipline and Life - POOR TO POWERFUL | STOICISM",
+      "url": "https://www.youtube.com/watch?v=6IYxfBkb0nA",
+      "upload_date": "2026-02-04",
+      "duration_seconds": 2096,
+      "duration": "34:56",
+      "word_count": 5063,
+      "clean_file": "clean/6IYxfBkb0nA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2096
+      }
+    },
+    {
+      "id": "McjSdV4985Y",
+      "kind": "youtube",
+      "title": "The More You Let Go, The More Life Gives You | STOICISM",
+      "url": "https://www.youtube.com/watch?v=McjSdV4985Y",
+      "upload_date": "2026-05-14",
+      "duration_seconds": 2524,
+      "duration": "42:04",
+      "word_count": 6497,
+      "clean_file": "clean/McjSdV4985Y.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2524
+      }
+    },
+    {
+      "id": "H9CzPwb4eME",
+      "kind": "youtube",
+      "title": "The Strongest People Don't React Quickly - ANCIENT SECRET OF CALM POWER | STOICISM",
+      "url": "https://www.youtube.com/watch?v=H9CzPwb4eME",
+      "upload_date": "2026-07-02",
+      "duration_seconds": 2569,
+      "duration": "42:49",
+      "word_count": 6157,
+      "clean_file": "clean/H9CzPwb4eME.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2569
+      }
+    },
+    {
+      "id": "n3-vktg7IUU",
+      "kind": "youtube",
+      "title": "This Morning Discipline Will Rewire Your Mind in 2026 | STOICISM",
+      "url": "https://www.youtube.com/watch?v=n3-vktg7IUU",
+      "upload_date": "2026-01-07",
+      "duration_seconds": 3578,
+      "duration": "59:38",
+      "word_count": 8181,
+      "clean_file": "clean/n3-vktg7IUU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3578
+      }
+    },
+    {
+      "id": "gRfvmthxDi4",
+      "kind": "youtube",
+      "title": "To My Oldest Son - A Father's Final Letter That Will Make You Cry | STOICISM",
+      "url": "https://www.youtube.com/watch?v=gRfvmthxDi4",
+      "upload_date": "2026-07-13",
+      "duration_seconds": 2374,
+      "duration": "39:34",
+      "word_count": 6115,
+      "clean_file": "clean/gRfvmthxDi4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2374
+      }
+    },
+    {
+      "id": "kPRsiETxFVM",
+      "kind": "youtube",
+      "title": "Train Your Mind Like the Top 1% - STOP Overthinking | STOICISM",
+      "url": "https://www.youtube.com/watch?v=kPRsiETxFVM",
+      "upload_date": "2026-01-09",
+      "duration_seconds": 3289,
+      "duration": "54:49",
+      "word_count": 7312,
+      "clean_file": "clean/kPRsiETxFVM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3289
+      }
+    },
+    {
+      "id": "btKYaVD-6sg",
+      "kind": "youtube",
+      "title": "Train Your Mind Until You BECOME FEARED – Impossible to Stop | STOICISM",
+      "url": "https://www.youtube.com/watch?v=btKYaVD-6sg",
+      "upload_date": "2026-05-05",
+      "duration_seconds": 2209,
+      "duration": "36:49",
+      "word_count": 5240,
+      "clean_file": "clean/btKYaVD-6sg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2209
+      }
+    },
+    {
+      "id": "iNocwxM9LOA",
+      "kind": "youtube",
+      "title": "Watch This If You're Ready to Change Your Life | STOICISM",
+      "url": "https://www.youtube.com/watch?v=iNocwxM9LOA",
+      "upload_date": "2026-07-06",
+      "duration_seconds": 1639,
+      "duration": "27:19",
+      "word_count": 3785,
+      "clean_file": "clean/iNocwxM9LOA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1639
       }
     },
     {
