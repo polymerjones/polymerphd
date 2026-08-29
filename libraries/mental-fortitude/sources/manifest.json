@@ -16,6 +16,23 @@
         "bound_field": "duration_seconds",
         "bound": 2105
       }
+    },
+    {
+      "id": "mAqc3WylMBc",
+      "kind": "youtube",
+      "title": "You Are Not Free Until You Understand Why You Want What You Want | Baruch Spinoza",
+      "url": "https://www.youtube.com/watch?v=mAqc3WylMBc",
+      "upload_date": "2026-08-26",
+      "duration_seconds": 810,
+      "duration": "13:30",
+      "word_count": 1858,
+      "clean_file": "clean/mAqc3WylMBc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 810
+      }
     }
   ],
   "skipped": []
