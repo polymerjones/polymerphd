@@ -1,0 +1,22 @@
+{
+  "sources": [
+    {
+      "id": "PMTjanyqNm0",
+      "kind": "youtube",
+      "title": "Once You Heal Your Shadow, Nobody Controls You - TOTAL SELF MASTERY | STOICISM",
+      "url": "https://www.youtube.com/watch?v=PMTjanyqNm0",
+      "upload_date": "2026-02-23",
+      "duration_seconds": 2105,
+      "duration": "35:05",
+      "word_count": 4797,
+      "clean_file": "clean/PMTjanyqNm0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2105
+      }
+    }
+  ],
+  "skipped": []
+}

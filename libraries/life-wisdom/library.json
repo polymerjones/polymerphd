@@ -1,0 +1,56 @@
+{
+  "slug": "life-wisdom",
+  "title": "Life Wisdom",
+  "subtitle": "Character, relationships, and everyday life advice",
+  "lede": "A reference to {videos} sources of everyday life-advice wisdom on character, relationships, and habits.",
+  "about_paragraphs": [
+    "A reference built from {videos} videos of life-advice wisdom on character, relationships, and daily habits — synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a specific point in a specific source — a page, a paragraph, or a video timestamp, depending on what kind of source made the claim. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["subjects", "themes", "practices", "concepts"],
+  "primary_facet": "themes",
+  "controlled_facets": {},
+  "universal_sections": [
+    "Central claim",
+    "Signals and internal states addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+
+  "glossary_file": "07_PLAIN_ENGLISH_GLOSSARY.md",
+  "curated_facts_file": null,
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "subjects": "Main subjects",
+    "themes": "Themes",
+    "practices": "Recommended practices",
+    "concepts": "Important concepts"
+  },
+  "catalog_description": "Every video ingested into this knowledge package, with the subjects, themes, practices, and concepts each one covers.",
+  "catalog_unit_label": "Videos",
+  "catalog_id_label": "Video ID",
+
+  "attribution": {
+    "style": "youtube_channel",
+    "name": "Inspire Forward",
+    "url": "https://www.youtube.com/@inspireforward-r5n"
+  },
+
+  "custom_gpt": {
+    "enabled": true,
+    "instructions_file": "PASTE_INTO_GPT_INSTRUCTIONS.txt",
+    "file_limit": 20
+  },
+
+  "evidence_types": ["influencer_commentary", "peer_reviewed_study", "systematic_review",
+    "government_guideline", "industry_test_result", "patient_experience", "other"],
+  "evidence_levels": ["high", "moderate", "low", "anecdotal"],
+
+  "derived_practice_facets": false
+}

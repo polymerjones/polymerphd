@@ -1,0 +1,22 @@
+{
+  "sources": [
+    {
+      "id": "VsAnpz3Ov0M",
+      "kind": "youtube",
+      "title": "SPEAK TO YOURSELF LIKE THIS FOR JUST 3 DAYS - Shi Heng Yi Wisdom! |- Shi Heng Yi Wisdom...",
+      "url": "https://www.youtube.com/watch?v=VsAnpz3Ov0M",
+      "upload_date": "2025-04-16",
+      "duration_seconds": 1724,
+      "duration": "28:44",
+      "word_count": 4906,
+      "clean_file": "clean/VsAnpz3Ov0M.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1724
+      }
+    }
+  ],
+  "skipped": []
+}
