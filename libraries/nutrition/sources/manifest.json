@@ -256,6 +256,23 @@
       }
     },
     {
+      "id": "JshTM15bqVI",
+      "kind": "youtube",
+      "title": "Everyone's Taking Nicotine. Almost Everyone's Doing It Wrong.",
+      "url": "https://www.youtube.com/watch?v=JshTM15bqVI",
+      "upload_date": "2026-06-11",
+      "duration_seconds": 1343,
+      "duration": "22:23",
+      "word_count": 3673,
+      "clean_file": "clean/JshTM15bqVI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1343
+      }
+    },
+    {
       "id": "NMR3kHPi3lk",
       "kind": "youtube",
       "title": "Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice)",
