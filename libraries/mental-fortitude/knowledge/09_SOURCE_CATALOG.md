@@ -3,7 +3,7 @@
 Every video ingested into this knowledge package, with the subjects, themes, practices, and concepts each one covers.
 
 **Channel:** Psychoresto — https://www.youtube.com/@psychoresto  
-**Videos catalogued:** 30
+**Videos catalogued:** 37
 
 Entries are alphabetical by title. Use the video ID to trace any claim in the other files back to its source.
 
@@ -33,7 +33,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** pausing to ask is this criticism true, is it useful, before reacting to criticism, tracing a belief about money, worth, or capability back to its source before accepting it, slowing down when pressured by urgency, guilt, or everyone's doing it framing, asking would I make this choice if no one was watching or would ever know before big decisions, observing an emotion and naming it explicitly, I'm having the thought that, before acting on it, replacing self-diagnostic questions such as why does this always happen to me with pattern-based questions, curating mental inputs the way one would curate a diet, and challenging an inner critical voice before accepting it
 - **Important concepts:** mental programming, inherited beliefs installed by family, environment, and authority before conscious examination was possible, the observer or awareness distinction, you are not your emotions, you are the one experiencing them, values-based decisions versus approval-based decisions as two different decision engines, ownership as accepting authorship of a choice, including its consequences, rather than assigning it to circumstance
 
-## 3. 10 Stoic Rules to Build STRONGER Mental Resilience – Forged Not Motivated | STOICISM
+## 3. 10 Quiet Habits That Make You SILENTLY Attractive - BECOME QUIETLY MAGNETIC | STOICISM
+
+- **Video ID:** `91OKjLeq2so`
+- **URL:** https://www.youtube.com/watch?v=91OKjLeq2so
+- **Upload date:** 2026-07-28
+- **Duration:** 33:47
+- **Source file:** `sources/clean/91OKjLeq2so.txt`
+- **Main subjects:** attraction reframed as what remains once a person stops performing, rather than something actively projected, feeling at ease around someone identified as the foundational habit that all nine others are built on, being fully heard identified as what makes a conversation feel meaningful, independent of the content of any response given back, speech patterns (hedging, pace, rising intonation) identified as signaling unsettled certainty independent of a statement's actual content, over-explaining reframed as approval-seeking that undermines trust in a decision rather than building it, protecting a personal "rhythm" against reactive interruption, explicitly distinguished from ignoring others' needs entirely, selectively directing one's social energy, framed as stewardship of a finite resource rather than coldness
+- **Themes:** ten cumulative, explicitly building habits, several tied to a real named researcher (Carl Rogers, Albert Mehrabian, Carl Jung) alongside Stoic figures (Epictetus, Marcus Aurelius, Seneca, Cato the Younger), an explicit, comparatively rare self-aware hedge acknowledging that one cited body of research (Mehrabian's) is commonly oversimplified elsewhere, each habit paired with both a mechanism claim and a small, concrete test or practice to try immediately
+- **Recommended practices:** noticing and dropping one's own guard or silent judgment first, since people calibrate safety off dozens of small unspoken signals `[03:06]`, letting a sentence finish, asking a follow-up unrelated to redirecting to oneself, and noticing the pause before someone answers `[05:09]`, leaving a beat of silence after making a point instead of rushing to fill it, and noticing an upward lilt at the end of statements as a sign of unsettled certainty `[09:13]`, noticing one's own resting facial expression specifically under pressure, such as when a mistake is pointed out, not only when calm `[12:16]`, letting eye contact have rhythm — holding during key points, drifting briefly to think, returning — rather than holding constant, unblinking contact `[14:18]`, pausing before adding justification when noticing a flicker of confusion on someone's face, since the urge to over-explain often creates the scrutiny it was trying to avoid `[17:20]`, letting a phone buzz go unanswered mid-conversation and finishing the current sentence or task first `[20:23]`, noticing which interactions leave you energized versus hollow, and adjusting how much of yourself you bring to a consistently draining one accordingly `[25:30]`, after an interaction, asking one question — did the other person likely walk away a little lighter or a little heavier `[30:38]`
+- **Important concepts:** emotional contagion — moods and emotional states transferring between people largely involuntarily through tone and expression `[27:34]`, psychic energy as a finite resource, per Carl Jung as paraphrased, depleted by constant outward performance, particularly for introverted people `[24:29]`, the distinction between feeling "handled" (heard, then redirected straight to solutions) and feeling "heard" (asked one more question first) `[06:10]`
+
+## 4. 10 Stoic Rules to Build STRONGER Mental Resilience – Forged Not Motivated | STOICISM
 
 - **Video ID:** `oUo1cstfL7A`
 - **URL:** https://www.youtube.com/watch?v=oUo1cstfL7A
@@ -45,7 +57,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** when the impulse to quit arrives mid-task, deliberately continuing for a few more seconds or one more step rather than negotiating with the urge to stop `[04:13]`, a five-minute morning premeditatio malorum session rehearsing the day's likely frustrations and pre-deciding a response before touching the phone `[10:18]`, writing out three specific situations that "consistently break you down" and scripting word-for-word exact responses in advance `[12:23]`, writing down three small, guaranteed-completable "victories" each morning rather than one large goal `[17:31]`, taking the smallest possible action on an avoided task while still afraid, rather than waiting for fear to pass `[22:39]`, an evening review naming the day's hardest pressure, the response given, and what to do differently next time `[25:43]`, ranking the next day's three tasks by dread and completing the most-feared one first, before checking the phone `[27:45]`, after a painful event, feeling it fully first, then separately writing down what happened and what it taught `[31:50]`, protecting one daily two-hour uninterrupted block with phone and notifications off for the most important work `[34:58]`, doing one deliberately hard, unwitnessed task per day that nobody else will ever know about `[39:01]`, writing a specific, personal statement of purpose and rereading it every morning before anything else `[44:07]`
 - **Important concepts:** ascent — the video's term for the internal moment of agreeing with a thought that says "I can't continue" `[04:13]`, premeditatio malorum, the premeditation of evils — imagining likely difficulties in advance to remove the element of surprise `[08:16]`, the stimulus-response gap (Viktor Frankl) as the location where "freedom" and "growth" live `[12:23]`, self-trust built specifically through kept small promises rather than through large declared goals `[15:27]`, purpose as a decision-making filter distinct from motivation, which is described as fading while purpose "carries" `[50:13]`
 
-## 4. 10 Things You Must Do Alone At Least Once in Your Life | STOICISM
+## 5. 10 Things You Must Do Alone At Least Once in Your Life | STOICISM
 
 - **Video ID:** `Y-YL0WhaCBQ`
 - **URL:** https://www.youtube.com/watch?v=Y-YL0WhaCBQ
@@ -57,7 +69,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** eating a full meal alone at a restaurant, ordering what you actually want, taking a long train or bus ride with no destination and no phone, living in an unfamiliar city for a season, away from people who already have fixed expectations of you, spending a full weekend in near-total silence, solving one genuinely difficult problem without asking anyone for help, going one full day without a phone, completing one physical challenge with a real chance of failure, without a support team, sitting in nature for several hours with no music, podcast, or phone, making one decision that carries real weight entirely alone, celebrating one accomplishment privately, with no announcement and no audience
 - **Important concepts:** solitude versus loneliness as functionally opposite experiences built from the same raw material of being alone, company-dependence as fragility that only becomes visible once company disappears without warning, the imagined audience — invented judgment that makes ordinary solitary acts feel exposed
 
-## 5. 12 Hidden Signs You’re Undervaluing Yourself (Stoic Wake-Up Call) - STOP PLAYING SMALL | STOICISM
+## 6. 12 Hidden Signs You’re Undervaluing Yourself (Stoic Wake-Up Call) - STOP PLAYING SMALL | STOICISM
 
 - **Video ID:** `QzJ7FkOpoOE`
 - **URL:** https://www.youtube.com/watch?v=QzJ7FkOpoOE
@@ -69,7 +81,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** noticing the compulsive urge to overexplain a decision and pausing to ask whether it is really being demanded, distinguishing a genuine apology (acknowledging harm) from a reflexive one (apologizing for existing), enforcing one boundary clearly and without over-justifying it the next time it is crossed, practicing internal validation by pausing to feel pride in an accomplishment before sharing it with anyone, practicing a pause before answering a request, to feel what the body already knows before saying yes
 - **Important concepts:** the double rule book — one standard of grace for others, a harsher unwritten one for oneself, conditional existence — feeling valuable only when useful to someone else, rather than inherently, the distinction between gratitude (appreciating what you have while pursuing more) and resignation (settling because wanting more feels illegitimate), self-erasure disguised as humility — shrinking one's own achievements or needs and calling it kindness
 
-## 6. 12 Powerful MORNING AFFIRMATIONS That REWIRE YOUR MIND in 60 Seconds | STOICISM
+## 7. 12 Powerful MORNING AFFIRMATIONS That REWIRE YOUR MIND in 60 Seconds | STOICISM
 
 - **Video ID:** `w8ehlN3vn18`
 - **URL:** https://www.youtube.com/watch?v=w8ehlN3vn18
@@ -81,7 +93,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** saying 12 specific declarative phrases aloud, in a fixed order, within the first 60 seconds of waking, before checking a phone, treating a difficulty encountered later in the day as something already decided for, not something to re-litigate, conquering the smallest available excuse first, rather than starting with the largest fear, auditing where yesterday's time actually went, not where it was intended to go, repeating the same 12 words daily for at least 30 mornings, since the claimed effect is cumulative, not immediate
 - **Important concepts:** {'the 12 declarations as a named sequence': 'unstoppable, conquer, valuable, dominate, sharp, reclaim, intentional, transform, sovereign, hunger, light, begin'}, readiness as a product of action rather than a prerequisite for it, the morning as an unclaimed quiet window before the day establishes its own appetite
 
-## 7. 12 Things Stoics Do Every Morning (That 95% of People Ignore) | STOICISM
+## 8. 12 Things Stoics Do Every Morning (That 95% of People Ignore) | STOICISM
 
 - **Video ID:** `1SNTbsNQxsQ`
 - **URL:** https://www.youtube.com/watch?v=1SNTbsNQxsQ
@@ -93,7 +105,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** before getting out of bed, silently stating one honest sentence, "today, I choose to live well" `[05:07]`, before speaking to anyone, naming one specific (not categorical) thing you're genuinely glad exists, and sitting with it a full 30 seconds `[08:12]`, naming one realistic, specific difficulty the day might bring and deciding in advance who you want to be if it happens `[10:15]`, each morning, sorting the day's goals, tasks, and relationships into "genuinely up to me" versus "not up to me" `[12:18]`, asking each morning "where will I need courage, where will honesty cost me something" rather than only "what do I need to achieve" `[15:20]`, four minutes each morning picturing the end of the day and asking what would need to happen between now and then to feel you'd actually shown up `[16:23]`, silently reminding yourself each morning that you'll encounter difficult people today, and why, before it happens `[18:26]`, five minutes of sitting in silence, letting thoughts be present without chasing or suppressing them `[21:29]`, reading one passage from a trusted source slowly each morning, asking "does this change how I show up today?" rather than skimming for content `[23:32]`, prioritizing the day by role-based duty ("where is the best of me needed") rather than by urgency or inbox volume `[26:35]`, a short daily memento mori acknowledgment, followed by asking what becomes non-negotiable given limited time, not how much time is left `[29:39]`, identifying the single action your "best self" would take right now, and taking it before over-thinking or renegotiating `[31:43]`
 - **Important concepts:** eucharistia — gratitude as active noticing of existence rather than a passive positive feeling `[06:09]`, hesychia — inner quiet as an ordered, clear mind rather than an empty or detached one `[20:27]`, the "second hit" of shock added on top of a difficulty itself when it wasn't anticipated in advance `[08:12]`, duty-based thinking (by role) versus task-list thinking (by output) as two different ways of ordering a day `[25:34]`, discipline defined as alignment between values and actions, explicitly independent of motivation or felt readiness `[30:40]`
 
-## 8. 15 Secret Life Lessons MARCUS AURELIUS Didn’t Want You to Ignore | STOICISM
+## 9. 15 Secret Life Lessons MARCUS AURELIUS Didn’t Want You to Ignore | STOICISM
 
 - **Video ID:** `c4HdkPnl0mA`
 - **URL:** https://www.youtube.com/watch?v=c4HdkPnl0mA
@@ -105,7 +117,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** naming what is currently being postponed and starting a partial version of it now, pausing between a triggering event and the response to it, treating the response as chosen rather than automatic, beginning each morning by expecting difficult people rather than being surprised by them, reviewing daily habits for whether "how you do anything" matches "how you do everything", comparing today's self only to yesterday's self rather than to another person's life, holding the fact of mortality as a daily, felt guide to how time is used rather than avoiding it
 - **Important concepts:** the obstacle as the path itself, not a detour around difficulty, the "space" between an event and the interpretation assigned to it, in which response is chosen, the gap between the appearance of virtue (performance) and virtue as private practice, the quality of one's thoughts as the direct determinant of the quality of one's life
 
-## 9. 3 Stoic Things Will Truly Matter in the End | STOICISM
+## 10. 3 Stoic Things Will Truly Matter in the End | STOICISM
 
 - **Video ID:** `0tMo6lZ8c-I`
 - **URL:** https://www.youtube.com/watch?v=0tMo6lZ8c-I
@@ -117,7 +129,31 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** auditing a specific past week for how much undivided attention, not just co-presence, the people who matter most actually received `[04:06]`, setting aside a phone or competing distraction specifically when someone in front of you needs to be genuinely heard `[05:06]`, deliberately looking for the less visible, unstated need behind someone who "seems fine," not only the obvious cases of struggle `[15:17]`, noticing when an old grip has tightened again and deliberately loosening it, repeated daily rather than resolved once `[21:25]`, naming, specifically, which of three categories a held-onto thing falls into — someone else's expectation of who you should be, a specific required future, or the weight of a past self's mistakes — before releasing it `[19:23]`
 - **Important concepts:** the gap between love felt and love expressed or practiced, named as the site where late-life regret is constructed `[05:06]`, kindness's asymmetric memorability — the claim that people forget competence but remember specific moments of warmth for decades `[11:13]`, letting go as an ongoing practice of releasing rather than a single decision, explicitly distinguished from denying or condoning what happened `[18:21]`
 
-## 10. 5 Stoic Lessons to Act Like NOTHING BOTHERS YOU - MARCUS AURELIUS WISDOM | STOICISM
+## 11. 5 Habits That Will DESTROY Your Life in 2026 — FIX THEM NOW | STOICISM
+
+- **Video ID:** `9Ob2Q-_Up7o`
+- **URL:** https://www.youtube.com/watch?v=9Ob2Q-_Up7o
+- **Upload date:** 2026-01-02
+- **Duration:** 40:14
+- **Source file:** `sources/clean/9Ob2Q-_Up7o.txt`
+- **Main subjects:** delay reframed as the most socially accepted, unpunished form of self-sabotage, explicitly distinguished from being "slow", constant distraction framed as avoidance of specific hard work rather than a neutral pastime, comfort framed as a "slow killer" trading a stronger future for an easier present, illustrated across body, career, and relationships, over-explaining reframed as seeking unneeded validation that undermines one's own certainty in the process, avoiding responsibility explicitly distinguished from denying real unfairness — responsibility framed as control, not blame or self-blame
+- **Themes:** five numbered habits built almost entirely from this channel's recurring stock of Stoic quotations, reapplied here to a "new year" framing, the same core quotations (Marcus Aurelius, Seneca, Epictetus) recur verbatim across multiple videos in this library, this one drawing especially heavily on them, each habit paired with named illustrative examples (body, career, relationships) showing the same abstract mechanism at work
+- **Recommended practices:** picking one small, specific, immediately actionable step toward an avoided goal and doing it today, explicitly without waiting to feel ready `[05:11]`, creating deliberate boundaries around phone and notification use — turning off notifications, deleting specific apps, building distraction-free blocks into the day `[12:18]`, deliberately practicing planned, bounded discomfort, such as a period of intentionally minimal food, to test whether a feared condition is actually intolerable `[15:22]`, before explaining or defending a choice, asking whether the listener is someone who "shows up" and matters, or someone whose opinion carries no real stake `[24:34]`, reframing a recurring blamed circumstance by asking "what is my next move" instead of "who is to blame" `[33:49]`
+- **Important concepts:** delay explicitly distinguished from being slow — delay is "being stuck," specifically the belief "I am not ready yet" `[03:10]`, the "trade" framing of comfort — choosing comfort today is explicitly named as trading one's future for one's present `[18:28]`, responsibility explicitly redefined as control rather than blame — "not saying everything is your fault. It is saying everything is your responsibility" `[33:49]`
+
+## 12. 5 Silent MISTAKES That DESTROY Your SUCCESS — Listen Every Morning | STOICISM
+
+- **Video ID:** `5F7WXDMe7YY`
+- **URL:** https://www.youtube.com/watch?v=5F7WXDMe7YY
+- **Upload date:** 2026-04-16
+- **Duration:** 33:17
+- **Source file:** `sources/clean/5F7WXDMe7YY.txt`
+- **Main subjects:** the period after initial success identified as more dangerous than the initial struggle, since its mistakes are gradual and undramatic rather than immediately obvious, helping others too readily distinguished by whether the person receiving help is building capacity or substituting dependency for it, premature, wide sharing of an unfinished goal reframed as replacing a private, result-focused mind with a "watched" mind focused on perception, comfort explicitly distinguished from rest — rest restores capacity, settling quietly ends the effort that produced the current level, normalized success reframed as eroding gratitude, which the source claims is what keeps discipline alive once external pressure disappears, loyalty to people who supported someone before they had anything to offer framed as a character test success specifically administers
+- **Themes:** five mistakes, all described as feeling "harmless or even virtuous" while occurring, rather than obviously destructive, an explicit, in-video claim that a specific unnamed-elsewhere channel ("Stoic Direction") reposts this creator's scripted content as its own, presented as a live example of mistake two, Stoic quotations reused from material covered elsewhere in this library (e.g., Zeno's "conquering himself" line, also used in `2bT67XaZ7IY`)
+- **Recommended practices:** before committing time to someone requesting help, observing whether their pattern shows growth from prior help or a repeat of the same stuck point `[05:07]`, holding back public discussion of an unfinished goal, letting "the work speak when it is finished, rather than letting the words speak while the work is still being done" `[13:15]`, each morning asking explicitly, "am I resting or am I settling" `[19:21]`, deliberately recalling what the current level of success cost to reach, as a practice for keeping gratitude and discipline connected `[22:25]`, maintaining active contact with people who supported you before you had anything to offer in return, treating this as a test success administers `[26:31]`
+- **Important concepts:** the distinction between rest, which restores capacity for continued effort, and settling, an unconscious decision that the current level is sufficient `[18:21]`, the claim that talking about a goal produces a neurological reward similar to achieving it, which reduces the urgency actual progress requires `[12:13]`, success framed as a standard requiring continuous maintenance rather than a stable, permanent destination `[17:19]`
+
+## 13. 5 Stoic Lessons to Act Like NOTHING BOTHERS YOU - MARCUS AURELIUS WISDOM | STOICISM
 
 - **Video ID:** `XhTNf3QTbGc`
 - **URL:** https://www.youtube.com/watch?v=XhTNf3QTbGc
@@ -129,7 +165,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** naming a feeling in the moment it arrives (I feel anger right now, not I am angry) before acting on it, withdrawing as the audience for a provocation rather than performing peace while inwardly reacting, holding a bothersome event next to the question of whether it will matter at the end of one's life, practicing negative visualization — sitting with the possibility of losing something valued, to loosen the grip of fear around it, spending time alone in silence daily to locate the difference between one's own thoughts and outside noise
 - **Important concepts:** the glass wall — feeling an impact fully without being consumed by it, starving the loop — withdrawing the need to win so a provoked exchange has no fuel, the long view — borrowing the perspective of one's own eventual death to shrink a present problem, wearing the world like a loose garment — full engagement with life without a suffocating grip on any outcome, the inner citadel / inner room — an internal location that external events cannot breach
 
-## 11. 7 Brutal Stoic Truths That Will STOP YOU WASTING TIME FOREVER | STOICISM
+## 14. 5 Stoic Steps to KILL LUST Forever (This Actually Works) - CONTROL YOUR MIND | STOICISM
+
+- **Video ID:** `-Fmp4M2jDcs`
+- **URL:** https://www.youtube.com/watch?v=-Fmp4M2jDcs
+- **Upload date:** 2026-02-10
+- **Duration:** 35:48
+- **Source file:** `sources/clean/-Fmp4M2jDcs.txt`
+- **Main subjects:** compulsive craving reframed as a response to unmet emptiness rather than excess desire needing eradication, craving described as offering itself in disguised forms (loneliness, boredom, pain) rather than announcing itself honestly, neuroplasticity used to argue a craving cycle is a rewireable pattern, not a fixed trait, Frankl's logotherapy reframed as the specific antidote that occupies the space craving otherwise fills, ending the internal war against oneself (self-punishment, shame) as itself a mechanism that sustains a craving rather than defeats it
+- **Themes:** five sequential, cumulative steps explicitly said to build on each other rather than function independently, a consistent contrast between "fighting"/"willpower" (framed as ineffective or temporary) and understanding/rewiring/building (framed as durable), pairing one Stoic figure (Marcus Aurelius, Epictetus) with one non-Stoic authority (Jung, Pascal, Doidge, Frankl) at each major step
+- **Recommended practices:** when an urge arises, pausing 10 seconds and asking "what am I actually feeling right now" instead of "what do I want" `[07:12]`, naming the underlying emotion (loneliness, boredom, sadness) explicitly, since naming it is described as removing one of its "masks" `[08:13]`, once daily, sitting five minutes in complete silence with no phone or distraction and asking the felt emptiness "what do you actually need from me?" `[13:20]`, catching the brain's in-the-moment justification story and replacing it with a stated fact, "This is a story, not the truth... I choose something different this time" `[18:27]`, identifying a personal "anchor" by asking "if this craving did not exist in my life, what would I spend my energy on instead?" `[24:35]`, when a craving arises, breathing and letting the feeling pass without building a story around it or treating it as evidence something is wrong `[30:42]`
+- **Important concepts:** neuroplasticity (Norman Doidge, as paraphrased) — the brain physically rewires itself with each repeated choice, making a craving cycle non-permanent `[16:25]`, logotherapy (Viktor Frankl) — a person can endure almost anything with a sufficient reason why, applied here to purpose as what displaces compulsive craving `[22:33]`, the "just this one time" story identified as the specific, recurring lie a craving tells to justify itself `[17:25]`
+
+## 15. 7 Brutal Stoic Truths That Will STOP YOU WASTING TIME FOREVER | STOICISM
 
 - **Video ID:** `1fycciCAZbU`
 - **URL:** https://www.youtube.com/watch?v=1fycciCAZbU
@@ -141,7 +189,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** before starting a task, asking what concrete change it produces once finished, not how it looks or feels while doing it `[09:19]`, identifying one currently "avoided" task or unresolved item and treating today's version of its cost as cheaper than a delayed version `[13:20]`, at day's end, being able to name specifically where attention went and why, rather than only what happened during the day `[17:28]`, asking whether today's disciplined behavior would have happened identically if no one could ever find out about it `[21:33]`, noticing rehearsed conversations, unsent messages, or softened opinions as signs of managing an imagined audience, and treating that as a cost to reduce `[26:40]`, structuring a single day so that, if it were the final one, it would still "resolve" as complete, rather than deferring completion to some future point `[30:48]`
 - **Important concepts:** time loss as invisible and unauditable, contrasted explicitly with the visible, felt loss of money `[03:11]`, motion mistaken for progress — activity that produces the emotional signal of accomplishment without a corresponding real-world output `[10:19]`, avoidance framed as a loan with compounding interest, rather than a neutral pause `[12:20]`, the evolutionary mismatch between an alarm calibrated for tribal exile and the actual stakes of a modern stranger's disapproval `[25:38]`, completion, not duration, as the Stoic measure of a life or a single day, via Chrysippus's "a play isn't judged by how many acts it runs" `[27:44]`
 
-## 12. 7 Brutal Stoic Truths to Stop Wasting Time (Start BUILDING YOURSELF Today) | STOICISM
+## 16. 7 Brutal Stoic Truths to Stop Wasting Time (Start BUILDING YOURSELF Today) | STOICISM
 
 - **Video ID:** `YC3rTJteRVk`
 - **URL:** https://www.youtube.com/watch?v=YC3rTJteRVk
@@ -153,7 +201,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** voluntary discomfort — deliberately choosing the harder of two available options, asking each morning what the one thing is that would make today genuinely matter, and doing it before anything else, treating each day as a complete, separate, unrepeatable unit rather than one of an unlimited supply, measuring progress only against who you were yesterday, never against another person's position
 - **Important concepts:** the right moment as a story rather than a real condition, exposed by asking how long it has already been waited for, readiness as something produced by action rather than something that precedes it, the vote metaphor — every choice between the easy and the necessary option as a vote for a version of yourself, preparation as avoidance dressed as diligence, with no natural end point
 
-## 13. 7 Life Lessons That Took Me 10 Years to Learn - NIGHT SECRET TO REWIRE YOUR MIND | STOICISM
+## 17. 7 Daily Habits That Make Life Happier – THE SECRET TO HAPPINESS | STOICISM
+
+- **Video ID:** `47yXxrDc-MY`
+- **URL:** https://www.youtube.com/watch?v=47yXxrDc-MY
+- **Upload date:** 2026-07-30
+- **Duration:** 39:07
+- **Source file:** `sources/clean/47yXxrDc-MY.txt`
+- **Main subjects:** happiness traced to a short list of unglamorous daily habits rather than major life achievements or big wins, gratitude explicitly distinguished from forced positivity — noticing what's true alongside hardship, not denying it, movement reframed around felt experience and a "sense of agency" rather than appearance or exercise-as-obligation, sleep's emotional-processing function used to explain why underslept people feel "raw," not just tired, kindness explicitly distinguished from being a doormat — a calm "no" framed as sometimes the kinder option, close relationship quality, not social calendar size, identified as the strongest predictor of long-term happiness in a cited long-running study, photographing an experience framed as competing with actually attending to it, the last thought before sleep framed as disproportionately reinforced, given sleep's active memory-consolidation role
+- **Themes:** an unusually dense, consistently named, and largely verifiable citation set for this channel — Robert Emmons, Matthew Walker, Alan Luks, Robert Waldinger, Fred Bryant — alongside Epictetus, Aristotle, and Marcus Aurelius, explicit naming of the two reasons these habits get skipped, that they don't feel urgent day to day and don't look impressive to others, each habit given both an underlying mechanism and one small, specific, testable version of the practice
+- **Recommended practices:** naming three specific (not general) things you're grateful for before checking your phone, and eventually naming one thing you'd normally complain about `[07:09]`, speaking gratitude directly and specifically to another person, rather than only journaling it privately `[09:11]`, starting with a fixed 10-minute daily walk, decided in advance on a calm day rather than waiting for a full hour of free time `[13:16]`, preferring an outdoor walk over an equivalent indoor one, for the added daylight-driven circadian signal `[14:17]`, keeping the same bedtime and wake time including weekends, and dimming lights an hour before bed `[18:19]`, treating a small, specific act of kindness as sufficient, and treating a calm "no" as sometimes the kinder option over a resentful "yes" `[20:21]`, `[21:22]`, giving at least a few relationships undivided, phone-away attention rather than counting digital contact as connection `[25:29]`, before reaching for a phone during a good moment, naming three concrete sensory details instead `[30:35]`, before sleep, deliberately recalling one specific good moment from the day, regardless of how the day went overall `[33:38]`
+- **Important concepts:** the "helper's high" (Alan Luks) — a small physical lift from an act of kindness, comparable to light exercise `[21:22]`, savoring (Fred Bryant) — deliberately slowing down to register a good moment while it's happening, using specific sensory detail rather than vague presence `[30:35]`, REM sleep's role in stripping emotional charge from a memory while preserving its factual content, per Matthew Walker's research as paraphrased `[16:18]`
+
+## 18. 7 Life Lessons That Took Me 10 Years to Learn - NIGHT SECRET TO REWIRE YOUR MIND | STOICISM
 
 - **Video ID:** `7tslwKq3jVM`
 - **URL:** https://www.youtube.com/watch?v=7tslwKq3jVM
@@ -165,7 +225,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** {'the night audit — three questions before sleep': 'where did today go wrong, where did it go well, what does tomorrow deserve that today did not give'}, deciding who to be tomorrow (patient, honest, brave) the night before, as a deliberate choice rather than a reaction to circumstance, sorting the day's weight into what is genuinely yours to carry and what was never yours, releasing what cannot be acted on before sleep, mentally rehearsing the next morning's first moments and the specific point where resistance will arise, holding one specific good thing from the day for a full unhurried minute rather than listing gratitude abstractly, naming the one hard thing tomorrow holds, out loud or on paper, to reduce it to its actual size, asking one closing question each night — am I becoming the person I want to be — rather than judging the day's output
 - **Important concepts:** the night as preparation rather than mere recovery, premeditation (mental rehearsal of the next day) as a named Stoic practice, the sunk-weight of an unreviewed day compounding into the following morning, becoming as a direction renewed nightly rather than a destination reached once
 
-## 14. 7 Stoic Rules to RESET, RESTART, and REFOCUS Your Life in Silence - RETURN UNBREAKABLE | STOICISM
+## 19. 7 Stoic Rules to RESET, RESTART, and REFOCUS Your Life in Silence - RETURN UNBREAKABLE | STOICISM
 
 - **Video ID:** `nJjBQ-0PWLY`
 - **URL:** https://www.youtube.com/watch?v=nJjBQ-0PWLY
@@ -177,7 +237,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** protecting a fixed morning block for movement, reading, and naming three non-negotiable intentions before engaging with messages, practicing strategic silence in conversation, waiting three seconds before responding and letting others finish completely, auditing a week's attention honestly for what drains without returning value, then reducing or removing it, doing work nobody sees, writing, training, practicing a craft, without documenting or narrating it publicly, naming in reflection what you no longer need, a habit, belief, or relationship, rather than only what you've added, rehearsing likely triggering scenarios in silence in advance, then pausing and counting to three before responding when triggered, an end-of-day practice of finding meaning in the day's repeated, unremarkable actions rather than deferring meaning to a future outcome
 - **Important concepts:** reaction, automatic and past-programmed, versus response, intentional and wisdom-based, the stimulus-response gap, attributed here to Viktor Frankl, as the location of human freedom, private discipline as a secret weapon that outperforms public performance over time, subtraction as growth, measuring progress by what has been released rather than acquired
 
-## 15. 7 Stoic Rules — DON’T PANIC, LIFE WILL CHANGE | STOICISM
+## 20. 7 Stoic Rules — DON’T PANIC, LIFE WILL CHANGE | STOICISM
 
 - **Video ID:** `Awfltf390uA`
 - **URL:** https://www.youtube.com/watch?v=Awfltf390uA
@@ -189,7 +249,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** extending the exhale longer than the inhale during panic to engage the parasympathetic nervous system, deliberately recalling a specific past hard day survived as counter-evidence to panic's claim that this time is different, judging progress by self-knowledge, honesty, and capacity to handle difficulty rather than by external milestones, treating ordinary acts (getting out of bed, having an honest conversation, trying again after failure) as real, countable acts of courage
 - **Important concepts:** life as a moving river rather than a still photograph, used to argue that change is constant even when imperceptible, the reframe of felt collapse as excavation rather than destruction — old, false layers being removed rather than the self being destroyed, the seed buried in dark soil as an image for growth that is real but not yet visible, defeat versus being defeated, a distinction between something that happens to you and something you choose
 
-## 16. 7 Stoic Truths That Make Life WORK OUT In 2026 When You STOP WORRYING | STOICISM
+## 21. 7 Stoic Truths That Make Life WORK OUT In 2026 When You STOP WORRYING | STOICISM
 
 - **Video ID:** `fYnD9hYHuGU`
 - **URL:** https://www.youtube.com/watch?v=fYnD9hYHuGU
@@ -201,7 +261,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** naming whether a rising anxiety is concern (actionable) or worry (not) and acting only on the former, dividing a worry into the controllable and uncontrollable portion and redirecting energy to the former, premeditatio malorum as a brief, time-limited visualization of a difficulty followed by a return to the present, not an extended rehearsal, noticing the impulse to over-explain or seek approval and pausing before acting on it, obstacle reframing — asking what a given obstacle is teaching rather than treating it as a stop sign, mindful monotasking and scheduled now reminders paired with three conscious breaths
 - **Important concepts:** the dichotomy of control — sorting life into what is and is not within a person's power, amor fati — the Stoic practice of not merely tolerating but loving whatever occurs, premeditatio malorum — brief anticipatory visualization of difficulty to confirm one's capacity to handle it, beginner's mind — approaching each moment without needing to already know what comes next, the obstacle is the way — treating what blocks a path as the material that builds it
 
-## 17. 7 Stoic Truths to Build A Ruthless Aura - DEVELOP AN UNSHAKABLE PRESENCE | STOICISM
+## 22. 7 Stoic Truths to Build A Ruthless Aura - DEVELOP AN UNSHAKABLE PRESENCE | STOICISM
 
 - **Video ID:** `blOFxOeuTmo`
 - **URL:** https://www.youtube.com/watch?v=blOFxOeuTmo
@@ -213,7 +273,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** inserting a 3-second pause between provocation and response, slowing speech by half and taking a visible breath when stress rises, to signal rather than perform calm, standing in front of a mirror to observe posture, gaze, and gait as others actually see them, naming one non-negotiable daily commitment and keeping it without exception to build self-trust, reserving the first hours of the day for one's own work before checking messages
 - **Important concepts:** the reaction/response gap as the site of personal power, detachment defined as caring about process while releasing grip on a specific outcome, distinct from not caring, reputation as an asset built in private, unwitnessed decisions, aura as residue of habits rather than a feeling or birthright
 
-## 18. 8 Stoic Lessons That Teach You HOW TO NEVER QUIT - IT'S NOT OVER UNTIL YOU WIN | STOICISM
+## 23. 8 Stoic Lessons That Teach You HOW TO NEVER QUIT - IT'S NOT OVER UNTIL YOU WIN | STOICISM
 
 - **Video ID:** `-2BEqAxxBEc`
 - **URL:** https://www.youtube.com/watch?v=-2BEqAxxBEc
@@ -225,7 +285,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** treating every obstacle as training rather than a verdict on ability, the way warriors are described training by sparring and losing on purpose, refusing to argue with or explain yourself to doubters and letting sustained effort answer them instead, scheduling deliberate rest, sleeping tonight, taking a break tomorrow, as a stated commitment rather than an afterthought, taking one concrete next step instead of trying to measure the whole remaining distance to a goal
 - **Important concepts:** the battlefield within — the claim that the real contest is between a person and their own mind rather than against external circumstance, pressure as transformation — hardship described as forging or crystallizing strength rather than only damaging, failure as feedback — treating a failed attempt as data rather than a permanent verdict on capability, the thousandth strike — the claim that invisible accumulated effort, not the single final visible act, is what produces a breakthrough
 
-## 19. 8 Stoic Truths That Could Save You 13+ Years of Your Life - RECLAIM YOUR LIFE | STOICISM
+## 24. 8 Stoic Truths That Could Save You 13+ Years of Your Life - RECLAIM YOUR LIFE | STOICISM
 
 - **Video ID:** `6U_350zzKEc`
 - **URL:** https://www.youtube.com/watch?v=6U_350zzKEc
@@ -237,7 +297,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** catching the mind drifting and returning attention to the present moment, repeated dozens of times a day, without self-judgment, three-times-daily physical check-ins (tension, breathing, real energy level) with no fixing, just noticing, relational energy inventory — listing regular contacts and asking whether time with each leaves you expanded or diminished, one week of habit awareness, tracking complaining, waiting, validation-seeking, numbing, and comparing without trying to change them yet, tracking every dollar spent for one month, then categorizing it as essential, values-aligned, emotional, or waste, scheduling explicitly purposeless time — no goal, no productivity, no tracked outcome, the deathbed filter — before spending an hour on something, asking whether you'd be glad, not just resigned, to have spent it that way on your deathbed
 - **Important concepts:** the 13-year principle — a stated research claim that the average person loses over 13 years to activities producing zero lasting value, relational energy drain, explained through mirror neurons syncing emotional and behavioral patterns between people who spend time together, lifestyle inflation as the quiet, non-dramatic mechanism of financial insecurity, autopilot as a state the brain does not archive into memory, distinct from full presence, the deathbed filter as a decision heuristic
 
-## 20. 9 Stoic Lessons for DEEP SELF-RESPECT - Rewire Your Mind Every Morning | STOICISM
+## 25. 9 Stoic Lessons for DEEP SELF-RESPECT - Rewire Your Mind Every Morning | STOICISM
 
 - **Video ID:** `1NZ3QXqT2Mw`
 - **URL:** https://www.youtube.com/watch?v=1NZ3QXqT2Mw
@@ -249,7 +309,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** each evening, writing down one true (not impressive) thing done that day worth self-respect, and saying it to yourself as you would to someone you love `[06:09]`, before checking phone or inbox, spending 2 minutes asking "what do I actually need today," then giving yourself one version of that before giving energy elsewhere `[12:16]`, for one full day, noticing without judgment every time you say "sorry" or minimize yourself, and writing it down `[19:23]`, spending 3 minutes each morning observing your inner voice's tone and content without engaging it, then choosing one honest-and-kind thing to say to yourself `[23:29]`, before opening calendar or inbox, spending 5 minutes naming the one thing that would make today meaningful, then protecting some time for it regardless of demands `[30:40]`, writing a short, honest list of whose opinions actually deserve weight (two to five names), and checking spiraling worry against that list `[36:45]`, making one small, specific, trackable commitment to yourself today and keeping it `[43:54]`, spending 10 minutes doing nothing at all — no phone, no music — and noticing what surfaces `[48:58]`, identifying one avoided thing and doing the smallest possible version of it today, not the whole thing `[55:04]`
 - **Important concepts:** amour propre (Rousseau, as paraphrased) — self-love made contingent on others' opinions, distinct from self-respect `[04:07]`, akrasia (Aristotle, as paraphrased) — acting against one's own better judgment, reframed here as a failure of integrated character rather than simple weak willpower `[40:50]`, the distinction between loneliness (the pain of being alone) and solitude (the "glory" of being alone), attributed to Paul Tillich `[45:55]`
 
-## 21. 9 Stoic Rules to BECOME YOUR BEST SELF – Success Starts With You | STOICISM
+## 26. 9 Stoic Rules to BECOME YOUR BEST SELF – Success Starts With You | STOICISM
 
 - **Video ID:** `CeaiCZ56uh8`
 - **URL:** https://www.youtube.com/watch?v=CeaiCZ56uh8
@@ -261,7 +321,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** making one non-negotiable daily commitment and honoring it without exception, keeping a running written list of personal wins, added to nightly, picking one piece of known-but-unapplied knowledge and acting on it the same day, treating rest and unproductive days as legitimate rather than requiring justification, choosing one small hard thing daily (cold shower, early wake-up, a workout) for consistency rather than intensity, preparing for and having a specific avoided hard conversation rather than continuing to postpone it, asking before a decision whether the choice is one a future self would thank the present self for
 - **Important concepts:** the negotiation with one's future self as a distinct, separate person who supposedly has more discipline, the "gap between knowing and doing" as the place where transformation stalls, inherent worth as independent of output, contrasted with worth earned through productivity, the comparison trap — measuring one's own progress against another person's curated highlight reel
 
-## 22. 9 Stoic Rules to NEVER Be Controlled by NEGATIVE EMOTIONS Again – MASTER YOUR MIND | STOICISM
+## 27. 9 Stoic Rules to NEVER Be Controlled by NEGATIVE EMOTIONS Again – MASTER YOUR MIND | STOICISM
 
 - **Video ID:** `r_7Wh5At8Xw`
 - **URL:** https://www.youtube.com/watch?v=r_7Wh5At8Xw
@@ -273,7 +333,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** naming an emotion precisely (frustrated, embarrassed, anxious) rather than vaguely as I feel bad, widening the gap between stimulus and response through breath, language delay, and a redirecting question, asking where in the body an emotion is felt, what it feels like physically, and what it would say if it could speak, daily journaling as a way of moving emotion from undifferentiated swirl into examinable words, a morning review of principles and values, and an evening review of where one was pulled from them
 - **Important concepts:** pathe versus eupatheiai — automatic emotional surges versus wise, considered responses after reflection, diastema — the deliberately cultivated interval between an impulse and the action that follows it, hexis — an ingrained disposition or habit of character, not destiny, formed through repetition and changeable through repetition, hegemonikon — the ruling faculty of interpretation that constructs meaning from an event rather than simply receiving it, the middle path (majjhima patipada) between emotional suppression and unfiltered emotional expression
 
-## 23. Before Life Gives You Everything, This Always Happens - Carl Jung (STOICISM)
+## 28. Before Life Gives You Everything, This Always Happens - Carl Jung (STOICISM)
 
 - **Video ID:** `zMToQUzFuTs`
 - **URL:** https://www.youtube.com/watch?v=zMToQUzFuTs
@@ -285,7 +345,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** sitting in uncertainty after an identity collapse rather than rushing to build a new identity on the rubble of the old one, staying in enforced silence or stillness long enough to hear what surfaces, rather than escaping back into noise or busyness, walking directly into a named fear rather than continuing to route around it
 - **Important concepts:** the collapse of the persona — the mask built for social survival becoming too small to contain the person underneath it, the shadow — parts of the self pushed into darkness that resurface with particular force before a transformation, the gap between an old strategy that has expired and a new one that has not yet formed, described as where new patterns are assembled
 
-## 24. EP 2 - 10 Silent Rules of Mentally Strong People – BECOME MENTALLY UNBREAKABLE | STOIC MENTAL ARMOR
+## 29. Before the World Wakes Up – BREAK THE PRISON YOU BUILT (Listen Every Morning) | STOICISM
+
+- **Video ID:** `3ce0m_ZTPVs`
+- **URL:** https://www.youtube.com/watch?v=3ce0m_ZTPVs
+- **Upload date:** 2026-02-21
+- **Duration:** 36:50
+- **Source file:** `sources/clean/3ce0m_ZTPVs.txt`
+- **Main subjects:** self-sabotage traced to a single repeated choice (comfort over courage) accumulating into identity, not one dramatic failure, self-doubt explicitly distinguished from humility as two different internal voices, thoughts framed as instructions to the brain's search function rather than neutral observations, failure reframed as the literal mechanism of success rather than an obstacle to it, criticism from others reframed as a reaction to what the critic sees of themselves, not a judgment of the pursuer, becoming, meaning identity-level change, distinguished from goal-chasing as the actual mechanism of achievement, readiness and confidence reframed as consequences of action rather than preconditions for it
+- **Themes:** no named philosopher, historical figure, researcher, or study is cited anywhere in this video — the argument is built entirely through extended narrative analogy and direct address, despite the "STOICISM" tag, four explicitly numbered "truths," followed by a second, unnumbered set of related claims (becoming vs. achieving, readiness, permission, commitment, belief), repeated instruction to comment specific phrases, used as a structural device throughout
+- **Recommended practices:** pausing after a failure to ask "what did this teach me" instead of "why did this happen to me" `[10:15]`, treating repeated criticism of a bold choice as information about the critic, and responding with genuine compassion rather than escalation or self-doubt `[15:24]`, keeping private, unwitnessed promises made to oneself specifically, framed as what "actually build[s] character" `[22:31]`, when beginning something, stating the commitment in permanent terms ("I am doing this... I am not stopping") rather than provisional terms ("I'll try it for a week") `[29:41]`, acting before confidence arrives, on the claim that "confidence is a consequence of action," not a precondition for it `[25:37]`
+- **Important concepts:** thoughts as instructions or queries to the brain rather than passive observations, determining what evidence the mind surfaces `[07:12]`, failure as data or information rather than a verdict about identity or capability `[09:13]`, half-hearted, provisional commitment framed as more costly than no commitment, because it signals an expected exit to oneself `[28:41]`, belief redefined as a practiced decision made before evidence exists, rather than a feeling that precedes action `[29:41]`
+
+## 30. EP 2 - 10 Silent Rules of Mentally Strong People – BECOME MENTALLY UNBREAKABLE | STOIC MENTAL ARMOR
 
 - **Video ID:** `2ivB04TzwsA`
 - **URL:** https://www.youtube.com/watch?v=2ivB04TzwsA
@@ -297,7 +369,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** noticing the physical urge (a tightening in the chest) to justify an unchallenged decision, and letting it pass without speaking `[07:11]`, testing whether a decision is approval-driven by asking whether you'd still make it if nobody ever found out `[10:15]`, before a major decision, asking "which option serves who I'm trying to become" instead of "which option feels easiest" `[13:17]`, after a memory intrudes uninvited, naming it as "the past doing what the past does" and returning attention to the present task `[18:25]`, building confidence through private, unwitnessed repetition (a kept promise, a practiced skill) rather than an outward display `[20:26]`, setting a self-commitment deliberately low enough to actually keep, then keeping it without negotiation `[25:32]`, before absorbing someone else's urgency, asking what would actually happen if you responded an hour later instead of immediately `[29:36]`, waiting a full hour before replying to a frustrating message, rather than within the first five minutes `[33:38]`, after a setback, writing one plain factual sentence about what happened and one sentence about what to adjust next time, with no other commentary `[36:40]`, shrinking the first step of an avoided task to an almost-embarrassingly small size and taking it immediately `[39:43]`
 - **Important concepts:** the Stockdale Paradox — surviving hardship by refusing false near-term hope while holding a stubborn long-term belief in eventual success `[00:01]`, rumination — a named psychological pattern of replaying past pain that research links to anxiety and depression rather than resolution, distinguished from productive "processing" `[17:23]`, confidence defined as "the presence of evidence," not the absence of doubt, contrasted with "borrowed" appearance-based confidence `[21:26]`
 
-## 25. How to REBUILD YOURSELF After Emotional Collapse (If You Feel Broken, Watch This) | STOICISM
+## 31. How to REBUILD YOURSELF After Emotional Collapse (If You Feel Broken, Watch This) | STOICISM
 
 - **Video ID:** `c19jjJ1LkFg`
 - **URL:** https://www.youtube.com/watch?v=c19jjJ1LkFg
@@ -309,7 +381,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** naming the collapse honestly to oneself rather than maintaining the outward performance of being fine, resting without requiring guilt, productivity, or apology to justify the time, examining the story that formed in the darkest moments for distortion before building on it, stating explicit limits — what can and cannot genuinely be offered — rather than giving without boundary, reassessing which relationships showed up during the collapse and which grew less available, searching for what the collapse clarified or taught without using that as justification for its cost, extending to oneself the same compassion automatically offered to someone else in the same position
 - **Important concepts:** the performance of being okay as a drain on the same limited energy that recovery requires, the aftermath-story as an interpretation built by a mind in pain with incomplete information, not a fact, sustainable generosity as bounded by honest limits rather than limitless giving, self-trust as distinct from judgment or resilience — damaged by collapse without being disproven by it
 
-## 26. LEARN TO BE IMPORTANT - 6 Stoic Lessons To Never Lower Yourself Again | STOICISM
+## 32. LEARN TO BE IMPORTANT - 6 Stoic Lessons To Never Lower Yourself Again | STOICISM
 
 - **Video ID:** `2bT67XaZ7IY`
 - **URL:** https://www.youtube.com/watch?v=2bT67XaZ7IY
@@ -321,7 +393,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** noticing whether explaining yourself is driven by the other person genuinely needing information or by your own fear that their doubt might be correct, and building rather than talking when it's the latter `[07:10]`, treating a mistake with "surgical honesty" — looking at it, understanding it, closing it — rather than replaying or re-litigating it `[11:14]`, naming one place you're deliberately holding back a full answer or full effort out of fear of being seen, and doing it anyway `[14:18]`, a five-minute end-of-day practice of asking whether a self-critical thought is genuinely yours or an inherited one, then examining and choosing which to keep `[17:20]`, saying the full-sized, un-shrunk version of a goal to yourself before acting toward it, rather than the pre-shrunk "safe" version `[20:28]`, asking directly "what am I busy avoiding," not just "what am I busy with," when a life feels fully scheduled but ungrounded `[25:33]`
 - **Important concepts:** self-handicapping — unconsciously lowering expectations or pre-emptively self-criticizing so failure "does not feel as far," a psychology term applied here `[09:12]`, arete — the Stoic term for the full, honest expression of one's actual capability, distinguished here from performance for an audience `[14:18]`, productive procrastination — staying busy with real, legitimate tasks specifically to avoid the one task that would require the most `[23:31]`
 
-## 27. Once You Heal Your Shadow, Nobody Controls You - TOTAL SELF MASTERY | STOICISM
+## 33. Once You Heal Your Shadow, Nobody Controls You - TOTAL SELF MASTERY | STOICISM
 
 - **Video ID:** `PMTjanyqNm0`
 - **URL:** https://www.youtube.com/watch?v=PMTjanyqNm0
@@ -333,7 +405,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** the pause — when a strong emotion surfaces, stopping before the automatic reaction and asking "what is this showing me about myself", treating a charged, disproportionate, or recurring emotional reaction to someone else as a signal of projection rather than pure objective judgment, direct encounter with a feeling (sitting with the shame, grief, or anger itself) rather than analyzing or narrating it, distinguishing an old, wound-based fear from an accurate present-moment threat before deciding how to act
 - **Important concepts:** the Jungian shadow — the unconscious storehouse of rejected emotions, traits, and impulses, projection — disowned material appearing to originate in other people rather than in oneself, shadow integration as a path to wholeness, reclaiming disowned qualities (ambition, assertiveness, sensitivity) rather than eliminating them, the reaction/response distinction as a practical measure of how manipulable a person is, psychological sovereignty — the Stoic claim that one's inner response is the only fully controllable domain
 
-## 28. Stand Alone. Think Alone. Conquer Alone. - THE STOIC PATH TO GREATNESS | STOICISM
+## 34. Stand Alone. Think Alone. Conquer Alone. - THE STOIC PATH TO GREATNESS | STOICISM
 
 - **Video ID:** `bIrLhwGnggA`
 - **URL:** https://www.youtube.com/watch?v=bIrLhwGnggA
@@ -345,7 +417,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** holding a personal standard even when it costs comfort, popularity, or approval, deliberately limiting exposure to other people's opinions before making a decision, training and working on skills at times and in ways nobody will see or credit, treating pressure and hardship as material that reveals character rather than as pure loss, continuing to work toward a goal before any external sign confirms it is working
 - **Important concepts:** the crowd as a source of comfort and approval that pulls a person toward average thinking, roots versus visible growth — private discipline as the unseen foundation of visible strength, conquering oneself as the precondition for leading, serving, or inspiring anyone else
 
-## 29. This Morning Discipline Will Rewire Your Mind in 2026 | STOICISM
+## 35. The 5 AM Secret That Made a Poor Man Rich in Discipline and Life - POOR TO POWERFUL | STOICISM
+
+- **Video ID:** `6IYxfBkb0nA`
+- **URL:** https://www.youtube.com/watch?v=6IYxfBkb0nA
+- **Upload date:** 2026-02-04
+- **Duration:** 34:56
+- **Source file:** `sources/clean/6IYxfBkb0nA.txt`
+- **Main subjects:** poverty reframed as beginning with "empty mornings" and lost ownership of one's first waking hour, not only a lack of money, the first hour of the day framed as setting a reactive or intentional tone that "carries through" the rest of the day, silence framed as revealing an honest, unperformed self, distinguished from the audience-facing versions worn during the day, private, unwitnessed discipline explicitly framed as building the self-trust needed to perform under later public pressure, physical movement at the start of the day reframed as training the mind's capacity to endure difficulty, not primarily about fitness appearance, identity change ("becoming a 5am riser") framed as the actual mechanism of transformation, more than any single decision or dramatic moment
+- **Themes:** five numbered "secrets," each anchored to one quoted figure, mixing Stoics (Seneca, Marcus Aurelius, Epictetus) with non-Stoics (Hippocrates, James Clear), a recurring "poor man versus powerful man" contrast structure used to frame each of the five secrets, an explicit numerical calculation (2 extra hours a day equals over 30 extra days a year) used to make the cumulative-time claim concrete
+- **Recommended practices:** protecting the first hour after waking specifically for self-directed activity (movement, reading, meditation) before checking a phone or engaging others' demands `[05:13]`, sitting five to fifteen minutes daily in complete silence with no phone or music, treated as separate from and simpler than formal meditation `[12:21]`, noticing when a private commitment to rise or act is honored specifically when no one is watching, and treating that as the actual mechanism building self-trust `[16:25]`, 20 minutes of simple bodyweight movement or a short walk immediately after waking, explicitly not requiring a gym or a full hour `[24:35]`, each morning asking only "can I do this today," rather than committing to a permanent or lifelong change `[29:45]`
+- **Important concepts:** the "builder versus beggar" framing for how a person spends their first waking hour — creating value versus passively consuming others' content or demands `[03:12]`, the claim that private, unwitnessed kept promises specifically build the self-trust that public confidence later depends on `[16:25]`, the systems-over-goals framing, quoted from James Clear — "you do not rise to the level of your goals, you fall to the level of your systems" `[26:39]`
+
+## 36. This Morning Discipline Will Rewire Your Mind in 2026 | STOICISM
 
 - **Video ID:** `n3-vktg7IUU`
 - **URL:** https://www.youtube.com/watch?v=n3-vktg7IUU
@@ -357,7 +441,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** naming three specific, not generic, things you're grateful for before touching a phone, speaking three to five present-tense personal declarations aloud, framed as an honest bridge to a stretch goal rather than a wish, five to ten minutes of intentional body movement immediately after waking, sized to what's sustainable, reading or listening to deliberately chosen material, not news or social media, for the first 30 minutes, five to ten minutes of process-focused visualization, rehearsing the hard moments of the day rather than the finish line, sitting in silence for three minutes with a timer, building duration gradually, prioritizing consistency over length, choosing one intention, "who do I want to be today," after silence and before looking at a calendar or to-do list
 - **Important concepts:** gratitude as cognitive restructuring rather than a passive feel-good emotion, the reticular activating system as the proposed mechanism by which spoken declarations become self-fulfilling attention filters, psychocybernetics and inner self-image as the ceiling on consistent behavior, intentions (a quality of being) versus goals (an external outcome) as two different organizing structures for a day
 
-## 30. You Are Not Free Until You Understand Why You Want What You Want | Baruch Spinoza
+## 37. You Are Not Free Until You Understand Why You Want What You Want | Baruch Spinoza
 
 - **Video ID:** `mAqc3WylMBc`
 - **URL:** https://www.youtube.com/watch?v=mAqc3WylMBc
@@ -373,6 +457,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 ## Index by themes
 
+**a consistent contrast between "fighting"/"willpower" (framed as ineffective or temporary) and understanding/rewiring/building (framed as durable)** — 5 Stoic Steps to KILL LUST Forever (This Actually Works) - CONTROL YOUR MIND | STOICISM (`-Fmp4M2jDcs`)
+
 **a consistent contrast structure throughout — what a practice is commonly misunderstood as, versus what the stoics actually meant by it** — 12 Things Stoics Do Every Morning (That 95% of People Ignore) | STOICISM (`1SNTbsNQxsQ`)
 
 **a consistent hedged-paraphrase pattern — nearly every non-stoic philosopher's view is introduced with "his/her thinking may suggest/indicate" rather than presented as a direct quotation** — 9 Stoic Lessons for DEEP SELF-RESPECT - Rewire Your Mind Every Morning | STOICISM (`1NZ3QXqT2Mw`)
@@ -380,6 +466,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **a long-view-from-old-age framing device used to strip away which pursuits actually survive scrutiny** — 3 Stoic Things Will Truly Matter in the End | STOICISM (`0tMo6lZ8c-I`)
 
 **a recurring "hidden cost" structure — each truth reveals a cost (interest, tax, loan, alarm) the viewer isn't consciously tracking** — 7 Brutal Stoic Truths That Will STOP YOU WASTING TIME FOREVER | STOICISM (`1fycciCAZbU`)
+
+**a recurring "poor man versus powerful man" contrast structure used to frame each of the five secrets** — The 5 AM Secret That Made a Poor Man Rich in Discipline and Life - POOR TO POWERFUL | STOICISM (`6IYxfBkb0nA`)
 
 **a single modern citation, viktor frankl, reused at two separate points in the video** — 10 Stoic Rules to Build STRONGER Mental Resilience – Forged Not Motivated | STOICISM (`oUo1cstfL7A`)
 
@@ -396,6 +484,14 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **adversity explained through nature and craft analogies, carbon under pressure, bamboo roots, forged blades, mountain trees, as evidence that difficulty produces strength rather than only damage** — 8 Stoic Lessons That Teach You HOW TO NEVER QUIT - IT'S NOT OVER UNTIL YOU WIN | STOICISM (`-2BEqAxxBEc`)
 
 **an explicit claim that the twelve practices interlock and reinforce each other rather than function as independent items** — 12 Things Stoics Do Every Morning (That 95% of People Ignore) | STOICISM (`1SNTbsNQxsQ`)
+
+**an explicit numerical calculation (2 extra hours a day equals over 30 extra days a year) used to make the cumulative-time claim concrete** — The 5 AM Secret That Made a Poor Man Rich in Discipline and Life - POOR TO POWERFUL | STOICISM (`6IYxfBkb0nA`)
+
+**an explicit, comparatively rare self-aware hedge acknowledging that one cited body of research (mehrabian's) is commonly oversimplified elsewhere** — 10 Quiet Habits That Make You SILENTLY Attractive - BECOME QUIETLY MAGNETIC | STOICISM (`91OKjLeq2so`)
+
+**an explicit, in-video claim that a specific unnamed-elsewhere channel ("stoic direction") reposts this creator's scripted content as its own, presented as a live example of mistake two** — 5 Silent MISTAKES That DESTROY Your SUCCESS — Listen Every Morning | STOICISM (`5F7WXDMe7YY`)
+
+**an unusually dense, consistently named, and largely verifiable citation set for this channel — robert emmons, matthew walker, alan luks, robert waldinger, fred bryant — alongside epictetus, aristotle, and marcus aurelius** — 7 Daily Habits That Make Life Happier – THE SECRET TO HAPPINESS | STOICISM (`47yXxrDc-MY`)
 
 **ancient philosophical frameworks (stoic, taoist, buddhist) presented as interchangeable tools for the same underlying practice** — 7 Stoic Truths That Make Life WORK OUT In 2026 When You STOP WORRYING | STOICISM (`fYnD9hYHuGU`)
 
@@ -425,6 +521,12 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **distinguishing ordinary psychological unawareness of one's own motives from spinoza's much stronger metaphysical claim about universal necessity** — You Are Not Free Until You Understand Why You Want What You Want | Baruch Spinoza (`mAqc3WylMBc`)
 
+**each habit given both an underlying mechanism and one small, specific, testable version of the practice** — 7 Daily Habits That Make Life Happier – THE SECRET TO HAPPINESS | STOICISM (`47yXxrDc-MY`)
+
+**each habit paired with both a mechanism claim and a small, concrete test or practice to try immediately** — 10 Quiet Habits That Make You SILENTLY Attractive - BECOME QUIETLY MAGNETIC | STOICISM (`91OKjLeq2so`)
+
+**each habit paired with named illustrative examples (body, career, relationships) showing the same abstract mechanism at work** — 5 Habits That Will DESTROY Your Life in 2026 — FIX THEM NOW | STOICISM (`9Ob2Q-_Up7o`)
+
 **each of the ten rules opens with a short reframing tagline (e.g. "silence is not guilt," "ease is not a compass")** — EP 2 - 10 Silent Rules of Mentally Strong People – BECOME MENTALLY UNBREAKABLE | STOIC MENTAL ARMOR (`2ivB04TzwsA`)
 
 **each of the three things anchored to a single supporting quotation — two from marcus aurelius, one each from seneca and epictetus** — 3 Stoic Things Will Truly Matter in the End | STOICISM (`0tMo6lZ8c-I`)
@@ -433,9 +535,21 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **emotional mastery framed as a lifelong practice with no arrival point, not a fixed destination** — 9 Stoic Rules to NEVER Be Controlled by NEGATIVE EMOTIONS Again – MASTER YOUR MIND | STOICISM (`r_7Wh5At8Xw`)
 
+**explicit naming of the two reasons these habits get skipped, that they don't feel urgent day to day and don't look impressive to others** — 7 Daily Habits That Make Life Happier – THE SECRET TO HAPPINESS | STOICISM (`47yXxrDc-MY`)
+
 **explicit warning against reading urgency-based truths as license for anxious, undirected motion** — 7 Brutal Stoic Truths That Will STOP YOU WASTING TIME FOREVER | STOICISM (`1fycciCAZbU`)
 
+**five mistakes, all described as feeling "harmless or even virtuous" while occurring, rather than obviously destructive** — 5 Silent MISTAKES That DESTROY Your SUCCESS — Listen Every Morning | STOICISM (`5F7WXDMe7YY`)
+
+**five numbered "secrets," each anchored to one quoted figure, mixing stoics (seneca, marcus aurelius, epictetus) with non-stoics (hippocrates, james clear)** — The 5 AM Secret That Made a Poor Man Rich in Discipline and Life - POOR TO POWERFUL | STOICISM (`6IYxfBkb0nA`)
+
+**five numbered habits built almost entirely from this channel's recurring stock of stoic quotations, reapplied here to a "new year" framing** — 5 Habits That Will DESTROY Your Life in 2026 — FIX THEM NOW | STOICISM (`9Ob2Q-_Up7o`)
+
+**five sequential, cumulative steps explicitly said to build on each other rather than function independently** — 5 Stoic Steps to KILL LUST Forever (This Actually Works) - CONTROL YOUR MIND | STOICISM (`-Fmp4M2jDcs`)
+
 **forging (something done to you, that changes you) posed against motivation (something you wait to feel) as the video's framing device** — 10 Stoic Rules to Build STRONGER Mental Resilience – Forged Not Motivated | STOICISM (`oUo1cstfL7A`)
+
+**four explicitly numbered "truths," followed by a second, unnumbered set of related claims (becoming vs. achieving, readiness, permission, commitment, belief)** — Before the World Wakes Up – BREAK THE PRISON YOU BUILT (Listen Every Morning) | STOICISM (`3ce0m_ZTPVs`)
 
 **freedom, following epictetus, reframed as a cognitive practice rather than a circumstantial condition** — 10 Powerful Shifts That Happen When You THINK FOR YOURSELF - YOU BECOME DANGEROUS | STOICISM (`om5cjakYqmE`)
 
@@ -461,6 +575,10 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **never quitting framed as a series of small daily decisions rather than one heroic act of will** — 8 Stoic Lessons That Teach You HOW TO NEVER QUIT - IT'S NOT OVER UNTIL YOU WIN | STOICISM (`-2BEqAxxBEc`)
 
+**no named philosopher, historical figure, researcher, or study is cited anywhere in this video — the argument is built entirely through extended narrative analogy and direct address, despite the "stoicism" tag** — Before the World Wakes Up – BREAK THE PRISON YOU BUILT (Listen Every Morning) | STOICISM (`3ce0m_ZTPVs`)
+
+**pairing one stoic figure (marcus aurelius, epictetus) with one non-stoic authority (jung, pascal, doidge, frankl) at each major step** — 5 Stoic Steps to KILL LUST Forever (This Actually Works) - CONTROL YOUR MIND | STOICISM (`-Fmp4M2jDcs`)
+
 **persistence set against the modern expectation of fast, visible results** — 8 Stoic Lessons That Teach You HOW TO NEVER QUIT - IT'S NOT OVER UNTIL YOU WIN | STOICISM (`-2BEqAxxBEc`)
 
 **pop-psychology and neuroscience citations woven around a stoic (mostly marcus aurelius) spine** — This Morning Discipline Will Rewire Your Mind in 2026 | STOICISM (`n3-vktg7IUU`)
@@ -474,6 +592,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **reframing painful or stalled seasons of life as formative rather than as evidence of failure** — 10 Life Lessons LISTEN EVERY MORNING - You Will Never Be The Same | STOICISM (`h9PEdAahN3M`)
 
 **reframing present suffering as evidence of transformation rather than proof of permanent failure** — 7 Stoic Rules — DON’T PANIC, LIFE WILL CHANGE | STOICISM (`Awfltf390uA`)
+
+**repeated instruction to comment specific phrases, used as a structural device throughout** — Before the World Wakes Up – BREAK THE PRISON YOU BUILT (Listen Every Morning) | STOICISM (`3ce0m_ZTPVs`)
 
 **rest reframed as biological necessity rather than an earned reward requiring justification** — How to REBUILD YOURSELF After Emotional Collapse (If You Feel Broken, Watch This) | STOICISM (`c19jjJ1LkFg`)
 
@@ -503,7 +623,11 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **stoic and jungian frameworks combined into a single account of what makes a person "reachable" by others** — Once You Heal Your Shadow, Nobody Controls You - TOTAL SELF MASTERY | STOICISM (`PMTjanyqNm0`)
 
+**stoic quotations reused from material covered elsewhere in this library (e.g., zeno's "conquering himself" line, also used in `2bt67xaz7iy`)** — 5 Silent MISTAKES That DESTROY Your SUCCESS — Listen Every Morning | STOICISM (`5F7WXDMe7YY`)
+
 **stoic sourcing (marcus aurelius, zeno, seneca, epictetus) paired with one modern citation (viktor frankl)** — 7 Stoic Rules to RESET, RESTART, and REFOCUS Your Life in Silence - RETURN UNBREAKABLE | STOICISM (`nJjBQ-0PWLY`)
+
+**ten cumulative, explicitly building habits, several tied to a real named researcher (carl rogers, albert mehrabian, carl jung) alongside stoic figures (epictetus, marcus aurelius, seneca, cato the younger)** — 10 Quiet Habits That Make You SILENTLY Attractive - BECOME QUIETLY MAGNETIC | STOICISM (`91OKjLeq2so`)
 
 **ten discrete stoic-framed "rules" moving from moment-to-moment endurance toward meaning and purpose** — 10 Stoic Rules to Build STRONGER Mental Resilience – Forged Not Motivated | STOICISM (`oUo1cstfL7A`)
 
@@ -530,6 +654,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **the performance of productivity (planning, busyness) contrasted with productivity itself** — 7 Brutal Stoic Truths to Stop Wasting Time (Start BUILDING YOURSELF Today) | STOICISM (`YC3rTJteRVk`)
 
 **the recurring move of distinguishing a passive/felt version of a virtue from an active/practiced version** — 3 Stoic Things Will Truly Matter in the End | STOICISM (`0tMo6lZ8c-I`)
+
+**the same core quotations (marcus aurelius, seneca, epictetus) recur verbatim across multiple videos in this library, this one drawing especially heavily on them** — 5 Habits That Will DESTROY Your Life in 2026 — FIX THEM NOW | STOICISM (`9Ob2Q-_Up7o`)
 
 **the same five stoic figures (marcus aurelius, epictetus, seneca, cato, zeno) cited across lessons, each tied to one specific biographical detail** — LEARN TO BE IMPORTANT - 6 Stoic Lessons To Never Lower Yourself Again | STOICISM (`2bT67XaZ7IY`)
 
