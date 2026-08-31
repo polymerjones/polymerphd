@@ -45,6 +45,19 @@ header{
 }
 .bar{display:flex; align-items:center; gap:.65rem; max-width:52rem; margin:0 auto}
 .mark{width:30px;height:30px;border-radius:7px;flex:none}
+.homebtn{
+  font-family:var(--sans);font-size:1.1rem;text-decoration:none;
+  display:flex;align-items:center;justify-content:center;
+  border:1px solid var(--rule);border-radius:8px;color:var(--muted);
+  min-width:40px;min-height:40px;flex:none;
+}
+.backbtn{
+  background:none;padding:0;
+  display:flex;align-items:center;justify-content:center;
+  border:1px solid var(--rule);border-radius:8px;color:var(--muted);
+  min-width:40px;min-height:40px;flex:none;cursor:pointer;
+}
+.backbtn svg{width:18px;height:18px;fill:currentColor}
 .wordmark{font-weight:600;font-size:1rem;letter-spacing:.01em;white-space:nowrap;
   text-decoration:none;color:inherit;display:inline-block}
 .wordmark small{display:block;font-family:var(--sans);font-size:.63rem;
@@ -117,6 +130,11 @@ th{background:var(--accent-soft);font-family:var(--sans);font-size:.8rem}
 .filters button.on{background:var(--accent);border-color:var(--accent);color:var(--paper)}
 .note{font-family:var(--sans);font-size:.78rem;color:var(--muted);background:var(--accent-soft);
   border-radius:8px;padding:.6rem .8rem;margin:0 0 1.2rem;line-height:1.5}
+.filterfold{display:none}
+.filterfold.open{display:block}
+.foldbtn{display:inline-flex;align-items:center;gap:.3rem;font-family:var(--sans);
+  font-size:.78rem;color:var(--accent);background:none;border:none;cursor:pointer;
+  padding:.3rem 0;margin:0 0 .6rem;min-height:34px}
 .list a{display:block;text-decoration:none;color:inherit;padding:.7rem 0;
   border-bottom:1px solid var(--rule)}
 .list a:hover .t{color:var(--accent)}
@@ -491,6 +509,7 @@ function viewSearch(q){
 
 function viewPractices(){
   const wrap = document.createElement("div");
+  let open = !!(filters.duration || filters.position || filters.equipment || filters.system);
   const render = () => {
     let rows = D.practices;
     if(filters.system)   rows = rows.filter(p => VID[p.video_id][D.meta.primary_facet].includes(filters.system));
@@ -507,14 +526,17 @@ function viewPractices(){
         style="width:100%;max-width:var(--measure);padding:.5rem .7rem;font-size:16px;
         border:1px solid var(--rule);border-radius:8px;
         background:var(--card);color:var(--ink);margin-bottom:.9rem">
-      <div class="filters" id="fd">${chips(DURATIONS, filters.duration)}</div>
-      <div class="filters" id="fp">${chips(POSITIONS, filters.position)}</div>
-      <div class="filters" id="fe">${chips([["none","No equipment"],["required","Needs equipment"]], filters.equipment)}</div>
-      <div class="filters" id="fs">${chips(Object.keys(D.vocab[D.meta.primary_facet]).map(s=>[s,s]), filters.system)}</div>
-      <div class="note"><b>These filters are derived, and partial.</b> Duration, position and
-      equipment are pattern-matched out of the source's own wording — about a third of practices
-      state one plainly. Unmatched practices are not hidden by accident: they simply carry no
-      such claim. The source text is always shown in full on the card.</div>
+      <button type="button" class="foldbtn" id="ffbtn">${open?"Hide filters ▲":"Show filters ▾"}</button>
+      <div class="filterfold${open?" open":""}" id="ff">
+        <div class="filters" id="fd">${chips(DURATIONS, filters.duration)}</div>
+        <div class="filters" id="fp">${chips(POSITIONS, filters.position)}</div>
+        <div class="filters" id="fe">${chips([["none","No equipment"],["required","Needs equipment"]], filters.equipment)}</div>
+        <div class="filters" id="fs">${chips(Object.keys(D.vocab[D.meta.primary_facet]).map(s=>[s,s]), filters.system)}</div>
+        <div class="note"><b>These filters are derived, and partial.</b> Duration, position and
+        equipment are pattern-matched out of the source's own wording — about a third of practices
+        state one plainly. Unmatched practices are not hidden by accident: they simply carry no
+        such claim. The source text is always shown in full on the card.</div>
+      </div>
       <p class="count">${rows.length} practice${rows.length===1?"":"s"}</p>
       ${rows.length ? rows.map(p => {
         const v = VID[p.video_id];
@@ -539,6 +561,7 @@ function viewPractices(){
     wire(wrap.querySelector("#fp"), "position", render);
     wire(wrap.querySelector("#fe"), "equipment", render);
     wire(wrap.querySelector("#fs"), "system", render);
+    wrap.querySelector("#ffbtn").onclick = () => { open = !open; render(); };
     const inp = wrap.querySelector("#pf");
     inp.oninput = () => { const p = inp.selectionStart; render();
       const n = wrap.querySelector("#pf"); n.focus(); n.setSelectionRange(p,p); };
@@ -549,6 +572,7 @@ function viewPractices(){
 
 function viewSymptoms(){
   const wrap = document.createElement("div");
+  let open = !!filters.system;
   const render = () => {
     const term = (wrap.querySelector("#sf")?.value||"").toLowerCase();
     let rows = D.symptoms;
@@ -583,7 +607,10 @@ function viewSymptoms(){
         style="width:100%;max-width:var(--measure);padding:.5rem .7rem;font-size:16px;
         border:1px solid var(--rule);border-radius:8px;background:var(--card);
         color:var(--ink);margin-bottom:.9rem">
-      <div class="filters" id="fs">${chips(Object.keys(D.vocab[D.meta.primary_facet]).map(s=>[s,s]), filters.system)}</div>
+      <button type="button" class="foldbtn" id="ffbtn">${open?"Hide filters ▲":"Show filters ▾"}</button>
+      <div class="filterfold${open?" open":""}" id="ff">
+        <div class="filters" id="fs">${chips(Object.keys(D.vocab[D.meta.primary_facet]).map(s=>[s,s]), filters.system)}</div>
+      </div>
       <p class="count">${rows.length.toLocaleString()} signal${rows.length===1?"":"s"}</p>
       ${ordered.map(([key, items]) => {
         if(key === "__none__")
@@ -600,6 +627,7 @@ function viewSymptoms(){
       }).join("")}`;
 
     wire(wrap.querySelector("#fs"), "system", render);
+    wrap.querySelector("#ffbtn").onclick = () => { open = !open; render(); };
     const inp = wrap.querySelector("#sf");
     inp.oninput = () => { const p = inp.selectionStart; render();
       const n = wrap.querySelector("#sf"); n.focus(); n.setSelectionRange(p,p); };
@@ -610,6 +638,7 @@ function viewSymptoms(){
 
 function viewSources(){
   const wrap = document.createElement("div");
+  let open = !!filters.system;
   const render = () => {
     const term = (wrap.querySelector("#vf")?.value||"").toLowerCase();
     let rows = D.videos;
@@ -626,10 +655,14 @@ function viewSources(){
         style="width:100%;max-width:var(--measure);padding:.5rem .7rem;font-size:16px;
         border:1px solid var(--rule);border-radius:8px;background:var(--card);
         color:var(--ink);margin-bottom:.9rem">
-      <div class="filters" id="fs">${chips(Object.keys(D.vocab[D.meta.primary_facet]).map(s=>[s,s]), filters.system)}</div>
+      <button type="button" class="foldbtn" id="ffbtn">${open?"Hide filters ▲":"Show filters ▾"}</button>
+      <div class="filterfold${open?" open":""}" id="ff">
+        <div class="filters" id="fs">${chips(Object.keys(D.vocab[D.meta.primary_facet]).map(s=>[s,s]), filters.system)}</div>
+      </div>
       <p class="count">${rows.length} source${rows.length===1?"":"s"}</p>
       <div class="list">${rows.map(videoLine).join("")}</div>`;
     wire(wrap.querySelector("#fs"), "system", render);
+    wrap.querySelector("#ffbtn").onclick = () => { open = !open; render(); };
     const inp = wrap.querySelector("#vf");
     inp.oninput = () => { const p = inp.selectionStart; render();
       const n = wrap.querySelector("#vf"); n.focus(); n.setSelectionRange(p,p); };
@@ -794,6 +827,8 @@ function renderNav(activeSuffix){
 
 function showPickerChrome(){
   $("#q").style.display = "none";
+  $("#home").style.display = "none";
+  $("#backnav").style.display = "none";
   $("nav").innerHTML = "";
   $(".wordmark").innerHTML = "Polymer Ph.D.";
   document.title = "Polymer Ph.D.";
@@ -802,6 +837,8 @@ function showPickerChrome(){
 function showLibraryChrome(){
   const m = D.meta;
   $("#q").style.display = "";
+  $("#home").style.display = "";
+  $("#backnav").style.display = "";
   $("#q").placeholder = `Search ${D.stats.videos} sources…`;
   $(".wordmark").innerHTML = `Polymer Ph.D.<small>${esc(m.title)}</small>`;
   document.title = `${m.title} · Polymer Ph.D.`;
@@ -859,6 +896,10 @@ async function route(){
   document.body.innerHTML = `
     <header>
       <div class="bar">
+        <a class="homebtn" id="home" href="#/" title="All libraries">🏠</a>
+        <button class="backbtn" id="backnav" title="Back">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20z"/></svg>
+        </button>
         <img class="mark" id="mark" alt="About Polymer Ph.D." title="About"
              src="data:image/png;base64,__ICON__">
         <a class="wordmark" href="#/">Polymer Ph.D.</a>
@@ -884,6 +925,7 @@ async function route(){
     if(location.hash !== home) location.hash = home; else route(); } };
 
   $("#mark").onclick = showAbout;
+  $("#backnav").onclick = () => history.back();
 
   $("#theme").onclick = () => {
     const cur = document.documentElement.getAttribute("data-theme");
