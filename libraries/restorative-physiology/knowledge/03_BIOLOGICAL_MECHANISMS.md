@@ -237,7 +237,7 @@ The same wavelengths also trigger local **mitochondrial melatonin** synthesis �
 
 ## Mitochondrial biogenesis — the window that builds new capacity, not just repairs existing capacity
 
-Everything above concerns **quality control**: keeping existing mitochondria running and recycling the ones that fail. `e28MeRe_axE` describes a separate process — **building new ones** — and it is gated by a much narrower condition than exercise in general.
+Everything above concerns **quality control**: keeping existing mitochondria running and recycling the ones that fail. **Building new ones** is a separate process, gated by a much narrower condition than exercise in general.
 
 **The population itself declines with age** — roughly 10% per decade in cross-sectional comparisons of young versus old muscle, though longitudinal tracking of the same active people over years shows a gentler slide, suggesting much of the apparent age effect is really the accumulated cost of moving less. Population is measurable by proxy: **citrate synthase** activity in a small muscle sample tracks mitochondrial number reliably enough to serve as a bench measurement.
 
