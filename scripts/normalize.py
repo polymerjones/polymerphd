@@ -142,8 +142,15 @@ def main():
         sys.exit("No .info.json files found — run fetch_transcripts.sh first.")
 
     existing = lib.load_manifest()
-    # Keep any non-youtube sources (pdf/website/text) already in the manifest untouched.
-    other_sources = [s for s in existing.get("sources", []) if s.get("kind") != "youtube"]
+    # Keep any non-youtube sources (pdf/website/text) untouched, and also any
+    # youtube-kind source that was transcribed locally (add_video_whisper.py)
+    # rather than from a caption file this script would find in raw/ — those
+    # have no caption track to rediscover here and would otherwise silently
+    # vanish from the manifest every time this script re-runs for the library.
+    other_sources = [
+        s for s in existing.get("sources", [])
+        if s.get("kind") != "youtube" or s.get("transcript_source", "").startswith("whisper")
+    ]
 
     sources = []
     skipped = []

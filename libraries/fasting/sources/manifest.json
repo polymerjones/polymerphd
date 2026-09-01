@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "id": "fasting-can-save-your-life-by-herbert-m-shelton",
+      "kind": "epub",
+      "title": "Fasting Can Save Your Life By Herbert M. Shelton",
+      "author": "Herbert M. Shelton",
+      "clean_file": "clean/fasting-can-save-your-life-by-herbert-m-shelton.txt",
+      "word_count": 79602,
+      "retrieved_date": "2026-08-31",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1779
+      },
+      "evidence": {
+        "type": "textbook",
+        "level": "moderate",
+        "year": 1964
+      }
+    }
+  ]
+}

@@ -3,6 +3,12 @@
 # each library's sources/clean/ is the provenance record.
 libraries/*/sources/raw/
 
+# Purchased/downloaded source books (PDF, EPUB, etc.) staged for add_pdf.py /
+# add_epub.py before ingestion. Never committed — these are often copyrighted
+# works the user owns a personal copy of; only the cited, paraphrased note
+# and the library's own clean/manifest provenance record belong in git.
+/ebook/
+
 # macOS
 .DS_Store
 

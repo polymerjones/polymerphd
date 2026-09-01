@@ -1,0 +1,52 @@
+{
+  "slug": "fasting",
+  "title": "Fasting",
+  "subtitle": "Protocols, physiology, and what the evidence actually says",
+  "lede": "A reference to {videos} sources on fasting — protocols, physiological effects, and contraindications.",
+  "about_paragraphs": [
+    "A reference built from {videos} sources on fasting — books, studies, and video material — synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a specific point in a specific source — a page, a paragraph, or a video timestamp, depending on what kind of source made the claim. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["subjects", "protocols", "concerns", "concepts"],
+  "primary_facet": "protocols",
+  "controlled_facets": {},
+  "universal_sections": [
+    "Central claim",
+    "Symptoms and body signals addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+
+  "glossary_file": "07_PLAIN_ENGLISH_GLOSSARY.md",
+  "curated_facts_file": null,
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "subjects": "Main subjects",
+    "protocols": "Fasting protocols",
+    "concerns": "Concerns & contraindications",
+    "concepts": "Important concepts"
+  },
+  "catalog_description": "Every source ingested into this knowledge package, with the subjects, protocols, concerns, and concepts each one covers.",
+  "catalog_unit_label": "Sources",
+  "catalog_id_label": "Source ID",
+
+  "attribution": null,
+
+  "custom_gpt": {
+    "enabled": true,
+    "instructions_file": "PASTE_INTO_GPT_INSTRUCTIONS.txt",
+    "file_limit": 20
+  },
+
+  "evidence_types": ["expert_commentary", "textbook", "peer_reviewed_study", "systematic_review",
+    "rct", "cohort_study", "case_report", "patient_experience", "other"],
+  "evidence_levels": ["high", "moderate", "low", "anecdotal"],
+
+  "derived_practice_facets": false
+}

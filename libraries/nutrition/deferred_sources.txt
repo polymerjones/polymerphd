@@ -1,0 +1,1 @@
+LAw6ri_vXIg  # full audiobook (Herbert M. Shelton, 'Fasting Can Save Your Life'), uploaded by an audiobook-reposting channel, not the source's own commentary — deferred in favor of citing the real book via add_pdf.py if a legitimate copy is available
