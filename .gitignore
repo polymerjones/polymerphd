@@ -25,3 +25,7 @@ ios/**/xcuserdata/
 
 # Transient fetch batch, rewritten by add_videos.py on every run.
 libraries/*/ingest_state/video_ids_added.txt
+
+# Ad-hoc analysis output from editor sessions (e.g. VS Code) — not part of
+# the published product, shouldn't get swept into a publish.sh commit.
+/repo-analysis.md
