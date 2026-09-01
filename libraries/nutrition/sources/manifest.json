@@ -188,6 +188,24 @@
       }
     },
     {
+      "id": "r4XBZSvBm2c",
+      "kind": "youtube",
+      "title": "Clavicular and Paul Saladino FULL Live Stream",
+      "url": "https://www.youtube.com/watch?v=r4XBZSvBm2c",
+      "upload_date": "2026-07-29",
+      "duration_seconds": 13721,
+      "duration": "228:41",
+      "word_count": 38966,
+      "clean_file": "clean/r4XBZSvBm2c.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 13721
+      }
+    },
+    {
       "id": "2jXnCNs9etE",
       "kind": "youtube",
       "title": "Cyanotoxins in algae and seaweed- why they are not beneficial for our health",
