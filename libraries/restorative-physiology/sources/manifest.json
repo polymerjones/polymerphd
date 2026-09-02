@@ -1497,6 +1497,23 @@
       }
     },
     {
+      "id": "jaUCXKPUA-s",
+      "kind": "youtube",
+      "title": "What 60 Seconds of SHAKING Does to Your Stress Hormones",
+      "url": "https://www.youtube.com/watch?v=jaUCXKPUA-s",
+      "upload_date": "2026-08-23",
+      "duration_seconds": 1391,
+      "duration": "23:11",
+      "word_count": 3695,
+      "clean_file": "clean/jaUCXKPUA-s.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1391
+      }
+    },
+    {
       "id": "hxc0opwYlyA",
       "kind": "youtube",
       "title": "What 60 Seconds of SMILING Does to Your Brain — Even When You're Faking It",
@@ -2109,6 +2126,23 @@
       }
     },
     {
+      "id": "t3mQsBMthhE",
+      "kind": "youtube",
+      "title": "What Happens to YOUR BONES When You Stand on One Leg Every Day?",
+      "url": "https://www.youtube.com/watch?v=t3mQsBMthhE",
+      "upload_date": "2026-08-24",
+      "duration_seconds": 1527,
+      "duration": "25:27",
+      "word_count": 3998,
+      "clean_file": "clean/t3mQsBMthhE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1527
+      }
+    },
+    {
       "id": "ARiXnXyTr18",
       "kind": "youtube",
       "title": "What Happens to YOUR Brain Every Time You Scratch an Itch",
@@ -2211,6 +2245,23 @@
       }
     },
     {
+      "id": "Ol_BjFRCH-c",
+      "kind": "youtube",
+      "title": "What Happens to YOUR CELLS When You Go 12 Hours Without Food?",
+      "url": "https://www.youtube.com/watch?v=Ol_BjFRCH-c",
+      "upload_date": "2026-09-01",
+      "duration_seconds": 1661,
+      "duration": "27:41",
+      "word_count": 4172,
+      "clean_file": "clean/Ol_BjFRCH-c.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1661
+      }
+    },
+    {
       "id": "I45ltvsK4jI",
       "kind": "youtube",
       "title": "What Happens to YOUR FOOT When This One Muscle Stops Working",
@@ -2276,6 +2327,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1711
+      }
+    },
+    {
+      "id": "VPSeyGBvG68",
+      "kind": "youtube",
+      "title": "What Happens to YOUR MUSCLES When You Walk Backwards After 60?",
+      "url": "https://www.youtube.com/watch?v=VPSeyGBvG68",
+      "upload_date": "2026-08-26",
+      "duration_seconds": 1505,
+      "duration": "25:05",
+      "word_count": 4109,
+      "clean_file": "clean/VPSeyGBvG68.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1505
       }
     },
     {
@@ -3367,6 +3435,23 @@
       }
     },
     {
+      "id": "kb6RxORFqO0",
+      "kind": "youtube",
+      "title": "Why Sleeping Too Much May Change Your Body After 60",
+      "url": "https://www.youtube.com/watch?v=kb6RxORFqO0",
+      "upload_date": "2026-08-31",
+      "duration_seconds": 1421,
+      "duration": "23:41",
+      "word_count": 3806,
+      "clean_file": "clean/kb6RxORFqO0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1421
+      }
+    },
+    {
       "id": "KG0ru4kRlsw",
       "kind": "youtube",
       "title": "Why Some People Need Silence — What Neuroscience Found About Introverts",
@@ -3398,6 +3483,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1469
+      }
+    },
+    {
+      "id": "Tb6jrfTewtw",
+      "kind": "youtube",
+      "title": "Why Stretching After Waking FIXES What Sleep Does to Your Muscles",
+      "url": "https://www.youtube.com/watch?v=Tb6jrfTewtw",
+      "upload_date": "2026-09-02",
+      "duration_seconds": 1249,
+      "duration": "20:49",
+      "word_count": 3268,
+      "clean_file": "clean/Tb6jrfTewtw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1249
       }
     },
     {
@@ -3979,6 +4081,23 @@
       }
     },
     {
+      "id": "X0UEkdOvDFE",
+      "kind": "youtube",
+      "title": "Why Your Body Needs This One Movement More After 60",
+      "url": "https://www.youtube.com/watch?v=X0UEkdOvDFE",
+      "upload_date": "2026-08-30",
+      "duration_seconds": 1146,
+      "duration": "19:06",
+      "word_count": 3145,
+      "clean_file": "clean/X0UEkdOvDFE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1146
+      }
+    },
+    {
       "id": "9-J4kMqOvWA",
       "kind": "youtube",
       "title": "Why YOUR Body Shuts Down After Every Single Meal",
@@ -4234,6 +4353,23 @@
       }
     },
     {
+      "id": "zyEwO7jhPhw",
+      "kind": "youtube",
+      "title": "Why Your LEGS Are the First Place Aging Reveals Itself",
+      "url": "https://www.youtube.com/watch?v=zyEwO7jhPhw",
+      "upload_date": "2026-08-25",
+      "duration_seconds": 1546,
+      "duration": "25:46",
+      "word_count": 4248,
+      "clean_file": "clean/zyEwO7jhPhw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1546
+      }
+    },
+    {
       "id": "drAIEKNP0Tw",
       "kind": "youtube",
       "title": "Why YOUR Memory Works Better With a Pen Than a Screen",
@@ -4265,6 +4401,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1433
+      }
+    },
+    {
+      "id": "dcjqrZxElIU",
+      "kind": "youtube",
+      "title": "Why Your MUSCLES Age Faster When You Stop Getting Off the Floor",
+      "url": "https://www.youtube.com/watch?v=dcjqrZxElIU",
+      "upload_date": "2026-08-26",
+      "duration_seconds": 1408,
+      "duration": "23:28",
+      "word_count": 3824,
+      "clean_file": "clean/dcjqrZxElIU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1408
       }
     },
     {

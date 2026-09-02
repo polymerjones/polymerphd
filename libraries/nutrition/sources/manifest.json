@@ -1,6 +1,24 @@
 {
   "sources": [
     {
+      "id": "r4XBZSvBm2c",
+      "kind": "youtube",
+      "title": "Clavicular and Paul Saladino FULL Live Stream",
+      "url": "https://www.youtube.com/watch?v=r4XBZSvBm2c",
+      "upload_date": "2026-07-29",
+      "duration_seconds": 13721,
+      "duration": "228:41",
+      "word_count": 38966,
+      "clean_file": "clean/r4XBZSvBm2c.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 13721
+      }
+    },
+    {
       "id": "MyZekF0Xgck",
       "kind": "youtube",
       "title": "4 Ways to Reduce Microplastics in Your Body",
@@ -185,24 +203,6 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1247
-      }
-    },
-    {
-      "id": "r4XBZSvBm2c",
-      "kind": "youtube",
-      "title": "Clavicular and Paul Saladino FULL Live Stream",
-      "url": "https://www.youtube.com/watch?v=r4XBZSvBm2c",
-      "upload_date": "2026-07-29",
-      "duration_seconds": 13721,
-      "duration": "228:41",
-      "word_count": 38966,
-      "clean_file": "clean/r4XBZSvBm2c.txt",
-      "transcript_source": "whisper-local:turbo",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 13721
       }
     },
     {
@@ -614,6 +614,23 @@
       }
     },
     {
+      "id": "c0r7yEixoVI",
+      "kind": "youtube",
+      "title": "Oatmeal is BS! Here's why 👊",
+      "url": "https://www.youtube.com/watch?v=c0r7yEixoVI",
+      "upload_date": "2022-07-07",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 184,
+      "clean_file": "clean/c0r7yEixoVI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
+      }
+    },
+    {
       "id": "9boE1IOF_M4",
       "kind": "youtube",
       "title": "Regeneratively raised cattle are carbon negative",
@@ -971,6 +988,23 @@
       }
     },
     {
+      "id": "XAcCJ5PHMHs",
+      "kind": "youtube",
+      "title": "This Invisible Light Restores Your Mitochondria (Science-Backed)",
+      "url": "https://www.youtube.com/watch?v=XAcCJ5PHMHs",
+      "upload_date": "2026-08-07",
+      "duration_seconds": 1559,
+      "duration": "25:59",
+      "word_count": 5059,
+      "clean_file": "clean/XAcCJ5PHMHs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1559
+      }
+    },
+    {
       "id": "c1kyubykrvA",
       "kind": "youtube",
       "title": "This Is How Canada Convinced You To Eat Engine Lubricant",
@@ -1192,5 +1226,14 @@
       }
     }
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "id": "r4XBZSvBm2c",
+      "title": "Clavicular and Paul Saladino FULL Live Stream",
+      "url": "https://www.youtube.com/watch?v=r4XBZSvBm2c",
+      "duration_seconds": 13721,
+      "duration": "228:41",
+      "reason": "no captions"
+    }
+  ]
 }

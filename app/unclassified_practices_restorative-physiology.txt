@@ -193,6 +193,7 @@ NG7MafPovIw::protect sleep to lower inflammatory markers
 OUln7rLXg3M::if using OMAD, build the meal around protein and fat
 OUln7rLXg3M::place the meal between 11am and 1pm
 OUln7rLXg3M::three protein feedings if muscle is the priority
+Ol_BjFRCH-c::keeping a roughly 12-hour daily eating window (e.g., a first meal near 8am and a last meal by 8pm) so an ordinary overnight stretch reliably crosses the 12-hour fasted threshold
 P2o1OdrXJAQ::arrive well slept, well hydrated, with low inflammation
 P2o1OdrXJAQ::ask the dose before any scan
 P2o1OdrXJAQ::ask whether the image will change management
@@ -231,6 +232,7 @@ T8Jzg_lZ-fo::resistance training throughout the deficit
 T8Jzg_lZ-fo::shift calories toward protein at the same total
 TIfYtzKSpXM::reclassifying a grievance from active threat to historical fact
 TIfYtzKSpXM::shifting the story so the grievance is no longer the organizing principle
+Tb6jrfTewtw::a roughly 5-minute morning sequence — cat-cow (spinal flexion/extension on hands and knees), a full-body reach-and-lengthen with a brief isometric hold through fingertips and toes before releasing, then hip openers (a low lunge, a gentle figure-4 stretch) — paired throughout with slow nasal breathing, exhales longer than inhales
 UDN4JHYlq7o::bedroom at 18-19C
 UDN4JHYlq7o::bright light in the evening between 7 and 9pm
 UDN4JHYlq7o::low-dose physiological melatonin
@@ -316,6 +318,7 @@ d9PWCrjX2sA::graduated compression stockings worn through the day
 d9PWCrjX2sA::move diuretic dosing to the morning (with the prescriber)
 d9PWCrjX2sA::reduce sodium
 dJ3tdZF5-t0::closing the daily feeding window
+dcjqrZxElIU::prioritizing frequency over intensity — a single deep, unassisted floor transition most days, rather than an occasional maximal attempt
 dfwYYWTyGY4::lateral taps for the frontal plane
 dfwYYWTyGY4::single-leg stance as the platform, not the training
 dfwYYWTyGY4::train each of the four directions independently
@@ -378,6 +381,8 @@ kHe7AvbKoW4::practise extended-exhale breathing to train vagal tone
 kKJTsh-ofPY::cut off caffeine by early afternoon
 kKJTsh-ofPY::run a two-week afternoon-coffee comparison
 kKJTsh-ofPY::water before coffee
+kb6RxORFqO0::bringing persistent fatigue and long sleep duration to a doctor as a symptom worth investigating, rather than attributing it to age by default
+kb6RxORFqO0::consistent sleep and wake times, including on weekends
 kyTZl0KEXw8::stepping outside during light rain on dry ground
 lJNfShSEta8::pair soleus push-ups with the post-meal glucose window
 lJNfShSEta8::use during television, reading, conversation, long flights
@@ -499,3 +504,4 @@ zEQf8XkI5eU::keep sleep timing consistent across weekends
 zEQf8XkI5eU::reduce screen light in the final hours
 zEQf8XkI5eU::sleep in the roughly 10pm to midnight window
 zEQf8XkI5eU::socks or warm feet to open the thermal gate
+zyEwO7jhPhw::slow, controlled eccentric calf loading — lowering the heel from a raised position under control rather than letting gravity do it — to rebuild the venous-return "second heart"
