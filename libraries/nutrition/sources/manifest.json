@@ -529,6 +529,23 @@
       }
     },
     {
+      "id": "cpKnsRdbx_k",
+      "kind": "youtube",
+      "title": "I Went From 500 to 857 Testosterone at 48 (5 Simple Tips)",
+      "url": "https://www.youtube.com/watch?v=cpKnsRdbx_k",
+      "upload_date": "2025-12-19",
+      "duration_seconds": 1354,
+      "duration": "22:34",
+      "word_count": 4935,
+      "clean_file": "clean/cpKnsRdbx_k.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1354
+      }
+    },
+    {
       "id": "A0D0zCk-y4w",
       "kind": "youtube",
       "title": "Is Alkaline water/Structured water BS?",
