@@ -7,7 +7,7 @@
 Every source ingested into this knowledge package, with the Main subjects, Foods & products, Concerns, and Important concepts each one covers.
 
 **Video sources from:** Paul Saladino MD — https://www.youtube.com/@Paulsaladinomd  
-**Sources catalogued:** 70
+**Sources catalogued:** 72
 
 Entries are alphabetical by title. Use the source ID to trace any claim in the other files back to its source.
 
@@ -445,7 +445,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** artificial sweeteners (sucralose) increasing post-consumption hunger, synthetic food dyes (yellow 5, red 3, yellow 6, blue 1), titanium dioxide and carrageenan as gut-unfriendly additives, front-of-package claims (gluten-free, 20 grams of protein) masking a long, poor-quality ingredient list
 - **Important concepts:** protein leverage hypothesis, satiety as a function of daily protein intake relative to goal body weight
 
-## 37. Regeneratively raised cattle are carbon negative
+## 37. Oatmeal is BS! Here's why 👊
+
+- **Source ID:** `c0r7yEixoVI`
+- **URL:** https://www.youtube.com/watch?v=c0r7yEixoVI
+- **Upload date:** 2022-07-07
+- **Duration:** 00:58
+- **Source file:** `sources/clean/c0r7yEixoVI.txt`
+- **Main subjects:** a side-by-side breakfast comparison — a bowl of oatmeal versus the host's own organ meat/fruit/honey/raw-dairy plate, oats framed as a grain (a seed), and seeds as chemically defended plant tissue
+- **Foods & products:** oats/oatmeal, the host's own breakfast — organ meat, meat, fruit, honey, raw dairy, an unnamed "energy drink," dismissed in passing
+- **Concerns:** phytic acid in oats, described as chelating minerals and blocking their absorption, oats' digestive enzyme inhibitors, named on-screen as "DPP4 inhibitors"
+- **Important concepts:** the "plant defense chemical" framing — seeds carry anti-nutrients because the plant needs to protect its own reproductive material
+
+## 38. Regeneratively raised cattle are carbon negative
 
 - **Source ID:** `9boE1IOF_M4`
 - **URL:** https://www.youtube.com/watch?v=9boE1IOF_M4
@@ -457,7 +469,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** monocrop agriculture stripping soil organic matter and requiring 50+ years of fallow recovery, topsoil runoff and flooding from low-organic-matter farmland
 - **Important concepts:** life cycle assessment (LCA) of grazing emissions, soil organic matter as a rainwater-holding capacity, the Conservation Reserve Program (CRP) as scalable grazing land
 
-## 38. Revealing Shake Shack Secret Ingredients
+## 39. Revealing Shake Shack Secret Ingredients
 
 - **Source ID:** `FFwAgyTDSH8`
 - **URL:** https://www.youtube.com/watch?v=FFwAgyTDSH8
@@ -469,7 +481,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils in frying and dough, preservatives (TBHQ, calcium propionate), emulsifiers and anti-foaming agents (polysorbate 80, DATEM, dimethyl polysiloxane), hidden MSG via "autolyzed yeast extract", undisclosed "natural flavors", gums (guar, xanthan) and carrageenan, BPA and other endocrine disruptors on thermal-paper receipts
 - **Important concepts:** ingredient-count comparison as a proxy for processing level, the "natural flavors" labeling loophole, antibiotic-free meat as a narrower claim than "clean" or "premium"
 
-## 39. Stop eating soy and beans (Genistein + Glyphosate)
+## 40. Stop eating soy and beans (Genistein + Glyphosate)
 
 - **Source ID:** `MMvzIVSS4wI`
 - **URL:** https://www.youtube.com/watch?v=MMvzIVSS4wI
@@ -481,7 +493,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** glyphosate as an endocrine disruptor despite the EPA's contrary classification, genistein's effects on male fertility and reproduction, non-Hodgkin lymphoma risk from pesticide exposure
 - **Important concepts:** estrogen receptor alpha/beta expression ratio, estrogen response element transcription, isoflavonoid, additive effect between two compounds on the same receptor pathway
 
-## 40. The Best Olive Oils Money Can Buy
+## 41. The Best Olive Oils Money Can Buy
 
 - **Source ID:** `d4mYLeFxONQ`
 - **URL:** https://www.youtube.com/watch?v=d4mYLeFxONQ
@@ -493,7 +505,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** rancidity and oxidation of olive oil over time, adulteration with seed oils, lack of a certificate of analysis for sourcing/verification, PREDIMED's control group having used refined, non-extra-virgin olive oil
 - **Important concepts:** the PREDIMED study, olive oil polyphenols (oleocanthol, hydroxytyrosol, oleuropein), certificate-of-analysis metrics (acidity, peroxide value, K index, delta K, K232/K270), first cold pressing and single-source sourcing, oleic acid versus polyphenols as the likely source of olive oil's benefit
 
-## 41. The Best Way to Stay Hydrated (Not Water)
+## 42. The Best Way to Stay Hydrated (Not Water)
 
 - **Source ID:** `RAz7L3rD9_M`
 - **URL:** https://www.youtube.com/watch?v=RAz7L3rD9_M
@@ -505,7 +517,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluoride, pesticides, pharmaceuticals, and chlorine derivatives in tap water, overhydration/hyponatremia from excessive plain water intake, heavy metals in common sea salts
 - **Important concepts:** hydrating versus dehydrating fluids (milk/orange juice versus coffee/alcohol), the Galpin equation (body weight in pounds divided by 30 = ounces per 15–20 minutes of exercise), hyponatremia from water intake outpacing electrolyte intake, urine specific gravity as a hydration marker
 
-## 42. The dangers of additives
+## 43. The dangers of additives
 
 - **Source ID:** `MvP689Rmt14`
 - **URL:** https://www.youtube.com/watch?v=MvP689Rmt14
@@ -517,7 +529,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** vegetable rennet and soy residue in cheese, especially for autoimmune or soy-sensitive people, silicon dioxide as an undisclosed anti-caking agent, titanium dioxide and talc as caking agents in supplements and pharmaceuticals, artificial food colorings linked to hyperactivity/ADHD in children, citric acid and vitamin C as contaminated, industrially-produced additives, undisclosed fillers and mislabeled ingredients under an emergency FDA/USDA exemption
 - **Important concepts:** excipients as inactive-seeming ingredients with real physiological effects, the "active ingredient plus total amount per serving" label-reading check, citrate synthase and fatty acid synthesis in cancer cell metabolism
 
-## 43. The dangers of high fructose corn syrup
+## 44. The dangers of high fructose corn syrup
 
 - **Source ID:** `HK9_KYWli5I`
 - **URL:** https://www.youtube.com/watch?v=HK9_KYWli5I
@@ -529,7 +541,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** underlabeled carbohydrate/calorie content in HFCS-sweetened beverages, mercury contamination from a historical HFCS refining step (chlor-alkali process), HFCS's effect on weight gain and gut microbiota in animal studies, independent of calories
 - **Important concepts:** oligosaccharide underestimation via acid hydrolysis testing, the distinction between processed sugars and whole/less-refined sugar sources, HFCS 42 versus HFCS 55 (fructose fraction)
 
-## 44. The dangers of pesticides
+## 45. The dangers of pesticides
 
 - **Source ID:** `e9UU45pt4Q8`
 - **URL:** https://www.youtube.com/watch?v=e9UU45pt4Q8
@@ -541,7 +553,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** synthetic pesticide additives ("adjuvants") making formulations more toxic than a single active ingredient, plant-made defense chemicals as an under-studied exposure in the human diet, vegetables as a possible autoimmune trigger in some people
 - **Important concepts:** adjuvant additives to herbicide formulations (transcribed "adant"), natural plant pesticides versus sprayed synthetic pesticides, glucosinolates as an example class of plant defense chemical
 
-## 45. The dangers of PFAS in fish
+## 46. The dangers of PFAS in fish
 
 - **Source ID:** `Ry4G6ljw5EA`
 - **URL:** https://www.youtube.com/watch?v=Ry4G6ljw5EA
@@ -553,7 +565,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS exposure from fish and shellfish consumption, PFAS from dental floss, sparkling water, plastic take-out containers, and disposable cups, thyroid disease and dyslipidemia associated with PFAS exposure, BPA, BPS, and BPE as xenoestrogens beyond PFAS
 - **Important concepts:** PFAS as an umbrella term (PFOA, PFOS, PFHxS, and other named compounds), PFAS environmental and bodily persistence ("forever chemicals"), observational correlation versus confounding (fish intake correlating with other plastic use)
 
-## 46. The Dark Side of White Meat
+## 47. The Dark Side of White Meat
 
 - **Source ID:** `xt3ZOwgj_5Y`
 - **URL:** https://www.youtube.com/watch?v=xt3ZOwgj_5Y
@@ -565,7 +577,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid (omega-6) accumulation from corn-and-soy-fed chicken and pigs, rising linoleic acid in egg yolks from feed
 - **Important concepts:** monogastric versus ruminant fat metabolism, evolutionarily inappropriate intake framed as a cumulative, multi-source exposure, proton leak and cellular energy transformation
 
-## 47. The Deadly Red Meat Disease Taking Over America
+## 48. The Deadly Red Meat Disease Taking Over America
 
 - **Source ID:** `4eHW8mP9RJo`
 - **URL:** https://www.youtube.com/watch?v=4eHW8mP9RJo
@@ -577,7 +589,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** alpha-gal syndrome (galactose-alpha-1,3-galactose allergy) from lone star tick bites, low physician awareness and misdiagnosis (often as IBS) of alpha-gal syndrome, DEET and permethrin tick repellents, with unclear long-term organ and cancer risk
 - **Important concepts:** IgE-mediated delayed food allergy, the vascular autonomic signal (VAS), per Dr. Nogier's auricular medicine framework, O-ring muscle testing as a diagnostic device in this therapy
 
-## 48. The Disturbing History of Corn Flakes
+## 49. The Disturbing History of Corn Flakes
 
 - **Source ID:** `PmObqSKkX1w`
 - **URL:** https://www.youtube.com/watch?v=PmObqSKkX1w
@@ -589,7 +601,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** synthetic food dyes (red 40, yellow 5, yellow 6, blue 1) permitted in the US but not Canada, BHT as a preservative Kellogg's is being petitioned to remove, Kellogg's selling naturally-colored cereal (paprika, turmeric) abroad while selling dye-colored cereal domestically
 - **Important concepts:** food dye addictiveness tied to evolutionary "fruit" color cues, the historical link between Kellogg's corn flakes and Seventh-day Adventist anti-libido dietary doctrine
 
-## 49. The history and DANGERS of seed oils
+## 50. The history and DANGERS of seed oils
 
 - **Source ID:** `lzazaZLnWNA`
 - **URL:** https://www.youtube.com/watch?v=lzazaZLnWNA
@@ -601,7 +613,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the marketing of seed oils as a cheaper, non-spoiling animal-fat substitute, mainstream medicine treating LDL cholesterol as sufficient explanation for heart disease, correlation between seed-oil introduction and rising chronic illness (obesity, cancer, heart disease, diabetes)
 - **Important concepts:** the cholesterol hypothesis and its mid-20th-century origin, LDL versus ApoB-containing lipoproteins as measures used to indict animal fat, correlation versus causation in population-level dietary history
 
-## 50. The infant formula/seed oil scandal
+## 51. The infant formula/seed oil scandal
 
 - **Source ID:** `7eNXCx4EUjQ`
 - **URL:** https://www.youtube.com/watch?v=7eNXCx4EUjQ
@@ -613,7 +625,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** soybean- and corn-industry lobbying shaping formula regulation, fraudulent, industry-funded research cited to Congress, rising linoleic acid in breast milk tracking rising seed-oil consumption, formula-industry PR allegedly discouraging breastfeeding, a black market for imported formula, and a US crackdown on it
 - **Important concepts:** linoleic acid as an 18-carbon polyunsaturated fatty acid concentrated in seed oils, formula composition benchmarked against (a possibly unhealthy) breast-milk population, C-section rates as a downstream effect of "medical incentives"
 
-## 51. The problems with plant based meat
+## 52. The problems with plant based meat
 
 - **Source ID:** `CfmMPvcTLAg`
 - **URL:** https://www.youtube.com/watch?v=CfmMPvcTLAg
@@ -625,7 +637,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** long, synthetic-heavy ingredient lists in plant-based meat, false or misleading "better for you"/"better for the planet" label claims, seed oils, carrageenan, and phytic acid in plant-based milk, CAFO-raised meat and monocropping both named as their own separate problems
 - **Important concepts:** unconscious versus conscious response to food cues (the EEG claim), synthetic fortification versus food that "comes equipped" with its own nutrients, intuitive eating as conditional on a baseline of metabolic health
 
-## 52. The secret benefits of Grass-Fed BEEF TALLOW
+## 53. The secret benefits of Grass-Fed BEEF TALLOW
 
 - **Source ID:** `-Wn32snt0YY`
 - **URL:** https://www.youtube.com/watch?v=-Wn32snt0YY
@@ -637,7 +649,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** oxidized LDL from cooking with unstable (unsaturated) fats, glyphosate contamination in grain-fed cattle's fat
 - **Important concepts:** peroxidation index versus smoke point as the relevant stability measure for a cooking fat, vitamin K2 forms (MK-4 versus MK-7) and their food sources, conjugated linoleic acid (CLA) versus regular linoleic acid, odd-chain fatty acids (C15, C17) as blood markers associated with health outcomes
 
-## 53. The secret ingredient in corn flakes is a religious agenda. Revisionist history with Gary Fettke, MD
+## 54. The secret ingredient in corn flakes is a religious agenda. Revisionist history with Gary Fettke, MD
 
 - **Source ID:** `pvjeI77-7bA`
 - **URL:** https://www.youtube.com/watch?v=pvjeI77-7bA
@@ -649,7 +661,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a dietitian-driven regulatory campaign against a doctor recommending low-carb eating, undisclosed conflicts of interest (a vegan/Adventist reviewer on a US dietary guidelines panel), food-industry funding (Coca-Cola, ILSI) shaping "lifestyle medicine" and medical-school curricula, poor sperm quality reported in a vegan/vegetarian population in a "blue zone"
 - **Important concepts:** the polyol pathway (glucose converted to fructose under insulin resistance), the "perfect storm" of sugar, refined carbohydrate, and polyunsaturated (seed) oils, generational education (uncritically inherited textbook claims), the Garden of Eden diet as a religious rather than health-based dietary ideal
 
-## 54. The Side of Seed Oils Nobody Talks About
+## 55. The Side of Seed Oils Nobody Talks About
 
 - **Source ID:** `DqHqBWCW3Hs`
 - **URL:** https://www.youtube.com/watch?v=DqHqBWCW3Hs
@@ -661,7 +673,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** benzene and other solvent residues from extraction, phthalates migrating from polyethylene packaging, heavy metals, specifically antimony, from plastic containers, acrolein and other aldehydes formed by heating, a "refined" tallow being altered toward a less saturated, less heat-stable fat
 - **Important concepts:** refined, bleached, and deodorized (RBD) processing, peroxide value as a marker of oxidative damage, estrogenic equivalence of phthalates, a "spectrum" of seed-oil risk depending on use case, with deep frying at the worst end
 
-## 55. The Truth About Using Nicotine in 2026
+## 56. The Truth About Using Nicotine in 2026
 
 - **Source ID:** `kGqGeYdPxMk`
 - **URL:** https://www.youtube.com/watch?v=kGqGeYdPxMk
@@ -673,7 +685,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** engineered addictiveness via freebasing (diammonium phosphate), cardiovascular harm from the nicotine molecule itself, sleep architecture disruption, adolescent prefrontal cortex exposure, tobacco-industry funding bias in cognitive-benefit research, dopamine tolerance and withdrawal
 - **Important concepts:** freebase nicotine versus nicotine salts, the nicotinic acetylcholine receptor and its endogenous ligand (acetylcholine), the Yerkes-Dodson law (optimal arousal for task performance), dopamine baseline depletion from chronic nicotine use, a harm-reduction hierarchy across nicotine delivery methods
 
-## 56. The Untold Side Effects of Nicotine
+## 57. The Untold Side Effects of Nicotine
 
 - **Source ID:** `fyO6eROqf2c`
 - **URL:** https://www.youtube.com/watch?v=fyO6eROqf2c
@@ -685,7 +697,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** vaping oils linked to lung pneumonia, pesticides and additives in cigarette tobacco, marijuana's hormonal effects (lowered androgens in men), nicotine pouch addictiveness, nicotine's cardiovascular effects (raised blood pressure and heart rate)
 - **Important concepts:** relative risk ranking across nicotine/tobacco/cannabis delivery methods, correlation-versus-causation in the "smokers and COVID" claim, endogenous versus exogenous signaling molecules (nicotine, cannabinoids)
 
-## 57. There are NO hidden dangers in fruit and honey
+## 58. There are NO hidden dangers in fruit and honey
 
 - **Source ID:** `dm9-DDoSqhM`
 - **URL:** https://www.youtube.com/watch?v=dm9-DDoSqhM
@@ -697,7 +709,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** claimed but (per this source) undetected fructose glycation from whole-food fructose sources, methylglyoxal elevation on ketogenic/Atkins diets
 - **Important concepts:** hemoglobin A1c and fructosamine as glycation assays, the distinction between pure/rodent-study fructose and whole-food fructose sources, advanced glycation end products (AGEs)
 
-## 58. This Is How Canada Convinced You To Eat Engine Lubricant
+## 59. This Invisible Light Restores Your Mitochondria (Science-Backed)
+
+- **Source ID:** `XAcCJ5PHMHs`
+- **URL:** https://www.youtube.com/watch?v=XAcCJ5PHMHs
+- **Upload date:** 2026-08-07
+- **Duration:** 25:59
+- **Source file:** `sources/clean/XAcCJ5PHMHs.txt`
+- **Main subjects:** a spectrometer-based comparison of sunlight, a candle, LED bulbs, incandescent bulbs, a phone, and a laptop screen, done on camera with an electrical engineer (Tristan), the "whole food light versus processed light" framing applied throughout, contrasting full-spectrum infrared-rich light with blue-heavy, infrared-absent, flickering modern lighting, infrared light's proposed role in mitochondrial restoration and balancing the oxidative cost of blue/UV exposure, via melatonin synthesis inside the cell, light flicker (from grid-driven and pulse-width-modulated dimming) as a second, separate harm distinct from spectral imbalance, practical fixes offered, including incandescent and red-incandescent bulbs, and phone/laptop accessibility settings that reduce blue light
+- **Foods & products:** none discussed directly — the video repeatedly uses a food/light analogy ("light is like food... whole food light" versus "processed light") to frame its argument, borrowed from the host's usual food-quality content
+- **Concerns:** LED bulbs' near-total absence of infrared light, paired with a blue emission peak around 460 nm, light flicker at frequencies imperceptible to the eye but, the video claims, perceptible to the nervous system — linked to eye strain, headaches, migraines, and anxiety, OLED phone/laptop screens' pulse-width-modulation flicker, framed as a problem distinct from (and unfixable alongside) their blue-light content, low-emissivity ("low-e") windows stripping infrared from sunlight entering a home
+- **Important concepts:** full-spectrum versus "processed" light, as a direct analogy to whole food versus processed food, melanopic lux — a measure of how strongly a light source stimulates the circadian system, pulse-width modulation as the mechanism behind screen brightness control and its flicker cost, the claimed oxidative-balance relationship between high-energy visible/UV light and infrared/red light, mediated by mitochondrial melatonin synthesis
+
+## 60. This Is How Canada Convinced You To Eat Engine Lubricant
 
 - **Source ID:** `c1kyubykrvA`
 - **URL:** https://www.youtube.com/watch?v=c1kyubykrvA
@@ -709,7 +733,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** erucic acid toxicity in unmodified rapeseed oil, carcinogenic extraction solvents (benzene, hexane), oxidation and trans-fat formation from high-heat refining, mainstream health-authority endorsement of an oil the source calls harmful
 - **Important concepts:** canola as an acronym (Canadian Oil, Low Acid), genetic modification as the route from toxic rapeseed to food-grade canola, refining as extraction plus high-heat distillation
 
-## 59. What is fluoride really?
+## 61. What is fluoride really?
 
 - **Source ID:** `sPGdfZtLYKk`
 - **URL:** https://www.youtube.com/watch?v=sPGdfZtLYKk
@@ -721,7 +745,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluorosilicic acid as an industrial waste product added to municipal water, cumulative/chronic toxicity versus single-dose toxicity framing, carbon (Brita-style) filters, and even Berkey filters without a post-filter, failing to remove fluoride
 - **Important concepts:** filtering water before drinking it versus relying on the body to filter out contaminants (the video's own "temple" framing), cumulative dosage, not just single-dose amount, as the determinant of toxicity, transdermal absorption of chlorine during skin contact with tap water
 
-## 60. What's WRONG With Your Milk (and how to fix it)
+## 62. What's WRONG With Your Milk (and how to fix it)
 
 - **Source ID:** `Ya-P2K5k6PY`
 - **URL:** https://www.youtube.com/watch?v=Ya-P2K5k6PY
@@ -733,7 +757,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** A1 casein as more immunologically problematic than A2, foodborne illness risk from raw dairy, foodborne illness risk from pasteurized dairy (historical outbreaks), homogenization's necessity questioned
 - **Important concepts:** A2/A2 homozygosity in cattle breeds (Jersey, Guernsey), ferroptosis and lipid-peroxide-induced cell death, pentadecanoic acid (C15) as a biomarker of full-fat dairy intake, calcium-phosphorus mineral balance, swill milk and the historical origin of pasteurization
 
-## 61. Why grass-finished meat is better
+## 63. Why grass-finished meat is better
 
 - **Source ID:** `4HurlX9qpLY`
 - **URL:** https://www.youtube.com/watch?v=4HurlX9qpLY
@@ -745,7 +769,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** glyphosate residue in cattle fed GMO grains or Roundup-sprayed grasses/hay, PFAS and microplastic exposure as additional (unquantified) grass-fed advantages
 - **Important concepts:** organic grass-fed as excluding GMO feed and glyphosate-sprayed grass/hay specifically
 
-## 62. Why I don't eat fish, chicken or pork!
+## 64. Why I don't eat fish, chicken or pork!
 
 - **Source ID:** `jzszqg-xQGM`
 - **URL:** https://www.youtube.com/watch?v=jzszqg-xQGM
@@ -757,7 +781,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS exposure from food packaging, nonstick cookware, dental floss, and sparkling water, heavy metals (mercury, lead, arsenic, cadmium) in fish, especially larger predatory species, microplastics in fish, shellfish, and salt, linoleic acid (omega-6) bioaccumulation from corn-and-soy-fed chicken and pigs, fish oil supplementation as unnecessary and potentially oxidized
 - **Important concepts:** monogastric versus ruminant fat metabolism, bioaccumulation as a general mechanism across PFAS, heavy metals, and linoleic acid, the "nutrient problem, not calorie problem" framing of global food scarcity
 
-## 63. Why PEANUT BUTTER is one of the worst foods with Dave Asprey
+## 65. Why PEANUT BUTTER is one of the worst foods with Dave Asprey
 
 - **Source ID:** `Jy8fbpMHgqo`
 - **URL:** https://www.youtube.com/watch?v=Jy8fbpMHgqo
@@ -769,7 +793,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** aflatoxin in peanut butter, described as a leading dietary source of a major carcinogen, very long-chain fatty acids (VLCFA) accumulating in neuronal tissue, phytic acid's effect on mineral absorption and, per this source, bone density, Instagram content moderation flagging seed-oil and corn-flakes-history posts as misinformation
 - **Important concepts:** VLCFA (very long-chain fatty acids) and cell-membrane fit, phytic acid as a mineral chelator ("swallowing condoms" analogy), the aggregate nutrient density index (ANDI) critiqued as a flawed food-ranking metric, adipose-tissue linoleic acid versus blood linoleic acid as a marker of seed-oil consumption
 
-## 64. Why Sugar & Fruit Juice Are NOT The Same
+## 66. Why Sugar & Fruit Juice Are NOT The Same
 
 - **Source ID:** `hljJ0T7yASU`
 - **URL:** https://www.youtube.com/watch?v=hljJ0T7yASU
@@ -781,7 +805,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** pure/processed sugar raising endotoxin (lipopolysaccharide) via gut dysbiosis, protein pop-tarts and protein cookies as a booming but questionable processed-food category, heating/processing honey (or turning it into powder) breaking down its beneficial compounds, non-glyphosate-tested honey
 - **Important concepts:** dysbiosis and lipopolysaccharide (endotoxin) as the proposed mechanism for why sugar source matters, polyphenolic/plant compounds in honey and juice as gut-flora modifiers
 
-## 65. Why we do not need fluoride to prevent tooth decay
+## 67. Why we do not need fluoride to prevent tooth decay
 
 - **Source ID:** `e5K6O41hQ3A`
 - **URL:** https://www.youtube.com/watch?v=e5K6O41hQ3A
@@ -793,7 +817,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** framing tooth decay purely as a fluoride-deficiency problem
 - **Important concepts:** odontoblasts as living immune cells in teeth, fat-soluble vitamins (D, E, A, K2) as the proposed determinant of cavity resistance, hydroxyapatite formation via fluoride or calcium
 
-## 66. Why You Should Avoid Cooking With These Oils
+## 68. Why You Should Avoid Cooking With These Oils
 
 - **Source ID:** `Tg6qO3aEw9E`
 - **URL:** https://www.youtube.com/watch?v=Tg6qO3aEw9E
@@ -805,7 +829,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PTFE/Teflon aerosolizing from nonstick pans, oxidation of polyunsaturated fats (seed, olive, avocado oil) when heated, olive and avocado oil being cut with seed oils, endocrine-disrupting plastic in can linings for olive and avocado oil, oxidized LDL and Lp(a) from seed-oil consumption
 - **Important concepts:** peroxidation index as the relevant heat-stability measure, not smoke point, the Maillard-adjacent "mercury ball effect" for testing a stainless pan's readiness, odd-chain and 18-carbon saturated fatty acids (stearic, pentadecanoic, heptadecanoic acid), fat-soluble vitamins (A, D, E, K/K2) concentrated in animal fat from grass-fed diets
 
-## 67. Why Your "Organic" Honey Is Full Of Pesticides (w/ Eric Mason)
+## 69. Why Your "Organic" Honey Is Full Of Pesticides (w/ Eric Mason)
 
 - **Source ID:** `1Fke1NV4ZdA`
 - **URL:** https://www.youtube.com/watch?v=1Fke1NV4ZdA
@@ -817,7 +841,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** glyphosate contamination reaching honey even under "organic" labeling, neonicotinoid ("neonic") seed coatings that are unregulated at the seed-production stage, adulterated/fake honey cut with sugar, high-fructose corn syrup, or rice syrup; mislabeled country of origin to dodge tariffs, heavy metals (lead, arsenic) turning up in urban bee colonies' honey and comb, heat/processing in "non-raw" honey reducing its biological complexity
 - **Important concepts:** dysbiosis and lipopolysaccharide (endotoxin) as the host's hypothesis for why sugar source matters, true source certification as a honey-authenticity standard, raw versus processed honey (heat and straining as the dividing line), the honeybee as an environmental "canary in the coal mine"
 
-## 68. You Are Being Lied To About Fish Oil
+## 70. You Are Being Lied To About Fish Oil
 
 - **Source ID:** `AN0M9rUugpI`
 - **URL:** https://www.youtube.com/watch?v=AN0M9rUugpI
@@ -829,7 +853,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** atrial fibrillation and arrhythmia linked to high-dose (4+ grams/day) fish oil, LDL oxidation from fish oil, fish oil rancidity ("fish burps") and industrial bleaching/deodorizing/refining of fish oil, lipid peroxidation from fatty fish and fish oil, including pharmaceutical-grade and cod liver oil
 - **Important concepts:** membrane pacemaker theory of aging, eicosanoids as the basis for treating omega-3 and omega-6 differently, polyunsaturated fat double-bond count as a predictor of oxidation susceptibility
 
-## 69. Your bacon is BS: Stop eating pork
+## 71. Your bacon is BS: Stop eating pork
 
 - **Source ID:** `HPTpID3vV_o`
 - **URL:** https://www.youtube.com/watch?v=HPTpID3vV_o
@@ -841,7 +865,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid (omega-6) bioaccumulation in pork fat from corn-and-soy feed
 - **Important concepts:** monogastric versus ruminant fat storage and metabolism, feed composition as the determinant of an animal's own fatty-acid profile
 
-## 70. Your kale contains heavy metals
+## 72. Your kale contains heavy metals
 
 - **Source ID:** `qxhOQ6PY5ME`
 - **URL:** https://www.youtube.com/watch?v=qxhOQ6PY5ME
@@ -874,6 +898,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 **almonds / almond milk (as an example of an industrial monocrop dependent on trucked-in bees)** — Why Your "Organic" Honey Is Full Of Pesticides (w/ Eric Mason) (`1Fke1NV4ZdA`)
 
 **almonds, peanuts, sesame seeds, poppy seeds** — Attack of the Oxalates! A hidden but nasty plant toxin, with Sally K Norton, MPH (`cQqRQ4xXq54`)
+
+**an unnamed "energy drink," dismissed in passing** — Oatmeal is BS! Here's why 👊 (`c0r7yEixoVI`)
 
 **an unnamed third olive oil brand** — Avoid These Olive Oils (`JpW1utNfQM0`)
 
@@ -1185,11 +1211,15 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **nicotine pouches (zyn)** — The Truth About Using Nicotine in 2026 (`kGqGeYdPxMk`), The Untold Side Effects of Nicotine (`fyO6eROqf2c`)
 
+**none discussed directly — the video repeatedly uses a food/light analogy ("light is like food... whole food light" versus "processed light") to frame its argument, borrowed from the host's usual food-quality content** — This Invisible Light Restores Your Mitochondria (Science-Backed) (`XAcCJ5PHMHs`)
+
 **nuts and seeds (mentioned as another high-pufa source)** — Are pork & chicken the new seed oils? (`oWFsV2PsgO0`)
 
 **oat-based breakfast cereals (cheerios, quaker oats, nature valley)** — Glyphosate: how it's harming you (`nRN8yhYmyVc`)
 
 **oatmeal / grains / legumes generally** — Why PEANUT BUTTER is one of the worst foods with Dave Asprey (`Jy8fbpMHgqo`)
+
+**oats/oatmeal** — Oatmeal is BS! Here's why 👊 (`c0r7yEixoVI`)
 
 **olive oil** — Don’t Make These Mistakes When Buying Olive Oil (`mV58zXMBco4`), Why You Should Avoid Cooking With These Oils (`Tg6qO3aEw9E`)
 
@@ -1363,6 +1393,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **tequila** — Avoid These Drinks At All Costs (`AUuy4PHnMO8`)
 
+**the host's own breakfast — organ meat, meat, fruit, honey, raw dairy** — Oatmeal is BS! Here's why 👊 (`c0r7yEixoVI`)
+
 **the nicotine patch** — Everyone's Taking Nicotine. Almost Everyone's Doing It Wrong. (`JshTM15bqVI`)
 
 **toca** — Are you drinking radioactive elements in your bottled water? (`Xr1Wkn1fj58`)
@@ -1409,6 +1441,14 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 ---
 
+## No transcript available — link only, not cited
+
+No caption track could be extracted for these (a YouTube limitation, not necessarily an absence of dialogue), so there's no transcript to anchor a claim against. They aren't sourced or fact-checked against anything here — just links, for watching directly.
+
+- [Clavicular and Paul Saladino FULL Live Stream](https://www.youtube.com/watch?v=r4XBZSvBm2c) (228:41)
+
+---
+
 ## Restorative Physiology
 
 # 09 — Source Catalog
@@ -1416,7 +1456,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 Every transcript ingested into this knowledge package, with the subjects, body systems, practices, and concepts each one covers.
 
 **Channel:** The Feynman Way — https://www.youtube.com/@The_Feynman_Way  
-**Videos catalogued:** 204
+**Videos catalogued:** 213
 
 Entries are alphabetical by title. Use the video ID to trace any claim in the other files back to its source.
 
@@ -2202,7 +2242,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 60 seconds of loose chaotic shaking, keep the movement unguarded rather than controlled, perform in the evening
 - **Important concepts:** epinephrine versus cortisol timelines, HPA axis negative feedback, glucocorticoid receptors, allostatic load, interoception, A-beta and C fibres, Pacinian corpuscles, Ruffini endings, muscle spindles, autogenic inhibition, nucleus tractus solitarius
 
-## 66. What 60 Seconds of SMILING Does to Your Brain — Even When You're Faking It
+## 66. What 60 Seconds of SHAKING Does to Your Stress Hormones
+
+- **Video ID:** `jaUCXKPUA-s`
+- **URL:** https://www.youtube.com/watch?v=jaUCXKPUA-s
+- **Upload date:** 2026-08-23
+- **Duration:** 23:11
+- **Source file:** `sources/clean/jaUCXKPUA-s.txt`
+- **Main subjects:** the post-threat full-body tremor seen across mammals (a gazelle after outrunning a lion, a dog leaving the vet) as a suppressed-in-humans discharge reflex, not panic or breakdown, the HPA axis (amygdala → hypothalamus → pituitary → adrenal glands) as the fast, non-cognitive pathway that loads the body with adrenaline and cortisol for a physical response that, for most modern stressors, never happens, neurogenic tremor as the mechanism that clears that unused chemical "charge" by feeding mechanoreceptor signal back to the amygdala as proof the threat has passed, measurable downstream effects claimed within a 60-second shaking window — heart rate variability climbing, vascular and lymphatic flow restoring, muscle spindle baseline tone resetting, and a sympathetic-to-parasympathetic autonomic handoff, the vagus nerve's role in that handoff, and why "just relax" fails as advice for a system that responds to physical input rather than intention
+- **Body systems:** nervous system, cardiovascular, immune and lymphatic
+- **Recommended practices:** a full 60-second (not 10 or 20 seconds) sustained, loose full-body shake — starting at the hands and forearms, letting the motion travel up into the shoulders, then bringing in the legs with light bouncing through the knees, jaw loose, breathing loose and audible — done after a stressful event, or preemptively before one
+- **Important concepts:** the HPA axis (hypothalamic-pituitary-adrenal axis) — the fast neuroendocrine chain converting a perceived threat into circulating adrenaline and cortisol, neurogenic tremor — a hardwired reflex distinct from pathological shaking, whose function is to discharge unused fight-or-flight activation through the same muscle groups that were primed for it, mechanoreceptor signaling to the amygdala — the specific sensory pathway (via dorsal root ganglia, spinal cord, brainstem) that tells the brain's alarm center "movement happened, therefore the threat is over", vagal regulation of the sympathetic-to-parasympathetic handoff, as a physical rather than cognitive lever
+
+## 67. What 60 Seconds of SMILING Does to Your Brain — Even When You're Faking It
 
 - **Video ID:** `hxc0opwYlyA`
 - **URL:** https://www.youtube.com/watch?v=hxc0opwYlyA
@@ -2214,7 +2266,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 60 seconds of deliberate zygomatic contraction each morning, combine with 4-second inhale, 6-second exhale nasal breathing, break up screen sessions with a deliberate smile, prefer phone calls to video calls where the choice exists
 - **Important concepts:** zygomatic major and corrugator supercilii, facial nerve (CN VII) and vagus (CN X) convergence, nucleus of the solitary tract and reticular formation, Duchenne versus non-Duchenne smile, motor resonance, facial feedback hypothesis
 
-## 67. What a 20-Minute Nap Before 2PM Does to YOUR Body
+## 68. What a 20-Minute Nap Before 2PM Does to YOUR Body
 
 - **Video ID:** `2gwQ9BVOscI`
 - **URL:** https://www.youtube.com/watch?v=2gwQ9BVOscI
@@ -2226,7 +2278,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 20-minute nap between about 1pm and 2pm, lie flat rather than nap in a chair, set the alarm from eyes closing, not from lying down, coffee immediately before the nap, bright light within the first minute of waking, nap at a consistent time to train sleep onset
 - **Important concepts:** adenosine, circadian alertness trough, prefrontal fuel depletion, sleep spindles and the thalamic reticular circuit, hippocampal-cortical coupling, sleep inertia, thalamic gating, parasympathetic shift, circadian conditioning
 
-## 68. What a Hot Bath Does to YOUR Body Before Sleep
+## 69. What a Hot Bath Does to YOUR Body Before Sleep
 
 - **Video ID:** `BG6yth4tJBc`
 - **URL:** https://www.youtube.com/watch?v=BG6yth4tJBc
@@ -2238,7 +2290,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** bath at 40 to 42C for 10 to 20 minutes, 60 to 90 minutes before bed, cool room and light clothing afterwards, footbath as an accessible substitute
 - **Important concepts:** core temperature decline and the preoptic area, GABAergic inhibition of arousal centres, peripheral vasodilation, arteriovenous anastomoses, tired versus sleepy, distal extremity warming as predictor
 
-## 69. What Actually Builds YOUR Muscle After 50
+## 70. What Actually Builds YOUR Muscle After 50
 
 - **Video ID:** `KTwE1rj8-Ek`
 - **URL:** https://www.youtube.com/watch?v=KTwE1rj8-Ek
@@ -2250,7 +2302,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** take the final set to genuine failure rather than to discomfort, lower every load over four slow seconds, carry objects in one hand instead of two, pause at the position where the load stands tallest, eat the protein in the hours after the session, not on a quiet afternoon, train a few times a week across months rather than one ambitious Saturday
 - **Important concepts:** integrin, focal adhesion kinase, mechanotransduction, mTOR as a two-key lock, anabolic resistance, the size principle, type two fibres, satellite cells, myonuclear domain, time under tension
 
-## 70. What Actually Happens Inside YOUR Throat When You Snore
+## 71. What Actually Happens Inside YOUR Throat When You Snore
 
 - **Video ID:** `WK6ke9ZpcOk`
 - **URL:** https://www.youtube.com/watch?v=WK6ke9ZpcOk
@@ -2262,7 +2314,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** sleep on the side rather than the back, tennis ball technique to prevent rolling supine, oropharyngeal exercises daily, singing or wind instrument practice, nasal breathing and mouth closure during sleep, treat nasal obstruction with saline or humidification, avoid alcohol within three to four hours of sleep, measure neck circumference rather than relying on weight alone
 - **Important concepts:** Bernoulli's principle, pharyngeal dilators, genioglossus, tensor palatini, sleep-onset hypotonia, parapharyngeal fat pads, obstructive apnea and arousal, intermittent hypoxia and reactive oxygen species, apnea-hypopnea index, CPAP as pneumatic splint, mandibular advancement, retrognathia, atrial natriuretic peptide
 
-## 71. What Actually Happens to Vitamin D Inside YOUR Body
+## 72. What Actually Happens to Vitamin D Inside YOUR Body
 
 - **Video ID:** `3irVZ9Fo208`
 - **URL:** https://www.youtube.com/watch?v=3irVZ9Fo208
@@ -2274,7 +2326,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** getting UVB-exposed skin time outdoors rather than through window glass or a car window, which absorbs ultraviolet B almost completely, not expecting sun exposure to overdose the system — skin production plateaus at a ceiling regardless of exposure length, treating a single storage-form blood test as a monthly-to-seasonal average of supply, not a real-time reading
 - **Important concepts:** 7-dehydrocholesterol converted by UVB light in skin to previtamin D3, then body heat to cholecalciferol (vitamin D3), 25-hydroxyvitamin D — the liver-made storage form, half-life 2-3 weeks, what standard blood tests measure, 1,25-dihydroxyvitamin D (calcitriol) — the kidney-made active hormone, half-life hours, cleared and regulated on demand, parathyroid hormone as the trigger that switches on the kidney's activating enzyme when blood calcium falls, the vitamin D receptor (VDR) as a nuclear receptor present in gut, bone, immune cells, muscle, heart, vessels, skin, brain, pancreas, prostate, the VITAL trial (Manson et al., NEJM 2019) and its fracture (LeBoff et al. 2022) and autoimmune-disease (BMJ 2022) sub-analyses
 
-## 72. What Blowing Up a BALLOON Does to YOUR Body
+## 73. What Blowing Up a BALLOON Does to YOUR Body
 
 - **Video ID:** `chsavHoBtJs`
 - **URL:** https://www.youtube.com/watch?v=chsavHoBtJs
@@ -2286,7 +2338,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** five balloon breaths daily for two weeks, supine with knees bent and hips slightly elevated, three second inhale, five to eight second exhale into the balloon, three second pause at end exhalation, measure the infrasternal angle before and after
 - **Important concepts:** zone of apposition, infrasternal angle, length-tension relationship, intra-abdominal pressure as a hydraulic cylinder, pressure canister model, costal cartilage calcification
 
-## 73. What Changes Inside YOUR Body When YOU Face Fear
+## 74. What Changes Inside YOUR Body When YOU Face Fear
 
 - **Video ID:** `kHe7AvbKoW4`
 - **URL:** https://www.youtube.com/watch?v=kHe7AvbKoW4
@@ -2298,7 +2350,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** face the feared stimulus repeatedly rather than avoiding it, maintain aerobic exercise while doing exposure work, practise extended-exhale breathing to train vagal tone, keep exposure ongoing, since the override needs maintenance
 - **Important concepts:** subcortical retina-to-amygdala shortcut, fast adrenal versus slow HPA pathway, splanchnic vasoconstriction, cortisol potentiation of the amygdala, infralimbic prefrontal inhibition, extinction learning and spontaneous recovery, BDNF and synaptic remodelling, vagal tone and recovery speed
 
-## 74. What FLOSSING Does to Your Arteries — The Connection Nobody Explains
+## 75. What FLOSSING Does to Your Arteries — The Connection Nobody Explains
 
 - **Video ID:** `EX1zYCGmG9g`
 - **URL:** https://www.youtube.com/watch?v=EX1zYCGmG9g
@@ -2310,7 +2362,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** floss once daily, before brushing, in the evening, the C-shaped subgingival technique, water flosser where dexterity is limited, professional cleaning for calculus
 - **Important concepts:** tight junction proteins and transepithelial electrical resistance, gingival crevicular fluid, biofilm succession and the polysaccharide matrix, low oscillatory shear stress and bacterial adhesion, matrix metalloproteinases, flow-mediated dilation
 
-## 75. What GRIEF Does to Your Body
+## 76. What GRIEF Does to Your Body
 
 - **Video ID:** `ion8SKZQ0oE`
 - **URL:** https://www.youtube.com/watch?v=ion8SKZQ0oE
@@ -2322,7 +2374,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** none recorded
 - **Important concepts:** takotsubo cardiomyopathy, catecholamines, beta adrenergic receptors, calcium cycling, HPA axis, CRH, ACTH, cortisol, glucocorticoid receptor downregulation, gluconeogenesis, catabolism, osteoblasts and osteoclasts, glymphatic clearance, slow wave sleep, hippocampal cortisol receptor density, dorsal anterior cingulate cortex, anterior insula, secondary somatosensory cortex, pain matrix, widowhood effect, coregulation
 
-## 76. What Happens Inside YOUR Blood After 2 Hours in a Forest
+## 77. What Happens Inside YOUR Blood After 2 Hours in a Forest
 
 - **Video ID:** `zCtsCJ9cACY`
 - **URL:** https://www.youtube.com/watch?v=zCtsCJ9cACY
@@ -2334,7 +2386,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** one forest visit of two to three hours weekly, prefer dense coniferous or mixed forest under closed canopy, afternoon and warmer months for peak terpene concentration, urban parks with mature trees as a partial substitute
 - **Important concepts:** terpenes, alpha-pinene, limonene, Fick's law of diffusion, lipophilicity and passive membrane crossing, natural killer cells and MHC class I, perforin and granzyme, fractal dimension, acoustic startle reflex
 
-## 77. What Happens Inside YOUR Body During a Panic Attack
+## 78. What Happens Inside YOUR Body During a Panic Attack
 
 - **Video ID:** `H1IPL6q95Ec`
 - **URL:** https://www.youtube.com/watch?v=H1IPL6q95Ec
@@ -2346,7 +2398,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** extended exhale breathing, inhale 4 seconds and exhale 6-8, slow the breathing rate to correct alkalosis, wait out the pharmacokinetic curve
 - **Important concepts:** amygdala and thalamo-amygdala pathway, adrenergic receptor subtypes, respiratory alkalosis, carbonic anhydrase and blood pH, ionized calcium and albumin binding, cerebral vasoconstriction, insula and interoception, epinephrine half-life, respiratory sinus arrhythmia
 
-## 78. What Happens Inside YOUR Body in the 20 Minutes After Every Meal
+## 79. What Happens Inside YOUR Body in the 20 Minutes After Every Meal
 
 - **Video ID:** `iV3tqeWNdeM`
 - **URL:** https://www.youtube.com/watch?v=iV3tqeWNdeM
@@ -2358,7 +2410,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** walk within the postprandial window, post-dinner walk as the highest-value version, even 2-3 minutes of movement after eating, stand and do dishes after dinner, high-fibre breakfast to set up the day, move the largest meal earlier
 - **Important concepts:** Maillard reaction, Schiff base and Amadori product, advanced glycation end products (AGEs), HbA1c, RAGE receptors and NF-kB, reactive oxygen species and eNOS uncoupling, flow-mediated dilation, GLUT4 and AMPK, circadian insulin sensitivity, short-chain fatty acids, butyrate, propionate, GLP-1, second meal effect
 
-## 79. What Happens Inside YOUR Body When Sugar Stops Arriving for 21 Days
+## 80. What Happens Inside YOUR Body When Sugar Stops Arriving for 21 Days
 
 - **Video ID:** `NFy3cR3XncA`
 - **URL:** https://www.youtube.com/watch?v=NFy3cR3XncA
@@ -2370,7 +2422,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** the sock groove, ring and face photograph baselines, reduce free sugar and refined carbohydrate below 50 g per day, hold calories, protein and fat constant, re-measure at days 7, 14 and 21
 - **Important concepts:** glycogen and its 1:3 water binding ratio, hormone-sensitive lipase and the insulin gate, de novo lipogenesis and the phosphofructokinase bypass, reactive hypoglycemia and cortisol rescue, renal glucose threshold and osmotic diuresis, receptor down-regulation and re-expression, HOMA-IR
 
-## 80. What Happens Inside YOUR Body When You Stand Up Too Fast
+## 81. What Happens Inside YOUR Body When You Stand Up Too Fast
 
 - **Video ID:** `tYkCvmXCJBc`
 - **URL:** https://www.youtube.com/watch?v=tYkCvmXCJBc
@@ -2382,7 +2434,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** contract the calves two or three times before standing, stand and take a step within the first second, report worsening dizziness to a physician
 - **Important concepts:** hydrostatic column, venous compliance and capacitance, Frank-Starling mechanism, carotid sinus baroreceptor, baroreflex sensitivity, vagal withdrawal, Poiseuille's fourth power law
 
-## 81. What Happens Inside YOUR BRAIN After 72 Hours of Complete Darkness
+## 82. What Happens Inside YOUR BRAIN After 72 Hours of Complete Darkness
 
 - **Video ID:** `cGGB2PQ6PFQ`
 - **URL:** https://www.youtube.com/watch?v=cGGB2PQ6PFQ
@@ -2394,7 +2446,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** seal the bedroom against every photon source before sleep, treat dim light as functionally equivalent to light
 - **Important concepts:** melanopsin wavelength sensitivity, homeostatic plasticity, signal-to-noise inversion, Klüver form constants, predictive processing, GABA and the critical period, free-running period
 
-## 82. What Happens Inside YOUR Muscles When Potassium Drops
+## 83. What Happens Inside YOUR Muscles When Potassium Drops
 
 - **Video ID:** `Cekr_0A1-NI`
 - **URL:** https://www.youtube.com/watch?v=Cekr_0A1-NI
@@ -2406,7 +2458,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** meet potassium from whole foods daily, not from bananas alone, prefer beans, potato with skin, spinach, sweet potato, avocado, salmon, choose whole over processed foods for intact cellular potassium, discuss cramps, weakness, fatigue or palpitations with the prescriber if on a thiazide
 - **Important concepts:** potassium leak channels, Nernst and Goldman equations, resting potential and threshold gap, sodium channel three-state model, inactivation gate, cardiac plateau phase, reentrant circuit, obligatory renal potassium loss
 
-## 83. What Happens to YOUR Arteries When You Take Calcium Every Morning
+## 84. What Happens to YOUR Arteries When You Take Calcium Every Morning
 
 - **Video ID:** `RlE3IsQ1Dts`
 - **URL:** https://www.youtube.com/watch?v=RlE3IsQ1Dts
@@ -2418,7 +2470,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** spread calcium across meals from food rather than a single tablet, discuss D and K2 pairing with the prescriber, weight-bearing loading as the deposition signal
 - **Important concepts:** serum concentration-time curve, bone hourly incorporation rate, hydroxyapatite crystallisation, matrix Gla protein and carboxylation, osteocalcin, pulse wave velocity and augmentation
 
-## 84. What Happens to YOUR Back After 5 Minutes on a Hard Surface
+## 85. What Happens to YOUR Back After 5 Minutes on a Hard Surface
 
 - **Video ID:** `YcmpJZrdqiI`
 - **URL:** https://www.youtube.com/watch?v=YcmpJZrdqiI
@@ -2430,7 +2482,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** five minutes supine on a hard floor daily, legs extended for psoas lengthening, knees bent for lumbar decompression, no pillow, so the occiput contacts the surface, post-exercise as the highest-yield timing
 - **Important concepts:** intradiscal pressure by posture, proprioceptive calibration against a rigid reference, suboccipital muscles and spindle density, imbibition and osmotic rehydration, psoas major and lumbar lordosis, constructive rest position, sit-rise test
 
-## 85. What Happens to Your Blood Sugar in the 60 Minutes After You Eat
+## 86. What Happens to Your Blood Sugar in the 60 Minutes After You Eat
 
 - **Video ID:** `lj_r9NOh6Mc`
 - **URL:** https://www.youtube.com/watch?v=lj_r9NOh6Mc
@@ -2442,7 +2494,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** walk ten minutes after the largest meal, begin within five to fifteen minutes of finishing, any pace counts, stand if walking is not possible
 - **Important concepts:** GLUT4 transporter and vesicle translocation, insulin cascade (PI3K, Akt), AMPK and calcium-dependent kinases, postprandial glucose curve and area under the curve, glycation and advanced glycation end products, gastric emptying, mesenteric blood flow redistribution
 
-## 86. What Happens to YOUR BODY If You're Still Awake at 10PM
+## 87. What Happens to YOUR BODY If You're Still Awake at 10PM
 
 - **Video ID:** `zEQf8XkI5eU`
 - **URL:** https://www.youtube.com/watch?v=zEQf8XkI5eU
@@ -2454,7 +2506,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** sleep in the roughly 10pm to midnight window, reduce screen light in the final hours, warm bath about 90 minutes before bed, socks or warm feet to open the thermal gate, avoid alcohol as a sleep aid, keep sleep timing consistent across weekends
 - **Important concepts:** suprachiasmatic nucleus, homeostatic sleep pressure and adenosine, circadian gating, slow-wave sleep and delta waves, growth hormone pulse, synaptic homeostasis hypothesis, glymphatic clearance and amyloid beta, social jet lag, thermal gate and peripheral vasodilation, heart rate variability circadian pattern
 
-## 87. What Happens to YOUR BODY When You Forgive Someone?
+## 88. What Happens to YOUR BODY When You Forgive Someone?
 
 - **Video ID:** `TIfYtzKSpXM`
 - **URL:** https://www.youtube.com/watch?v=TIfYtzKSpXM
@@ -2466,7 +2518,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** reclassifying a grievance from active threat to historical fact, shifting the story so the grievance is no longer the organizing principle
 - **Important concepts:** HPA axis, CRH, ACTH, cortisol, glucocorticoid receptors, amygdala threat tagging, C-reactive protein, interleukin 6, TNF-alpha, inflammaging, heart rate variability, respiratory sinus arrhythmia, vagus nerve, vagal tone, afferent vs efferent fibres, NF-kappa-B, glucocorticoid resistance, gene expression / transcription
 
-## 88. What Happens to Your Body When You Hear Birds Singing
+## 89. What Happens to Your Body When You Hear Birds Singing
 
 - **Video ID:** `oqmj-CaeLXM`
 - **URL:** https://www.youtube.com/watch?v=oqmj-CaeLXM
@@ -2478,7 +2530,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 5-10 minutes outdoors in the morning, no phone, no headphones, open the window onto trees, wake to birdsong rather than an alarm where possible
 - **Important concepts:** resonant frequency, constructive interference, quarter-wave resonator, equal loudness contours (Fletcher-Munson, ISO 226), amygdala acoustic threat detection, salivary cortisol, skin conductance, heart rate variability, superior temporal gyrus, prediction error, dopamine reward, directed vs involuntary attention (attention restoration theory), reticular formation, melanopsin pathway
 
-## 89. What Happens to YOUR BODY When You Hold Your Grandchild
+## 90. What Happens to YOUR BODY When You Hold Your Grandchild
 
 - **Video ID:** `M_Q_JnKZXe8`
 - **URL:** https://www.youtube.com/watch?v=M_Q_JnKZXe8
@@ -2490,7 +2542,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** chest-to-chest embrace held 20-30 seconds minimum, breathing near the child's scalp, full arm enclosure rather than partial hug, not rushing the release
 - **Important concepts:** major histocompatibility complex (MHC/HLA), volatile organic compounds as genetic scent signature, olfactory-limbic pathway bypassing the thalamus, hypothalamic paraventricular nucleus, ventral vagal complex, cardiac entrainment / phase lock, TRPV warmth receptors, Ruffini endings, Merkel cells, Pacinian corpuscles, oxytocin plasma half-life vs neural persistence
 
-## 90. What Happens to YOUR BODY When You Move on an Empty Stomach
+## 91. What Happens to YOUR BODY When You Move on an Empty Stomach
 
 - **Video ID:** `aL4S_1VVpBI`
 - **URL:** https://www.youtube.com/watch?v=aL4S_1VVpBI
@@ -2502,7 +2554,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 20 to 30 minute walk before eating, moderate pace only, not running, 400 to 500 ml water before the walk, eat within 90 minutes after the walk
 - **Important concepts:** AMPK and the AMP to ATP ratio, GLUT4 translocation by two routes, lipolysis and beta oxidation, PGC-1 alpha and mitochondrial biogenesis, metabolic flexibility, beta hydroxybutyrate and histone deacetylase inhibition, autophagy
 
-## 91. What Happens to Your BODY When You Pray
+## 92. What Happens to Your BODY When You Pray
 
 - **Video ID:** `UlXTeinaTBA`
 - **URL:** https://www.youtube.com/watch?v=UlXTeinaTBA
@@ -2514,7 +2566,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** spoken or chanted prayer at roughly six breaths per minute, repetitive prayer with beads, communal worship
 - **Important concepts:** superior parietal lobe orientation area, SPECT imaging, glossolalia, baroreflex resonant frequency, heart rate variability, baroreflex sensitivity, HPA axis downregulation, default mode network, neural entrainment, alpha and theta waves, vagal stimulation via laryngeal vibration, nasal nitric oxide, coupled oscillator dynamics, telomerase, telomeres
 
-## 92. What Happens to YOUR BODY When You Sleep on the Wrong Side
+## 93. What Happens to YOUR BODY When You Sleep on the Wrong Side
 
 - **Video ID:** `BJ0Sh6hOK18`
 - **URL:** https://www.youtube.com/watch?v=BJ0Sh6hOK18
@@ -2526,7 +2578,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** sleep on the left side, use a body pillow as a boundary for retraining, pillow between the knees and support under the rib cage
 - **Important concepts:** gravitational vector, lower oesophageal sphincter pressure geometry, inferior vena cava compression and preload, thoracic duct terminus asymmetry, glymphatic clearance, jugular vein dominance
 
-## 93. What Happens to YOUR BRAIN When All Sound Stops?
+## 94. What Happens to YOUR BONES When You Stand on One Leg Every Day?
+
+- **Video ID:** `t3mQsBMthhE`
+- **URL:** https://www.youtube.com/watch?v=t3mQsBMthhE
+- **Upload date:** 2026-08-24
+- **Duration:** 25:27
+- **Source file:** `sources/clean/t3mQsBMthhE.txt`
+- **Main subjects:** bone reframed as a live, continuously remodeling tissue rather than a fixed structural scaffold — roughly a tenth of total bone mass rebuilt in any given year, single-leg standing's specific mechanical arithmetic — body weight roughly doubling or tripling through the femoral neck, the most common site of age-related hip fracture, piezoelectricity as the physical link between bone bending and a cellular repair signal — fluid moving through canaliculi generating a measurable electrical "streaming potential", osteocytes, osteoblasts, and osteoclasts as a sensing-and-construction/demolition system coordinated by that electrical and fluid-shear signal, Julius Wolff's 19th-century observation that bone's internal lattice aligns with the lines of mechanical stress it has carried, offered as the historical precedent for the modern mechanism, the same instability that stresses the femoral neck also sharpening the cerebellum's balance model, tying bone density and fall-recovery training to the same 60-second exercise
+- **Body systems:** musculoskeletal and connective tissue, nervous system
+- **Recommended practices:** standing on one leg near a wall or counter for safety, 30-60 seconds per side, ideally daily, letting the ankle wobble rather than fighting to eliminate the instability entirely
+- **Important concepts:** piezoelectricity (in bone) — fluid moving through canaliculi under load drags across charged mineral (hydroxyapatite) surfaces, generating a measurable "streaming potential", osteocytes — the most numerous bone cell type, embedded in lacunae and connected through canaliculi, that sense the electrical/mechanical signal and direct osteoblasts (build) and osteoclasts (demolish) accordingly, sclerostin — a signaling protein that drops in stressed bone, removing one of the main "green lights" for osteoclast (demolition) activity, Wolff's law — bone's internal architecture reorganizes to mirror the lines of mechanical stress it regularly carries, microstrain — the unit engineers use to measure bone's microscopic, reversible bending under load, distinct from and far below the scale of a fracture
+
+## 95. What Happens to YOUR BRAIN When All Sound Stops?
 
 - **Video ID:** `mN9wlM9bgMo`
 - **URL:** https://www.youtube.com/watch?v=mN9wlM9bgMo
@@ -2538,7 +2602,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** intermittent silence rather than sustained silence, a 2-minute gap after 20 minutes of structured sound, removing earbuds during transitions
 - **Important concepts:** anechoic chamber, decibels below threshold, broadband ambient noise floor, infrasound, resonant frequency, standing waves, spontaneous firing rate, tinnitus, default mode network, medial prefrontal cortex, posterior cingulate, angular gyrus, task-positive networks, electrodermal activity, heart rate variability, {'HPA axis': 'CRH, ACTH, cortisol, zona fasciculata'}, Brownian motion, 20 micropascals
 
-## 94. What Happens to YOUR Brain When Doctor Lowers Your Blood Pressure
+## 96. What Happens to YOUR Brain When Doctor Lowers Your Blood Pressure
 
 - **Video ID:** `CkJMMyeFIH4`
 - **URL:** https://www.youtube.com/watch?v=CkJMMyeFIH4
@@ -2550,7 +2614,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** the 4-metre walking speed test, the jar-opening grip test, bring frailty measurements to the prescribing physician, restore peripheral pump capacity through sustained daily loading
 - **Important concepts:** cerebral autoregulation, autoregulatory floor and window, windkessel effect and elastic recoil, watershed zones, microischemia, baroreceptor recalibration, sarcopenia, orthostatic symptoms
 
-## 95. What Happens to YOUR BRAIN When You Hum for 60 Seconds?
+## 97. What Happens to YOUR BRAIN When You Hum for 60 Seconds?
 
 - **Video ID:** `QVoGbaq8xos`
 - **URL:** https://www.youtube.com/watch?v=QVoGbaq8xos
@@ -2562,7 +2626,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 60 seconds of sustained humming, one comfortable mid-range note, humming before bed
 - **Important concepts:** paranasal sinuses (maxillary, frontal, ethmoid, sphenoid), ostium, acoustic resonance / Helmholtz resonator, bone conduction, constitutive nitric oxide synthase, soluble guanylate cyclase, cyclic GMP, alveolar membrane and diffusion area, baroreceptor reflex, intrathoracic and intracranial pressure coupling, cerebrospinal fluid pulsatility, glymphatic clearance
 
-## 96. What Happens to YOUR FOOT When This One Muscle Stops Working
+## 98. What Happens to YOUR CELLS When You Go 12 Hours Without Food?
+
+- **Video ID:** `Ol_BjFRCH-c`
+- **URL:** https://www.youtube.com/watch?v=Ol_BjFRCH-c
+- **Upload date:** 2026-09-01
+- **Duration:** 27:41
+- **Source file:** `sources/clean/Ol_BjFRCH-c.txt`
+- **Main subjects:** the 12-hour mark since a last meal framed as a discrete molecular switch, not a gradual slide into "starvation mode", the hour-by-hour hormonal timeline of an overnight fast — insulin's fall, liver glycogen depletion, glucagon's rise, and the handoff from fat storage to fat burning, mTOR and AMPK (transcribed in the source as "AMP") as opposing master switches for cellular growth versus cellular cleanup, and why both can't run at once, autophagy and mitophagy as targeted, not random, clearance of damaged proteins and malfunctioning mitochondria, two fasting myths addressed directly — that 12 hours triggers metabolic "starvation mode," and that hour-12 hunger means cells are running low on fuel, downstream effects claimed beyond the cell itself — muscle protection via HGH, reduced endothelial oxidative burden, a quieted NLRP3 inflammasome, and gut tight-junction repair
+- **Body systems:** digestive and metabolic, endocrine and hormonal, immune and lymphatic
+- **Recommended practices:** keeping a roughly 12-hour daily eating window (e.g., a first meal near 8am and a last meal by 8pm) so an ordinary overnight stretch reliably crosses the 12-hour fasted threshold
+- **Important concepts:** mTOR (the source calls it "the mamalian target of rapamy," a caption-garbled rendering of mammalian target of rapamycin) as the growth-signaling brake that must switch off before repair can start, AMPK — given in the source as "AMP," short for a garbled "adenosine monofphosphate activated protein kynise" (adenosine monophosphate-activated protein kinase) — as the cell's energy sensor that activates cleanup once mTOR quiets, autophagy — autophagosome formation, delivery to the lysosome (rendered in captions as "lo"/"lossome"), and breakdown into reusable amino acids, mitophagy — the same clearance process applied specifically to damaged mitochondria, ghrelin-driven hunger as habit/rhythm-based rather than a signal of depleted cellular energy, glucagon as the hormonal signal marking the shift from glycogen reliance to fat mobilization (lipolysis, beta-oxidation)
+
+## 99. What Happens to YOUR FOOT When This One Muscle Stops Working
 
 - **Video ID:** `I45ltvsK4jI`
 - **URL:** https://www.youtube.com/watch?v=I45ltvsK4jI
@@ -2574,7 +2650,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** heel walking 30 seconds, twice daily, progress to backward heel walking at two weeks, progress to soft surfaces at four weeks, the 10-second toe lift self-test
 - **Important concepts:** minimum toe clearance, swing phase and stance phase, dorsiflexion, mechanotransduction threshold, activation versus loading, stride-to-stride variability, reciprocal inhibition (Sherrington's law), reactive hyperemia
 
-## 97. What Happens to YOUR MIND When You Sleep?
+## 100. What Happens to YOUR MIND When You Sleep?
 
 - **Video ID:** `6EwQXznpBsg`
 - **URL:** https://www.youtube.com/watch?v=6EwQXznpBsg
@@ -2586,7 +2662,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** none recorded
 - **Important concepts:** the hard problem of consciousness, differentiated versus synchronised neural states, thalamic bistability, integrated information (phi), transcranial magnetic stimulation, overnight synaptic reorganisation
 
-## 98. What Happens to YOUR MUSCLES When You Stretch Past 60 Seconds
+## 101. What Happens to YOUR MUSCLES When You Stretch Past 60 Seconds
 
 - **Video ID:** `7_URSXBuQUc`
 - **URL:** https://www.youtube.com/watch?v=7_URSXBuQUc
@@ -2598,7 +2674,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** hold a single stretch for 90 seconds, one muscle group daily, contract the muscle 6-10 seconds before stretching it, warm shower before morning stretching, stretch after activity or as a standalone session, never before performance
 - **Important concepts:** muscle spindle and the stretch reflex, Golgi tendon organ and autogenic inhibition, viscoelastic creep, elastic versus plastic deformation, sarcomeres added in series, proprioceptive range map, reciprocal inhibition, withdrawal reflex
 
-## 99. What Happens to YOUR Spine, Shoulders, and Grip When You Hang  Every Day
+## 102. What Happens to YOUR MUSCLES When You Walk Backwards After 60?
+
+- **Video ID:** `VPSeyGBvG68`
+- **URL:** https://www.youtube.com/watch?v=VPSeyGBvG68
+- **Upload date:** 2026-08-26
+- **Duration:** 25:05
+- **Source file:** `sources/clean/VPSeyGBvG68.txt`
+- **Main subjects:** forward walking's quadriceps demand as almost entirely eccentric ("braking"/shock-absorbing) rather than concentric (force-producing), and what reversing direction flips, the vastus medialis obliquus (VMO) as a specific, under-recruited quad muscle in forward walking, and why reverse walking selectively re-engages it, a claimed 30-40% drop in kneecap (patellofemoral) compressive force when walking backward versus forward, reframing some knee pain as a loading-direction problem rather than wear, chronically tight hamstrings after 60 reframed as a nervous-system protective holding pattern rather than a flexibility deficit, and reciprocal inhibition (Sherrington's principle) as the mechanism reverse walking uses to release it, how reversing direction also re-engages the anterior tibialis, foot sole mechanoreceptors, and the gluteus maximus as a driver of hip extension and posterior-chain tension, a practical, safety-forward protocol for introducing backward walking
+- **Body systems:** musculoskeletal and connective tissue, nervous system
+- **Recommended practices:** backward walking, starting conservatively near a wall or sturdy handrail, in short distances with a check-behind before each pass, a treadmill (handrails on both sides, a belt-driven surface, slow starting speed) as a middle-ground option for building confidence before open-floor backward walking, flat, stable-soled footwear rather than thick cushioned shoes, to give foot receptors better ground-feel information during backward walking
+- **Important concepts:** eccentric versus concentric contraction — a muscle producing force while lengthening (braking) versus while shortening (driving) — as the specific mechanical difference between forward and backward walking's demand on the quadriceps, reciprocal inhibition (attributed to physiologist Charles Sherrington) — contracting one muscle automatically signals the spinal cord to relax the muscle working against it, proprioceptive reweighting — with visual path-preview removed, pressure/stretch receptors in the sole of the foot become a primary rather than backup source of balance feedback
+
+## 103. What Happens to YOUR Spine, Shoulders, and Grip When You Hang  Every Day
 
 - **Video ID:** `5GShDTK0lrI`
 - **URL:** https://www.youtube.com/watch?v=5GShDTK0lrI
@@ -2610,7 +2698,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** hang from a bar for 30 seconds, partial hang with feet on the ground for beginners, three to five deep breaths while hanging, alternate passive and scapula-engaged hanging, hang in the afternoon when compression is greatest
 - **Important concepts:** axial traction, intradiscal pressure, proteoglycans and osmotic gradient, intervertebral foramina, glenohumeral capsule and viscoelastic creep, brachiation, grip strength as systemic marker, thoracic outlet, mechanotransduction in bone
 
-## 100. What Happens to YOUR Stomach When Food Arrives Without Warning
+## 104. What Happens to YOUR Stomach When Food Arrives Without Warning
 
 - **Video ID:** `W-3nzX9cdWo`
 - **URL:** https://www.youtube.com/watch?v=W-3nzX9cdWo
@@ -2622,7 +2710,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** cook with sustained aroma rather than reheating sealed food, allow 15-20 minutes minimum of olfactory exposure before eating, combine slow cooking with midday timing and a post-meal walk
 - **Important concepts:** cephalic phase, dorsal motor nucleus of the vagus, olfactory habituation, Maillard reaction and caramelisation volatiles, anticipatory insulin pulse and GLUT4 priming, salivary amylase and lingual lipase, bile emulsification and micelle formation
 
-## 101. What Happens When You STOP Watching News
+## 105. What Happens When You STOP Watching News
 
 - **Video ID:** `dsXSF8Y6-QQ`
 - **URL:** https://www.youtube.com/watch?v=dsXSF8Y6-QQ
@@ -2634,7 +2722,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** episodic rather than continuous news formats, stepping away long enough for staggered recovery, time in nature as amygdala extinction trials
 - **Important concepts:** threshold detector, noise floor, gain, habituation vs sensitisation, Bayesian prior and posterior probability, cortisol half-life and exponential decay, variable ratio reinforcement, Shannon entropy, nucleus accumbens, prediction error, wanting versus liking, negative feedback loop, gain saturation, glucocorticoid receptor downregulation, diurnal cortisol rhythm, extinction trials, attention restoration theory
 
-## 102. What Missing ONE Night Does to Your Body
+## 106. What Missing ONE Night Does to Your Body
 
 - **Video ID:** `yk3Amg7jkMc`
 - **URL:** https://www.youtube.com/watch?v=yk3Amg7jkMc
@@ -2646,7 +2734,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** set a hard limit on hours awake, do not drive when sleep deprived, recover with full nights rather than accumulating deficit
 - **Important concepts:** adenosine accumulation and clearance, synaptic recalibration and signal-to-noise, memory transfer from hippocampus to cortex, prefrontal-amygdala braking circuit, microsleeps and the sleep-wake switch, natural killer cells, metabolic triage
 
-## 103. What ONE Failed Valve Does to Every Vein Below It in YOUR Leg
+## 107. What ONE Failed Valve Does to Every Vein Below It in YOUR Leg
 
 - **Video ID:** `5m65orqBBAo`
 - **URL:** https://www.youtube.com/watch?v=5m65orqBBAo
@@ -2658,7 +2746,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** break the hydrostatic column often — steps, not posture, avoid prolonged motionless standing, graduated compression stockings
 - **Important concepts:** bicuspid venous valve, hydrostatic column, Laplace's law, elastic versus plastic deformation, perforator incompetence, ambulatory venous pressure
 
-## 104. What Should YOUR Body Get Every Evening After 50
+## 108. What Should YOUR Body Get Every Evening After 50
 
 - **Video ID:** `XkNJEa4UrfE`
 - **URL:** https://www.youtube.com/watch?v=XkNJEa4UrfE
@@ -2670,7 +2758,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** finish eating three hours before bed, amber lenses from about 8pm, warm shower 90 minutes before bed, suboccipital release with a tennis ball peanut for 60-90 seconds, tongue to hard palate practice, clear the nose, five minutes of extended-exhale or cyclic sighing
 - **Important concepts:** hepatic clock genes and de novo lipogenesis, dim light melatonin onset, melanopsin and 480 nm, peripheral vasodilation and core temperature nadir, jugular foramen compression, genioglossus tone and nasal nitric oxide, respiratory sinus arrhythmia, nucleus tractus solitarius, glymphatic clearance
 
-## 105. What Sleeping 8 Hours Does to YOUR BODY
+## 109. What Sleeping 8 Hours Does to YOUR BODY
 
 - **Video ID:** `MUQSpFXrSnc`
 - **URL:** https://www.youtube.com/watch?v=MUQSpFXrSnc
@@ -2682,7 +2770,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** fix the wake time seven days a week, target actual sleep rather than time in bed, get vertical in the morning rather than lying in, keep weekend wake time the same as weekdays
 - **Important concepts:** U-shaped mortality/aging curve, sleep inertia, sleep cycles and phase error, receptor upregulation, glymphatic system and concentration gradient, amyloid beta oligomerisation, tau hyperphosphorylation, lymphatic flow and muscular pumping, organ clock resynchronisation rates, sleep latency and fragmentation
 
-## 106. What That Bump Beside YOUR Big Toe Actually Is
+## 110. What That Bump Beside YOUR Big Toe Actually Is
 
 - **Video ID:** `eOOEmX-m-Ac`
 - **URL:** https://www.youtube.com/watch?v=eOOEmX-m-Ac
@@ -2694,7 +2782,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** a wide, untapered toe box that lets the big toe lie straight, a lower heel to shift forefoot load back toward the heel, a stiffer or gently curved sole to offload the joint at pushoff, barefoot time at home to reduce daily wedging hours, the removable-insole overhang check to test whether a shoe actually fits the foot
 - **Important concepts:** hallux valgus as a Latin-named deviation (turning away), not a growth, the intermetatarsal angle measured on standing X-ray, a tendon-relocation feedback loop that accelerates once the joint has drifted, ligament laxity and inherited joint geometry as the two tissue-side risk factors, bursa versus cartilage versus transferred-load pain as three distinct pain sources
 
-## 107. What Those Nail Ridges Reveal About How YOU Age
+## 111. What Those Nail Ridges Reveal About How YOU Age
 
 - **Video ID:** `W7b9RlMo-ro`
 - **URL:** https://www.youtube.com/watch?v=W7b9RlMo-ro
@@ -2706,7 +2794,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** read the ridges by depth and spacing rather than as texture
 - **Important concepts:** the nail matrix, keratin, nail fold capillary loops, nitric oxide and endothelial decline, protein cross-linking, thinning of the capillary comb, the iron-dependent bottleneck in blueprint copying, zinc-clamped protein switches, Beau's line
 
-## 108. What Your 40-Year-Old TRAUMA Still Does to Your Body
+## 112. What Your 40-Year-Old TRAUMA Still Does to Your Body
 
 - **Video ID:** `wrc2SDiMsOU`
 - **URL:** https://www.youtube.com/watch?v=wrc2SDiMsOU
@@ -2718,7 +2806,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 40 minutes of moderate walking, three times weekly, slow breathing at six breaths per minute, sustained physical contact, humming or vocal resonance, daily routine and predictability, morning sunlight, evening darkness
 - **Important concepts:** adverse childhood experiences (ACEs), HPA axis, cortisol baseline vs reactivity, glucocorticoid receptor density, vagal tone, cholinergic anti-inflammatory pathway, telomeres, telomerase, oxidative stress, amygdala volume and reactivity, hippocampal contextualisation, DNA methylation, epigenetic inheritance, C-reactive protein, interleukin 6, TNF-alpha, BDNF, neurogenesis, dentate gyrus
 
-## 109. What YOUR Body Does the Night Before a Stroke Hits
+## 113. What YOUR Body Does the Night Before a Stroke Hits
 
 - **Video ID:** `vxxsAhxold8`
 - **URL:** https://www.youtube.com/watch?v=vxxsAhxold8
@@ -2730,7 +2818,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 200 ml of water 90 minutes before bed, walk during the day, ideally morning and afternoon, five minutes of slow nasal breathing before sleep, consider head elevation (with a physician if stenosis is known)
 - **Important concepts:** Poiseuille's fourth power law, hematocrit and viscosity, Virchow's triad, embolus and lodging site, excitotoxic cascade, core and penumbra, eNOS antithrombotic function
 
-## 110. What YOUR Forward Head Posture Is Doing to Your Vagus Nerve
+## 114. What YOUR Forward Head Posture Is Doing to Your Vagus Nerve
 
 - **Video ID:** `QSBLYfC95AA`
 - **URL:** https://www.youtube.com/watch?v=QSBLYfC95AA
@@ -2742,7 +2830,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** suboccipital release with two balls at the skull base, chin tuck for deep cervical flexors, raise screens to eye level, review pillow height for neutral cervical alignment
 - **Important concepts:** torque (force x distance), isometric contraction and ischemia, jugular foramen, vagal afferents, heart rate variability / RMSSD, migrating motor complex, cholinergic anti-inflammatory pathway, glycation and collagen cross-linking, glymphatic system, reactive hyperemia
 
-## 111. What YOUR Grip Reveals That Blood Pressure Cannot
+## 115. What YOUR Grip Reveals That Blood Pressure Cannot
 
 - **Video ID:** `izsNttOseXI`
 - **URL:** https://www.youtube.com/watch?v=izsNttOseXI
@@ -2754,7 +2842,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** monthly dynamometer reading, both hands, tennis ball squeeze, 10 seconds, five reps, three times daily, track the slope rather than the single number
 - **Important concepts:** hand dynamometry and population norms, diagonal kinetic chain, alpha motor neuron attrition, collateral reinnervation ceiling, ubiquitin proteasome pathway, reactive hyperemia
 
-## 112. What YOUR Immune System Has Been Doing to YOUR Tattoo for 20 Years
+## 116. What YOUR Immune System Has Been Doing to YOUR Tattoo for 20 Years
 
 - **Video ID:** `7gvAenlEkqs`
 - **URL:** https://www.youtube.com/watch?v=7gvAenlEkqs
@@ -2766,7 +2854,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** none recorded
 - **Important concepts:** dermis versus epidermis turnover, phagocytosis and phagosome-lysosome fusion, lymphatic transport threshold, apoptosis and find-me/eat-me signals, Tyndall and Rayleigh scattering, photomechanical fragmentation, granuloma and frustrated phagocytosis, hapten and type IV hypersensitivity
 
-## 113. What YOUR Morning Coffee Actually Does
+## 117. What YOUR Morning Coffee Actually Does
 
 - **Video ID:** `kKJTsh-ofPY`
 - **URL:** https://www.youtube.com/watch?v=kKJTsh-ofPY
@@ -2778,7 +2866,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** delay the first cup 90-120 minutes after waking, water before coffee, cut off caffeine by early afternoon, run a two-week afternoon-coffee comparison
 - **Important concepts:** adenosine and A1/A2A receptors, competitive antagonism, first-order elimination and half-life, slow-wave sleep compression, cortisol awakening response, receptor upregulation, CYP1A2
 
-## 114. What YOUR Morning Erections Actually Tell You About Your Heart
+## 118. What YOUR Morning Erections Actually Tell You About Your Heart
 
 - **Video ID:** `HmUBEhrTs6Y`
 - **URL:** https://www.youtube.com/watch?v=HmUBEhrTs6Y
@@ -2790,7 +2878,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** report the change to a physician in vascular terms, walking, post-meal movement and nasal breathing to restore NO, act on early decline rather than waiting for absence
 - **Important concepts:** nitric oxide and cyclic GMP, Poiseuille's fourth power law, endothelial dysfunction, parasympathetic tone during REM, smooth muscle fibrosis, nocturnal penile tumescence monitoring
 
-## 115. What YOUR Urine Colour Says That Thirst Can No Longer Tell You
+## 119. What YOUR Urine Colour Says That Thirst Can No Longer Tell You
 
 - **Video ID:** `9u-2y0eV4Ko`
 - **URL:** https://www.youtube.com/watch?v=9u-2y0eV4Ko
@@ -2802,7 +2890,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** moving a large evening glass of water into the afternoon instead, to avoid stacking volume on a stiff ventricle and slowed nighttime drain at once — the source's own stated change `[11:13]`, drinking in the first waking hour, when overnight dehydration is at its worst, spreading a day's water across small amounts rather than one large pour, since the kidney's excretion rate is what matters, not the daily total, reading urine color as the hydration signal to trust after 60, rather than thirst or a fixed daily ounce target
 - **Important concepts:** osmoreceptors in the hypothalamus as blood-salinity sensors that both trigger thirst and release antidiuretic hormone, antidiuretic hormone (ADH/vasopressin) — "against urination" — and its circadian nighttime rise, the Frank-Starling mechanism as the heart's youthful buffer against a volume load, hyponatremia as dilution injury when intake outpaces the kidney's fixed excretion ceiling, collagen cross-linking/glycation as the shared chemistry stiffening the ventricle, arteries, eye lens, and spinal discs, glomerular filtration rate declining ~1%/year after age 40 (Lindeman)
 
-## 116. Where Should You Spend 30 Minutes Every Month
+## 120. Where Should You Spend 30 Minutes Every Month
 
 - **Video ID:** `Adh1myK3_CE`
 - **URL:** https://www.youtube.com/watch?v=Adh1myK3_CE
@@ -2814,7 +2902,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 30 minutes under a canopy, monthly, one weekend in a forest per month, walking barefoot on forest ground where possible
 - **Important concepts:** phytoncides, terpenes, isoprene units, alpha-pinene, beta-pinene, d-limonene, camphene, natural killer cells, MHC class I, missing self, immunological synapse, perforin, granzymes, apoptosis, salivary cortisol, HPA axis, heart rate variability, parasympathetic dominance, grounding, global atmospheric electrical circuit, zeta potential, blood viscosity
 
-## 117. Why 1 Flight of STAIRS Beats YOUR 30-Minute Walk
+## 121. Why 1 Flight of STAIRS Beats YOUR 30-Minute Walk
 
 - **Video ID:** `fArccOlBJkI`
 - **URL:** https://www.youtube.com/watch?v=fArccOlBJkI
@@ -2826,7 +2914,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** three flights daily, up and down, take the stairs down as well as up, use the handrail initially and reduce reliance over weeks, start with one flight if three is too many
 - **Important concepts:** work equals force times displacement, metabolic equivalents, excess post-exercise oxygen consumption, peak versus sustained cardiac output, concentric versus eccentric loading, tendon cross-link density and stiffness, Wolff's law and bending moment, peak aerobic capacity threshold
 
-## 118. Why 20 Years of Stretching Never Fixed YOUR Hamstrings
+## 122. Why 20 Years of Stretching Never Fixed YOUR Hamstrings
 
 - **Video ID:** `YWSgliDBHUQ`
 - **URL:** https://www.youtube.com/watch?v=YWSgliDBHUQ
@@ -2838,7 +2926,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** the toe-drop test to identify the tissue, ten nerve glide oscillations daily, stop static hamstring stretching if the tightness is neural, move to first sensation only, never maximum stretch
 - **Important concepts:** sciatic nerve and mesoneurium, nerve excursion and glide, neural mechanosensitivity, fascial densification and hyaluronic acid aggregation, intraneural edema and vasa nervorum, gliding versus tensioning techniques, sarcomeres added in series
 
-## 119. Why 75% Resolve Without Surgery — And YOUR Doctor May Not Have Said This
+## 123. Why 75% Resolve Without Surgery — And YOUR Doctor May Not Have Said This
 
 - **Video ID:** `KQaRs0gSi4A`
 - **URL:** https://www.youtube.com/watch?v=KQaRs0gSi4A
@@ -2850,7 +2938,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** early controlled movement within pain tolerance rather than strict bed rest, walking as the cyclic loading that feeds the disc, gentle flexion-extension cycling to drive imbibition
 - **Important concepts:** annulus fibrosus lamellae and alternating fibre angle, hoop stress and thin-walled pressure vessels, aggrecan and osmotic swelling pressure, Pascal's law in the disc, stress concentration and fatigue cascade, immune privilege and neovascularisation, macrophage phagocytosis and matrix metalloproteinases, Wallerian degeneration and growth cones, imbibition and end plate calcification, advanced glycation end products
 
-## 120. Why 80% of the Signals Run From YOUR Gut to Your Brain
+## 124. Why 80% of the Signals Run From YOUR Gut to Your Brain
 
 - **Video ID:** `nPM83TqEa0E`
 - **URL:** https://www.youtube.com/watch?v=nPM83TqEa0E
@@ -2862,7 +2950,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** a slow extended breath out to reach the speaker fibres, fibre to feed the butyrate-making bacteria, a long unhurried walk to clear circulating cortisol
 - **Important concepts:** the gut's own nervous system, the second brain, tight junction proteins, splanchnic vasoconstriction, the migrating cleaning wave, butyrate, lipopolysaccharide, endotoxin translocation, low-grade systemic inflammation
 
-## 121. Why a 20 Second HUG Changes Your Body's Chemistry
+## 125. Why a 20 Second HUG Changes Your Body's Chemistry
 
 - **Video ID:** `F4evGIwrjA0`
 - **URL:** https://www.youtube.com/watch?v=F4evGIwrjA0
@@ -2874,7 +2962,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** hold or be held for at least 20 seconds, sustained contact for 60+ seconds for cardiac coupling, touch before a stressor rather than after, petting an animal; massage therapy
 - **Important concepts:** myelinated vs unmyelinated fibres, Pacinian and Meissner's corpuscles, C-tactile afferents, somatosensory cortex vs posterior insular cortex, salivary oxytocin, HPA axis buffering, coupled oscillator dynamics, phase locking, entrainment, coregulation, natural killer cell activity
 
-## 122. Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself
+## 126. Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself
 
 - **Video ID:** `17BFodH03VQ`
 - **URL:** https://www.youtube.com/watch?v=17BFodH03VQ
@@ -2886,7 +2974,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 15 to 20 minutes on forearms and face before 10am without sunscreen, sunscreen after the morning window, oral vitamin D3 if photosensitive, under physician guidance, 10,000 lux light box or bright window for circadian signal, daily walking and dietary nitrate as partial substitutes
 - **Important concepts:** cyclobutane pyrimidine dimers, 7-dehydrocholesterol photolysis, nitrosothiol stores, guanylyl cyclase vasodilation, melanopsin and lux deficit, Rayleigh scattering and atmospheric filtering, observational versus randomised evidence
 
-## 123. Why Blue Light WAKES You Up — But Blue Glasses CALM You Down
+## 127. Why Blue Light WAKES You Up — But Blue Glasses CALM You Down
 
 - **Video ID:** `nMac0Ull9m4`
 - **URL:** https://www.youtube.com/watch?v=nMac0Ull9m4
@@ -2898,7 +2986,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** unfiltered bright light in the morning, no glasses, amber or red lenses after sunset, blue-tinted lenses for 10-20 minutes during daytime stress, measure HRV before and after to test personally
 - **Important concepts:** rods and cones, melanopsin and ipRGCs, retinohypothalamic tract, suprachiasmatic nucleus, corticolimbic projections, lux and photon flux, colour constancy, heart rate variability and RMSSD, narrowband versus broadband light
 
-## 124. Why Cold Water on Your Face Does What Breathing Exercises Can't
+## 128. Why Cold Water on Your Face Does What Breathing Exercises Can't
 
 - **Video ID:** `sr9sFZnBz6c`
 - **URL:** https://www.youtube.com/watch?v=sr9sFZnBz6c
@@ -2910,7 +2998,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** cold water on forehead, eyes and cheeks for 30 seconds, hold breath at end of a normal exhale to amplify, use during acute anxiety or panic
 - **Important concepts:** trigeminal nerve branches V1, V2, V3, nucleus ambiguus, vagal bradycardia, peripheral vasoconstriction, simultaneous sympathetic and parasympathetic activation, splenic contraction, cold shock response, supra-additive stimulus integration
 
-## 125. Why Cutting ALL Fat Is Starving YOUR Brain
+## 129. Why Cutting ALL Fat Is Starving YOUR Brain
 
 - **Video ID:** `7KL3oOYTByM`
 - **URL:** https://www.youtube.com/watch?v=7KL3oOYTByM
@@ -2922,7 +3010,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** keep fat at roughly the evidence-based share of calories rather than minimising it, include unsaturated fat from olive oil, avocado, nuts and fatty fish, always take fat-soluble vitamins with fat in the same meal, eliminate trans fats
 - **Important concepts:** phospholipid bilayer and fluid mosaic model, saturated versus cis-unsaturated geometry, lateral diffusion coefficient, saltatory conduction and nodes of Ranvier, critical micelle concentration, docosahexaenoic acid, pregnenolone and the steroid hormone tree, trans double bond geometry
 
-## 126. Why Cutting Salt Does Something to YOUR Body Nobody Warned You About
+## 130. Why Cutting Salt Does Something to YOUR Body Nobody Warned You About
 
 - **Video ID:** `jtLYRKdp4Dc`
 - **URL:** https://www.youtube.com/watch?v=jtLYRKdp4Dc
@@ -2934,7 +3022,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** treat sodium as a range to manage rather than a quantity to minimise, replace electrolytes during prolonged endurance exercise, not water alone, raise cramps, fatigue, confusion or unsteadiness with a prescriber if on a thiazide
 - **Important concepts:** sodium-potassium ATPase, membrane potential and field strength, voltage-gated sodium and potassium channels, nodes of Ranvier and conduction velocity, sinoatrial node automaticity, hyponatremia staging, aquaporins and osmotic water movement, renin-angiotensin-aldosterone cascade, J-shaped dose-response
 
-## 127. Why Does Your Body NEVER Cool Below 37 Degrees?
+## 131. Why Does Your Body NEVER Cool Below 37 Degrees?
 
 - **Video ID:** `ZdHrY0l78ug`
 - **URL:** https://www.youtube.com/watch?v=ZdHrY0l78ug
@@ -2946,7 +3034,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** none recorded
 - **Important concepts:** Arrhenius equation, activation energy, Boltzmann distribution, protein folding, hydrogen bonds, van der Waals, hydrophobic effect, denaturation, heat shock proteins, thermal exclusion zone, pyrogens, hypothalamic set point, ATP hydrolysis, second law of thermodynamics
 
-## 128. Why Eating Once a Day Helps YOUR Gut but Costs YOUR Muscle
+## 132. Why Eating Once a Day Helps YOUR Gut but Costs YOUR Muscle
 
 - **Video ID:** `OUln7rLXg3M`
 - **URL:** https://www.youtube.com/watch?v=OUln7rLXg3M
@@ -2958,7 +3046,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** if using OMAD, build the meal around protein and fat, eat it slowly over 30-45 minutes, place the meal between 11am and 1pm, three protein feedings if muscle is the priority
 - **Important concepts:** migrating motor complex and nutrient reset, mTOR activation ceiling, receptor internalisation, frequency versus amplitude, gluconeogenesis from muscle protein, autophagy and mitophagy
 
-## 129. Why Every Doctor Gives You the Same Advice — And None of Them Explain Why
+## 133. Why Every Doctor Gives You the Same Advice — And None of Them Explain Why
 
 - **Video ID:** `37OOcftcmbU`
 - **URL:** https://www.youtube.com/watch?v=37OOcftcmbU
@@ -2970,7 +3058,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** movement as a maintenance signal, morning outdoor light, adequate sleep, periodic fasting (12-18 hours), social contact, nasal and diaphragmatic breathing, brief controlled stress (cold, heat, intensity)
 - **Important concepts:** second law of thermodynamics, entropy, damage rate vs repair rate, Wolff's law, endothelial shear stress and nitric oxide, suprachiasmatic nucleus, melanopsin, glymphatic system, mTOR, AMPK, autophagy, ubiquitination, proteasome, glycation, telomere shortening, Bohr effect and the oxyhaemoglobin dissociation curve, hormesis, heat shock proteins
 
-## 130. Why Every Scan YOU Ever Had Is Still Written in Your DNA
+## 134. Why Every Scan YOU Ever Had Is Still Written in Your DNA
 
 - **Video ID:** `P2o1OdrXJAQ`
 - **URL:** https://www.youtube.com/watch?v=P2o1OdrXJAQ
@@ -2982,7 +3070,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** ask the dose before any scan, ask whether the image will change management, arrive well slept, well hydrated, with low inflammation, keep your own cumulative imaging record
 - **Important concepts:** photoelectric effect and Compton scattering, hydroxyl radical, single and double strand breaks, base excision, nucleotide excision, homologous recombination, apoptosis as quality control, millisievert, multi-hit model of carcinogenesis, linear no-threshold model, incidental finding cascade
 
-## 131. Why Gardening Without Gloves Changes Your Brain Chemistry
+## 135. Why Gardening Without Gloves Changes Your Brain Chemistry
 
 - **Video ID:** `RYBagD7_RQM`
 - **URL:** https://www.youtube.com/watch?v=RYBagD7_RQM
@@ -2994,7 +3082,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 10 minutes of bare hands in soil, gardening without gloves, a shallow container of real garden soil indoors for limited mobility
 - **Important concepts:** stratum corneum, keratinocytes, lipid matrix, Fick's law diffusion, micro-abrasions as bypass channels, TRPM8 cold receptors, Meissner, Merkel, Pacinian, Ruffini, cortical homunculus and default mode network, toll-like receptors, Langerhans cells, regulatory T cells, inflammaging, Mycobacterium vaccae, dorsal raphe, serotonergic neurons, geosmin, Streptomyces
 
-## 132. Why It Feels Like Part of YOU Didn't Come Back After Anaesthesia
+## 136. Why It Feels Like Part of YOU Didn't Come Back After Anaesthesia
 
 - **Video ID:** `8Srl8GL_nbY`
 - **URL:** https://www.youtube.com/watch?v=8Srl8GL_nbY
@@ -3006,7 +3094,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** none recorded
 - **Important concepts:** the perturbational complexity index (TMS-EEG measurement of cortical integration), the thalamus as the relay hub for every sense except smell, hippocampal timing-dependent synaptic strengthening (encoding) versus experience assembly, the frontal alpha rhythm as a real-time depth-of-anesthesia signature, postoperative neuroinflammation as distinct from anesthetic drug action
 
-## 133. Why LAUGHING Is the Most Violent Thing Your Body Does Willingly
+## 137. Why LAUGHING Is the Most Violent Thing Your Body Does Willingly
 
 - **Video ID:** `4vXVV7ClxQs`
 - **URL:** https://www.youtube.com/watch?v=4vXVV7ClxQs
@@ -3018,7 +3106,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** regular time with people who make you genuinely laugh, laughter after a meal, deliberate group laughter
 - **Important concepts:** diaphragm, glottis, intercostals, transversus abdominis, pelvic floor, Duchenne laughter, orbicularis oculi, vagus nerve passing through the diaphragm, endothelium, nitric oxide, shear stress, beta endorphins, natural killer cells, immunoglobulin A, cortisol, mirror neuron system, contagion, prefrontal inhibitory control
 
-## 134. Why Looking at the HORIZON Resets Your Entire Nervous System
+## 138. Why Looking at the HORIZON Resets Your Entire Nervous System
 
 - **Video ID:** `2e_Yp9YJgrQ`
 - **URL:** https://www.youtube.com/watch?v=2e_Yp9YJgrQ
@@ -3030,7 +3118,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** look at the farthest visible point outdoors, five minutes outdoors in the morning, graduated re-exposure to open outdoor spaces
 - **Important concepts:** accommodation, accommodative spasm / pseudomyopia, presbyopia, focal vs. panoramic vision, optic flow, melanopsin ipRGCs, suprachiasmatic nucleus, lux
 
-## 135. Why Losing Weight Gets HARDER Every Time YOU Try
+## 139. Why Losing Weight Gets HARDER Every Time YOU Try
 
 - **Video ID:** `T8Jzg_lZ-fo`
 - **URL:** https://www.youtube.com/watch?v=T8Jzg_lZ-fo
@@ -3042,7 +3130,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** a 300-500 calorie deficit rather than an aggressive one, resistance training throughout the deficit, shift calories toward protein at the same total, protect sleep, expect maintenance to feel like a mild deficit for years
 - **Important concepts:** metabolic adaptation, non-exercise activity thermogenesis, adipocyte number and carbon-14 dating, leptin set point, ghrelin, peptide YY, cholecystokinin, thermic effect of food, activity stat hypothesis
 
-## 136. Why Moving SLOWLY Trains YOUR Brain Faster Than Moving Fast
+## 140. Why Moving SLOWLY Trains YOUR Brain Faster Than Moving Fast
 
 - **Video ID:** `DWXqhyZkwco`
 - **URL:** https://www.youtube.com/watch?v=DWXqhyZkwco
@@ -3054,7 +3142,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** perform any habitual movement at one-third speed, the 10-second chair descent as both training and assessment, vary the trajectory to prevent re-automation, morning practice
 - **Important concepts:** cerebellar motor programs and automation threshold, Fitts' law, proprioceptive sampling resolution, motor unit rotation, vestibular-cerebellar integration weighting, Purkinje cells, use-dependent synaptic reinforcement
 
-## 137. Why Moving Water Makes You Feel BETTER
+## 141. Why Moving Water Makes You Feel BETTER
 
 - **Video ID:** `uG9xUDbjh1g`
 - **URL:** https://www.youtube.com/watch?v=uG9xUDbjh1g
@@ -3066,7 +3154,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 20 minutes or more beside moving water, choosing turbulent water over still, viewing water when proximity is not possible
 - **Important concepts:** Lenard effect, negative air ions, monoamine oxidase (MAO), serotonin degradation, SSRI reuptake vs MAO degradation pathways, pink noise / one-over-f noise, alpha vs beta waves, heart rate variability, skin conductance, thalamus-to-amygdala fast subcortical pathway, riparian corridors
 
-## 138. Why Poor Circulation Is the Wrong Answer for YOUR Numb Feet
+## 142. Why Poor Circulation Is the Wrong Answer for YOUR Numb Feet
 
 - **Video ID:** `Jlt39TIPLMs`
 - **URL:** https://www.youtube.com/watch?v=Jlt39TIPLMs
@@ -3078,7 +3166,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** distinguish tingling from fixed numbness, daily foot inspection when pain sensation is reduced, walking for angiogenesis in the nerve supply, seek clinical evaluation and metabolic workup
 - **Important concepts:** axonal transport (fast and slow), vasa nervorum, Poiseuille's fourth power law, stocking-glove distribution, saltatory conduction and demyelination, diameter hierarchy of vascular failure
 
-## 139. Why Remembering YOUR Dreams Means You Slept Worse
+## 143. Why Remembering YOUR Dreams Means You Slept Worse
 
 - **Video ID:** `ljs2l971lp4`
 - **URL:** https://www.youtube.com/watch?v=ljs2l971lp4
@@ -3090,7 +3178,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** stop treating absent dream recall as a problem, protect unbroken sleep rather than chasing vivid dreams
 - **Important concepts:** norepinephrine withdrawal in REM, acetylcholine surge, REM atonia, prefrontal deactivation, lucid dreaming as partial prefrontal reactivation, overnight emotional recalibration
 
-## 140. Why Rocking Calms You at 70 the Same Way It Calmed You at 7 Months
+## 144. Why Rocking Calms You at 70 the Same Way It Calmed You at 7 Months
 
 - **Video ID:** `wwgvdD9fQ_w`
 - **URL:** https://www.youtube.com/watch?v=wwgvdD9fQ_w
@@ -3102,7 +3190,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 20 minutes in a rocking chair in the evening, rock at a self-selected frequency, no counting, no screen during the session
 - **Important concepts:** vestibular system beyond balance (state regulation), locus ceruleus / norepinephrine, dorsal raphe nucleus / serotonin, vestibular nuclei, thalamocortical oscillator and entrainment vs sedation, sleep spindles, N3 slow wave sleep, semicircular canals and otolith organs, frontal theta (4-8 Hz), critical developmental window / brainstem plasticity
 
-## 141. Why Shivering Keeps You Alive
+## 145. Why Shivering Keeps You Alive
 
 - **Video ID:** `wrejViQw0Qo`
 - **URL:** https://www.youtube.com/watch?v=wrejViQw0Qo
@@ -3114,7 +3202,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** rapid rewarming in moist heat for frostbite, protecting extremities with high surface-area-to-volume ratios
 - **Important concepts:** temperature as atomic motion, absolute zero, conduction, convection, radiation, wind chill as convective rate, not temperature, TRPM8, TRPA1, conformational change, second law of thermodynamics, Carnot constraint, ATP hydrolysis, myosin ATPase, SERCA, UCP1 / thermogenin, proton gradient, ATP synthase, beta-3 adrenergic receptors, cyclic AMP, lipase, hexagonal ice lattice, heterogeneous nucleation, osmotic dehydration, reperfusion injury, Ostwald ripening, Stefan-Boltzmann law, Arrhenius kinetics
 
-## 142. Why Simple Walking Stopped Rebuilding YOUR Energy
+## 146. Why Simple Walking Stopped Rebuilding YOUR Energy
 
 - **Video ID:** `e28MeRe_axE`
 - **URL:** https://www.youtube.com/watch?v=e28MeRe_axE
@@ -3126,7 +3214,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** training at the effort level where a full sentence is possible but reluctantly so, holding that effort for roughly 30-60 minutes per session, repeating the effort weekly for 8-12 weeks to reach measurable new mitochondrial density, pairing this with separate heavy resistance training, since it does not build muscle mass on its own
 - **Important concepts:** mitochondria and the electron transport chain (complex I onward), PGC-1 alpha as the "construction foreman" triggering new mitochondrial growth, the NAD-based electron shuttle thinning with age, citrate synthase as a bench proxy for mitochondrial number, glycolysis as a fast but roughly 15-fold less fuel-efficient emergency energy route, respiratory exchange ratio and blood lactate as measures of the fat-to-sugar fuel crossover, mitochondrial fission as the mechanism of new mitochondria forming
 
-## 143. Why Sitting in a Heated Room Reduced Cardiovascular Death by 50%
+## 147. Why Sitting in a Heated Room Reduced Cardiovascular Death by 50%
 
 - **Video ID:** `s5k7g6av5gw`
 - **URL:** https://www.youtube.com/watch?v=s5k7g6av5gw
@@ -3138,7 +3226,31 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** sauna 20 minutes at about 80C, four to seven times weekly, build gradually from 10 minutes at 70C, hot bath at 40-42C for 20 minutes as substitute, evening session 2-3 hours before bed, hydrate before, during and after
 - **Important concepts:** cutaneous vasodilation, cardiac output and stroke volume, pulse wave velocity and arterial stiffness, eccentric cardiac remodeling, shear stress and eNOS, heat shock proteins HSP70 and HSP90, preconditioning, NF-kB and C-reactive protein, plasma volume expansion, dynorphin and mu opioid receptors
 
-## 144. Why Stretching Feels Good But Makes YOUR Body Worse
+## 148. Why Sleeping Too Much May Change Your Body After 60
+
+- **Video ID:** `kb6RxORFqO0`
+- **URL:** https://www.youtube.com/watch?v=kb6RxORFqO0
+- **Upload date:** 2026-08-31
+- **Duration:** 23:41
+- **Source file:** `sources/clean/kb6RxORFqO0.txt`
+- **Main subjects:** long sleep duration (e.g., 10 hours) past 60 reframed as a symptom of failing sleep efficiency rather than a sign of restoration, deep (slow-wave) sleep's outsized share of physical repair work, and why it shrinks disproportionately with age relative to lighter sleep stages, three downstream systems claimed to suffer when deep sleep shrinks but total hours in bed rise to compensate — inflammation, cardiovascular rhythm, and muscle/joint immobility, the glymphatic system's dependence specifically on deep sleep for clearing brain metabolic waste, and what incomplete clearance is linked to, circadian flattening — reduced light exposure and its downstream effect on melatonin timing — as a root driver pushing the body toward more, less efficient sleep, hidden treatable conditions (sleep apnea, hypothyroidism, subclinical depression) that can disguise themselves as ordinary "sleeping more because I'm older"
+- **Body systems:** sleep and circadian, immune and lymphatic, cardiovascular, musculoskeletal and connective tissue
+- **Recommended practices:** tracking sleep efficiency rather than hours in bed — how quickly sleep arrives, how few interruptions occur, how alert the next day feels, 10-15 minutes of morning light exposure shortly after waking, to anchor circadian timing, regular daytime movement (not necessarily exercise) to counter the stiffening effects of long immobile stretches and keep joints lubricated, consistent sleep and wake times, including on weekends, bringing persistent fatigue and long sleep duration to a doctor as a symptom worth investigating, rather than attributing it to age by default
+- **Important concepts:** sleep architecture — the internal structure of a night's sleep across ~90-minute cycles of light, REM, and deep (slow-wave/N3) sleep, as distinct from total time in bed, the "frayed charging cable" framing for why more hours in bed can still deliver less real restoration, once the deep-sleep "connection" itself has degraded, the glymphatic system — a fluid-clearance network active mainly during deep sleep that flushes metabolic waste from brain tissue, circadian flattening — a less pronounced day/night difference in hormone release and alertness, driven partly by reduced daylight exposure with age
+
+## 149. Why Stretching After Waking FIXES What Sleep Does to Your Muscles
+
+- **Video ID:** `Tb6jrfTewtw`
+- **URL:** https://www.youtube.com/watch?v=Tb6jrfTewtw
+- **Upload date:** 2026-09-02
+- **Duration:** 20:49
+- **Source file:** `sources/clean/Tb6jrfTewtw.txt`
+- **Main subjects:** sleep reframed as a physical, not just mental, event — five separate mechanical processes that leave tissue stiffer and the nervous system under-calibrated by morning, thixotropy, the property that makes fascia behave like a gel when still and a fluid when moved, as the core mechanism behind morning stiffness, overnight fluid shifts in spinal discs (swelling) and in muscle (pooling, cooling) as a separate, parallel source of morning vulnerability, collagen cross-linking as the specific mechanism behind the felt sensation of being "shortened" on waking, pandiculation — the involuntary full-body stretch-and-yawn reflex seen in nearly all mammals on waking — as the biological template for a deliberate morning routine, why morning stretching relieves grogginess faster than caffeine, via a direct sensory route to the brain's reticular activating system rather than a chemical (adenosine-blocking) one
+- **Body systems:** musculoskeletal and connective tissue, nervous system
+- **Recommended practices:** a roughly 5-minute morning sequence — cat-cow (spinal flexion/extension on hands and knees), a full-body reach-and-lengthen with a brief isometric hold through fingertips and toes before releasing, then hip openers (a low lunge, a gentle figure-4 stretch) — paired throughout with slow nasal breathing, exhales longer than inhales
+- **Important concepts:** thixotropy — a material property (fascia's included) where thickness/viscosity depends on recent motion, thickening at rest like honey in a cold fridge and thinning with movement like a shaken ketchup bottle, collagen cross-linking — temporary molecular bonds forming between adjacent, motionless collagen fibers overnight, distinct from scarring or true shortening, pandiculation — the hardwired, involuntary stretch-and-yawn reflex present across the mammalian nervous system, distinct from a habit or a stretching technique, the reticular activating system (RAS) — a brainstem structure that converts a flood of proprioceptive/stretch-receptor input into cortical arousal, offered as a faster wake-up route than caffeine's adenosine-blocking mechanism
+
+## 150. Why Stretching Feels Good But Makes YOUR Body Worse
 
 - **Video ID:** `nkKfxfLwxCo`
 - **URL:** https://www.youtube.com/watch?v=nkKfxfLwxCo
@@ -3150,7 +3262,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 60 seconds of gentle oscillatory movement before any stretch, warm water on waking, lateral sway, torso rotation, hip circles, spinal undulation, stretch only after the melting interval
 - **Important concepts:** hyaluronic acid, fascia and fasciacytes, thixotropy, sol-gel transition, mechanoreceptors, collagen alignment vs. disorganised repair collagen, Arrhenius-type temperature relationship
 
-## 145. Why Stroke Recovery Feels Like an Altered State
+## 151. Why Stroke Recovery Feels Like an Altered State
 
 - **Video ID:** `evPjSR8U-eY`
 - **URL:** https://www.youtube.com/watch?v=evPjSR8U-eY
@@ -3162,7 +3274,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** repeated motor attempts during the early plasticity window, mirror therapy and observing movement, continued practice after the window narrows
 - **Important concepts:** ischemic vs hemorrhagic stroke, membrane potential, sodium-potassium pump, infarct core, ischemic penumbra, anastomoses, thrombolysis, mechanical thrombectomy, diaschisis, tonic input, glutamate, NMDA and AMPA receptors, excitotoxicity, BDNF, TrkB receptors, dendritic spines, Hebbian plasticity, cortical homunculus, transcranial magnetic stimulation, mirror neuron system, contralateral recruitment, white matter remodelling
 
-## 146. Why Sunlight Is the Most Powerful Drug You Take Every Day
+## 152. Why Sunlight Is the Most Powerful Drug You Take Every Day
 
 - **Video ID:** `n2F24fK1uLY`
 - **URL:** https://www.youtube.com/watch?v=n2F24fK1uLY
@@ -3174,7 +3286,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 10 to 20 minutes of midday sun on arms and face, 15 minutes outdoors within the first hour of waking, light therapy box at 10,000 lux in winter, sunscreen beyond the maintenance window
 - **Important concepts:** 7-dehydrocholesterol and previtamin D3, calcidiol and calcitriol, melanopsin and the retinohypothalamic tract, suprachiasmatic nucleus, lux and circadian amplitude, raphe nuclei and serotonin turnover, S-nitrosothiol reservoirs, thymine dimers and nucleotide excision repair, cathelicidins
 
-## 147. Why the Food You Ate Decides What YOUR Eyes Can Do
+## 153. Why the Food You Ate Decides What YOUR Eyes Can Do
 
 - **Video ID:** `Rtgrp0Bkyb4`
 - **URL:** https://www.youtube.com/watch?v=Rtgrp0Bkyb4
@@ -3186,7 +3298,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** eating cooked spinach and kale for lutein; egg yolk, orange peppers, and goji berries for zeaxanthin, eating leafy greens with fat (e.g. avocado or avocado oil dressing) rather than fat-free, a home glare-recovery self-count after an oncoming vehicle passes, keeping windshields and eyeglass lenses clean, since scattering mimics a slow filter
 - **Important concepts:** photostress recovery time as a clinical localization tool, chromatic aberration and why the eye's single lens can't focus blue and red together, macular pigment optical density (MPOD) and how it's measured non-invasively, selective carotenoid uptake — only 3 of ~800 plant carotenoids admitted to the macula, RPE65's "day job" (visual pigment regeneration) and its "moonlighting" second reaction
 
-## 148. Why the Food YOU Feared Does What Your Medication Can't
+## 154. Why the Food YOU Feared Does What Your Medication Can't
 
 - **Video ID:** `rzaxpumi_tI`
 - **URL:** https://www.youtube.com/watch?v=rzaxpumi_tI
@@ -3198,7 +3310,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** build spice tolerance gradually from the bottom of the Scoville scale over 4-6 weeks, identify which of the three tolerance variables dominates your own profile, persist through the burn phase when using capsaicin cream
 - **Important concepts:** TRPV1 and the vanilloid binding pocket, conformational change as the detection mechanism, C fibers and the spinothalamic tract, receptor internalisation and desensitisation, calcitonin gene-related peptide, prostaglandins and cyclooxygenase, sigmoidal dose-response, descending inhibition, substance P depletion
 
-## 149. Why the Posture You Were Taught Is STARVING YOUR Discs
+## 155. Why the Posture You Were Taught Is STARVING YOUR Discs
 
 - **Video ID:** `wJUWg397i00`
 - **URL:** https://www.youtube.com/watch?v=wJUWg397i00
@@ -3210,7 +3322,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** change position every 15 to 20 minutes, stand from sitting at least hourly, allow fidgeting rather than suppressing it, sit on a stool without a backrest, floor sitting to force positional variation, avoid loaded forward bending in the first hour after waking
 - **Important concepts:** nucleus pulposus and annulus fibrosus, intradiscal pressure, imbibition, vertebral end plate channels, creep in viscoelastic materials, proteoglycans and osmotic gradient, facet joint load transfer, mechanoreceptors in the annulus
 
-## 150. Why the Same Food Spikes Your Blood Sugar Differently
+## 156. Why the Same Food Spikes Your Blood Sugar Differently
 
 - **Video ID:** `LWqhQvOLF8w`
 - **URL:** https://www.youtube.com/watch?v=LWqhQvOLF8w
@@ -3222,7 +3334,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** chew each bite 30 to 40 times, let the meal run 20 to 25 minutes
 - **Important concepts:** surface area to volume ratio, salivary amylase and pH denaturation, glycaemic index as partly mechanical, cephalic phase of digestion, cholecystokinin and peptide YY delay, pterygoid venous plexus, periodontal mechanoreceptors
 
-## 151. Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day
+## 157. Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day
 
 - **Video ID:** `EjOr6Q-z9oM`
 - **URL:** https://www.youtube.com/watch?v=EjOr6Q-z9oM
@@ -3234,7 +3346,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** walk after eating, protect sleep before a day you want good readings, eat the larger meal earlier, leave real gaps between meals, do not react to the screen in real time
 - **Important concepts:** interstitial fluid and sensor lag, glucose oxidase electrode, insulin signalling pathway and GLUT4, contraction-mediated glucose uptake, hepatic de novo lipogenesis, hyperinsulinaemia preceding hyperglycaemia
 
-## 152. Why the Smell of Rain Makes You Feel Something You Can't Name
+## 158. Why the Smell of Rain Makes You Feel Something You Can't Name
 
 - **Video ID:** `kyTZl0KEXw8`
 - **URL:** https://www.youtube.com/watch?v=kyTZl0KEXw8
@@ -3246,7 +3358,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** stepping outside during light rain on dry ground
 - **Important concepts:** petrichor, geosmin, Streptomyces, springtails, aerosol generation from trapped air bubbles, olfactory epithelium, receptor neurons, olfactory bulb, hippocampus, amygdala, thalamic bypass, the Proust effect, olfactory receptor pseudogenes, ozone (O3)
 
-## 153. Why the Sunset You See Is Different From Any Sunset a Young Person See
+## 159. Why the Sunset You See Is Different From Any Sunset a Young Person See
 
 - **Video ID:** `I8h0RX28fw0`
 - **URL:** https://www.youtube.com/watch?v=I8h0RX28fw0
@@ -3258,7 +3370,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** eating dark leafy greens and egg yolks for macular pigment, extra care on uneven ground at dusk
 - **Important concepts:** Rayleigh scattering, inverse fourth power law, Mie scattering, crystallins, 3-hydroxykynurenine derivatives, lens transmission spectra, macular pigment optical density (MPOD), lutein, zeaxanthin, rods and cones, photoreceptor loss rates, Purkinje shift, senile miosis, chromatic aberration, green flash, neural white balance adaptation
 
-## 154. Why the Weather Makes Your Body ACHE
+## 160. Why the Weather Makes Your Body ACHE
 
 - **Video ID:** `Qvcd0UY-JB4`
 - **URL:** https://www.youtube.com/watch?v=Qvcd0UY-JB4
@@ -3270,7 +3382,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** warming joints before use on cold mornings, keeping peripheral joints warm
 - **Important concepts:** barometric pressure, millibars, hectopascals, Boyle's law, Henry's law, decompression sickness, Arrhenius equation, non-Newtonian fluid, synovial fluid, hyaluronic acid, lubricin, subchondral bone, nociceptors, baroreceptors, transmural pressure, paranasal sinuses, ostia
 
-## 155. Why Two Needles Silence YOUR Mind in 15 Minutes
+## 161. Why Two Needles Silence YOUR Mind in 15 Minutes
 
 - **Video ID:** `CtM-hB2oe4Q`
 - **URL:** https://www.youtube.com/watch?v=CtM-hB2oe4Q
@@ -3282,7 +3394,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 20-60 minutes of two-handed rhythmic craft, any craft requiring coordinated bilateral opposition, group handwork for the additive social effect, larger needles and thicker yarn if joints are limited
 - **Important concepts:** default mode network, cortical resource competition, cerebellar error correction, bilateral rhythmic stimulation, motor-respiratory coupling, frontal theta oscillation, cortical homunculus and hand representation
 
-## 156. Why Walking Backwards FIXES What Forward Walking Breaks
+## 162. Why Walking Backwards FIXES What Forward Walking Breaks
 
 - **Video ID:** `bUF1mry7i_k`
 - **URL:** https://www.youtube.com/watch?v=bUF1mry7i_k
@@ -3294,7 +3406,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** walk backwards 10 minutes, three sessions per week, start at half normal walking pace, 2-3 minutes, building 1-2 minutes weekly, use a clear hallway, marked track, or low-speed treadmill, supported reverse stepping in place if balance is a concern
 - **Important concepts:** central pattern generators, cerebellar execution versus learning state, climbing fibre error signals, patellofemoral compressive force, eccentric versus concentric quadriceps action, sensory reweighting, reciprocal inhibition, dorsolateral prefrontal cortex
 
-## 157. Why Weight on Your Body Calms Your Nervous System in Minutes
+## 163. Why Weight on Your Body Calms Your Nervous System in Minutes
 
 - **Video ID:** `yqDyF9LM2AQ`
 - **URL:** https://www.youtube.com/watch?v=yqDyF9LM2AQ
@@ -3306,7 +3418,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** weighted blanket or distributed weight across chest, 5-8 kg, coverage from collarbone to lower ribcage, lie still, breathe normally, no breath control, start at the low end of the range if respiratory capacity is reduced
 - **Important concepts:** deep pressure stimulation, Ruffini endings, Pacinian corpuscles, Merkel cells, nucleus tractus solitarius, functional residual capacity, pulmonary stretch receptors / Hering-Breuer reflex, baroreflex and the vagal brake, nociceptor activation threshold, proprioceptive body map, heart rate variability
 
-## 158. Why Wind Makes You Feel More Alive Than Anything Indoors
+## 164. Why Wind Makes You Feel More Alive Than Anything Indoors
 
 - **Video ID:** `RqFSA2WpQmI`
 - **URL:** https://www.youtube.com/watch?v=RqFSA2WpQmI
@@ -3318,7 +3430,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 2 minutes standing outdoors facing into wind, arms held slightly away from the body, expose skin rather than shielding it
 - **Important concepts:** Meissner corpuscles, Ruffini endings, free nerve endings, hair follicle receptors, vellus hair, somatosensory cortex / cortical homunculus, default mode network, habituation to constant stimuli, Hering-Breuer reflex, tidal volume and tidal breathing, boundary layer and evaporative heat loss, TRPM8 and TRPV4 channels, hormesis, otolith organs, semicircular canals, cerebellar postural computation
 
-## 159. Why YOU Always Have Mucus in Your Throat
+## 165. Why YOU Always Have Mucus in Your Throat
 
 - **Video ID:** `dzzuKeLiYnM`
 - **URL:** https://www.youtube.com/watch?v=dzzuKeLiYnM
@@ -3330,7 +3442,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** finish the last meal three hours before lying down, water first thing in the morning, breathe through the nose, especially overnight, humming to sweep nitric oxide and accelerate the cilia
 - **Important concepts:** cilia and basal bodies, metachronal wave and hydrodynamic coupling, sol and gel layers, power stroke versus recovery stroke, dynein motors, laryngopharyngeal reflux, guanylate cyclase and cyclic GMP, viscous drag
 
-## 160. Why YOU Can Focus for Hours on This — But Not on That
+## 166. Why YOU Can Focus for Hours on This — But Not on That
 
 - **Video ID:** `flCOMoBwxBs`
 - **URL:** https://www.youtube.com/watch?v=flCOMoBwxBs
@@ -3342,7 +3454,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** place the hardest cognitive task in the 60-90 minute post-exercise window, break unrewarding tasks into timed sprints with micro-rewards, treat caffeine as position-dependent rather than universally helpful
 - **Important concepts:** dorsolateral prefrontal cortex and working memory, D1 receptor, inverted-U dose response, dopamine transporter and reuptake, mesocortical versus mesolimbic pathways, tonic versus phasic release, tyrosine hydroxylase
 
-## 161. Why YOU Can't Remember Names After 50
+## 167. Why YOU Can't Remember Names After 50
 
 - **Video ID:** `wNTEGXK4lvo`
 - **URL:** https://www.youtube.com/watch?v=wNTEGXK4lvo
@@ -3354,7 +3466,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** aerobic exercise for hippocampal synaptic density, genuinely novel learning to load the retrieval circuit, protect slow-wave sleep for overnight consolidation
 - **Important concepts:** storage versus retrieval failure, spreading activation, myelin and conduction velocity, synaptic density and parallel search paths, dopamine and signal-to-noise in retrieval, phonological and semantic interference, network connectivity and node redundancy, long-term potentiation during slow-wave sleep
 
-## 162. Why You Feel Different in Sunlight Than in a Warm Room
+## 168. Why You Feel Different in Sunlight Than in a Warm Room
 
 - **Video ID:** `-kyGLmKSjZk`
 - **URL:** https://www.youtube.com/watch?v=-kyGLmKSjZk
@@ -3366,7 +3478,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 15 minutes of morning sunlight, walking outdoors rather than on an indoor treadmill, two hours of outdoor time daily for children's eye development
 - **Important concepts:** optical window of biological tissue, electron transport chain, complex IV, ATP synthase, cytochrome c oxidase absorption peaks (660 and 830 nm), photolysis, soluble guanylate cyclase, cyclic GMP, photobiomodulation, superoxide radicals, oxidative stress, mitochondrial melatonin, amacrine cells, retinal dopamine, nitrosothiols, AMPK, GLUT4
 
-## 163. Why You Feel Physically HEAVIER When You're Sad
+## 169. Why You Feel Physically HEAVIER When You're Sad
 
 - **Video ID:** `HCFcXMpu-VY`
 - **URL:** https://www.youtube.com/watch?v=HCFcXMpu-VY
@@ -3378,7 +3490,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** gentle movement within reduced capacity, sleep the body is already requesting, social contact despite the withdrawal impulse, physical touch on the upper back
 - **Important concepts:** microglia, pro-inflammatory cytokines, interleukin 6, interleukin 1 beta, TNF-alpha, C-reactive protein, anterior cingulate cortex, anterior insula, sickness behaviour, telomeres, proprioceptive gain, central sensitisation, muscle spindles, Golgi tendon organs, joint receptors, GABAergic interneurons, pyramidal cells, psychomotor retardation, cervical torque, moment arm, takotsubo cardiomyopathy, GLUT4 transporters, proteolysis
 
-## 164. Why You Look Like Your Parents AFTER 60 — But Didn't at 30
+## 170. Why You Look Like Your Parents AFTER 60 — But Didn't at 30
 
 - **Video ID:** `mBZ6mBxwgHY`
 - **URL:** https://www.youtube.com/watch?v=mBZ6mBxwgHY
@@ -3390,7 +3502,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** none recorded
 - **Important concepts:** source code vs blueprint, runtime environment, epigenetic drift, genome-wide association studies, polygenic traits, meiosis, crossover, breakpoints, de novo mutations, DNA methylation, histone acetylation, IGF2, glucocorticoid receptor gene, promoter and enhancer regions, Sonic Hedgehog, Hox genes, Pax6, X-inactivation, calico mosaicism, microchimerism
 
-## 165. Why You Press Your Palms Against Your Eyes When Youre Exhausted
+## 171. Why You Press Your Palms Against Your Eyes When Youre Exhausted
 
 - **Video ID:** `_ZzJH1TlY2Y`
 - **URL:** https://www.youtube.com/watch?v=_ZzJH1TlY2Y
@@ -3402,7 +3514,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** palming for 60 seconds, three times per working day, heels on the cheekbones, fingers overlapping on the forehead, slow nasal breathing during palming, remove the palms slowly and keep eyes closed five more seconds
 - **Important concepts:** oculocardiac reflex, trigeminal nerve ophthalmic division, sinoatrial node and acetylcholine, alpha versus beta cortical oscillations, the Berger effect, TRPV3 and TRPV4, arteriovenous anastomoses, melanopsin and intrinsically photosensitive retinal ganglion cells, homeostatic plasticity
 
-## 166. Why You Should LET Your Cat Sleep on You
+## 172. Why You Should LET Your Cat Sleep on You
 
 - **Video ID:** `gvmz4zN8NHc`
 - **URL:** https://www.youtube.com/watch?v=gvmz4zN8NHc
@@ -3414,7 +3526,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** allow contact rather than proximity, permit overnight contact during the anabolic window, one fabric layer maximum, no air gap
 - **Important concepts:** acoustic impedance matching, frequency-dependent attenuation, tonic vibration reflex, osteocyte mechanotransduction, trabecular resonance, circadian bone remodelling
 
-## 167. Why You Should TOUCH a Tree Every Day — The Science Nobody Talks About
+## 173. Why You Should TOUCH a Tree Every Day — The Science Nobody Talks About
 
 - **Video ID:** `gyOTlBlFEuo`
 - **URL:** https://www.youtube.com/watch?v=gyOTlBlFEuo
@@ -3426,7 +3538,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** touching a tree; standing close to bark, time within the diffusion cloud of a tree or forest
 - **Important concepts:** electromagnetic repulsion, volatile organic compounds, vapour pressure, phytoncides, Fick's law of diffusion, natural killer cells, global electrical circuit, zeta potential, thermal conductivity, conservation of mass, photosynthesis, chlorophyll, cellulose, lignin, mycorrhizal networks, scale-free networks, meristematic cells, cambium, telomerase, cavitation limit, square-cube law
 
-## 168. Why You Should Walk on Dirt, Not Concrete
+## 174. Why You Should Walk on Dirt, Not Concrete
 
 - **Video ID:** `mb653wMoNEE`
 - **URL:** https://www.youtube.com/watch?v=mb653wMoNEE
@@ -3438,7 +3550,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** walk on grass, dirt, gravel and woodland trails, progression over 4-6 weeks starting with the easiest natural surface, walking poles during the transition, reduce sole thickness only after surface adaptation
 - **Important concepts:** Wolff's law, trabecular architecture, osteoblasts and osteoclasts, intrinsic foot muscles, medial longitudinal arch, plantar fascia, Meissner, Merkel, Pacinian, Ruffini, cerebellar calibration, subtalar joint, inversion and eversion, peroneus longus and brevis, gait variability
 
-## 169. Why YOU Wake Up 1 Minute Before Your Alarm
+## 175. Why YOU Wake Up 1 Minute Before Your Alarm
 
 - **Video ID:** `HZP7rmDrboA`
 - **URL:** https://www.youtube.com/watch?v=HZP7rmDrboA
@@ -3450,7 +3562,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** rehearse the wake time before sleep, use a single alarm at a consistent time, avoid the multi-alarm and snooze pattern, move afternoon caffeine earlier, exercise within the first hour of waking
 - **Important concepts:** ACTH and the anticipatory cortisol surge, arousal threshold, circadian average versus prefrontal expectation, sleep inertia, snooze cycle as post-cascade sleep
 
-## 170. Why You Wake Up at 3AM — What Your Body Is Really Doing
+## 176. Why You Wake Up at 3AM — What Your Body Is Really Doing
 
 - **Video ID:** `UDN4JHYlq7o`
 - **URL:** https://www.youtube.com/watch?v=UDN4JHYlq7o
@@ -3462,7 +3574,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** bright light in the evening between 7 and 9pm, reduce morning light in the first hour after waking, bedroom at 18-19C, low-dose physiological melatonin, 40 minutes of walking three times a week, warm bath 90 minutes before bed, spoken-word audio at low volume if awake past 15-20 minutes
 - **Important concepts:** suprachiasmatic nucleus, circadian phase advance, melanopsin and 480 nm light, slow-wave sleep and arousal threshold, glymphatic clearance, cortisol awakening response, default mode network, social jet lag
 
-## 171. Why You Wake Up at Your Most Vulnerable — And Never Know It
+## 177. Why You Wake Up at Your Most Vulnerable — And Never Know It
 
 - **Video ID:** `LHFObEj47Sc`
 - **URL:** https://www.youtube.com/watch?v=LHFObEj47Sc
@@ -3474,7 +3586,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** water in the first minutes of waking, 10 minutes of outdoor light within the first two hours, do not make consequential decisions in the first 30 minutes, treat driving in the first 30 minutes as impaired
 - **Important concepts:** cortisol awakening response, platelet adhesiveness and fibrinolytic nadir, nocturnal dipping and non-dipping, sleep inertia and prefrontal perfusion, melanopsin and lux thresholds, acute spike versus sustained plateau
 
-## 172. Why YOUR Back Pain Returns After Every Treatment
+## 178. Why YOUR Back Pain Returns After Every Treatment
 
 - **Video ID:** `fHKfNsL6wnM`
 - **URL:** https://www.youtube.com/watch?v=fHKfNsL6wnM
@@ -3486,7 +3598,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** posterior diagonal hold, lateral hold on forearm and knees, modified anterior hold, eight to twelve second holds, three repetitions, move during the twenty minute window after holds, increase loading by about ten percent per week
 - **Important concepts:** spine as flexible rod requiring guy wires, stiffness asymptotic curve, spinal buckling, collagen delamination, vertebral end plate fracture, Wolff's law and tissue adaptation rates, neural drive inhibition, proximal-distal force transfer
 
-## 173. Why Your Balance Is the Most Dangerous Thing You're Losing
+## 179. Why Your Balance Is the Most Dangerous Thing You're Losing
 
 - **Video ID:** `tx-4Ed23PlM`
 - **URL:** https://www.youtube.com/watch?v=tx-4Ed23PlM
@@ -3498,7 +3610,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** stand on one leg to test and to train, practise balance barefoot or in thin soles, tai chi or similar slow weight-shift practice, continue training indefinitely, since gains revert
 - **Important concepts:** semicircular canals and otolith organs, otoconia and BPPV, vestibular hair cells, proprioception and mechanoreceptors, ankle, hip and stepping strategies, Purkinje cells and forward models, sensorimotor recalibration
 
-## 174. Why YOUR Blood Pressure Stays High Even When You Do Everything Right
+## 180. Why YOUR Blood Pressure Stays High Even When You Do Everything Right
 
 - **Video ID:** `1wjs-atgmMw`
 - **URL:** https://www.youtube.com/watch?v=1wjs-atgmMw
@@ -3510,7 +3622,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** address multiple systems rather than one, investigate snoring and morning headache with a doctor, sustain lower pressure long enough for sensors to relearn
 - **Important concepts:** systolic and diastolic, renin cascade and sodium retention, endothelium and nitric oxide, sympathetic overactivity, collagen cross-linking and pulse wave reflection, pulse pressure, nocturnal dipping, baroreceptors and set-point resetting, 11-beta-HSD1 cortisol regeneration in visceral fat
 
-## 175. Why YOUR Body Shuts Down After Every Single Meal
+## 181. Why Your Body Needs This One Movement More After 60
+
+- **Video ID:** `X0UEkdOvDFE`
+- **URL:** https://www.youtube.com/watch?v=X0UEkdOvDFE
+- **Upload date:** 2026-08-30
+- **Duration:** 19:06
+- **Source file:** `sources/clean/X0UEkdOvDFE.txt`
+- **Main subjects:** forward walking, sitting, and driving as three daily habits that all train the hip in one plane only, leaving lateral (sideways) stability almost entirely unpracticed, the gluteus medius, framed as the specific, unglamorous stabilizer that holds the pelvis level during single-leg stance and is the first to weaken from this one-plane life, why falls are overwhelmingly sideways or diagonal, not straight forward or backward — and why a body fit for miles of forward walking can still be unprepared for that direction, fascia's need for multidirectional shear (not just forward-and-back loading) to stay hydrated, framed as a "drought" mechanism distinct from cartilage wear, neuroplasticity as still fully available past 60 — the constraint was never biological capacity, only the absence of novel movement demanding it, the sacroiliac joint's need for rotational/lateral loading to redistribute compressive stress that purely sagittal movement concentrates in the same fibers
+- **Body systems:** musculoskeletal and connective tissue, nervous system
+- **Recommended practices:** standing near a countertop or sturdy chair and stepping one foot out to the side and back, for a handful of repetitions per side, to re-recruit the gluteus medius, a subtle weight shift — feet hip-width apart, slowly rocking body weight from one leg to the other without narrowing the base of support, gentle side taps — tapping a foot out to the side and drawing it back without transferring full weight onto it, as a near-zero-fall-risk entry point for anyone nervous about balance work
+- **Important concepts:** one-directional (sagittal-plane) loading as the driver of both muscular disuse and fascial "dehydration," distinct from cartilage wear, the glutius medius as a pelvis-stabilizing "guy-wire," bracing the standing-leg side against gravity's pull on the unsupported side during each step, the catch-step reflex — a sub-quarter-second, subconscious lateral hip correction that prevents a stumble from becoming a fall, and that atrophies without lateral-movement practice, novel movement as the trigger for motor-cortex re-engagement and fresh neural pathway formation, distinct from the automaticity of a well-rehearsed pattern like forward walking
+
+## 182. Why YOUR Body Shuts Down After Every Single Meal
 
 - **Video ID:** `9-J4kMqOvWA`
 - **URL:** https://www.youtube.com/watch?v=9-J4kMqOvWA
@@ -3522,7 +3646,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** a 10-minute walk between the meal and sitting down, fibre to flatten the delivery curve, shift caloric mass to midday, a 20-minute nap rather than a longer one, smaller meals if postprandial dizziness occurs
 - **Important concepts:** parasympathetic dominance and splanchnic vasodilation, cholecystokinin and brainstem arousal inhibition, orexin neurons and glucose-gated potassium channels, large neutral amino acid transporter competition, enteric nervous system, thermic effect of food, postprandial hypotension
 
-## 176. Why YOUR Body Treats a Quiet Room Like a Predator
+## 183. Why YOUR Body Treats a Quiet Room Like a Predator
 
 - **Video ID:** `Bt6AclD764Y`
 - **URL:** https://www.youtube.com/watch?v=Bt6AclD764Y
@@ -3534,7 +3658,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** open the window for birdsong or crickets, use continuous broadband sound at night, choose located sound over diffuse where possible, avoid engineered silence for sleep
 - **Important concepts:** acoustic onset and the startle reflex, pink and brown noise, auditory masking and microarousal, respiratory entrainment, respiratory sinus arrhythmia, the auricular branch of the vagus, interaural time and level difference
 
-## 177. Why YOUR Body Treats Cold Water Like a Drug
+## 184. Why YOUR Body Treats Cold Water Like a Drug
 
 - **Video ID:** `4i1dOrfSBJI`
 - **URL:** https://www.youtube.com/watch?v=4i1dOrfSBJI
@@ -3546,7 +3670,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 30 seconds of full cold at the end of a warm shower, breathe through the gasp with slow exhales, morning rather than evening, start at 15 seconds and build over a week if over 65, separate from workouts by at least four hours if training for performance
 - **Important concepts:** norepinephrine and locus coeruleus discharge, brown fat and UCP1, non-shivering thermogenesis, RBM3 cold shock protein, vagal anti-inflammatory pathway, control and predictability in stress, habituation versus mechanism
 
-## 178. Why Your Body Treats Sitting Like a DISEASE
+## 185. Why Your Body Treats Sitting Like a DISEASE
 
 - **Video ID:** `6fu-RL-0F9o`
 - **URL:** https://www.youtube.com/watch?v=6fu-RL-0F9o
@@ -3558,7 +3682,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** stand and walk 5 minutes every 45 minutes, interrupt sitting rather than eliminate it, stand at the end of a television episode
 - **Important concepts:** endothelium, nitric oxide and eNOS, shear stress, flow-mediated dilation, lipoprotein lipase (LPL), mechanotransduction, GLUT4 translocation, calf muscle pump, Virchow's triad, VCAM-1 / ICAM-1 adhesion molecules, atherosclerosis
 
-## 179. Why Your Body Was Actually Designed for Squatting
+## 186. Why Your Body Was Actually Designed for Squatting
 
 - **Video ID:** `q1sSm5EDwAU`
 - **URL:** https://www.youtube.com/watch?v=q1sSm5EDwAU
@@ -3570,7 +3694,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** resting in a deep squat (heels flat, hips below knees, spine long) rather than a chair when comfortable and safe to do so, to feed hip and knee cartilage through its full range, regaining squat depth gradually with support — holding a door frame while lowering the hips, letting the arms take load while ankles and hips relearn the pattern, propping the heels on a small ramp or rolled towel to compensate for limited ankle dorsiflexion while depth is rebuilt, scattering brief ~10-second squat breaks through an ordinary day (waiting for coffee, on a phone call) rather than relying on one long session
 - **Important concepts:** cartilage as avascular tissue that depends on mechanical compression/release (not blood flow) for nutrient delivery, gluteal amnesia — reduced neural drive to the glutes from prolonged disuse at a seated hip angle, the puborectalis sling and the anorectal angle it maintains during upright sitting, lumbar disc nutrition via movement-driven pumping, versus static, unevenly loaded seated compression, pelvic floor hypertonicity as the "opposite" failure mode of weakness, from a muscle that never fully releases, load distribution across hip/knee/ankle cartilage in deep versus shallow squat depth, ankle dorsiflexion range as a hidden driver of compensatory patterns higher up the kinetic chain
 
-## 180. Why Your Brain Produces A Pain It Cannot Feel
+## 187. Why Your Brain Produces A Pain It Cannot Feel
 
 - **Video ID:** `Wag_cOqiLYE`
 - **URL:** https://www.youtube.com/watch?v=Wag_cOqiLYE
@@ -3582,7 +3706,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** consistent sleep timing, including after a migraine day, hydration, regular meals, head alignment to reduce cervical input, dark and quiet rooms as thalamic interventions, track medication days per month
 - **Important concepts:** nociceptors, cortical spreading depression, excitation-inhibition balance, meninges and dura mater, trigeminovascular system and CGRP, neurogenic inflammation, central sensitisation and allodynia, trigeminocervical nucleus, medication overuse headache
 
-## 181. Why YOUR Ears Ring And What the Sound Actually Is
+## 188. Why YOUR Ears Ring And What the Sound Actually Is
 
 - **Video ID:** `Xd7Cz-cRkeU`
 - **URL:** https://www.youtube.com/watch?v=Xd7Cz-cRkeU
@@ -3594,7 +3718,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** hearing protection during high-decibel exposure, masking sound at night, hearing aids to restore input in the lost band, cognitive habituation over months
 - **Important concepts:** cochlea and basilar membrane stiffness gradient, traveling wave and resonance position, inner and outer hair cells, stereocilia and tip links, tonotopic map, deafferentation and spontaneous firing, cortical remapping, signal-to-noise masking
 
-## 182. Why YOUR Hair Follicles Are Strangled
+## 189. Why YOUR Hair Follicles Are Strangled
 
 - **Video ID:** `leBnH_pE3EY`
 - **URL:** https://www.youtube.com/watch?v=leBnH_pE3EY
@@ -3606,7 +3730,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** four minutes of daily scalp massage, the ten-second scalp mobility self-test, reduce habitual forehead and jaw tension
 - **Important concepts:** follicular miniaturisation, anagen, catagen, telogen, dermal papilla, 5-alpha reductase and DHT, galea aponeurotica, mechanotransduction, Wnt beta-catenin signalling, perifollicular fibrosis, prostaglandin D2
 
-## 183. Why YOUR Knee and Back Hurt at the Same Time
+## 190. Why YOUR Knee and Back Hurt at the Same Time
 
 - **Video ID:** `gBKD75NuFO4`
 - **URL:** https://www.youtube.com/watch?v=gBKD75NuFO4
@@ -3618,7 +3742,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** measure the heel-toe drop of your shoes, the kneeling dorsiflexion test, graduated 8-12 week heel reduction, sustained calf stretching, 30-60 second holds
 - **Important concepts:** heel-toe drop, dorsiflexion range, impact transient, varus moment and medial compartment loading, anterior pelvic tilt and lordosis, facet joint compression, tendon remodelling rate
 
-## 184. Why Your LEGS Are Filling Your Bladder at 2AM
+## 191. Why Your LEGS Are Filling Your Bladder at 2AM
 
 - **Video ID:** `d9PWCrjX2sA`
 - **URL:** https://www.youtube.com/watch?v=d9PWCrjX2sA
@@ -3630,7 +3754,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** elevate legs above heart level before bed, then urinate, graduated compression stockings worn through the day, walking to drive the calf pump, move diuretic dosing to the morning (with the prescriber), caffeine before noon, reduce sodium, sit on the edge of the bed for 30 seconds before standing
 - **Important concepts:** hydrostatic pooling and redistribution, atrial natriuretic peptide, antidiuretic hormone and its age-related decline, nocturnal polyuria, osmotic diuresis, orthostatic hypotension
 
-## 185. Why YOUR Muscle Ignores the Protein YOU Eat
+## 192. Why Your LEGS Are the First Place Aging Reveals Itself
+
+- **Video ID:** `zyEwO7jhPhw`
+- **URL:** https://www.youtube.com/watch?v=zyEwO7jhPhw
+- **Upload date:** 2026-08-25
+- **Duration:** 25:46
+- **Source file:** `sources/clean/zyEwO7jhPhw.txt`
+- **Main subjects:** four separate leg systems argued to fail in parallel before visible signs of aging appear elsewhere — nerve conduction, fast-twitch muscle fiber loss, venous return, and proprioception, the leg nerve as the longest, most repeatedly loaded nerve pathway in the body, and why signal-transport slowdown shows up in the feet first, dynapenia — the age-related loss of fast-twitch power specifically, occurring independently of and faster than general muscle mass loss, the calf muscle as a "second heart," pumping venous blood against gravity, and what happens as that pump weakens, the sit-to-stand-from-a-chair test and gait speed ("the fifth vital sign") as clinical windows into all four systems at once, leg muscle as a major site of glucose clearance via mitochondrial density, tying leg strength directly to metabolic (not just mobility) health, the foot's intrinsic arch muscles and how their weakening reroutes mechanical stress up into the knee and lower back
+- **Body systems:** musculoskeletal and connective tissue, nervous system, cardiovascular, endocrine and hormonal
+- **Recommended practices:** the rapid chair stand — rising from a seated position as quickly as possible using the legs alone, no hands or arm momentum — used deliberately as a repeated training stimulus, not just a diagnostic test, short periods of barefoot movement on varied, uneven surfaces (grass, sand, an uneven trail) to give the sole's mechanoreceptors genuinely novel sensory input, slow, controlled eccentric calf loading — lowering the heel from a raised position under control rather than letting gravity do it — to rebuild the venous-return "second heart"
+- **Important concepts:** dynapenia — power/fast-twitch-fiber loss that occurs independently of, and faster than, general muscle mass loss (sarcopenia), the calf muscle pump ("second heart") — a mechanical pump distinct from the cardiac pump, forcing venous blood upward against gravity with every step, proprioceptive drift — a growing delay between an actual weight shift (e.g., a slip beginning) and the brain registering it, as mechanoreceptor sensitivity declines with age, gait speed as "the fifth vital sign" — a single measurable output requiring clean nerve transmission, fast-twitch power, cardiovascular sufficiency, arch stability, and balance coordination simultaneously
+
+## 193. Why YOUR Muscle Ignores the Protein YOU Eat
 
 - **Video ID:** `sF9zE_QXSYA`
 - **URL:** https://www.youtube.com/watch?v=sF9zE_QXSYA
@@ -3642,7 +3778,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** 35 to 40 grams of quality protein at breakfast, spread protein across three or four meals rather than loading dinner, pair each protein meal with some muscular loading, count leucine percentage by protein source
 - **Important concepts:** leucine as the signalling amino acid, anabolic resistance and rising thresholds, muscle protein synthesis versus breakdown, per-meal ceiling, coincidence detection, sarcopenia, collagen protein and leucine content
 
-## 186. Why YOUR NERVOUS SYSTEM Recovers Faster Under a Tree Than Anywhere Else
+## 194. Why Your MUSCLES Age Faster When You Stop Getting Off the Floor
+
+- **Video ID:** `dcjqrZxElIU`
+- **URL:** https://www.youtube.com/watch?v=dcjqrZxElIU
+- **Upload date:** 2026-08-26
+- **Duration:** 23:28
+- **Source file:** `sources/clean/dcjqrZxElIU.txt`
+- **Main subjects:** sitting-to-standing ability from the floor (no hands, no furniture) as a measured predictor of longevity, contrasted with chairs' narrow ~90° hip-angle demand, the modern built environment (couch, bed, toilet, dining chair — all near-uniform hip height) as a gradual, decision-free elimination of deep hip flexion from daily life, sarcomeres in series as the physical unit that determines a muscle's usable range, added or stripped by the body based on the ranges it's actually asked to work in, neuromuscular pruning — motor pathways serving unused ranges losing signal priority, likened to a city no longer maintaining closed-off highway lanes, fascia's shift from an organized, slick sliding pattern to a disorganized, adhesion-forming crosshatch when a joint's full range goes unused, ground transitions as a dense source of real-time balance training for the ankle and cerebellum, largely absent from a chair-only life
+- **Body systems:** musculoskeletal and connective tissue, nervous system
+- **Recommended practices:** sitting on the floor for a few minutes a day in whatever position is comfortable, using a hand or furniture for support if needed, as the starting step, practicing partial ground transitions — lowering halfway down using a couch or sturdy chair as a light touchpoint rather than the floor itself — then gradually reducing the support (two hands, one hand, a fingertip, then none), prioritizing frequency over intensity — a single deep, unassisted floor transition most days, rather than an occasional maximal attempt
+- **Important concepts:** sarcomeres in series — the microscopic contractile units strung end-to-end that determine how far a muscle can stretch and how much force it can produce at a given length, added or removed by the body based on demand at that range, neuromuscular pruning — the nervous system reducing priority/maintenance to motor pathways that go uncalled-on for deep-range force production, fascial adhesion — disorganized crosshatch collagen fiber deposition that restricts joint range when a joint isn't regularly moved through its full range, the gluteus maximus's mismatch between chair-rising demand (modest, quad-dominated) and floor-rising demand (near-maximal output from a fully lengthened position)
+
+## 195. Why YOUR NERVOUS SYSTEM Recovers Faster Under a Tree Than Anywhere Else
 
 - **Video ID:** `6XmOWCCPh-c`
 - **URL:** https://www.youtube.com/watch?v=6XmOWCCPh-c
@@ -3654,7 +3802,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** sit directly under a canopy rather than near a tree, one hour beneath the canopy
 - **Important concepts:** stomata, xylem, water potential, cohesion-tension, latent heat of vaporisation, urban heat island, chlorophyll A and B absorption bands, near infrared, cytochrome c oxidase, alpha and beta wave activity, terpenes, natural killer cells, low-pass filtering, frequency-dependent attenuation, amygdala threat monitoring, global electrical circuit, ground plane
 
-## 187. Why YOUR Reading Glasses Arrived on Schedule
+## 196. Why YOUR Reading Glasses Arrived on Schedule
 
 - **Video ID:** `P8dp3QJppBA`
 - **URL:** https://www.youtube.com/watch?v=P8dp3QJppBA
@@ -3666,7 +3814,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** walk after meals to lower the glucose peak, use UV-filtering lenses outdoors, increase morning light intensity as the lens yellows
 - **Important concepts:** crystallin proteins and zero turnover, accommodation and zonular fibers, Maillard reaction, Schiff base, Amadori product, advanced glycation end product, photo-oxidative cross-linking, melanopsin and 480 nm transmittance
 
-## 188. Why YOUR Skin Grows Things That Weren't There at 30
+## 197. Why YOUR Skin Grows Things That Weren't There at 30
 
 - **Video ID:** `S0CeHGxl2zY`
 - **URL:** https://www.youtube.com/watch?v=S0CeHGxl2zY
@@ -3678,7 +3826,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** sun protection as the only prevention available before the photon arrives
 - **Important concepts:** p53 and the cell cycle checkpoint, cyclobutane pyrimidine dimer, nucleotide excision repair, C-to-T mutational signature, clonal expansion, mutation field, VEGF and thrombospondin-1 balance, cellular senescence and SASP
 
-## 189. Why YOUR Strength Doesn't Prevent Falls
+## 198. Why YOUR Strength Doesn't Prevent Falls
 
 - **Video ID:** `dfwYYWTyGY4`
 - **URL:** https://www.youtube.com/watch?v=dfwYYWTyGY4
@@ -3690,7 +3838,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** train each of the four directions independently, backward walking, a few steps daily, lateral taps for the frontal plane, head-turn walking for rotational integration, single-leg stance as the platform, not the training
 - **Important concepts:** base of support and centre of mass, reactive window, sagittal, frontal, transverse planes, cerebellar error correction and calibration, Purkinje cells, tonic versus reactive motor programs, vestibulo-visual integration, semicircular canals and hair cell loss
 
-## 190. Why YOUR TEETH Start Breaking After 50
+## 199. Why YOUR TEETH Start Breaking After 50
 
 - **Video ID:** `nYEP1F5kFQA`
 - **URL:** https://www.youtube.com/watch?v=nYEP1F5kFQA
@@ -3702,7 +3850,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** reduce eating frequency to limit acid cycles, fluoride toothpaste twice daily, especially at night, avoid hot-then-cold sequences, soft brush, no horizontal scrubbing at the gum line
 - **Important concepts:** hydroxyapatite and fluorapatite, fatigue fracture and crack propagation, thermal expansion mismatch, Stephan curve and critical pH, remineralisation, hydrodynamic theory of dentinal pain
 
-## 191. Your Body Ages FASTER After 50 — Here's What's Happening Inside
+## 200. Your Body Ages FASTER After 50 — Here's What's Happening Inside
 
 - **Video ID:** `qQQgl_BGiVg`
 - **URL:** https://www.youtube.com/watch?v=qQQgl_BGiVg
@@ -3714,7 +3862,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** none recorded
 - **Important concepts:** entropy and the second law, DNA repair load, telomeres and telomerase, Hayflick limit and senescence, epigenetic methylation and biological age, senescence-associated secretory phenotype, senolytics, disposable soma theory
 
-## 192. Your Body Has a FURNACE Nobody Told You About
+## 201. Your Body Has a FURNACE Nobody Told You About
 
 - **Video ID:** `9MNqrOvyBZE`
 - **URL:** https://www.youtube.com/watch?v=9MNqrOvyBZE
@@ -3726,7 +3874,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** sustained mild cold exposure (15-19 C) rather than extreme cold, regular cold encounter to maintain thermal defences
 - **Important concepts:** preoptic area, warm- and cold-sensitive neurons, set point, Hagen-Poiseuille flow (fourth power of radius), countercurrent heat exchange, shivering thermogenesis, muscle glycogen limit, proton motive force, electron transport chain, ATP synthase as a rotary turbine, UCP1 / thermogenin, uncoupling, beta-3 adrenergic receptors, cyclic AMP, protein kinase A, TRPM8, cold shock response, gasp reflex, PGC1-alpha, mitochondrial biogenesis, beige adipocytes
 
-## 193. YOUR Brain Still Checks for Something That Disappeared 2 Million Years Ago
+## 202. YOUR Brain Still Checks for Something That Disappeared 2 Million Years Ago
 
 - **Video ID:** `zCvHYepPFuI`
 - **URL:** https://www.youtube.com/watch?v=zCvHYepPFuI
@@ -3738,7 +3886,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** avoid late-afternoon caffeine to shorten the transition window, avoid arriving at sleep severely deprived, reduce sympathetic tone before bed to prevent oscillation
 - **Important concepts:** utricle and saccule, otoconia and density mismatch, stereocilia, tip links and mechanotransduction, muscle spindle discharge, ventrolateral preoptic area and the reticular activating system, hypnagogic state, vestibulospinal reflex, retrospective causal construction
 
-## 194. YOUR Cells Aren't Broken — They're Waiting for a Different Signal
+## 203. YOUR Cells Aren't Broken — They're Waiting for a Different Signal
 
 - **Video ID:** `Ip_1lMrxGp8`
 - **URL:** https://www.youtube.com/watch?v=Ip_1lMrxGp8
@@ -3750,7 +3898,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** three meals with no snacking, preserving 2-3 hour recovery windows, walk for 20 minutes after each meal, slow eating to around 25 minutes per meal, shift dietary fat toward unsaturated and omega-3, ask for a fasting insulin alongside fasting glucose
 - **Important concepts:** insulin receptor autophosphorylation, GLUT4 and AS160, clathrin-mediated endocytosis and receptor internalisation, compensatory hyperinsulinemia, hepatic gluconeogenesis and the dawn phenomenon, endoplasmic reticulum stress and the unfolded protein response, AMPK bypass pathway, membrane fluidity
 
-## 195. Your Chair Is Aging You Faster Than Time
+## 204. Your Chair Is Aging You Faster Than Time
 
 - **Video ID:** `CdUXGQy_Q8s`
 - **URL:** https://www.youtube.com/watch?v=CdUXGQy_Q8s
@@ -3762,7 +3910,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** floor sitting in varied positions, floor-to-standing transitions without hands, progressive cushion reduction, progressive removal of external support
 - **Important concepts:** sitting-rising test, hip flexion angles and positional configurations, iliopsoas, adaptive shortening, sarcomeres in series, lumbar lordosis, anterior pelvic tilt, deep squat, gluteus maximus peak force angle, gluteal amnesia, articular cartilage, chondrocytes, synovial fluid, imbibition, motor cortex pruning and plasticity
 
-## 196. Your EAR Has a Hidden Nerve — And It Reaches Your Heart
+## 205. Your EAR Has a Hidden Nerve — And It Reaches Your Heart
 
 - **Video ID:** `lUxY0L1wmZk`
 - **URL:** https://www.youtube.com/watch?v=lUxY0L1wmZk
@@ -3774,7 +3922,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** sustained tragal compression rather than tapping, pair it with resonant breathing at six breaths per minute, track high frequency HRV over months
 - **Important concepts:** sinoatrial node and diastolic depolarisation, funny current, heart rate variability and power spectrum, Arnold's nerve and the mastoid canaliculus, Merkel cells, Meissner's corpuscles, Piezo2, nucleus tractus solitarius, respiratory sinus arrhythmia, cholinergic anti-inflammatory pathway, resonance
 
-## 197. YOUR Eyes Have 16 Muscles You Never Exercise
+## 206. YOUR Eyes Have 16 Muscles You Never Exercise
 
 - **Video ID:** `PmlpIs2TCOw`
 - **URL:** https://www.youtube.com/watch?v=PmlpIs2TCOw
@@ -3786,7 +3934,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** pen near-point accommodation cycling with circular tracking, full-range gaze sweeps in three planes, UV-blocking sunglasses, blood sugar management, extended 20-20-20 breaks with dynamic focus shifting
 - **Important concepts:** crystallin proteins and cross-linking, advanced glycation end products, ciliary muscle and accommodation, extraocular muscles and range of motion loss, choroidal vasculature, accommodation spasm, depth of field and pupil diameter
 
-## 198. YOUR Morning Decides How Fast You Age
+## 207. YOUR Morning Decides How Fast You Age
 
 - **Video ID:** `ui8y9vOm6dw`
 - **URL:** https://www.youtube.com/watch?v=ui8y9vOm6dw
@@ -3798,7 +3946,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** cold water on waking, ten minutes outdoors in morning light, sixty seconds of gentle oscillation before stretching, three minutes of hard chewing, protein above the leucine threshold at breakfast, a walk within twenty minutes of finishing breakfast
 - **Important concepts:** TRPM8 and multimodal summation, melanopsin and lens yellowing, thixotropy and hyaluronic acid, piezoelectric bone loading, trigeminal-hippocampal pathway and BDNF, leucine threshold and mTOR, GLUT4 and AMPK, eNOS and shear stress
 
-## 199. Your Morning Walk Is MISSING the One Thing That Actually Protects You
+## 208. Your Morning Walk Is MISSING the One Thing That Actually Protects You
 
 - **Video ID:** `Hc79_xF69-s`
 - **URL:** https://www.youtube.com/watch?v=Hc79_xF69-s
@@ -3810,7 +3958,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** accumulate three and a half vigorous minutes daily, take stairs fast rather than avoiding them, use 30 to 90 second bursts woven into ordinary days, afternoon for the hardest bursts, keep the walk as the foundation
 - **Important concepts:** accelerometry versus questionnaire measurement, respiratory limitation as the threshold, type I and type II fibres, BDNF and lactate as a signalling molecule, catecholamine surge and NK deployment, myokines and interleukin-6, VO2 max decline and threshold coupling, post-exercise hypotension, heart rate recovery
 
-## 200. YOUR Muscles Are Stronger Going Down — Nobody Told You to Use It
+## 209. YOUR Muscles Are Stronger Going Down — Nobody Told You to Use It
 
 - **Video ID:** `5nJH1YIU5LM`
 - **URL:** https://www.youtube.com/watch?v=5nJH1YIU5LM
@@ -3822,7 +3970,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** slow every descent to three or four seconds, four second chair sits, one second per stair tread, two seconds lowering objects, controlled landing stepping off curbs
 - **Important concepts:** eccentric and concentric contraction, sliding filament theory and cross-bridges, forced cross-bridge detachment, titin, PEVK region, immunoglobulin domains, satellite cells, alpha motor neuron death and collateral sprouting, delayed onset muscle soreness, repeated bout effect
 
-## 201. Your Nose Is a Drug Factory — The Science of How You Breathe
+## 210. Your Nose Is a Drug Factory — The Science of How You Breathe
 
 - **Video ID:** `rO6QLZgmIHs`
 - **URL:** https://www.youtube.com/watch?v=rO6QLZgmIHs
@@ -3834,7 +3982,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** breathe through the nose by default, day and night, slow breathing at about 5.5 breaths per minute, keep the mouth closed during sleep, with positional adjustment or gentle mouth tape, nasal breathing during moderate-intensity exercise
 - **Important concepts:** turbinate bones, nasal cycle, laminar vs. turbulent flow, Reynolds number, mucociliary clearance, nitric oxide and nitric oxide synthase, bronchodilation and pulmonary vasodilation, Bohr effect, hemoglobin-oxygen dissociation curve, carbonic anhydrase, Mayer wave and baroreflex, resonant frequency breathing, microarousals and slow-wave sleep
 
-## 202. Your Pancreas Has a Clock — And It Shuts Down Before Dinner
+## 211. Your Pancreas Has a Clock — And It Shuts Down Before Dinner
 
 - **Video ID:** `egzhIyTP3vE`
 - **URL:** https://www.youtube.com/watch?v=egzhIyTP3vE
@@ -3846,7 +3994,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** move the largest meal to earlier in the day, finish eating before melatonin onset, around 7pm for many adults, compress the eating window to the first 10 to 12 hours after waking
 - **Important concepts:** clock genes (BMAL1, CLOCK, PER, CRY), beta cells and islets of Langerhans, MT1 and MT2 melatonin receptors, GLUT4 translocation, cortisol awakening response, diet-induced thermogenesis, circadian microbiome oscillation
 
-## 203. Your Thymus Is Gone — And Your Immune System Is Running on What It Left Behind
+## 212. Your Thymus Is Gone — And Your Immune System Is Running on What It Left Behind
 
 - **Video ID:** `drmR73nU4AQ`
 - **URL:** https://www.youtube.com/watch?v=drmR73nU4AQ
@@ -3858,7 +4006,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Recommended practices:** reduce sustained cortisol exposure
 - **Important concepts:** primary lymphoid organ, anterior mediastinum, cortex and medulla, T lymphocyte, MHC, antigen, VDJ recombination, RAG1 and RAG2, positive selection, negative selection, apoptosis, AIRE (autoimmune regulator), APS1, thymic involution, T cell receptor excision circles (TRECs), immunosenescence, naive vs memory T cells, replicative senescence, telomere shortening, immunosurveillance, epigenetic age
 
-## 204. Your YAWN Has Nothing to Do With Oxygen
+## 213. Your YAWN Has Nothing to Do With Oxygen
 
 - **Video ID:** `4ETtiIMRvlo`
 - **URL:** https://www.youtube.com/watch?v=4ETtiIMRvlo
@@ -3876,21 +4024,21 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **brain and sensory systems** — 5 Brain Systems Activate at Once — No Other Exercise Comes Close (`m4p36gcifP4`), Can Love Be Explained? — The Science Nobody Talks About (`sBNDNOU1VH8`), Can Suppressing Tears Actually Harm You? (`LKAxXiiY7Kg`), Doing Nothing Is the Most EXHAUSTING Thing Your Body Does (`rRStxBEUE1A`), Rain Does Something to Your Brain That No Sleep Aid Can (`3Ky1YtmNFZM`), The 3 Fall Directions YOUR Body Has Never Rehearsed (`C3VQYvIo0Mo`), The 30-Second Bone-Building Exercise That Requires Nothing But Your Heels (`JGqF054OFx4`), The 60-Second Morning Ritual That Activates 3 Organs at Once (`1mANxKIPcK8`), The 70-Year Mistake That Changed How YOU Treat the Sun (`yTMS_inQRCM`), The Cells She Left Behind — And Why They Never Left (`S_H09_FLeg4`), The Exercise That Pumps EVERY Lymph Vessel at Once (`12kGPUoN0BA`), The Fitness Advice That's Been Slowly Suffocating YOUR Diaphragm (`Wes7ZGxQ8SY`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Loop Inside YOUR Belly That No Diet Can Break Alone (`BzlswZO0jY0`), The Molecule in YOUR Garden That Works Like Valium (`WvmqXh_n7Zo`), The Molecule You Were Taught Is Waste — Is Actually the One Your Brain Needs Most (`co54vFnEHWU`), The One Thing Behind Every System Aging Inside YOUR Body (`lo86B1j2uf8`), The Plateau That Proves YOUR Walk Actually Worked (`_nA9W1PC7Aw`), The Real Reason PAIN Exists (`e27nQVumuek`), The Reason YOU Wake at 3AM That Has Nothing to Do With YOUR Body (`x22pxLJ5lSo`), The Reflex YOUR Body Kept After It Lost Its Purpose (`eLp-r_5HSYA`), The Sleep Position That Protects the Most Organs After 50 (`5qdc4-rR9uQ`), The Switch Inside Your Cells That Flips at 16 Hours Fast (`dJ3tdZF5-t0`), Walking Is the Only Exercise Your Body Was Actually Designed For (`Uo8qxQY2T0U`), What 3 Pitches of Humming Do to YOUR Vagus Nerve, Sinuses, and Throat (`ulHJ4R7i1Z4`), What 50 Years of SHOES Did to YOUR Brain (`rE07mxSv6X4`), What 60 Seconds of SMILING Does to Your Brain — Even When You're Faking It (`hxc0opwYlyA`), What a 20-Minute Nap Before 2PM Does to YOUR Body (`2gwQ9BVOscI`), What Changes Inside YOUR Body When YOU Face Fear (`kHe7AvbKoW4`), What FLOSSING Does to Your Arteries — The Connection Nobody Explains (`EX1zYCGmG9g`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Blood After 2 Hours in a Forest (`zCtsCJ9cACY`), What Happens Inside YOUR Body During a Panic Attack (`H1IPL6q95Ec`), What Happens Inside YOUR Body in the 20 Minutes After Every Meal (`iV3tqeWNdeM`), What Happens Inside YOUR Body When You Stand Up Too Fast (`tYkCvmXCJBc`), What Happens Inside YOUR BRAIN After 72 Hours of Complete Darkness (`cGGB2PQ6PFQ`), What Happens to YOUR BODY If You're Still Awake at 10PM (`zEQf8XkI5eU`), What Happens to Your Body When You Hear Birds Singing (`oqmj-CaeLXM`), What Happens to YOUR BODY When You Hold Your Grandchild (`M_Q_JnKZXe8`), What Happens to YOUR BODY When You Move on an Empty Stomach (`aL4S_1VVpBI`), What Happens to Your BODY When You Pray (`UlXTeinaTBA`), What Happens to YOUR BODY When You Sleep on the Wrong Side (`BJ0Sh6hOK18`), What Happens to YOUR BRAIN When All Sound Stops? (`mN9wlM9bgMo`), What Happens to YOUR Brain When Doctor Lowers Your Blood Pressure (`CkJMMyeFIH4`), What Happens to YOUR BRAIN When You Hum for 60 Seconds? (`QVoGbaq8xos`), What Happens to YOUR FOOT When This One Muscle Stops Working (`I45ltvsK4jI`), What Happens to YOUR MIND When You Sleep? (`6EwQXznpBsg`), What Happens to YOUR Stomach When Food Arrives Without Warning (`W-3nzX9cdWo`), What Happens When You STOP Watching News (`dsXSF8Y6-QQ`), What Missing ONE Night Does to Your Body (`yk3Amg7jkMc`), What Sleeping 8 Hours Does to YOUR BODY (`MUQSpFXrSnc`), What Your 40-Year-Old TRAUMA Still Does to Your Body (`wrc2SDiMsOU`), What YOUR Body Does the Night Before a Stroke Hits (`vxxsAhxold8`), What YOUR Morning Coffee Actually Does (`kKJTsh-ofPY`), What YOUR Urine Colour Says That Thirst Can No Longer Tell You (`9u-2y0eV4Ko`), Why a 20 Second HUG Changes Your Body's Chemistry (`F4evGIwrjA0`), Why Blue Light WAKES You Up — But Blue Glasses CALM You Down (`nMac0Ull9m4`), Why Cutting ALL Fat Is Starving YOUR Brain (`7KL3oOYTByM`), Why Cutting Salt Does Something to YOUR Body Nobody Warned You About (`jtLYRKdp4Dc`), Why Gardening Without Gloves Changes Your Brain Chemistry (`RYBagD7_RQM`), Why It Feels Like Part of YOU Didn't Come Back After Anaesthesia (`8Srl8GL_nbY`), Why Looking at the HORIZON Resets Your Entire Nervous System (`2e_Yp9YJgrQ`), Why Moving SLOWLY Trains YOUR Brain Faster Than Moving Fast (`DWXqhyZkwco`), Why Moving Water Makes You Feel BETTER (`uG9xUDbjh1g`), Why Remembering YOUR Dreams Means You Slept Worse (`ljs2l971lp4`), Why Rocking Calms You at 70 the Same Way It Calmed You at 7 Months (`wwgvdD9fQ_w`), Why Shivering Keeps You Alive (`wrejViQw0Qo`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Stroke Recovery Feels Like an Altered State (`evPjSR8U-eY`), Why Sunlight Is the Most Powerful Drug You Take Every Day (`n2F24fK1uLY`), Why the Food You Ate Decides What YOUR Eyes Can Do (`Rtgrp0Bkyb4`), Why the Same Food Spikes Your Blood Sugar Differently (`LWqhQvOLF8w`), Why the Smell of Rain Makes You Feel Something You Can't Name (`kyTZl0KEXw8`), Why the Sunset You See Is Different From Any Sunset a Young Person See (`I8h0RX28fw0`), Why the Weather Makes Your Body ACHE (`Qvcd0UY-JB4`), Why Two Needles Silence YOUR Mind in 15 Minutes (`CtM-hB2oe4Q`), Why Walking Backwards FIXES What Forward Walking Breaks (`bUF1mry7i_k`), Why Weight on Your Body Calms Your Nervous System in Minutes (`yqDyF9LM2AQ`), Why Wind Makes You Feel More Alive Than Anything Indoors (`RqFSA2WpQmI`), Why YOU Can Focus for Hours on This — But Not on That (`flCOMoBwxBs`), Why YOU Can't Remember Names After 50 (`wNTEGXK4lvo`), Why You Feel Different in Sunlight Than in a Warm Room (`-kyGLmKSjZk`), Why You Feel Physically HEAVIER When You're Sad (`HCFcXMpu-VY`), Why You Look Like Your Parents AFTER 60 — But Didn't at 30 (`mBZ6mBxwgHY`), Why You Press Your Palms Against Your Eyes When Youre Exhausted (`_ZzJH1TlY2Y`), Why You Should TOUCH a Tree Every Day — The Science Nobody Talks About (`gyOTlBlFEuo`), Why You Should Walk on Dirt, Not Concrete (`mb653wMoNEE`), Why YOU Wake Up 1 Minute Before Your Alarm (`HZP7rmDrboA`), Why You Wake Up at 3AM — What Your Body Is Really Doing (`UDN4JHYlq7o`), Why You Wake Up at Your Most Vulnerable — And Never Know It (`LHFObEj47Sc`), Why Your Balance Is the Most Dangerous Thing You're Losing (`tx-4Ed23PlM`), Why YOUR Body Shuts Down After Every Single Meal (`9-J4kMqOvWA`), Why YOUR Body Treats a Quiet Room Like a Predator (`Bt6AclD764Y`), Why YOUR Body Treats Cold Water Like a Drug (`4i1dOrfSBJI`), Why Your Brain Produces A Pain It Cannot Feel (`Wag_cOqiLYE`), Why YOUR Ears Ring And What the Sound Actually Is (`Xd7Cz-cRkeU`), Why YOUR NERVOUS SYSTEM Recovers Faster Under a Tree Than Anywhere Else (`6XmOWCCPh-c`), Why YOUR Reading Glasses Arrived on Schedule (`P8dp3QJppBA`), Why YOUR Strength Doesn't Prevent Falls (`dfwYYWTyGY4`), Your Body Ages FASTER After 50 — Here's What's Happening Inside (`qQQgl_BGiVg`), YOUR Brain Still Checks for Something That Disappeared 2 Million Years Ago (`zCvHYepPFuI`), Your Chair Is Aging You Faster Than Time (`CdUXGQy_Q8s`), YOUR Eyes Have 16 Muscles You Never Exercise (`PmlpIs2TCOw`), YOUR Morning Decides How Fast You Age (`ui8y9vOm6dw`), Your Morning Walk Is MISSING the One Thing That Actually Protects You (`Hc79_xF69-s`), Your YAWN Has Nothing to Do With Oxygen (`4ETtiIMRvlo`)
 
-**cardiovascular** — 5 Things Happening Inside YOUR Body With Every Step (`_POo-RCC_2Y`), 7 Habits of the Worlds LONGEST Living People What They Do Every Day (`IuOaImg5zUc`), Can Love Be Explained? — The Science Nobody Talks About (`sBNDNOU1VH8`), Doing Nothing Is the Most EXHAUSTING Thing Your Body Does (`rRStxBEUE1A`), For 300,000 Years Every Human Did This — Then We Stopped (`E-7nvQbmmgc`), How an Emotion Reshapes Your Heart in Seconds (`frP79hCSSyw`), If You Have Type O Blood — Here's What YOUR Cells Never Built (`rUbioJP1KCM`), If You Wake Up With a DRY MOUTH Your Body Is Warning You (`Wp02siBKjD0`), Over 60? Do THESE 5 Exercises To Strengthen YOUR Legs (`MClMvcFgidw`), Sigh 3 Times — What Just Happened Was Not Frustration (`KyOB22-Byvs`), The 1 Move That FIXES YOUR Leg Circulation (`W00gPRmrtog`), The 10-Second Squeeze That Goes Deeper Than Meditation (`wXM6jLEeQzY`), The 2-Minute Protocol That REVERSES What 50 Years of Footwear Did (`vcLlMM7pmhM`), The 30-Second Bone-Building Exercise That Requires Nothing But Your Heels (`JGqF054OFx4`), The 60-Second Morning Ritual That Activates 3 Organs at Once (`1mANxKIPcK8`), The 60-Second Squeeze That Silences YOUR Legs Before Sleep (`z0b94Hpdklo`), The 70-Year Mistake That Changed How YOU Treat the Sun (`yTMS_inQRCM`), The Cells She Left Behind — And Why They Never Left (`S_H09_FLeg4`), The Exercise That Pumps EVERY Lymph Vessel at Once (`12kGPUoN0BA`), The First Thing Your STOMACH Should Receive Every Morning (`lx5gTHaPMLk`), The Fitness Advice That's Been Slowly Suffocating YOUR Diaphragm (`Wes7ZGxQ8SY`), The Gas That Keeps YOU Alive — And Why You're Making LESS (`axWLB9fmQic`), The Hidden Switch Behind YOUR Hot Flashes and Night Sweats (`E68D3GzYIgQ`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Loop Inside YOUR Belly That No Diet Can Break Alone (`BzlswZO0jY0`), The Molecule You Were Taught Is Waste — Is Actually the One Your Brain Needs Most (`co54vFnEHWU`), The Plateau That Proves YOUR Walk Actually Worked (`_nA9W1PC7Aw`), The Position That OUTPERFORMED Every Exercise (`8-AmGuM3jPo`), The Pump Inside YOUR Body That Moves Everything Except Blood (`tSVNb2Ummfw`), The Signal YOUR Heart Sends That Every Test Misses (`NG7MafPovIw`), The Sleep Position That Protects the Most Organs After 50 (`5qdc4-rR9uQ`), The System Inside YOU That Has No Pump — And Stops When You Sit (`7GSqPgeYk-0`), This Tiny Muscle in Your Calf Can Fix What Sitting Breaks (`lJNfShSEta8`), Walking Is the Only Exercise Your Body Was Actually Designed For (`Uo8qxQY2T0U`), What 3 Minutes Every Morning Does to YOUR Hips, Spine, and Grip (`eDFP49iNwaI`), What 3 Pitches of Humming Do to YOUR Vagus Nerve, Sinuses, and Throat (`ulHJ4R7i1Z4`), What 50 Years of SHOES Did to YOUR Brain (`rE07mxSv6X4`), What a 20-Minute Nap Before 2PM Does to YOUR Body (`2gwQ9BVOscI`), What a Hot Bath Does to YOUR Body Before Sleep (`BG6yth4tJBc`), What Actually Happens Inside YOUR Throat When You Snore (`WK6ke9ZpcOk`), What Changes Inside YOUR Body When YOU Face Fear (`kHe7AvbKoW4`), What FLOSSING Does to Your Arteries — The Connection Nobody Explains (`EX1zYCGmG9g`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Body During a Panic Attack (`H1IPL6q95Ec`), What Happens Inside YOUR Body in the 20 Minutes After Every Meal (`iV3tqeWNdeM`), What Happens Inside YOUR Body When Sugar Stops Arriving for 21 Days (`NFy3cR3XncA`), What Happens Inside YOUR Body When You Stand Up Too Fast (`tYkCvmXCJBc`), What Happens Inside YOUR Muscles When Potassium Drops (`Cekr_0A1-NI`), What Happens to YOUR Arteries When You Take Calcium Every Morning (`RlE3IsQ1Dts`), What Happens to YOUR Back After 5 Minutes on a Hard Surface (`YcmpJZrdqiI`), What Happens to Your Blood Sugar in the 60 Minutes After You Eat (`lj_r9NOh6Mc`), What Happens to YOUR BODY If You're Still Awake at 10PM (`zEQf8XkI5eU`), What Happens to YOUR BODY When You Forgive Someone? (`TIfYtzKSpXM`), What Happens to Your Body When You Hear Birds Singing (`oqmj-CaeLXM`), What Happens to YOUR BODY When You Hold Your Grandchild (`M_Q_JnKZXe8`), What Happens to Your BODY When You Pray (`UlXTeinaTBA`), What Happens to YOUR BODY When You Sleep on the Wrong Side (`BJ0Sh6hOK18`), What Happens to YOUR BRAIN When All Sound Stops? (`mN9wlM9bgMo`), What Happens to YOUR Brain When Doctor Lowers Your Blood Pressure (`CkJMMyeFIH4`), What Happens to YOUR BRAIN When You Hum for 60 Seconds? (`QVoGbaq8xos`), What Happens to YOUR Spine, Shoulders, and Grip When You Hang  Every Day (`5GShDTK0lrI`), What Happens When You STOP Watching News (`dsXSF8Y6-QQ`), What ONE Failed Valve Does to Every Vein Below It in YOUR Leg (`5m65orqBBAo`), What Should YOUR Body Get Every Evening After 50 (`XkNJEa4UrfE`), What Sleeping 8 Hours Does to YOUR BODY (`MUQSpFXrSnc`), What Those Nail Ridges Reveal About How YOU Age (`W7b9RlMo-ro`), What Your 40-Year-Old TRAUMA Still Does to Your Body (`wrc2SDiMsOU`), What YOUR Body Does the Night Before a Stroke Hits (`vxxsAhxold8`), What YOUR Forward Head Posture Is Doing to Your Vagus Nerve (`QSBLYfC95AA`), What YOUR Grip Reveals That Blood Pressure Cannot (`izsNttOseXI`), What YOUR Morning Coffee Actually Does (`kKJTsh-ofPY`), What YOUR Morning Erections Actually Tell You About Your Heart (`HmUBEhrTs6Y`), What YOUR Urine Colour Says That Thirst Can No Longer Tell You (`9u-2y0eV4Ko`), Where Should You Spend 30 Minutes Every Month (`Adh1myK3_CE`), Why 1 Flight of STAIRS Beats YOUR 30-Minute Walk (`fArccOlBJkI`), Why a 20 Second HUG Changes Your Body's Chemistry (`F4evGIwrjA0`), Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself (`17BFodH03VQ`), Why Blue Light WAKES You Up — But Blue Glasses CALM You Down (`nMac0Ull9m4`), Why Cold Water on Your Face Does What Breathing Exercises Can't (`sr9sFZnBz6c`), Why Cutting Salt Does Something to YOUR Body Nobody Warned You About (`jtLYRKdp4Dc`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Moving Water Makes You Feel BETTER (`uG9xUDbjh1g`), Why Poor Circulation Is the Wrong Answer for YOUR Numb Feet (`Jlt39TIPLMs`), Why Shivering Keeps You Alive (`wrejViQw0Qo`), Why Simple Walking Stopped Rebuilding YOUR Energy (`e28MeRe_axE`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Stroke Recovery Feels Like an Altered State (`evPjSR8U-eY`), Why Sunlight Is the Most Powerful Drug You Take Every Day (`n2F24fK1uLY`), Why the Food YOU Feared Does What Your Medication Can't (`rzaxpumi_tI`), Why the Same Food Spikes Your Blood Sugar Differently (`LWqhQvOLF8w`), Why the Weather Makes Your Body ACHE (`Qvcd0UY-JB4`), Why Two Needles Silence YOUR Mind in 15 Minutes (`CtM-hB2oe4Q`), Why Weight on Your Body Calms Your Nervous System in Minutes (`yqDyF9LM2AQ`), Why You Feel Different in Sunlight Than in a Warm Room (`-kyGLmKSjZk`), Why You Feel Physically HEAVIER When You're Sad (`HCFcXMpu-VY`), Why You Press Your Palms Against Your Eyes When Youre Exhausted (`_ZzJH1TlY2Y`), Why You Should TOUCH a Tree Every Day — The Science Nobody Talks About (`gyOTlBlFEuo`), Why You Wake Up at Your Most Vulnerable — And Never Know It (`LHFObEj47Sc`), Why Your Balance Is the Most Dangerous Thing You're Losing (`tx-4Ed23PlM`), Why YOUR Blood Pressure Stays High Even When You Do Everything Right (`1wjs-atgmMw`), Why YOUR Body Shuts Down After Every Single Meal (`9-J4kMqOvWA`), Why YOUR Body Treats Cold Water Like a Drug (`4i1dOrfSBJI`), Why Your Body Treats Sitting Like a DISEASE (`6fu-RL-0F9o`), Why Your Brain Produces A Pain It Cannot Feel (`Wag_cOqiLYE`), Why YOUR Hair Follicles Are Strangled (`leBnH_pE3EY`), Why Your LEGS Are Filling Your Bladder at 2AM (`d9PWCrjX2sA`), Why YOUR NERVOUS SYSTEM Recovers Faster Under a Tree Than Anywhere Else (`6XmOWCCPh-c`), Why YOUR Skin Grows Things That Weren't There at 30 (`S0CeHGxl2zY`), Your Body Has a FURNACE Nobody Told You About (`9MNqrOvyBZE`), Your EAR Has a Hidden Nerve — And It Reaches Your Heart (`lUxY0L1wmZk`), YOUR Eyes Have 16 Muscles You Never Exercise (`PmlpIs2TCOw`), YOUR Morning Decides How Fast You Age (`ui8y9vOm6dw`), Your Morning Walk Is MISSING the One Thing That Actually Protects You (`Hc79_xF69-s`), Your Nose Is a Drug Factory — The Science of How You Breathe (`rO6QLZgmIHs`), Your YAWN Has Nothing to Do With Oxygen (`4ETtiIMRvlo`)
+**cardiovascular** — 5 Things Happening Inside YOUR Body With Every Step (`_POo-RCC_2Y`), 7 Habits of the Worlds LONGEST Living People What They Do Every Day (`IuOaImg5zUc`), Can Love Be Explained? — The Science Nobody Talks About (`sBNDNOU1VH8`), Doing Nothing Is the Most EXHAUSTING Thing Your Body Does (`rRStxBEUE1A`), For 300,000 Years Every Human Did This — Then We Stopped (`E-7nvQbmmgc`), How an Emotion Reshapes Your Heart in Seconds (`frP79hCSSyw`), If You Have Type O Blood — Here's What YOUR Cells Never Built (`rUbioJP1KCM`), If You Wake Up With a DRY MOUTH Your Body Is Warning You (`Wp02siBKjD0`), Over 60? Do THESE 5 Exercises To Strengthen YOUR Legs (`MClMvcFgidw`), Sigh 3 Times — What Just Happened Was Not Frustration (`KyOB22-Byvs`), The 1 Move That FIXES YOUR Leg Circulation (`W00gPRmrtog`), The 10-Second Squeeze That Goes Deeper Than Meditation (`wXM6jLEeQzY`), The 2-Minute Protocol That REVERSES What 50 Years of Footwear Did (`vcLlMM7pmhM`), The 30-Second Bone-Building Exercise That Requires Nothing But Your Heels (`JGqF054OFx4`), The 60-Second Morning Ritual That Activates 3 Organs at Once (`1mANxKIPcK8`), The 60-Second Squeeze That Silences YOUR Legs Before Sleep (`z0b94Hpdklo`), The 70-Year Mistake That Changed How YOU Treat the Sun (`yTMS_inQRCM`), The Cells She Left Behind — And Why They Never Left (`S_H09_FLeg4`), The Exercise That Pumps EVERY Lymph Vessel at Once (`12kGPUoN0BA`), The First Thing Your STOMACH Should Receive Every Morning (`lx5gTHaPMLk`), The Fitness Advice That's Been Slowly Suffocating YOUR Diaphragm (`Wes7ZGxQ8SY`), The Gas That Keeps YOU Alive — And Why You're Making LESS (`axWLB9fmQic`), The Hidden Switch Behind YOUR Hot Flashes and Night Sweats (`E68D3GzYIgQ`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Loop Inside YOUR Belly That No Diet Can Break Alone (`BzlswZO0jY0`), The Molecule You Were Taught Is Waste — Is Actually the One Your Brain Needs Most (`co54vFnEHWU`), The Plateau That Proves YOUR Walk Actually Worked (`_nA9W1PC7Aw`), The Position That OUTPERFORMED Every Exercise (`8-AmGuM3jPo`), The Pump Inside YOUR Body That Moves Everything Except Blood (`tSVNb2Ummfw`), The Signal YOUR Heart Sends That Every Test Misses (`NG7MafPovIw`), The Sleep Position That Protects the Most Organs After 50 (`5qdc4-rR9uQ`), The System Inside YOU That Has No Pump — And Stops When You Sit (`7GSqPgeYk-0`), This Tiny Muscle in Your Calf Can Fix What Sitting Breaks (`lJNfShSEta8`), Walking Is the Only Exercise Your Body Was Actually Designed For (`Uo8qxQY2T0U`), What 3 Minutes Every Morning Does to YOUR Hips, Spine, and Grip (`eDFP49iNwaI`), What 3 Pitches of Humming Do to YOUR Vagus Nerve, Sinuses, and Throat (`ulHJ4R7i1Z4`), What 50 Years of SHOES Did to YOUR Brain (`rE07mxSv6X4`), What 60 Seconds of SHAKING Does to Your Stress Hormones (`jaUCXKPUA-s`), What a 20-Minute Nap Before 2PM Does to YOUR Body (`2gwQ9BVOscI`), What a Hot Bath Does to YOUR Body Before Sleep (`BG6yth4tJBc`), What Actually Happens Inside YOUR Throat When You Snore (`WK6ke9ZpcOk`), What Changes Inside YOUR Body When YOU Face Fear (`kHe7AvbKoW4`), What FLOSSING Does to Your Arteries — The Connection Nobody Explains (`EX1zYCGmG9g`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Body During a Panic Attack (`H1IPL6q95Ec`), What Happens Inside YOUR Body in the 20 Minutes After Every Meal (`iV3tqeWNdeM`), What Happens Inside YOUR Body When Sugar Stops Arriving for 21 Days (`NFy3cR3XncA`), What Happens Inside YOUR Body When You Stand Up Too Fast (`tYkCvmXCJBc`), What Happens Inside YOUR Muscles When Potassium Drops (`Cekr_0A1-NI`), What Happens to YOUR Arteries When You Take Calcium Every Morning (`RlE3IsQ1Dts`), What Happens to YOUR Back After 5 Minutes on a Hard Surface (`YcmpJZrdqiI`), What Happens to Your Blood Sugar in the 60 Minutes After You Eat (`lj_r9NOh6Mc`), What Happens to YOUR BODY If You're Still Awake at 10PM (`zEQf8XkI5eU`), What Happens to YOUR BODY When You Forgive Someone? (`TIfYtzKSpXM`), What Happens to Your Body When You Hear Birds Singing (`oqmj-CaeLXM`), What Happens to YOUR BODY When You Hold Your Grandchild (`M_Q_JnKZXe8`), What Happens to Your BODY When You Pray (`UlXTeinaTBA`), What Happens to YOUR BODY When You Sleep on the Wrong Side (`BJ0Sh6hOK18`), What Happens to YOUR BRAIN When All Sound Stops? (`mN9wlM9bgMo`), What Happens to YOUR Brain When Doctor Lowers Your Blood Pressure (`CkJMMyeFIH4`), What Happens to YOUR BRAIN When You Hum for 60 Seconds? (`QVoGbaq8xos`), What Happens to YOUR Spine, Shoulders, and Grip When You Hang  Every Day (`5GShDTK0lrI`), What Happens When You STOP Watching News (`dsXSF8Y6-QQ`), What ONE Failed Valve Does to Every Vein Below It in YOUR Leg (`5m65orqBBAo`), What Should YOUR Body Get Every Evening After 50 (`XkNJEa4UrfE`), What Sleeping 8 Hours Does to YOUR BODY (`MUQSpFXrSnc`), What Those Nail Ridges Reveal About How YOU Age (`W7b9RlMo-ro`), What Your 40-Year-Old TRAUMA Still Does to Your Body (`wrc2SDiMsOU`), What YOUR Body Does the Night Before a Stroke Hits (`vxxsAhxold8`), What YOUR Forward Head Posture Is Doing to Your Vagus Nerve (`QSBLYfC95AA`), What YOUR Grip Reveals That Blood Pressure Cannot (`izsNttOseXI`), What YOUR Morning Coffee Actually Does (`kKJTsh-ofPY`), What YOUR Morning Erections Actually Tell You About Your Heart (`HmUBEhrTs6Y`), What YOUR Urine Colour Says That Thirst Can No Longer Tell You (`9u-2y0eV4Ko`), Where Should You Spend 30 Minutes Every Month (`Adh1myK3_CE`), Why 1 Flight of STAIRS Beats YOUR 30-Minute Walk (`fArccOlBJkI`), Why a 20 Second HUG Changes Your Body's Chemistry (`F4evGIwrjA0`), Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself (`17BFodH03VQ`), Why Blue Light WAKES You Up — But Blue Glasses CALM You Down (`nMac0Ull9m4`), Why Cold Water on Your Face Does What Breathing Exercises Can't (`sr9sFZnBz6c`), Why Cutting Salt Does Something to YOUR Body Nobody Warned You About (`jtLYRKdp4Dc`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Moving Water Makes You Feel BETTER (`uG9xUDbjh1g`), Why Poor Circulation Is the Wrong Answer for YOUR Numb Feet (`Jlt39TIPLMs`), Why Shivering Keeps You Alive (`wrejViQw0Qo`), Why Simple Walking Stopped Rebuilding YOUR Energy (`e28MeRe_axE`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Sleeping Too Much May Change Your Body After 60 (`kb6RxORFqO0`), Why Stroke Recovery Feels Like an Altered State (`evPjSR8U-eY`), Why Sunlight Is the Most Powerful Drug You Take Every Day (`n2F24fK1uLY`), Why the Food YOU Feared Does What Your Medication Can't (`rzaxpumi_tI`), Why the Same Food Spikes Your Blood Sugar Differently (`LWqhQvOLF8w`), Why the Weather Makes Your Body ACHE (`Qvcd0UY-JB4`), Why Two Needles Silence YOUR Mind in 15 Minutes (`CtM-hB2oe4Q`), Why Weight on Your Body Calms Your Nervous System in Minutes (`yqDyF9LM2AQ`), Why You Feel Different in Sunlight Than in a Warm Room (`-kyGLmKSjZk`), Why You Feel Physically HEAVIER When You're Sad (`HCFcXMpu-VY`), Why You Press Your Palms Against Your Eyes When Youre Exhausted (`_ZzJH1TlY2Y`), Why You Should TOUCH a Tree Every Day — The Science Nobody Talks About (`gyOTlBlFEuo`), Why You Wake Up at Your Most Vulnerable — And Never Know It (`LHFObEj47Sc`), Why Your Balance Is the Most Dangerous Thing You're Losing (`tx-4Ed23PlM`), Why YOUR Blood Pressure Stays High Even When You Do Everything Right (`1wjs-atgmMw`), Why YOUR Body Shuts Down After Every Single Meal (`9-J4kMqOvWA`), Why YOUR Body Treats Cold Water Like a Drug (`4i1dOrfSBJI`), Why Your Body Treats Sitting Like a DISEASE (`6fu-RL-0F9o`), Why Your Brain Produces A Pain It Cannot Feel (`Wag_cOqiLYE`), Why YOUR Hair Follicles Are Strangled (`leBnH_pE3EY`), Why Your LEGS Are Filling Your Bladder at 2AM (`d9PWCrjX2sA`), Why Your LEGS Are the First Place Aging Reveals Itself (`zyEwO7jhPhw`), Why YOUR NERVOUS SYSTEM Recovers Faster Under a Tree Than Anywhere Else (`6XmOWCCPh-c`), Why YOUR Skin Grows Things That Weren't There at 30 (`S0CeHGxl2zY`), Your Body Has a FURNACE Nobody Told You About (`9MNqrOvyBZE`), Your EAR Has a Hidden Nerve — And It Reaches Your Heart (`lUxY0L1wmZk`), YOUR Eyes Have 16 Muscles You Never Exercise (`PmlpIs2TCOw`), YOUR Morning Decides How Fast You Age (`ui8y9vOm6dw`), Your Morning Walk Is MISSING the One Thing That Actually Protects You (`Hc79_xF69-s`), Your Nose Is a Drug Factory — The Science of How You Breathe (`rO6QLZgmIHs`), Your YAWN Has Nothing to Do With Oxygen (`4ETtiIMRvlo`)
 
-**digestive and metabolic** — 5 Things Happening Inside YOUR Body With Every Step (`_POo-RCC_2Y`), 7 Habits of the Worlds LONGEST Living People What They Do Every Day (`IuOaImg5zUc`), Doing Nothing Is the Most EXHAUSTING Thing Your Body Does (`rRStxBEUE1A`), If You Have Type O Blood — Here's What YOUR Cells Never Built (`rUbioJP1KCM`), If You're OVER 50 This Matters Most (`r5XfC82DhKU`), Only 2% of People Know This About Eating (`nFA2-ICtphg`), Over 60? Do THESE 5 Exercises To Strengthen YOUR Legs (`MClMvcFgidw`), The 1 Move That FIXES YOUR Leg Circulation (`W00gPRmrtog`), The 2-Minute Signal YOUR Gut Sends That Ozempic Stretches to a Week (`iWLkA7ME-78`), The 5 Systems That FAILED — Not YOUR Diet (`Lo7euCwbYcw`), The Cleaning Wave YOUR Gut Runs Only When You Stop Eating (`4Rl1gvTNaDI`), The First Thing Your STOMACH Should Receive Every Morning (`lx5gTHaPMLk`), The Fitness Advice That's Been Slowly Suffocating YOUR Diaphragm (`Wes7ZGxQ8SY`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Loop Inside YOUR Belly That No Diet Can Break Alone (`BzlswZO0jY0`), The Organ Inside You That Fights Back When You Lose Weight (`l0daW72898A`), The Plateau That Proves YOUR Walk Actually Worked (`_nA9W1PC7Aw`), The Position That OUTPERFORMED Every Exercise (`8-AmGuM3jPo`), The Same Food Changes Your Blood Sugar Depending on Who's at the Table (`WG0HVl45XQ4`), The Signal YOUR Heart Sends That Every Test Misses (`NG7MafPovIw`), The Sleep Position That Protects the Most Organs After 50 (`5qdc4-rR9uQ`), The Switch Inside Your Cells That Flips at 16 Hours Fast (`dJ3tdZF5-t0`), This Tiny Muscle in Your Calf Can Fix What Sitting Breaks (`lJNfShSEta8`), Walking Is the Only Exercise Your Body Was Actually Designed For (`Uo8qxQY2T0U`), What Actually Builds YOUR Muscle After 50 (`KTwE1rj8-Ek`), What Actually Happens to Vitamin D Inside YOUR Body (`3irVZ9Fo208`), What Changes Inside YOUR Body When YOU Face Fear (`kHe7AvbKoW4`), What FLOSSING Does to Your Arteries — The Connection Nobody Explains (`EX1zYCGmG9g`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Body in the 20 Minutes After Every Meal (`iV3tqeWNdeM`), What Happens Inside YOUR Body When Sugar Stops Arriving for 21 Days (`NFy3cR3XncA`), What Happens to YOUR Arteries When You Take Calcium Every Morning (`RlE3IsQ1Dts`), What Happens to Your Blood Sugar in the 60 Minutes After You Eat (`lj_r9NOh6Mc`), What Happens to YOUR BODY If You're Still Awake at 10PM (`zEQf8XkI5eU`), What Happens to YOUR BODY When You Forgive Someone? (`TIfYtzKSpXM`), What Happens to YOUR BODY When You Move on an Empty Stomach (`aL4S_1VVpBI`), What Happens to YOUR BODY When You Sleep on the Wrong Side (`BJ0Sh6hOK18`), What Happens to YOUR Stomach When Food Arrives Without Warning (`W-3nzX9cdWo`), What Missing ONE Night Does to Your Body (`yk3Amg7jkMc`), What Should YOUR Body Get Every Evening After 50 (`XkNJEa4UrfE`), What Sleeping 8 Hours Does to YOUR BODY (`MUQSpFXrSnc`), What Those Nail Ridges Reveal About How YOU Age (`W7b9RlMo-ro`), What YOUR Forward Head Posture Is Doing to Your Vagus Nerve (`QSBLYfC95AA`), What YOUR Morning Coffee Actually Does (`kKJTsh-ofPY`), Why 80% of the Signals Run From YOUR Gut to Your Brain (`nPM83TqEa0E`), Why Cutting ALL Fat Is Starving YOUR Brain (`7KL3oOYTByM`), Why Does Your Body NEVER Cool Below 37 Degrees? (`ZdHrY0l78ug`), Why Eating Once a Day Helps YOUR Gut but Costs YOUR Muscle (`OUln7rLXg3M`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Losing Weight Gets HARDER Every Time YOU Try (`T8Jzg_lZ-fo`), Why Poor Circulation Is the Wrong Answer for YOUR Numb Feet (`Jlt39TIPLMs`), Why Simple Walking Stopped Rebuilding YOUR Energy (`e28MeRe_axE`), Why the Food You Ate Decides What YOUR Eyes Can Do (`Rtgrp0Bkyb4`), Why the Food YOU Feared Does What Your Medication Can't (`rzaxpumi_tI`), Why the Same Food Spikes Your Blood Sugar Differently (`LWqhQvOLF8w`), Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day (`EjOr6Q-z9oM`), Why YOU Always Have Mucus in Your Throat (`dzzuKeLiYnM`), Why You Feel Different in Sunlight Than in a Warm Room (`-kyGLmKSjZk`), Why YOUR Blood Pressure Stays High Even When You Do Everything Right (`1wjs-atgmMw`), Why YOUR Body Shuts Down After Every Single Meal (`9-J4kMqOvWA`), Why YOUR Body Treats Cold Water Like a Drug (`4i1dOrfSBJI`), Why Your Body Treats Sitting Like a DISEASE (`6fu-RL-0F9o`), Why Your Body Was Actually Designed for Squatting (`q1sSm5EDwAU`), Why YOUR Muscle Ignores the Protein YOU Eat (`sF9zE_QXSYA`), Why YOUR Reading Glasses Arrived on Schedule (`P8dp3QJppBA`), Why YOUR Skin Grows Things That Weren't There at 30 (`S0CeHGxl2zY`), Why YOUR TEETH Start Breaking After 50 (`nYEP1F5kFQA`), Your Body Has a FURNACE Nobody Told You About (`9MNqrOvyBZE`), YOUR Cells Aren't Broken — They're Waiting for a Different Signal (`Ip_1lMrxGp8`), YOUR Eyes Have 16 Muscles You Never Exercise (`PmlpIs2TCOw`), YOUR Morning Decides How Fast You Age (`ui8y9vOm6dw`), Your Pancreas Has a Clock — And It Shuts Down Before Dinner (`egzhIyTP3vE`)
+**digestive and metabolic** — 5 Things Happening Inside YOUR Body With Every Step (`_POo-RCC_2Y`), 7 Habits of the Worlds LONGEST Living People What They Do Every Day (`IuOaImg5zUc`), Doing Nothing Is the Most EXHAUSTING Thing Your Body Does (`rRStxBEUE1A`), If You Have Type O Blood — Here's What YOUR Cells Never Built (`rUbioJP1KCM`), If You're OVER 50 This Matters Most (`r5XfC82DhKU`), Only 2% of People Know This About Eating (`nFA2-ICtphg`), Over 60? Do THESE 5 Exercises To Strengthen YOUR Legs (`MClMvcFgidw`), The 1 Move That FIXES YOUR Leg Circulation (`W00gPRmrtog`), The 2-Minute Signal YOUR Gut Sends That Ozempic Stretches to a Week (`iWLkA7ME-78`), The 5 Systems That FAILED — Not YOUR Diet (`Lo7euCwbYcw`), The Cleaning Wave YOUR Gut Runs Only When You Stop Eating (`4Rl1gvTNaDI`), The First Thing Your STOMACH Should Receive Every Morning (`lx5gTHaPMLk`), The Fitness Advice That's Been Slowly Suffocating YOUR Diaphragm (`Wes7ZGxQ8SY`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Loop Inside YOUR Belly That No Diet Can Break Alone (`BzlswZO0jY0`), The Organ Inside You That Fights Back When You Lose Weight (`l0daW72898A`), The Plateau That Proves YOUR Walk Actually Worked (`_nA9W1PC7Aw`), The Position That OUTPERFORMED Every Exercise (`8-AmGuM3jPo`), The Same Food Changes Your Blood Sugar Depending on Who's at the Table (`WG0HVl45XQ4`), The Signal YOUR Heart Sends That Every Test Misses (`NG7MafPovIw`), The Sleep Position That Protects the Most Organs After 50 (`5qdc4-rR9uQ`), The Switch Inside Your Cells That Flips at 16 Hours Fast (`dJ3tdZF5-t0`), This Tiny Muscle in Your Calf Can Fix What Sitting Breaks (`lJNfShSEta8`), Walking Is the Only Exercise Your Body Was Actually Designed For (`Uo8qxQY2T0U`), What Actually Builds YOUR Muscle After 50 (`KTwE1rj8-Ek`), What Actually Happens to Vitamin D Inside YOUR Body (`3irVZ9Fo208`), What Changes Inside YOUR Body When YOU Face Fear (`kHe7AvbKoW4`), What FLOSSING Does to Your Arteries — The Connection Nobody Explains (`EX1zYCGmG9g`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Body in the 20 Minutes After Every Meal (`iV3tqeWNdeM`), What Happens Inside YOUR Body When Sugar Stops Arriving for 21 Days (`NFy3cR3XncA`), What Happens to YOUR Arteries When You Take Calcium Every Morning (`RlE3IsQ1Dts`), What Happens to Your Blood Sugar in the 60 Minutes After You Eat (`lj_r9NOh6Mc`), What Happens to YOUR BODY If You're Still Awake at 10PM (`zEQf8XkI5eU`), What Happens to YOUR BODY When You Forgive Someone? (`TIfYtzKSpXM`), What Happens to YOUR BODY When You Move on an Empty Stomach (`aL4S_1VVpBI`), What Happens to YOUR BODY When You Sleep on the Wrong Side (`BJ0Sh6hOK18`), What Happens to YOUR CELLS When You Go 12 Hours Without Food? (`Ol_BjFRCH-c`), What Happens to YOUR Stomach When Food Arrives Without Warning (`W-3nzX9cdWo`), What Missing ONE Night Does to Your Body (`yk3Amg7jkMc`), What Should YOUR Body Get Every Evening After 50 (`XkNJEa4UrfE`), What Sleeping 8 Hours Does to YOUR BODY (`MUQSpFXrSnc`), What Those Nail Ridges Reveal About How YOU Age (`W7b9RlMo-ro`), What YOUR Forward Head Posture Is Doing to Your Vagus Nerve (`QSBLYfC95AA`), What YOUR Morning Coffee Actually Does (`kKJTsh-ofPY`), Why 80% of the Signals Run From YOUR Gut to Your Brain (`nPM83TqEa0E`), Why Cutting ALL Fat Is Starving YOUR Brain (`7KL3oOYTByM`), Why Does Your Body NEVER Cool Below 37 Degrees? (`ZdHrY0l78ug`), Why Eating Once a Day Helps YOUR Gut but Costs YOUR Muscle (`OUln7rLXg3M`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Losing Weight Gets HARDER Every Time YOU Try (`T8Jzg_lZ-fo`), Why Poor Circulation Is the Wrong Answer for YOUR Numb Feet (`Jlt39TIPLMs`), Why Simple Walking Stopped Rebuilding YOUR Energy (`e28MeRe_axE`), Why the Food You Ate Decides What YOUR Eyes Can Do (`Rtgrp0Bkyb4`), Why the Food YOU Feared Does What Your Medication Can't (`rzaxpumi_tI`), Why the Same Food Spikes Your Blood Sugar Differently (`LWqhQvOLF8w`), Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day (`EjOr6Q-z9oM`), Why YOU Always Have Mucus in Your Throat (`dzzuKeLiYnM`), Why You Feel Different in Sunlight Than in a Warm Room (`-kyGLmKSjZk`), Why YOUR Blood Pressure Stays High Even When You Do Everything Right (`1wjs-atgmMw`), Why YOUR Body Shuts Down After Every Single Meal (`9-J4kMqOvWA`), Why YOUR Body Treats Cold Water Like a Drug (`4i1dOrfSBJI`), Why Your Body Treats Sitting Like a DISEASE (`6fu-RL-0F9o`), Why Your Body Was Actually Designed for Squatting (`q1sSm5EDwAU`), Why YOUR Muscle Ignores the Protein YOU Eat (`sF9zE_QXSYA`), Why YOUR Reading Glasses Arrived on Schedule (`P8dp3QJppBA`), Why YOUR Skin Grows Things That Weren't There at 30 (`S0CeHGxl2zY`), Why YOUR TEETH Start Breaking After 50 (`nYEP1F5kFQA`), Your Body Has a FURNACE Nobody Told You About (`9MNqrOvyBZE`), YOUR Cells Aren't Broken — They're Waiting for a Different Signal (`Ip_1lMrxGp8`), YOUR Eyes Have 16 Muscles You Never Exercise (`PmlpIs2TCOw`), YOUR Morning Decides How Fast You Age (`ui8y9vOm6dw`), Your Pancreas Has a Clock — And It Shuts Down Before Dinner (`egzhIyTP3vE`)
 
-**endocrine and hormonal** — 7 Habits of the Worlds LONGEST Living People What They Do Every Day (`IuOaImg5zUc`), Can Love Be Explained? — The Science Nobody Talks About (`sBNDNOU1VH8`), Can Suppressing Tears Actually Harm You? (`LKAxXiiY7Kg`), For 300,000 Years Every Human Did This — Then We Stopped (`E-7nvQbmmgc`), How an Emotion Reshapes Your Heart in Seconds (`frP79hCSSyw`), If You're OVER 50 This Matters Most (`r5XfC82DhKU`), Only 2% of People Know This About Eating (`nFA2-ICtphg`), The 2-Minute Signal YOUR Gut Sends That Ozempic Stretches to a Week (`iWLkA7ME-78`), The 30 Second Wall Push That Loads Every Bone Walking Leaves Behind (`PQ3lOdnt7HQ`), The 70-Year Mistake That Changed How YOU Treat the Sun (`yTMS_inQRCM`), The Cells She Left Behind — And Why They Never Left (`S_H09_FLeg4`), The Chemistry Between YOUR Breathing and YOUR Bone Density (`YT689Fn9A8Q`), The Cleaning Wave YOUR Gut Runs Only When You Stop Eating (`4Rl1gvTNaDI`), The Hidden Switch Behind YOUR Hot Flashes and Night Sweats (`E68D3GzYIgQ`), The Hormone Decline That DOUBLED YOUR Overnight Urine Production (`xqmvpVaCPbA`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Loop Inside YOUR Belly That No Diet Can Break Alone (`BzlswZO0jY0`), The Molecule in YOUR Garden That Works Like Valium (`WvmqXh_n7Zo`), The One Thing Behind Every System Aging Inside YOUR Body (`lo86B1j2uf8`), The Organ Inside You That Fights Back When You Lose Weight (`l0daW72898A`), The Position That OUTPERFORMED Every Exercise (`8-AmGuM3jPo`), The Same Food Changes Your Blood Sugar Depending on Who's at the Table (`WG0HVl45XQ4`), The Switch Inside Your Cells That Flips at 16 Hours Fast (`dJ3tdZF5-t0`), This FIXES YOUR Muscle Loss After 50 — The Signal You Keep Missing (`1Rlw2NRsKnI`), This Tiny Muscle in Your Calf Can Fix What Sitting Breaks (`lJNfShSEta8`), What 1 Hour in the Sun Does to YOUR DNA, Collagen, and Melanin (`8fPiI1wPWO0`), What 60 Seconds of SHAKING Does to YOUR Nervous System That Wont Shut Off (`hCW0TehxqEI`), What 60 Seconds of SMILING Does to Your Brain — Even When You're Faking It (`hxc0opwYlyA`), What a 20-Minute Nap Before 2PM Does to YOUR Body (`2gwQ9BVOscI`), What a Hot Bath Does to YOUR Body Before Sleep (`BG6yth4tJBc`), What Actually Builds YOUR Muscle After 50 (`KTwE1rj8-Ek`), What Actually Happens to Vitamin D Inside YOUR Body (`3irVZ9Fo208`), What Changes Inside YOUR Body When YOU Face Fear (`kHe7AvbKoW4`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Blood After 2 Hours in a Forest (`zCtsCJ9cACY`), What Happens Inside YOUR Body During a Panic Attack (`H1IPL6q95Ec`), What Happens Inside YOUR Body in the 20 Minutes After Every Meal (`iV3tqeWNdeM`), What Happens Inside YOUR Body When Sugar Stops Arriving for 21 Days (`NFy3cR3XncA`), What Happens to YOUR Arteries When You Take Calcium Every Morning (`RlE3IsQ1Dts`), What Happens to YOUR BODY If You're Still Awake at 10PM (`zEQf8XkI5eU`), What Happens to YOUR BODY When You Forgive Someone? (`TIfYtzKSpXM`), What Happens to Your Body When You Hear Birds Singing (`oqmj-CaeLXM`), What Happens to YOUR BODY When You Hold Your Grandchild (`M_Q_JnKZXe8`), What Happens to YOUR BODY When You Move on an Empty Stomach (`aL4S_1VVpBI`), What Happens to Your BODY When You Pray (`UlXTeinaTBA`), What Happens to YOUR BRAIN When All Sound Stops? (`mN9wlM9bgMo`), What Happens to YOUR Stomach When Food Arrives Without Warning (`W-3nzX9cdWo`), What Happens When You STOP Watching News (`dsXSF8Y6-QQ`), What Missing ONE Night Does to Your Body (`yk3Amg7jkMc`), What Should YOUR Body Get Every Evening After 50 (`XkNJEa4UrfE`), What Sleeping 8 Hours Does to YOUR BODY (`MUQSpFXrSnc`), What Your 40-Year-Old TRAUMA Still Does to Your Body (`wrc2SDiMsOU`), What YOUR Grip Reveals That Blood Pressure Cannot (`izsNttOseXI`), What YOUR Urine Colour Says That Thirst Can No Longer Tell You (`9u-2y0eV4Ko`), Where Should You Spend 30 Minutes Every Month (`Adh1myK3_CE`), Why 80% of the Signals Run From YOUR Gut to Your Brain (`nPM83TqEa0E`), Why a 20 Second HUG Changes Your Body's Chemistry (`F4evGIwrjA0`), Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself (`17BFodH03VQ`), Why Blue Light WAKES You Up — But Blue Glasses CALM You Down (`nMac0Ull9m4`), Why Cutting ALL Fat Is Starving YOUR Brain (`7KL3oOYTByM`), Why Cutting Salt Does Something to YOUR Body Nobody Warned You About (`jtLYRKdp4Dc`), Why Does Your Body NEVER Cool Below 37 Degrees? (`ZdHrY0l78ug`), Why Eating Once a Day Helps YOUR Gut but Costs YOUR Muscle (`OUln7rLXg3M`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why Gardening Without Gloves Changes Your Brain Chemistry (`RYBagD7_RQM`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Looking at the HORIZON Resets Your Entire Nervous System (`2e_Yp9YJgrQ`), Why Losing Weight Gets HARDER Every Time YOU Try (`T8Jzg_lZ-fo`), Why Moving Water Makes You Feel BETTER (`uG9xUDbjh1g`), Why Shivering Keeps You Alive (`wrejViQw0Qo`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Sunlight Is the Most Powerful Drug You Take Every Day (`n2F24fK1uLY`), Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day (`EjOr6Q-z9oM`), Why You Feel Different in Sunlight Than in a Warm Room (`-kyGLmKSjZk`), Why You Feel Physically HEAVIER When You're Sad (`HCFcXMpu-VY`), Why You Look Like Your Parents AFTER 60 — But Didn't at 30 (`mBZ6mBxwgHY`), Why You Should LET Your Cat Sleep on You (`gvmz4zN8NHc`), Why YOU Wake Up 1 Minute Before Your Alarm (`HZP7rmDrboA`), Why You Wake Up at 3AM — What Your Body Is Really Doing (`UDN4JHYlq7o`), Why You Wake Up at Your Most Vulnerable — And Never Know It (`LHFObEj47Sc`), Why YOUR Blood Pressure Stays High Even When You Do Everything Right (`1wjs-atgmMw`), Why YOUR Body Treats Cold Water Like a Drug (`4i1dOrfSBJI`), Why Your Brain Produces A Pain It Cannot Feel (`Wag_cOqiLYE`), Why YOUR Hair Follicles Are Strangled (`leBnH_pE3EY`), Why Your LEGS Are Filling Your Bladder at 2AM (`d9PWCrjX2sA`), Why YOUR Muscle Ignores the Protein YOU Eat (`sF9zE_QXSYA`), Why YOUR NERVOUS SYSTEM Recovers Faster Under a Tree Than Anywhere Else (`6XmOWCCPh-c`), Why YOUR Skin Grows Things That Weren't There at 30 (`S0CeHGxl2zY`), Your Body Ages FASTER After 50 — Here's What's Happening Inside (`qQQgl_BGiVg`), Your Body Has a FURNACE Nobody Told You About (`9MNqrOvyBZE`), YOUR Cells Aren't Broken — They're Waiting for a Different Signal (`Ip_1lMrxGp8`), Your Pancreas Has a Clock — And It Shuts Down Before Dinner (`egzhIyTP3vE`), Your Thymus Is Gone — And Your Immune System Is Running on What It Left Behind (`drmR73nU4AQ`)
+**endocrine and hormonal** — 7 Habits of the Worlds LONGEST Living People What They Do Every Day (`IuOaImg5zUc`), Can Love Be Explained? — The Science Nobody Talks About (`sBNDNOU1VH8`), Can Suppressing Tears Actually Harm You? (`LKAxXiiY7Kg`), For 300,000 Years Every Human Did This — Then We Stopped (`E-7nvQbmmgc`), How an Emotion Reshapes Your Heart in Seconds (`frP79hCSSyw`), If You're OVER 50 This Matters Most (`r5XfC82DhKU`), Only 2% of People Know This About Eating (`nFA2-ICtphg`), The 2-Minute Signal YOUR Gut Sends That Ozempic Stretches to a Week (`iWLkA7ME-78`), The 30 Second Wall Push That Loads Every Bone Walking Leaves Behind (`PQ3lOdnt7HQ`), The 70-Year Mistake That Changed How YOU Treat the Sun (`yTMS_inQRCM`), The Cells She Left Behind — And Why They Never Left (`S_H09_FLeg4`), The Chemistry Between YOUR Breathing and YOUR Bone Density (`YT689Fn9A8Q`), The Cleaning Wave YOUR Gut Runs Only When You Stop Eating (`4Rl1gvTNaDI`), The Hidden Switch Behind YOUR Hot Flashes and Night Sweats (`E68D3GzYIgQ`), The Hormone Decline That DOUBLED YOUR Overnight Urine Production (`xqmvpVaCPbA`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Loop Inside YOUR Belly That No Diet Can Break Alone (`BzlswZO0jY0`), The Molecule in YOUR Garden That Works Like Valium (`WvmqXh_n7Zo`), The One Thing Behind Every System Aging Inside YOUR Body (`lo86B1j2uf8`), The Organ Inside You That Fights Back When You Lose Weight (`l0daW72898A`), The Position That OUTPERFORMED Every Exercise (`8-AmGuM3jPo`), The Same Food Changes Your Blood Sugar Depending on Who's at the Table (`WG0HVl45XQ4`), The Switch Inside Your Cells That Flips at 16 Hours Fast (`dJ3tdZF5-t0`), This FIXES YOUR Muscle Loss After 50 — The Signal You Keep Missing (`1Rlw2NRsKnI`), This Tiny Muscle in Your Calf Can Fix What Sitting Breaks (`lJNfShSEta8`), What 1 Hour in the Sun Does to YOUR DNA, Collagen, and Melanin (`8fPiI1wPWO0`), What 60 Seconds of SHAKING Does to YOUR Nervous System That Wont Shut Off (`hCW0TehxqEI`), What 60 Seconds of SMILING Does to Your Brain — Even When You're Faking It (`hxc0opwYlyA`), What a 20-Minute Nap Before 2PM Does to YOUR Body (`2gwQ9BVOscI`), What a Hot Bath Does to YOUR Body Before Sleep (`BG6yth4tJBc`), What Actually Builds YOUR Muscle After 50 (`KTwE1rj8-Ek`), What Actually Happens to Vitamin D Inside YOUR Body (`3irVZ9Fo208`), What Changes Inside YOUR Body When YOU Face Fear (`kHe7AvbKoW4`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Blood After 2 Hours in a Forest (`zCtsCJ9cACY`), What Happens Inside YOUR Body During a Panic Attack (`H1IPL6q95Ec`), What Happens Inside YOUR Body in the 20 Minutes After Every Meal (`iV3tqeWNdeM`), What Happens Inside YOUR Body When Sugar Stops Arriving for 21 Days (`NFy3cR3XncA`), What Happens to YOUR Arteries When You Take Calcium Every Morning (`RlE3IsQ1Dts`), What Happens to YOUR BODY If You're Still Awake at 10PM (`zEQf8XkI5eU`), What Happens to YOUR BODY When You Forgive Someone? (`TIfYtzKSpXM`), What Happens to Your Body When You Hear Birds Singing (`oqmj-CaeLXM`), What Happens to YOUR BODY When You Hold Your Grandchild (`M_Q_JnKZXe8`), What Happens to YOUR BODY When You Move on an Empty Stomach (`aL4S_1VVpBI`), What Happens to Your BODY When You Pray (`UlXTeinaTBA`), What Happens to YOUR BRAIN When All Sound Stops? (`mN9wlM9bgMo`), What Happens to YOUR CELLS When You Go 12 Hours Without Food? (`Ol_BjFRCH-c`), What Happens to YOUR Stomach When Food Arrives Without Warning (`W-3nzX9cdWo`), What Happens When You STOP Watching News (`dsXSF8Y6-QQ`), What Missing ONE Night Does to Your Body (`yk3Amg7jkMc`), What Should YOUR Body Get Every Evening After 50 (`XkNJEa4UrfE`), What Sleeping 8 Hours Does to YOUR BODY (`MUQSpFXrSnc`), What Your 40-Year-Old TRAUMA Still Does to Your Body (`wrc2SDiMsOU`), What YOUR Grip Reveals That Blood Pressure Cannot (`izsNttOseXI`), What YOUR Urine Colour Says That Thirst Can No Longer Tell You (`9u-2y0eV4Ko`), Where Should You Spend 30 Minutes Every Month (`Adh1myK3_CE`), Why 80% of the Signals Run From YOUR Gut to Your Brain (`nPM83TqEa0E`), Why a 20 Second HUG Changes Your Body's Chemistry (`F4evGIwrjA0`), Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself (`17BFodH03VQ`), Why Blue Light WAKES You Up — But Blue Glasses CALM You Down (`nMac0Ull9m4`), Why Cutting ALL Fat Is Starving YOUR Brain (`7KL3oOYTByM`), Why Cutting Salt Does Something to YOUR Body Nobody Warned You About (`jtLYRKdp4Dc`), Why Does Your Body NEVER Cool Below 37 Degrees? (`ZdHrY0l78ug`), Why Eating Once a Day Helps YOUR Gut but Costs YOUR Muscle (`OUln7rLXg3M`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why Gardening Without Gloves Changes Your Brain Chemistry (`RYBagD7_RQM`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Looking at the HORIZON Resets Your Entire Nervous System (`2e_Yp9YJgrQ`), Why Losing Weight Gets HARDER Every Time YOU Try (`T8Jzg_lZ-fo`), Why Moving Water Makes You Feel BETTER (`uG9xUDbjh1g`), Why Shivering Keeps You Alive (`wrejViQw0Qo`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Sunlight Is the Most Powerful Drug You Take Every Day (`n2F24fK1uLY`), Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day (`EjOr6Q-z9oM`), Why You Feel Different in Sunlight Than in a Warm Room (`-kyGLmKSjZk`), Why You Feel Physically HEAVIER When You're Sad (`HCFcXMpu-VY`), Why You Look Like Your Parents AFTER 60 — But Didn't at 30 (`mBZ6mBxwgHY`), Why You Should LET Your Cat Sleep on You (`gvmz4zN8NHc`), Why YOU Wake Up 1 Minute Before Your Alarm (`HZP7rmDrboA`), Why You Wake Up at 3AM — What Your Body Is Really Doing (`UDN4JHYlq7o`), Why You Wake Up at Your Most Vulnerable — And Never Know It (`LHFObEj47Sc`), Why YOUR Blood Pressure Stays High Even When You Do Everything Right (`1wjs-atgmMw`), Why YOUR Body Treats Cold Water Like a Drug (`4i1dOrfSBJI`), Why Your Brain Produces A Pain It Cannot Feel (`Wag_cOqiLYE`), Why YOUR Hair Follicles Are Strangled (`leBnH_pE3EY`), Why Your LEGS Are Filling Your Bladder at 2AM (`d9PWCrjX2sA`), Why Your LEGS Are the First Place Aging Reveals Itself (`zyEwO7jhPhw`), Why YOUR Muscle Ignores the Protein YOU Eat (`sF9zE_QXSYA`), Why YOUR NERVOUS SYSTEM Recovers Faster Under a Tree Than Anywhere Else (`6XmOWCCPh-c`), Why YOUR Skin Grows Things That Weren't There at 30 (`S0CeHGxl2zY`), Your Body Ages FASTER After 50 — Here's What's Happening Inside (`qQQgl_BGiVg`), Your Body Has a FURNACE Nobody Told You About (`9MNqrOvyBZE`), YOUR Cells Aren't Broken — They're Waiting for a Different Signal (`Ip_1lMrxGp8`), Your Pancreas Has a Clock — And It Shuts Down Before Dinner (`egzhIyTP3vE`), Your Thymus Is Gone — And Your Immune System Is Running on What It Left Behind (`drmR73nU4AQ`)
 
-**immune and lymphatic** — 7 Habits of the Worlds LONGEST Living People What They Do Every Day (`IuOaImg5zUc`), Can Love Be Explained? — The Science Nobody Talks About (`sBNDNOU1VH8`), Can Suppressing Tears Actually Harm You? (`LKAxXiiY7Kg`), For 300,000 Years Every Human Did This — Then We Stopped (`E-7nvQbmmgc`), If You Have Type O Blood — Here's What YOUR Cells Never Built (`rUbioJP1KCM`), Press This One Spot to Reset YOUR Nervous System in Seconds (`DpjVGHgdZug`), The 2-Minute Protocol That REVERSES What 50 Years of Footwear Did (`vcLlMM7pmhM`), The 30-Second Bone-Building Exercise That Requires Nothing But Your Heels (`JGqF054OFx4`), The 30-Second Habit That Fights What YOUR Immune System Can No Longer Stop (`GZui4zfvxjA`), The 60-Second Morning Ritual That Activates 3 Organs at Once (`1mANxKIPcK8`), The 70-Year Mistake That Changed How YOU Treat the Sun (`yTMS_inQRCM`), The Cells She Left Behind — And Why They Never Left (`S_H09_FLeg4`), The Cleaning Wave YOUR Gut Runs Only When You Stop Eating (`4Rl1gvTNaDI`), The Exercise That Pumps EVERY Lymph Vessel at Once (`12kGPUoN0BA`), The Fitness Advice That's Been Slowly Suffocating YOUR Diaphragm (`Wes7ZGxQ8SY`), The Loop Inside YOUR Belly That No Diet Can Break Alone (`BzlswZO0jY0`), The One Thing Behind Every System Aging Inside YOUR Body (`lo86B1j2uf8`), The Organ Inside You That Fights Back When You Lose Weight (`l0daW72898A`), The Pump Inside YOUR Body That Moves Everything Except Blood (`tSVNb2Ummfw`), The Same Food Changes Your Blood Sugar Depending on Who's at the Table (`WG0HVl45XQ4`), The Signal YOUR Heart Sends That Every Test Misses (`NG7MafPovIw`), The Sleep Position That Protects the Most Organs After 50 (`5qdc4-rR9uQ`), The System Inside YOU That Has No Pump — And Stops When You Sit (`7GSqPgeYk-0`), Walking Is the Only Exercise Your Body Was Actually Designed For (`Uo8qxQY2T0U`), What 1 Hour in the Sun Does to YOUR DNA, Collagen, and Melanin (`8fPiI1wPWO0`), What 3 Pitches of Humming Do to YOUR Vagus Nerve, Sinuses, and Throat (`ulHJ4R7i1Z4`), What 60 Seconds of SHAKING Does to YOUR Nervous System That Wont Shut Off (`hCW0TehxqEI`), What a 20-Minute Nap Before 2PM Does to YOUR Body (`2gwQ9BVOscI`), What Actually Happens to Vitamin D Inside YOUR Body (`3irVZ9Fo208`), What FLOSSING Does to Your Arteries — The Connection Nobody Explains (`EX1zYCGmG9g`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Blood After 2 Hours in a Forest (`zCtsCJ9cACY`), What Happens Inside YOUR Body in the 20 Minutes After Every Meal (`iV3tqeWNdeM`), What Happens to YOUR BODY If You're Still Awake at 10PM (`zEQf8XkI5eU`), What Happens to YOUR BODY When You Forgive Someone? (`TIfYtzKSpXM`), What Happens to YOUR BODY When You Hold Your Grandchild (`M_Q_JnKZXe8`), What Happens to Your BODY When You Pray (`UlXTeinaTBA`), What Happens to YOUR BODY When You Sleep on the Wrong Side (`BJ0Sh6hOK18`), What Happens to YOUR BRAIN When You Hum for 60 Seconds? (`QVoGbaq8xos`), What Missing ONE Night Does to Your Body (`yk3Amg7jkMc`), What Sleeping 8 Hours Does to YOUR BODY (`MUQSpFXrSnc`), What Your 40-Year-Old TRAUMA Still Does to Your Body (`wrc2SDiMsOU`), What YOUR Forward Head Posture Is Doing to Your Vagus Nerve (`QSBLYfC95AA`), What YOUR Grip Reveals That Blood Pressure Cannot (`izsNttOseXI`), What YOUR Immune System Has Been Doing to YOUR Tattoo for 20 Years (`7gvAenlEkqs`), Where Should You Spend 30 Minutes Every Month (`Adh1myK3_CE`), Why 75% Resolve Without Surgery — And YOUR Doctor May Not Have Said This (`KQaRs0gSi4A`), Why 80% of the Signals Run From YOUR Gut to Your Brain (`nPM83TqEa0E`), Why a 20 Second HUG Changes Your Body's Chemistry (`F4evGIwrjA0`), Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself (`17BFodH03VQ`), Why Cold Water on Your Face Does What Breathing Exercises Can't (`sr9sFZnBz6c`), Why Does Your Body NEVER Cool Below 37 Degrees? (`ZdHrY0l78ug`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why Every Scan YOU Ever Had Is Still Written in Your DNA (`P2o1OdrXJAQ`), Why Gardening Without Gloves Changes Your Brain Chemistry (`RYBagD7_RQM`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Sunlight Is the Most Powerful Drug You Take Every Day (`n2F24fK1uLY`), Why the Food YOU Feared Does What Your Medication Can't (`rzaxpumi_tI`), Why Wind Makes You Feel More Alive Than Anything Indoors (`RqFSA2WpQmI`), Why YOU Always Have Mucus in Your Throat (`dzzuKeLiYnM`), Why You Feel Physically HEAVIER When You're Sad (`HCFcXMpu-VY`), Why You Look Like Your Parents AFTER 60 — But Didn't at 30 (`mBZ6mBxwgHY`), Why You Should TOUCH a Tree Every Day — The Science Nobody Talks About (`gyOTlBlFEuo`), Why You Wake Up at Your Most Vulnerable — And Never Know It (`LHFObEj47Sc`), Why YOUR Body Treats Cold Water Like a Drug (`4i1dOrfSBJI`), Why Your Body Treats Sitting Like a DISEASE (`6fu-RL-0F9o`), Why YOUR Hair Follicles Are Strangled (`leBnH_pE3EY`), Why Your LEGS Are Filling Your Bladder at 2AM (`d9PWCrjX2sA`), Why YOUR NERVOUS SYSTEM Recovers Faster Under a Tree Than Anywhere Else (`6XmOWCCPh-c`), Why YOUR Skin Grows Things That Weren't There at 30 (`S0CeHGxl2zY`), Your Body Ages FASTER After 50 — Here's What's Happening Inside (`qQQgl_BGiVg`), Your EAR Has a Hidden Nerve — And It Reaches Your Heart (`lUxY0L1wmZk`), Your Morning Walk Is MISSING the One Thing That Actually Protects You (`Hc79_xF69-s`), Your Nose Is a Drug Factory — The Science of How You Breathe (`rO6QLZgmIHs`), Your Thymus Is Gone — And Your Immune System Is Running on What It Left Behind (`drmR73nU4AQ`)
+**immune and lymphatic** — 7 Habits of the Worlds LONGEST Living People What They Do Every Day (`IuOaImg5zUc`), Can Love Be Explained? — The Science Nobody Talks About (`sBNDNOU1VH8`), Can Suppressing Tears Actually Harm You? (`LKAxXiiY7Kg`), For 300,000 Years Every Human Did This — Then We Stopped (`E-7nvQbmmgc`), If You Have Type O Blood — Here's What YOUR Cells Never Built (`rUbioJP1KCM`), Press This One Spot to Reset YOUR Nervous System in Seconds (`DpjVGHgdZug`), The 2-Minute Protocol That REVERSES What 50 Years of Footwear Did (`vcLlMM7pmhM`), The 30-Second Bone-Building Exercise That Requires Nothing But Your Heels (`JGqF054OFx4`), The 30-Second Habit That Fights What YOUR Immune System Can No Longer Stop (`GZui4zfvxjA`), The 60-Second Morning Ritual That Activates 3 Organs at Once (`1mANxKIPcK8`), The 70-Year Mistake That Changed How YOU Treat the Sun (`yTMS_inQRCM`), The Cells She Left Behind — And Why They Never Left (`S_H09_FLeg4`), The Cleaning Wave YOUR Gut Runs Only When You Stop Eating (`4Rl1gvTNaDI`), The Exercise That Pumps EVERY Lymph Vessel at Once (`12kGPUoN0BA`), The Fitness Advice That's Been Slowly Suffocating YOUR Diaphragm (`Wes7ZGxQ8SY`), The Loop Inside YOUR Belly That No Diet Can Break Alone (`BzlswZO0jY0`), The One Thing Behind Every System Aging Inside YOUR Body (`lo86B1j2uf8`), The Organ Inside You That Fights Back When You Lose Weight (`l0daW72898A`), The Pump Inside YOUR Body That Moves Everything Except Blood (`tSVNb2Ummfw`), The Same Food Changes Your Blood Sugar Depending on Who's at the Table (`WG0HVl45XQ4`), The Signal YOUR Heart Sends That Every Test Misses (`NG7MafPovIw`), The Sleep Position That Protects the Most Organs After 50 (`5qdc4-rR9uQ`), The System Inside YOU That Has No Pump — And Stops When You Sit (`7GSqPgeYk-0`), Walking Is the Only Exercise Your Body Was Actually Designed For (`Uo8qxQY2T0U`), What 1 Hour in the Sun Does to YOUR DNA, Collagen, and Melanin (`8fPiI1wPWO0`), What 3 Pitches of Humming Do to YOUR Vagus Nerve, Sinuses, and Throat (`ulHJ4R7i1Z4`), What 60 Seconds of SHAKING Does to YOUR Nervous System That Wont Shut Off (`hCW0TehxqEI`), What 60 Seconds of SHAKING Does to Your Stress Hormones (`jaUCXKPUA-s`), What a 20-Minute Nap Before 2PM Does to YOUR Body (`2gwQ9BVOscI`), What Actually Happens to Vitamin D Inside YOUR Body (`3irVZ9Fo208`), What FLOSSING Does to Your Arteries — The Connection Nobody Explains (`EX1zYCGmG9g`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Blood After 2 Hours in a Forest (`zCtsCJ9cACY`), What Happens Inside YOUR Body in the 20 Minutes After Every Meal (`iV3tqeWNdeM`), What Happens to YOUR BODY If You're Still Awake at 10PM (`zEQf8XkI5eU`), What Happens to YOUR BODY When You Forgive Someone? (`TIfYtzKSpXM`), What Happens to YOUR BODY When You Hold Your Grandchild (`M_Q_JnKZXe8`), What Happens to Your BODY When You Pray (`UlXTeinaTBA`), What Happens to YOUR BODY When You Sleep on the Wrong Side (`BJ0Sh6hOK18`), What Happens to YOUR BRAIN When You Hum for 60 Seconds? (`QVoGbaq8xos`), What Happens to YOUR CELLS When You Go 12 Hours Without Food? (`Ol_BjFRCH-c`), What Missing ONE Night Does to Your Body (`yk3Amg7jkMc`), What Sleeping 8 Hours Does to YOUR BODY (`MUQSpFXrSnc`), What Your 40-Year-Old TRAUMA Still Does to Your Body (`wrc2SDiMsOU`), What YOUR Forward Head Posture Is Doing to Your Vagus Nerve (`QSBLYfC95AA`), What YOUR Grip Reveals That Blood Pressure Cannot (`izsNttOseXI`), What YOUR Immune System Has Been Doing to YOUR Tattoo for 20 Years (`7gvAenlEkqs`), Where Should You Spend 30 Minutes Every Month (`Adh1myK3_CE`), Why 75% Resolve Without Surgery — And YOUR Doctor May Not Have Said This (`KQaRs0gSi4A`), Why 80% of the Signals Run From YOUR Gut to Your Brain (`nPM83TqEa0E`), Why a 20 Second HUG Changes Your Body's Chemistry (`F4evGIwrjA0`), Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself (`17BFodH03VQ`), Why Cold Water on Your Face Does What Breathing Exercises Can't (`sr9sFZnBz6c`), Why Does Your Body NEVER Cool Below 37 Degrees? (`ZdHrY0l78ug`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why Every Scan YOU Ever Had Is Still Written in Your DNA (`P2o1OdrXJAQ`), Why Gardening Without Gloves Changes Your Brain Chemistry (`RYBagD7_RQM`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Sleeping Too Much May Change Your Body After 60 (`kb6RxORFqO0`), Why Sunlight Is the Most Powerful Drug You Take Every Day (`n2F24fK1uLY`), Why the Food YOU Feared Does What Your Medication Can't (`rzaxpumi_tI`), Why Wind Makes You Feel More Alive Than Anything Indoors (`RqFSA2WpQmI`), Why YOU Always Have Mucus in Your Throat (`dzzuKeLiYnM`), Why You Feel Physically HEAVIER When You're Sad (`HCFcXMpu-VY`), Why You Look Like Your Parents AFTER 60 — But Didn't at 30 (`mBZ6mBxwgHY`), Why You Should TOUCH a Tree Every Day — The Science Nobody Talks About (`gyOTlBlFEuo`), Why You Wake Up at Your Most Vulnerable — And Never Know It (`LHFObEj47Sc`), Why YOUR Body Treats Cold Water Like a Drug (`4i1dOrfSBJI`), Why Your Body Treats Sitting Like a DISEASE (`6fu-RL-0F9o`), Why YOUR Hair Follicles Are Strangled (`leBnH_pE3EY`), Why Your LEGS Are Filling Your Bladder at 2AM (`d9PWCrjX2sA`), Why YOUR NERVOUS SYSTEM Recovers Faster Under a Tree Than Anywhere Else (`6XmOWCCPh-c`), Why YOUR Skin Grows Things That Weren't There at 30 (`S0CeHGxl2zY`), Your Body Ages FASTER After 50 — Here's What's Happening Inside (`qQQgl_BGiVg`), Your EAR Has a Hidden Nerve — And It Reaches Your Heart (`lUxY0L1wmZk`), Your Morning Walk Is MISSING the One Thing That Actually Protects You (`Hc79_xF69-s`), Your Nose Is a Drug Factory — The Science of How You Breathe (`rO6QLZgmIHs`), Your Thymus Is Gone — And Your Immune System Is Running on What It Left Behind (`drmR73nU4AQ`)
 
-**musculoskeletal and connective tissue** — 5 Brain Systems Activate at Once — No Other Exercise Comes Close (`m4p36gcifP4`), 5 Things Happening Inside YOUR Body With Every Step (`_POo-RCC_2Y`), 7 Habits of the Worlds LONGEST Living People What They Do Every Day (`IuOaImg5zUc`), For 300,000 Years Every Human Did This — Then We Stopped (`E-7nvQbmmgc`), If You Wake Up With a DRY MOUTH Your Body Is Warning You (`Wp02siBKjD0`), Over 60? Do THESE 5 Exercises To Strengthen YOUR Legs (`MClMvcFgidw`), The 1 Move That FIXES YOUR Leg Circulation (`W00gPRmrtog`), The 10-Second Squeeze That Goes Deeper Than Meditation (`wXM6jLEeQzY`), The 2-Minute Signal YOUR Gut Sends That Ozempic Stretches to a Week (`iWLkA7ME-78`), The 3 Fall Directions YOUR Body Has Never Rehearsed (`C3VQYvIo0Mo`), The 30 Second Wall Push That Loads Every Bone Walking Leaves Behind (`PQ3lOdnt7HQ`), The 30-Second Bone-Building Exercise That Requires Nothing But Your Heels (`JGqF054OFx4`), The 30-Second Habit That Fights What YOUR Immune System Can No Longer Stop (`GZui4zfvxjA`), The 5 Systems That FAILED — Not YOUR Diet (`Lo7euCwbYcw`), The 60-Second Squeeze That Silences YOUR Legs Before Sleep (`z0b94Hpdklo`), The Chemistry Between YOUR Breathing and YOUR Bone Density (`YT689Fn9A8Q`), The Direction YOUR Body Abandoned — And Why Your Hip Is Paying for It (`44EDJkTWP3o`), The Exercise That Pumps EVERY Lymph Vessel at Once (`12kGPUoN0BA`), The Gas That Keeps YOU Alive — And Why You're Making LESS (`axWLB9fmQic`), The Hormone Decline That DOUBLED YOUR Overnight Urine Production (`xqmvpVaCPbA`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Jaw Muscle That's Been Tightening YOUR Skull Since 8AM (`5NoC-mvYSHo`), The Morning Exercise That Exceeds the SAFETY LIMIT for YOUR Spine (`tBUGWqOmjmA`), The One Thing Behind Every System Aging Inside YOUR Body (`lo86B1j2uf8`), The Plateau That Proves YOUR Walk Actually Worked (`_nA9W1PC7Aw`), The Position That OUTPERFORMED Every Exercise (`8-AmGuM3jPo`), The Reflex YOUR Body Kept After It Lost Its Purpose (`eLp-r_5HSYA`), The Sleep Position That Protects the Most Organs After 50 (`5qdc4-rR9uQ`), The System Inside YOU That Has No Pump — And Stops When You Sit (`7GSqPgeYk-0`), This FIXES YOUR Muscle Loss After 50 — The Signal You Keep Missing (`1Rlw2NRsKnI`), This Tiny Muscle in Your Calf Can Fix What Sitting Breaks (`lJNfShSEta8`), Walking Is the Only Exercise Your Body Was Actually Designed For (`Uo8qxQY2T0U`), What 1 Hour in the Sun Does to YOUR DNA, Collagen, and Melanin (`8fPiI1wPWO0`), What 3 Minutes Every Morning Does to YOUR Hips, Spine, and Grip (`eDFP49iNwaI`), What 3 Pitches of Humming Do to YOUR Vagus Nerve, Sinuses, and Throat (`ulHJ4R7i1Z4`), What 50 Years of SHOES Did to YOUR Brain (`rE07mxSv6X4`), What 60 Seconds of SHAKING Does to YOUR Nervous System That Wont Shut Off (`hCW0TehxqEI`), What Actually Builds YOUR Muscle After 50 (`KTwE1rj8-Ek`), What Actually Happens Inside YOUR Throat When You Snore (`WK6ke9ZpcOk`), What Actually Happens to Vitamin D Inside YOUR Body (`3irVZ9Fo208`), What Blowing Up a BALLOON Does to YOUR Body (`chsavHoBtJs`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Body in the 20 Minutes After Every Meal (`iV3tqeWNdeM`), What Happens Inside YOUR Body When You Stand Up Too Fast (`tYkCvmXCJBc`), What Happens Inside YOUR Muscles When Potassium Drops (`Cekr_0A1-NI`), What Happens to YOUR Arteries When You Take Calcium Every Morning (`RlE3IsQ1Dts`), What Happens to YOUR Back After 5 Minutes on a Hard Surface (`YcmpJZrdqiI`), What Happens to Your Blood Sugar in the 60 Minutes After You Eat (`lj_r9NOh6Mc`), What Happens to YOUR BODY When You Move on an Empty Stomach (`aL4S_1VVpBI`), What Happens to YOUR Brain When Doctor Lowers Your Blood Pressure (`CkJMMyeFIH4`), What Happens to YOUR FOOT When This One Muscle Stops Working (`I45ltvsK4jI`), What Happens to YOUR MUSCLES When You Stretch Past 60 Seconds (`7_URSXBuQUc`), What Happens to YOUR Spine, Shoulders, and Grip When You Hang  Every Day (`5GShDTK0lrI`), What ONE Failed Valve Does to Every Vein Below It in YOUR Leg (`5m65orqBBAo`), What That Bump Beside YOUR Big Toe Actually Is (`eOOEmX-m-Ac`), What Those Nail Ridges Reveal About How YOU Age (`W7b9RlMo-ro`), What YOUR Forward Head Posture Is Doing to Your Vagus Nerve (`QSBLYfC95AA`), What YOUR Grip Reveals That Blood Pressure Cannot (`izsNttOseXI`), What YOUR Immune System Has Been Doing to YOUR Tattoo for 20 Years (`7gvAenlEkqs`), Why 1 Flight of STAIRS Beats YOUR 30-Minute Walk (`fArccOlBJkI`), Why 20 Years of Stretching Never Fixed YOUR Hamstrings (`YWSgliDBHUQ`), Why 75% Resolve Without Surgery — And YOUR Doctor May Not Have Said This (`KQaRs0gSi4A`), Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself (`17BFodH03VQ`), Why Cutting Salt Does Something to YOUR Body Nobody Warned You About (`jtLYRKdp4Dc`), Why Eating Once a Day Helps YOUR Gut but Costs YOUR Muscle (`OUln7rLXg3M`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Losing Weight Gets HARDER Every Time YOU Try (`T8Jzg_lZ-fo`), Why Moving SLOWLY Trains YOUR Brain Faster Than Moving Fast (`DWXqhyZkwco`), Why Rocking Calms You at 70 the Same Way It Calmed You at 7 Months (`wwgvdD9fQ_w`), Why Shivering Keeps You Alive (`wrejViQw0Qo`), Why Simple Walking Stopped Rebuilding YOUR Energy (`e28MeRe_axE`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Stretching Feels Good But Makes YOUR Body Worse (`nkKfxfLwxCo`), Why Sunlight Is the Most Powerful Drug You Take Every Day (`n2F24fK1uLY`), Why the Posture You Were Taught Is STARVING YOUR Discs (`wJUWg397i00`), Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day (`EjOr6Q-z9oM`), Why the Weather Makes Your Body ACHE (`Qvcd0UY-JB4`), Why Walking Backwards FIXES What Forward Walking Breaks (`bUF1mry7i_k`), Why Wind Makes You Feel More Alive Than Anything Indoors (`RqFSA2WpQmI`), Why You Feel Different in Sunlight Than in a Warm Room (`-kyGLmKSjZk`), Why You Feel Physically HEAVIER When You're Sad (`HCFcXMpu-VY`), Why You Look Like Your Parents AFTER 60 — But Didn't at 30 (`mBZ6mBxwgHY`), Why You Should LET Your Cat Sleep on You (`gvmz4zN8NHc`), Why You Should Walk on Dirt, Not Concrete (`mb653wMoNEE`), Why YOUR Back Pain Returns After Every Treatment (`fHKfNsL6wnM`), Why Your Balance Is the Most Dangerous Thing You're Losing (`tx-4Ed23PlM`), Why Your Body Treats Sitting Like a DISEASE (`6fu-RL-0F9o`), Why Your Body Was Actually Designed for Squatting (`q1sSm5EDwAU`), Why YOUR Hair Follicles Are Strangled (`leBnH_pE3EY`), Why YOUR Knee and Back Hurt at the Same Time (`gBKD75NuFO4`), Why YOUR Muscle Ignores the Protein YOU Eat (`sF9zE_QXSYA`), Why YOUR Strength Doesn't Prevent Falls (`dfwYYWTyGY4`), Why YOUR TEETH Start Breaking After 50 (`nYEP1F5kFQA`), Your Body Ages FASTER After 50 — Here's What's Happening Inside (`qQQgl_BGiVg`), Your Body Has a FURNACE Nobody Told You About (`9MNqrOvyBZE`), YOUR Brain Still Checks for Something That Disappeared 2 Million Years Ago (`zCvHYepPFuI`), YOUR Cells Aren't Broken — They're Waiting for a Different Signal (`Ip_1lMrxGp8`), Your Chair Is Aging You Faster Than Time (`CdUXGQy_Q8s`), YOUR Eyes Have 16 Muscles You Never Exercise (`PmlpIs2TCOw`), YOUR Morning Decides How Fast You Age (`ui8y9vOm6dw`), Your Morning Walk Is MISSING the One Thing That Actually Protects You (`Hc79_xF69-s`), YOUR Muscles Are Stronger Going Down — Nobody Told You to Use It (`5nJH1YIU5LM`), Your YAWN Has Nothing to Do With Oxygen (`4ETtiIMRvlo`)
+**musculoskeletal and connective tissue** — 5 Brain Systems Activate at Once — No Other Exercise Comes Close (`m4p36gcifP4`), 5 Things Happening Inside YOUR Body With Every Step (`_POo-RCC_2Y`), 7 Habits of the Worlds LONGEST Living People What They Do Every Day (`IuOaImg5zUc`), For 300,000 Years Every Human Did This — Then We Stopped (`E-7nvQbmmgc`), If You Wake Up With a DRY MOUTH Your Body Is Warning You (`Wp02siBKjD0`), Over 60? Do THESE 5 Exercises To Strengthen YOUR Legs (`MClMvcFgidw`), The 1 Move That FIXES YOUR Leg Circulation (`W00gPRmrtog`), The 10-Second Squeeze That Goes Deeper Than Meditation (`wXM6jLEeQzY`), The 2-Minute Signal YOUR Gut Sends That Ozempic Stretches to a Week (`iWLkA7ME-78`), The 3 Fall Directions YOUR Body Has Never Rehearsed (`C3VQYvIo0Mo`), The 30 Second Wall Push That Loads Every Bone Walking Leaves Behind (`PQ3lOdnt7HQ`), The 30-Second Bone-Building Exercise That Requires Nothing But Your Heels (`JGqF054OFx4`), The 30-Second Habit That Fights What YOUR Immune System Can No Longer Stop (`GZui4zfvxjA`), The 5 Systems That FAILED — Not YOUR Diet (`Lo7euCwbYcw`), The 60-Second Squeeze That Silences YOUR Legs Before Sleep (`z0b94Hpdklo`), The Chemistry Between YOUR Breathing and YOUR Bone Density (`YT689Fn9A8Q`), The Direction YOUR Body Abandoned — And Why Your Hip Is Paying for It (`44EDJkTWP3o`), The Exercise That Pumps EVERY Lymph Vessel at Once (`12kGPUoN0BA`), The Gas That Keeps YOU Alive — And Why You're Making LESS (`axWLB9fmQic`), The Hormone Decline That DOUBLED YOUR Overnight Urine Production (`xqmvpVaCPbA`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Jaw Muscle That's Been Tightening YOUR Skull Since 8AM (`5NoC-mvYSHo`), The Morning Exercise That Exceeds the SAFETY LIMIT for YOUR Spine (`tBUGWqOmjmA`), The One Thing Behind Every System Aging Inside YOUR Body (`lo86B1j2uf8`), The Plateau That Proves YOUR Walk Actually Worked (`_nA9W1PC7Aw`), The Position That OUTPERFORMED Every Exercise (`8-AmGuM3jPo`), The Reflex YOUR Body Kept After It Lost Its Purpose (`eLp-r_5HSYA`), The Sleep Position That Protects the Most Organs After 50 (`5qdc4-rR9uQ`), The System Inside YOU That Has No Pump — And Stops When You Sit (`7GSqPgeYk-0`), This FIXES YOUR Muscle Loss After 50 — The Signal You Keep Missing (`1Rlw2NRsKnI`), This Tiny Muscle in Your Calf Can Fix What Sitting Breaks (`lJNfShSEta8`), Walking Is the Only Exercise Your Body Was Actually Designed For (`Uo8qxQY2T0U`), What 1 Hour in the Sun Does to YOUR DNA, Collagen, and Melanin (`8fPiI1wPWO0`), What 3 Minutes Every Morning Does to YOUR Hips, Spine, and Grip (`eDFP49iNwaI`), What 3 Pitches of Humming Do to YOUR Vagus Nerve, Sinuses, and Throat (`ulHJ4R7i1Z4`), What 50 Years of SHOES Did to YOUR Brain (`rE07mxSv6X4`), What 60 Seconds of SHAKING Does to YOUR Nervous System That Wont Shut Off (`hCW0TehxqEI`), What Actually Builds YOUR Muscle After 50 (`KTwE1rj8-Ek`), What Actually Happens Inside YOUR Throat When You Snore (`WK6ke9ZpcOk`), What Actually Happens to Vitamin D Inside YOUR Body (`3irVZ9Fo208`), What Blowing Up a BALLOON Does to YOUR Body (`chsavHoBtJs`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Body in the 20 Minutes After Every Meal (`iV3tqeWNdeM`), What Happens Inside YOUR Body When You Stand Up Too Fast (`tYkCvmXCJBc`), What Happens Inside YOUR Muscles When Potassium Drops (`Cekr_0A1-NI`), What Happens to YOUR Arteries When You Take Calcium Every Morning (`RlE3IsQ1Dts`), What Happens to YOUR Back After 5 Minutes on a Hard Surface (`YcmpJZrdqiI`), What Happens to Your Blood Sugar in the 60 Minutes After You Eat (`lj_r9NOh6Mc`), What Happens to YOUR BODY When You Move on an Empty Stomach (`aL4S_1VVpBI`), What Happens to YOUR BONES When You Stand on One Leg Every Day? (`t3mQsBMthhE`), What Happens to YOUR Brain When Doctor Lowers Your Blood Pressure (`CkJMMyeFIH4`), What Happens to YOUR FOOT When This One Muscle Stops Working (`I45ltvsK4jI`), What Happens to YOUR MUSCLES When You Stretch Past 60 Seconds (`7_URSXBuQUc`), What Happens to YOUR MUSCLES When You Walk Backwards After 60? (`VPSeyGBvG68`), What Happens to YOUR Spine, Shoulders, and Grip When You Hang  Every Day (`5GShDTK0lrI`), What ONE Failed Valve Does to Every Vein Below It in YOUR Leg (`5m65orqBBAo`), What That Bump Beside YOUR Big Toe Actually Is (`eOOEmX-m-Ac`), What Those Nail Ridges Reveal About How YOU Age (`W7b9RlMo-ro`), What YOUR Forward Head Posture Is Doing to Your Vagus Nerve (`QSBLYfC95AA`), What YOUR Grip Reveals That Blood Pressure Cannot (`izsNttOseXI`), What YOUR Immune System Has Been Doing to YOUR Tattoo for 20 Years (`7gvAenlEkqs`), Why 1 Flight of STAIRS Beats YOUR 30-Minute Walk (`fArccOlBJkI`), Why 20 Years of Stretching Never Fixed YOUR Hamstrings (`YWSgliDBHUQ`), Why 75% Resolve Without Surgery — And YOUR Doctor May Not Have Said This (`KQaRs0gSi4A`), Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself (`17BFodH03VQ`), Why Cutting Salt Does Something to YOUR Body Nobody Warned You About (`jtLYRKdp4Dc`), Why Eating Once a Day Helps YOUR Gut but Costs YOUR Muscle (`OUln7rLXg3M`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Losing Weight Gets HARDER Every Time YOU Try (`T8Jzg_lZ-fo`), Why Moving SLOWLY Trains YOUR Brain Faster Than Moving Fast (`DWXqhyZkwco`), Why Rocking Calms You at 70 the Same Way It Calmed You at 7 Months (`wwgvdD9fQ_w`), Why Shivering Keeps You Alive (`wrejViQw0Qo`), Why Simple Walking Stopped Rebuilding YOUR Energy (`e28MeRe_axE`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Sleeping Too Much May Change Your Body After 60 (`kb6RxORFqO0`), Why Stretching After Waking FIXES What Sleep Does to Your Muscles (`Tb6jrfTewtw`), Why Stretching Feels Good But Makes YOUR Body Worse (`nkKfxfLwxCo`), Why Sunlight Is the Most Powerful Drug You Take Every Day (`n2F24fK1uLY`), Why the Posture You Were Taught Is STARVING YOUR Discs (`wJUWg397i00`), Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day (`EjOr6Q-z9oM`), Why the Weather Makes Your Body ACHE (`Qvcd0UY-JB4`), Why Walking Backwards FIXES What Forward Walking Breaks (`bUF1mry7i_k`), Why Wind Makes You Feel More Alive Than Anything Indoors (`RqFSA2WpQmI`), Why You Feel Different in Sunlight Than in a Warm Room (`-kyGLmKSjZk`), Why You Feel Physically HEAVIER When You're Sad (`HCFcXMpu-VY`), Why You Look Like Your Parents AFTER 60 — But Didn't at 30 (`mBZ6mBxwgHY`), Why You Should LET Your Cat Sleep on You (`gvmz4zN8NHc`), Why You Should Walk on Dirt, Not Concrete (`mb653wMoNEE`), Why YOUR Back Pain Returns After Every Treatment (`fHKfNsL6wnM`), Why Your Balance Is the Most Dangerous Thing You're Losing (`tx-4Ed23PlM`), Why Your Body Needs This One Movement More After 60 (`X0UEkdOvDFE`), Why Your Body Treats Sitting Like a DISEASE (`6fu-RL-0F9o`), Why Your Body Was Actually Designed for Squatting (`q1sSm5EDwAU`), Why YOUR Hair Follicles Are Strangled (`leBnH_pE3EY`), Why YOUR Knee and Back Hurt at the Same Time (`gBKD75NuFO4`), Why Your LEGS Are the First Place Aging Reveals Itself (`zyEwO7jhPhw`), Why YOUR Muscle Ignores the Protein YOU Eat (`sF9zE_QXSYA`), Why Your MUSCLES Age Faster When You Stop Getting Off the Floor (`dcjqrZxElIU`), Why YOUR Strength Doesn't Prevent Falls (`dfwYYWTyGY4`), Why YOUR TEETH Start Breaking After 50 (`nYEP1F5kFQA`), Your Body Ages FASTER After 50 — Here's What's Happening Inside (`qQQgl_BGiVg`), Your Body Has a FURNACE Nobody Told You About (`9MNqrOvyBZE`), YOUR Brain Still Checks for Something That Disappeared 2 Million Years Ago (`zCvHYepPFuI`), YOUR Cells Aren't Broken — They're Waiting for a Different Signal (`Ip_1lMrxGp8`), Your Chair Is Aging You Faster Than Time (`CdUXGQy_Q8s`), YOUR Eyes Have 16 Muscles You Never Exercise (`PmlpIs2TCOw`), YOUR Morning Decides How Fast You Age (`ui8y9vOm6dw`), Your Morning Walk Is MISSING the One Thing That Actually Protects You (`Hc79_xF69-s`), YOUR Muscles Are Stronger Going Down — Nobody Told You to Use It (`5nJH1YIU5LM`), Your YAWN Has Nothing to Do With Oxygen (`4ETtiIMRvlo`)
 
-**nervous system** — 5 Brain Systems Activate at Once — No Other Exercise Comes Close (`m4p36gcifP4`), 5 Things Happening Inside YOUR Body With Every Step (`_POo-RCC_2Y`), 7 Habits of the Worlds LONGEST Living People What They Do Every Day (`IuOaImg5zUc`), Can Love Be Explained? — The Science Nobody Talks About (`sBNDNOU1VH8`), Can Suppressing Tears Actually Harm You? (`LKAxXiiY7Kg`), Doing Nothing Is the Most EXHAUSTING Thing Your Body Does (`rRStxBEUE1A`), For 300,000 Years Every Human Did This — Then We Stopped (`E-7nvQbmmgc`), How an Emotion Reshapes Your Heart in Seconds (`frP79hCSSyw`), Only 2% of People Know This About Eating (`nFA2-ICtphg`), Press This One Spot to Reset YOUR Nervous System in Seconds (`DpjVGHgdZug`), Rain Does Something to Your Brain That No Sleep Aid Can (`3Ky1YtmNFZM`), Sigh 3 Times — What Just Happened Was Not Frustration (`KyOB22-Byvs`), The 1 Move That FIXES YOUR Leg Circulation (`W00gPRmrtog`), The 10-Second Squeeze That Goes Deeper Than Meditation (`wXM6jLEeQzY`), The 2-Minute Protocol That REVERSES What 50 Years of Footwear Did (`vcLlMM7pmhM`), The 2-Minute Signal YOUR Gut Sends That Ozempic Stretches to a Week (`iWLkA7ME-78`), The 3 Fall Directions YOUR Body Has Never Rehearsed (`C3VQYvIo0Mo`), The 30-Second Bone-Building Exercise That Requires Nothing But Your Heels (`JGqF054OFx4`), The 30-Second Habit That Fights What YOUR Immune System Can No Longer Stop (`GZui4zfvxjA`), The 5 Systems That FAILED — Not YOUR Diet (`Lo7euCwbYcw`), The 60-Second Morning Ritual That Activates 3 Organs at Once (`1mANxKIPcK8`), The 60-Second Squeeze That Silences YOUR Legs Before Sleep (`z0b94Hpdklo`), The Cells She Left Behind — And Why They Never Left (`S_H09_FLeg4`), The Chemistry Between YOUR Breathing and YOUR Bone Density (`YT689Fn9A8Q`), The Direction YOUR Body Abandoned — And Why Your Hip Is Paying for It (`44EDJkTWP3o`), The Exercise That Pumps EVERY Lymph Vessel at Once (`12kGPUoN0BA`), The First Thing Your STOMACH Should Receive Every Morning (`lx5gTHaPMLk`), The Fitness Advice That's Been Slowly Suffocating YOUR Diaphragm (`Wes7ZGxQ8SY`), The Gas That Keeps YOU Alive — And Why You're Making LESS (`axWLB9fmQic`), The Hidden Switch Behind YOUR Hot Flashes and Night Sweats (`E68D3GzYIgQ`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Jaw Muscle That's Been Tightening YOUR Skull Since 8AM (`5NoC-mvYSHo`), The Molecule in YOUR Garden That Works Like Valium (`WvmqXh_n7Zo`), The Molecule You Were Taught Is Waste — Is Actually the One Your Brain Needs Most (`co54vFnEHWU`), The Organ Inside You That Fights Back When You Lose Weight (`l0daW72898A`), The Pump Inside YOUR Body That Moves Everything Except Blood (`tSVNb2Ummfw`), The Real Reason PAIN Exists (`e27nQVumuek`), The Reason YOU Wake at 3AM That Has Nothing to Do With YOUR Body (`x22pxLJ5lSo`), The Reflex YOUR Body Kept After It Lost Its Purpose (`eLp-r_5HSYA`), The Same Food Changes Your Blood Sugar Depending on Who's at the Table (`WG0HVl45XQ4`), This FIXES YOUR Muscle Loss After 50 — The Signal You Keep Missing (`1Rlw2NRsKnI`), Walking Is the Only Exercise Your Body Was Actually Designed For (`Uo8qxQY2T0U`), What 3 Minutes Every Morning Does to YOUR Hips, Spine, and Grip (`eDFP49iNwaI`), What 3 Pitches of Humming Do to YOUR Vagus Nerve, Sinuses, and Throat (`ulHJ4R7i1Z4`), What 50 Years of SHOES Did to YOUR Brain (`rE07mxSv6X4`), What 60 Seconds of SHAKING Does to YOUR Nervous System That Wont Shut Off (`hCW0TehxqEI`), What 60 Seconds of SMILING Does to Your Brain — Even When You're Faking It (`hxc0opwYlyA`), What a 20-Minute Nap Before 2PM Does to YOUR Body (`2gwQ9BVOscI`), What a Hot Bath Does to YOUR Body Before Sleep (`BG6yth4tJBc`), What Actually Builds YOUR Muscle After 50 (`KTwE1rj8-Ek`), What Actually Happens Inside YOUR Throat When You Snore (`WK6ke9ZpcOk`), What Blowing Up a BALLOON Does to YOUR Body (`chsavHoBtJs`), What Changes Inside YOUR Body When YOU Face Fear (`kHe7AvbKoW4`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Blood After 2 Hours in a Forest (`zCtsCJ9cACY`), What Happens Inside YOUR Body During a Panic Attack (`H1IPL6q95Ec`), What Happens Inside YOUR Body When You Stand Up Too Fast (`tYkCvmXCJBc`), What Happens Inside YOUR BRAIN After 72 Hours of Complete Darkness (`cGGB2PQ6PFQ`), What Happens Inside YOUR Muscles When Potassium Drops (`Cekr_0A1-NI`), What Happens to YOUR Back After 5 Minutes on a Hard Surface (`YcmpJZrdqiI`), What Happens to YOUR BODY When You Forgive Someone? (`TIfYtzKSpXM`), What Happens to Your Body When You Hear Birds Singing (`oqmj-CaeLXM`), What Happens to YOUR BODY When You Hold Your Grandchild (`M_Q_JnKZXe8`), What Happens to Your BODY When You Pray (`UlXTeinaTBA`), What Happens to YOUR BRAIN When All Sound Stops? (`mN9wlM9bgMo`), What Happens to YOUR BRAIN When You Hum for 60 Seconds? (`QVoGbaq8xos`), What Happens to YOUR FOOT When This One Muscle Stops Working (`I45ltvsK4jI`), What Happens to YOUR MIND When You Sleep? (`6EwQXznpBsg`), What Happens to YOUR MUSCLES When You Stretch Past 60 Seconds (`7_URSXBuQUc`), What Happens to YOUR Spine, Shoulders, and Grip When You Hang  Every Day (`5GShDTK0lrI`), What Happens to YOUR Stomach When Food Arrives Without Warning (`W-3nzX9cdWo`), What Happens When You STOP Watching News (`dsXSF8Y6-QQ`), What Missing ONE Night Does to Your Body (`yk3Amg7jkMc`), What Should YOUR Body Get Every Evening After 50 (`XkNJEa4UrfE`), What Your 40-Year-Old TRAUMA Still Does to Your Body (`wrc2SDiMsOU`), What YOUR Forward Head Posture Is Doing to Your Vagus Nerve (`QSBLYfC95AA`), What YOUR Grip Reveals That Blood Pressure Cannot (`izsNttOseXI`), What YOUR Morning Coffee Actually Does (`kKJTsh-ofPY`), What YOUR Morning Erections Actually Tell You About Your Heart (`HmUBEhrTs6Y`), Where Should You Spend 30 Minutes Every Month (`Adh1myK3_CE`), Why 1 Flight of STAIRS Beats YOUR 30-Minute Walk (`fArccOlBJkI`), Why 20 Years of Stretching Never Fixed YOUR Hamstrings (`YWSgliDBHUQ`), Why 75% Resolve Without Surgery — And YOUR Doctor May Not Have Said This (`KQaRs0gSi4A`), Why 80% of the Signals Run From YOUR Gut to Your Brain (`nPM83TqEa0E`), Why a 20 Second HUG Changes Your Body's Chemistry (`F4evGIwrjA0`), Why Blue Light WAKES You Up — But Blue Glasses CALM You Down (`nMac0Ull9m4`), Why Cold Water on Your Face Does What Breathing Exercises Can't (`sr9sFZnBz6c`), Why Cutting ALL Fat Is Starving YOUR Brain (`7KL3oOYTByM`), Why Cutting Salt Does Something to YOUR Body Nobody Warned You About (`jtLYRKdp4Dc`), Why Does Your Body NEVER Cool Below 37 Degrees? (`ZdHrY0l78ug`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why Gardening Without Gloves Changes Your Brain Chemistry (`RYBagD7_RQM`), Why It Feels Like Part of YOU Didn't Come Back After Anaesthesia (`8Srl8GL_nbY`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Looking at the HORIZON Resets Your Entire Nervous System (`2e_Yp9YJgrQ`), Why Losing Weight Gets HARDER Every Time YOU Try (`T8Jzg_lZ-fo`), Why Moving SLOWLY Trains YOUR Brain Faster Than Moving Fast (`DWXqhyZkwco`), Why Moving Water Makes You Feel BETTER (`uG9xUDbjh1g`), Why Poor Circulation Is the Wrong Answer for YOUR Numb Feet (`Jlt39TIPLMs`), Why Remembering YOUR Dreams Means You Slept Worse (`ljs2l971lp4`), Why Rocking Calms You at 70 the Same Way It Calmed You at 7 Months (`wwgvdD9fQ_w`), Why Shivering Keeps You Alive (`wrejViQw0Qo`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Stretching Feels Good But Makes YOUR Body Worse (`nkKfxfLwxCo`), Why Stroke Recovery Feels Like an Altered State (`evPjSR8U-eY`), Why the Food YOU Feared Does What Your Medication Can't (`rzaxpumi_tI`), Why the Posture You Were Taught Is STARVING YOUR Discs (`wJUWg397i00`), Why the Same Food Spikes Your Blood Sugar Differently (`LWqhQvOLF8w`), Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day (`EjOr6Q-z9oM`), Why the Smell of Rain Makes You Feel Something You Can't Name (`kyTZl0KEXw8`), Why the Weather Makes Your Body ACHE (`Qvcd0UY-JB4`), Why Two Needles Silence YOUR Mind in 15 Minutes (`CtM-hB2oe4Q`), Why Walking Backwards FIXES What Forward Walking Breaks (`bUF1mry7i_k`), Why Weight on Your Body Calms Your Nervous System in Minutes (`yqDyF9LM2AQ`), Why Wind Makes You Feel More Alive Than Anything Indoors (`RqFSA2WpQmI`), Why YOU Can Focus for Hours on This — But Not on That (`flCOMoBwxBs`), Why YOU Can't Remember Names After 50 (`wNTEGXK4lvo`), Why You Feel Physically HEAVIER When You're Sad (`HCFcXMpu-VY`), Why You Press Your Palms Against Your Eyes When Youre Exhausted (`_ZzJH1TlY2Y`), Why You Should LET Your Cat Sleep on You (`gvmz4zN8NHc`), Why You Should TOUCH a Tree Every Day — The Science Nobody Talks About (`gyOTlBlFEuo`), Why You Should Walk on Dirt, Not Concrete (`mb653wMoNEE`), Why YOU Wake Up 1 Minute Before Your Alarm (`HZP7rmDrboA`), Why You Wake Up at 3AM — What Your Body Is Really Doing (`UDN4JHYlq7o`), Why YOUR Back Pain Returns After Every Treatment (`fHKfNsL6wnM`), Why Your Balance Is the Most Dangerous Thing You're Losing (`tx-4Ed23PlM`), Why YOUR Blood Pressure Stays High Even When You Do Everything Right (`1wjs-atgmMw`), Why YOUR Body Shuts Down After Every Single Meal (`9-J4kMqOvWA`), Why YOUR Body Treats a Quiet Room Like a Predator (`Bt6AclD764Y`), Why YOUR Body Treats Cold Water Like a Drug (`4i1dOrfSBJI`), Why Your Body Was Actually Designed for Squatting (`q1sSm5EDwAU`), Why Your Brain Produces A Pain It Cannot Feel (`Wag_cOqiLYE`), Why YOUR Ears Ring And What the Sound Actually Is (`Xd7Cz-cRkeU`), Why YOUR Knee and Back Hurt at the Same Time (`gBKD75NuFO4`), Why YOUR NERVOUS SYSTEM Recovers Faster Under a Tree Than Anywhere Else (`6XmOWCCPh-c`), Why YOUR Strength Doesn't Prevent Falls (`dfwYYWTyGY4`), Why YOUR TEETH Start Breaking After 50 (`nYEP1F5kFQA`), Your Body Has a FURNACE Nobody Told You About (`9MNqrOvyBZE`), YOUR Brain Still Checks for Something That Disappeared 2 Million Years Ago (`zCvHYepPFuI`), Your Chair Is Aging You Faster Than Time (`CdUXGQy_Q8s`), Your EAR Has a Hidden Nerve — And It Reaches Your Heart (`lUxY0L1wmZk`), YOUR Morning Decides How Fast You Age (`ui8y9vOm6dw`), YOUR Muscles Are Stronger Going Down — Nobody Told You to Use It (`5nJH1YIU5LM`), Your Nose Is a Drug Factory — The Science of How You Breathe (`rO6QLZgmIHs`), Your Pancreas Has a Clock — And It Shuts Down Before Dinner (`egzhIyTP3vE`), Your YAWN Has Nothing to Do With Oxygen (`4ETtiIMRvlo`)
+**nervous system** — 5 Brain Systems Activate at Once — No Other Exercise Comes Close (`m4p36gcifP4`), 5 Things Happening Inside YOUR Body With Every Step (`_POo-RCC_2Y`), 7 Habits of the Worlds LONGEST Living People What They Do Every Day (`IuOaImg5zUc`), Can Love Be Explained? — The Science Nobody Talks About (`sBNDNOU1VH8`), Can Suppressing Tears Actually Harm You? (`LKAxXiiY7Kg`), Doing Nothing Is the Most EXHAUSTING Thing Your Body Does (`rRStxBEUE1A`), For 300,000 Years Every Human Did This — Then We Stopped (`E-7nvQbmmgc`), How an Emotion Reshapes Your Heart in Seconds (`frP79hCSSyw`), Only 2% of People Know This About Eating (`nFA2-ICtphg`), Press This One Spot to Reset YOUR Nervous System in Seconds (`DpjVGHgdZug`), Rain Does Something to Your Brain That No Sleep Aid Can (`3Ky1YtmNFZM`), Sigh 3 Times — What Just Happened Was Not Frustration (`KyOB22-Byvs`), The 1 Move That FIXES YOUR Leg Circulation (`W00gPRmrtog`), The 10-Second Squeeze That Goes Deeper Than Meditation (`wXM6jLEeQzY`), The 2-Minute Protocol That REVERSES What 50 Years of Footwear Did (`vcLlMM7pmhM`), The 2-Minute Signal YOUR Gut Sends That Ozempic Stretches to a Week (`iWLkA7ME-78`), The 3 Fall Directions YOUR Body Has Never Rehearsed (`C3VQYvIo0Mo`), The 30-Second Bone-Building Exercise That Requires Nothing But Your Heels (`JGqF054OFx4`), The 30-Second Habit That Fights What YOUR Immune System Can No Longer Stop (`GZui4zfvxjA`), The 5 Systems That FAILED — Not YOUR Diet (`Lo7euCwbYcw`), The 60-Second Morning Ritual That Activates 3 Organs at Once (`1mANxKIPcK8`), The 60-Second Squeeze That Silences YOUR Legs Before Sleep (`z0b94Hpdklo`), The Cells She Left Behind — And Why They Never Left (`S_H09_FLeg4`), The Chemistry Between YOUR Breathing and YOUR Bone Density (`YT689Fn9A8Q`), The Direction YOUR Body Abandoned — And Why Your Hip Is Paying for It (`44EDJkTWP3o`), The Exercise That Pumps EVERY Lymph Vessel at Once (`12kGPUoN0BA`), The First Thing Your STOMACH Should Receive Every Morning (`lx5gTHaPMLk`), The Fitness Advice That's Been Slowly Suffocating YOUR Diaphragm (`Wes7ZGxQ8SY`), The Gas That Keeps YOU Alive — And Why You're Making LESS (`axWLB9fmQic`), The Hidden Switch Behind YOUR Hot Flashes and Night Sweats (`E68D3GzYIgQ`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Jaw Muscle That's Been Tightening YOUR Skull Since 8AM (`5NoC-mvYSHo`), The Molecule in YOUR Garden That Works Like Valium (`WvmqXh_n7Zo`), The Molecule You Were Taught Is Waste — Is Actually the One Your Brain Needs Most (`co54vFnEHWU`), The Organ Inside You That Fights Back When You Lose Weight (`l0daW72898A`), The Pump Inside YOUR Body That Moves Everything Except Blood (`tSVNb2Ummfw`), The Real Reason PAIN Exists (`e27nQVumuek`), The Reason YOU Wake at 3AM That Has Nothing to Do With YOUR Body (`x22pxLJ5lSo`), The Reflex YOUR Body Kept After It Lost Its Purpose (`eLp-r_5HSYA`), The Same Food Changes Your Blood Sugar Depending on Who's at the Table (`WG0HVl45XQ4`), This FIXES YOUR Muscle Loss After 50 — The Signal You Keep Missing (`1Rlw2NRsKnI`), Walking Is the Only Exercise Your Body Was Actually Designed For (`Uo8qxQY2T0U`), What 3 Minutes Every Morning Does to YOUR Hips, Spine, and Grip (`eDFP49iNwaI`), What 3 Pitches of Humming Do to YOUR Vagus Nerve, Sinuses, and Throat (`ulHJ4R7i1Z4`), What 50 Years of SHOES Did to YOUR Brain (`rE07mxSv6X4`), What 60 Seconds of SHAKING Does to YOUR Nervous System That Wont Shut Off (`hCW0TehxqEI`), What 60 Seconds of SHAKING Does to Your Stress Hormones (`jaUCXKPUA-s`), What 60 Seconds of SMILING Does to Your Brain — Even When You're Faking It (`hxc0opwYlyA`), What a 20-Minute Nap Before 2PM Does to YOUR Body (`2gwQ9BVOscI`), What a Hot Bath Does to YOUR Body Before Sleep (`BG6yth4tJBc`), What Actually Builds YOUR Muscle After 50 (`KTwE1rj8-Ek`), What Actually Happens Inside YOUR Throat When You Snore (`WK6ke9ZpcOk`), What Blowing Up a BALLOON Does to YOUR Body (`chsavHoBtJs`), What Changes Inside YOUR Body When YOU Face Fear (`kHe7AvbKoW4`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR Blood After 2 Hours in a Forest (`zCtsCJ9cACY`), What Happens Inside YOUR Body During a Panic Attack (`H1IPL6q95Ec`), What Happens Inside YOUR Body When You Stand Up Too Fast (`tYkCvmXCJBc`), What Happens Inside YOUR BRAIN After 72 Hours of Complete Darkness (`cGGB2PQ6PFQ`), What Happens Inside YOUR Muscles When Potassium Drops (`Cekr_0A1-NI`), What Happens to YOUR Back After 5 Minutes on a Hard Surface (`YcmpJZrdqiI`), What Happens to YOUR BODY When You Forgive Someone? (`TIfYtzKSpXM`), What Happens to Your Body When You Hear Birds Singing (`oqmj-CaeLXM`), What Happens to YOUR BODY When You Hold Your Grandchild (`M_Q_JnKZXe8`), What Happens to Your BODY When You Pray (`UlXTeinaTBA`), What Happens to YOUR BONES When You Stand on One Leg Every Day? (`t3mQsBMthhE`), What Happens to YOUR BRAIN When All Sound Stops? (`mN9wlM9bgMo`), What Happens to YOUR BRAIN When You Hum for 60 Seconds? (`QVoGbaq8xos`), What Happens to YOUR FOOT When This One Muscle Stops Working (`I45ltvsK4jI`), What Happens to YOUR MIND When You Sleep? (`6EwQXznpBsg`), What Happens to YOUR MUSCLES When You Stretch Past 60 Seconds (`7_URSXBuQUc`), What Happens to YOUR MUSCLES When You Walk Backwards After 60? (`VPSeyGBvG68`), What Happens to YOUR Spine, Shoulders, and Grip When You Hang  Every Day (`5GShDTK0lrI`), What Happens to YOUR Stomach When Food Arrives Without Warning (`W-3nzX9cdWo`), What Happens When You STOP Watching News (`dsXSF8Y6-QQ`), What Missing ONE Night Does to Your Body (`yk3Amg7jkMc`), What Should YOUR Body Get Every Evening After 50 (`XkNJEa4UrfE`), What Your 40-Year-Old TRAUMA Still Does to Your Body (`wrc2SDiMsOU`), What YOUR Forward Head Posture Is Doing to Your Vagus Nerve (`QSBLYfC95AA`), What YOUR Grip Reveals That Blood Pressure Cannot (`izsNttOseXI`), What YOUR Morning Coffee Actually Does (`kKJTsh-ofPY`), What YOUR Morning Erections Actually Tell You About Your Heart (`HmUBEhrTs6Y`), Where Should You Spend 30 Minutes Every Month (`Adh1myK3_CE`), Why 1 Flight of STAIRS Beats YOUR 30-Minute Walk (`fArccOlBJkI`), Why 20 Years of Stretching Never Fixed YOUR Hamstrings (`YWSgliDBHUQ`), Why 75% Resolve Without Surgery — And YOUR Doctor May Not Have Said This (`KQaRs0gSi4A`), Why 80% of the Signals Run From YOUR Gut to Your Brain (`nPM83TqEa0E`), Why a 20 Second HUG Changes Your Body's Chemistry (`F4evGIwrjA0`), Why Blue Light WAKES You Up — But Blue Glasses CALM You Down (`nMac0Ull9m4`), Why Cold Water on Your Face Does What Breathing Exercises Can't (`sr9sFZnBz6c`), Why Cutting ALL Fat Is Starving YOUR Brain (`7KL3oOYTByM`), Why Cutting Salt Does Something to YOUR Body Nobody Warned You About (`jtLYRKdp4Dc`), Why Does Your Body NEVER Cool Below 37 Degrees? (`ZdHrY0l78ug`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why Gardening Without Gloves Changes Your Brain Chemistry (`RYBagD7_RQM`), Why It Feels Like Part of YOU Didn't Come Back After Anaesthesia (`8Srl8GL_nbY`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Looking at the HORIZON Resets Your Entire Nervous System (`2e_Yp9YJgrQ`), Why Losing Weight Gets HARDER Every Time YOU Try (`T8Jzg_lZ-fo`), Why Moving SLOWLY Trains YOUR Brain Faster Than Moving Fast (`DWXqhyZkwco`), Why Moving Water Makes You Feel BETTER (`uG9xUDbjh1g`), Why Poor Circulation Is the Wrong Answer for YOUR Numb Feet (`Jlt39TIPLMs`), Why Remembering YOUR Dreams Means You Slept Worse (`ljs2l971lp4`), Why Rocking Calms You at 70 the Same Way It Calmed You at 7 Months (`wwgvdD9fQ_w`), Why Shivering Keeps You Alive (`wrejViQw0Qo`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Stretching After Waking FIXES What Sleep Does to Your Muscles (`Tb6jrfTewtw`), Why Stretching Feels Good But Makes YOUR Body Worse (`nkKfxfLwxCo`), Why Stroke Recovery Feels Like an Altered State (`evPjSR8U-eY`), Why the Food YOU Feared Does What Your Medication Can't (`rzaxpumi_tI`), Why the Posture You Were Taught Is STARVING YOUR Discs (`wJUWg397i00`), Why the Same Food Spikes Your Blood Sugar Differently (`LWqhQvOLF8w`), Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day (`EjOr6Q-z9oM`), Why the Smell of Rain Makes You Feel Something You Can't Name (`kyTZl0KEXw8`), Why the Weather Makes Your Body ACHE (`Qvcd0UY-JB4`), Why Two Needles Silence YOUR Mind in 15 Minutes (`CtM-hB2oe4Q`), Why Walking Backwards FIXES What Forward Walking Breaks (`bUF1mry7i_k`), Why Weight on Your Body Calms Your Nervous System in Minutes (`yqDyF9LM2AQ`), Why Wind Makes You Feel More Alive Than Anything Indoors (`RqFSA2WpQmI`), Why YOU Can Focus for Hours on This — But Not on That (`flCOMoBwxBs`), Why YOU Can't Remember Names After 50 (`wNTEGXK4lvo`), Why You Feel Physically HEAVIER When You're Sad (`HCFcXMpu-VY`), Why You Press Your Palms Against Your Eyes When Youre Exhausted (`_ZzJH1TlY2Y`), Why You Should LET Your Cat Sleep on You (`gvmz4zN8NHc`), Why You Should TOUCH a Tree Every Day — The Science Nobody Talks About (`gyOTlBlFEuo`), Why You Should Walk on Dirt, Not Concrete (`mb653wMoNEE`), Why YOU Wake Up 1 Minute Before Your Alarm (`HZP7rmDrboA`), Why You Wake Up at 3AM — What Your Body Is Really Doing (`UDN4JHYlq7o`), Why YOUR Back Pain Returns After Every Treatment (`fHKfNsL6wnM`), Why Your Balance Is the Most Dangerous Thing You're Losing (`tx-4Ed23PlM`), Why YOUR Blood Pressure Stays High Even When You Do Everything Right (`1wjs-atgmMw`), Why Your Body Needs This One Movement More After 60 (`X0UEkdOvDFE`), Why YOUR Body Shuts Down After Every Single Meal (`9-J4kMqOvWA`), Why YOUR Body Treats a Quiet Room Like a Predator (`Bt6AclD764Y`), Why YOUR Body Treats Cold Water Like a Drug (`4i1dOrfSBJI`), Why Your Body Was Actually Designed for Squatting (`q1sSm5EDwAU`), Why Your Brain Produces A Pain It Cannot Feel (`Wag_cOqiLYE`), Why YOUR Ears Ring And What the Sound Actually Is (`Xd7Cz-cRkeU`), Why YOUR Knee and Back Hurt at the Same Time (`gBKD75NuFO4`), Why Your LEGS Are the First Place Aging Reveals Itself (`zyEwO7jhPhw`), Why Your MUSCLES Age Faster When You Stop Getting Off the Floor (`dcjqrZxElIU`), Why YOUR NERVOUS SYSTEM Recovers Faster Under a Tree Than Anywhere Else (`6XmOWCCPh-c`), Why YOUR Strength Doesn't Prevent Falls (`dfwYYWTyGY4`), Why YOUR TEETH Start Breaking After 50 (`nYEP1F5kFQA`), Your Body Has a FURNACE Nobody Told You About (`9MNqrOvyBZE`), YOUR Brain Still Checks for Something That Disappeared 2 Million Years Ago (`zCvHYepPFuI`), Your Chair Is Aging You Faster Than Time (`CdUXGQy_Q8s`), Your EAR Has a Hidden Nerve — And It Reaches Your Heart (`lUxY0L1wmZk`), YOUR Morning Decides How Fast You Age (`ui8y9vOm6dw`), YOUR Muscles Are Stronger Going Down — Nobody Told You to Use It (`5nJH1YIU5LM`), Your Nose Is a Drug Factory — The Science of How You Breathe (`rO6QLZgmIHs`), Your Pancreas Has a Clock — And It Shuts Down Before Dinner (`egzhIyTP3vE`), Your YAWN Has Nothing to Do With Oxygen (`4ETtiIMRvlo`)
 
 **respiratory** — 5 Things Happening Inside YOUR Body With Every Step (`_POo-RCC_2Y`), For 300,000 Years Every Human Did This — Then We Stopped (`E-7nvQbmmgc`), If You Wake Up With a DRY MOUTH Your Body Is Warning You (`Wp02siBKjD0`), Press This One Spot to Reset YOUR Nervous System in Seconds (`DpjVGHgdZug`), Sigh 3 Times — What Just Happened Was Not Frustration (`KyOB22-Byvs`), The 10-Second Squeeze That Goes Deeper Than Meditation (`wXM6jLEeQzY`), The 2-Minute Protocol That REVERSES What 50 Years of Footwear Did (`vcLlMM7pmhM`), The 30-Second Habit That Fights What YOUR Immune System Can No Longer Stop (`GZui4zfvxjA`), The Chemistry Between YOUR Breathing and YOUR Bone Density (`YT689Fn9A8Q`), The Fitness Advice That's Been Slowly Suffocating YOUR Diaphragm (`Wes7ZGxQ8SY`), The Gas That Keeps YOU Alive — And Why You're Making LESS (`axWLB9fmQic`), The Jaw Muscle That's Been Tightening YOUR Skull Since 8AM (`5NoC-mvYSHo`), The Molecule You Were Taught Is Waste — Is Actually the One Your Brain Needs Most (`co54vFnEHWU`), The Position That OUTPERFORMED Every Exercise (`8-AmGuM3jPo`), The Pump Inside YOUR Body That Moves Everything Except Blood (`tSVNb2Ummfw`), The Reason YOU Wake at 3AM That Has Nothing to Do With YOUR Body (`x22pxLJ5lSo`), The Sleep Position That Protects the Most Organs After 50 (`5qdc4-rR9uQ`), The System Inside YOU That Has No Pump — And Stops When You Sit (`7GSqPgeYk-0`), What 3 Pitches of Humming Do to YOUR Vagus Nerve, Sinuses, and Throat (`ulHJ4R7i1Z4`), What Actually Happens Inside YOUR Throat When You Snore (`WK6ke9ZpcOk`), What Blowing Up a BALLOON Does to YOUR Body (`chsavHoBtJs`), What Changes Inside YOUR Body When YOU Face Fear (`kHe7AvbKoW4`), What Happens Inside YOUR Blood After 2 Hours in a Forest (`zCtsCJ9cACY`), What Happens Inside YOUR Body During a Panic Attack (`H1IPL6q95Ec`), What Happens to YOUR Back After 5 Minutes on a Hard Surface (`YcmpJZrdqiI`), What Happens to Your BODY When You Pray (`UlXTeinaTBA`), What Happens to YOUR BRAIN When You Hum for 60 Seconds? (`QVoGbaq8xos`), What Happens to YOUR Spine, Shoulders, and Grip When You Hang  Every Day (`5GShDTK0lrI`), What Should YOUR Body Get Every Evening After 50 (`XkNJEa4UrfE`), What YOUR Body Does the Night Before a Stroke Hits (`vxxsAhxold8`), Where Should You Spend 30 Minutes Every Month (`Adh1myK3_CE`), Why 1 Flight of STAIRS Beats YOUR 30-Minute Walk (`fArccOlBJkI`), Why Cold Water on Your Face Does What Breathing Exercises Can't (`sr9sFZnBz6c`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why LAUGHING Is the Most Violent Thing Your Body Does Willingly (`4vXVV7ClxQs`), Why Moving SLOWLY Trains YOUR Brain Faster Than Moving Fast (`DWXqhyZkwco`), Why Moving Water Makes You Feel BETTER (`uG9xUDbjh1g`), Why Two Needles Silence YOUR Mind in 15 Minutes (`CtM-hB2oe4Q`), Why Weight on Your Body Calms Your Nervous System in Minutes (`yqDyF9LM2AQ`), Why Wind Makes You Feel More Alive Than Anything Indoors (`RqFSA2WpQmI`), Why YOU Always Have Mucus in Your Throat (`dzzuKeLiYnM`), Why You Feel Physically HEAVIER When You're Sad (`HCFcXMpu-VY`), Why You Should TOUCH a Tree Every Day — The Science Nobody Talks About (`gyOTlBlFEuo`), Your EAR Has a Hidden Nerve — And It Reaches Your Heart (`lUxY0L1wmZk`), Your Nose Is a Drug Factory — The Science of How You Breathe (`rO6QLZgmIHs`)
 
-**sleep and circadian** — Doing Nothing Is the Most EXHAUSTING Thing Your Body Does (`rRStxBEUE1A`), If You Wake Up With a DRY MOUTH Your Body Is Warning You (`Wp02siBKjD0`), If You're OVER 50 This Matters Most (`r5XfC82DhKU`), Rain Does Something to Your Brain That No Sleep Aid Can (`3Ky1YtmNFZM`), The 2-Minute Protocol That REVERSES What 50 Years of Footwear Did (`vcLlMM7pmhM`), The 60-Second Squeeze That Silences YOUR Legs Before Sleep (`z0b94Hpdklo`), The 70-Year Mistake That Changed How YOU Treat the Sun (`yTMS_inQRCM`), The Cleaning Wave YOUR Gut Runs Only When You Stop Eating (`4Rl1gvTNaDI`), The Hidden Switch Behind YOUR Hot Flashes and Night Sweats (`E68D3GzYIgQ`), The Hormone Decline That DOUBLED YOUR Overnight Urine Production (`xqmvpVaCPbA`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Jaw Muscle That's Been Tightening YOUR Skull Since 8AM (`5NoC-mvYSHo`), The One Thing Behind Every System Aging Inside YOUR Body (`lo86B1j2uf8`), The Reason YOU Wake at 3AM That Has Nothing to Do With YOUR Body (`x22pxLJ5lSo`), The Sleep Position That Protects the Most Organs After 50 (`5qdc4-rR9uQ`), What 60 Seconds of SHAKING Does to YOUR Nervous System That Wont Shut Off (`hCW0TehxqEI`), What a 20-Minute Nap Before 2PM Does to YOUR Body (`2gwQ9BVOscI`), What a Hot Bath Does to YOUR Body Before Sleep (`BG6yth4tJBc`), What Actually Happens Inside YOUR Throat When You Snore (`WK6ke9ZpcOk`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR BRAIN After 72 Hours of Complete Darkness (`cGGB2PQ6PFQ`), What Happens to YOUR BODY If You're Still Awake at 10PM (`zEQf8XkI5eU`), What Happens to Your Body When You Hear Birds Singing (`oqmj-CaeLXM`), What Happens to YOUR BODY When You Sleep on the Wrong Side (`BJ0Sh6hOK18`), What Happens to YOUR BRAIN When All Sound Stops? (`mN9wlM9bgMo`), What Happens to YOUR MIND When You Sleep? (`6EwQXznpBsg`), What Happens When You STOP Watching News (`dsXSF8Y6-QQ`), What Missing ONE Night Does to Your Body (`yk3Amg7jkMc`), What Should YOUR Body Get Every Evening After 50 (`XkNJEa4UrfE`), What Sleeping 8 Hours Does to YOUR BODY (`MUQSpFXrSnc`), What YOUR Body Does the Night Before a Stroke Hits (`vxxsAhxold8`), What YOUR Forward Head Posture Is Doing to Your Vagus Nerve (`QSBLYfC95AA`), What YOUR Morning Coffee Actually Does (`kKJTsh-ofPY`), What YOUR Morning Erections Actually Tell You About Your Heart (`HmUBEhrTs6Y`), What YOUR Urine Colour Says That Thirst Can No Longer Tell You (`9u-2y0eV4Ko`), Why 80% of the Signals Run From YOUR Gut to Your Brain (`nPM83TqEa0E`), Why a 20 Second HUG Changes Your Body's Chemistry (`F4evGIwrjA0`), Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself (`17BFodH03VQ`), Why Blue Light WAKES You Up — But Blue Glasses CALM You Down (`nMac0Ull9m4`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why Every Scan YOU Ever Had Is Still Written in Your DNA (`P2o1OdrXJAQ`), Why Looking at the HORIZON Resets Your Entire Nervous System (`2e_Yp9YJgrQ`), Why Losing Weight Gets HARDER Every Time YOU Try (`T8Jzg_lZ-fo`), Why Remembering YOUR Dreams Means You Slept Worse (`ljs2l971lp4`), Why Rocking Calms You at 70 the Same Way It Calmed You at 7 Months (`wwgvdD9fQ_w`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Sunlight Is the Most Powerful Drug You Take Every Day (`n2F24fK1uLY`), Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day (`EjOr6Q-z9oM`), Why Weight on Your Body Calms Your Nervous System in Minutes (`yqDyF9LM2AQ`), Why YOU Can't Remember Names After 50 (`wNTEGXK4lvo`), Why You Press Your Palms Against Your Eyes When Youre Exhausted (`_ZzJH1TlY2Y`), Why You Should LET Your Cat Sleep on You (`gvmz4zN8NHc`), Why YOU Wake Up 1 Minute Before Your Alarm (`HZP7rmDrboA`), Why You Wake Up at 3AM — What Your Body Is Really Doing (`UDN4JHYlq7o`), Why You Wake Up at Your Most Vulnerable — And Never Know It (`LHFObEj47Sc`), Why YOUR Blood Pressure Stays High Even When You Do Everything Right (`1wjs-atgmMw`), Why YOUR Body Shuts Down After Every Single Meal (`9-J4kMqOvWA`), Why YOUR Body Treats a Quiet Room Like a Predator (`Bt6AclD764Y`), Why Your Brain Produces A Pain It Cannot Feel (`Wag_cOqiLYE`), Why Your LEGS Are Filling Your Bladder at 2AM (`d9PWCrjX2sA`), Why YOUR Reading Glasses Arrived on Schedule (`P8dp3QJppBA`), YOUR Brain Still Checks for Something That Disappeared 2 Million Years Ago (`zCvHYepPFuI`), YOUR Morning Decides How Fast You Age (`ui8y9vOm6dw`), Your Morning Walk Is MISSING the One Thing That Actually Protects You (`Hc79_xF69-s`), Your Nose Is a Drug Factory — The Science of How You Breathe (`rO6QLZgmIHs`), Your Pancreas Has a Clock — And It Shuts Down Before Dinner (`egzhIyTP3vE`)
+**sleep and circadian** — Doing Nothing Is the Most EXHAUSTING Thing Your Body Does (`rRStxBEUE1A`), If You Wake Up With a DRY MOUTH Your Body Is Warning You (`Wp02siBKjD0`), If You're OVER 50 This Matters Most (`r5XfC82DhKU`), Rain Does Something to Your Brain That No Sleep Aid Can (`3Ky1YtmNFZM`), The 2-Minute Protocol That REVERSES What 50 Years of Footwear Did (`vcLlMM7pmhM`), The 60-Second Squeeze That Silences YOUR Legs Before Sleep (`z0b94Hpdklo`), The 70-Year Mistake That Changed How YOU Treat the Sun (`yTMS_inQRCM`), The Cleaning Wave YOUR Gut Runs Only When You Stop Eating (`4Rl1gvTNaDI`), The Hidden Switch Behind YOUR Hot Flashes and Night Sweats (`E68D3GzYIgQ`), The Hormone Decline That DOUBLED YOUR Overnight Urine Production (`xqmvpVaCPbA`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The Jaw Muscle That's Been Tightening YOUR Skull Since 8AM (`5NoC-mvYSHo`), The One Thing Behind Every System Aging Inside YOUR Body (`lo86B1j2uf8`), The Reason YOU Wake at 3AM That Has Nothing to Do With YOUR Body (`x22pxLJ5lSo`), The Sleep Position That Protects the Most Organs After 50 (`5qdc4-rR9uQ`), What 60 Seconds of SHAKING Does to YOUR Nervous System That Wont Shut Off (`hCW0TehxqEI`), What a 20-Minute Nap Before 2PM Does to YOUR Body (`2gwQ9BVOscI`), What a Hot Bath Does to YOUR Body Before Sleep (`BG6yth4tJBc`), What Actually Happens Inside YOUR Throat When You Snore (`WK6ke9ZpcOk`), What GRIEF Does to Your Body (`ion8SKZQ0oE`), What Happens Inside YOUR BRAIN After 72 Hours of Complete Darkness (`cGGB2PQ6PFQ`), What Happens to YOUR BODY If You're Still Awake at 10PM (`zEQf8XkI5eU`), What Happens to Your Body When You Hear Birds Singing (`oqmj-CaeLXM`), What Happens to YOUR BODY When You Sleep on the Wrong Side (`BJ0Sh6hOK18`), What Happens to YOUR BRAIN When All Sound Stops? (`mN9wlM9bgMo`), What Happens to YOUR MIND When You Sleep? (`6EwQXznpBsg`), What Happens When You STOP Watching News (`dsXSF8Y6-QQ`), What Missing ONE Night Does to Your Body (`yk3Amg7jkMc`), What Should YOUR Body Get Every Evening After 50 (`XkNJEa4UrfE`), What Sleeping 8 Hours Does to YOUR BODY (`MUQSpFXrSnc`), What YOUR Body Does the Night Before a Stroke Hits (`vxxsAhxold8`), What YOUR Forward Head Posture Is Doing to Your Vagus Nerve (`QSBLYfC95AA`), What YOUR Morning Coffee Actually Does (`kKJTsh-ofPY`), What YOUR Morning Erections Actually Tell You About Your Heart (`HmUBEhrTs6Y`), What YOUR Urine Colour Says That Thirst Can No Longer Tell You (`9u-2y0eV4Ko`), Why 80% of the Signals Run From YOUR Gut to Your Brain (`nPM83TqEa0E`), Why a 20 Second HUG Changes Your Body's Chemistry (`F4evGIwrjA0`), Why Avoiding ALL Sun Is Aging YOU Faster Than the Sun Itself (`17BFodH03VQ`), Why Blue Light WAKES You Up — But Blue Glasses CALM You Down (`nMac0Ull9m4`), Why Every Doctor Gives You the Same Advice — And None of Them Explain Why (`37OOcftcmbU`), Why Every Scan YOU Ever Had Is Still Written in Your DNA (`P2o1OdrXJAQ`), Why Looking at the HORIZON Resets Your Entire Nervous System (`2e_Yp9YJgrQ`), Why Losing Weight Gets HARDER Every Time YOU Try (`T8Jzg_lZ-fo`), Why Remembering YOUR Dreams Means You Slept Worse (`ljs2l971lp4`), Why Rocking Calms You at 70 the Same Way It Calmed You at 7 Months (`wwgvdD9fQ_w`), Why Sitting in a Heated Room Reduced Cardiovascular Death by 50% (`s5k7g6av5gw`), Why Sleeping Too Much May Change Your Body After 60 (`kb6RxORFqO0`), Why Sunlight Is the Most Powerful Drug You Take Every Day (`n2F24fK1uLY`), Why the Same Meal Spikes YOUR Blood Sugar Differently Every Day (`EjOr6Q-z9oM`), Why Weight on Your Body Calms Your Nervous System in Minutes (`yqDyF9LM2AQ`), Why YOU Can't Remember Names After 50 (`wNTEGXK4lvo`), Why You Press Your Palms Against Your Eyes When Youre Exhausted (`_ZzJH1TlY2Y`), Why You Should LET Your Cat Sleep on You (`gvmz4zN8NHc`), Why YOU Wake Up 1 Minute Before Your Alarm (`HZP7rmDrboA`), Why You Wake Up at 3AM — What Your Body Is Really Doing (`UDN4JHYlq7o`), Why You Wake Up at Your Most Vulnerable — And Never Know It (`LHFObEj47Sc`), Why YOUR Blood Pressure Stays High Even When You Do Everything Right (`1wjs-atgmMw`), Why YOUR Body Shuts Down After Every Single Meal (`9-J4kMqOvWA`), Why YOUR Body Treats a Quiet Room Like a Predator (`Bt6AclD764Y`), Why Your Brain Produces A Pain It Cannot Feel (`Wag_cOqiLYE`), Why Your LEGS Are Filling Your Bladder at 2AM (`d9PWCrjX2sA`), Why YOUR Reading Glasses Arrived on Schedule (`P8dp3QJppBA`), YOUR Brain Still Checks for Something That Disappeared 2 Million Years Ago (`zCvHYepPFuI`), YOUR Morning Decides How Fast You Age (`ui8y9vOm6dw`), Your Morning Walk Is MISSING the One Thing That Actually Protects You (`Hc79_xF69-s`), Your Nose Is a Drug Factory — The Science of How You Breathe (`rO6QLZgmIHs`), Your Pancreas Has a Clock — And It Shuts Down Before Dinner (`egzhIyTP3vE`)
 
 **urinary and renal** — The Hormone Decline That DOUBLED YOUR Overnight Urine Production (`xqmvpVaCPbA`), The Hour-by-Hour Schedule YOUR Body Was Designed to Follow (`XmpDZRse3KA`), The System Inside YOU That Has No Pump — And Stops When You Sit (`7GSqPgeYk-0`), What Actually Happens Inside YOUR Throat When You Snore (`WK6ke9ZpcOk`), What Actually Happens to Vitamin D Inside YOUR Body (`3irVZ9Fo208`), What Blowing Up a BALLOON Does to YOUR Body (`chsavHoBtJs`), What Happens Inside YOUR Body When Sugar Stops Arriving for 21 Days (`NFy3cR3XncA`), What Happens Inside YOUR Muscles When Potassium Drops (`Cekr_0A1-NI`), What YOUR Urine Colour Says That Thirst Can No Longer Tell You (`9u-2y0eV4Ko`), Why Cutting Salt Does Something to YOUR Body Nobody Warned You About (`jtLYRKdp4Dc`), Why YOUR Blood Pressure Stays High Even When You Do Everything Right (`1wjs-atgmMw`), Why Your LEGS Are Filling Your Bladder at 2AM (`d9PWCrjX2sA`)
 
