@@ -1,0 +1,11 @@
+TITLE: I measured the EMF in a Tesla 😳
+VIDEO ID: D1cK8Cxygog
+URL: https://www.youtube.com/watch?v=D1cK8Cxygog
+UPLOAD DATE: 2026-02-26
+DURATION: 01:05
+CAPTION TRACK: whisper-local (turbo)
+======================================================================
+
+[00:00] What's the EMF in your Tesla when you're at the supercharger? Let's find out. I've got my magnetic field meter here. It measures in milligauss. I've done a separate video about how much magnetic field is present in a Tesla when you are driving, and it went up to 10, 20, 25 milligauss when you're accelerating. Let's see what it is when I'm sitting in the car at the supercharger. Nothing. In terms of magnetic field, no big deal. That's pretty high though. So the radio frequency EMF, pretty high when you're at the supercharger. 0.5, 0.7, sometimes one milliwatt per meter squared. The RF, very high when you're sitting at the supercharger. Your Tesla, I don't know, kinda sketchy. Look at that, three, two, wow. That's a lot of RF EMF. So that's radio frequency EMF, what's coming off your cell phone, what's coming off your wifi. If you're standing outside a microwave, you might get three to four milliwatts per meter squared. This is basically like you're standing outside of a bunch of microwaves in terms of RF EMF, and they're all cooking your microwave popcorn. I don't know. Some people think RF EMF is benign. I'm a little worried about it. I'm not gonna stay out here too long. Send this to someone you know who spends way too much time sitting in their Tesla at the supercharging station watching movies.
+
+[01:01] They need to know about how much RF EMF is here. Maybe it's cooking us, who knows?

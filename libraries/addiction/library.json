@@ -1,0 +1,56 @@
+{
+  "slug": "addiction",
+  "title": "Addiction",
+  "subtitle": "Compulsion, dependency, and how the loop gets broken",
+  "lede": "A reference to {videos} sources on the psychology of addiction — what drives compulsive behavior and what actually breaks the loop.",
+  "about_paragraphs": [
+    "A reference built from {videos} sources on addiction and compulsive behavior — what drives it, what sustains it, and what the evidence says actually helps — synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a specific point in a specific source — a page, a paragraph, or a video timestamp, depending on what kind of source made the claim. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["subjects", "drivers", "practices", "concepts"],
+  "primary_facet": "drivers",
+  "controlled_facets": {},
+  "universal_sections": [
+    "Central claim",
+    "Signals and internal states addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+
+  "glossary_file": "07_PLAIN_ENGLISH_GLOSSARY.md",
+  "curated_facts_file": null,
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "subjects": "Main subjects",
+    "drivers": "Drivers & triggers",
+    "practices": "Recommended practices",
+    "concepts": "Important concepts"
+  },
+  "catalog_description": "Every video ingested into this knowledge package, with the subjects, drivers, practices, and concepts each one covers.",
+  "catalog_unit_label": "Videos",
+  "catalog_id_label": "Video ID",
+
+  "attribution": {
+    "style": "youtube_channel_partial",
+    "name": "Big Think Clips",
+    "url": "https://www.youtube.com/@bigthinkclips"
+  },
+
+  "custom_gpt": {
+    "enabled": true,
+    "instructions_file": "PASTE_INTO_GPT_INSTRUCTIONS.txt",
+    "file_limit": 20
+  },
+
+  "evidence_types": ["influencer_commentary", "peer_reviewed_study", "systematic_review",
+    "government_guideline", "industry_test_result", "patient_experience", "other"],
+  "evidence_levels": ["high", "moderate", "low", "anecdotal"],
+
+  "derived_practice_facets": false
+}

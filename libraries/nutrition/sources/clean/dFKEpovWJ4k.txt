@@ -1,0 +1,9 @@
+TITLE: How I use my iPhone safely
+VIDEO ID: dFKEpovWJ4k
+URL: https://www.youtube.com/watch?v=dFKEpovWJ4k
+UPLOAD DATE: 2024-09-01
+DURATION: 00:59
+CAPTION TRACK: whisper-local (turbo)
+======================================================================
+
+[00:00] Let me show you how to use your cell phone safely. First thing, don't put your phone up to your ear. That's a lot of signal right into your head. And if you're gonna have your phone in your pants, make sure it's fully on airplane mode. Watch this, completely on airplane mode. Airplane is orange. Wi-Fi has to be gray with a cross through it. The Bluetooth has gray with a cross through it. My RFEMF meter is essentially picking up nothing from my cell phone. I take it off and it pings to 2.5 million microwatts per meter squared. But if you're worried about this, make sure it's on airplane mode. Those cannot be white. The Bluetooth is white. It's still on. It's still pinging to 3,480,000 microwatts per meter squared. And the only thing on there is the Bluetooth because it's white. Bluetooth has to be completely gray with a line through it along with Wi-Fi to get this thing completely off. You have to go to your settings and turn your Bluetooth completely off. And then you can see there's essentially no significant RFEMF coming off of that right now. So cell phones are obviously something that make our lives more convenient. This is being recorded on a cell phone, but if you wanna reduce the radiation from cell phones, that's how.

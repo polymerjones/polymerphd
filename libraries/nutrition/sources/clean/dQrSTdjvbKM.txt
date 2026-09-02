@@ -1,0 +1,9 @@
+TITLE: Beware of Wi-Fi routers…
+VIDEO ID: dQrSTdjvbKM
+URL: https://www.youtube.com/watch?v=dQrSTdjvbKM
+UPLOAD DATE: 2024-04-02
+DURATION: 01:00
+CAPTION TRACK: whisper-local (turbo)
+======================================================================
+
+[00:00] If you have a Wi-Fi router, you need to know how much radiation is coming off this thing. I'm here with Ryan, an electromagnetic engineer. We're going to measure how much radiation is coming off my Wi-Fi router. Why should I care about this? Why do I worry about Wi-Fi radiation? There's a whole range of studies starting to come out showing the dangers of NF exposure. They increase our risk of cancer. It's going to cause neurological issues. Baseline, it's completely off. We're pretty much at zero. It doesn't get much better than that. So it's off. Now I'm going to turn it on and show you guys how much radiation is coming off this once it's turned on. Ryan, what do you see? We're going to go to 2.5 million microwavs per meter squared. That is enough to thermally heat the tissue of your body. If we were to go 10 feet away, the exposure level has dropped pretty good. 25,000 right there. The key with this is making sure that we're not close to this. Like by the bed, by the crib, in your office, next to you. Let's move a little bit further and see. Here we are about 20 feet away or so, and we're down to 1,000. The goal would be to get this into the green where it says slight here. We want it at 10 microwatts per meter squared.

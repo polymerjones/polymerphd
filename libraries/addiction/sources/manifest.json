@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "id": "KHd-luu3M8s",
+      "kind": "youtube",
+      "title": "Your phone addiction is keeping you from achieving flow state | Arthur Brooks",
+      "url": "https://youtu.be/KHd-luu3M8s",
+      "upload_date": "2026-08-13",
+      "duration_seconds": 2004,
+      "duration": "33:24",
+      "word_count": 6426,
+      "clean_file": "clean/KHd-luu3M8s.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2004
+      }
+    }
+  ],
+  "skipped": []
+}

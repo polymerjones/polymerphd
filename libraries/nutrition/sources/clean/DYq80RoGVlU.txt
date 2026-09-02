@@ -1,0 +1,9 @@
+TITLE: My Protein Recommendations
+VIDEO ID: DYq80RoGVlU
+URL: https://www.youtube.com/watch?v=DYq80RoGVlU
+UPLOAD DATE: 2023-01-09
+DURATION: 01:00
+CAPTION TRACK: whisper-local (turbo)
+======================================================================
+
+[00:00] Here's how much protein I would suggest eating every day on an animal-based diet based on your goal body weight. Let's start with an example of a 120-pound woman. For women, I recommend multiplying goal body weight times 0.9, so about 108 grams of protein as a goal per day. You can get that easily in a day by eating 7 ounces of ground beef, 2 ounces of heart, obviously you cook those, an egg, one serving of cheese, which is 100 grams, and 2 cups of raw milk. Next example, a 150-pound man. For men, I recommend multiplying goal body weight times 1, so this would be a goal of 150 grams of protein, 13 ounces of cooked ground beef, 2 ounces of heart, 2 eggs, 100 grams of cheese, and 2 cups of raw milk. Last example, a 180-pound man, 180 grams of protein per day, 1 pound ground beef, 3 ounces of heart, 3 eggs, 100 grams of cheese, 2 cups of raw milk. If you want to know what macros might work best for your body weight and activity level, I've got a free animal-based calculator to help you with all this at carnivoremd.com.
