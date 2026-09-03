@@ -6713,6 +6713,24 @@
       }
     },
     {
+      "id": "XSgtXoC3UAQ",
+      "kind": "youtube",
+      "title": "Grass-fed butcher tour",
+      "url": "https://www.youtube.com/watch?v=XSgtXoC3UAQ",
+      "upload_date": "2023-02-16",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 235,
+      "clean_file": "clean/XSgtXoC3UAQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "TobL4ee8oyk",
       "kind": "youtube",
       "title": "Grass-fed vs grain fed beef",
@@ -8051,6 +8069,24 @@
       "duration": "00:57",
       "word_count": 228,
       "clean_file": "clean/KCfXQ-NOBN4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
+      }
+    },
+    {
+      "id": "xTYSwjbsyh0",
+      "kind": "youtube",
+      "title": "How to construct an animal-based diet",
+      "url": "https://www.youtube.com/watch?v=xTYSwjbsyh0",
+      "upload_date": "2022-12-18",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 180,
+      "clean_file": "clean/xTYSwjbsyh0.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -13372,6 +13408,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "Xs_46tP_hpk",
+      "kind": "youtube",
+      "title": "Polyester is no good!!",
+      "url": "https://www.youtube.com/watch?v=Xs_46tP_hpk",
+      "upload_date": "2022-07-01",
+      "duration_seconds": 55,
+      "duration": "00:55",
+      "word_count": 132,
+      "clean_file": "clean/Xs_46tP_hpk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 55
       }
     },
     {
