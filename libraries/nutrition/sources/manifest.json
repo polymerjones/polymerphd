@@ -342,6 +342,24 @@
       }
     },
     {
+      "id": "ShEs887Fbsk",
+      "kind": "youtube",
+      "title": "A bucket of seed oils??",
+      "url": "https://www.youtube.com/watch?v=ShEs887Fbsk",
+      "upload_date": "2022-11-04",
+      "duration_seconds": 40,
+      "duration": "00:40",
+      "word_count": 109,
+      "clean_file": "clean/ShEs887Fbsk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 40
+      }
+    },
+    {
       "id": "OgG4WJqJ1Lc",
       "kind": "youtube",
       "title": "A calorie is NOT a calorie…",
@@ -716,6 +734,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 15
+      }
+    },
+    {
+      "id": "sd1ZzWn3kW8",
+      "kind": "youtube",
+      "title": "And cigarettes are legal 🤯",
+      "url": "https://www.youtube.com/watch?v=sd1ZzWn3kW8",
+      "upload_date": "2024-09-04",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 142,
+      "clean_file": "clean/sd1ZzWn3kW8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
       }
     },
     {
@@ -7943,6 +7979,24 @@
       }
     },
     {
+      "id": "SHv7rSjWEPQ",
+      "kind": "youtube",
+      "title": "Is Atlantic salmon healthy?",
+      "url": "https://www.youtube.com/watch?v=SHv7rSjWEPQ",
+      "upload_date": "2024-08-05",
+      "duration_seconds": 47,
+      "duration": "00:47",
+      "word_count": 151,
+      "clean_file": "clean/SHv7rSjWEPQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 47
+      }
+    },
+    {
       "id": "EBo0DtNH9oQ",
       "kind": "youtube",
       "title": "Is backwards walking bullshit? @TheKneesovertoesguy",
@@ -8986,6 +9040,24 @@
       }
     },
     {
+      "id": "sfj3i6eJYkE",
+      "kind": "youtube",
+      "title": "Kellogg’s needs to explain this…",
+      "url": "https://www.youtube.com/watch?v=sfj3i6eJYkE",
+      "upload_date": "2024-10-12",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 184,
+      "clean_file": "clean/sfj3i6eJYkE.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
+      }
+    },
+    {
       "id": "Jj9e6wO7qOs",
       "kind": "youtube",
       "title": "KETO foods = garbage?",
@@ -9882,6 +9954,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "SECWcqlxeew",
+      "kind": "youtube",
+      "title": "My favorite grilling hacks",
+      "url": "https://www.youtube.com/watch?v=SECWcqlxeew",
+      "upload_date": "2026-05-16",
+      "duration_seconds": 45,
+      "duration": "00:45",
+      "word_count": 175,
+      "clean_file": "clean/SECWcqlxeew.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 45
       }
     },
     {
@@ -16860,6 +16950,24 @@
       }
     },
     {
+      "id": "sHHYWArS5Us",
+      "kind": "youtube",
+      "title": "What’s inside a McDonald’s chicken nugget?",
+      "url": "https://www.youtube.com/watch?v=sHHYWArS5Us",
+      "upload_date": "2023-11-19",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 212,
+      "clean_file": "clean/sHHYWArS5Us.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "CKGqWzOctDI",
       "kind": "youtube",
       "title": "What’s inside Chick-fil-A sauce?",
@@ -17593,6 +17701,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 55
+      }
+    },
+    {
+      "id": "SH5VtA7DjcI",
+      "kind": "youtube",
+      "title": "Why I don't worry about my \"high\" cholesterol...",
+      "url": "https://www.youtube.com/watch?v=SH5VtA7DjcI",
+      "upload_date": "2023-09-25",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 197,
+      "clean_file": "clean/SH5VtA7DjcI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
       }
     },
     {
