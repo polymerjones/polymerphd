@@ -6178,6 +6178,24 @@
       }
     },
     {
+      "id": "ZPFWdabOICc",
+      "kind": "youtube",
+      "title": "EMF blocking stickers!?",
+      "url": "https://www.youtube.com/watch?v=ZPFWdabOICc",
+      "upload_date": "2025-10-01",
+      "duration_seconds": 72,
+      "duration": "01:12",
+      "word_count": 281,
+      "clean_file": "clean/ZPFWdabOICc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 72
+      }
+    },
+    {
       "id": "o40ouA7xPFQ",
       "kind": "youtube",
       "title": "EMFs are no joke!",
@@ -6477,6 +6495,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 48
+      }
+    },
+    {
+      "id": "zqANmNc5sHI",
+      "kind": "youtube",
+      "title": "FDA admits American cheese is fake cheese…",
+      "url": "https://www.youtube.com/watch?v=zqANmNc5sHI",
+      "upload_date": "2023-04-12",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 175,
+      "clean_file": "clean/zqANmNc5sHI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
       }
     },
     {
@@ -7178,6 +7214,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "Zo_Bo696TM8",
+      "kind": "youtube",
+      "title": "Have you found the root cause of your gut issues?",
+      "url": "https://www.youtube.com/watch?v=Zo_Bo696TM8",
+      "upload_date": "2022-11-24",
+      "duration_seconds": 35,
+      "duration": "00:35",
+      "word_count": 106,
+      "clean_file": "clean/Zo_Bo696TM8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 35
       }
     },
     {
@@ -11182,6 +11236,24 @@
       }
     },
     {
+      "id": "zska0Zbnd4g",
+      "kind": "youtube",
+      "title": "Junk food = cigarettes?",
+      "url": "https://www.youtube.com/watch?v=zska0Zbnd4g",
+      "upload_date": "2025-12-02",
+      "duration_seconds": 49,
+      "duration": "00:49",
+      "word_count": 180,
+      "clean_file": "clean/zska0Zbnd4g.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 49
+      }
+    },
+    {
       "id": "AVHUVKYN4GM",
       "kind": "youtube",
       "title": "Junk food is designed to be addicting..",
@@ -12114,6 +12186,42 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 56
+      }
+    },
+    {
+      "id": "ZsbhMz88dMw",
+      "kind": "youtube",
+      "title": "Microplastics in human testicles?",
+      "url": "https://www.youtube.com/watch?v=ZsbhMz88dMw",
+      "upload_date": "2024-07-06",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 227,
+      "clean_file": "clean/ZsbhMz88dMw.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
+      "id": "ZqEtZt3vwNo",
+      "kind": "youtube",
+      "title": "Modern shoes are destroying your feet…",
+      "url": "https://www.youtube.com/watch?v=ZqEtZt3vwNo",
+      "upload_date": "2025-11-29",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 220,
+      "clean_file": "clean/ZqEtZt3vwNo.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
       }
     },
     {
@@ -17336,6 +17444,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 385
+      }
+    },
+    {
+      "id": "zrKWPeDybRg",
+      "kind": "youtube",
+      "title": "The keys to longevity",
+      "url": "https://www.youtube.com/watch?v=zrKWPeDybRg",
+      "upload_date": "2023-06-29",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 198,
+      "clean_file": "clean/zrKWPeDybRg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
