@@ -2871,6 +2871,24 @@
       }
     },
     {
+      "id": "uWW5VVwzM14",
+      "kind": "youtube",
+      "title": "Beware of paper cups…",
+      "url": "https://www.youtube.com/watch?v=uWW5VVwzM14",
+      "upload_date": "2025-02-22",
+      "duration_seconds": 78,
+      "duration": "01:18",
+      "word_count": 296,
+      "clean_file": "clean/uWW5VVwzM14.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 78
+      }
+    },
+    {
       "id": "9UOxANBvYkI",
       "kind": "youtube",
       "title": "Beware of vitamin D supplements",
@@ -15661,6 +15679,24 @@
       }
     },
     {
+      "id": "UYQd_b048C4",
+      "kind": "youtube",
+      "title": "The truth about seed oils",
+      "url": "https://www.youtube.com/watch?v=UYQd_b048C4",
+      "upload_date": "2026-03-30",
+      "duration_seconds": 48,
+      "duration": "00:48",
+      "word_count": 168,
+      "clean_file": "clean/UYQd_b048C4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 48
+      }
+    },
+    {
       "id": "r51Xq80FRwY",
       "kind": "youtube",
       "title": "The truth about sunlight",
@@ -15943,6 +15979,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 9
+      }
+    },
+    {
+      "id": "UY-4-Gtweq4",
+      "kind": "youtube",
+      "title": "They look so happy…",
+      "url": "https://www.youtube.com/watch?v=UY-4-Gtweq4",
+      "upload_date": "2025-11-24",
+      "duration_seconds": 84,
+      "duration": "01:24",
+      "word_count": 407,
+      "clean_file": "clean/UY-4-Gtweq4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 84
       }
     },
     {
