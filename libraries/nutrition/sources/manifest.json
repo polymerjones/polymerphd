@@ -127,6 +127,24 @@
       }
     },
     {
+      "id": "vqY6QyV_IlI",
+      "kind": "youtube",
+      "title": "3 reasons to eat more red meat",
+      "url": "https://www.youtube.com/watch?v=vqY6QyV_IlI",
+      "upload_date": "2024-03-03",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 185,
+      "clean_file": "clean/vqY6QyV_IlI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
+      }
+    },
+    {
       "id": "riMeEh2kAMo",
       "kind": "youtube",
       "title": "4 healthy kitchen hacks",
@@ -1346,6 +1364,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "vQ4BVs3X-bM",
+      "kind": "youtube",
+      "title": "Animal-based while traveling",
+      "url": "https://www.youtube.com/watch?v=vQ4BVs3X-bM",
+      "upload_date": "2024-03-21",
+      "duration_seconds": 45,
+      "duration": "00:45",
+      "word_count": 121,
+      "clean_file": "clean/vQ4BVs3X-bM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 45
       }
     },
     {
@@ -3281,6 +3317,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 21
+      }
+    },
+    {
+      "id": "Voacn0f73eM",
+      "kind": "youtube",
+      "title": "Butter Vs Ghee… What’s the difference? #animalbased #health #dairyproducts #animalbaseddiet",
+      "url": "https://www.youtube.com/watch?v=Voacn0f73eM",
+      "upload_date": "2023-09-28",
+      "duration_seconds": 52,
+      "duration": "00:52",
+      "word_count": 175,
+      "clean_file": "clean/Voacn0f73eM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 52
       }
     },
     {
@@ -7302,6 +7356,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 69
+      }
+    },
+    {
+      "id": "VsNmyKi2EVA",
+      "kind": "youtube",
+      "title": "How many calories in Crumbl cookies?",
+      "url": "https://www.youtube.com/watch?v=VsNmyKi2EVA",
+      "upload_date": "2026-03-10",
+      "duration_seconds": 36,
+      "duration": "00:36",
+      "word_count": 123,
+      "clean_file": "clean/VsNmyKi2EVA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 36
       }
     },
     {
@@ -18909,6 +18981,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 39
+      }
+    },
+    {
+      "id": "vqc7oLi1sAU",
+      "kind": "youtube",
+      "title": "What’s inside American cheese?",
+      "url": "https://www.youtube.com/watch?v=vqc7oLi1sAU",
+      "upload_date": "2024-11-11",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 195,
+      "clean_file": "clean/vqc7oLi1sAU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
