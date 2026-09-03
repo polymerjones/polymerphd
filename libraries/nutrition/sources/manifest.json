@@ -11469,6 +11469,24 @@
       }
     },
     {
+      "id": "y-bxATtvIF0",
+      "kind": "youtube",
+      "title": "Meat has always been the optimal food for humans…",
+      "url": "https://www.youtube.com/watch?v=y-bxATtvIF0",
+      "upload_date": "2022-06-17",
+      "duration_seconds": 52,
+      "duration": "00:52",
+      "word_count": 180,
+      "clean_file": "clean/y-bxATtvIF0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 52
+      }
+    },
+    {
       "id": "Aa9W_MQrpUo",
       "kind": "youtube",
       "title": "Meat has more nutrients than vegetables",
@@ -17512,6 +17530,24 @@
       }
     },
     {
+      "id": "y3Pqy4xB2rc",
+      "kind": "youtube",
+      "title": "This fruit will detox fluoride from your body",
+      "url": "https://www.youtube.com/watch?v=y3Pqy4xB2rc",
+      "upload_date": "2025-10-28",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 206,
+      "clean_file": "clean/y3Pqy4xB2rc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "RJ5HwFvW0gc",
       "kind": "youtube",
       "title": "This harmful herbicide is in your oatmeal",
@@ -21905,6 +21941,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 64
+      }
+    },
+    {
+      "id": "y1UFCGLkhHQ",
+      "kind": "youtube",
+      "title": "You’re drinking plastic",
+      "url": "https://www.youtube.com/watch?v=y1UFCGLkhHQ",
+      "upload_date": "2026-05-23",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 187,
+      "clean_file": "clean/y1UFCGLkhHQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
       }
     },
     {
