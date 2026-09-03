@@ -73,6 +73,24 @@
       }
     },
     {
+      "id": "XLfXYfxZkZU",
+      "kind": "youtube",
+      "title": "3 Airport Travel Hacks!",
+      "url": "https://www.youtube.com/watch?v=XLfXYfxZkZU",
+      "upload_date": "2023-02-28",
+      "duration_seconds": 42,
+      "duration": "00:42",
+      "word_count": 130,
+      "clean_file": "clean/XLfXYfxZkZU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 42
+      }
+    },
+    {
       "id": "KQ071pHCyto",
       "kind": "youtube",
       "title": "3 Animal-Based Breakfasts",
@@ -2117,6 +2135,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 49
+      }
+    },
+    {
+      "id": "XIsTihPoCLw",
+      "kind": "youtube",
+      "title": "Are you taking enough creatine?",
+      "url": "https://www.youtube.com/watch?v=XIsTihPoCLw",
+      "upload_date": "2025-07-06",
+      "duration_seconds": 80,
+      "duration": "01:20",
+      "word_count": 257,
+      "clean_file": "clean/XIsTihPoCLw.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 80
       }
     },
     {
@@ -12439,6 +12475,24 @@
       }
     },
     {
+      "id": "xittdCv-hvs",
+      "kind": "youtube",
+      "title": "Nutrition does not need to be so complicated..",
+      "url": "https://www.youtube.com/watch?v=xittdCv-hvs",
+      "upload_date": "2024-01-30",
+      "duration_seconds": 30,
+      "duration": "00:30",
+      "word_count": 132,
+      "clean_file": "clean/xittdCv-hvs.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 30
+      }
+    },
+    {
       "id": "c0r7yEixoVI",
       "kind": "youtube",
       "title": "Oatmeal is BS! Here's why 👊",
@@ -14558,6 +14612,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 51
+      }
+    },
+    {
+      "id": "xKixfBxcqjY",
+      "kind": "youtube",
+      "title": "Still going to Starbucks for breakfast?",
+      "url": "https://www.youtube.com/watch?v=xKixfBxcqjY",
+      "upload_date": "2025-04-13",
+      "duration_seconds": 33,
+      "duration": "00:33",
+      "word_count": 106,
+      "clean_file": "clean/xKixfBxcqjY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 33
       }
     },
     {
