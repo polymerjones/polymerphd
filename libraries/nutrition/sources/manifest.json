@@ -1187,6 +1187,24 @@
       }
     },
     {
+      "id": "vuKMPPNGo9o",
+      "kind": "youtube",
+      "title": "Animal-based haul after landing in Miami",
+      "url": "https://www.youtube.com/watch?v=vuKMPPNGo9o",
+      "upload_date": "2024-06-13",
+      "duration_seconds": 56,
+      "duration": "00:56",
+      "word_count": 185,
+      "clean_file": "clean/vuKMPPNGo9o.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 56
+      }
+    },
+    {
       "id": "gSb3HwItw3I",
       "kind": "youtube",
       "title": "Animal-based haul at Lazy Acres 🥩🥛🍌",
@@ -9329,6 +9347,24 @@
       }
     },
     {
+      "id": "vvNN8Hk-msk",
+      "kind": "youtube",
+      "title": "Is raw milk safe for children?",
+      "url": "https://www.youtube.com/watch?v=vvNN8Hk-msk",
+      "upload_date": "2024-03-10",
+      "duration_seconds": 51,
+      "duration": "00:51",
+      "word_count": 151,
+      "clean_file": "clean/vvNN8Hk-msk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 51
+      }
+    },
+    {
       "id": "dg2EckmxmvA",
       "kind": "youtube",
       "title": "Is raw milk safe?",
@@ -10513,6 +10549,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 57
+      }
+    },
+    {
+      "id": "VuvvYJtVBPY",
+      "kind": "youtube",
+      "title": "Manuka honey is not ideal",
+      "url": "https://www.youtube.com/watch?v=VuvvYJtVBPY",
+      "upload_date": "2022-09-16",
+      "duration_seconds": 33,
+      "duration": "00:33",
+      "word_count": 116,
+      "clean_file": "clean/VuvvYJtVBPY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 33
       }
     },
     {
@@ -13316,6 +13370,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 53
+      }
+    },
+    {
+      "id": "Vw8kgDl3770",
+      "kind": "youtube",
+      "title": "Saturated fats from animals are GOOD for you",
+      "url": "https://www.youtube.com/watch?v=Vw8kgDl3770",
+      "upload_date": "2022-12-07",
+      "duration_seconds": 37,
+      "duration": "00:37",
+      "word_count": 130,
+      "clean_file": "clean/Vw8kgDl3770.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 37
       }
     },
     {
@@ -17741,6 +17813,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 89
+      }
+    },
+    {
+      "id": "VTmTKw8RXKU",
+      "kind": "youtube",
+      "title": "Vegans should eat meat",
+      "url": "https://www.youtube.com/watch?v=VTmTKw8RXKU",
+      "upload_date": "2022-09-25",
+      "duration_seconds": 47,
+      "duration": "00:47",
+      "word_count": 171,
+      "clean_file": "clean/VTmTKw8RXKU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 47
       }
     },
     {
