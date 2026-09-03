@@ -324,6 +324,24 @@
       }
     },
     {
+      "id": "sI_4oAoJpfI",
+      "kind": "youtube",
+      "title": "850 calories: which will you eat?",
+      "url": "https://www.youtube.com/watch?v=sI_4oAoJpfI",
+      "upload_date": "2026-03-03",
+      "duration_seconds": 18,
+      "duration": "00:18",
+      "word_count": 10,
+      "clean_file": "clean/sI_4oAoJpfI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 18
+      }
+    },
+    {
       "id": "fUFjScdh6tw",
       "kind": "youtube",
       "title": "@hubermanlab is so right about this…",
@@ -2601,6 +2619,24 @@
       }
     },
     {
+      "id": "SQjNcsSWKMk",
+      "kind": "youtube",
+      "title": "Best way to eat a steak?",
+      "url": "https://www.youtube.com/watch?v=SQjNcsSWKMk",
+      "upload_date": "2024-06-15",
+      "duration_seconds": 55,
+      "duration": "00:55",
+      "word_count": 222,
+      "clean_file": "clean/SQjNcsSWKMk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 55
+      }
+    },
+    {
       "id": "EpWlIWT45rs",
       "kind": "youtube",
       "title": "Best way to eat tomatoes",
@@ -4610,6 +4646,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 70
+      }
+    },
+    {
+      "id": "sPqwGZttV44",
+      "kind": "youtube",
+      "title": "Drinking hack to avoid hangover",
+      "url": "https://www.youtube.com/watch?v=sPqwGZttV44",
+      "upload_date": "2026-04-05",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 217,
+      "clean_file": "clean/sPqwGZttV44.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
       }
     },
     {
@@ -10585,6 +10639,24 @@
       }
     },
     {
+      "id": "spZ6hsjuKnY",
+      "kind": "youtube",
+      "title": "Nighttime routine for optimal sleep",
+      "url": "https://www.youtube.com/watch?v=spZ6hsjuKnY",
+      "upload_date": "2023-11-23",
+      "duration_seconds": 41,
+      "duration": "00:41",
+      "word_count": 130,
+      "clean_file": "clean/spZ6hsjuKnY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 41
+      }
+    },
+    {
       "id": "JZlfMpXVYr4",
       "kind": "youtube",
       "title": "No more plastic cutting boards… use this!",
@@ -11320,6 +11392,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 59
+      }
+    },
+    {
+      "id": "ssqHSKOAWdk",
+      "kind": "youtube",
+      "title": "Plants don’t want to be eaten",
+      "url": "https://www.youtube.com/watch?v=ssqHSKOAWdk",
+      "upload_date": "2022-12-02",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 203,
+      "clean_file": "clean/ssqHSKOAWdk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
@@ -16609,6 +16699,24 @@
       }
     },
     {
+      "id": "SkqjY5frnAI",
+      "kind": "youtube",
+      "title": "What to buy and avoid at Costco",
+      "url": "https://www.youtube.com/watch?v=SkqjY5frnAI",
+      "upload_date": "2026-08-25",
+      "duration_seconds": 65,
+      "duration": "01:05",
+      "word_count": 256,
+      "clean_file": "clean/SkqjY5frnAI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 65
+      }
+    },
+    {
       "id": "cYWkt4y58Go",
       "kind": "youtube",
       "title": "What to eat for a healthy libido",
@@ -17791,6 +17899,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "SqyPTBzvfxw",
+      "kind": "youtube",
+      "title": "Why I stopped using toothpaste",
+      "url": "https://www.youtube.com/watch?v=SqyPTBzvfxw",
+      "upload_date": "2025-03-12",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 221,
+      "clean_file": "clean/SqyPTBzvfxw.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
       }
     },
     {
