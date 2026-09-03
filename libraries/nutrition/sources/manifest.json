@@ -7829,6 +7829,24 @@
       }
     },
     {
+      "id": "ZllfwuVgkXw",
+      "kind": "youtube",
+      "title": "How Canada convinced you to eat engine lubricant",
+      "url": "https://www.youtube.com/watch?v=ZllfwuVgkXw",
+      "upload_date": "2026-05-18",
+      "duration_seconds": 119,
+      "duration": "01:59",
+      "word_count": 438,
+      "clean_file": "clean/ZllfwuVgkXw.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 119
+      }
+    },
+    {
       "id": "blqHuxlNAeI",
       "kind": "youtube",
       "title": "How canola oil is made",
@@ -16984,6 +17002,24 @@
       }
     },
     {
+      "id": "ZMafIUVScbM",
+      "kind": "youtube",
+      "title": "The dark history of Teflon pans",
+      "url": "https://www.youtube.com/watch?v=ZMafIUVScbM",
+      "upload_date": "2025-03-13",
+      "duration_seconds": 65,
+      "duration": "01:05",
+      "word_count": 217,
+      "clean_file": "clean/ZMafIUVScbM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 65
+      }
+    },
+    {
       "id": "K4dDmqFi084",
       "kind": "youtube",
       "title": "The dark side of antidepressants",
@@ -17158,6 +17194,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 56
+      }
+    },
+    {
+      "id": "zNeXbOcKK_Y",
+      "kind": "youtube",
+      "title": "The healthiest fries on the planet",
+      "url": "https://www.youtube.com/watch?v=zNeXbOcKK_Y",
+      "upload_date": "2026-08-22",
+      "duration_seconds": 24,
+      "duration": "00:24",
+      "word_count": 94,
+      "clean_file": "clean/zNeXbOcKK_Y.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 24
       }
     },
     {
@@ -18659,6 +18713,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 47
+      }
+    },
+    {
+      "id": "ZnS8VH8K-oY",
+      "kind": "youtube",
+      "title": "THIS is in WHEATIES cereal?? 😳😳",
+      "url": "https://www.youtube.com/watch?v=ZnS8VH8K-oY",
+      "upload_date": "2023-11-21",
+      "duration_seconds": 53,
+      "duration": "00:53",
+      "word_count": 188,
+      "clean_file": "clean/ZnS8VH8K-oY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 53
       }
     },
     {
