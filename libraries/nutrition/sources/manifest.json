@@ -2300,6 +2300,24 @@
       }
     },
     {
+      "id": "YEhS-FoNIxU",
+      "kind": "youtube",
+      "title": "Arrested for raw milk?",
+      "url": "https://www.youtube.com/watch?v=YEhS-FoNIxU",
+      "upload_date": "2023-04-15",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 192,
+      "clean_file": "clean/YEhS-FoNIxU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
+      }
+    },
+    {
       "id": "cQqRQ4xXq54",
       "kind": "youtube",
       "title": "Attack of the Oxalates! A hidden but nasty plant toxin, with Sally K Norton, MPH",
@@ -2386,6 +2404,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 48
+      }
+    },
+    {
+      "id": "YF3r99ZdMkM",
+      "kind": "youtube",
+      "title": "Avoid seed oils and processed sugar for HPB",
+      "url": "https://www.youtube.com/watch?v=YF3r99ZdMkM",
+      "upload_date": "2022-06-15",
+      "duration_seconds": 53,
+      "duration": "00:53",
+      "word_count": 157,
+      "clean_file": "clean/YF3r99ZdMkM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 53
       }
     },
     {
@@ -9008,6 +9044,24 @@
       }
     },
     {
+      "id": "yi_WERZNZzg",
+      "kind": "youtube",
+      "title": "I bet you didn’t know this…",
+      "url": "https://www.youtube.com/watch?v=yi_WERZNZzg",
+      "upload_date": "2025-12-18",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 199,
+      "clean_file": "clean/yi_WERZNZzg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
+      }
+    },
+    {
       "id": "BzzuQS8gl3k",
       "kind": "youtube",
       "title": "I Don't Eat Raw Egg Whites!",
@@ -9256,6 +9310,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 973
+      }
+    },
+    {
+      "id": "YfUW7vR06q8",
+      "kind": "youtube",
+      "title": "I told you so…",
+      "url": "https://www.youtube.com/watch?v=YfUW7vR06q8",
+      "upload_date": "2025-04-18",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 223,
+      "clean_file": "clean/YfUW7vR06q8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
       }
     },
     {
@@ -10804,6 +10876,24 @@
       }
     },
     {
+      "id": "YHOoeh7DqvM",
+      "kind": "youtube",
+      "title": "Kale is not good for you",
+      "url": "https://www.youtube.com/watch?v=YHOoeh7DqvM",
+      "upload_date": "2022-10-11",
+      "duration_seconds": 39,
+      "duration": "00:39",
+      "word_count": 142,
+      "clean_file": "clean/YHOoeh7DqvM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 39
+      }
+    },
+    {
       "id": "fJacEP-5SZY",
       "kind": "youtube",
       "title": "Kale vs. Liver",
@@ -11862,6 +11952,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "YJ4CT5GSXUI",
+      "kind": "youtube",
+      "title": "My favorite dishwashing hack",
+      "url": "https://www.youtube.com/watch?v=YJ4CT5GSXUI",
+      "upload_date": "2024-07-29",
+      "duration_seconds": 49,
+      "duration": "00:49",
+      "word_count": 173,
+      "clean_file": "clean/YJ4CT5GSXUI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 49
       }
     },
     {
@@ -13357,6 +13465,24 @@
       }
     },
     {
+      "id": "yeds6sNNitc",
+      "kind": "youtube",
+      "title": "Plant-based meat demand is plummeting",
+      "url": "https://www.youtube.com/watch?v=yeds6sNNitc",
+      "upload_date": "2024-01-09",
+      "duration_seconds": 33,
+      "duration": "00:33",
+      "word_count": 86,
+      "clean_file": "clean/yeds6sNNitc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 33
+      }
+    },
+    {
       "id": "1fa40zJoOj8",
       "kind": "youtube",
       "title": "Plant-based meat is a scam",
@@ -14705,6 +14831,24 @@
       }
     },
     {
+      "id": "yH0YNS-9HOk",
+      "kind": "youtube",
+      "title": "Should you include fruit juice in your diet?",
+      "url": "https://www.youtube.com/watch?v=yH0YNS-9HOk",
+      "upload_date": "2023-09-10",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 181,
+      "clean_file": "clean/yH0YNS-9HOk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
+      }
+    },
+    {
       "id": "eu_nLAqwl10",
       "kind": "youtube",
       "title": "Skateboarding or weightlifting?",
@@ -14732,6 +14876,24 @@
       "duration": "00:59",
       "word_count": 221,
       "clean_file": "clean/8jxWDrfQLVc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
+      "id": "yen4OdlhZ60",
+      "kind": "youtube",
+      "title": "Smoothie = oxalate bomb??",
+      "url": "https://www.youtube.com/watch?v=yen4OdlhZ60",
+      "upload_date": "2023-02-14",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 156,
+      "clean_file": "clean/yen4OdlhZ60.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -15748,6 +15910,24 @@
       }
     },
     {
+      "id": "yjMHBnTsa6o",
+      "kind": "youtube",
+      "title": "The best grill cleaning hack",
+      "url": "https://www.youtube.com/watch?v=yjMHBnTsa6o",
+      "upload_date": "2026-07-14",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 206,
+      "clean_file": "clean/yjMHBnTsa6o.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "mqJOp2-qT1Y",
       "kind": "youtube",
       "title": "The best grilling hack 🥩",
@@ -16420,6 +16600,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 359
+      }
+    },
+    {
+      "id": "YH2yLu68OIk",
+      "kind": "youtube",
+      "title": "The first grass-fed meat stick with liver and heart!",
+      "url": "https://www.youtube.com/watch?v=YH2yLu68OIk",
+      "upload_date": "2024-02-19",
+      "duration_seconds": 45,
+      "duration": "00:45",
+      "word_count": 155,
+      "clean_file": "clean/YH2yLu68OIk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 45
       }
     },
     {
@@ -18716,6 +18914,24 @@
       }
     },
     {
+      "id": "YjfM-E-Dr-0",
+      "kind": "youtube",
+      "title": "U.S. Dietary Guidelines are CRAZY!!!",
+      "url": "https://www.youtube.com/watch?v=YjfM-E-Dr-0",
+      "upload_date": "2022-08-08",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 133,
+      "clean_file": "clean/YjfM-E-Dr-0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "SxU3CBn2h1k",
       "kind": "youtube",
       "title": "Ultra-processed foods are healthy now??",
@@ -19253,6 +19469,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 40
+      }
+    },
+    {
+      "id": "yhYnX1fGNjU",
+      "kind": "youtube",
+      "title": "We evolved eating meat and organs",
+      "url": "https://www.youtube.com/watch?v=yhYnX1fGNjU",
+      "upload_date": "2022-12-05",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 196,
+      "clean_file": "clean/yhYnX1fGNjU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
       }
     },
     {
@@ -20727,6 +20961,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 45
+      }
+    },
+    {
+      "id": "yH3sfinUSqs",
+      "kind": "youtube",
+      "title": "Which olive oil is best?",
+      "url": "https://www.youtube.com/watch?v=yH3sfinUSqs",
+      "upload_date": "2022-12-13",
+      "duration_seconds": 40,
+      "duration": "00:40",
+      "word_count": 133,
+      "clean_file": "clean/yH3sfinUSqs.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 40
       }
     },
     {
