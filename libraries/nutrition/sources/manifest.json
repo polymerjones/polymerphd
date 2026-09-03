@@ -1816,6 +1816,24 @@
       }
     },
     {
+      "id": "W8wXAjMQveo",
+      "kind": "youtube",
+      "title": "Are we about to go extinct?",
+      "url": "https://www.youtube.com/watch?v=W8wXAjMQveo",
+      "upload_date": "2025-02-28",
+      "duration_seconds": 61,
+      "duration": "01:01",
+      "word_count": 180,
+      "clean_file": "clean/W8wXAjMQveo.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 61
+      }
+    },
+    {
       "id": "y1VcuNM35Nc",
       "kind": "youtube",
       "title": "Are we being deceived about grass-finished labeling?",
@@ -5829,6 +5847,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 51
+      }
+    },
+    {
+      "id": "W3eZmGq89IM",
+      "kind": "youtube",
+      "title": "Farm-raised salmon is a scam",
+      "url": "https://www.youtube.com/watch?v=W3eZmGq89IM",
+      "upload_date": "2025-05-21",
+      "duration_seconds": 62,
+      "duration": "01:02",
+      "word_count": 221,
+      "clean_file": "clean/W3eZmGq89IM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 62
       }
     },
     {
@@ -12781,6 +12817,24 @@
       }
     },
     {
+      "id": "w5xl6CEnAbQ",
+      "kind": "youtube",
+      "title": "Plants Have Their Own Agenda (Power Project Podcast Excerpt)",
+      "url": "https://www.youtube.com/watch?v=w5xl6CEnAbQ",
+      "upload_date": "2019-03-09",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 193,
+      "clean_file": "clean/w5xl6CEnAbQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "fDh4FaF5ZpE",
       "kind": "youtube",
       "title": "Plastic vs wood: which is safer?",
@@ -15114,6 +15168,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 29
+      }
+    },
+    {
+      "id": "w92VVo2C6wI",
+      "kind": "youtube",
+      "title": "The best thing at IHOP…",
+      "url": "https://www.youtube.com/watch?v=w92VVo2C6wI",
+      "upload_date": "2026-03-21",
+      "duration_seconds": 56,
+      "duration": "00:56",
+      "word_count": 256,
+      "clean_file": "clean/w92VVo2C6wI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 56
       }
     },
     {
@@ -20415,6 +20487,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 42
+      }
+    },
+    {
+      "id": "W4tfE5H6Ong",
+      "kind": "youtube",
+      "title": "Why you should drink milk",
+      "url": "https://www.youtube.com/watch?v=W4tfE5H6Ong",
+      "upload_date": "2023-06-13",
+      "duration_seconds": 34,
+      "duration": "00:34",
+      "word_count": 103,
+      "clean_file": "clean/W4tfE5H6Ong.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 34
       }
     },
     {
