@@ -3195,6 +3195,24 @@
       }
     },
     {
+      "id": "yUKxs2joIjM",
+      "kind": "youtube",
+      "title": "Beware of Lululemon",
+      "url": "https://www.youtube.com/watch?v=yUKxs2joIjM",
+      "upload_date": "2023-03-22",
+      "duration_seconds": 48,
+      "duration": "00:48",
+      "word_count": 127,
+      "clean_file": "clean/yUKxs2joIjM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 48
+      }
+    },
+    {
       "id": "uWW5VVwzM14",
       "kind": "youtube",
       "title": "Beware of paper cups…",
@@ -9492,6 +9510,24 @@
       }
     },
     {
+      "id": "Ypf0ohzcUDc",
+      "kind": "youtube",
+      "title": "If you have skin issues, consider an elimination diet",
+      "url": "https://www.youtube.com/watch?v=Ypf0ohzcUDc",
+      "upload_date": "2023-04-13",
+      "duration_seconds": 49,
+      "duration": "00:49",
+      "word_count": 184,
+      "clean_file": "clean/Ypf0ohzcUDc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 49
+      }
+    },
+    {
       "id": "PKBSnPPsSks",
       "kind": "youtube",
       "title": "IHOP omelette contains 15 ingredients!?",
@@ -10478,6 +10514,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 42
+      }
+    },
+    {
+      "id": "YswrOr0A4gQ",
+      "kind": "youtube",
+      "title": "Is this heaven??",
+      "url": "https://www.youtube.com/watch?v=YswrOr0A4gQ",
+      "upload_date": "2023-07-23",
+      "duration_seconds": 43,
+      "duration": "00:43",
+      "word_count": 127,
+      "clean_file": "clean/YswrOr0A4gQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 43
       }
     },
     {
@@ -12474,6 +12528,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 85
+      }
+    },
+    {
+      "id": "YTX44yVELa0",
+      "kind": "youtube",
+      "title": "Napping = better health",
+      "url": "https://www.youtube.com/watch?v=YTX44yVELa0",
+      "upload_date": "2026-04-15",
+      "duration_seconds": 56,
+      "duration": "00:56",
+      "word_count": 187,
+      "clean_file": "clean/YTX44yVELa0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 56
       }
     },
     {
@@ -14486,6 +14558,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 52
+      }
+    },
+    {
+      "id": "yqOUifYvtg8",
+      "kind": "youtube",
+      "title": "SEA MOSS is definitely BS!",
+      "url": "https://www.youtube.com/watch?v=yqOUifYvtg8",
+      "upload_date": "2022-05-31",
+      "duration_seconds": 44,
+      "duration": "00:44",
+      "word_count": 142,
+      "clean_file": "clean/yqOUifYvtg8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 44
       }
     },
     {
@@ -20298,6 +20388,24 @@
       }
     },
     {
+      "id": "YqKG9GYQ6BA",
+      "kind": "youtube",
+      "title": "What’s ACTUALLY inside Impossible Burger??",
+      "url": "https://www.youtube.com/watch?v=YqKG9GYQ6BA",
+      "upload_date": "2023-12-10",
+      "duration_seconds": 55,
+      "duration": "00:55",
+      "word_count": 185,
+      "clean_file": "clean/YqKG9GYQ6BA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 55
+      }
+    },
+    {
       "id": "5DTFlxQ0_Xs",
       "kind": "youtube",
       "title": "What’s happening to Americans?",
@@ -21499,6 +21607,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 54
+      }
+    },
+    {
+      "id": "yqLuGtlPUQ8",
+      "kind": "youtube",
+      "title": "Why I eat fruit",
+      "url": "https://www.youtube.com/watch?v=yqLuGtlPUQ8",
+      "upload_date": "2022-09-23",
+      "duration_seconds": 52,
+      "duration": "00:52",
+      "word_count": 177,
+      "clean_file": "clean/yqLuGtlPUQ8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 52
       }
     },
     {
