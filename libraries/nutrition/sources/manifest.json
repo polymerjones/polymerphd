@@ -4651,6 +4651,24 @@
       }
     },
     {
+      "id": "Vm5YFzpdax4",
+      "kind": "youtube",
+      "title": "Does Chick-Fil-A use seed oils?",
+      "url": "https://www.youtube.com/watch?v=Vm5YFzpdax4",
+      "upload_date": "2022-11-21",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 197,
+      "clean_file": "clean/Vm5YFzpdax4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
+      }
+    },
+    {
       "id": "2jk2KgA1_Bw",
       "kind": "youtube",
       "title": "Does fruit make us fat!?",
@@ -5060,6 +5078,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 70
+      }
+    },
+    {
+      "id": "VltOnHaQaDQ",
+      "kind": "youtube",
+      "title": "Drinking from plastic bottles?",
+      "url": "https://www.youtube.com/watch?v=VltOnHaQaDQ",
+      "upload_date": "2024-11-25",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 194,
+      "clean_file": "clean/VltOnHaQaDQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
@@ -6983,6 +7019,24 @@
       }
     },
     {
+      "id": "vn4yF1UUtr4",
+      "kind": "youtube",
+      "title": "Honey is definitely not BS",
+      "url": "https://www.youtube.com/watch?v=vn4yF1UUtr4",
+      "upload_date": "2022-05-01",
+      "duration_seconds": 35,
+      "duration": "00:35",
+      "word_count": 89,
+      "clean_file": "clean/vn4yF1UUtr4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 35
+      }
+    },
+    {
       "id": "aR_UbFkzdXg",
       "kind": "youtube",
       "title": "Hospitals = profits?? 💰",
@@ -8195,6 +8249,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 37
+      }
+    },
+    {
+      "id": "vmf5lIe8Afo",
+      "kind": "youtube",
+      "title": "How to shop for olive oil",
+      "url": "https://www.youtube.com/watch?v=vmf5lIe8Afo",
+      "upload_date": "2025-08-14",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 247,
+      "clean_file": "clean/vmf5lIe8Afo.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
@@ -14308,6 +14380,24 @@
       }
     },
     {
+      "id": "VMBUdK_8tq0",
+      "kind": "youtube",
+      "title": "The benefits of raw milk for humans",
+      "url": "https://www.youtube.com/watch?v=VMBUdK_8tq0",
+      "upload_date": "2023-10-21",
+      "duration_seconds": 23,
+      "duration": "00:23",
+      "word_count": 80,
+      "clean_file": "clean/VMBUdK_8tq0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 23
+      }
+    },
+    {
       "id": "pDTfD5WKGNk",
       "kind": "youtube",
       "title": "The best alcohol to mitigate hangovers",
@@ -16934,6 +17024,24 @@
       }
     },
     {
+      "id": "vk-y9b7LJ-c",
+      "kind": "youtube",
+      "title": "This plant is a natural air filter",
+      "url": "https://www.youtube.com/watch?v=vk-y9b7LJ-c",
+      "upload_date": "2025-04-11",
+      "duration_seconds": 64,
+      "duration": "01:04",
+      "word_count": 253,
+      "clean_file": "clean/vk-y9b7LJ-c.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 64
+      }
+    },
+    {
       "id": "ji7ziWYSUTk",
       "kind": "youtube",
       "title": "This ruins your sleep…",
@@ -18855,6 +18963,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 48
+      }
+    },
+    {
+      "id": "VIw7yZPbn1Q",
+      "kind": "youtube",
+      "title": "What’s inside oat milk?",
+      "url": "https://www.youtube.com/watch?v=VIw7yZPbn1Q",
+      "upload_date": "2024-06-25",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 194,
+      "clean_file": "clean/VIw7yZPbn1Q.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
