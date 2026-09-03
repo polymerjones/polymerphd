@@ -1421,6 +1421,24 @@
       }
     },
     {
+      "id": "Ts9rm4tTC18",
+      "kind": "youtube",
+      "title": "Are fruit and honey causing diabetes?",
+      "url": "https://www.youtube.com/watch?v=Ts9rm4tTC18",
+      "upload_date": "2024-09-24",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 200,
+      "clean_file": "clean/Ts9rm4tTC18.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
+      }
+    },
+    {
       "id": "ffCOXtVuxVQ",
       "kind": "youtube",
       "title": "Are greens powders healthy?",
@@ -4432,6 +4450,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 41
+      }
+    },
+    {
+      "id": "ttDlH90rfME",
+      "kind": "youtube",
+      "title": "Does calories in vs calories out work?",
+      "url": "https://www.youtube.com/watch?v=ttDlH90rfME",
+      "upload_date": "2026-02-09",
+      "duration_seconds": 26,
+      "duration": "00:26",
+      "word_count": 110,
+      "clean_file": "clean/ttDlH90rfME.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 26
       }
     },
     {
@@ -11395,6 +11431,42 @@
       }
     },
     {
+      "id": "TR9--f5rgm8",
+      "kind": "youtube",
+      "title": "Outdoor gym workout in Miami",
+      "url": "https://www.youtube.com/watch?v=TR9--f5rgm8",
+      "upload_date": "2026-05-07",
+      "duration_seconds": 47,
+      "duration": "00:47",
+      "word_count": 203,
+      "clean_file": "clean/TR9--f5rgm8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 47
+      }
+    },
+    {
+      "id": "TS25xfZ3vHE",
+      "kind": "youtube",
+      "title": "Overrated or underrated?",
+      "url": "https://www.youtube.com/watch?v=TS25xfZ3vHE",
+      "upload_date": "2026-06-13",
+      "duration_seconds": 42,
+      "duration": "00:42",
+      "word_count": 133,
+      "clean_file": "clean/TS25xfZ3vHE.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 42
+      }
+    },
+    {
       "id": "4fqwTGZON6g",
       "kind": "youtube",
       "title": "Paper cups are not paper…",
@@ -12722,6 +12794,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 89
+      }
+    },
+    {
+      "id": "TPT-w__JXWI",
+      "kind": "youtube",
+      "title": "Shopping for fresh local produce at the farmers' market",
+      "url": "https://www.youtube.com/watch?v=TPT-w__JXWI",
+      "upload_date": "2024-02-05",
+      "duration_seconds": 55,
+      "duration": "00:55",
+      "word_count": 197,
+      "clean_file": "clean/TPT-w__JXWI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 55
       }
     },
     {
@@ -17739,6 +17829,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "TSy4JDtPVqQ",
+      "kind": "youtube",
+      "title": "What’s inside a Zyn?",
+      "url": "https://www.youtube.com/watch?v=TSy4JDtPVqQ",
+      "upload_date": "2026-05-13",
+      "duration_seconds": 39,
+      "duration": "00:39",
+      "word_count": 130,
+      "clean_file": "clean/TSy4JDtPVqQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 39
       }
     },
     {
