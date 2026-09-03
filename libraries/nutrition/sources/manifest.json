@@ -468,6 +468,24 @@
       }
     },
     {
+      "id": "tb9rTsZwCAI",
+      "kind": "youtube",
+      "title": "A lot of corn for a little seed oil 🌽",
+      "url": "https://www.youtube.com/watch?v=tb9rTsZwCAI",
+      "upload_date": "2022-10-28",
+      "duration_seconds": 52,
+      "duration": "00:52",
+      "word_count": 215,
+      "clean_file": "clean/tb9rTsZwCAI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 52
+      }
+    },
+    {
       "id": "FH-PaE66F7U",
       "kind": "youtube",
       "title": "Acne? Fix your diet!",
@@ -5170,6 +5188,24 @@
       }
     },
     {
+      "id": "TbmwPJZ0SuY",
+      "kind": "youtube",
+      "title": "Europe bans nail polish ingredient!?",
+      "url": "https://www.youtube.com/watch?v=TbmwPJZ0SuY",
+      "upload_date": "2026-09-01",
+      "duration_seconds": 85,
+      "duration": "01:25",
+      "word_count": 274,
+      "clean_file": "clean/TbmwPJZ0SuY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 85
+      }
+    },
+    {
       "id": "JshTM15bqVI",
       "kind": "youtube",
       "title": "Everyone's Taking Nicotine. Almost Everyone's Doing It Wrong.",
@@ -8941,6 +8977,24 @@
       "duration": "01:00",
       "word_count": 209,
       "clean_file": "clean/iaeoC37qNuA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
+      "id": "TDYE5LpwxC8",
+      "kind": "youtube",
+      "title": "Is this the secret in Japanese schools?",
+      "url": "https://www.youtube.com/watch?v=TDYE5LpwxC8",
+      "upload_date": "2026-05-12",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 218,
+      "clean_file": "clean/TDYE5LpwxC8.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -17073,6 +17127,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 567
+      }
+    },
+    {
+      "id": "tDIVsIQ5Bic",
+      "kind": "youtube",
+      "title": "What’s actually inside an Oreo cookie?",
+      "url": "https://www.youtube.com/watch?v=tDIVsIQ5Bic",
+      "upload_date": "2024-11-19",
+      "duration_seconds": 51,
+      "duration": "00:51",
+      "word_count": 165,
+      "clean_file": "clean/tDIVsIQ5Bic.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 51
       }
     },
     {
