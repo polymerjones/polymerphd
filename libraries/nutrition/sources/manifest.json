@@ -396,6 +396,24 @@
       }
     },
     {
+      "id": "Wz7r6Rvuq6M",
+      "kind": "youtube",
+      "title": "92% of oat-based foods are contaminated",
+      "url": "https://www.youtube.com/watch?v=Wz7r6Rvuq6M",
+      "upload_date": "2024-05-02",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 165,
+      "clean_file": "clean/Wz7r6Rvuq6M.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
+      }
+    },
+    {
       "id": "fUFjScdh6tw",
       "kind": "youtube",
       "title": "@hubermanlab is so right about this…",
@@ -10768,6 +10786,24 @@
       }
     },
     {
+      "id": "wXLnnYnk_kU",
+      "kind": "youtube",
+      "title": "Make fries healthy again",
+      "url": "https://www.youtube.com/watch?v=wXLnnYnk_kU",
+      "upload_date": "2024-12-22",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 159,
+      "clean_file": "clean/wXLnnYnk_kU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
+      }
+    },
+    {
       "id": "Ag1HbsGqrp0",
       "kind": "youtube",
       "title": "Make sure your eggs are corn and soy free!",
@@ -11322,6 +11358,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 47
+      }
+    },
+    {
+      "id": "x-nrXy_CKG8",
+      "kind": "youtube",
+      "title": "My credentials were questioned…",
+      "url": "https://www.youtube.com/watch?v=x-nrXy_CKG8",
+      "upload_date": "2023-07-25",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 194,
+      "clean_file": "clean/x-nrXy_CKG8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
       }
     },
     {
