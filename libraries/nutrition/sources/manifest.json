@@ -162,6 +162,24 @@
       }
     },
     {
+      "id": "pxtJyNCvoOc",
+      "kind": "youtube",
+      "title": "4th of July grilling hacks",
+      "url": "https://www.youtube.com/watch?v=pxtJyNCvoOc",
+      "upload_date": "2025-07-05",
+      "duration_seconds": 48,
+      "duration": "00:48",
+      "word_count": 179,
+      "clean_file": "clean/pxtJyNCvoOc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 48
+      }
+    },
+    {
       "id": "lRM79Vxo8pA",
       "kind": "youtube",
       "title": "5 biggest sources of microplastics",
@@ -231,6 +249,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 67
+      }
+    },
+    {
+      "id": "qQYC7go0XUE",
+      "kind": "youtube",
+      "title": "550 calorie muffin vs 550 calorie beef burger",
+      "url": "https://www.youtube.com/watch?v=qQYC7go0XUE",
+      "upload_date": "2024-01-12",
+      "duration_seconds": 35,
+      "duration": "00:35",
+      "word_count": 116,
+      "clean_file": "clean/qQYC7go0XUE.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 35
       }
     },
     {
@@ -494,6 +530,24 @@
       "duration": "00:57",
       "word_count": 193,
       "clean_file": "clean/83AYM5srCLk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
+      }
+    },
+    {
+      "id": "qQNL9STqTm4",
+      "kind": "youtube",
+      "title": "Am I wrong?",
+      "url": "https://www.youtube.com/watch?v=qQNL9STqTm4",
+      "upload_date": "2025-08-03",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 197,
+      "clean_file": "clean/qQNL9STqTm4.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -1079,6 +1133,24 @@
       }
     },
     {
+      "id": "Qf-Zumc3ZO0",
+      "kind": "youtube",
+      "title": "Animal-based Whole Foods grocery haul",
+      "url": "https://www.youtube.com/watch?v=Qf-Zumc3ZO0",
+      "upload_date": "2023-01-20",
+      "duration_seconds": 51,
+      "duration": "00:51",
+      "word_count": 178,
+      "clean_file": "clean/Qf-Zumc3ZO0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 51
+      }
+    },
+    {
       "id": "BAY_Uj9DLkA",
       "kind": "youtube",
       "title": "Animals do not contain defense chemicals, but plants do!",
@@ -1238,6 +1310,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 49
+      }
+    },
+    {
+      "id": "qTIEcQCdkXQ",
+      "kind": "youtube",
+      "title": "Are pasture-raised eggs healthier?",
+      "url": "https://www.youtube.com/watch?v=qTIEcQCdkXQ",
+      "upload_date": "2024-09-19",
+      "duration_seconds": 47,
+      "duration": "00:47",
+      "word_count": 183,
+      "clean_file": "clean/qTIEcQCdkXQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 47
       }
     },
     {
@@ -1469,6 +1559,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 646
+      }
+    },
+    {
+      "id": "QlbB8XcLQf4",
+      "kind": "youtube",
+      "title": "Are you eating enough protein?",
+      "url": "https://www.youtube.com/watch?v=QlbB8XcLQf4",
+      "upload_date": "2025-12-04",
+      "duration_seconds": 48,
+      "duration": "00:48",
+      "word_count": 169,
+      "clean_file": "clean/QlbB8XcLQf4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 48
       }
     },
     {
@@ -2223,6 +2331,24 @@
       }
     },
     {
+      "id": "qz0pBIa2r7g",
+      "kind": "youtube",
+      "title": "Best hydration hack while traveling",
+      "url": "https://www.youtube.com/watch?v=qz0pBIa2r7g",
+      "upload_date": "2024-04-12",
+      "duration_seconds": 49,
+      "duration": "00:49",
+      "word_count": 158,
+      "clean_file": "clean/qz0pBIa2r7g.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 49
+      }
+    },
+    {
       "id": "IuhqZ3d9ex4",
       "kind": "youtube",
       "title": "Best traveling HACK ✈️🥥",
@@ -2238,6 +2364,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 32
+      }
+    },
+    {
+      "id": "qjIKsizQK7Q",
+      "kind": "youtube",
+      "title": "Best way to boost your testosterone..",
+      "url": "https://www.youtube.com/watch?v=qjIKsizQK7Q",
+      "upload_date": "2024-01-29",
+      "duration_seconds": 47,
+      "duration": "00:47",
+      "word_count": 154,
+      "clean_file": "clean/qjIKsizQK7Q.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 47
       }
     },
     {
@@ -3194,6 +3338,24 @@
       }
     },
     {
+      "id": "qNj4BA3fURU",
+      "kind": "youtube",
+      "title": "Cooking with avocado oil??",
+      "url": "https://www.youtube.com/watch?v=qNj4BA3fURU",
+      "upload_date": "2024-11-23",
+      "duration_seconds": 39,
+      "duration": "00:39",
+      "word_count": 129,
+      "clean_file": "clean/qNj4BA3fURU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 39
+      }
+    },
+    {
       "id": "03TghQRGA34",
       "kind": "youtube",
       "title": "Corn Flakes = Libido Killer",
@@ -3227,6 +3389,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 25
+      }
+    },
+    {
+      "id": "QaIvsqqaRSo",
+      "kind": "youtube",
+      "title": "Could broccoli be harmful for you?",
+      "url": "https://www.youtube.com/watch?v=QaIvsqqaRSo",
+      "upload_date": "2024-01-16",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 236,
+      "clean_file": "clean/QaIvsqqaRSo.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
       }
     },
     {
@@ -3352,6 +3532,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 38
+      }
+    },
+    {
+      "id": "Qz06bo-1Qy8",
+      "kind": "youtube",
+      "title": "Diet Coke = anxiety??",
+      "url": "https://www.youtube.com/watch?v=Qz06bo-1Qy8",
+      "upload_date": "2023-04-21",
+      "duration_seconds": 53,
+      "duration": "00:53",
+      "word_count": 145,
+      "clean_file": "clean/Qz06bo-1Qy8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 53
       }
     },
     {
@@ -4127,6 +4325,24 @@
       }
     },
     {
+      "id": "qhBPkEjsIfM",
+      "kind": "youtube",
+      "title": "Easy healthy eggnog recipe",
+      "url": "https://www.youtube.com/watch?v=qhBPkEjsIfM",
+      "upload_date": "2025-12-23",
+      "duration_seconds": 53,
+      "duration": "00:53",
+      "word_count": 204,
+      "clean_file": "clean/qhBPkEjsIfM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 53
+      }
+    },
+    {
       "id": "dpVokEi5Ih0",
       "kind": "youtube",
       "title": "Easy homemade healthy air fresher",
@@ -4357,6 +4573,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "R-RdFukkwOA",
+      "kind": "youtube",
+      "title": "Eating healthy is cheaper than you think",
+      "url": "https://www.youtube.com/watch?v=R-RdFukkwOA",
+      "upload_date": "2024-10-30",
+      "duration_seconds": 7,
+      "duration": "00:07",
+      "word_count": 10,
+      "clean_file": "clean/R-RdFukkwOA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 7
       }
     },
     {
@@ -4698,6 +4932,24 @@
       }
     },
     {
+      "id": "qf1BioFmgn8",
+      "kind": "youtube",
+      "title": "Five Guys burgers = no seed oils!!",
+      "url": "https://www.youtube.com/watch?v=qf1BioFmgn8",
+      "upload_date": "2023-04-14",
+      "duration_seconds": 47,
+      "duration": "00:47",
+      "word_count": 164,
+      "clean_file": "clean/qf1BioFmgn8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 47
+      }
+    },
+    {
       "id": "Gun2sXSDU-s",
       "kind": "youtube",
       "title": "Foods to strengthen and heal your joints… #animalbased",
@@ -4788,6 +5040,24 @@
       }
     },
     {
+      "id": "QjhqDboV2W8",
+      "kind": "youtube",
+      "title": "Fruit and diabetes?",
+      "url": "https://www.youtube.com/watch?v=QjhqDboV2W8",
+      "upload_date": "2023-07-27",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 167,
+      "clean_file": "clean/QjhqDboV2W8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
+      }
+    },
+    {
       "id": "BA_qmBoR6Eg",
       "kind": "youtube",
       "title": "Fruit is amazing",
@@ -4839,6 +5109,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 34
+      }
+    },
+    {
+      "id": "qLC-78JBeJ0",
+      "kind": "youtube",
+      "title": "Fruit vs grains: which is better?",
+      "url": "https://www.youtube.com/watch?v=qLC-78JBeJ0",
+      "upload_date": "2024-07-17",
+      "duration_seconds": 35,
+      "duration": "00:35",
+      "word_count": 138,
+      "clean_file": "clean/qLC-78JBeJ0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 35
       }
     },
     {
@@ -5144,6 +5432,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 40
+      }
+    },
+    {
+      "id": "QWPsOwDq2Ok",
+      "kind": "youtube",
+      "title": "Happy meal = diabetes",
+      "url": "https://www.youtube.com/watch?v=QWPsOwDq2Ok",
+      "upload_date": "2025-02-17",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 318,
+      "clean_file": "clean/QWPsOwDq2Ok.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
@@ -6686,6 +6992,24 @@
       }
     },
     {
+      "id": "QRNMVpA9YU4",
+      "kind": "youtube",
+      "title": "How to shop for milk",
+      "url": "https://www.youtube.com/watch?v=QRNMVpA9YU4",
+      "upload_date": "2023-03-26",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 197,
+      "clean_file": "clean/QRNMVpA9YU4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "dXQgYe-UGLQ",
       "kind": "youtube",
       "title": "How to shop for OLIVE OIL",
@@ -6884,6 +7208,24 @@
       }
     },
     {
+      "id": "Q88y8giVk80",
+      "kind": "youtube",
+      "title": "I Have \"High\" Cholesterol",
+      "url": "https://www.youtube.com/watch?v=Q88y8giVk80",
+      "upload_date": "2022-10-04",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 141,
+      "clean_file": "clean/Q88y8giVk80.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "IfVX5CXlTdE",
       "kind": "youtube",
       "title": "I have a very thorough skincare routine…",
@@ -7062,6 +7404,24 @@
       }
     },
     {
+      "id": "quFA-AOW6GA",
+      "kind": "youtube",
+      "title": "I woke up in the year 2035",
+      "url": "https://www.youtube.com/watch?v=quFA-AOW6GA",
+      "upload_date": "2025-03-26",
+      "duration_seconds": 49,
+      "duration": "00:49",
+      "word_count": 181,
+      "clean_file": "clean/quFA-AOW6GA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 49
+      }
+    },
+    {
       "id": "80Z9cuzBx-U",
       "kind": "youtube",
       "title": "I wouldn’t put it on my wrist…",
@@ -7149,6 +7509,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 16
+      }
+    },
+    {
+      "id": "r-EN6CEN7xc",
+      "kind": "youtube",
+      "title": "In N Out = NO SEED OILS!!",
+      "url": "https://www.youtube.com/watch?v=r-EN6CEN7xc",
+      "upload_date": "2023-04-04",
+      "duration_seconds": 44,
+      "duration": "00:44",
+      "word_count": 160,
+      "clean_file": "clean/r-EN6CEN7xc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 44
       }
     },
     {
@@ -7328,6 +7706,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "qxjfTWRLyHk",
+      "kind": "youtube",
+      "title": "Is farm raised salmon healthy?",
+      "url": "https://www.youtube.com/watch?v=qxjfTWRLyHk",
+      "upload_date": "2023-11-11",
+      "duration_seconds": 37,
+      "duration": "00:37",
+      "word_count": 117,
+      "clean_file": "clean/qxjfTWRLyHk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 37
       }
     },
     {
@@ -9685,6 +10081,24 @@
       }
     },
     {
+      "id": "PZVAuVn_zZY",
+      "kind": "youtube",
+      "title": "Non-toxic laundry detergent",
+      "url": "https://www.youtube.com/watch?v=PZVAuVn_zZY",
+      "upload_date": "2025-02-18",
+      "duration_seconds": 44,
+      "duration": "00:44",
+      "word_count": 154,
+      "clean_file": "clean/PZVAuVn_zZY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 44
+      }
+    },
+    {
       "id": "kYQGY9gVv1A",
       "kind": "youtube",
       "title": "Non-toxic weed killer recipe",
@@ -10495,6 +10909,24 @@
       }
     },
     {
+      "id": "QwZ_I35iSpw",
+      "kind": "youtube",
+      "title": "Raw milk is ILLEGAL??",
+      "url": "https://www.youtube.com/watch?v=QwZ_I35iSpw",
+      "upload_date": "2023-08-12",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 142,
+      "clean_file": "clean/QwZ_I35iSpw.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
+      }
+    },
+    {
       "id": "jtDN0RKgsHo",
       "kind": "youtube",
       "title": "Raw milk vs plant-based milk: which one is safer?",
@@ -10689,6 +11121,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "q0i0MGUmNGg",
+      "kind": "youtube",
+      "title": "Remove these from your kitchen",
+      "url": "https://www.youtube.com/watch?v=q0i0MGUmNGg",
+      "upload_date": "2026-04-06",
+      "duration_seconds": 70,
+      "duration": "01:10",
+      "word_count": 283,
+      "clean_file": "clean/q0i0MGUmNGg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 70
       }
     },
     {
@@ -11030,6 +11480,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 23
+      }
+    },
+    {
+      "id": "qWSBL8AMOJE",
+      "kind": "youtube",
+      "title": "Should raw milk be legalized in the US?",
+      "url": "https://www.youtube.com/watch?v=qWSBL8AMOJE",
+      "upload_date": "2024-12-31",
+      "duration_seconds": 24,
+      "duration": "00:24",
+      "word_count": 63,
+      "clean_file": "clean/qWSBL8AMOJE.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 24
       }
     },
     {
@@ -12290,6 +12758,24 @@
       }
     },
     {
+      "id": "qJo2_x6Gak4",
+      "kind": "youtube",
+      "title": "The craziest thing about my fridge",
+      "url": "https://www.youtube.com/watch?v=qJo2_x6Gak4",
+      "upload_date": "2024-06-09",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 370,
+      "clean_file": "clean/qJo2_x6Gak4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "MvP689Rmt14",
       "kind": "youtube",
       "title": "The dangers of additives",
@@ -12997,6 +13483,24 @@
       }
     },
     {
+      "id": "qZTMnC6va9Q",
+      "kind": "youtube",
+      "title": "The truth about raw milk",
+      "url": "https://www.youtube.com/watch?v=qZTMnC6va9Q",
+      "upload_date": "2026-05-20",
+      "duration_seconds": 61,
+      "duration": "01:01",
+      "word_count": 248,
+      "clean_file": "clean/qZTMnC6va9Q.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 61
+      }
+    },
+    {
       "id": "kGqGeYdPxMk",
       "kind": "youtube",
       "title": "The Truth About Using Nicotine in 2026",
@@ -13011,6 +13515,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1679
+      }
+    },
+    {
+      "id": "pxkSkgkyE78",
+      "kind": "youtube",
+      "title": "The truths you were never told…",
+      "url": "https://www.youtube.com/watch?v=pxkSkgkyE78",
+      "upload_date": "2026-07-09",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 189,
+      "clean_file": "clean/pxkSkgkyE78.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
@@ -13514,6 +14036,24 @@
       }
     },
     {
+      "id": "QkSBsi4vgF4",
+      "kind": "youtube",
+      "title": "This is making you fat",
+      "url": "https://www.youtube.com/watch?v=QkSBsi4vgF4",
+      "upload_date": "2024-10-17",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 207,
+      "clean_file": "clean/QkSBsi4vgF4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "da7WZnyLvcw",
       "kind": "youtube",
       "title": "This is more hydrating than Gatorade",
@@ -13568,6 +14108,24 @@
       }
     },
     {
+      "id": "qFQ6ZzCxmjQ",
+      "kind": "youtube",
+      "title": "This is not a good idea…",
+      "url": "https://www.youtube.com/watch?v=qFQ6ZzCxmjQ",
+      "upload_date": "2025-05-03",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 212,
+      "clean_file": "clean/qFQ6ZzCxmjQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "kmFiBRC81ms",
       "kind": "youtube",
       "title": "This is poisoning your kids",
@@ -13601,6 +14159,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 57
+      }
+    },
+    {
+      "id": "Q0ftF21DcE8",
+      "kind": "youtube",
+      "title": "This is the best protein bar",
+      "url": "https://www.youtube.com/watch?v=Q0ftF21DcE8",
+      "upload_date": "2026-02-05",
+      "duration_seconds": 44,
+      "duration": "00:44",
+      "word_count": 146,
+      "clean_file": "clean/Q0ftF21DcE8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 44
       }
     },
     {
@@ -14108,6 +14684,24 @@
       }
     },
     {
+      "id": "q6hCxRUL_zQ",
+      "kind": "youtube",
+      "title": "Turmeric does not fix the root cause of inflammation",
+      "url": "https://www.youtube.com/watch?v=q6hCxRUL_zQ",
+      "upload_date": "2022-05-15",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 163,
+      "clean_file": "clean/q6hCxRUL_zQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
+      }
+    },
+    {
       "id": "HwgIXSiYYro",
       "kind": "youtube",
       "title": "US hospitals need this!!",
@@ -14216,6 +14810,24 @@
       }
     },
     {
+      "id": "Qnt2PvNMNgs",
+      "kind": "youtube",
+      "title": "Vegan diets have value",
+      "url": "https://www.youtube.com/watch?v=Qnt2PvNMNgs",
+      "upload_date": "2023-05-26",
+      "duration_seconds": 33,
+      "duration": "00:33",
+      "word_count": 133,
+      "clean_file": "clean/Qnt2PvNMNgs.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 33
+      }
+    },
+    {
       "id": "dnAjTKCPwVA",
       "kind": "youtube",
       "title": "Vegan diets lack nutrients",
@@ -14231,6 +14843,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 48
+      }
+    },
+    {
+      "id": "qmlQAHvVcW4",
+      "kind": "youtube",
+      "title": "Vegan has better 💩’s now!!",
+      "url": "https://www.youtube.com/watch?v=qmlQAHvVcW4",
+      "upload_date": "2023-04-13",
+      "duration_seconds": 11,
+      "duration": "00:11",
+      "word_count": 54,
+      "clean_file": "clean/qmlQAHvVcW4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 11
       }
     },
     {
@@ -14288,6 +14918,24 @@
       }
     },
     {
+      "id": "PyHVry9EPFY",
+      "kind": "youtube",
+      "title": "Vegetables are harming you!",
+      "url": "https://www.youtube.com/watch?v=PyHVry9EPFY",
+      "upload_date": "2022-05-18",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 175,
+      "clean_file": "clean/PyHVry9EPFY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "eVmdxq-KKsM",
       "kind": "youtube",
       "title": "Vegetables are not optimal for humans",
@@ -14339,6 +14987,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 58
+      }
+    },
+    {
+      "id": "Qvkqo6XO7v4",
+      "kind": "youtube",
+      "title": "Vinegar vs baking soda",
+      "url": "https://www.youtube.com/watch?v=Qvkqo6XO7v4",
+      "upload_date": "2025-06-24",
+      "duration_seconds": 56,
+      "duration": "00:56",
+      "word_count": 229,
+      "clean_file": "clean/Qvkqo6XO7v4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 56
       }
     },
     {
@@ -14684,6 +15350,24 @@
       }
     },
     {
+      "id": "pzbrwv4Pbtk",
+      "kind": "youtube",
+      "title": "What happened to Americans?",
+      "url": "https://www.youtube.com/watch?v=pzbrwv4Pbtk",
+      "upload_date": "2025-01-27",
+      "duration_seconds": 37,
+      "duration": "00:37",
+      "word_count": 145,
+      "clean_file": "clean/pzbrwv4Pbtk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 37
+      }
+    },
+    {
       "id": "JSiGR7geXuY",
       "kind": "youtube",
       "title": "What I ate on New Year’s Eve",
@@ -14788,6 +15472,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 77
+      }
+    },
+    {
+      "id": "q5eXh6yFR0s",
+      "kind": "youtube",
+      "title": "What is in In-N-Out’s secret sauce?",
+      "url": "https://www.youtube.com/watch?v=q5eXh6yFR0s",
+      "upload_date": "2023-08-22",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 364,
+      "clean_file": "clean/q5eXh6yFR0s.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
@@ -14935,6 +15637,24 @@
       }
     },
     {
+      "id": "QkeIAVOsKy0",
+      "kind": "youtube",
+      "title": "What should babies eat?",
+      "url": "https://www.youtube.com/watch?v=QkeIAVOsKy0",
+      "upload_date": "2024-05-07",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 222,
+      "clean_file": "clean/QkeIAVOsKy0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "cYWkt4y58Go",
       "kind": "youtube",
       "title": "What to eat for a healthy libido",
@@ -15003,6 +15723,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 41
+      }
+    },
+    {
+      "id": "pYwQfjxUKC0",
+      "kind": "youtube",
+      "title": "What’s happening to Americans?",
+      "url": "https://www.youtube.com/watch?v=pYwQfjxUKC0",
+      "upload_date": "2024-09-28",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 289,
+      "clean_file": "clean/pYwQfjxUKC0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
       }
     },
     {
@@ -16027,6 +16765,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 73
+      }
+    },
+    {
+      "id": "QOXqzW8pURE",
+      "kind": "youtube",
+      "title": "Why is McDonald’s so expensive?",
+      "url": "https://www.youtube.com/watch?v=QOXqzW8pURE",
+      "upload_date": "2026-01-15",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 212,
+      "clean_file": "clean/QOXqzW8pURE.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
       }
     },
     {
