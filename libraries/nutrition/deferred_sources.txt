@@ -4,3 +4,4 @@ _JljWWlVUlU  # 12s clip, no substantive spoken content in the audio — whisper 
 2Yn9y-9qJYE  # 7s clip, whisper transcript is a single stray letter — no usable spoken content to write a note from
 909Ap7IPyVU  # word-for-word re-upload of 7fB5a4Ka4cM ("McDonald's salt is not just salt?") under a new title/date — identical audio, see that note instead of duplicating it
 94ZKjA7Ucss  # 7s clip, whisper transcript is two stray words ("Paris a") — no usable spoken content to write a note from
+9VfrOiCtulk  # 9s clip, whisper transcript is a stray lyric fragment ("Features of my dreams, race and dance with me") — no usable spoken content to write a note from

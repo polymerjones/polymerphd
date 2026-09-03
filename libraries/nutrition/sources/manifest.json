@@ -5389,6 +5389,24 @@
       }
     },
     {
+      "id": "YVDoVHlY-7Q",
+      "kind": "youtube",
+      "title": "Don’t fall for this!",
+      "url": "https://www.youtube.com/watch?v=YVDoVHlY-7Q",
+      "upload_date": "2024-04-10",
+      "duration_seconds": 43,
+      "duration": "00:43",
+      "word_count": 138,
+      "clean_file": "clean/YVDoVHlY-7Q.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 43
+      }
+    },
+    {
       "id": "LiBCPAw2zHI",
       "kind": "youtube",
       "title": "Don’t fall for this…",
@@ -8400,6 +8418,24 @@
       }
     },
     {
+      "id": "yv-lJ1Xw8z8",
+      "kind": "youtube",
+      "title": "How to find pesticide free, raw honey",
+      "url": "https://www.youtube.com/watch?v=yv-lJ1Xw8z8",
+      "upload_date": "2023-09-06",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 238,
+      "clean_file": "clean/yv-lJ1Xw8z8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
+      }
+    },
+    {
       "id": "X6M03NeUOZg",
       "kind": "youtube",
       "title": "How to find raw dairy where it’s illegal",
@@ -11200,6 +11236,24 @@
       }
     },
     {
+      "id": "YxDVdf_fB3g",
+      "kind": "youtube",
+      "title": "Laundry detergent BANNED in New York",
+      "url": "https://www.youtube.com/watch?v=YxDVdf_fB3g",
+      "upload_date": "2023-03-24",
+      "duration_seconds": 51,
+      "duration": "00:51",
+      "word_count": 164,
+      "clean_file": "clean/YxDVdf_fB3g.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 51
+      }
+    },
+    {
       "id": "IsT0BVBExz4",
       "kind": "youtube",
       "title": "Learn from Amish girls…",
@@ -13156,6 +13210,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 29
+      }
+    },
+    {
+      "id": "YV_l1eOzJb0",
+      "kind": "youtube",
+      "title": "Organic vs non-organic strawberries",
+      "url": "https://www.youtube.com/watch?v=YV_l1eOzJb0",
+      "upload_date": "2024-07-14",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 283,
+      "clean_file": "clean/YV_l1eOzJb0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
