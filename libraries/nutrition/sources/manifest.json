@@ -6585,6 +6585,24 @@
       }
     },
     {
+      "id": "SwUk525EYxk",
+      "kind": "youtube",
+      "title": "How I’d quit nicotine",
+      "url": "https://www.youtube.com/watch?v=SwUk525EYxk",
+      "upload_date": "2025-08-25",
+      "duration_seconds": 62,
+      "duration": "01:02",
+      "word_count": 253,
+      "clean_file": "clean/SwUk525EYxk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 62
+      }
+    },
+    {
       "id": "PodUUXJTKok",
       "kind": "youtube",
       "title": "How keto foods trick you",
@@ -7905,6 +7923,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1354
+      }
+    },
+    {
+      "id": "svS5rBvpzvI",
+      "kind": "youtube",
+      "title": "I went to McDonald’s",
+      "url": "https://www.youtube.com/watch?v=svS5rBvpzvI",
+      "upload_date": "2024-11-02",
+      "duration_seconds": 49,
+      "duration": "00:49",
+      "word_count": 160,
+      "clean_file": "clean/svS5rBvpzvI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 49
       }
     },
     {
@@ -13640,6 +13676,24 @@
       }
     },
     {
+      "id": "SVKrebgd81E",
+      "kind": "youtube",
+      "title": "The Cleanest Protein Bar Ever.",
+      "url": "https://www.youtube.com/watch?v=SVKrebgd81E",
+      "upload_date": "2026-03-17",
+      "duration_seconds": 97,
+      "duration": "01:37",
+      "word_count": 342,
+      "clean_file": "clean/SVKrebgd81E.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 97
+      }
+    },
+    {
       "id": "qJo2_x6Gak4",
       "kind": "youtube",
       "title": "The craziest thing about my fridge",
@@ -14309,6 +14363,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 59
+      }
+    },
+    {
+      "id": "sZ__7ov67_o",
+      "kind": "youtube",
+      "title": "The secret to becoming a champion?",
+      "url": "https://www.youtube.com/watch?v=sZ__7ov67_o",
+      "upload_date": "2026-08-15",
+      "duration_seconds": 47,
+      "duration": "00:47",
+      "word_count": 169,
+      "clean_file": "clean/sZ__7ov67_o.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 47
       }
     },
     {
@@ -15188,6 +15260,24 @@
       }
     },
     {
+      "id": "svzM7dO0_Sg",
+      "kind": "youtube",
+      "title": "This is the best food for gut health",
+      "url": "https://www.youtube.com/watch?v=svzM7dO0_Sg",
+      "upload_date": "2024-09-29",
+      "duration_seconds": 56,
+      "duration": "00:56",
+      "word_count": 193,
+      "clean_file": "clean/svzM7dO0_Sg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 56
+      }
+    },
+    {
       "id": "Rwkkw_feqvk",
       "kind": "youtube",
       "title": "This is the best food for sexual health 🍆",
@@ -15743,6 +15833,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 58
+      }
+    },
+    {
+      "id": "SxU3CBn2h1k",
+      "kind": "youtube",
+      "title": "Ultra-processed foods are healthy now??",
+      "url": "https://www.youtube.com/watch?v=SxU3CBn2h1k",
+      "upload_date": "2024-06-26",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 197,
+      "clean_file": "clean/SxU3CBn2h1k.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
