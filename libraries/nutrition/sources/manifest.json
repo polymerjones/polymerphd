@@ -4759,6 +4759,24 @@
       }
     },
     {
+      "id": "xc19EK2K6LM",
+      "kind": "youtube",
+      "title": "Do you know what Chick-fil-A stands for?",
+      "url": "https://www.youtube.com/watch?v=xc19EK2K6LM",
+      "upload_date": "2024-05-21",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 208,
+      "clean_file": "clean/xc19EK2K6LM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "-oXNqCb5Bgk",
       "kind": "youtube",
       "title": "Do. Not. Eat. Plants. Period. #health #shorts #carnivorediet",
@@ -7379,6 +7397,24 @@
       }
     },
     {
+      "id": "XamtdeHVBLg",
+      "kind": "youtube",
+      "title": "How are these legal??",
+      "url": "https://www.youtube.com/watch?v=XamtdeHVBLg",
+      "upload_date": "2024-12-15",
+      "duration_seconds": 45,
+      "duration": "00:45",
+      "word_count": 148,
+      "clean_file": "clean/XamtdeHVBLg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 45
+      }
+    },
+    {
       "id": "blqHuxlNAeI",
       "kind": "youtube",
       "title": "How canola oil is made",
@@ -9204,6 +9240,24 @@
       }
     },
     {
+      "id": "Xh9EMwi5wuU",
+      "kind": "youtube",
+      "title": "iPhone hack for better sleep 📱🛏️",
+      "url": "https://www.youtube.com/watch?v=Xh9EMwi5wuU",
+      "upload_date": "2024-03-25",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 233,
+      "clean_file": "clean/Xh9EMwi5wuU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "A0D0zCk-y4w",
       "kind": "youtube",
       "title": "Is Alkaline water/Structured water BS?",
@@ -9776,6 +9830,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "XdzaJELAcCM",
+      "kind": "youtube",
+      "title": "Is red meat safe?",
+      "url": "https://www.youtube.com/watch?v=XdzaJELAcCM",
+      "upload_date": "2026-04-18",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 205,
+      "clean_file": "clean/XdzaJELAcCM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
       }
     },
     {
