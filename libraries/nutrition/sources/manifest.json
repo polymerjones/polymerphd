@@ -180,6 +180,24 @@
       }
     },
     {
+      "id": "UNaIf0rpQJ8",
+      "kind": "youtube",
+      "title": "45 and Thriving!!",
+      "url": "https://www.youtube.com/watch?v=UNaIf0rpQJ8",
+      "upload_date": "2022-06-30",
+      "duration_seconds": 56,
+      "duration": "00:56",
+      "word_count": 173,
+      "clean_file": "clean/UNaIf0rpQJ8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 56
+      }
+    },
+    {
       "id": "gtXZNWhLqiI",
       "kind": "youtube",
       "title": "4th of July grilling hacks",
@@ -968,6 +986,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 57
+      }
+    },
+    {
+      "id": "UNEOijq-Z5I",
+      "kind": "youtube",
+      "title": "Animal-based diet for less than $15/day",
+      "url": "https://www.youtube.com/watch?v=UNEOijq-Z5I",
+      "upload_date": "2024-07-19",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 167,
+      "clean_file": "clean/UNEOijq-Z5I.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
@@ -6695,6 +6731,24 @@
       }
     },
     {
+      "id": "uM-_lgxfOGs",
+      "kind": "youtube",
+      "title": "Home gym in Costa Rica",
+      "url": "https://www.youtube.com/watch?v=uM-_lgxfOGs",
+      "upload_date": "2025-01-10",
+      "duration_seconds": 77,
+      "duration": "01:17",
+      "word_count": 368,
+      "clean_file": "clean/uM-_lgxfOGs.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 77
+      }
+    },
+    {
       "id": "nxYyytdZK7A",
       "kind": "youtube",
       "title": "Home gym tour in Costa Rica 💪",
@@ -8249,6 +8303,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 23
+      }
+    },
+    {
+      "id": "UJlvVfHRCFU",
+      "kind": "youtube",
+      "title": "I haven’t had a vegetable in years… Should you?",
+      "url": "https://www.youtube.com/watch?v=UJlvVfHRCFU",
+      "upload_date": "2023-08-23",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 202,
+      "clean_file": "clean/UJlvVfHRCFU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
