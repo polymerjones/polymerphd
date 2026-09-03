@@ -5975,6 +5975,24 @@
       }
     },
     {
+      "id": "SUPsYiJKEY4",
+      "kind": "youtube",
+      "title": "Healthiest food ever…",
+      "url": "https://www.youtube.com/watch?v=SUPsYiJKEY4",
+      "upload_date": "2023-07-27",
+      "duration_seconds": 32,
+      "duration": "00:32",
+      "word_count": 94,
+      "clean_file": "clean/SUPsYiJKEY4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 32
+      }
+    },
+    {
       "id": "AEA8LpaxBms",
       "kind": "youtube",
       "title": "Healthiest protein bar in the world?",
@@ -13371,6 +13389,24 @@
       }
     },
     {
+      "id": "suSGv73YNOs",
+      "kind": "youtube",
+      "title": "The best product at Trader Joe’s!?",
+      "url": "https://www.youtube.com/watch?v=suSGv73YNOs",
+      "upload_date": "2025-11-22",
+      "duration_seconds": 33,
+      "duration": "00:33",
+      "word_count": 119,
+      "clean_file": "clean/suSGv73YNOs.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 33
+      }
+    },
+    {
       "id": "nAB6dCCcsKA",
       "kind": "youtube",
       "title": "The best routine for longevity",
@@ -16394,6 +16430,24 @@
       }
     },
     {
+      "id": "Su2QjdlKgEM",
+      "kind": "youtube",
+      "title": "What I ate at the White House",
+      "url": "https://www.youtube.com/watch?v=Su2QjdlKgEM",
+      "upload_date": "2025-05-28",
+      "duration_seconds": 42,
+      "duration": "00:42",
+      "word_count": 161,
+      "clean_file": "clean/Su2QjdlKgEM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 42
+      }
+    },
+    {
       "id": "JSiGR7geXuY",
       "kind": "youtube",
       "title": "What I ate on New Year’s Eve",
@@ -16696,6 +16750,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "sUSpKi0nO0w",
+      "kind": "youtube",
+      "title": "What they don’t tell you about GLP-1 drugs",
+      "url": "https://www.youtube.com/watch?v=sUSpKi0nO0w",
+      "upload_date": "2026-05-06",
+      "duration_seconds": 81,
+      "duration": "01:21",
+      "word_count": 300,
+      "clean_file": "clean/sUSpKi0nO0w.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 81
       }
     },
     {
@@ -18202,6 +18274,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 52
+      }
+    },
+    {
+      "id": "StoXHI5tOLc",
+      "kind": "youtube",
+      "title": "Why you do not need kale to live a healthy life...",
+      "url": "https://www.youtube.com/watch?v=StoXHI5tOLc",
+      "upload_date": "2023-09-19",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 185,
+      "clean_file": "clean/StoXHI5tOLc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
       }
     },
     {
