@@ -3679,6 +3679,24 @@
       }
     },
     {
+      "id": "s7rPjCr6cyY",
+      "kind": "youtube",
+      "title": "Debating about nutrition on TV",
+      "url": "https://www.youtube.com/watch?v=s7rPjCr6cyY",
+      "upload_date": "2026-05-16",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 210,
+      "clean_file": "clean/s7rPjCr6cyY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
+      }
+    },
+    {
       "id": "BjzSZ_2GBLY",
       "kind": "youtube",
       "title": "Dermatologists lied to you about the sun",
@@ -4936,6 +4954,24 @@
       }
     },
     {
+      "id": "S06E9VYV7j4",
+      "kind": "youtube",
+      "title": "Energy drinks?? Really?",
+      "url": "https://www.youtube.com/watch?v=S06E9VYV7j4",
+      "upload_date": "2022-05-21",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 219,
+      "clean_file": "clean/S06E9VYV7j4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "knE5-RBL3rE",
       "kind": "youtube",
       "title": "Erling Haaland diet for performance",
@@ -5666,6 +5702,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 53
+      }
+    },
+    {
+      "id": "S5CLroO2LuE",
+      "kind": "youtube",
+      "title": "Ground beef is a health hack",
+      "url": "https://www.youtube.com/watch?v=S5CLroO2LuE",
+      "upload_date": "2024-10-04",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 187,
+      "clean_file": "clean/S5CLroO2LuE.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
       }
     },
     {
@@ -9921,6 +9975,24 @@
       }
     },
     {
+      "id": "S-MdRuRaC4s",
+      "kind": "youtube",
+      "title": "My Morning Routine #animalbased",
+      "url": "https://www.youtube.com/watch?v=S-MdRuRaC4s",
+      "upload_date": "2023-10-26",
+      "duration_seconds": 39,
+      "duration": "00:39",
+      "word_count": 117,
+      "clean_file": "clean/S-MdRuRaC4s.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 39
+      }
+    },
+    {
       "id": "48DaZrlh8zg",
       "kind": "youtube",
       "title": "My outdoor workout routine",
@@ -10636,6 +10708,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 29
+      }
+    },
+    {
+      "id": "S5jgbXnxxpU",
+      "kind": "youtube",
+      "title": "Organs are so nutritious",
+      "url": "https://www.youtube.com/watch?v=S5jgbXnxxpU",
+      "upload_date": "2023-03-21",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 219,
+      "clean_file": "clean/S5jgbXnxxpU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
       }
     },
     {
@@ -11645,6 +11735,24 @@
       }
     },
     {
+      "id": "s_B27LKskqU",
+      "kind": "youtube",
+      "title": "RFK Jr. doesn’t eat breakfast?",
+      "url": "https://www.youtube.com/watch?v=s_B27LKskqU",
+      "upload_date": "2025-06-03",
+      "duration_seconds": 46,
+      "duration": "00:46",
+      "word_count": 174,
+      "clean_file": "clean/s_B27LKskqU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 46
+      }
+    },
+    {
       "id": "J_hldZY0RtI",
       "kind": "youtube",
       "title": "Russell Brand Quit Vegan Diet",
@@ -12002,6 +12110,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 38
+      }
+    },
+    {
+      "id": "s0974tS6ZJ8",
+      "kind": "youtube",
+      "title": "Should you eat Kellogg’s for dinner?",
+      "url": "https://www.youtube.com/watch?v=s0974tS6ZJ8",
+      "upload_date": "2024-03-24",
+      "duration_seconds": 56,
+      "duration": "00:56",
+      "word_count": 185,
+      "clean_file": "clean/s0974tS6ZJ8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 56
       }
     },
     {
@@ -13611,6 +13737,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 51
+      }
+    },
+    {
+      "id": "s_9zbVQEbTM",
+      "kind": "youtube",
+      "title": "The importance of fertility",
+      "url": "https://www.youtube.com/watch?v=s_9zbVQEbTM",
+      "upload_date": "2026-03-29",
+      "duration_seconds": 43,
+      "duration": "00:43",
+      "word_count": 133,
+      "clean_file": "clean/s_9zbVQEbTM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 43
       }
     },
     {
@@ -18197,6 +18341,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 46
+      }
+    },
+    {
+      "id": "RZq8VnRrvy4",
+      "kind": "youtube",
+      "title": "“Healthy” snack bars are deceiving…",
+      "url": "https://www.youtube.com/watch?v=RZq8VnRrvy4",
+      "upload_date": "2023-01-22",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 209,
+      "clean_file": "clean/RZq8VnRrvy4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
