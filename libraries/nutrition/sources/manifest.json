@@ -9545,6 +9545,24 @@
       }
     },
     {
+      "id": "wUs0yVAH2d8",
+      "kind": "youtube",
+      "title": "Is pea protein good for testosterone?",
+      "url": "https://www.youtube.com/watch?v=wUs0yVAH2d8",
+      "upload_date": "2023-12-13",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 187,
+      "clean_file": "clean/wUs0yVAH2d8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "3V9FuHZWhDE",
       "kind": "youtube",
       "title": "Is plant-based meat truly healthy?",
@@ -16505,6 +16523,24 @@
       }
     },
     {
+      "id": "Ww5lsjwlWXA",
+      "kind": "youtube",
+      "title": "The Whole Foods hot bar is a disaster...",
+      "url": "https://www.youtube.com/watch?v=Ww5lsjwlWXA",
+      "upload_date": "2023-01-17",
+      "duration_seconds": 26,
+      "duration": "00:26",
+      "word_count": 67,
+      "clean_file": "clean/Ww5lsjwlWXA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 26
+      }
+    },
+    {
       "id": "92k__YZEAes",
       "kind": "youtube",
       "title": "The worst idea for fertility",
@@ -16729,6 +16765,24 @@
       "duration": "00:21",
       "word_count": 42,
       "clean_file": "clean/IHKhPMr0baI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 21
+      }
+    },
+    {
+      "id": "WVOLI6G_mxY",
+      "kind": "youtube",
+      "title": "They were right…",
+      "url": "https://www.youtube.com/watch?v=WVOLI6G_mxY",
+      "upload_date": "2025-12-27",
+      "duration_seconds": 21,
+      "duration": "00:21",
+      "word_count": 42,
+      "clean_file": "clean/WVOLI6G_mxY.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -19093,6 +19147,24 @@
       }
     },
     {
+      "id": "wVort7F0Z-M",
+      "kind": "youtube",
+      "title": "What's in Oreo Filling??",
+      "url": "https://www.youtube.com/watch?v=wVort7F0Z-M",
+      "upload_date": "2022-10-01",
+      "duration_seconds": 51,
+      "duration": "00:51",
+      "word_count": 121,
+      "clean_file": "clean/wVort7F0Z-M.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 51
+      }
+    },
+    {
       "id": "7ptOYsFQKBY",
       "kind": "youtube",
       "title": "What's in the Whole Foods HOT BAR??",
@@ -19647,6 +19719,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 59
+      }
+    },
+    {
+      "id": "WVSo45sUpoA",
+      "kind": "youtube",
+      "title": "What’s the best breakfast for longevity?",
+      "url": "https://www.youtube.com/watch?v=WVSo45sUpoA",
+      "upload_date": "2026-03-01",
+      "duration_seconds": 27,
+      "duration": "00:27",
+      "word_count": 93,
+      "clean_file": "clean/WVSo45sUpoA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 27
       }
     },
     {
