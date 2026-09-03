@@ -1725,6 +1725,24 @@
       }
     },
     {
+      "id": "uIE-0x1dpsg",
+      "kind": "youtube",
+      "title": "Are we being poisoned?",
+      "url": "https://www.youtube.com/watch?v=uIE-0x1dpsg",
+      "upload_date": "2024-10-05",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 204,
+      "clean_file": "clean/uIE-0x1dpsg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "L96jBEnyTcg",
       "kind": "youtube",
       "title": "Are you carrying it in your pocket?",
@@ -8843,6 +8861,24 @@
       }
     },
     {
+      "id": "ujjIV3rwIi0",
+      "kind": "youtube",
+      "title": "Is mayonnaise with avocado oil healthy?",
+      "url": "https://www.youtube.com/watch?v=ujjIV3rwIi0",
+      "upload_date": "2024-04-23",
+      "duration_seconds": 39,
+      "duration": "00:39",
+      "word_count": 123,
+      "clean_file": "clean/ujjIV3rwIi0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 39
+      }
+    },
+    {
       "id": "K5PryE6TlIo",
       "kind": "youtube",
       "title": "Is Oatly hiding seed oils?",
@@ -11611,6 +11647,24 @@
       }
     },
     {
+      "id": "Uinu3EtLd4I",
+      "kind": "youtube",
+      "title": "Organs = superfood",
+      "url": "https://www.youtube.com/watch?v=Uinu3EtLd4I",
+      "upload_date": "2022-09-16",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 170,
+      "clean_file": "clean/Uinu3EtLd4I.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "S5jgbXnxxpU",
       "kind": "youtube",
       "title": "Organs are so nutritious",
@@ -13963,6 +14017,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 75
+      }
+    },
+    {
+      "id": "UI2qyKoN6LQ",
+      "kind": "youtube",
+      "title": "The best breakfast. Period. #animalbased #healthydiet #animalbaseddiet",
+      "url": "https://www.youtube.com/watch?v=UI2qyKoN6LQ",
+      "upload_date": "2023-08-06",
+      "duration_seconds": 31,
+      "duration": "00:31",
+      "word_count": 93,
+      "clean_file": "clean/UI2qyKoN6LQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 31
       }
     },
     {
