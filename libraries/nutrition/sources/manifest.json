@@ -8724,6 +8724,24 @@
       }
     },
     {
+      "id": "ZYuHFwZbFZg",
+      "kind": "youtube",
+      "title": "How to find seed oils free restaurants",
+      "url": "https://www.youtube.com/watch?v=ZYuHFwZbFZg",
+      "upload_date": "2024-03-12",
+      "duration_seconds": 29,
+      "duration": "00:29",
+      "word_count": 106,
+      "clean_file": "clean/ZYuHFwZbFZg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 29
+      }
+    },
+    {
       "id": "G5x3aGoLPSg",
       "kind": "youtube",
       "title": "How to fix the root cause of your problems #animalbased",
@@ -12384,6 +12402,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 32
+      }
+    },
+    {
+      "id": "zYcb5nYWtAA",
+      "kind": "youtube",
+      "title": "Most food = legal drugs 💊",
+      "url": "https://www.youtube.com/watch?v=zYcb5nYWtAA",
+      "upload_date": "2022-07-21",
+      "duration_seconds": 31,
+      "duration": "00:31",
+      "word_count": 89,
+      "clean_file": "clean/zYcb5nYWtAA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 31
       }
     },
     {
@@ -18517,6 +18553,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 52
+      }
+    },
+    {
+      "id": "ZxzG6AwrI1o",
+      "kind": "youtube",
+      "title": "This common food additive is a known animal carcinogen... Avoid Caramel Color!",
+      "url": "https://www.youtube.com/watch?v=ZxzG6AwrI1o",
+      "upload_date": "2023-03-02",
+      "duration_seconds": 56,
+      "duration": "00:56",
+      "word_count": 169,
+      "clean_file": "clean/ZxzG6AwrI1o.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 56
       }
     },
     {
