@@ -917,6 +917,24 @@
       }
     },
     {
+      "id": "SATM3VJyVYc",
+      "kind": "youtube",
+      "title": "Animal-based diets will eliminate cravings",
+      "url": "https://www.youtube.com/watch?v=SATM3VJyVYc",
+      "upload_date": "2022-06-26",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 154,
+      "clean_file": "clean/SATM3VJyVYc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
+      }
+    },
+    {
       "id": "IZwzvoVPh5o",
       "kind": "youtube",
       "title": "Animal-based drinks at 7/11",
@@ -1507,6 +1525,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 31
+      }
+    },
+    {
+      "id": "S8hUT83WsGg",
+      "kind": "youtube",
+      "title": "Are they profiting off of sick patients?",
+      "url": "https://www.youtube.com/watch?v=S8hUT83WsGg",
+      "upload_date": "2025-03-06",
+      "duration_seconds": 86,
+      "duration": "01:26",
+      "word_count": 312,
+      "clean_file": "clean/S8hUT83WsGg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 86
       }
     },
     {
@@ -11557,6 +11593,24 @@
       }
     },
     {
+      "id": "scIrkUCvzps",
+      "kind": "youtube",
+      "title": "Red Gatorade?",
+      "url": "https://www.youtube.com/watch?v=scIrkUCvzps",
+      "upload_date": "2024-08-03",
+      "duration_seconds": 55,
+      "duration": "00:55",
+      "word_count": 156,
+      "clean_file": "clean/scIrkUCvzps.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 55
+      }
+    },
+    {
       "id": "P-oRj5NKv00",
       "kind": "youtube",
       "title": "Red meat = high cholesterol?",
@@ -14344,6 +14398,24 @@
       }
     },
     {
+      "id": "sA28HX7koow",
+      "kind": "youtube",
+      "title": "These foods make you hungrier",
+      "url": "https://www.youtube.com/watch?v=sA28HX7koow",
+      "upload_date": "2024-08-17",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 198,
+      "clean_file": "clean/sA28HX7koow.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "dhzkUFzkyFI",
       "kind": "youtube",
       "title": "These foods will change your life",
@@ -14359,6 +14431,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 52
+      }
+    },
+    {
+      "id": "s8iWlxMNUSg",
+      "kind": "youtube",
+      "title": "They are using fake butter!?",
+      "url": "https://www.youtube.com/watch?v=s8iWlxMNUSg",
+      "upload_date": "2026-04-07",
+      "duration_seconds": 44,
+      "duration": "00:44",
+      "word_count": 212,
+      "clean_file": "clean/s8iWlxMNUSg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 44
       }
     },
     {
@@ -14693,6 +14783,24 @@
       "duration": "00:46",
       "word_count": 149,
       "clean_file": "clean/icJ4_1k85ig.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 46
+      }
+    },
+    {
+      "id": "sBWUrRkma3w",
+      "kind": "youtube",
+      "title": "This is how much fruit I eat",
+      "url": "https://www.youtube.com/watch?v=sBWUrRkma3w",
+      "upload_date": "2022-04-25",
+      "duration_seconds": 46,
+      "duration": "00:46",
+      "word_count": 138,
+      "clean_file": "clean/sBWUrRkma3w.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -17593,6 +17701,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 73
+      }
+    },
+    {
+      "id": "sBbn66BASZk",
+      "kind": "youtube",
+      "title": "Why is fast food addictive?",
+      "url": "https://www.youtube.com/watch?v=sBbn66BASZk",
+      "upload_date": "2025-02-23",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 213,
+      "clean_file": "clean/sBbn66BASZk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
