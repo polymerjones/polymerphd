@@ -1331,6 +1331,42 @@
       }
     },
     {
+      "id": "Z3zT8KN6dtg",
+      "kind": "youtube",
+      "title": "Animal-based haul at Sprouts 🥩🥛🍇",
+      "url": "https://www.youtube.com/watch?v=Z3zT8KN6dtg",
+      "upload_date": "2024-02-15",
+      "duration_seconds": 45,
+      "duration": "00:45",
+      "word_count": 131,
+      "clean_file": "clean/Z3zT8KN6dtg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 45
+      }
+    },
+    {
+      "id": "zbUh-a2W2QU",
+      "kind": "youtube",
+      "title": "Animal-based haul at Trader Joe’s",
+      "url": "https://www.youtube.com/watch?v=zbUh-a2W2QU",
+      "upload_date": "2024-05-25",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 160,
+      "clean_file": "clean/zbUh-a2W2QU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "RBGXQaUzofU",
       "kind": "youtube",
       "title": "Animal-based haul for $10/day",
@@ -2440,6 +2476,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 43
+      }
+    },
+    {
+      "id": "zAAMo95hjRg",
+      "kind": "youtube",
+      "title": "Avoid plastic baby bottles at all costs",
+      "url": "https://www.youtube.com/watch?v=zAAMo95hjRg",
+      "upload_date": "2025-12-17",
+      "duration_seconds": 73,
+      "duration": "01:13",
+      "word_count": 252,
+      "clean_file": "clean/zAAMo95hjRg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 73
       }
     },
     {
@@ -7899,6 +7953,24 @@
       }
     },
     {
+      "id": "Zb0O_8c2MKc",
+      "kind": "youtube",
+      "title": "How I shop for eggs at the farmers market",
+      "url": "https://www.youtube.com/watch?v=Zb0O_8c2MKc",
+      "upload_date": "2024-10-11",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 254,
+      "clean_file": "clean/Zb0O_8c2MKc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
+      }
+    },
+    {
       "id": "rXVe8Vy9cDQ",
       "kind": "youtube",
       "title": "How I shop for plant-based milk",
@@ -13141,6 +13213,24 @@
       }
     },
     {
+      "id": "z4PhidcjFS4",
+      "kind": "youtube",
+      "title": "Nutrition shakes are confusing",
+      "url": "https://www.youtube.com/watch?v=z4PhidcjFS4",
+      "upload_date": "2023-03-29",
+      "duration_seconds": 47,
+      "duration": "00:47",
+      "word_count": 138,
+      "clean_file": "clean/z4PhidcjFS4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 47
+      }
+    },
+    {
       "id": "c0r7yEixoVI",
       "kind": "youtube",
       "title": "Oatmeal is BS! Here's why 👊",
@@ -17584,6 +17674,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 61
+      }
+    },
+    {
+      "id": "z4hVGmx9C_Q",
+      "kind": "youtube",
+      "title": "The truth about saturated fat",
+      "url": "https://www.youtube.com/watch?v=z4hVGmx9C_Q",
+      "upload_date": "2026-04-08",
+      "duration_seconds": 47,
+      "duration": "00:47",
+      "word_count": 169,
+      "clean_file": "clean/z4hVGmx9C_Q.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 47
       }
     },
     {
