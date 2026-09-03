@@ -6605,6 +6605,24 @@
       }
     },
     {
+      "id": "ufgie5oGOSs",
+      "kind": "youtube",
+      "title": "Here’s what I’ll feed my kids…",
+      "url": "https://www.youtube.com/watch?v=ufgie5oGOSs",
+      "upload_date": "2026-07-23",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 179,
+      "clean_file": "clean/ufgie5oGOSs.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
+      }
+    },
+    {
       "id": "FW8xPL_sNgg",
       "kind": "youtube",
       "title": "Hidden benefits of liver",
@@ -11251,6 +11269,24 @@
       }
     },
     {
+      "id": "UHPkvsNXJNQ",
+      "kind": "youtube",
+      "title": "NFL pre-game meal",
+      "url": "https://www.youtube.com/watch?v=UHPkvsNXJNQ",
+      "upload_date": "2023-06-03",
+      "duration_seconds": 40,
+      "duration": "00:40",
+      "word_count": 138,
+      "clean_file": "clean/UHPkvsNXJNQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 40
+      }
+    },
+    {
       "id": "9UijaqNt8rg",
       "kind": "youtube",
       "title": "Night time routine here in Costa Rica #animalbased",
@@ -11428,6 +11464,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 49
+      }
+    },
+    {
+      "id": "uEM-mnrBlss",
+      "kind": "youtube",
+      "title": "Nothing better than fresh raw milk at farmers markets 😍",
+      "url": "https://www.youtube.com/watch?v=uEM-mnrBlss",
+      "upload_date": "2023-08-06",
+      "duration_seconds": 16,
+      "duration": "00:16",
+      "word_count": 55,
+      "clean_file": "clean/uEM-mnrBlss.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 16
       }
     },
     {
@@ -14909,6 +14963,24 @@
       }
     },
     {
+      "id": "UFueDJUwz2A",
+      "kind": "youtube",
+      "title": "The Medical System is Broken",
+      "url": "https://www.youtube.com/watch?v=UFueDJUwz2A",
+      "upload_date": "2022-07-27",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 161,
+      "clean_file": "clean/UFueDJUwz2A.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "nsUN9KipOpM",
       "kind": "youtube",
       "title": "The most addictive food on the planet",
@@ -15067,6 +15139,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 34
+      }
+    },
+    {
+      "id": "UfikVE1WVDY",
+      "kind": "youtube",
+      "title": "The reason Americans are sicker than ever",
+      "url": "https://www.youtube.com/watch?v=UfikVE1WVDY",
+      "upload_date": "2026-03-06",
+      "duration_seconds": 84,
+      "duration": "01:24",
+      "word_count": 328,
+      "clean_file": "clean/UfikVE1WVDY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 84
       }
     },
     {
@@ -15762,6 +15852,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1559
+      }
+    },
+    {
+      "id": "UF4W1yq4Idk",
+      "kind": "youtube",
+      "title": "This is a blatant PSYOP at Target",
+      "url": "https://www.youtube.com/watch?v=UF4W1yq4Idk",
+      "upload_date": "2023-07-23",
+      "duration_seconds": 33,
+      "duration": "00:33",
+      "word_count": 108,
+      "clean_file": "clean/UF4W1yq4Idk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 33
       }
     },
     {
@@ -17507,6 +17615,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "uCkmc8q4ZrA",
+      "kind": "youtube",
+      "title": "What is an Animal-Based Diet?",
+      "url": "https://www.youtube.com/watch?v=uCkmc8q4ZrA",
+      "upload_date": "2023-03-01",
+      "duration_seconds": 41,
+      "duration": "00:41",
+      "word_count": 138,
+      "clean_file": "clean/uCkmc8q4ZrA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 41
       }
     },
     {
