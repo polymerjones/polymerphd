@@ -91,6 +91,24 @@
       }
     },
     {
+      "id": "rlLasti3CcQ",
+      "kind": "youtube",
+      "title": "3 foods that make you hungrier",
+      "url": "https://www.youtube.com/watch?v=rlLasti3CcQ",
+      "upload_date": "2024-05-28",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 237,
+      "clean_file": "clean/rlLasti3CcQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "21H9kSOW2iQ",
       "kind": "youtube",
       "title": "3 more kitchen hacks",
@@ -2331,6 +2349,24 @@
       }
     },
     {
+      "id": "rTBPV1DkRCA",
+      "kind": "youtube",
+      "title": "Best breakfast for brain health and energy",
+      "url": "https://www.youtube.com/watch?v=rTBPV1DkRCA",
+      "upload_date": "2024-03-18",
+      "duration_seconds": 35,
+      "duration": "00:35",
+      "word_count": 125,
+      "clean_file": "clean/rTBPV1DkRCA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 35
+      }
+    },
+    {
       "id": "7GomN1xISUs",
       "kind": "youtube",
       "title": "Best burger ever",
@@ -2364,6 +2400,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 53
+      }
+    },
+    {
+      "id": "rkFASSeIQZ0",
+      "kind": "youtube",
+      "title": "Best food for heart health?",
+      "url": "https://www.youtube.com/watch?v=rkFASSeIQZ0",
+      "upload_date": "2024-01-22",
+      "duration_seconds": 49,
+      "duration": "00:49",
+      "word_count": 161,
+      "clean_file": "clean/rkFASSeIQZ0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 49
       }
     },
     {
@@ -4933,6 +4987,24 @@
       }
     },
     {
+      "id": "rmehLLkTS5A",
+      "kind": "youtube",
+      "title": "Fake health foods at Whole Foods",
+      "url": "https://www.youtube.com/watch?v=rmehLLkTS5A",
+      "upload_date": "2025-07-23",
+      "duration_seconds": 80,
+      "duration": "01:20",
+      "word_count": 298,
+      "clean_file": "clean/rmehLLkTS5A.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 80
+      }
+    },
+    {
       "id": "B7FyzKsWlqo",
       "kind": "youtube",
       "title": "FAKE MEAT, LESS T and THYROID?",
@@ -6276,6 +6348,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "rMWwjjHkcA0",
+      "kind": "youtube",
+      "title": "How long did our ancestors truly live?",
+      "url": "https://www.youtube.com/watch?v=rMWwjjHkcA0",
+      "upload_date": "2025-05-30",
+      "duration_seconds": 69,
+      "duration": "01:09",
+      "word_count": 261,
+      "clean_file": "clean/rMWwjjHkcA0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 69
       }
     },
     {
@@ -8734,6 +8824,24 @@
       }
     },
     {
+      "id": "rrOBVnWTduU",
+      "kind": "youtube",
+      "title": "Kefir is great for the gut",
+      "url": "https://www.youtube.com/watch?v=rrOBVnWTduU",
+      "upload_date": "2022-10-11",
+      "duration_seconds": 55,
+      "duration": "00:55",
+      "word_count": 200,
+      "clean_file": "clean/rrOBVnWTduU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 55
+      }
+    },
+    {
       "id": "Jj9e6wO7qOs",
       "kind": "youtube",
       "title": "KETO foods = garbage?",
@@ -8911,6 +9019,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 36
+      }
+    },
+    {
+      "id": "RohQ-FpYOiQ",
+      "kind": "youtube",
+      "title": "Listen to your body…",
+      "url": "https://www.youtube.com/watch?v=RohQ-FpYOiQ",
+      "upload_date": "2025-11-09",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 224,
+      "clean_file": "clean/RohQ-FpYOiQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
       }
     },
     {
@@ -9993,6 +10119,24 @@
       }
     },
     {
+      "id": "RoifQibJXuY",
+      "kind": "youtube",
+      "title": "Netflix “You are what you eat” DEBUNKED!",
+      "url": "https://www.youtube.com/watch?v=RoifQibJXuY",
+      "upload_date": "2024-01-18",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 213,
+      "clean_file": "clean/RoifQibJXuY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "SPaqnDv-qmQ",
       "kind": "youtube",
       "title": "Never Buy These Egg Brands in 2026 (Get THIS Instead)",
@@ -10384,6 +10528,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 28
+      }
+    },
+    {
+      "id": "rPp6f5Jnz2o",
+      "kind": "youtube",
+      "title": "Optimal health is my #1 priority",
+      "url": "https://www.youtube.com/watch?v=rPp6f5Jnz2o",
+      "upload_date": "2022-06-19",
+      "duration_seconds": 52,
+      "duration": "00:52",
+      "word_count": 151,
+      "clean_file": "clean/rPp6f5Jnz2o.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 52
       }
     },
     {
@@ -10834,6 +10996,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 47
+      }
+    },
+    {
+      "id": "rP1_iwq1rbc",
+      "kind": "youtube",
+      "title": "Plant-based vs Animal-based",
+      "url": "https://www.youtube.com/watch?v=rP1_iwq1rbc",
+      "upload_date": "2024-01-14",
+      "duration_seconds": 39,
+      "duration": "00:39",
+      "word_count": 129,
+      "clean_file": "clean/rP1_iwq1rbc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 39
       }
     },
     {
@@ -12792,6 +12972,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 44
+      }
+    },
+    {
+      "id": "rtKRJYL3J5M",
+      "kind": "youtube",
+      "title": "The best sleep hack",
+      "url": "https://www.youtube.com/watch?v=rtKRJYL3J5M",
+      "upload_date": "2026-06-08",
+      "duration_seconds": 13,
+      "duration": "00:13",
+      "word_count": 41,
+      "clean_file": "clean/rtKRJYL3J5M.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 13
       }
     },
     {
@@ -16731,6 +16929,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 57
+      }
+    },
+    {
+      "id": "RkwwPLx0fP8",
+      "kind": "youtube",
+      "title": "Why are you chewing gum??",
+      "url": "https://www.youtube.com/watch?v=RkwwPLx0fP8",
+      "upload_date": "2022-06-29",
+      "duration_seconds": 32,
+      "duration": "00:32",
+      "word_count": 87,
+      "clean_file": "clean/RkwwPLx0fP8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 32
       }
     },
     {
