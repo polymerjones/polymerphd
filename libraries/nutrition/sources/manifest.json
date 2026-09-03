@@ -198,6 +198,24 @@
       }
     },
     {
+      "id": "wm3W_QP5RmM",
+      "kind": "youtube",
+      "title": "4 worst items in your kitchen…",
+      "url": "https://www.youtube.com/watch?v=wm3W_QP5RmM",
+      "upload_date": "2025-10-25",
+      "duration_seconds": 70,
+      "duration": "01:10",
+      "word_count": 283,
+      "clean_file": "clean/wm3W_QP5RmM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 70
+      }
+    },
+    {
       "id": "UNaIf0rpQJ8",
       "kind": "youtube",
       "title": "45 and Thriving!!",
@@ -2454,6 +2472,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 470
+      }
+    },
+    {
+      "id": "wlFIDWndvP8",
+      "kind": "youtube",
+      "title": "Avoid these personal care products at all costs",
+      "url": "https://www.youtube.com/watch?v=wlFIDWndvP8",
+      "upload_date": "2026-07-27",
+      "duration_seconds": 50,
+      "duration": "00:50",
+      "word_count": 222,
+      "clean_file": "clean/wlFIDWndvP8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 50
       }
     },
     {
@@ -6782,6 +6818,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 58
+      }
+    },
+    {
+      "id": "wIB8eqISvm4",
+      "kind": "youtube",
+      "title": "Healthy ice cream recipe",
+      "url": "https://www.youtube.com/watch?v=wIB8eqISvm4",
+      "upload_date": "2025-10-13",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 207,
+      "clean_file": "clean/wIB8eqISvm4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
@@ -15046,6 +15100,24 @@
       }
     },
     {
+      "id": "wfJz5LaJqGc",
+      "kind": "youtube",
+      "title": "The best multivitamin to take",
+      "url": "https://www.youtube.com/watch?v=wfJz5LaJqGc",
+      "upload_date": "2024-11-29",
+      "duration_seconds": 35,
+      "duration": "00:35",
+      "word_count": 81,
+      "clean_file": "clean/wfJz5LaJqGc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 35
+      }
+    },
+    {
       "id": "d4mYLeFxONQ",
       "kind": "youtube",
       "title": "The Best Olive Oils Money Can Buy",
@@ -18011,6 +18083,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "WiKQAOWfOi4",
+      "kind": "youtube",
+      "title": "Vegans are silly 😂",
+      "url": "https://www.youtube.com/watch?v=WiKQAOWfOi4",
+      "upload_date": "2022-08-12",
+      "duration_seconds": 24,
+      "duration": "00:24",
+      "word_count": 84,
+      "clean_file": "clean/WiKQAOWfOi4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 24
       }
     },
     {
