@@ -3464,6 +3464,24 @@
       }
     },
     {
+      "id": "WaHdWoQOP10",
+      "kind": "youtube",
+      "title": "Can you build muscle with plant protein?",
+      "url": "https://www.youtube.com/watch?v=WaHdWoQOP10",
+      "upload_date": "2024-10-06",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 195,
+      "clean_file": "clean/WaHdWoQOP10.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
+      }
+    },
+    {
       "id": "cfWPcNAVRMI",
       "kind": "youtube",
       "title": "Can you detox from fluoride? Here is how to do it",
@@ -7142,6 +7160,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 35
+      }
+    },
+    {
+      "id": "wd4JnHoI0mo",
+      "kind": "youtube",
+      "title": "Hospital food = 💩",
+      "url": "https://www.youtube.com/watch?v=wd4JnHoI0mo",
+      "upload_date": "2022-09-17",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 170,
+      "clean_file": "clean/wd4JnHoI0mo.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
       }
     },
     {
@@ -14722,6 +14758,24 @@
       }
     },
     {
+      "id": "WAyA94hpXuU",
+      "kind": "youtube",
+      "title": "The best diet for high testosterone?",
+      "url": "https://www.youtube.com/watch?v=WAyA94hpXuU",
+      "upload_date": "2026-04-19",
+      "duration_seconds": 83,
+      "duration": "01:23",
+      "word_count": 316,
+      "clean_file": "clean/WAyA94hpXuU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 83
+      }
+    },
+    {
       "id": "BsYho2ITcJg",
       "kind": "youtube",
       "title": "The best diet for humans?",
@@ -19629,6 +19683,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 59
+      }
+    },
+    {
+      "id": "wcG6f71eEn4",
+      "kind": "youtube",
+      "title": "Which one are you picking?",
+      "url": "https://www.youtube.com/watch?v=wcG6f71eEn4",
+      "upload_date": "2026-02-15",
+      "duration_seconds": 42,
+      "duration": "00:42",
+      "word_count": 130,
+      "clean_file": "clean/wcG6f71eEn4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 42
       }
     },
     {
