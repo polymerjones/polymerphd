@@ -180,6 +180,24 @@
       }
     },
     {
+      "id": "pttJzgqFBWg",
+      "kind": "youtube",
+      "title": "5 foods you wouldn't expect to have added processed sugars.",
+      "url": "https://www.youtube.com/watch?v=pttJzgqFBWg",
+      "upload_date": "2022-08-04",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 195,
+      "clean_file": "clean/pttJzgqFBWg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "9J6_qoYqkSo",
       "kind": "youtube",
       "title": "5 Surprising Side Effects of Eating Meat for Women",
@@ -2511,6 +2529,24 @@
       }
     },
     {
+      "id": "puGlv-qjtPY",
+      "kind": "youtube",
+      "title": "Bone marrow is so good for you",
+      "url": "https://www.youtube.com/watch?v=puGlv-qjtPY",
+      "upload_date": "2022-08-30",
+      "duration_seconds": 43,
+      "duration": "00:43",
+      "word_count": 166,
+      "clean_file": "clean/puGlv-qjtPY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 43
+      }
+    },
+    {
       "id": "FAIuPGlF8zU",
       "kind": "youtube",
       "title": "Bone marrow is so nutritious",
@@ -4342,6 +4378,24 @@
       }
     },
     {
+      "id": "PQWQ_LAE9vU",
+      "kind": "youtube",
+      "title": "Eating steaks keeps you warm?? 🤔",
+      "url": "https://www.youtube.com/watch?v=PQWQ_LAE9vU",
+      "upload_date": "2024-01-25",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 192,
+      "clean_file": "clean/PQWQ_LAE9vU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
+      }
+    },
+    {
       "id": "peLjFJ7fWOE",
       "kind": "youtube",
       "title": "Edible Biscuits Made Out of Plastic? Anything but Meat. Macroplastics Are SO On Brand for 2026x",
@@ -5739,6 +5793,24 @@
       }
     },
     {
+      "id": "PodUUXJTKok",
+      "kind": "youtube",
+      "title": "How keto foods trick you",
+      "url": "https://www.youtube.com/watch?v=PodUUXJTKok",
+      "upload_date": "2023-05-24",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 162,
+      "clean_file": "clean/PodUUXJTKok.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "J9t3tKOtpyU",
       "kind": "youtube",
       "title": "How many carbohydrates you should eat on an animal-based diet",
@@ -7115,6 +7187,24 @@
       }
     },
     {
+      "id": "pVV0MlknkjU",
+      "kind": "youtube",
+      "title": "Is Bill Gates wrong about cows?",
+      "url": "https://www.youtube.com/watch?v=pVV0MlknkjU",
+      "upload_date": "2025-01-11",
+      "duration_seconds": 65,
+      "duration": "01:05",
+      "word_count": 212,
+      "clean_file": "clean/pVV0MlknkjU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 65
+      }
+    },
+    {
       "id": "5SowFgUc4BI",
       "kind": "youtube",
       "title": "Is broccoli actually good for you??",
@@ -7454,6 +7544,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 50
+      }
+    },
+    {
+      "id": "Pr4JSmxDYKw",
+      "kind": "youtube",
+      "title": "Is red meat a health food?",
+      "url": "https://www.youtube.com/watch?v=Pr4JSmxDYKw",
+      "upload_date": "2023-07-21",
+      "duration_seconds": 9,
+      "duration": "00:09",
+      "word_count": 3,
+      "clean_file": "clean/Pr4JSmxDYKw.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 9
       }
     },
     {
@@ -8248,6 +8356,24 @@
       }
     },
     {
+      "id": "pwoTQDQAkKE",
+      "kind": "youtube",
+      "title": "Live to 120 eating these foods",
+      "url": "https://www.youtube.com/watch?v=pwoTQDQAkKE",
+      "upload_date": "2024-12-18",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 198,
+      "clean_file": "clean/pwoTQDQAkKE.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
+      }
+    },
+    {
       "id": "pdCwqu7rLjA",
       "kind": "youtube",
       "title": "Liver is NOT the body’s filter",
@@ -8299,6 +8425,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 45
+      }
+    },
+    {
+      "id": "PUtXvOTQTGA",
+      "kind": "youtube",
+      "title": "Make America healthy again",
+      "url": "https://www.youtube.com/watch?v=PUtXvOTQTGA",
+      "upload_date": "2024-12-24",
+      "duration_seconds": 32,
+      "duration": "00:32",
+      "word_count": 153,
+      "clean_file": "clean/PUtXvOTQTGA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 32
       }
     },
     {
@@ -8604,6 +8748,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 16
+      }
+    },
+    {
+      "id": "pWDrWbQeZiA",
+      "kind": "youtube",
+      "title": "Meat promoting hair growth",
+      "url": "https://www.youtube.com/watch?v=pWDrWbQeZiA",
+      "upload_date": "2023-07-10",
+      "duration_seconds": 18,
+      "duration": "00:18",
+      "word_count": 73,
+      "clean_file": "clean/pWDrWbQeZiA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 18
       }
     },
     {
@@ -9955,6 +10117,24 @@
       }
     },
     {
+      "id": "psjDahfNkXs",
+      "kind": "youtube",
+      "title": "Plant based meat vs real meat: which is healthier?",
+      "url": "https://www.youtube.com/watch?v=psjDahfNkXs",
+      "upload_date": "2023-11-10",
+      "duration_seconds": 42,
+      "duration": "00:42",
+      "word_count": 113,
+      "clean_file": "clean/psjDahfNkXs.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 42
+      }
+    },
+    {
       "id": "fxgw7hYAuzk",
       "kind": "youtube",
       "title": "Plant-based LIES told by NYC Mayor",
@@ -10521,6 +10701,24 @@
       "duration": "01:00",
       "word_count": 174,
       "clean_file": "clean/f7PIaBa5w0Q.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
+      "id": "Pq8kCfZdWq4",
+      "kind": "youtube",
+      "title": "Resistance training is better than cardio for long term weight loss!",
+      "url": "https://www.youtube.com/watch?v=Pq8kCfZdWq4",
+      "upload_date": "2023-03-05",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 182,
+      "clean_file": "clean/Pq8kCfZdWq4.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -11329,6 +11527,24 @@
       "duration": "01:00",
       "word_count": 217,
       "clean_file": "clean/4gBVL0yCY9s.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
+      "id": "PUSb9MyFdiU",
+      "kind": "youtube",
+      "title": "Stress reduction hack from Andrew Huberman",
+      "url": "https://www.youtube.com/watch?v=PUSb9MyFdiU",
+      "upload_date": "2022-12-14",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 214,
+      "clean_file": "clean/PUSb9MyFdiU.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -15582,6 +15798,24 @@
       }
     },
     {
+      "id": "pogGOotTTMo",
+      "kind": "youtube",
+      "title": "Why eating liver will transform your health",
+      "url": "https://www.youtube.com/watch?v=pogGOotTTMo",
+      "upload_date": "2024-08-03",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 251,
+      "clean_file": "clean/pogGOotTTMo.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "4HurlX9qpLY",
       "kind": "youtube",
       "title": "Why grass-finished meat is better",
@@ -16362,6 +16596,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 34
+      }
+    },
+    {
+      "id": "pntOg2TbaM0",
+      "kind": "youtube",
+      "title": "Your children deserve better..",
+      "url": "https://www.youtube.com/watch?v=pntOg2TbaM0",
+      "upload_date": "2024-04-14",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 194,
+      "clean_file": "clean/pntOg2TbaM0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
