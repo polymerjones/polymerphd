@@ -719,6 +719,24 @@
       }
     },
     {
+      "id": "YB1DyU0JQY8",
+      "kind": "youtube",
+      "title": "Almond milk vs. raw milk",
+      "url": "https://www.youtube.com/watch?v=YB1DyU0JQY8",
+      "upload_date": "2022-07-25",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 160,
+      "clean_file": "clean/YB1DyU0JQY8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "qQNL9STqTm4",
       "kind": "youtube",
       "title": "Am I wrong?",
@@ -9456,6 +9474,24 @@
       }
     },
     {
+      "id": "ycDAdAJW1tA",
+      "kind": "youtube",
+      "title": "Interrogated on TV about the risks of red meat #animalbased",
+      "url": "https://www.youtube.com/watch?v=ycDAdAJW1tA",
+      "upload_date": "2023-10-23",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 190,
+      "clean_file": "clean/ycDAdAJW1tA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
+      }
+    },
+    {
       "id": "Xh9EMwi5wuU",
       "kind": "youtube",
       "title": "iPhone hack for better sleep 📱🛏️",
@@ -14019,6 +14055,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "yAo8KzD91C0",
+      "kind": "youtube",
+      "title": "Remove pesticides with this hack",
+      "url": "https://www.youtube.com/watch?v=yAo8KzD91C0",
+      "upload_date": "2025-03-14",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 203,
+      "clean_file": "clean/yAo8KzD91C0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
@@ -19433,6 +19487,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 59
+      }
+    },
+    {
+      "id": "yb0Z-PNjKV4",
+      "kind": "youtube",
+      "title": "What goes into your hotdog?",
+      "url": "https://www.youtube.com/watch?v=yb0Z-PNjKV4",
+      "upload_date": "2024-12-04",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 213,
+      "clean_file": "clean/yb0Z-PNjKV4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
       }
     },
     {
