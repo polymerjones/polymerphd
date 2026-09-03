@@ -4723,6 +4723,24 @@
       }
     },
     {
+      "id": "zuQyKM-HL7o",
+      "kind": "youtube",
+      "title": "Diet Coke vs. Coke Zero",
+      "url": "https://www.youtube.com/watch?v=zuQyKM-HL7o",
+      "upload_date": "2023-01-19",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 173,
+      "clean_file": "clean/zuQyKM-HL7o.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "toU_EbUm6nQ",
       "kind": "youtube",
       "title": "Diet heals Crohn's disease!?",
@@ -5044,6 +5062,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 47
+      }
+    },
+    {
+      "id": "zUo4I05hTG4",
+      "kind": "youtube",
+      "title": "Do this to get healthy!",
+      "url": "https://www.youtube.com/watch?v=zUo4I05hTG4",
+      "upload_date": "2023-02-02",
+      "duration_seconds": 49,
+      "duration": "00:49",
+      "word_count": 163,
+      "clean_file": "clean/zUo4I05hTG4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 49
       }
     },
     {
@@ -15029,6 +15065,24 @@
       }
     },
     {
+      "id": "ZwcmzTe8CRQ",
+      "kind": "youtube",
+      "title": "Science says: Eat more cheese",
+      "url": "https://www.youtube.com/watch?v=ZwcmzTe8CRQ",
+      "upload_date": "2024-07-12",
+      "duration_seconds": 38,
+      "duration": "00:38",
+      "word_count": 94,
+      "clean_file": "clean/ZwcmzTe8CRQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 38
+      }
+    },
+    {
       "id": "yqOUifYvtg8",
       "kind": "youtube",
       "title": "SEA MOSS is definitely BS!",
@@ -20603,6 +20657,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "zxTh55NQ-oY",
+      "kind": "youtube",
+      "title": "What I would do to quit nicotine",
+      "url": "https://www.youtube.com/watch?v=zxTh55NQ-oY",
+      "upload_date": "2026-03-23",
+      "duration_seconds": 37,
+      "duration": "00:37",
+      "word_count": 148,
+      "clean_file": "clean/zxTh55NQ-oY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 37
       }
     },
     {
