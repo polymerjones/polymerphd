@@ -1,3 +1,4 @@
 LAw6ri_vXIg  # full audiobook (Herbert M. Shelton, 'Fasting Can Save Your Life'), uploaded by an audiobook-reposting channel, not the source's own commentary — deferred in favor of citing the real book via add_pdf.py if a legitimate copy is available
 _JljWWlVUlU  # 12s clip, no substantive spoken content in the audio — whisper transcript is just a garbled name fragment, nothing to write a note from
 0SKnQbdum3o  # word-for-word re-upload of _0U8Nz0qonI ("Tea bags = microplastics?") under a new title/date — identical audio, see that note instead of duplicating it
+2Yn9y-9qJYE  # 7s clip, whisper transcript is a single stray letter — no usable spoken content to write a note from

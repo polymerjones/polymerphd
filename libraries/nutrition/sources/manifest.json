@@ -2655,6 +2655,24 @@
       }
     },
     {
+      "id": "T230QObkuz4",
+      "kind": "youtube",
+      "title": "Beware of aluminum cans 😳",
+      "url": "https://www.youtube.com/watch?v=T230QObkuz4",
+      "upload_date": "2024-10-24",
+      "duration_seconds": 53,
+      "duration": "00:53",
+      "word_count": 182,
+      "clean_file": "clean/T230QObkuz4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 53
+      }
+    },
+    {
       "id": "d1OMdDKXFo0",
       "kind": "youtube",
       "title": "Beware of candles",
@@ -4057,6 +4075,24 @@
       }
     },
     {
+      "id": "t5p-t-pfvqM",
+      "kind": "youtube",
+      "title": "Do these 3 to improve sleep",
+      "url": "https://www.youtube.com/watch?v=t5p-t-pfvqM",
+      "upload_date": "2026-03-22",
+      "duration_seconds": 34,
+      "duration": "00:34",
+      "word_count": 144,
+      "clean_file": "clean/t5p-t-pfvqM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 34
+      }
+    },
+    {
       "id": "7vBJReY94_U",
       "kind": "youtube",
       "title": "Do this before eating rice",
@@ -4807,6 +4843,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 4239
+      }
+    },
+    {
+      "id": "T8Mlb8UwFSg",
+      "kind": "youtube",
+      "title": "Eat MORE cheese for heart health #animalbased",
+      "url": "https://www.youtube.com/watch?v=T8Mlb8UwFSg",
+      "upload_date": "2023-10-22",
+      "duration_seconds": 38,
+      "duration": "00:38",
+      "word_count": 94,
+      "clean_file": "clean/T8Mlb8UwFSg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 38
       }
     },
     {
@@ -6672,6 +6726,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 87
+      }
+    },
+    {
+      "id": "szDB7PXcq8M",
+      "kind": "youtube",
+      "title": "How much liver to eat",
+      "url": "https://www.youtube.com/watch?v=szDB7PXcq8M",
+      "upload_date": "2023-01-31",
+      "duration_seconds": 40,
+      "duration": "00:40",
+      "word_count": 137,
+      "clean_file": "clean/szDB7PXcq8M.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 40
       }
     },
     {
@@ -8627,6 +8699,24 @@
       }
     },
     {
+      "id": "tB_iIbBaEf8",
+      "kind": "youtube",
+      "title": "Is sourdough bread healthy?",
+      "url": "https://www.youtube.com/watch?v=tB_iIbBaEf8",
+      "upload_date": "2024-09-01",
+      "duration_seconds": 40,
+      "duration": "00:40",
+      "word_count": 133,
+      "clean_file": "clean/tB_iIbBaEf8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 40
+      }
+    },
+    {
       "id": "elA1FG-XVls",
       "kind": "youtube",
       "title": "Is sunlight bad for you?",
@@ -10332,6 +10422,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 56
+      }
+    },
+    {
+      "id": "Tb5e0WreIi4",
+      "kind": "youtube",
+      "title": "My take on oysters and seafood #animalbased",
+      "url": "https://www.youtube.com/watch?v=Tb5e0WreIi4",
+      "upload_date": "2023-09-18",
+      "duration_seconds": 28,
+      "duration": "00:28",
+      "word_count": 92,
+      "clean_file": "clean/Tb5e0WreIi4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 28
       }
     },
     {
@@ -12308,6 +12416,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 18
+      }
+    },
+    {
+      "id": "t1N4PAnFkgU",
+      "kind": "youtube",
+      "title": "Serena Williams, we need to talk…",
+      "url": "https://www.youtube.com/watch?v=t1N4PAnFkgU",
+      "upload_date": "2025-09-15",
+      "duration_seconds": 89,
+      "duration": "01:29",
+      "word_count": 302,
+      "clean_file": "clean/t1N4PAnFkgU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 89
       }
     },
     {
