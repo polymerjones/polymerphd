@@ -8844,6 +8844,24 @@
       }
     },
     {
+      "id": "W_vKL3_nyTE",
+      "kind": "youtube",
+      "title": "Ice cream COULD BE healthy without this ingredient",
+      "url": "https://www.youtube.com/watch?v=W_vKL3_nyTE",
+      "upload_date": "2024-02-24",
+      "duration_seconds": 24,
+      "duration": "00:24",
+      "word_count": 85,
+      "clean_file": "clean/W_vKL3_nyTE.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 24
+      }
+    },
+    {
       "id": "PKBSnPPsSks",
       "kind": "youtube",
       "title": "IHOP omelette contains 15 ingredients!?",
@@ -9131,6 +9149,24 @@
       }
     },
     {
+      "id": "vy2fgLNvBas",
+      "kind": "youtube",
+      "title": "Is eating healthy cheaper?",
+      "url": "https://www.youtube.com/watch?v=vy2fgLNvBas",
+      "upload_date": "2025-11-19",
+      "duration_seconds": 82,
+      "duration": "01:22",
+      "word_count": 299,
+      "clean_file": "clean/vy2fgLNvBas.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 82
+      }
+    },
+    {
       "id": "2EAyYVkoAP4",
       "kind": "youtube",
       "title": "Is Elon Musk wrong about THIS?? 😳",
@@ -9164,6 +9200,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 37
+      }
+    },
+    {
+      "id": "vx6GLRZSqN4",
+      "kind": "youtube",
+      "title": "Is fructose harmful?",
+      "url": "https://www.youtube.com/watch?v=vx6GLRZSqN4",
+      "upload_date": "2024-09-08",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 215,
+      "clean_file": "clean/vx6GLRZSqN4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
@@ -16342,6 +16396,24 @@
       }
     },
     {
+      "id": "VWGU5ymjUzU",
+      "kind": "youtube",
+      "title": "They add WHAT to butter?!?",
+      "url": "https://www.youtube.com/watch?v=VWGU5ymjUzU",
+      "upload_date": "2023-08-07",
+      "duration_seconds": 36,
+      "duration": "00:36",
+      "word_count": 126,
+      "clean_file": "clean/VWGU5ymjUzU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 36
+      }
+    },
+    {
       "id": "s8iWlxMNUSg",
       "kind": "youtube",
       "title": "They are using fake butter!?",
@@ -16429,6 +16501,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 56
+      }
+    },
+    {
+      "id": "w2sK35f-DIc",
+      "kind": "youtube",
+      "title": "This country found the solution to heart disease",
+      "url": "https://www.youtube.com/watch?v=w2sK35f-DIc",
+      "upload_date": "2024-08-20",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 225,
+      "clean_file": "clean/w2sK35f-DIc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
