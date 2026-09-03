@@ -5441,6 +5441,24 @@
       }
     },
     {
+      "id": "xuphoTP8c90",
+      "kind": "youtube",
+      "title": "Drink this to minimize hangovers",
+      "url": "https://www.youtube.com/watch?v=xuphoTP8c90",
+      "upload_date": "2026-03-04",
+      "duration_seconds": 21,
+      "duration": "00:21",
+      "word_count": 82,
+      "clean_file": "clean/xuphoTP8c90.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 21
+      }
+    },
+    {
       "id": "VltOnHaQaDQ",
       "kind": "youtube",
       "title": "Drinking from plastic bottles?",
@@ -18518,6 +18536,24 @@
       }
     },
     {
+      "id": "xvPgZfZREeg",
+      "kind": "youtube",
+      "title": "Use honey as a sweetener!",
+      "url": "https://www.youtube.com/watch?v=xvPgZfZREeg",
+      "upload_date": "2022-06-18",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 178,
+      "clean_file": "clean/xvPgZfZREeg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
+      }
+    },
+    {
       "id": "OYDAwBYd_UU",
       "kind": "youtube",
       "title": "Use sunscreens based in zinc and animal fats #shorts #health #sunscreen",
@@ -19917,6 +19953,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "xvYeIwkciEk",
+      "kind": "youtube",
+      "title": "What’s in your tap water?",
+      "url": "https://www.youtube.com/watch?v=xvYeIwkciEk",
+      "upload_date": "2024-07-28",
+      "duration_seconds": 29,
+      "duration": "00:29",
+      "word_count": 91,
+      "clean_file": "clean/xvYeIwkciEk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 29
       }
     },
     {
