@@ -1277,6 +1277,24 @@
       }
     },
     {
+      "id": "TpFEYHwMJtI",
+      "kind": "youtube",
+      "title": "Animal-based sunscreen recipe",
+      "url": "https://www.youtube.com/watch?v=TpFEYHwMJtI",
+      "upload_date": "2026-07-13",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 207,
+      "clean_file": "clean/TpFEYHwMJtI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "Qf-Zumc3ZO0",
       "kind": "youtube",
       "title": "Animal-based Whole Foods grocery haul",
@@ -3662,6 +3680,24 @@
       }
     },
     {
+      "id": "tome3yZ2qMY",
+      "kind": "youtube",
+      "title": "Coffee could impair sleep cycles",
+      "url": "https://www.youtube.com/watch?v=tome3yZ2qMY",
+      "upload_date": "2023-04-27",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 228,
+      "clean_file": "clean/tome3yZ2qMY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
+      }
+    },
+    {
       "id": "IMETkCp7zgQ",
       "kind": "youtube",
       "title": "Collagen is amazing for you: homemade bone broth #animalbased #health",
@@ -3964,6 +4000,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 53
+      }
+    },
+    {
+      "id": "toU_EbUm6nQ",
+      "kind": "youtube",
+      "title": "Diet heals Crohn's disease!?",
+      "url": "https://www.youtube.com/watch?v=toU_EbUm6nQ",
+      "upload_date": "2025-09-28",
+      "duration_seconds": 73,
+      "duration": "01:13",
+      "word_count": 294,
+      "clean_file": "clean/toU_EbUm6nQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 73
       }
     },
     {
@@ -5966,6 +6020,24 @@
       "duration": "00:55",
       "word_count": 195,
       "clean_file": "clean/jrKOWqPySEo.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 55
+      }
+    },
+    {
+      "id": "TobL4ee8oyk",
+      "kind": "youtube",
+      "title": "Grass-fed vs grain fed beef",
+      "url": "https://www.youtube.com/watch?v=TobL4ee8oyk",
+      "upload_date": "2024-07-25",
+      "duration_seconds": 55,
+      "duration": "00:55",
+      "word_count": 206,
+      "clean_file": "clean/TobL4ee8oyk.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -12560,6 +12632,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 44
+      }
+    },
+    {
+      "id": "tPHWasyLqHk",
+      "kind": "youtube",
+      "title": "Seed oils have deceptive marketing…",
+      "url": "https://www.youtube.com/watch?v=tPHWasyLqHk",
+      "upload_date": "2023-02-09",
+      "duration_seconds": 43,
+      "duration": "00:43",
+      "word_count": 125,
+      "clean_file": "clean/tPHWasyLqHk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 43
       }
     },
     {
