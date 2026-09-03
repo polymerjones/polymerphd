@@ -4075,6 +4075,24 @@
       }
     },
     {
+      "id": "U3Ec3xY4Hf8",
+      "kind": "youtube",
+      "title": "Diet Soda = Gut Damage",
+      "url": "https://www.youtube.com/watch?v=U3Ec3xY4Hf8",
+      "upload_date": "2022-11-14",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 167,
+      "clean_file": "clean/U3Ec3xY4Hf8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "awas0fb9OC0",
       "kind": "youtube",
       "title": "Diet vs. Exercise",
@@ -5688,6 +5706,24 @@
       }
     },
     {
+      "id": "uC8SZ4GLDno",
+      "kind": "youtube",
+      "title": "Food is information, choose wisely",
+      "url": "https://www.youtube.com/watch?v=uC8SZ4GLDno",
+      "upload_date": "2023-07-24",
+      "duration_seconds": 21,
+      "duration": "00:21",
+      "word_count": 78,
+      "clean_file": "clean/uC8SZ4GLDno.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 21
+      }
+    },
+    {
       "id": "Gun2sXSDU-s",
       "kind": "youtube",
       "title": "Foods to strengthen and heal your joints… #animalbased",
@@ -6080,6 +6116,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 55
+      }
+    },
+    {
+      "id": "U58YWlTgzFE",
+      "kind": "youtube",
+      "title": "Grass-fed beef at Walmart",
+      "url": "https://www.youtube.com/watch?v=U58YWlTgzFE",
+      "upload_date": "2022-11-11",
+      "duration_seconds": 15,
+      "duration": "00:15",
+      "word_count": 38,
+      "clean_file": "clean/U58YWlTgzFE.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 15
       }
     },
     {
@@ -9634,6 +9688,24 @@
       }
     },
     {
+      "id": "U2VvCibIPzg",
+      "kind": "youtube",
+      "title": "Kefir vs. Yogurt",
+      "url": "https://www.youtube.com/watch?v=U2VvCibIPzg",
+      "upload_date": "2023-04-24",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 194,
+      "clean_file": "clean/U2VvCibIPzg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "sfj3i6eJYkE",
       "kind": "youtube",
       "title": "Kellogg’s needs to explain this…",
@@ -9667,6 +9739,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 56
+      }
+    },
+    {
+      "id": "U7vz4B94CUY",
+      "kind": "youtube",
+      "title": "Keto influencers love honey 😂",
+      "url": "https://www.youtube.com/watch?v=U7vz4B94CUY",
+      "upload_date": "2023-07-10",
+      "duration_seconds": 23,
+      "duration": "00:23",
+      "word_count": 12,
+      "clean_file": "clean/U7vz4B94CUY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 23
       }
     },
     {
@@ -13157,6 +13247,24 @@
       }
     },
     {
+      "id": "ub9Y9K94Guw",
+      "kind": "youtube",
+      "title": "Sourdough bread is better, right? WRONG!!",
+      "url": "https://www.youtube.com/watch?v=ub9Y9K94Guw",
+      "upload_date": "2022-06-14",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 164,
+      "clean_file": "clean/ub9Y9K94Guw.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
+      }
+    },
+    {
       "id": "fqGPW2oqNA4",
       "kind": "youtube",
       "title": "Spinach = kidney stones??",
@@ -15140,6 +15248,24 @@
       }
     },
     {
+      "id": "u2skEdnu02A",
+      "kind": "youtube",
+      "title": "The side effects of vegan diets",
+      "url": "https://www.youtube.com/watch?v=u2skEdnu02A",
+      "upload_date": "2026-01-22",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 185,
+      "clean_file": "clean/u2skEdnu02A.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
+      }
+    },
+    {
       "id": "DqHqBWCW3Hs",
       "kind": "youtube",
       "title": "The Side of Seed Oils Nobody Talks About",
@@ -16484,6 +16610,24 @@
       }
     },
     {
+      "id": "UbdQ_PoMNFE",
+      "kind": "youtube",
+      "title": "Trendy restaurants cook in seed oils",
+      "url": "https://www.youtube.com/watch?v=UbdQ_PoMNFE",
+      "upload_date": "2023-03-17",
+      "duration_seconds": 41,
+      "duration": "00:41",
+      "word_count": 136,
+      "clean_file": "clean/UbdQ_PoMNFE.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 41
+      }
+    },
+    {
       "id": "OIkRZYFbbDQ",
       "kind": "youtube",
       "title": "Trip to the Seed Oil Store",
@@ -16877,6 +17021,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 47
+      }
+    },
+    {
+      "id": "U6zVLADBIKI",
+      "kind": "youtube",
+      "title": "Vegetables may be harmful…",
+      "url": "https://www.youtube.com/watch?v=U6zVLADBIKI",
+      "upload_date": "2023-12-14",
+      "duration_seconds": 34,
+      "duration": "00:34",
+      "word_count": 113,
+      "clean_file": "clean/U6zVLADBIKI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 34
       }
     },
     {
