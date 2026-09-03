@@ -2493,6 +2493,24 @@
       }
     },
     {
+      "id": "Uz10ybcIiJw",
+      "kind": "youtube",
+      "title": "Be careful with shredded cheese",
+      "url": "https://www.youtube.com/watch?v=Uz10ybcIiJw",
+      "upload_date": "2024-08-24",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 222,
+      "clean_file": "clean/Uz10ybcIiJw.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "-soqLhiSiLw",
       "kind": "youtube",
       "title": "Beating Crohn's with meat & fruit",
@@ -8396,6 +8414,24 @@
       }
     },
     {
+      "id": "vcLqhukv9os",
+      "kind": "youtube",
+      "title": "I made a movie & I’m going on tour!",
+      "url": "https://www.youtube.com/watch?v=vcLqhukv9os",
+      "upload_date": "2025-10-16",
+      "duration_seconds": 79,
+      "duration": "01:19",
+      "word_count": 179,
+      "clean_file": "clean/vcLqhukv9os.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 79
+      }
+    },
+    {
       "id": "gwBFpb-37-M",
       "kind": "youtube",
       "title": "I Made an Energy Drink!",
@@ -11701,6 +11737,24 @@
       }
     },
     {
+      "id": "vD1Q35F7cjY",
+      "kind": "youtube",
+      "title": "Oatmeal is not healthy",
+      "url": "https://www.youtube.com/watch?v=vD1Q35F7cjY",
+      "upload_date": "2023-04-24",
+      "duration_seconds": 24,
+      "duration": "00:24",
+      "word_count": 66,
+      "clean_file": "clean/vD1Q35F7cjY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 24
+      }
+    },
+    {
       "id": "DBDCsDbVKzM",
       "kind": "youtube",
       "title": "Obesity clinic serves junk food 🤯",
@@ -12817,6 +12871,24 @@
       }
     },
     {
+      "id": "Vc3dn5b7g4g",
+      "kind": "youtube",
+      "title": "Red meat is political",
+      "url": "https://www.youtube.com/watch?v=Vc3dn5b7g4g",
+      "upload_date": "2023-04-20",
+      "duration_seconds": 55,
+      "duration": "00:55",
+      "word_count": 206,
+      "clean_file": "clean/Vc3dn5b7g4g.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 55
+      }
+    },
+    {
       "id": "G2GRr_-ZYiw",
       "kind": "youtube",
       "title": "Red meat will LENGTHEN our life",
@@ -13154,6 +13226,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 27
+      }
+    },
+    {
+      "id": "v6utWNd8Y_c",
+      "kind": "youtube",
+      "title": "Seed oils are in everything!",
+      "url": "https://www.youtube.com/watch?v=v6utWNd8Y_c",
+      "upload_date": "2022-07-07",
+      "duration_seconds": 34,
+      "duration": "00:34",
+      "word_count": 79,
+      "clean_file": "clean/v6utWNd8Y_c.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 34
       }
     },
     {
@@ -16158,6 +16248,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1559
+      }
+    },
+    {
+      "id": "V-co07365_s",
+      "kind": "youtube",
+      "title": "This is a bad idea…",
+      "url": "https://www.youtube.com/watch?v=V-co07365_s",
+      "upload_date": "2025-11-08",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 228,
+      "clean_file": "clean/V-co07365_s.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
