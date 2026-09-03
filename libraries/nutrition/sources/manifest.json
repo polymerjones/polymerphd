@@ -486,6 +486,24 @@
       }
     },
     {
+      "id": "yLmjZwlFKgY",
+      "kind": "youtube",
+      "title": "A day in my life (traveling edition)",
+      "url": "https://www.youtube.com/watch?v=yLmjZwlFKgY",
+      "upload_date": "2025-01-08",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 267,
+      "clean_file": "clean/yLmjZwlFKgY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "55hOAvJh-Iw",
       "kind": "youtube",
       "title": "A day in my life in Costa Rica",
@@ -1956,6 +1974,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "yLKulEdvBMU",
+      "kind": "youtube",
+      "title": "Are we curing cancer?",
+      "url": "https://www.youtube.com/watch?v=yLKulEdvBMU",
+      "upload_date": "2022-11-09",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 162,
+      "clean_file": "clean/yLKulEdvBMU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
       }
     },
     {
@@ -9704,6 +9740,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 40
+      }
+    },
+    {
+      "id": "yl1ioMxboKw",
+      "kind": "youtube",
+      "title": "Is Crohn’s disease reversible?",
+      "url": "https://www.youtube.com/watch?v=yl1ioMxboKw",
+      "upload_date": "2025-04-01",
+      "duration_seconds": 67,
+      "duration": "01:07",
+      "word_count": 276,
+      "clean_file": "clean/yl1ioMxboKw.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 67
       }
     },
     {
@@ -18401,6 +18455,24 @@
       "duration": "01:00",
       "word_count": 180,
       "clean_file": "clean/7hpGrnwaMzI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
+      "id": "yO1Rf4Jni9A",
+      "kind": "youtube",
+      "title": "This is where illness begins…",
+      "url": "https://www.youtube.com/watch?v=yO1Rf4Jni9A",
+      "upload_date": "2024-07-08",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 311,
+      "clean_file": "clean/yO1Rf4Jni9A.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
