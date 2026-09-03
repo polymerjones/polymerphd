@@ -12009,6 +12009,24 @@
       }
     },
     {
+      "id": "y5WlzmJcPmY",
+      "kind": "youtube",
+      "title": "My morning routine when I travel",
+      "url": "https://www.youtube.com/watch?v=y5WlzmJcPmY",
+      "upload_date": "2024-06-18",
+      "duration_seconds": 41,
+      "duration": "00:41",
+      "word_count": 134,
+      "clean_file": "clean/y5WlzmJcPmY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 41
+      }
+    },
+    {
       "id": "48DaZrlh8zg",
       "kind": "youtube",
       "title": "My outdoor workout routine",
@@ -12490,6 +12508,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 40
+      }
+    },
+    {
+      "id": "Y6sGKN-UBUM",
+      "kind": "youtube",
+      "title": "Nicotine? Terrible for your brain",
+      "url": "https://www.youtube.com/watch?v=Y6sGKN-UBUM",
+      "upload_date": "2026-06-21",
+      "duration_seconds": 84,
+      "duration": "01:24",
+      "word_count": 296,
+      "clean_file": "clean/Y6sGKN-UBUM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 84
       }
     },
     {
@@ -14846,6 +14882,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "YAm92Vobh8M",
+      "kind": "youtube",
+      "title": "Still eating chips?",
+      "url": "https://www.youtube.com/watch?v=YAm92Vobh8M",
+      "upload_date": "2025-04-16",
+      "duration_seconds": 30,
+      "duration": "00:30",
+      "word_count": 112,
+      "clean_file": "clean/YAm92Vobh8M.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 30
       }
     },
     {
