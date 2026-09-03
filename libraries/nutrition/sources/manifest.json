@@ -666,6 +666,24 @@
       }
     },
     {
+      "id": "z1ub7PfX22o",
+      "kind": "youtube",
+      "title": "Alcohol is a toxin…",
+      "url": "https://www.youtube.com/watch?v=z1ub7PfX22o",
+      "upload_date": "2022-05-24",
+      "duration_seconds": 42,
+      "duration": "00:42",
+      "word_count": 124,
+      "clean_file": "clean/z1ub7PfX22o.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 42
+      }
+    },
+    {
       "id": "2ARPAsZK41c",
       "kind": "youtube",
       "title": "Alcohol is Poison!",
@@ -3563,6 +3581,24 @@
       "duration": "00:43",
       "word_count": 153,
       "clean_file": "clean/Jd0Gufmo9Tg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 43
+      }
+    },
+    {
+      "id": "yyvIIz_1qgE",
+      "kind": "youtube",
+      "title": "Butter can heal your gut",
+      "url": "https://www.youtube.com/watch?v=yyvIIz_1qgE",
+      "upload_date": "2024-11-12",
+      "duration_seconds": 43,
+      "duration": "00:43",
+      "word_count": 139,
+      "clean_file": "clean/yyvIIz_1qgE.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -10175,6 +10211,24 @@
       }
     },
     {
+      "id": "yzmqwMSjQh0",
+      "kind": "youtube",
+      "title": "Is plant-based meat worse for the planet?",
+      "url": "https://www.youtube.com/watch?v=yzmqwMSjQh0",
+      "upload_date": "2023-12-25",
+      "duration_seconds": 51,
+      "duration": "00:51",
+      "word_count": 143,
+      "clean_file": "clean/yzmqwMSjQh0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 51
+      }
+    },
+    {
       "id": "DUNRlhnd-9E",
       "kind": "youtube",
       "title": "Is protein granola healthy?",
@@ -11592,6 +11646,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "yyF04rNhSqY",
+      "kind": "youtube",
+      "title": "McDonald’s Fries = 19 ingredients",
+      "url": "https://www.youtube.com/watch?v=yyF04rNhSqY",
+      "upload_date": "2023-06-09",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 186,
+      "clean_file": "clean/yyF04rNhSqY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
@@ -15565,6 +15637,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 65
+      }
+    },
+    {
+      "id": "Z2EkXgQcxmo",
+      "kind": "youtube",
+      "title": "Stop using nonstick pans!",
+      "url": "https://www.youtube.com/watch?v=Z2EkXgQcxmo",
+      "upload_date": "2022-06-26",
+      "duration_seconds": 45,
+      "duration": "00:45",
+      "word_count": 107,
+      "clean_file": "clean/Z2EkXgQcxmo.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 45
       }
     },
     {
@@ -20475,6 +20565,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 55
+      }
+    },
+    {
+      "id": "yxTzFentdfU",
+      "kind": "youtube",
+      "title": "What’s happening at the 2024 Olympics?",
+      "url": "https://www.youtube.com/watch?v=yxTzFentdfU",
+      "upload_date": "2024-07-31",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 234,
+      "clean_file": "clean/yxTzFentdfU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
