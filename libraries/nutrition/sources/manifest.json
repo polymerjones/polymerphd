@@ -2151,6 +2151,24 @@
       }
     },
     {
+      "id": "r9EMTy1azW0",
+      "kind": "youtube",
+      "title": "Be careful with coffee…",
+      "url": "https://www.youtube.com/watch?v=r9EMTy1azW0",
+      "upload_date": "2025-02-03",
+      "duration_seconds": 34,
+      "duration": "00:34",
+      "word_count": 117,
+      "clean_file": "clean/r9EMTy1azW0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 34
+      }
+    },
+    {
       "id": "F1D1d1L4B5U",
       "kind": "youtube",
       "title": "Be careful with olive oil",
@@ -2184,6 +2202,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 62
+      }
+    },
+    {
+      "id": "r1YX7xzVGdY",
+      "kind": "youtube",
+      "title": "Beef + fruit = thrive",
+      "url": "https://www.youtube.com/watch?v=r1YX7xzVGdY",
+      "upload_date": "2022-07-19",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 184,
+      "clean_file": "clean/r1YX7xzVGdY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
@@ -2652,6 +2688,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 12
+      }
+    },
+    {
+      "id": "r09-AVmKLdU",
+      "kind": "youtube",
+      "title": "Bone broth in NYC!",
+      "url": "https://www.youtube.com/watch?v=r09-AVmKLdU",
+      "upload_date": "2023-04-18",
+      "duration_seconds": 36,
+      "duration": "00:36",
+      "word_count": 125,
+      "clean_file": "clean/r09-AVmKLdU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 36
       }
     },
     {
@@ -4501,6 +4555,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 39
+      }
+    },
+    {
+      "id": "raaqaXIEExQ",
+      "kind": "youtube",
+      "title": "Eat this to increase testosterone",
+      "url": "https://www.youtube.com/watch?v=raaqaXIEExQ",
+      "upload_date": "2024-11-30",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 193,
+      "clean_file": "clean/raaqaXIEExQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
@@ -8806,6 +8878,24 @@
       }
     },
     {
+      "id": "r0pbfMAapw4",
+      "kind": "youtube",
+      "title": "Low energy? You may be nutrient deficient…",
+      "url": "https://www.youtube.com/watch?v=r0pbfMAapw4",
+      "upload_date": "2024-02-09",
+      "duration_seconds": 10,
+      "duration": "00:10",
+      "word_count": 3,
+      "clean_file": "clean/r0pbfMAapw4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 10
+      }
+    },
+    {
       "id": "A-Jnsd2d2WY",
       "kind": "youtube",
       "title": "Lululemon = forever chemicals",
@@ -11339,6 +11429,24 @@
       }
     },
     {
+      "id": "R3rEP68bs8M",
+      "kind": "youtube",
+      "title": "Seed oils are healthy!?",
+      "url": "https://www.youtube.com/watch?v=R3rEP68bs8M",
+      "upload_date": "2025-02-25",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 207,
+      "clean_file": "clean/R3rEP68bs8M.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "5svRipLoy2Q",
       "kind": "youtube",
       "title": "Seed oils are in everything!",
@@ -13074,6 +13182,24 @@
       }
     },
     {
+      "id": "r09whYN-muw",
+      "kind": "youtube",
+      "title": "The history of kale",
+      "url": "https://www.youtube.com/watch?v=r09whYN-muw",
+      "upload_date": "2024-11-26",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 203,
+      "clean_file": "clean/r09whYN-muw.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
+      }
+    },
+    {
       "id": "5sfYdF5hH4A",
       "kind": "youtube",
       "title": "The history of raw kefir!",
@@ -13498,6 +13624,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 61
+      }
+    },
+    {
+      "id": "r51Xq80FRwY",
+      "kind": "youtube",
+      "title": "The truth about sunlight",
+      "url": "https://www.youtube.com/watch?v=r51Xq80FRwY",
+      "upload_date": "2026-07-30",
+      "duration_seconds": 78,
+      "duration": "01:18",
+      "word_count": 324,
+      "clean_file": "clean/r51Xq80FRwY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 78
       }
     },
     {
@@ -14702,6 +14846,24 @@
       }
     },
     {
+      "id": "rAHNiFJrrpA",
+      "kind": "youtube",
+      "title": "Underwear lower testosterone?",
+      "url": "https://www.youtube.com/watch?v=rAHNiFJrrpA",
+      "upload_date": "2023-12-10",
+      "duration_seconds": 31,
+      "duration": "00:31",
+      "word_count": 87,
+      "clean_file": "clean/rAHNiFJrrpA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 31
+      }
+    },
+    {
       "id": "HwgIXSiYYro",
       "kind": "youtube",
       "title": "US hospitals need this!!",
@@ -15565,6 +15727,24 @@
       }
     },
     {
+      "id": "R-uIEX1ppes",
+      "kind": "youtube",
+      "title": "What is this!?",
+      "url": "https://www.youtube.com/watch?v=R-uIEX1ppes",
+      "upload_date": "2025-10-26",
+      "duration_seconds": 62,
+      "duration": "01:02",
+      "word_count": 293,
+      "clean_file": "clean/R-uIEX1ppes.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 62
+      }
+    },
+    {
       "id": "eYE9pEPiYQQ",
       "kind": "youtube",
       "title": "What most doctors won’t tell you",
@@ -15867,6 +16047,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 34
+      }
+    },
+    {
+      "id": "r64Se62Qd-0",
+      "kind": "youtube",
+      "title": "What’s in your chicken?",
+      "url": "https://www.youtube.com/watch?v=r64Se62Qd-0",
+      "upload_date": "2026-05-03",
+      "duration_seconds": 55,
+      "duration": "00:55",
+      "word_count": 228,
+      "clean_file": "clean/r64Se62Qd-0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 55
       }
     },
     {
