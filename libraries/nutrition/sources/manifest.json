@@ -3716,6 +3716,24 @@
       }
     },
     {
+      "id": "X1vAmJTD19Q",
+      "kind": "youtube",
+      "title": "Change your life in 30 days!",
+      "url": "https://www.youtube.com/watch?v=X1vAmJTD19Q",
+      "upload_date": "2025-01-01",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 184,
+      "clean_file": "clean/X1vAmJTD19Q.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "DFr3cW-Q_lQ",
       "kind": "youtube",
       "title": "Change your life with these 3 things",
@@ -4522,6 +4540,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 36
+      }
+    },
+    {
+      "id": "X8y8_Ud0CTk",
+      "kind": "youtube",
+      "title": "Do NOT fear saturated fats 🧈",
+      "url": "https://www.youtube.com/watch?v=X8y8_Ud0CTk",
+      "upload_date": "2024-03-28",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 189,
+      "clean_file": "clean/X8y8_Ud0CTk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
@@ -8013,6 +8049,24 @@
       "duration": "00:56",
       "word_count": 225,
       "clean_file": "clean/c8_QBf4cZA0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 56
+      }
+    },
+    {
+      "id": "X6M03NeUOZg",
+      "kind": "youtube",
+      "title": "How to find raw dairy where it’s illegal",
+      "url": "https://www.youtube.com/watch?v=X6M03NeUOZg",
+      "upload_date": "2024-06-29",
+      "duration_seconds": 56,
+      "duration": "00:56",
+      "word_count": 192,
+      "clean_file": "clean/X6M03NeUOZg.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -14345,6 +14399,24 @@
       }
     },
     {
+      "id": "X1SmEIVezK4",
+      "kind": "youtube",
+      "title": "Still drinking from aluminum cans?",
+      "url": "https://www.youtube.com/watch?v=X1SmEIVezK4",
+      "upload_date": "2024-08-07",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 210,
+      "clean_file": "clean/X1SmEIVezK4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "cmJ2U_Jdv_0",
       "kind": "youtube",
       "title": "Still drinking from plastic bottles?",
@@ -15456,6 +15528,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 55
+      }
+    },
+    {
+      "id": "x3GkeJcPQYc",
+      "kind": "youtube",
+      "title": "The best way to lose weight…",
+      "url": "https://www.youtube.com/watch?v=x3GkeJcPQYc",
+      "upload_date": "2022-10-11",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 150,
+      "clean_file": "clean/x3GkeJcPQYc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
