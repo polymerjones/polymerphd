@@ -4273,6 +4273,24 @@
       }
     },
     {
+      "id": "uP_e8tOs_1Y",
+      "kind": "youtube",
+      "title": "Do NOT put mouthwash in your mouth",
+      "url": "https://www.youtube.com/watch?v=uP_e8tOs_1Y",
+      "upload_date": "2026-01-19",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 174,
+      "clean_file": "clean/uP_e8tOs_1Y.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
+      }
+    },
+    {
       "id": "jyejpKsXKXk",
       "kind": "youtube",
       "title": "Do plants give gorillas muscles??",
@@ -6530,6 +6548,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 58
+      }
+    },
+    {
+      "id": "Up9rbiFJJGA",
+      "kind": "youtube",
+      "title": "Healthy pasta recipe",
+      "url": "https://www.youtube.com/watch?v=Up9rbiFJJGA",
+      "upload_date": "2025-10-22",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 230,
+      "clean_file": "clean/Up9rbiFJJGA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
@@ -9544,6 +9580,24 @@
       }
     },
     {
+      "id": "UqBveGdbik0",
+      "kind": "youtube",
+      "title": "Is this why men have low testosterone?",
+      "url": "https://www.youtube.com/watch?v=UqBveGdbik0",
+      "upload_date": "2026-04-22",
+      "duration_seconds": 79,
+      "duration": "01:19",
+      "word_count": 270,
+      "clean_file": "clean/UqBveGdbik0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 79
+      }
+    },
+    {
       "id": "d-Eez0TsWtQ",
       "kind": "youtube",
       "title": "Is this why the 49ers are always injured?",
@@ -11124,6 +11178,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 59
+      }
+    },
+    {
+      "id": "uniFEFJ5bVI",
+      "kind": "youtube",
+      "title": "My thoughts on TRT",
+      "url": "https://www.youtube.com/watch?v=uniFEFJ5bVI",
+      "upload_date": "2025-10-17",
+      "duration_seconds": 34,
+      "duration": "00:34",
+      "word_count": 125,
+      "clean_file": "clean/uniFEFJ5bVI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 34
       }
     },
     {
@@ -13427,6 +13499,24 @@
       }
     },
     {
+      "id": "UVzLAuABbWM",
+      "kind": "youtube",
+      "title": "Something to think about next time you buy these fruits 💭 #animalbased #healthydiet",
+      "url": "https://www.youtube.com/watch?v=UVzLAuABbWM",
+      "upload_date": "2023-08-05",
+      "duration_seconds": 30,
+      "duration": "00:30",
+      "word_count": 84,
+      "clean_file": "clean/UVzLAuABbWM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 30
+      }
+    },
+    {
       "id": "ub9Y9K94Guw",
       "kind": "youtube",
       "title": "Sourdough bread is better, right? WRONG!!",
@@ -14089,6 +14179,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 75
+      }
+    },
+    {
+      "id": "uur-ZLls0ZA",
+      "kind": "youtube",
+      "title": "The best breakfast for humans",
+      "url": "https://www.youtube.com/watch?v=uur-ZLls0ZA",
+      "upload_date": "2025-09-05",
+      "duration_seconds": 35,
+      "duration": "00:35",
+      "word_count": 125,
+      "clean_file": "clean/uur-ZLls0ZA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 35
       }
     },
     {
