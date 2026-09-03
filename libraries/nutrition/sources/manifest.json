@@ -773,6 +773,24 @@
       }
     },
     {
+      "id": "TxYru42yi0o",
+      "kind": "youtube",
+      "title": "Ancestral living is so powerful. Full episode with my buddy Liver King on my channel.",
+      "url": "https://www.youtube.com/watch?v=TxYru42yi0o",
+      "upload_date": "2022-05-10",
+      "duration_seconds": 47,
+      "duration": "00:47",
+      "word_count": 193,
+      "clean_file": "clean/TxYru42yi0o.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 47
+      }
+    },
+    {
       "id": "sd1ZzWn3kW8",
       "kind": "youtube",
       "title": "And cigarettes are legal 🤯",
@@ -7356,6 +7374,24 @@
       }
     },
     {
+      "id": "U_wUI0IJK6M",
+      "kind": "youtube",
+      "title": "How to detox microplastics",
+      "url": "https://www.youtube.com/watch?v=U_wUI0IJK6M",
+      "upload_date": "2025-08-19",
+      "duration_seconds": 53,
+      "duration": "00:53",
+      "word_count": 179,
+      "clean_file": "clean/U_wUI0IJK6M.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 53
+      }
+    },
+    {
       "id": "kR62XvqfM8A",
       "kind": "youtube",
       "title": "How to eat an animal-based diet whilst traveling #animalbased #animalbaseddiet #nutrition",
@@ -8483,6 +8519,24 @@
       }
     },
     {
+      "id": "U0ACxQ7SC3A",
+      "kind": "youtube",
+      "title": "Is beef tallow the best cooking fat?",
+      "url": "https://www.youtube.com/watch?v=U0ACxQ7SC3A",
+      "upload_date": "2023-12-14",
+      "duration_seconds": 27,
+      "duration": "00:27",
+      "word_count": 122,
+      "clean_file": "clean/U0ACxQ7SC3A.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 27
+      }
+    },
+    {
       "id": "pVV0MlknkjU",
       "kind": "youtube",
       "title": "Is Bill Gates wrong about cows?",
@@ -9149,6 +9203,24 @@
       }
     },
     {
+      "id": "u19fE87Stv0",
+      "kind": "youtube",
+      "title": "Is this the best air filter!?",
+      "url": "https://www.youtube.com/watch?v=u19fE87Stv0",
+      "upload_date": "2025-11-18",
+      "duration_seconds": 64,
+      "duration": "01:04",
+      "word_count": 253,
+      "clean_file": "clean/u19fE87Stv0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 64
+      }
+    },
+    {
       "id": "5K_5_wEK3e8",
       "kind": "youtube",
       "title": "Is this the best breakfast for humans?",
@@ -9325,6 +9397,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 58
+      }
+    },
+    {
+      "id": "txg0dkLf9bg",
+      "kind": "youtube",
+      "title": "Is your honey glyphosate-free? 🍯￼",
+      "url": "https://www.youtube.com/watch?v=txg0dkLf9bg",
+      "upload_date": "2024-09-06",
+      "duration_seconds": 57,
+      "duration": "00:57",
+      "word_count": 187,
+      "clean_file": "clean/txg0dkLf9bg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 57
       }
     },
     {
@@ -12560,6 +12650,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 28
+      }
+    },
+    {
+      "id": "tZ9tYFDjeig",
+      "kind": "youtube",
+      "title": "S**d oils in sunscreen?!",
+      "url": "https://www.youtube.com/watch?v=tZ9tYFDjeig",
+      "upload_date": "2024-02-20",
+      "duration_seconds": 36,
+      "duration": "00:36",
+      "word_count": 147,
+      "clean_file": "clean/tZ9tYFDjeig.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 36
       }
     },
     {
