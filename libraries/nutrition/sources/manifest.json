@@ -1941,6 +1941,24 @@
       }
     },
     {
+      "id": "Xy5MBeCj-UE",
+      "kind": "youtube",
+      "title": "Are wireless headphones safe?",
+      "url": "https://www.youtube.com/watch?v=Xy5MBeCj-UE",
+      "upload_date": "2024-04-13",
+      "duration_seconds": 49,
+      "duration": "00:49",
+      "word_count": 163,
+      "clean_file": "clean/Xy5MBeCj-UE.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 49
+      }
+    },
+    {
       "id": "L96jBEnyTcg",
       "kind": "youtube",
       "title": "Are you carrying it in your pocket?",
@@ -7109,6 +7127,24 @@
       }
     },
     {
+      "id": "XYFd6_gwWio",
+      "kind": "youtube",
+      "title": "Healthy mouthwash recipe",
+      "url": "https://www.youtube.com/watch?v=XYFd6_gwWio",
+      "upload_date": "2025-06-27",
+      "duration_seconds": 43,
+      "duration": "00:43",
+      "word_count": 188,
+      "clean_file": "clean/XYFd6_gwWio.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 43
+      }
+    },
+    {
       "id": "Up9rbiFJJGA",
       "kind": "youtube",
       "title": "Healthy pasta recipe",
@@ -8843,6 +8879,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "y_TAq5xzJkM",
+      "kind": "youtube",
+      "title": "How to survive the tick invasion",
+      "url": "https://www.youtube.com/watch?v=y_TAq5xzJkM",
+      "upload_date": "2026-08-25",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 212,
+      "clean_file": "clean/y_TAq5xzJkM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
       }
     },
     {
