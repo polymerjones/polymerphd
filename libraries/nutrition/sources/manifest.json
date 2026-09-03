@@ -3967,6 +3967,24 @@
       }
     },
     {
+      "id": "thD3QKxHZQk",
+      "kind": "youtube",
+      "title": "Ditch your multivitamin and eat ORGANS",
+      "url": "https://www.youtube.com/watch?v=thD3QKxHZQk",
+      "upload_date": "2023-04-13",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 149,
+      "clean_file": "clean/thD3QKxHZQk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "JX2SmkzfHsE",
       "kind": "youtube",
       "title": "Do I have cheat days?",
@@ -4432,6 +4450,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 55
+      }
+    },
+    {
+      "id": "teaUaH8R_yM",
+      "kind": "youtube",
+      "title": "Dogs instinctually know kale is BS, and so do you!!",
+      "url": "https://www.youtube.com/watch?v=teaUaH8R_yM",
+      "upload_date": "2022-07-05",
+      "duration_seconds": 42,
+      "duration": "00:42",
+      "word_count": 136,
+      "clean_file": "clean/teaUaH8R_yM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 42
       }
     },
     {
@@ -5813,6 +5849,24 @@
       }
     },
     {
+      "id": "THCQna1ngOk",
+      "kind": "youtube",
+      "title": "Good food choices = good health",
+      "url": "https://www.youtube.com/watch?v=THCQna1ngOk",
+      "upload_date": "2023-01-01",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 196,
+      "clean_file": "clean/THCQna1ngOk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "1Me-G4-HHJk",
       "kind": "youtube",
       "title": "Grain-free flatbread recipe",
@@ -6380,6 +6434,24 @@
       "duration": "01:00",
       "word_count": 207,
       "clean_file": "clean/lHkyEepwMoU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
+      "id": "TgbcjpAKCaE",
+      "kind": "youtube",
+      "title": "Homemade animal-based sunscreen recipe",
+      "url": "https://www.youtube.com/watch?v=TgbcjpAKCaE",
+      "upload_date": "2025-07-09",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 207,
+      "clean_file": "clean/TgbcjpAKCaE.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -14760,6 +14832,24 @@
       }
     },
     {
+      "id": "tiYaW_ZW1KA",
+      "kind": "youtube",
+      "title": "The ultimate wound healer",
+      "url": "https://www.youtube.com/watch?v=tiYaW_ZW1KA",
+      "upload_date": "2025-03-13",
+      "duration_seconds": 52,
+      "duration": "00:52",
+      "word_count": 154,
+      "clean_file": "clean/tiYaW_ZW1KA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 52
+      }
+    },
+    {
       "id": "fyO6eROqf2c",
       "kind": "youtube",
       "title": "The Untold Side Effects of Nicotine",
@@ -18544,6 +18634,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 210
+      }
+    },
+    {
+      "id": "th819p8qbYs",
+      "kind": "youtube",
+      "title": "Why we love the smell of Christmas tree",
+      "url": "https://www.youtube.com/watch?v=th819p8qbYs",
+      "upload_date": "2026-08-24",
+      "duration_seconds": 49,
+      "duration": "00:49",
+      "word_count": 137,
+      "clean_file": "clean/th819p8qbYs.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 49
       }
     },
     {
