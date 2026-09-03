@@ -11683,6 +11683,24 @@
       }
     },
     {
+      "id": "TtK-HakVue0",
+      "kind": "youtube",
+      "title": "Pickles = fermented cucumbers",
+      "url": "https://www.youtube.com/watch?v=TtK-HakVue0",
+      "upload_date": "2023-04-16",
+      "duration_seconds": 31,
+      "duration": "00:31",
+      "word_count": 118,
+      "clean_file": "clean/TtK-HakVue0.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 31
+      }
+    },
+    {
       "id": "EOKea_MaOAA",
       "kind": "youtube",
       "title": "Pizza is overrated…",
@@ -11734,6 +11752,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 42
+      }
+    },
+    {
+      "id": "TtYyXdtjGJU",
+      "kind": "youtube",
+      "title": "Plant-based foods steal nutrients",
+      "url": "https://www.youtube.com/watch?v=TtYyXdtjGJU",
+      "upload_date": "2023-03-16",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 289,
+      "clean_file": "clean/TtYyXdtjGJU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
@@ -12794,6 +12830,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 89
+      }
+    },
+    {
+      "id": "tvWdsPxS84c",
+      "kind": "youtube",
+      "title": "Shampoo and soap are overrated",
+      "url": "https://www.youtube.com/watch?v=tvWdsPxS84c",
+      "upload_date": "2024-02-25",
+      "duration_seconds": 52,
+      "duration": "00:52",
+      "word_count": 204,
+      "clean_file": "clean/tvWdsPxS84c.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 52
       }
     },
     {
@@ -15528,6 +15582,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 44
+      }
+    },
+    {
+      "id": "TugyzhBOUBU",
+      "kind": "youtube",
+      "title": "This is criminal 😳",
+      "url": "https://www.youtube.com/watch?v=TugyzhBOUBU",
+      "upload_date": "2024-04-04",
+      "duration_seconds": 42,
+      "duration": "00:42",
+      "word_count": 147,
+      "clean_file": "clean/TugyzhBOUBU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 42
       }
     },
     {
