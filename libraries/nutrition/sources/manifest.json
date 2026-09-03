@@ -1349,6 +1349,24 @@
       }
     },
     {
+      "id": "TKeyH_8s7mA",
+      "kind": "youtube",
+      "title": "Are beans BS??",
+      "url": "https://www.youtube.com/watch?v=TKeyH_8s7mA",
+      "upload_date": "2022-05-16",
+      "duration_seconds": 55,
+      "duration": "00:55",
+      "word_count": 156,
+      "clean_file": "clean/TKeyH_8s7mA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 55
+      }
+    },
+    {
       "id": "GshOUKdb9P0",
       "kind": "youtube",
       "title": "Are Brita water filters BS?!",
@@ -3374,6 +3392,24 @@
       }
     },
     {
+      "id": "TJtY8-5h_pY",
+      "kind": "youtube",
+      "title": "Cheese does what?!",
+      "url": "https://www.youtube.com/watch?v=TJtY8-5h_pY",
+      "upload_date": "2024-02-18",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 170,
+      "clean_file": "clean/TJtY8-5h_pY.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
       "id": "jGCxzZtqOtM",
       "kind": "youtube",
       "title": "Cheese is a health food: here is why",
@@ -3635,6 +3671,24 @@
       "duration": "01:00",
       "word_count": 199,
       "clean_file": "clean/IMETkCp7zgQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
+      "id": "TJBhbgIKio0",
+      "kind": "youtube",
+      "title": "Cooking Oils 101: Do not cook with these oils",
+      "url": "https://www.youtube.com/watch?v=TJBhbgIKio0",
+      "upload_date": "2024-08-28",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 247,
+      "clean_file": "clean/TJBhbgIKio0.txt",
       "transcript_source": "whisper-local:turbo",
       "anchor": {
         "kind": "timestamp",
@@ -5113,6 +5167,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 53
+      }
+    },
+    {
+      "id": "TnExId9Jz1Q",
+      "kind": "youtube",
+      "title": "Eating meat is like taking Ozempic?",
+      "url": "https://www.youtube.com/watch?v=TnExId9Jz1Q",
+      "upload_date": "2024-11-04",
+      "duration_seconds": 40,
+      "duration": "00:40",
+      "word_count": 131,
+      "clean_file": "clean/TnExId9Jz1Q.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 40
       }
     },
     {
@@ -13282,6 +13354,24 @@
       }
     },
     {
+      "id": "TNNoFcJ1OW8",
+      "kind": "youtube",
+      "title": "TESTOSTERONE is essential... 💪",
+      "url": "https://www.youtube.com/watch?v=TNNoFcJ1OW8",
+      "upload_date": "2024-02-03",
+      "duration_seconds": 44,
+      "duration": "00:44",
+      "word_count": 151,
+      "clean_file": "clean/TNNoFcJ1OW8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 44
+      }
+    },
+    {
       "id": "AiZOrL_BcJg",
       "kind": "youtube",
       "title": "The 2 best organs to eat",
@@ -14917,6 +15007,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 864
+      }
+    },
+    {
+      "id": "tmOJ2QH1UyI",
+      "kind": "youtube",
+      "title": "There may be MOLD in your home",
+      "url": "https://www.youtube.com/watch?v=tmOJ2QH1UyI",
+      "upload_date": "2024-01-03",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 244,
+      "clean_file": "clean/tmOJ2QH1UyI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
