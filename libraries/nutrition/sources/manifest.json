@@ -3518,6 +3518,24 @@
       }
     },
     {
+      "id": "wMbZw3ctxaw",
+      "kind": "youtube",
+      "title": "Can you detox from fluoride?",
+      "url": "https://www.youtube.com/watch?v=wMbZw3ctxaw",
+      "upload_date": "2024-12-06",
+      "duration_seconds": 37,
+      "duration": "00:37",
+      "word_count": 113,
+      "clean_file": "clean/wMbZw3ctxaw.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 37
+      }
+    },
+    {
       "id": "cfWPcNAVRMI",
       "kind": "youtube",
       "title": "Can you detox from fluoride? Here is how to do it",
@@ -3641,6 +3659,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 33
+      }
+    },
+    {
+      "id": "wr9mSOKIkv4",
+      "kind": "youtube",
+      "title": "Celsius energy drink = artificial sweeteners",
+      "url": "https://www.youtube.com/watch?v=wr9mSOKIkv4",
+      "upload_date": "2023-04-09",
+      "duration_seconds": 49,
+      "duration": "00:49",
+      "word_count": 164,
+      "clean_file": "clean/wr9mSOKIkv4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 49
       }
     },
     {
@@ -4432,6 +4468,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 52
+      }
+    },
+    {
+      "id": "wQYEMOrTysg",
+      "kind": "youtube",
+      "title": "Do not eat vegetables!!",
+      "url": "https://www.youtube.com/watch?v=wQYEMOrTysg",
+      "upload_date": "2022-05-08",
+      "duration_seconds": 54,
+      "duration": "00:54",
+      "word_count": 186,
+      "clean_file": "clean/wQYEMOrTysg.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 54
       }
     },
     {
@@ -16702,6 +16756,24 @@
       }
     },
     {
+      "id": "WpRIxx5XRd8",
+      "kind": "youtube",
+      "title": "This chemical is everywhere…",
+      "url": "https://www.youtube.com/watch?v=WpRIxx5XRd8",
+      "upload_date": "2024-02-14",
+      "duration_seconds": 52,
+      "duration": "00:52",
+      "word_count": 142,
+      "clean_file": "clean/WpRIxx5XRd8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 52
+      }
+    },
+    {
       "id": "w2sK35f-DIc",
       "kind": "youtube",
       "title": "This country found the solution to heart disease",
@@ -18065,6 +18137,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 42
+      }
+    },
+    {
+      "id": "wsRHhk9nt3o",
+      "kind": "youtube",
+      "title": "Vegan tries meat after 5 years",
+      "url": "https://www.youtube.com/watch?v=wsRHhk9nt3o",
+      "upload_date": "2024-05-30",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 233,
+      "clean_file": "clean/wsRHhk9nt3o.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
