@@ -127,6 +127,24 @@
       }
     },
     {
+      "id": "ZumgNd3i4Z8",
+      "kind": "youtube",
+      "title": "3 foods to combat hair loss",
+      "url": "https://www.youtube.com/watch?v=ZumgNd3i4Z8",
+      "upload_date": "2023-10-16",
+      "duration_seconds": 56,
+      "duration": "00:56",
+      "word_count": 163,
+      "clean_file": "clean/ZumgNd3i4Z8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 56
+      }
+    },
+    {
       "id": "21H9kSOW2iQ",
       "kind": "youtube",
       "title": "3 more kitchen hacks",
@@ -2225,6 +2243,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 48
+      }
+    },
+    {
+      "id": "ZUlY46H-mYM",
+      "kind": "youtube",
+      "title": "Are you still eating Doritos?",
+      "url": "https://www.youtube.com/watch?v=ZUlY46H-mYM",
+      "upload_date": "2025-03-16",
+      "duration_seconds": 61,
+      "duration": "01:01",
+      "word_count": 157,
+      "clean_file": "clean/ZUlY46H-mYM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 61
       }
     },
     {
@@ -14434,6 +14470,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 24
+      }
+    },
+    {
+      "id": "zu1xaSZFSVA",
+      "kind": "youtube",
+      "title": "Raw milk can heal eczema and asthma #animalbased",
+      "url": "https://www.youtube.com/watch?v=zu1xaSZFSVA",
+      "upload_date": "2023-10-05",
+      "duration_seconds": 33,
+      "duration": "00:33",
+      "word_count": 117,
+      "clean_file": "clean/zu1xaSZFSVA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 33
       }
     },
     {
