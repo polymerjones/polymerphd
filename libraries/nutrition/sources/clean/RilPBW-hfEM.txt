@@ -1,0 +1,11 @@
+TITLE: Don’t sleep next to your WiFi
+VIDEO ID: RilPBW-hfEM
+URL: https://www.youtube.com/watch?v=RilPBW-hfEM
+UPLOAD DATE: 2025-02-13
+DURATION: 01:10
+CAPTION TRACK: whisper-local (turbo)
+======================================================================
+
+[00:00] This is why you don't want to sleep with your Wi-Fi router on. Guys, I'm here with Tristan Scott. He's an electrical engineer. We're going to test the RFEMF coming off this Wi-Fi router. If you're sleeping in this bed, you're getting a big exposure. So how much is there, Tristan? Depending on how far away you are, foot away, we're talking 3 million microwatts per meter squared. But even on the bed here, we're at over 100,000 microwatts per meter squared. So it's definitely concerning levels to be chronically exposed to all night long. The simple answer is unplug it. But if you can't unplug it for whatever reason, you can buy these Faraday bags on Amazon. You could use tinfoil even. So now we're looking at levels far lower. 1,000 microwatts per meter squared, maybe 2,000. So that's like a 50x reduction in the RFEMF exposure just by putting a $20 Faraday bag on it. So if you can't turn your Wi-Fi off at nighttime because you have roommates or something, really look into a Faraday bag because you can drastically reduce your exposure and it costs almost nothing. And even though this is not ionizing radiation,
+
+[01:00] there are lots of studies suggesting that it can affect your cellular biology, DNA damage, oxidative stress. Don't sleep on turning off your Wi-Fi router or wrapping it in a Faraday bag.

@@ -109,6 +109,24 @@
       }
     },
     {
+      "id": "riMeEh2kAMo",
+      "kind": "youtube",
+      "title": "4 healthy kitchen hacks",
+      "url": "https://www.youtube.com/watch?v=riMeEh2kAMo",
+      "upload_date": "2025-02-07",
+      "duration_seconds": 82,
+      "duration": "01:22",
+      "word_count": 295,
+      "clean_file": "clean/riMeEh2kAMo.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 82
+      }
+    },
+    {
       "id": "k7xR5DfRXp8",
       "kind": "youtube",
       "title": "4 Ways to Optimize your Testosterone, Naturally",
@@ -1004,6 +1022,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 37
+      }
+    },
+    {
+      "id": "RBGXQaUzofU",
+      "kind": "youtube",
+      "title": "Animal-based haul for $10/day",
+      "url": "https://www.youtube.com/watch?v=RBGXQaUzofU",
+      "upload_date": "2024-10-22",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 158,
+      "clean_file": "clean/RBGXQaUzofU.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
       }
     },
     {
@@ -3464,6 +3500,24 @@
       }
     },
     {
+      "id": "raQMsEmcKm8",
+      "kind": "youtube",
+      "title": "Could eating steak prevent diabetes?",
+      "url": "https://www.youtube.com/watch?v=raQMsEmcKm8",
+      "upload_date": "2024-06-22",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 169,
+      "clean_file": "clean/raQMsEmcKm8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "cFwRl-wwiHE",
       "kind": "youtube",
       "title": "Could red meat help you live longer?",
@@ -3802,6 +3856,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 47
+      }
+    },
+    {
+      "id": "rJk9qSbOEWA",
+      "kind": "youtube",
+      "title": "Do this to improve sleep",
+      "url": "https://www.youtube.com/watch?v=rJk9qSbOEWA",
+      "upload_date": "2024-04-30",
+      "duration_seconds": 55,
+      "duration": "00:55",
+      "word_count": 209,
+      "clean_file": "clean/rJk9qSbOEWA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 55
       }
     },
     {
@@ -4340,6 +4412,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 82
+      }
+    },
+    {
+      "id": "RilPBW-hfEM",
+      "kind": "youtube",
+      "title": "Don’t sleep next to your WiFi",
+      "url": "https://www.youtube.com/watch?v=RilPBW-hfEM",
+      "upload_date": "2025-02-13",
+      "duration_seconds": 70,
+      "duration": "01:10",
+      "word_count": 233,
+      "clean_file": "clean/RilPBW-hfEM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 70
       }
     },
     {
@@ -12508,6 +12598,24 @@
       }
     },
     {
+      "id": "RJttYyyhv8Y",
+      "kind": "youtube",
+      "title": "The best food for brain health?",
+      "url": "https://www.youtube.com/watch?v=RJttYyyhv8Y",
+      "upload_date": "2026-08-10",
+      "duration_seconds": 48,
+      "duration": "00:48",
+      "word_count": 150,
+      "clean_file": "clean/RJttYyyhv8Y.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 48
+      }
+    },
+    {
       "id": "O2Cqw6JPnhA",
       "kind": "youtube",
       "title": "The best foods for a wide jaw",
@@ -13963,6 +14071,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 25
+      }
+    },
+    {
+      "id": "RJ5HwFvW0gc",
+      "kind": "youtube",
+      "title": "This harmful herbicide is in your oatmeal",
+      "url": "https://www.youtube.com/watch?v=RJ5HwFvW0gc",
+      "upload_date": "2023-08-24",
+      "duration_seconds": 43,
+      "duration": "00:43",
+      "word_count": 102,
+      "clean_file": "clean/RJ5HwFvW0gc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 43
       }
     },
     {
