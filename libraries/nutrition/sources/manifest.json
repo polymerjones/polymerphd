@@ -1742,6 +1742,24 @@
       }
     },
     {
+      "id": "rTqQN1Yja00",
+      "kind": "youtube",
+      "title": "Are you taking fish oil? Beware of this…",
+      "url": "https://www.youtube.com/watch?v=rTqQN1Yja00",
+      "upload_date": "2023-12-07",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 198,
+      "clean_file": "clean/rTqQN1Yja00.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "LFCTllHo-RM",
       "kind": "youtube",
       "title": "Are you the best version of yourself?",
@@ -3605,6 +3623,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 75
+      }
+    },
+    {
+      "id": "RV9g-Maav_4",
+      "kind": "youtube",
+      "title": "Creatine Makes Vegans Smarter 💪",
+      "url": "https://www.youtube.com/watch?v=RV9g-Maav_4",
+      "upload_date": "2022-05-03",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 198,
+      "clean_file": "clean/RV9g-Maav_4.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
       }
     },
     {
@@ -6312,6 +6348,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 58
+      }
+    },
+    {
+      "id": "rXVe8Vy9cDQ",
+      "kind": "youtube",
+      "title": "How I shop for plant-based milk",
+      "url": "https://www.youtube.com/watch?v=rXVe8Vy9cDQ",
+      "upload_date": "2024-03-19",
+      "duration_seconds": 33,
+      "duration": "00:33",
+      "word_count": 83,
+      "clean_file": "clean/rXVe8Vy9cDQ.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 33
       }
     },
     {
@@ -10927,6 +10981,24 @@
       }
     },
     {
+      "id": "rUfSwkSMvRM",
+      "kind": "youtube",
+      "title": "Plant-based milk = SCAM?",
+      "url": "https://www.youtube.com/watch?v=rUfSwkSMvRM",
+      "upload_date": "2023-06-19",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 217,
+      "clean_file": "clean/rUfSwkSMvRM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
+      }
+    },
+    {
       "id": "LvzWNkN6Cx0",
       "kind": "youtube",
       "title": "PLANT-based MILK??",
@@ -13506,6 +13578,24 @@
       }
     },
     {
+      "id": "rxYY4ddKFy8",
+      "kind": "youtube",
+      "title": "The History of Raw Kefir",
+      "url": "https://www.youtube.com/watch?v=rxYY4ddKFy8",
+      "upload_date": "2023-08-24",
+      "duration_seconds": 43,
+      "duration": "00:43",
+      "word_count": 140,
+      "clean_file": "clean/rxYY4ddKFy8.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 43
+      }
+    },
+    {
       "id": "5sfYdF5hH4A",
       "kind": "youtube",
       "title": "The history of raw kefir!",
@@ -14627,6 +14717,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 57
+      }
+    },
+    {
+      "id": "Rwkkw_feqvk",
+      "kind": "youtube",
+      "title": "This is the best food for sexual health 🍆",
+      "url": "https://www.youtube.com/watch?v=Rwkkw_feqvk",
+      "upload_date": "2023-10-15",
+      "duration_seconds": 56,
+      "duration": "00:56",
+      "word_count": 152,
+      "clean_file": "clean/Rwkkw_feqvk.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 56
       }
     },
     {
@@ -16356,6 +16464,24 @@
       }
     },
     {
+      "id": "RZDoHVL5Hqs",
+      "kind": "youtube",
+      "title": "What’s in Starbucks pumpkin spice latte?",
+      "url": "https://www.youtube.com/watch?v=RZDoHVL5Hqs",
+      "upload_date": "2023-10-18",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 153,
+      "clean_file": "clean/RZDoHVL5Hqs.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "22HuFL6CgnU",
       "kind": "youtube",
       "title": "What’s in your baby’s diapers?",
@@ -16641,6 +16767,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 29
+      }
+    },
+    {
+      "id": "RWNdlFKzXQM",
+      "kind": "youtube",
+      "title": "What’s the best non-toxic cookware?",
+      "url": "https://www.youtube.com/watch?v=RWNdlFKzXQM",
+      "upload_date": "2024-01-09",
+      "duration_seconds": 39,
+      "duration": "00:39",
+      "word_count": 122,
+      "clean_file": "clean/RWNdlFKzXQM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 39
       }
     },
     {
@@ -17839,6 +17983,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 50
+      }
+    },
+    {
+      "id": "rXVPOtdPnFE",
+      "kind": "youtube",
+      "title": "You won’t believe what’s in your tap water",
+      "url": "https://www.youtube.com/watch?v=rXVPOtdPnFE",
+      "upload_date": "2026-08-27",
+      "duration_seconds": 48,
+      "duration": "00:48",
+      "word_count": 145,
+      "clean_file": "clean/rXVPOtdPnFE.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 48
       }
     },
     {
