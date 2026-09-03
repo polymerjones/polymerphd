@@ -10894,6 +10894,24 @@
       }
     },
     {
+      "id": "XXSJhFqCYdI",
+      "kind": "youtube",
+      "title": "Lactose intolerant? Try this!",
+      "url": "https://www.youtube.com/watch?v=XXSJhFqCYdI",
+      "upload_date": "2025-01-20",
+      "duration_seconds": 59,
+      "duration": "00:59",
+      "word_count": 200,
+      "clean_file": "clean/XXSJhFqCYdI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 59
+      }
+    },
+    {
       "id": "IsT0BVBExz4",
       "kind": "youtube",
       "title": "Learn from Amish girls…",
@@ -13390,6 +13408,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 59
+      }
+    },
+    {
+      "id": "xY-seDrQ4qc",
+      "kind": "youtube",
+      "title": "Plants Vs Meat",
+      "url": "https://www.youtube.com/watch?v=xY-seDrQ4qc",
+      "upload_date": "2022-05-11",
+      "duration_seconds": 53,
+      "duration": "00:53",
+      "word_count": 113,
+      "clean_file": "clean/xY-seDrQ4qc.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 53
       }
     },
     {
@@ -17042,6 +17078,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 64
+      }
+    },
+    {
+      "id": "XWs8OxP3UbM",
+      "kind": "youtube",
+      "title": "The worst way to store your food",
+      "url": "https://www.youtube.com/watch?v=XWs8OxP3UbM",
+      "upload_date": "2025-09-08",
+      "duration_seconds": 65,
+      "duration": "01:05",
+      "word_count": 246,
+      "clean_file": "clean/XWs8OxP3UbM.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 65
       }
     },
     {
@@ -21013,6 +21067,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 73
+      }
+    },
+    {
+      "id": "XXngFqZi0Og",
+      "kind": "youtube",
+      "title": "Why I'll never drink another green smoothie",
+      "url": "https://www.youtube.com/watch?v=XXngFqZi0Og",
+      "upload_date": "2023-09-14",
+      "duration_seconds": 43,
+      "duration": "00:43",
+      "word_count": 147,
+      "clean_file": "clean/XXngFqZi0Og.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 43
       }
     },
     {
