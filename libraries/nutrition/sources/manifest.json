@@ -1690,6 +1690,24 @@
       }
     },
     {
+      "id": "VeQkcv8v3gA",
+      "kind": "youtube",
+      "title": "Are seed oils “heart healthy”?",
+      "url": "https://www.youtube.com/watch?v=VeQkcv8v3gA",
+      "upload_date": "2024-03-08",
+      "duration_seconds": 27,
+      "duration": "00:27",
+      "word_count": 78,
+      "clean_file": "clean/VeQkcv8v3gA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 27
+      }
+    },
+    {
       "id": "BcP-ZG30etE",
       "kind": "youtube",
       "title": "Are these heart healthy?",
@@ -4792,6 +4810,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 53
+      }
+    },
+    {
+      "id": "viD8zw1LNUA",
+      "kind": "youtube",
+      "title": "Don’t buy Lululemon shorts until you hear this…",
+      "url": "https://www.youtube.com/watch?v=viD8zw1LNUA",
+      "upload_date": "2023-10-08",
+      "duration_seconds": 58,
+      "duration": "00:58",
+      "word_count": 199,
+      "clean_file": "clean/viD8zw1LNUA.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 58
       }
     },
     {
@@ -8267,6 +8303,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "VGbTiOBMKUI",
+      "kind": "youtube",
+      "title": "I ate a vegetable…",
+      "url": "https://www.youtube.com/watch?v=VGbTiOBMKUI",
+      "upload_date": "2022-05-29",
+      "duration_seconds": 46,
+      "duration": "00:46",
+      "word_count": 154,
+      "clean_file": "clean/VGbTiOBMKUI.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 46
       }
     },
     {
@@ -15733,6 +15787,24 @@
       }
     },
     {
+      "id": "VgtONLYHGec",
+      "kind": "youtube",
+      "title": "The truth about cholesterol",
+      "url": "https://www.youtube.com/watch?v=VgtONLYHGec",
+      "upload_date": "2025-12-31",
+      "duration_seconds": 88,
+      "duration": "01:28",
+      "word_count": 310,
+      "clean_file": "clean/VgtONLYHGec.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 88
+      }
+    },
+    {
       "id": "egHeKREmLwE",
       "kind": "youtube",
       "title": "The truth about new weight loss drugs",
@@ -20357,6 +20429,24 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 64
+      }
+    },
+    {
+      "id": "vitEr9LP98c",
+      "kind": "youtube",
+      "title": "You’re not getting enough sunlight",
+      "url": "https://www.youtube.com/watch?v=vitEr9LP98c",
+      "upload_date": "2026-04-15",
+      "duration_seconds": 88,
+      "duration": "01:28",
+      "word_count": 283,
+      "clean_file": "clean/vitEr9LP98c.txt",
+      "transcript_source": "whisper-local:turbo",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 88
       }
     },
     {
