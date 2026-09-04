@@ -3,13 +3,24 @@
 Every source ingested into this knowledge package, with the Main subjects, Practices, and Important concepts each one covers.
 
 **Source:** Various creators  
-**Videos catalogued:** 3
+**Videos catalogued:** 8
 
 Entries are alphabetical by title. Use the video ID to trace any claim in the other files back to its source.
 
 ---
 
-## 1. Modern Life Is A Disease
+## 1. How To Sleep
+
+- **Video ID:** `jA0Zl8ipmTQ`
+- **URL:** https://www.youtube.com/watch?v=jA0Zl8ipmTQ
+- **Upload date:** 2026-04-03
+- **Duration:** 20:09
+- **Source file:** `sources/clean/jA0Zl8ipmTQ.txt`
+- **Main subjects:** five body systems sleep runs each night - prefrontal cortex/decision-making, testosterone and hormones, emotional regulation via the amygdala, immune function, and muscle recovery/body composition, a cited finding that five hours of sleep versus eight reduces testosterone by an amount equivalent to aging ten years, four common, often-unrecognized sleep-sabotaging habits - blue light, late/sugary eating, irregular timing, and bright evening lighting
+- **Practices:** the "rule of three" - three calming, low-stimulation actions done in the same order every night, no scrolling before bed, consistent sleep and wake times, a supplement stack in order of escalating strength - magnesium glycinate (200-400mg, 45 minutes before bed), sublingual melatonin spray if needed, valerian root if more is needed
+- **Important concepts:** sleeping versus actually recovering as distinct states, deep sleep as the window for growth hormone release and tissue repair, the circadian rhythm as a consistency-dependent biological clock, not just a duration target
+
+## 2. Modern Life Is A Disease
 
 - **Video ID:** `oufQkXnSkes`
 - **URL:** https://www.youtube.com/watch?v=oufQkXnSkes
@@ -20,7 +31,18 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** walk 8,000-10,000 steps a day, lift heavy compound movements 2-3x per week, sprint 20-30 seconds once a week, stand and move every hour if desk-bound, eat only foods that existed 100 years ago, 5 minutes of parasympathetic practice morning and night (breath work, silence, unplugged walking), morning and evening sunlight, barefoot on the ground where possible, fixed sleep/wake time, dark cold quiet room, no screens or caffeine late, 7-9 hours, in-person community and screen-free family time
 - **Important concepts:** insulin resistance from muscular inactivity, sitting as a sickness signal the body reads literally, the food industry's engineered "bliss point" overriding satiety, chronic low-grade cortisol versus acute fight-or-flight, HPA axis dysregulation, deep sleep as the repair window (growth hormone, testosterone, ghrelin/leptin), loneliness as a physiological stressor, not just an emotional one, a healthcare/food/pharma system economically misaligned with prevention
 
-## 2. Neuroscience Confirms - Why Doing Less Helps You Achieve More
+## 3. Neuroplasticity Is Working Against You
+
+- **Video ID:** `hguZ68FPLmM`
+- **URL:** https://www.youtube.com/watch?v=hguZ68FPLmM
+- **Upload date:** 2026-03-14
+- **Duration:** 14:59
+- **Source file:** `sources/clean/hguZ68FPLmM.txt`
+- **Main subjects:** neuroplasticity framed as morally neutral and bidirectional — the same mechanism that lets the brain improve also lets it adapt toward shallow, fragmented attention, cited brain-imaging findings (gray matter reductions in the dorsolateral prefrontal cortex and anterior cingulate cortex) associated with heavy digital multitasking, a cited longitudinal study linking high internet use to smaller gains in verbal intelligence and smaller gray/white matter increases in attention- and language-related brain regions
+- **Practices:** deep work in short 10-30 minute single-task blocks, building duration over time like interval training, dual n-back training, 15-20 minutes daily or every other day, no-scroll mornings, before any deep work, one to two daily 30-60 minute "attention recovery windows" with no scrolling, multitasking, or stimulation, physical friction against impulsive app use, e.g. an NFC-tag app blocker that can't be overridden from the phone itself
+- **Important concepts:** the brain becoming "efficient at shallow and fragmented" as a direct, non-pathological consequence of shallow, fragmented inputs, a stated pattern from end-of-life conversations - people who felt "scattered" and never discovered purpose because of constant micro-distraction
+
+## 4. Neuroscience Confirms - Why Doing Less Helps You Achieve More
 
 - **Video ID:** `iD5zio-GXyA`
 - **URL:** https://www.youtube.com/watch?v=iD5zio-GXyA
@@ -31,7 +53,18 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** write down every current habit, goal, system, and commitment without filtering, {'filter that list twice': 'what have you actually done consistently in 30 days, and of those, what produced something real'}, protect the few things that survive that filter "at all cost"; drop the rest, before adding anything new, ask what can be removed first
 - **Important concepts:** background cognitive processes / "open background apps", the higher cognitive cost of unresolved decisions versus unfinished tasks, performative effort (visibly "adding") versus effective effort (protecting a few things intensely), depth of focused effort compounding over scattered surface-level effort
 
-## 3. The Real Reason We're All Exhausted
+## 5. Stop Consuming Content
+
+- **Video ID:** `A1CFsSH2hHI`
+- **URL:** https://www.youtube.com/watch?v=A1CFsSH2hHI
+- **Upload date:** 2026-03-24
+- **Duration:** 10:08
+- **Source file:** `sources/clean/A1CFsSH2hHI.txt`
+- **Main subjects:** self-improvement content consumption reframed as a subtle form of avoidance once someone already has enough information to act, each expert's advice as "their hill" - correct in isolation but not meant to be stacked with every other expert's hill simultaneously
+- **Practices:** pick one already-known-to-work action and do it consistently before adding anything new
+- **Important concepts:** anticipating a solution releasing dopamine before any action is taken, logged by the brain as progress, the distinction between obvious procrastination and "research as avoidance," which looks like growth
+
+## 6. The Real Reason We're All Exhausted
 
 - **Video ID:** `Z2EIZuDFOuQ`
 - **URL:** https://www.youtube.com/watch?v=Z2EIZuDFOuQ
@@ -41,6 +74,28 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Main subjects:** a time-budget argument (sleep + work leaves only 6-8 hours for everything else) as the structural cause of exhaustion, cross-country comparisons of work hours, vacation time, and life-satisfaction (US, Denmark, Netherlands, Finland), exhaustion framed as economically profitable to a system built around productivity
 - **Practices:** sit down and explicitly define what "a good life" looks like, apart from inherited cultural defaults, protect recovery time on the calendar as a non-negotiable commitment, not leftover time, a morning walk before the day's demands start, phone-free family dinner, a day with no to-do list attached
 - **Important concepts:** working to live versus living to work, permission to stop as a stated, explicit act, rest as a physiological requirement rather than something earned after productivity, the gap between cross-sectional national income and national happiness scores
+
+## 7. Why You Need To Fail
+
+- **Video ID:** `3CETqBJ_4gk`
+- **URL:** https://www.youtube.com/watch?v=3CETqBJ_4gk
+- **Upload date:** 2026-02-15
+- **Duration:** 12:23
+- **Source file:** `sources/clean/3CETqBJ_4gk.txt`
+- **Main subjects:** failure reframed as a deliberate, contained learning strategy rather than something to avoid, the speaker's own history of small, repeated business failures (a GoPro rental business, failed apps, an early livestreaming attempt) preceding his eventual success, a four-step framework for "failing productively" — small, fast, real, and decisive
+- **Practices:** constrain each new attempt with a hard time cap, money cap, and emotional cap before starting, ship an intentionally rough first version rather than waiting to make it good, after each attempt, explicitly decide to kill it, iterate, or double down — no open-ended lingering
+- **Important concepts:** failing cheaply and early as a way of "buying skills at a discount", the paralysis of "I need the right idea" versus the reality that most ideas are testable for a few hundred dollars in a weekend, success as an exponential payoff on a long, flat stretch of accumulated small failures
+
+## 8. Why Your Drive Is Gone (It's Probably Not Testosterone)
+
+- **Video ID:** `BBc4QWydJ74`
+- **URL:** https://www.youtube.com/watch?v=BBc4QWydJ74
+- **Upload date:** 2026-02-28
+- **Duration:** 12:55
+- **Source file:** `sources/clean/BBc4QWydJ74.txt`
+- **Main subjects:** flattened male drive/motivation reframed as a dopamine and cortisol signaling problem rather than primarily a testosterone deficiency, chronic low-grade cortisol activation from modern life ("on all day, nothing ever finished") as a background interference pattern, purpose framed specifically as direction and obligation, not motivation or passion
+- **Practices:** lift heavy 3-4x/week, walk daily, 30 minutes, with no phone/podcast/scrolling, eat enough, especially protein and quality carbohydrates, rather than under-eating while under stress, commit to one non-negotiable responsibility that has real consequences to someone or something, remove one specific source of "cheap dopamine" rather than attempting a full digital detox
+- **Important concepts:** drive as a signaling problem (cortisol plus dopamine plus purpose) rather than a testosterone deficiency, testosterone framed as responsive to demand rather than causal on its own, purpose defined specifically as direction and chosen obligation, not motivation or passion
 
 ---
 
@@ -52,7 +107,23 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **a morning walk before the day's demands start** — The Real Reason We're All Exhausted (`Z2EIZuDFOuQ`)
 
+**a supplement stack in order of escalating strength - magnesium glycinate (200-400mg, 45 minutes before bed), sublingual melatonin spray if needed, valerian root if more is needed** — How To Sleep (`jA0Zl8ipmTQ`)
+
+**after each attempt, explicitly decide to kill it, iterate, or double down — no open-ended lingering** — Why You Need To Fail (`3CETqBJ_4gk`)
+
 **before adding anything new, ask what can be removed first** — Neuroscience Confirms - Why Doing Less Helps You Achieve More (`iD5zio-GXyA`)
+
+**commit to one non-negotiable responsibility that has real consequences to someone or something** — Why Your Drive Is Gone (It's Probably Not Testosterone) (`BBc4QWydJ74`)
+
+**consistent sleep and wake times** — How To Sleep (`jA0Zl8ipmTQ`)
+
+**constrain each new attempt with a hard time cap, money cap, and emotional cap before starting** — Why You Need To Fail (`3CETqBJ_4gk`)
+
+**deep work in short 10-30 minute single-task blocks, building duration over time like interval training** — Neuroplasticity Is Working Against You (`hguZ68FPLmM`)
+
+**dual n-back training, 15-20 minutes daily or every other day** — Neuroplasticity Is Working Against You (`hguZ68FPLmM`)
+
+**eat enough, especially protein and quality carbohydrates, rather than under-eating while under stress** — Why Your Drive Is Gone (It's Probably Not Testosterone) (`BBc4QWydJ74`)
 
 **eat only foods that existed 100 years ago** — Modern Life Is A Disease (`oufQkXnSkes`)
 
@@ -60,15 +131,31 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **in-person community and screen-free family time** — Modern Life Is A Disease (`oufQkXnSkes`)
 
+**lift heavy 3-4x/week** — Why Your Drive Is Gone (It's Probably Not Testosterone) (`BBc4QWydJ74`)
+
 **lift heavy compound movements 2-3x per week** — Modern Life Is A Disease (`oufQkXnSkes`)
 
 **morning and evening sunlight, barefoot on the ground where possible** — Modern Life Is A Disease (`oufQkXnSkes`)
 
+**no scrolling before bed** — How To Sleep (`jA0Zl8ipmTQ`)
+
+**no-scroll mornings, before any deep work** — Neuroplasticity Is Working Against You (`hguZ68FPLmM`)
+
+**one to two daily 30-60 minute "attention recovery windows" with no scrolling, multitasking, or stimulation** — Neuroplasticity Is Working Against You (`hguZ68FPLmM`)
+
 **phone-free family dinner** — The Real Reason We're All Exhausted (`Z2EIZuDFOuQ`)
+
+**physical friction against impulsive app use, e.g. an nfc-tag app blocker that can't be overridden from the phone itself** — Neuroplasticity Is Working Against You (`hguZ68FPLmM`)
+
+**pick one already-known-to-work action and do it consistently before adding anything new** — Stop Consuming Content (`A1CFsSH2hHI`)
 
 **protect recovery time on the calendar as a non-negotiable commitment, not leftover time** — The Real Reason We're All Exhausted (`Z2EIZuDFOuQ`)
 
 **protect the few things that survive that filter "at all cost"; drop the rest** — Neuroscience Confirms - Why Doing Less Helps You Achieve More (`iD5zio-GXyA`)
+
+**remove one specific source of "cheap dopamine" rather than attempting a full digital detox** — Why Your Drive Is Gone (It's Probably Not Testosterone) (`BBc4QWydJ74`)
+
+**ship an intentionally rough first version rather than waiting to make it good** — Why You Need To Fail (`3CETqBJ_4gk`)
 
 **sit down and explicitly define what "a good life" looks like, apart from inherited cultural defaults** — The Real Reason We're All Exhausted (`Z2EIZuDFOuQ`)
 
@@ -76,7 +163,11 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **stand and move every hour if desk-bound** — Modern Life Is A Disease (`oufQkXnSkes`)
 
+**the "rule of three" - three calming, low-stimulation actions done in the same order every night** — How To Sleep (`jA0Zl8ipmTQ`)
+
 **walk 8,000-10,000 steps a day** — Modern Life Is A Disease (`oufQkXnSkes`)
+
+**walk daily, 30 minutes, with no phone/podcast/scrolling** — Why Your Drive Is Gone (It's Probably Not Testosterone) (`BBc4QWydJ74`)
 
 **write down every current habit, goal, system, and commitment without filtering** — Neuroscience Confirms - Why Doing Less Helps You Achieve More (`iD5zio-GXyA`)
 

@@ -1,6 +1,125 @@
 {
   "sources": [
     {
+      "id": "mQOie2JHpPU",
+      "kind": "youtube",
+      "title": "Aura Is Real. Here's the Science.",
+      "url": "https://www.youtube.com/watch?v=mQOie2JHpPU",
+      "upload_date": "2026-08-03",
+      "duration_seconds": 860,
+      "duration": "14:20",
+      "word_count": 2830,
+      "clean_file": "clean/mQOie2JHpPU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 860
+      }
+    },
+    {
+      "id": "SbHSZ07n_lg",
+      "kind": "youtube",
+      "title": "Do THIS After a Bad Night of Sleep",
+      "url": "https://www.youtube.com/watch?v=SbHSZ07n_lg",
+      "upload_date": "2026-08-24",
+      "duration_seconds": 525,
+      "duration": "08:45",
+      "word_count": 1861,
+      "clean_file": "clean/SbHSZ07n_lg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 525
+      }
+    },
+    {
+      "id": "VpVeathX_hE",
+      "kind": "youtube",
+      "title": "How I Dropped My Cholesterol 30% Without Medications",
+      "url": "https://www.youtube.com/watch?v=VpVeathX_hE",
+      "upload_date": "2026-08-28",
+      "duration_seconds": 617,
+      "duration": "10:17",
+      "word_count": 2173,
+      "clean_file": "clean/VpVeathX_hE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 617
+      }
+    },
+    {
+      "id": "bNxVUgxNPFg",
+      "kind": "youtube",
+      "title": "How Strict Does Your Diet REALLY Need to Be",
+      "url": "https://www.youtube.com/watch?v=bNxVUgxNPFg",
+      "upload_date": "2026-08-21",
+      "duration_seconds": 484,
+      "duration": "08:04",
+      "word_count": 1671,
+      "clean_file": "clean/bNxVUgxNPFg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 484
+      }
+    },
+    {
+      "id": "jA0Zl8ipmTQ",
+      "kind": "youtube",
+      "title": "How To Sleep",
+      "url": "https://www.youtube.com/watch?v=jA0Zl8ipmTQ",
+      "upload_date": "2026-04-03",
+      "duration_seconds": 1209,
+      "duration": "20:09",
+      "word_count": 3655,
+      "clean_file": "clean/jA0Zl8ipmTQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1209
+      }
+    },
+    {
+      "id": "ctR2CIjOTXo",
+      "kind": "youtube",
+      "title": "Hustle Culture Was Wrong",
+      "url": "https://www.youtube.com/watch?v=ctR2CIjOTXo",
+      "upload_date": "2026-04-12",
+      "duration_seconds": 1026,
+      "duration": "17:06",
+      "word_count": 2648,
+      "clean_file": "clean/ctR2CIjOTXo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1026
+      }
+    },
+    {
+      "id": "Bd1g2WlGqzM",
+      "kind": "youtube",
+      "title": "I Ate Primal for 60 Days and This Happened",
+      "url": "https://www.youtube.com/watch?v=Bd1g2WlGqzM",
+      "upload_date": "2026-07-05",
+      "duration_seconds": 605,
+      "duration": "10:05",
+      "word_count": 2017,
+      "clean_file": "clean/Bd1g2WlGqzM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 605
+      }
+    },
+    {
       "id": "oufQkXnSkes",
       "kind": "youtube",
       "title": "Modern Life Is A Disease",
@@ -15,6 +134,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1450
+      }
+    },
+    {
+      "id": "hguZ68FPLmM",
+      "kind": "youtube",
+      "title": "Neuroplasticity Is Working Against You",
+      "url": "https://www.youtube.com/watch?v=hguZ68FPLmM",
+      "upload_date": "2026-03-14",
+      "duration_seconds": 899,
+      "duration": "14:59",
+      "word_count": 2762,
+      "clean_file": "clean/hguZ68FPLmM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 899
       }
     },
     {
@@ -35,6 +171,142 @@
       }
     },
     {
+      "id": "ffkUyUHif3Y",
+      "kind": "youtube",
+      "title": "Neuroscience Confirms: What Constant Stimulation Did to Your Brain",
+      "url": "https://www.youtube.com/watch?v=ffkUyUHif3Y",
+      "upload_date": "2026-06-24",
+      "duration_seconds": 850,
+      "duration": "14:10",
+      "word_count": 2449,
+      "clean_file": "clean/ffkUyUHif3Y.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 850
+      }
+    },
+    {
+      "id": "Q9PXpEtvjN4",
+      "kind": "youtube",
+      "title": "Neuroscience Confirms: Why You Can't Read Anymore",
+      "url": "https://www.youtube.com/watch?v=Q9PXpEtvjN4",
+      "upload_date": "2026-08-24",
+      "duration_seconds": 1048,
+      "duration": "17:28",
+      "word_count": 3694,
+      "clean_file": "clean/Q9PXpEtvjN4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1048
+      }
+    },
+    {
+      "id": "A1CFsSH2hHI",
+      "kind": "youtube",
+      "title": "Stop Consuming Content",
+      "url": "https://www.youtube.com/watch?v=A1CFsSH2hHI",
+      "upload_date": "2026-03-24",
+      "duration_seconds": 608,
+      "duration": "10:08",
+      "word_count": 1758,
+      "clean_file": "clean/A1CFsSH2hHI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 608
+      }
+    },
+    {
+      "id": "SHZJmfZvYpQ",
+      "kind": "youtube",
+      "title": "The #1 Habit That’s Aging You Faster",
+      "url": "https://www.youtube.com/watch?v=SHZJmfZvYpQ",
+      "upload_date": "2026-07-20",
+      "duration_seconds": 766,
+      "duration": "12:46",
+      "word_count": 2312,
+      "clean_file": "clean/SHZJmfZvYpQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 766
+      }
+    },
+    {
+      "id": "aii0lMtw2Zk",
+      "kind": "youtube",
+      "title": "The Gym is Overrated",
+      "url": "https://www.youtube.com/watch?v=aii0lMtw2Zk",
+      "upload_date": "2026-08-05",
+      "duration_seconds": 413,
+      "duration": "06:53",
+      "word_count": 1349,
+      "clean_file": "clean/aii0lMtw2Zk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 413
+      }
+    },
+    {
+      "id": "cXsZzRRDTCg",
+      "kind": "youtube",
+      "title": "The Productivity Apps I Trust With My Life",
+      "url": "https://www.youtube.com/watch?v=cXsZzRRDTCg",
+      "upload_date": "2026-05-27",
+      "duration_seconds": 1259,
+      "duration": "20:59",
+      "word_count": 3930,
+      "clean_file": "clean/cXsZzRRDTCg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1259
+      }
+    },
+    {
+      "id": "9l-3tKMcvmU",
+      "kind": "youtube",
+      "title": "The REAL Cause of Brain Fog",
+      "url": "https://www.youtube.com/watch?v=9l-3tKMcvmU",
+      "upload_date": "2026-07-10",
+      "duration_seconds": 559,
+      "duration": "09:19",
+      "word_count": 1742,
+      "clean_file": "clean/9l-3tKMcvmU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 559
+      }
+    },
+    {
+      "id": "UZYa-Ea78-U",
+      "kind": "youtube",
+      "title": "The REAL Difference Between Male and Female Workouts",
+      "url": "https://www.youtube.com/watch?v=UZYa-Ea78-U",
+      "upload_date": "2026-08-17",
+      "duration_seconds": 517,
+      "duration": "08:37",
+      "word_count": 1664,
+      "clean_file": "clean/UZYa-Ea78-U.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 517
+      }
+    },
+    {
       "id": "Z2EIZuDFOuQ",
       "kind": "youtube",
       "title": "The Real Reason We're All Exhausted",
@@ -49,6 +321,397 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 717
+      }
+    },
+    {
+      "id": "dJAh3qEQJBI",
+      "kind": "youtube",
+      "title": "The REAL Reason You Blood Pressure is High",
+      "url": "https://www.youtube.com/watch?v=dJAh3qEQJBI",
+      "upload_date": "2026-07-18",
+      "duration_seconds": 882,
+      "duration": "14:42",
+      "word_count": 2959,
+      "clean_file": "clean/dJAh3qEQJBI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 882
+      }
+    },
+    {
+      "id": "pB_6K36gJDc",
+      "kind": "youtube",
+      "title": "The Real Reason You Can't Lose Belly Fat",
+      "url": "https://www.youtube.com/watch?v=pB_6K36gJDc",
+      "upload_date": "2026-07-07",
+      "duration_seconds": 598,
+      "duration": "09:58",
+      "word_count": 2021,
+      "clean_file": "clean/pB_6K36gJDc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 598
+      }
+    },
+    {
+      "id": "96ss9bcEnlg",
+      "kind": "youtube",
+      "title": "The Silent Epidemic That's More Dangerous Than Smoking",
+      "url": "https://www.youtube.com/watch?v=96ss9bcEnlg",
+      "upload_date": "2026-04-21",
+      "duration_seconds": 958,
+      "duration": "15:58",
+      "word_count": 2840,
+      "clean_file": "clean/96ss9bcEnlg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 958
+      }
+    },
+    {
+      "id": "I0DV1jzKIC8",
+      "kind": "youtube",
+      "title": "The Truth About Getting Fit That No One Sells You",
+      "url": "https://www.youtube.com/watch?v=I0DV1jzKIC8",
+      "upload_date": "2026-07-04",
+      "duration_seconds": 685,
+      "duration": "11:25",
+      "word_count": 2118,
+      "clean_file": "clean/I0DV1jzKIC8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 685
+      }
+    },
+    {
+      "id": "0-JvBWti34c",
+      "kind": "youtube",
+      "title": "The Truth About GLP-1s",
+      "url": "https://www.youtube.com/watch?v=0-JvBWti34c",
+      "upload_date": "2026-08-31",
+      "duration_seconds": 706,
+      "duration": "11:46",
+      "word_count": 2384,
+      "clean_file": "clean/0-JvBWti34c.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 706
+      }
+    },
+    {
+      "id": "YtJOvJebgeQ",
+      "kind": "youtube",
+      "title": "The Zone 2 Lie",
+      "url": "https://www.youtube.com/watch?v=YtJOvJebgeQ",
+      "upload_date": "2026-09-04",
+      "duration_seconds": 533,
+      "duration": "08:53",
+      "word_count": 1663,
+      "clean_file": "clean/YtJOvJebgeQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 533
+      }
+    },
+    {
+      "id": "93Pkb80GO6U",
+      "kind": "youtube",
+      "title": "These 4 Things Will Define Your Life",
+      "url": "https://www.youtube.com/watch?v=93Pkb80GO6U",
+      "upload_date": "2026-05-01",
+      "duration_seconds": 1132,
+      "duration": "18:52",
+      "word_count": 3406,
+      "clean_file": "clean/93Pkb80GO6U.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1132
+      }
+    },
+    {
+      "id": "YvPOcBetjOc",
+      "kind": "youtube",
+      "title": "This Program Helped 1000+ People Lose Weight",
+      "url": "https://www.youtube.com/watch?v=YvPOcBetjOc",
+      "upload_date": "2026-07-22",
+      "duration_seconds": 673,
+      "duration": "11:13",
+      "word_count": 2220,
+      "clean_file": "clean/YvPOcBetjOc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 673
+      }
+    },
+    {
+      "id": "JPsvwSJhSCY",
+      "kind": "youtube",
+      "title": "This Works Way Better Than Cutting Calories",
+      "url": "https://www.youtube.com/watch?v=JPsvwSJhSCY",
+      "upload_date": "2026-08-03",
+      "duration_seconds": 542,
+      "duration": "09:02",
+      "word_count": 1810,
+      "clean_file": "clean/JPsvwSJhSCY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 542
+      }
+    },
+    {
+      "id": "9QxGu5BFwMg",
+      "kind": "youtube",
+      "title": "Two Exercises That Will Save Your Life",
+      "url": "https://www.youtube.com/watch?v=9QxGu5BFwMg",
+      "upload_date": "2026-07-24",
+      "duration_seconds": 640,
+      "duration": "10:40",
+      "word_count": 2312,
+      "clean_file": "clean/9QxGu5BFwMg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 640
+      }
+    },
+    {
+      "id": "3_BYtYzZknM",
+      "kind": "youtube",
+      "title": "What Actually Extends Your Life (It's Not What's Trending)",
+      "url": "https://www.youtube.com/watch?v=3_BYtYzZknM",
+      "upload_date": "2026-06-07",
+      "duration_seconds": 1608,
+      "duration": "26:48",
+      "word_count": 4825,
+      "clean_file": "clean/3_BYtYzZknM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1608
+      }
+    },
+    {
+      "id": "Xf5loCij3os",
+      "kind": "youtube",
+      "title": "What Caffeine Actually Does to Your Body",
+      "url": "https://www.youtube.com/watch?v=Xf5loCij3os",
+      "upload_date": "2026-09-02",
+      "duration_seconds": 832,
+      "duration": "13:52",
+      "word_count": 2851,
+      "clean_file": "clean/Xf5loCij3os.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 832
+      }
+    },
+    {
+      "id": "-wdLVxlOA7o",
+      "kind": "youtube",
+      "title": "What Creatine Actually Does to Your Body",
+      "url": "https://www.youtube.com/watch?v=-wdLVxlOA7o",
+      "upload_date": "2026-08-12",
+      "duration_seconds": 746,
+      "duration": "12:26",
+      "word_count": 2428,
+      "clean_file": "clean/-wdLVxlOA7o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 746
+      }
+    },
+    {
+      "id": "sKC2Mter49o",
+      "kind": "youtube",
+      "title": "What Is an Elimination Diet? (A Doctor Explains)",
+      "url": "https://www.youtube.com/watch?v=sKC2Mter49o",
+      "upload_date": "2026-06-14",
+      "duration_seconds": 649,
+      "duration": "10:49",
+      "word_count": 2144,
+      "clean_file": "clean/sKC2Mter49o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 649
+      }
+    },
+    {
+      "id": "57FKuES0uqU",
+      "kind": "youtube",
+      "title": "What Sauna Actually Does to Your Body",
+      "url": "https://www.youtube.com/watch?v=57FKuES0uqU",
+      "upload_date": "2026-07-31",
+      "duration_seconds": 792,
+      "duration": "13:12",
+      "word_count": 2695,
+      "clean_file": "clean/57FKuES0uqU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 792
+      }
+    },
+    {
+      "id": "nJQwt50CQt8",
+      "kind": "youtube",
+      "title": "What Sunlight Actually Does To Your Body",
+      "url": "https://www.youtube.com/watch?v=nJQwt50CQt8",
+      "upload_date": "2026-08-26",
+      "duration_seconds": 653,
+      "duration": "10:53",
+      "word_count": 2150,
+      "clean_file": "clean/nJQwt50CQt8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 653
+      }
+    },
+    {
+      "id": "PvZl9gq0w0A",
+      "kind": "youtube",
+      "title": "What Your Feed Is Actually Doing to Your Brain",
+      "url": "https://www.youtube.com/watch?v=PvZl9gq0w0A",
+      "upload_date": "2026-05-17",
+      "duration_seconds": 1100,
+      "duration": "18:20",
+      "word_count": 3379,
+      "clean_file": "clean/PvZl9gq0w0A.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1100
+      }
+    },
+    {
+      "id": "o_0VVZIFoLw",
+      "kind": "youtube",
+      "title": "Why You Can't Do Hard Things",
+      "url": "https://www.youtube.com/watch?v=o_0VVZIFoLw",
+      "upload_date": "2026-09-04",
+      "duration_seconds": 1037,
+      "duration": "17:17",
+      "word_count": 3452,
+      "clean_file": "clean/o_0VVZIFoLw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1037
+      }
+    },
+    {
+      "id": "4-eiU-FlyJ8",
+      "kind": "youtube",
+      "title": "Why You Feel Flat When Nothing Is Actually Wrong",
+      "url": "https://www.youtube.com/watch?v=4-eiU-FlyJ8",
+      "upload_date": "2026-08-16",
+      "duration_seconds": 1217,
+      "duration": "20:17",
+      "word_count": 3837,
+      "clean_file": "clean/4-eiU-FlyJ8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1217
+      }
+    },
+    {
+      "id": "Ns72rrQ82Go",
+      "kind": "youtube",
+      "title": "Why You Need To Change Your Workouts After 40",
+      "url": "https://www.youtube.com/watch?v=Ns72rrQ82Go",
+      "upload_date": "2026-08-19",
+      "duration_seconds": 483,
+      "duration": "08:03",
+      "word_count": 1633,
+      "clean_file": "clean/Ns72rrQ82Go.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 483
+      }
+    },
+    {
+      "id": "3CETqBJ_4gk",
+      "kind": "youtube",
+      "title": "Why You Need To Fail",
+      "url": "https://www.youtube.com/watch?v=3CETqBJ_4gk",
+      "upload_date": "2026-02-15",
+      "duration_seconds": 743,
+      "duration": "12:23",
+      "word_count": 2205,
+      "clean_file": "clean/3CETqBJ_4gk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 743
+      }
+    },
+    {
+      "id": "BBc4QWydJ74",
+      "kind": "youtube",
+      "title": "Why Your Drive Is Gone (It's Probably Not Testosterone)",
+      "url": "https://www.youtube.com/watch?v=BBc4QWydJ74",
+      "upload_date": "2026-02-28",
+      "duration_seconds": 775,
+      "duration": "12:55",
+      "word_count": 2203,
+      "clean_file": "clean/BBc4QWydJ74.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 775
+      }
+    },
+    {
+      "id": "bgZaTSSYRxA",
+      "kind": "youtube",
+      "title": "Your Brain Is Lying To You",
+      "url": "https://www.youtube.com/watch?v=bgZaTSSYRxA",
+      "upload_date": "2026-07-22",
+      "duration_seconds": 727,
+      "duration": "12:07",
+      "word_count": 2277,
+      "clean_file": "clean/bgZaTSSYRxA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 727
       }
     }
   ],
