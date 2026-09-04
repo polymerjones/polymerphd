@@ -3,7 +3,7 @@
 Every source ingested into this knowledge package, with the Main subjects, Practices, and Important concepts each one covers.
 
 **Source:** Various creators  
-**Videos catalogued:** 22
+**Videos catalogued:** 27
 
 Entries are alphabetical by title. Use the video ID to trace any claim in the other files back to its source.
 
@@ -42,7 +42,18 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** notice which kind of tiredness a hard day produces - clean and restable, or depleted and still anxious
 - **Important concepts:** the same discipline and grind producing opposite outcomes depending on whether the underlying goal fills or drains the person, ignored small warning signals compounding into loud, undeniable ones, neither hustle nor rest as universally correct - the skill is reading which the current moment requires
 
-## 4. Modern Life Is A Disease
+## 4. I Ate Primal for 60 Days and This Happened
+
+- **Video ID:** `Bd1g2WlGqzM`
+- **URL:** https://www.youtube.com/watch?v=Bd1g2WlGqzM
+- **Upload date:** 2026-07-05
+- **Duration:** 10:05
+- **Source file:** `sources/clean/Bd1g2WlGqzM.txt`
+- **Main subjects:** a personal and community 60-day "primal" elimination of processed food and added sugar, with a week-by-week account of reported changes, acid reflux resolution reported within about a week, cited to randomized controlled studies on processed food removal and esophageal acid exposure, eczema/atopic dermatitis and seasonal allergy improvement reported by two community members, framed as systemic inflammation dropping
+- **Practices:** eat only foods available before the agricultural revolution - meat, fish, eggs, vegetables, fruits, tubers, nuts, seeds, natural fats - for 60 days, until full, with zero processed food or added sugar
+- **Important concepts:** real whole food producing satiety before hitting typical caloric targets, framed as evidence of how processed food overrides normal appetite regulation, a expected 1-3 day adjustment period (headaches, fogginess, cravings) attributed to the shift from burning glucose to burning fat for fuel
+
+## 5. Modern Life Is A Disease
 
 - **Video ID:** `oufQkXnSkes`
 - **URL:** https://www.youtube.com/watch?v=oufQkXnSkes
@@ -53,7 +64,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** walk 8,000-10,000 steps a day, lift heavy compound movements 2-3x per week, sprint 20-30 seconds once a week, stand and move every hour if desk-bound, eat only foods that existed 100 years ago, 5 minutes of parasympathetic practice morning and night (breath work, silence, unplugged walking), morning and evening sunlight, barefoot on the ground where possible, fixed sleep/wake time, dark cold quiet room, no screens or caffeine late, 7-9 hours, in-person community and screen-free family time
 - **Important concepts:** insulin resistance from muscular inactivity, sitting as a sickness signal the body reads literally, the food industry's engineered "bliss point" overriding satiety, chronic low-grade cortisol versus acute fight-or-flight, HPA axis dysregulation, deep sleep as the repair window (growth hormone, testosterone, ghrelin/leptin), loneliness as a physiological stressor, not just an emotional one, a healthcare/food/pharma system economically misaligned with prevention
 
-## 5. Neuroplasticity Is Working Against You
+## 6. Neuroplasticity Is Working Against You
 
 - **Video ID:** `hguZ68FPLmM`
 - **URL:** https://www.youtube.com/watch?v=hguZ68FPLmM
@@ -64,7 +75,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** deep work in short 10-30 minute single-task blocks, building duration over time like interval training, dual n-back training, 15-20 minutes daily or every other day, no-scroll mornings, before any deep work, one to two daily 30-60 minute "attention recovery windows" with no scrolling, multitasking, or stimulation, physical friction against impulsive app use, e.g. an NFC-tag app blocker that can't be overridden from the phone itself
 - **Important concepts:** the brain becoming "efficient at shallow and fragmented" as a direct, non-pathological consequence of shallow, fragmented inputs, a stated pattern from end-of-life conversations - people who felt "scattered" and never discovered purpose because of constant micro-distraction
 
-## 6. Neuroscience Confirms - Why Doing Less Helps You Achieve More
+## 7. Neuroscience Confirms - Why Doing Less Helps You Achieve More
 
 - **Video ID:** `iD5zio-GXyA`
 - **URL:** https://www.youtube.com/watch?v=iD5zio-GXyA
@@ -75,7 +86,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** write down every current habit, goal, system, and commitment without filtering, {'filter that list twice': 'what have you actually done consistently in 30 days, and of those, what produced something real'}, protect the few things that survive that filter "at all cost"; drop the rest, before adding anything new, ask what can be removed first
 - **Important concepts:** background cognitive processes / "open background apps", the higher cognitive cost of unresolved decisions versus unfinished tasks, performative effort (visibly "adding") versus effective effort (protecting a few things intensely), depth of focused effort compounding over scattered surface-level effort
 
-## 7. Neuroscience Confirms: What Constant Stimulation Did to Your Brain
+## 8. Neuroscience Confirms: What Constant Stimulation Did to Your Brain
 
 - **Video ID:** `ffkUyUHif3Y`
 - **URL:** https://www.youtube.com/watch?v=ffkUyUHif3Y
@@ -86,7 +97,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** protect the first 30 minutes after waking from any screen, build deliberate "boredom windows" into the day - a commute, a walk, or a meal with no audio or screen, use physical friction (an NFC-tag app blocker) rather than software-only app limits, notice the automatic, unconscious reach for a phone the moment boredom appears, without necessarily fixing it immediately
 - **Important concepts:** dopamine recalibration - the brain's baseline stimulation requirement rising with repeated high-stimulation input, making ordinary life feel flat by comparison, attention fragmentation - the brain trained to expect input every few seconds, producing discomfort when input stops
 
-## 8. Neuroscience Confirms: Why You Can't Read Anymore
+## 9. Neuroscience Confirms: Why You Can't Read Anymore
 
 - **Video ID:** `Q9PXpEtvjN4`
 - **URL:** https://www.youtube.com/watch?v=Q9PXpEtvjN4
@@ -97,7 +108,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** read a physical book for a set 10-20 minutes at the same time every night, starting at 10 minutes, keep the phone in a different room while reading, not just face-down nearby, read something genuinely enjoyable rather than "productivity" or self-improvement material, avoid three specific mistakes - reading on a screen, reading to collect/highlight/track rather than absorb, and counting audiobooks as this specific practice
 - **Important concepts:** reading capacity as a constructed, trainable circuit rather than an innate or fixed ability, self-paced attention (a book) versus externally-paced input (video, podcast, audiobook) as a meaningful mechanistic difference
 
-## 9. Stop Consuming Content
+## 10. Stop Consuming Content
 
 - **Video ID:** `A1CFsSH2hHI`
 - **URL:** https://www.youtube.com/watch?v=A1CFsSH2hHI
@@ -108,7 +119,18 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** pick one already-known-to-work action and do it consistently before adding anything new
 - **Important concepts:** anticipating a solution releasing dopamine before any action is taken, logged by the brain as progress, the distinction between obvious procrastination and "research as avoidance," which looks like growth
 
-## 10. The Productivity Apps I Trust With My Life
+## 11. The #1 Habit That’s Aging You Faster
+
+- **Video ID:** `SHZJmfZvYpQ`
+- **URL:** https://www.youtube.com/watch?v=SHZJmfZvYpQ
+- **Upload date:** 2026-07-20
+- **Duration:** 12:46
+- **Source file:** `sources/clean/SHZJmfZvYpQ.txt`
+- **Main subjects:** chronic (not acute) stress framed as costing roughly a decade of biological life, comparable in magnitude to smoking, via telomere shortening, a cited UC San Francisco study measuring shortened telomeres in chronically stressed caregivers, the vagus nerve as the mechanical route from a deliberate practice (silence, walking, slow breathing) into a parasympathetic ("rest and repair") state, self-talk and neuroplasticity - repeated thoughts widening or narrowing specific neural "pathways" over time
+- **Practices:** 10 minutes daily sitting outside in silence, no phone, a daily walk without headphones, 2-4 minutes of slow belly breathing (roughly 4-5 seconds in, hold, 4-8 seconds out, hold) before or after something stressful, deliberately repeat specific self-descriptions ("I'm the person who...") to reshape default thought patterns, smile or laugh on purpose, independent of mood, as a way of training the same response
+- **Important concepts:** chronic low-grade stress distinguished from acute stress as the actual driver of accelerated cellular aging, the body being unable to distinguish manufactured emotional expression from genuine emotion
+
+## 12. The Productivity Apps I Trust With My Life
 
 - **Video ID:** `cXsZzRRDTCg`
 - **URL:** https://www.youtube.com/watch?v=cXsZzRRDTCg
@@ -119,7 +141,18 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** keep a single simple running to-do list rather than an elaborate tagging/organization system, migrate one tool at a time (e.g. email first) rather than rebuilding an entire stack at once
 - **Important concepts:** a business model built on holding attention (notifications, recommendations) versus one built on a tool simply working well, explicitly naming which parts of a personal setup are and are not actually private, rather than presenting the whole stack as uniformly private
 
-## 11. The Real Reason We're All Exhausted
+## 13. The REAL Cause of Brain Fog
+
+- **Video ID:** `9l-3tKMcvmU`
+- **URL:** https://www.youtube.com/watch?v=9l-3tKMcvmU
+- **Upload date:** 2026-07-10
+- **Duration:** 09:19
+- **Source file:** `sources/clean/9l-3tKMcvmU.txt`
+- **Main subjects:** brain fog reframed as a symptom with three main identifiable causes rather than an accepted baseline state, the glymphatic system, active mainly during deep sleep, clearing metabolic waste including amyloid beta from the brain, blood sugar instability from processed carbohydrates as an unreliable fuel supply to a glucose-dependent brain, chronic cortisol elevation shrinking the hippocampus over time, per cited research
+- **Practices:** 7-9 hours of sleep, consistent timing, dark/cold/quiet room, no screens an hour before bed, build meals around protein and fat to smooth the glucose curve rather than spiking and crashing it, 10 minutes daily sitting outside in silence, and other genuine parasympathetic activation (breathwork, walking without headphones, time in nature), get a sleep study if waking exhausted despite adequate time in bed
+- **Important concepts:** brain fog as a symptom with identifiable, mostly fixable causes rather than an accepted baseline, fixing the foundation (sleep, food, stress) before adding supplements
+
+## 14. The Real Reason We're All Exhausted
 
 - **Video ID:** `Z2EIZuDFOuQ`
 - **URL:** https://www.youtube.com/watch?v=Z2EIZuDFOuQ
@@ -130,7 +163,29 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** sit down and explicitly define what "a good life" looks like, apart from inherited cultural defaults, protect recovery time on the calendar as a non-negotiable commitment, not leftover time, a morning walk before the day's demands start, phone-free family dinner, a day with no to-do list attached
 - **Important concepts:** working to live versus living to work, permission to stop as a stated, explicit act, rest as a physiological requirement rather than something earned after productivity, the gap between cross-sectional national income and national happiness scores
 
-## 12. The Silent Epidemic That's More Dangerous Than Smoking
+## 15. The REAL Reason You Blood Pressure is High
+
+- **Video ID:** `dJAh3qEQJBI`
+- **URL:** https://www.youtube.com/watch?v=dJAh3qEQJBI
+- **Upload date:** 2026-07-18
+- **Duration:** 14:42
+- **Source file:** `sources/clean/dJAh3qEQJBI.txt`
+- **Main subjects:** high blood pressure's lack of symptoms as what makes it dangerous, with organ-by-organ damage described (heart, brain, kidneys, eyes), a cited doubling of fatal cardiovascular disease risk per 20 mmHg systolic increase, lifestyle-driven hypertension versus genetic hypertension, and medication framed explicitly as a bridge rather than a cure for the lifestyle-driven majority, specific cited mmHg reductions from weight loss, aerobic exercise, the DASH diet, and alcohol reduction
+- **Practices:** lose excess body fat - roughly 1 mmHg systolic reduction per kilogram (2.2 lb) lost, 150 minutes/week of moderate aerobic activity, about 20 minutes/day, eat a DASH-pattern diet - whole foods, low sodium, high potassium/magnesium, 10 minutes of daily downtime/nature exposure to shift out of sympathetic activation, address sleep apnea specifically if snoring, waking exhausted despite 8 hours, or witnessed breathing pauses, limit alcohol, which raises blood pressure directly and dose-dependently
+- **Important concepts:** medication as a bridge that manages the number without fixing the underlying cause, high blood pressure as symptomless, cumulative organ damage rather than a number to tolerate
+
+## 16. The Real Reason You Can't Lose Belly Fat
+
+- **Video ID:** `pB_6K36gJDc`
+- **URL:** https://www.youtube.com/watch?v=pB_6K36gJDc
+- **Upload date:** 2026-07-07
+- **Duration:** 09:58
+- **Source file:** `sources/clean/pB_6K36gJDc.txt`
+- **Main subjects:** two distinct populations with different belly-fat mechanisms - people carrying significant excess weight versus already-lean people stuck on a final stubborn layer, leptin and ghrelin dysregulation in people carrying excess fat, making them measurably hungrier at the same intake than a leaner person, aromatization - visceral fat tissue converting testosterone to estrogen, compounding the hormonal barrier to fat loss, alpha-2 adrenergic receptor density in lower-abdominal fat cells as the reason that specific area resists fat mobilization longest
+- **Practices:** build meals around protein, fiber, and fat rather than processed carbohydrates, to increase satiety per calorie, track calories precisely for 2-3 weeks specifically when already lean, since the remaining deficit needed may be as small as 100-200 calories/day, get a body composition measurement (not just scale weight) to see fat loss even when the scale stalls, prioritize sleep specifically because one bad night measurably raises ghrelin and lowers leptin the next day
+- **Important concepts:** calories in/calories out affirmed as real while the hormonal environment explains why it feels harder for some people, the lower abdomen as the anatomically last region to release fat, not a sign of something broken
+
+## 17. The Silent Epidemic That's More Dangerous Than Smoking
 
 - **Video ID:** `96ss9bcEnlg`
 - **URL:** https://www.youtube.com/watch?v=96ss9bcEnlg
@@ -141,7 +196,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** prioritize quality of contact over size of social network - a few people you're truly at peace with, reduce friction to real contact - phone calls over texts, in-person over phone calls, pair physical movement with social contact (e.g. group fitness) for a combined biological benefit, weekly challenge - call (not text) one person you've been meaning to reconnect with
 - **Important concepts:** social isolation (objective, few contacts) versus loneliness (subjective, felt disconnection) as distinct constructs with different health pathways, a dose-response relationship between cumulative lifetime loneliness and mortality risk, allostatic load as the cumulative biological wear from chronic stress
 
-## 13. The Truth About Getting Fit That No One Sells You
+## 18. The Truth About Getting Fit That No One Sells You
 
 - **Video ID:** `I0DV1jzKIC8`
 - **URL:** https://www.youtube.com/watch?v=I0DV1jzKIC8
@@ -152,7 +207,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** build training around five patterns - squat, hinge/deadlift, push, pull, carry - with isolation work as secondary, target roughly 10 sets per muscle group per week, split across two sessions per muscle group, apply progressive overload primarily by adding weight over time, tracked against the previous week, push working sets close to (not necessarily to) failure, through a full range of motion, walk daily without headphones as unscheduled daily movement, separate from formal cardio
 - **Important concepts:** total weekly training volume per muscle group as the primary driver of results, not program choice, soreness explicitly rejected as a valid measure of workout effectiveness, recovery, not the workout itself, as where muscle is actually built
 
-## 14. These 4 Things Will Define Your Life
+## 19. These 4 Things Will Define Your Life
 
 - **Video ID:** `93Pkb80GO6U`
 - **URL:** https://www.youtube.com/watch?v=93Pkb80GO6U
@@ -163,7 +218,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** practice articulating hard conversations and writing, then review afterward what didn't land and why, lift heavy things and walk daily, consistently, for years, as the entire prescription for physical capacity, use physical friction (an NFC-tag app blocker) to build tolerance for unstimulated silence, follow a genuine question or curiosity down a "rabbit hole" in an area of life that's stalled (finances, health, communication)
 - **Important concepts:** discomfort with silence as usually discomfort with one's own unprocessed thoughts, not boredom, the compounding gap over 20 years between someone who reads/questions/thinks and someone who mostly consumes
 
-## 15. What Actually Extends Your Life (It's Not What's Trending)
+## 20. What Actually Extends Your Life (It's Not What's Trending)
 
 - **Video ID:** `3_BYtYzZknM`
 - **URL:** https://www.youtube.com/watch?v=3_BYtYzZknM
@@ -174,7 +229,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** build VO2 max through zone 2 cardio plus some higher-intensity intervals, in any enjoyable activity, resistance train 30-60 minutes/week minimum for the largest mortality benefit, ~1.5-2 hours/week for physique/functional gains, sleep 7-8 hours with consistent bed/wake times, prioritizing regularity alongside duration, be intentional about who you spend time with and whether those relationships are nourishing, minimize ultra-processed food and eat a Mediterranean-pattern diet (plants, olive oil, fish, nuts, legumes)
 - **Important concepts:** VO2 max as "basically 90% of what we know" about longevity, versus the "extra little bit" trending interventions add, a dose-response relationship for both resistance training and sleep duration - benefits appearing in a specific range, not scaling linearly upward, the distinction between evidence for a supplement's active ingredient and evidence for a specific branded product
 
-## 16. What Is an Elimination Diet? (A Doctor Explains)
+## 21. What Is an Elimination Diet? (A Doctor Explains)
 
 - **Video ID:** `sKC2Mter49o`
 - **URL:** https://www.youtube.com/watch?v=sKC2Mter49o
@@ -185,7 +240,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** eliminate gluten, dairy, eggs, soy, corn, refined sugar, alcohol, and often nightshades for about 3 weeks, reintroduce one food at a time, roughly 3 days apart, tracking symptoms before adding the next, track energy, sleep, digestion, skin, mood, and joints daily in simple notes during both phases
 - **Important concepts:** food sensitivities as often invisible to standard labs, detectable mainly through elimination-then-reintroduction response, reintroduction, not elimination, framed as the phase that actually produces the diagnostic answer
 
-## 17. What Your Feed Is Actually Doing to Your Brain
+## 22. What Your Feed Is Actually Doing to Your Brain
 
 - **Video ID:** `PvZl9gq0w0A`
 - **URL:** https://www.youtube.com/watch?v=PvZl9gq0w0A
@@ -196,7 +251,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** use physical friction (an NFC-tag app blocker) rather than relying on willpower or built-in screen time limits, give the nervous system somewhere to return to - 20 minutes daily with no stimulation (a walk without audio, sitting without a screen, journaling), notice whether reaching for the phone is a deliberate choice or an automatic reflex
 - **Important concepts:** the algorithm as engineered for engagement/activation, not preference - outrage and anxiety keep people on-platform longer than satisfaction does, emotional baseline drift - repeated high-arousal content raising the resting level the nervous system treats as normal, making calm feel like something's missing
 
-## 18. Why You Can't Do Hard Things
+## 23. Why You Can't Do Hard Things
 
 - **Video ID:** `o_0VVZIFoLw`
 - **URL:** https://www.youtube.com/watch?v=o_0VVZIFoLw
@@ -207,7 +262,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** let effort cost something real, on purpose, in a small way most days (walk instead of ride, cook instead of order, read instead of scroll), finish two specific unfinished things rather than leaving many tasks open in the background, set the bar deliberately low enough to clear, then raise it gradually, to make reward "legible" again
 - **Important concepts:** effort as a genuine, computed cost rather than a metaphor, subtracted from perceived reward value, wanting (dopamine/pursuit) and liking (pleasure) as dissociable brain systems
 
-## 19. Why You Feel Flat When Nothing Is Actually Wrong
+## 24. Why You Feel Flat When Nothing Is Actually Wrong
 
 - **Video ID:** `4-eiU-FlyJ8`
 - **URL:** https://www.youtube.com/watch?v=4-eiU-FlyJ8
@@ -218,7 +273,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** protect the first and last hour of the day from any phone use, keep phones off the table during meals, and eat alone with no screen at all, ask questions that don't have a lookup-able answer, ideally with another person, out loud, join a recurring, embodied, in-person commitment (a regular group, volunteering, a standing gathering) rather than a one-off, find something outside yourself that depends on you, deliberately practice being bored - a drive with no music, a wait with no phone, sitting with no plan
 - **Important concepts:** solvable problems versus things that can only be lived, as a distinction for where attention actually needs to go, digital substitutes for real needs (connection, being known, thinking) framed as close enough not to trigger rejection while quietly hollowing out the original need
 
-## 20. Why You Need To Fail
+## 25. Why You Need To Fail
 
 - **Video ID:** `3CETqBJ_4gk`
 - **URL:** https://www.youtube.com/watch?v=3CETqBJ_4gk
@@ -229,7 +284,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** constrain each new attempt with a hard time cap, money cap, and emotional cap before starting, ship an intentionally rough first version rather than waiting to make it good, after each attempt, explicitly decide to kill it, iterate, or double down — no open-ended lingering
 - **Important concepts:** failing cheaply and early as a way of "buying skills at a discount", the paralysis of "I need the right idea" versus the reality that most ideas are testable for a few hundred dollars in a weekend, success as an exponential payoff on a long, flat stretch of accumulated small failures
 
-## 21. Why Your Drive Is Gone (It's Probably Not Testosterone)
+## 26. Why Your Drive Is Gone (It's Probably Not Testosterone)
 
 - **Video ID:** `BBc4QWydJ74`
 - **URL:** https://www.youtube.com/watch?v=BBc4QWydJ74
@@ -240,7 +295,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** lift heavy 3-4x/week, walk daily, 30 minutes, with no phone/podcast/scrolling, eat enough, especially protein and quality carbohydrates, rather than under-eating while under stress, commit to one non-negotiable responsibility that has real consequences to someone or something, remove one specific source of "cheap dopamine" rather than attempting a full digital detox
 - **Important concepts:** drive as a signaling problem (cortisol plus dopamine plus purpose) rather than a testosterone deficiency, testosterone framed as responsive to demand rather than causal on its own, purpose defined specifically as direction and chosen obligation, not motivation or passion
 
-## 22. Your Brain Is Lying To You
+## 27. Your Brain Is Lying To You
 
 - **Video ID:** `bgZaTSSYRxA`
 - **URL:** https://www.youtube.com/watch?v=bgZaTSSYRxA
@@ -255,13 +310,29 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 ## Index by practices
 
+**10 minutes daily sitting outside in silence, and other genuine parasympathetic activation (breathwork, walking without headphones, time in nature)** — The REAL Cause of Brain Fog (`9l-3tKMcvmU`)
+
+**10 minutes daily sitting outside in silence, no phone** — The #1 Habit That’s Aging You Faster (`SHZJmfZvYpQ`)
+
+**10 minutes of daily downtime/nature exposure to shift out of sympathetic activation** — The REAL Reason You Blood Pressure is High (`dJAh3qEQJBI`)
+
+**150 minutes/week of moderate aerobic activity, about 20 minutes/day** — The REAL Reason You Blood Pressure is High (`dJAh3qEQJBI`)
+
+**2-4 minutes of slow belly breathing (roughly 4-5 seconds in, hold, 4-8 seconds out, hold) before or after something stressful** — The #1 Habit That’s Aging You Faster (`SHZJmfZvYpQ`)
+
 **5 minutes of parasympathetic practice morning and night (breath work, silence, unplugged walking)** — Modern Life Is A Disease (`oufQkXnSkes`)
+
+**7-9 hours of sleep, consistent timing, dark/cold/quiet room, no screens an hour before bed** — The REAL Cause of Brain Fog (`9l-3tKMcvmU`)
+
+**a daily walk without headphones** — The #1 Habit That’s Aging You Faster (`SHZJmfZvYpQ`)
 
 **a day with no to-do list attached** — The Real Reason We're All Exhausted (`Z2EIZuDFOuQ`)
 
 **a morning walk before the day's demands start** — The Real Reason We're All Exhausted (`Z2EIZuDFOuQ`)
 
 **a supplement stack in order of escalating strength - magnesium glycinate (200-400mg, 45 minutes before bed), sublingual melatonin spray if needed, valerian root if more is needed** — How To Sleep (`jA0Zl8ipmTQ`)
+
+**address sleep apnea specifically if snoring, waking exhausted despite 8 hours, or witnessed breathing pauses** — The REAL Reason You Blood Pressure is High (`dJAh3qEQJBI`)
 
 **after achieving something meaningful, deliberately pause and register the distance already traveled before moving to the next goal** — Your Brain Is Lying To You (`bgZaTSSYRxA`)
 
@@ -279,6 +350,10 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **build deliberate "boredom windows" into the day - a commute, a walk, or a meal with no audio or screen** — Neuroscience Confirms: What Constant Stimulation Did to Your Brain (`ffkUyUHif3Y`)
 
+**build meals around protein and fat to smooth the glucose curve rather than spiking and crashing it** — The REAL Cause of Brain Fog (`9l-3tKMcvmU`)
+
+**build meals around protein, fiber, and fat rather than processed carbohydrates, to increase satiety per calorie** — The Real Reason You Can't Lose Belly Fat (`pB_6K36gJDc`)
+
 **build training around five patterns - squat, hinge/deadlift, push, pull, carry - with isolation work as secondary** — The Truth About Getting Fit That No One Sells You (`I0DV1jzKIC8`)
 
 **build vo2 max through zone 2 cardio plus some higher-intensity intervals, in any enjoyable activity** — What Actually Extends Your Life (It's Not What's Trending) (`3_BYtYzZknM`)
@@ -293,13 +368,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **deliberately practice being bored - a drive with no music, a wait with no phone, sitting with no plan** — Why You Feel Flat When Nothing Is Actually Wrong (`4-eiU-FlyJ8`)
 
+**deliberately repeat specific self-descriptions ("i'm the person who...") to reshape default thought patterns** — The #1 Habit That’s Aging You Faster (`SHZJmfZvYpQ`)
+
 **deliberately spend time alone, unwitnessed, without documenting or performing it** — Aura Is Real. Here's the Science. (`mQOie2JHpPU`)
 
 **do difficult things privately, with no audience and no applause, specifically because no one will see them** — Aura Is Real. Here's the Science. (`mQOie2JHpPU`)
 
 **dual n-back training, 15-20 minutes daily or every other day** — Neuroplasticity Is Working Against You (`hguZ68FPLmM`)
 
+**eat a dash-pattern diet - whole foods, low sodium, high potassium/magnesium** — The REAL Reason You Blood Pressure is High (`dJAh3qEQJBI`)
+
 **eat enough, especially protein and quality carbohydrates, rather than under-eating while under stress** — Why Your Drive Is Gone (It's Probably Not Testosterone) (`BBc4QWydJ74`)
+
+**eat only foods available before the agricultural revolution - meat, fish, eggs, vegetables, fruits, tubers, nuts, seeds, natural fats - for 60 days, until full, with zero processed food or added sugar** — I Ate Primal for 60 Days and This Happened (`Bd1g2WlGqzM`)
 
 **eat only foods that existed 100 years ago** — Modern Life Is A Disease (`oufQkXnSkes`)
 
@@ -312,6 +393,10 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **fixed sleep/wake time, dark cold quiet room, no screens or caffeine late, 7-9 hours** — Modern Life Is A Disease (`oufQkXnSkes`)
 
 **follow a genuine question or curiosity down a "rabbit hole" in an area of life that's stalled (finances, health, communication)** — These 4 Things Will Define Your Life (`93Pkb80GO6U`)
+
+**get a body composition measurement (not just scale weight) to see fat loss even when the scale stalls** — The Real Reason You Can't Lose Belly Fat (`pB_6K36gJDc`)
+
+**get a sleep study if waking exhausted despite adequate time in bed** — The REAL Cause of Brain Fog (`9l-3tKMcvmU`)
 
 **give the nervous system somewhere to return to - 20 minutes daily with no stimulation (a walk without audio, sitting without a screen, journaling)** — What Your Feed Is Actually Doing to Your Brain (`PvZl9gq0w0A`)
 
@@ -332,6 +417,10 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **lift heavy compound movements 2-3x per week** — Modern Life Is A Disease (`oufQkXnSkes`)
 
 **lift heavy things and walk daily, consistently, for years, as the entire prescription for physical capacity** — These 4 Things Will Define Your Life (`93Pkb80GO6U`)
+
+**limit alcohol, which raises blood pressure directly and dose-dependently** — The REAL Reason You Blood Pressure is High (`dJAh3qEQJBI`)
+
+**lose excess body fat - roughly 1 mmhg systolic reduction per kilogram (2.2 lb) lost** — The REAL Reason You Blood Pressure is High (`dJAh3qEQJBI`)
 
 **migrate one tool at a time (e.g. email first) rather than rebuilding an entire stack at once** — The Productivity Apps I Trust With My Life (`cXsZzRRDTCg`)
 
@@ -365,6 +454,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **prioritize quality of contact over size of social network - a few people you're truly at peace with** — The Silent Epidemic That's More Dangerous Than Smoking (`96ss9bcEnlg`)
 
+**prioritize sleep specifically because one bad night measurably raises ghrelin and lowers leptin the next day** — The Real Reason You Can't Lose Belly Fat (`pB_6K36gJDc`)
+
 **protect recovery time on the calendar as a non-negotiable commitment, not leftover time** — The Real Reason We're All Exhausted (`Z2EIZuDFOuQ`)
 
 **protect the few things that survive that filter "at all cost"; drop the rest** — Neuroscience Confirms - Why Doing Less Helps You Achieve More (`iD5zio-GXyA`)
@@ -395,6 +486,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **sleep 7-8 hours with consistent bed/wake times, prioritizing regularity alongside duration** — What Actually Extends Your Life (It's Not What's Trending) (`3_BYtYzZknM`)
 
+**smile or laugh on purpose, independent of mood, as a way of training the same response** — The #1 Habit That’s Aging You Faster (`SHZJmfZvYpQ`)
+
 **sprint 20-30 seconds once a week** — Modern Life Is A Disease (`oufQkXnSkes`)
 
 **stand and move every hour if desk-bound** — Modern Life Is A Disease (`oufQkXnSkes`)
@@ -402,6 +495,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **target roughly 10 sets per muscle group per week, split across two sessions per muscle group** — The Truth About Getting Fit That No One Sells You (`I0DV1jzKIC8`)
 
 **the "rule of three" - three calming, low-stimulation actions done in the same order every night** — How To Sleep (`jA0Zl8ipmTQ`)
+
+**track calories precisely for 2-3 weeks specifically when already lean, since the remaining deficit needed may be as small as 100-200 calories/day** — The Real Reason You Can't Lose Belly Fat (`pB_6K36gJDc`)
 
 **track energy, sleep, digestion, skin, mood, and joints daily in simple notes during both phases** — What Is an Elimination Diet? (A Doctor Explains) (`sKC2Mter49o`)
 
