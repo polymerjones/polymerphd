@@ -1,0 +1,50 @@
+{
+  "slug": "human-performance",
+  "title": "Human Performance and Health Optimization",
+  "subtitle": "Cross-channel research on stress, energy, and performance",
+  "lede": "A reference to {videos} sources, drawn from multiple creators, on human performance and health optimization.",
+  "about_paragraphs": [
+    "A reference built from {videos} sources across multiple YouTube creators — physicians and researchers discussing stress physiology, energy, recovery, and performance — synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a specific point in a specific source video, at a specific timestamp. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["subjects", "practices", "concepts"],
+  "primary_facet": "subjects",
+  "controlled_facets": {},
+  "universal_sections": [
+    "Central claim",
+    "Symptoms and body signals addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+
+  "glossary_file": "07_PLAIN_ENGLISH_GLOSSARY.md",
+  "curated_facts_file": null,
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "subjects": "Main subjects",
+    "practices": "Practices",
+    "concepts": "Important concepts"
+  },
+  "catalog_unit_label": "Videos",
+  "catalog_id_label": "Video ID",
+
+  "attribution": {
+    "style": "multi_channel",
+    "name": "Various creators",
+    "url": null
+  },
+
+  "custom_gpt": {
+    "enabled": true,
+    "instructions_file": "PASTE_INTO_GPT_INSTRUCTIONS.txt",
+    "file_limit": 20
+  },
+
+  "derived_practice_facets": false
+}

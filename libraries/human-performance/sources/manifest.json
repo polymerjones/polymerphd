@@ -1,0 +1,56 @@
+{
+  "sources": [
+    {
+      "id": "oufQkXnSkes",
+      "kind": "youtube",
+      "title": "Modern Life Is A Disease",
+      "url": "https://www.youtube.com/watch?v=oufQkXnSkes",
+      "upload_date": "2026-04-03",
+      "duration_seconds": 1450,
+      "duration": "24:10",
+      "word_count": 4042,
+      "clean_file": "clean/oufQkXnSkes.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1450
+      }
+    },
+    {
+      "id": "iD5zio-GXyA",
+      "kind": "youtube",
+      "title": "Neuroscience Confirms - Why Doing Less Helps You Achieve More",
+      "url": "https://www.youtube.com/watch?v=iD5zio-GXyA",
+      "upload_date": "2026-05-09",
+      "duration_seconds": 906,
+      "duration": "15:06",
+      "word_count": 2583,
+      "clean_file": "clean/iD5zio-GXyA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 906
+      }
+    },
+    {
+      "id": "Z2EIZuDFOuQ",
+      "kind": "youtube",
+      "title": "The Real Reason We're All Exhausted",
+      "url": "https://www.youtube.com/watch?v=Z2EIZuDFOuQ",
+      "upload_date": "2026-07-01",
+      "duration_seconds": 717,
+      "duration": "11:57",
+      "word_count": 2179,
+      "clean_file": "clean/Z2EIZuDFOuQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 717
+      }
+    }
+  ],
+  "skipped": []
+}

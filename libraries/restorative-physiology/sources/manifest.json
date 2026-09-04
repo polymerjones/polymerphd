@@ -885,6 +885,23 @@
       }
     },
     {
+      "id": "vkC48WFZ6n4",
+      "kind": "youtube",
+      "title": "The First 4 Things YOUR Body Should Receive Before Coffee",
+      "url": "https://www.youtube.com/watch?v=vkC48WFZ6n4",
+      "upload_date": "2026-09-03",
+      "duration_seconds": 1477,
+      "duration": "24:37",
+      "word_count": 4442,
+      "clean_file": "clean/vkC48WFZ6n4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1477
+      }
+    },
+    {
       "id": "lx5gTHaPMLk",
       "kind": "youtube",
       "title": "The First Thing Your STOMACH Should Receive Every Morning",
@@ -984,6 +1001,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1763
+      }
+    },
+    {
+      "id": "IEuEIy2noHE",
+      "kind": "youtube",
+      "title": "The Hygiene Mistake Almost Everyone Makes After 60",
+      "url": "https://www.youtube.com/watch?v=IEuEIy2noHE",
+      "upload_date": "2026-09-04",
+      "duration_seconds": 1466,
+      "duration": "24:26",
+      "word_count": 4368,
+      "clean_file": "clean/IEuEIy2noHE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1466
       }
     },
     {
@@ -1375,6 +1409,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1621
+      }
+    },
+    {
+      "id": "Ogx442iFmFw",
+      "kind": "youtube",
+      "title": "This One Movement Makes You Feel Younger",
+      "url": "https://www.youtube.com/watch?v=Ogx442iFmFw",
+      "upload_date": "2026-09-02",
+      "duration_seconds": 1444,
+      "duration": "24:04",
+      "word_count": 4352,
+      "clean_file": "clean/Ogx442iFmFw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1444
       }
     },
     {
@@ -2636,6 +2687,23 @@
       }
     },
     {
+      "id": "_fugA2uqdQI",
+      "kind": "youtube",
+      "title": "What YOUR Grey Hair Reveals About How YOU Age",
+      "url": "https://www.youtube.com/watch?v=_fugA2uqdQI",
+      "upload_date": "2026-09-01",
+      "duration_seconds": 1525,
+      "duration": "25:25",
+      "word_count": 4349,
+      "clean_file": "clean/_fugA2uqdQI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1525
+      }
+    },
+    {
       "id": "izsNttOseXI",
       "kind": "youtube",
       "title": "What YOUR Grip Reveals That Blood Pressure Cannot",
@@ -2837,6 +2905,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1617
+      }
+    },
+    {
+      "id": "K4EvUbXbrMI",
+      "kind": "youtube",
+      "title": "Why 2 Minutes of Stillness Beats 30 Minutes of Walking",
+      "url": "https://www.youtube.com/watch?v=K4EvUbXbrMI",
+      "upload_date": "2026-08-31",
+      "duration_seconds": 1521,
+      "duration": "25:21",
+      "word_count": 4394,
+      "clean_file": "clean/K4EvUbXbrMI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1521
       }
     },
     {
@@ -4282,6 +4367,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1602
+      }
+    },
+    {
+      "id": "uXIJ2KdVgqo",
+      "kind": "youtube",
+      "title": "Why YOUR Elimination Diet Never Fixed the Bloating",
+      "url": "https://www.youtube.com/watch?v=uXIJ2KdVgqo",
+      "upload_date": "2026-08-30",
+      "duration_seconds": 1522,
+      "duration": "25:22",
+      "word_count": 4370,
+      "clean_file": "clean/uXIJ2KdVgqo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1522
       }
     },
     {
