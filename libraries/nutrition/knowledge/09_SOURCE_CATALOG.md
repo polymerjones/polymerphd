@@ -3,7 +3,7 @@
 Every source ingested into this knowledge package, with the Main subjects, Foods & products, Concerns, and Important concepts each one covers.
 
 **Video sources from:** Paul Saladino MD — https://www.youtube.com/@Paulsaladinomd  
-**Sources catalogued:** 428
+**Sources catalogued:** 438
 
 Entries are alphabetical by title. Use the source ID to trace any claim in the other files back to its source.
 
@@ -33,7 +33,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** microplastics found in human testicles, ovaries, and brains, hot liquid contact with plastic or aluminum increasing chemical/particle transfer, PFAS sprayed onto leggings and other clothing as a "moisture-wicking" treatment, polyester underwear reducing sperm count in a human and canine study
 - **Important concepts:** microplastics as a "flux" the body absorbs and gradually clears rather than a one-time dose, hot-liquid-to-plastic/aluminum transfer as the largest controllable exposure route, an electrostatic (not endocrine) mechanism proposed for the polyester/sperm-count finding
 
-## 3. 5 Surprising Side Effects of Eating Meat for Women
+## 3. 45 and Thriving!!
+
+- **Source ID:** `UNaIf0rpQJ8`
+- **URL:** https://www.youtube.com/watch?v=UNaIf0rpQJ8
+- **Upload date:** 2022-06-30
+- **Duration:** 00:56
+- **Source file:** `sources/clean/UNaIf0rpQJ8.txt`
+- **Main subjects:** a 45th-birthday personal testimonial citing drug/hormone-free vitality (mood, strength, libido, mental clarity) attributed to diet and activity
+- **Foods & products:** organs, meat, fruit, honey, raw dairy, named as the diet credited for the host's vitality
+- **Concerns:** none recorded
+- **Important concepts:** rejecting age-related decline as inevitable when diet is evolutionarily aligned
+
+## 4. 5 Surprising Side Effects of Eating Meat for Women
 
 - **Source ID:** `9J6_qoYqkSo`
 - **URL:** https://www.youtube.com/watch?v=9J6_qoYqkSo
@@ -45,7 +57,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 4. A day in my life in Costa Rica
+## 5. A day in my life in Costa Rica
 
 - **Source ID:** `55hOAvJh-Iw`
 - **URL:** https://www.youtube.com/watch?v=55hOAvJh-Iw
@@ -57,7 +69,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** nature/outdoor time framed as "a nutrient that is critical for humans"
 
-## 5. Acne? Fix your diet!
+## 6. Acne? Fix your diet!
 
 - **Source ID:** `FH-PaE66F7U`
 - **URL:** https://www.youtube.com/watch?v=FH-PaE66F7U
@@ -69,7 +81,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** insulin resistance from processed sugar/seed oils and high-glycemic diets, and deficiencies in zinc, vitamin A, vitamin D, and vitamin E, all named as contributors to acne
 - **Important concepts:** skin issues framed as a diet problem rather than a topical/hygiene problem
 
-## 6. Affordable grass-fed meat at Sam's Club!
+## 7. Affordable grass-fed meat at Sam's Club!
 
 - **Source ID:** `B1iDumoCaOI`
 - **URL:** https://www.youtube.com/watch?v=B1iDumoCaOI
@@ -81,7 +93,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** higher-fat ground beef (80/20) preferred for taste and for stearic acid content
 
-## 7. Alcohol is a toxin…
+## 8. Alcohol is a toxin…
 
 - **Source ID:** `z1ub7PfX22o`
 - **URL:** https://www.youtube.com/watch?v=z1ub7PfX22o
@@ -93,7 +105,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** oxidative stress and increased fat in the liver from alcohol, hangovers described as electrolyte depletion plus oxidative stress, mold toxins, sulfites, and pesticides named specifically in wine
 - **Important concepts:** rejecting the idea that alcohol is necessary for social enjoyment
 
-## 8. Alcohol is Poison!
+## 9. Alcohol is Poison!
 
 - **Source ID:** `2ARPAsZK41c`
 - **URL:** https://www.youtube.com/watch?v=2ARPAsZK41c
@@ -105,7 +117,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** neocortex shrinkage associated with low-level alcohol consumption (1-2 drinks/day average), per a cited March 2022 study, established neocortex damage from high-level consumption (12-24 drinks/week average), alcohol lowering testosterone and raising estrogen via increased aromatization of androgens
 - **Important concepts:** aromatization of androgens as the mechanism linking alcohol to lower testosterone and higher estrogen
 
-## 9. All about WATER. Fluoride? Alkaline? Structured? Filtration? Contaminants in your spring water?
+## 10. All about WATER. Fluoride? Alkaline? Structured? Filtration? Contaminants in your spring water?
 
 - **Source ID:** `6tT1RQ_9-l8`
 - **URL:** https://www.youtube.com/watch?v=6tT1RQ_9-l8
@@ -117,7 +129,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluoride in municipal drinking water and in fluoride toothpaste/dental treatments, dental fluorosis traced to a vegetable tenderizer rather than water itself, radioactive contamination (uranium, alpha/beta particles) in European mineral waters, aluminum oxide/hydroxide added by Berkey post-filters, unsubstantiated marketing claims behind alkaline water and "structured" water devices
 - **Important concepts:** reverse osmosis as the preferred filtration method, unremineralized, a possible U-shaped dose-response for fluoride, pineal gland fluoride accumulation and calcification as an unresolved question, odontoblasts and fat-soluble vitamins as an alternative explanation for cavities, exclusion-zone ("fourth phase") water research contrasted with commercial "structuring" devices
 
-## 10. Almond milk vs. raw milk
+## 11. Almond milk vs. raw milk
 
 - **Source ID:** `83AYM5srCLk`
 - **URL:** https://www.youtube.com/watch?v=83AYM5srCLk
@@ -129,7 +141,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** almonds' high oxalate content, linked to kidney stones, almond milk and almond milk products "consistently associated with kidney issues and genital urinary tract issues in kids"
 - **Important concepts:** none recorded
 
-## 11. Amazing carnivore diet transformation
+## 12. Amazing carnivore diet transformation
 
 - **Source ID:** `BEv9zXQ4Uoc`
 - **URL:** https://www.youtube.com/watch?v=BEv9zXQ4Uoc
@@ -141,7 +153,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** pre-diabetes, obesity, gout, asthma, and COPD, all reported resolved in Ryan's case
 - **Important concepts:** none recorded
 
-## 12. American bread vs Real bread
+## 13. American bread vs Real bread
 
 - **Source ID:** `azfzvdyrd9s`
 - **URL:** https://www.youtube.com/watch?v=azfzvdyrd9s
@@ -153,7 +165,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** synthetic folic acid, a difficult-to-metabolize synthetic form of folate, linked in cited research to increased autism rates via higher cord blood levels, improper fermentation (reliance on yeast rather than traditional fermentation) as a cause of digestive discomfort
 - **Important concepts:** a historical, artisanal version of a food (traditional sourdough) existing alongside a modern, heavily processed version (American bread) that many people tolerate poorly
 
-## 13. An animal-based diet is optimal for humans
+## 14. An animal-based diet is optimal for humans
 
 - **Source ID:** `e-KTjQyZNvQ`
 - **URL:** https://www.youtube.com/watch?v=e-KTjQyZNvQ
@@ -165,7 +177,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** creatine, carnitine, choline, carnosine, anserine, taurine, B12, K2, and riboflavin named as nutrients scarce in plant foods
 
-## 14. Ancestral living is so powerful. Full episode with my buddy Liver King on my channel.
+## 15. Ancestral living is so powerful. Full episode with my buddy Liver King on my channel.
 
 - **Source ID:** `TxYru42yi0o`
 - **URL:** https://www.youtube.com/watch?v=TxYru42yi0o
@@ -177,7 +189,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** depression, addiction, and psychiatric illness, named among conditions reportedly improved by ancestral/dietary change, eczema, psoriasis, and unspecified autoimmune conditions, named as reportedly resolved, up to 100 lb of weight loss, named as a reported outcome
 - **Important concepts:** ancestral living as a broad lifestyle philosophy encompassing diet and daily habits together, dietary change framed as capable of addressing psychiatric and addiction issues, not just physical symptoms
 
-## 15. Animal-based at Sam’s Club
+## 16. Animal-based at Sam’s Club
 
 - **Source ID:** `BfjJmEqX9Og`
 - **URL:** https://www.youtube.com/watch?v=BfjJmEqX9Og
@@ -189,7 +201,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** garlic potentially irritating the gut for people with existing gut issues
 - **Important concepts:** avocados and bananas named as lower-pesticide-risk non-organic produce due to their peels
 
-## 16. Animal-Based at Whole Foods
+## 17. Animal-Based at Whole Foods
 
 - **Source ID:** `AcTJJxzkoGo`
 - **URL:** https://www.youtube.com/watch?v=AcTJJxzkoGo
@@ -201,7 +213,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** carrageenan and other additives commonly found in processed deli meats
 - **Important concepts:** plant-based egg substitutes framed dismissively as an inferior, non-animal-based product to avoid
 
-## 17. Animal-based day of eating in Costa Rica
+## 18. Animal-based day of eating in Costa Rica
 
 - **Source ID:** `am6oFhtgY9U`
 - **URL:** https://www.youtube.com/watch?v=am6oFhtgY9U
@@ -213,7 +225,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 18. Animal-based day of eating!
+## 19. Animal-based day of eating!
 
 - **Source ID:** `ne-0X9uj2ew`
 - **URL:** https://www.youtube.com/watch?v=ne-0X9uj2ew
@@ -225,7 +237,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** taking no drugs, hormones, or supplements as a stated credential for the diet's sufficiency
 
-## 19. Animal-based diet = optimal health
+## 20. Animal-based diet = optimal health
 
 - **Source ID:** `iT7DxpR8IJY`
 - **URL:** https://www.youtube.com/watch?v=iT7DxpR8IJY
@@ -237,7 +249,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** neural inflammation linked to reduced energy, mental clarity, libido, and happiness
 - **Important concepts:** diet as the largest single lever for health among several evolutionary-alignment factors
 
-## 20. Animal-based diets are sexy
+## 21. Animal-based diets are sexy
 
 - **Source ID:** `2fGij-Ipb3k`
 - **URL:** https://www.youtube.com/watch?v=2fGij-Ipb3k
@@ -249,7 +261,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a vegan diet framed as nutrient deficient and full of plant defense chemicals
 - **Important concepts:** none recorded
 
-## 21. Animal-based diets will eliminate cravings
+## 22. Animal-based diets will eliminate cravings
 
 - **Source ID:** `SATM3VJyVYc`
 - **URL:** https://www.youtube.com/watch?v=SATM3VJyVYc
@@ -261,7 +273,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** methylxanthines (caffeine, theobromine) causing mineral loss, which drives cravings via nutrient deficiency, insufficient organ meat intake causing nutrient inadequacy, which undermines satiety
 - **Important concepts:** weekend junk food eating framed as a direct cause of weekday cravings
 
-## 22. Animal-based fridge tour in Costa Rica
+## 23. Animal-based fridge tour in Costa Rica
 
 - **Source ID:** `B3O_OfrgFWs`
 - **URL:** https://www.youtube.com/watch?v=B3O_OfrgFWs
@@ -273,7 +285,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 23. Animal-based is the ultimate anti-inflammatory diet!
+## 24. Animal-based is the ultimate anti-inflammatory diet!
 
 - **Source ID:** `M4e58dWnc7w`
 - **URL:** https://www.youtube.com/watch?v=M4e58dWnc7w
@@ -285,7 +297,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** gluten/lectins disrupting gut tight junctions, causing "leaky gut" and immune activation, plant defense chemicals in leaves, roots, stems, and seeds triggering immune activation and autoimmune conditions
 - **Important concepts:** leaky gut as the mechanism linking gluten/lectins to inflammation, plant defense chemicals framed as a general inflammatory trigger, not limited to gluten- containing grains
 
-## 24. Animal-based pasta recipe
+## 25. Animal-based pasta recipe
 
 - **Source ID:** `6XGZNFokY4U`
 - **URL:** https://www.youtube.com/watch?v=6XGZNFokY4U
@@ -297,7 +309,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** squash classified as a fruit rather than a vegetable
 
-## 25. Animal-based restaurant in Texas
+## 26. Animal-based restaurant in Texas
 
 - **Source ID:** `2E5Tp_TzyTU`
 - **URL:** https://www.youtube.com/watch?v=2E5Tp_TzyTU
@@ -309,7 +321,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** customers reportedly switching from seed-oil-cooking chains (Chipotle named as an example) to seed-oil-free restaurants
 
-## 26. Animals do not contain defense chemicals, but plants do!
+## 27. Animals do not contain defense chemicals, but plants do!
 
 - **Source ID:** `BAY_Uj9DLkA`
 - **URL:** https://www.youtube.com/watch?v=BAY_Uj9DLkA
@@ -321,7 +333,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a co-evolutionary explanation (500 million years of plant-animal co-evolution) for why plants contain defense chemicals and animal meat/organs do not
 
-## 27. Another plant-based marketing scam...
+## 28. Another plant-based marketing scam...
 
 - **Source ID:** `0Kmt0TtD5II`
 - **URL:** https://www.youtube.com/watch?v=0Kmt0TtD5II
@@ -333,7 +345,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils (sunflower, canola) as the main ingredients in a product marketed as a healthy butter substitute
 - **Important concepts:** stearic acid as a long-chain saturated fatty acid tied to mitochondrial health, weight loss, and satiety
 
-## 28. Are beans BS??
+## 29. Are beans BS??
 
 - **Source ID:** `TKeyH_8s7mA`
 - **URL:** https://www.youtube.com/watch?v=TKeyH_8s7mA
@@ -345,7 +357,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** phytic acid blocking mineral absorption, phytohemagglutinin associated with hundreds of documented food poisoning cases, and with leaky gut and dysbiosis in animal models
 - **Important concepts:** seeds framed as highly defended plant structures, since they carry the plant's reproductive DNA
 
-## 29. Are eggs the best shampoo? #animalbased #health
+## 30. Are eggs the best shampoo? #animalbased #health
 
 - **Source ID:** `-tnWOdPGuUA`
 - **URL:** https://www.youtube.com/watch?v=-tnWOdPGuUA
@@ -357,7 +369,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** phthalates, PFAS (perfluoroalkyl compounds), and other xenoestrogens in conventional shampoo fragrances and additives, said to penetrate the scalp and enter the body
 - **Important concepts:** zinc, taurine, carnitine, vitamin B12, and branched-chain amino acids in egg yolk/white as nutrients said to nourish the hair follicle when applied topically
 
-## 30. Are humans broken??
+## 31. Are humans broken??
 
 - **Source ID:** `4a4G5Uhqx5c`
 - **URL:** https://www.youtube.com/watch?v=4a4G5Uhqx5c
@@ -369,7 +381,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** rheumatoid arthritis, eczema, psoriasis, depression, anxiety, insomnia, infertility, menstrual irregularities, painful periods, and PMS, all framed as fixable through lifestyle
 - **Important concepts:** medical school reportedly teaching that humans "cannot fix ourselves," contrasted with the host's stated belief that lifestyle is "the best medicine"
 
-## 31. Are LED lights disrupting your circadian rhythm?
+## 32. Are LED lights disrupting your circadian rhythm?
 
 - **Source ID:** `AJDJ9MnmooQ`
 - **URL:** https://www.youtube.com/watch?v=AJDJ9MnmooQ
@@ -381,7 +393,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** LED flicker stressing the nervous system and eyes, LED blue light content interfering with sleep and circadian rhythm
 - **Important concepts:** thermal inertia in incandescent bulb filaments (heated tungsten, over 3000°F) preventing the perceived flicker that LEDs exhibit
 
-## 32. Are mushroom extracts safe?
+## 33. Are mushroom extracts safe?
 
 - **Source ID:** `-KBaMy_PX-E`
 - **URL:** https://www.youtube.com/watch?v=-KBaMy_PX-E
@@ -393,7 +405,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** mushroom peptides resembling immune epitopes, potentially overstimulating or triggering autoimmune responses in some individuals
 - **Important concepts:** weighing a plant/fungal food's benefits against its individual-level risks, rather than assuming a "beneficial" compound is universally safe
 
-## 33. Are peptides healthy?
+## 34. Are peptides healthy?
 
 - **Source ID:** `5_-OJCuwE9o`
 - **URL:** https://www.youtube.com/watch?v=5_-OJCuwE9o
@@ -405,7 +417,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** regaining weight up to four times faster after stopping GLP-1 drugs than after stopping exercise, unknown long-term cancer risk from recovery peptides BPC-157 and TB-500, with TB-500 shown to reactivate dormant cancers in animal models, growth hormone secretagogues' effects lasting only a few weeks after discontinuation
 - **Important concepts:** the host's own 48-year-old appearance and physiology, achieved without peptides, TRT, or steroids, offered as "a blueprint for what's possible," not a brag
 
-## 34. Are pork & chicken the new seed oils?
+## 35. Are pork & chicken the new seed oils?
 
 - **Source ID:** `oWFsV2PsgO0`
 - **URL:** https://www.youtube.com/watch?v=oWFsV2PsgO0
@@ -417,7 +429,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid (omega-6 polyunsaturated fat) in commercially fed pork and chicken, lipid peroxidation from omega-3 fats, on the shelf and in the body, fish oil supplements already oxidized before consumption
 - **Important concepts:** the membrane pacemaker theory of aging, differing signaling byproducts ("ioso") produced by omega-3 versus omega-6 fats, peroxidation susceptibility scaling with number of double bonds in a fat
 
-## 35. Are saturated fats causing heart disease?
+## 36. Are saturated fats causing heart disease?
 
 - **Source ID:** `a49gJwAf1yo`
 - **URL:** https://www.youtube.com/watch?v=a49gJwAf1yo
@@ -429,7 +441,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a "natural experiment" argument using historical population-level dietary and disease-rate data to challenge the diet-heart hypothesis
 
-## 36. Are these heart healthy?
+## 37. Are these heart healthy?
 
 - **Source ID:** `BcP-ZG30etE`
 - **URL:** https://www.youtube.com/watch?v=BcP-ZG30etE
@@ -441,7 +453,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils raising oxidation of LDL and raising Lp(a) despite an AHA "heart healthy" endorsement
 - **Important concepts:** none recorded
 
-## 37. Are we being deceived about grass-finished labeling?
+## 38. Are we being deceived about grass-finished labeling?
 
 - **Source ID:** `y1VcuNM35Nc`
 - **URL:** https://www.youtube.com/watch?v=y1VcuNM35Nc
@@ -453,7 +465,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the "greenwashing" of grass-fed labels via pellet-fed cattle, synthetic vitamins and minerals added to feed pellets, undisclosed on the label, suppliers refusing farm visits or signed practice affidavits, preservatives (nitrates, nitrites, celery powder, lactic acid) in cured meat products
 - **Important concepts:** grass-fed versus grass-finished as distinct, commonly conflated claims, air drying as a preservation method distinct from curing or cooking, accelerated shelf-life testing as a substitute for added preservatives
 
-## 38. Are you drinking radioactive elements in your bottled water?
+## 39. Are you drinking radioactive elements in your bottled water?
 
 - **Source ID:** `Xr1Wkn1fj58`
 - **URL:** https://www.youtube.com/watch?v=Xr1Wkn1fj58
@@ -465,7 +477,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** radioactive contaminants (uranium, gross alpha, gross beta) in European bottled mineral waters, plastic contamination in Fiji water
 - **Important concepts:** millisievert dose comparisons (chest x-ray, CT scan, flights) as a framework for interpreting water radioactivity, a mineral water's percentage share of a person's total daily uranium intake
 
-## 39. Are You Self-Medicating with Food?
+## 40. Are You Self-Medicating with Food?
 
 - **Source ID:** `AitX6UipzXA`
 - **URL:** https://www.youtube.com/watch?v=AitX6UipzXA
@@ -477,7 +489,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** using food for dopamine/enjoyment as a substitute for unmet deeper fulfillment, framed as a form of self-medication that undermines behavioral change efforts
 
-## 40. Are you still touching receipts?
+## 41. Are you still touching receipts?
 
 - **Source ID:** `0A8xig3pYcw`
 - **URL:** https://www.youtube.com/watch?v=0A8xig3pYcw
@@ -489,7 +501,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** BPA and BPS, endocrine disrupting chemicals, absorbed through the skin from handling thermal paper receipts
 - **Important concepts:** cumulative endocrine disruptor exposure as the reason to minimize even a "not the end of the world" individual exposure
 
-## 41. Are you using non-stick pans?
+## 42. Are you thriving??
+
+- **Source ID:** `eH7uiHsMgCU`
+- **URL:** https://www.youtube.com/watch?v=eH7uiHsMgCU
+- **Upload date:** 2022-07-16
+- **Duration:** 00:57
+- **Source file:** `sources/clean/eH7uiHsMgCU.txt`
+- **Main subjects:** addressing "I could never do that" pushback by making dietary recommendations conditional on honest self-assessment of whether someone is genuinely thriving
+- **Foods & products:** none recorded
+- **Concerns:** none recorded
+- **Important concepts:** thriving framed as a standard the listener must honestly self-assess, rather than a claim the host imposes universally, earbuds named alongside coffee, sourdough bread, sugar, and seed oils as things the host recommends cutting
+
+## 43. Are you using non-stick pans?
 
 - **Source ID:** `6kRodIeJvIQ`
 - **URL:** https://www.youtube.com/watch?v=6kRodIeJvIQ
@@ -501,7 +525,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFOA, removed from Teflon pans in 2013 for negative hormonal effects, headaches, and irritability, GenX, PFOA's replacement chemical, described as likely just as harmful, cheap Teflon pans commonly found in Airbnb rentals
 - **Important concepts:** none recorded
 
-## 42. Attack of the Oxalates! A hidden but nasty plant toxin, with Sally K Norton, MPH
+## 44. Attack of the Oxalates! A hidden but nasty plant toxin, with Sally K Norton, MPH
 
 - **Source ID:** `cQqRQ4xXq54`
 - **URL:** https://www.youtube.com/watch?v=cQqRQ4xXq54
@@ -513,7 +537,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** kidney stones (calcium oxalate), vulvodynia and other tissue pain attributed to oxalate crystal deposition, a documented human death from oxalate toxicity (sorrel soup), electrolyte and B-vitamin depletion during a transition off high-oxalate foods
 - **Important concepts:** oxalate as a "nutrient-to-toxin" mineral binder (calcium oxalate formation), oxalate accumulation in tissue over years, distinct from acute dietary exposure, the citrate-form mineral strategy (potassium/magnesium/calcium citrate) for managing crystal reaccumulation, endogenous oxalate production from hydroxyproline (collagen) metabolism
 
-## 43. Avoid folic acid…
+## 45. Avoid folic acid…
 
 - **Source ID:** `_vfOaxaK8Gg`
 - **URL:** https://www.youtube.com/watch?v=_vfOaxaK8Gg
@@ -525,7 +549,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** unmetabolized folic acid in umbilical cord blood associated with a significantly higher rate of autism spectrum disorder in Black children, per a cited study
 - **Important concepts:** folic acid as a synthetic, unmetabolized form of folate, distinguished from L-5-methylfolate, the "natural form"
 
-## 44. Avoid seed oils and processed sugar for HPB
+## 46. Avoid seed oils and processed sugar for HPB
 
 - **Source ID:** `YF3r99ZdMkM`
 - **URL:** https://www.youtube.com/watch?v=YF3r99ZdMkM
@@ -537,7 +561,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** insulin resistance/metabolic dysfunction named as the root cause of high blood pressure "in the vast majority of cases"
 - **Important concepts:** a personal account of medical training (PA school, cardiology PA practice, medical school, residency) never addressing insulin resistance despite extensive blood pressure medication training
 
-## 45. Avoid the ROOTS of plants!
+## 47. Avoid the ROOTS of plants!
 
 - **Source ID:** `f9W2U_r5ixk`
 - **URL:** https://www.youtube.com/watch?v=f9W2U_r5ixk
@@ -549,7 +573,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** hydrocyanic acid (cyanide) in cassava, linked to konzo disease, hypothyroidism, and endemic goiter, solanine and chaconine in potatoes (nightshade family), linked to autoimmune disease triggering
 - **Important concepts:** roots, leaves, stems, and seeds collectively framed as defended plant structures, none part of an optimal human diet
 
-## 46. Avoid these cinnamon brands!
+## 48. Avoid these cinnamon brands!
 
 - **Source ID:** `1JQBKwsPaCI`
 - **URL:** https://www.youtube.com/watch?v=1JQBKwsPaCI
@@ -561,7 +585,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** lead contamination in cinnamon, some brands found "not even safe to eat at all", lead exposure linked to heart disease, high blood pressure, kidney issues, and in children, behavioral issues, neurodevelopmental problems, decreased IQ, and learning difficulties
 - **Important concepts:** none recorded
 
-## 47. Avoid These Drinks At All Costs
+## 49. Avoid These Drinks At All Costs
 
 - **Source ID:** `AUuy4PHnMO8`
 - **URL:** https://www.youtube.com/watch?v=AUuy4PHnMO8
@@ -573,7 +597,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** alcohol-industry funding of favorable cardiovascular research, glyphosate/pesticide contamination in beer, wine, and some bourbons, gluten exposure from beer, congeners in dark/non-clear alcohols worsening hangovers
 - **Important concepts:** a linear, not J-shaped, dose-response between alcohol and cardiovascular risk, acetaldehyde as alcohol's toxic metabolite, alcohol disrupting normal sleep architecture
 
-## 48. Avoid These Egg Brands At All Costs (Buy This Instead)
+## 50. Avoid These Egg Brands At All Costs (Buy This Instead)
 
 - **Source ID:** `biaZgPq4Uw0`
 - **URL:** https://www.youtube.com/watch?v=biaZgPq4Uw0
@@ -585,7 +609,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** vague or legally toothless labels (outdoor access, regenerative), yolk color manipulated with marigold or other pigmented feed, conventional grain feed carrying pesticide residue into the egg
 - **Important concepts:** eggshell color as chicken genetics (protoporphyrin IX, oocyanin), unrelated to egg quality, grade A/B as a visual-appearance standard, not a nutrition standard, regenerative labeling borrowed from cattle-grazing terminology, without legal definition
 
-## 49. Avoid These Fish at All Costs
+## 51. Avoid These Fish at All Costs
 
 - **Source ID:** `bLEaUZ3gwIw`
 - **URL:** https://www.youtube.com/watch?v=bLEaUZ3gwIw
@@ -597,7 +621,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** {'farm-raised salmon': 'added coloring, antibiotics, PCBs, PFAS, higher heavy metal risk'}, eutrophication of surrounding ocean water from open-net salmon farming, AI ("previously frozen") tuna colored and carbon-monoxide-treated to look fresh, mercury, lead, cadmium, and arsenic exposure from fish, especially tuna, microplastics in seafood, drinking water, and bottled water, {'price': 'farmed salmon costing more per pound than grass-fed beef'}
 - **Important concepts:** astaxanthin as the natural pigment source in wild salmon versus added coloring in farmed salmon, eutrophication from concentrated open-net fish farming, sushi-grade labeling as a farmed-fish loophole around parasite-freezing rules
 
-## 50. Avoid these items in your bathroom
+## 52. Avoid these items in your bathroom
 
 - **Source ID:** `5RfmBJFnJ6o`
 - **URL:** https://www.youtube.com/watch?v=5RfmBJFnJ6o
@@ -609,7 +633,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS-containing ("Gore-Tex") dental floss, cited to a study finding higher blood PFAS levels in women who used Glide floss, microplastics from plastic toothbrush bristles, a blue LED light built into an otherwise plant-based toothbrush, disrupting his red-light nighttime environment
 - **Important concepts:** a deliberately minimal personal care routine — no face products, no lotions, only a tallow-based sunscreen when surfing
 
-## 51. Avoid These Olive Oils
+## 53. Avoid These Olive Oils
 
 - **Source ID:** `JpW1utNfQM0`
 - **URL:** https://www.youtube.com/watch?v=JpW1utNfQM0
@@ -621,7 +645,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** phthalate contamination via oil-plastic contact during processing/storage, endocrine disruption (infertility, hormone disruption, learning disorders), heat instability of olive/avocado oil relative to saturated animal fats
 - **Important concepts:** phthalates as lipophilic plasticizers, peroxidation index versus smoke point as distinct heat-stability measures, brand-level independent analysis as opposed to category-level claims
 
-## 52. Avoid these “healthy” brands at all costs
+## 54. Avoid these “healthy” brands at all costs
 
 - **Source ID:** `1zNYieUeXUc`
 - **URL:** https://www.youtube.com/watch?v=1zNYieUeXUc
@@ -633,7 +657,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** 89% of tested avocado oil products found cut with seed oils (sunflower, safflower) per a UC Davis study, two earlier studies (2020, 2023) finding 70-80% of shelf and private-label avocado oils cut with seed oils
 - **Important concepts:** none recorded
 
-## 53. Beating Crohn's with meat & fruit
+## 55. Beating Crohn's with meat & fruit
 
 - **Source ID:** `-soqLhiSiLw`
 - **URL:** https://www.youtube.com/watch?v=-soqLhiSiLw
@@ -645,7 +669,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a Crohn's disease flare-up requiring medication, causing major inflammation, anxiety, psoriasis, and muscle loss
 - **Important concepts:** the host's framing that Western medicine "would never have told Oliver food was at the root cause of his illness"
 
-## 54. Best burger ever
+## 56. Best burger ever
 
 - **Source ID:** `7GomN1xISUs`
 - **URL:** https://www.youtube.com/watch?v=7GomN1xISUs
@@ -657,7 +681,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 55. Best foods for magnesium deficiency and sleep
+## 57. Best foods for magnesium deficiency and sleep
 
 - **Source ID:** `9inc4BTjYAc`
 - **URL:** https://www.youtube.com/watch?v=9inc4BTjYAc
@@ -669,7 +693,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** over 56% of the world's population estimated to be magnesium deficient
 - **Important concepts:** phytic acid and oxalates binding magnesium in nuts and leafy greens, reducing its bioavailability despite those foods' reputation as magnesium sources
 
-## 56. Beware of dishwashing detergents
+## 58. Beware of dishwashing detergents
 
 - **Source ID:** `bJHYBkj7sZs`
 - **URL:** https://www.youtube.com/watch?v=bJHYBkj7sZs
@@ -681,7 +705,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** alcohol ethoxylates in dishwashing detergents and rinse aids damaging the gut epithelial barrier, per a cited recent study
 - **Important concepts:** none recorded
 
-## 57. Beware of greens powders…
+## 59. Beware of greens powders…
 
 - **Source ID:** `806L9lRWCZs`
 - **URL:** https://www.youtube.com/watch?v=806L9lRWCZs
@@ -693,7 +717,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** lead accumulating in bones and released during pregnancy and aging, the greens powder maker's own internal testing threshold (4.53 mcg lead/serving) flagged as too permissive
 - **Important concepts:** California's Prop 65 lead limit (0.5 mcg/serving) used as the comparison standard
 
-## 58. Beware of vitamin D supplements
+## 60. Beware of vitamin D supplements
 
 - **Source ID:** `9UOxANBvYkI`
 - **URL:** https://www.youtube.com/watch?v=9UOxANBvYkI
@@ -705,7 +729,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a cited animal study distinguishing sunlight's weight-loss/metabolic effects from vitamin D supplementation, which did not replicate those effects
 
-## 59. Beware of “Coconut Oil” SPRAY
+## 61. Beware of “Coconut Oil” SPRAY
 
 - **Source ID:** `9lxMdEPIz0E`
 - **URL:** https://www.youtube.com/watch?v=9lxMdEPIz0E
@@ -717,7 +741,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** coconut oil spray containing propellant, unlisted for casual shoppers who don't read labels
 - **Important concepts:** convenience-format foods (sprays) hiding additional processing ingredients not present in the plain version of the same food
 
-## 60. Big fish are full of heavy metals…
+## 62. Big fish are full of heavy metals…
 
 - **Source ID:** `GUzUddx9UF0`
 - **URL:** https://www.youtube.com/watch?v=GUzUddx9UF0
@@ -729,7 +753,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** heavy metals in large fish linked to neurological changes in long-term animal studies (cats), microplastics in canned tuna linked (in animal models) to lower sperm counts and gut inflammation/damage in mice, BPA in can linings named as a xenoestrogen/hormone disruptor
 - **Important concepts:** fish size correlating with heavy metal accumulation, used as the reasoning against tuna specifically
 
-## 61. Big pharma funds most research…
+## 63. Big pharma funds most research…
 
 - **Source ID:** `1xtf1TYfK4s`
 - **URL:** https://www.youtube.com/watch?v=1xtf1TYfK4s
@@ -741,7 +765,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** pharmaceutical companies funding the majority of medical research studies, a lack of funding for nutritional studies addressing illness root causes
 - **Important concepts:** medical education being shaped by whichever research gets funded, rather than by what intervention actually addresses root causes
 
-## 62. Blue Zones eat meat?!?
+## 64. Blue Zones eat meat?!?
 
 - **Source ID:** `AYy5vyHlYn0`
 - **URL:** https://www.youtube.com/watch?v=AYy5vyHlYn0
@@ -753,7 +777,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** poor sperm numbers and sperm motility found in Loma Linda vegans and vegetarians, per cited research
 - **Important concepts:** a distinction between the popular Blue Zones narrative (plant-based diets driving longevity) and the host's characterization of the actual traditional diets in four of the five regions
 
-## 63. Boost your kids immune system
+## 65. Boost your kids immune system
 
 - **Source ID:** `9HiO21TYJ98`
 - **URL:** https://www.youtube.com/watch?v=9HiO21TYJ98
@@ -765,7 +789,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** over-sanitized US childhood environments, including hand soaps containing triclosan
 - **Important concepts:** the hygiene hypothesis, that lower-hygiene childhood environments produce stronger immune systems and lower allergy/asthma/eczema rates
 
-## 64. Bottled Water Brands To AVOID at All Costs (And 2 That Won’t Poison You)
+## 66. Bottled Water Brands To AVOID at All Costs (And 2 That Won’t Poison You)
 
 - **Source ID:** `SR0x-de80iU`
 - **URL:** https://www.youtube.com/watch?v=SR0x-de80iU
@@ -777,7 +801,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** heavy metals (lead, mercury, arsenic, cadmium, aluminum) in bottled water, uranium (a radioactive element) in bottled water, PFAS ("forever chemicals") contamination, BPA in bottled water, microplastics and nanoplastics, especially from plastic bottles, bromoform/trihalomethane findings suggesting municipal water mixed into "spring water" brands
 - **Important concepts:** certificate-of-analysis transparency versus third-party consumer grading platforms, nanoplastic particle size versus microplastic particle size and why that changes what testing can detect, a cumulative, kilogram-quantity exposure argument for treating water as the largest single dietary input
 
-## 65. Butter is a health food
+## 67. Butter is a health food
 
 - **Source ID:** `8hqhEPi4ikM`
 - **URL:** https://www.youtube.com/watch?v=8hqhEPi4ikM
@@ -789,7 +813,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** seventy years of anti-butter messaging framed as the mainstream position being corrected
 
-## 66. Calling out McDonalds…
+## 68. Calling out McDonalds…
 
 - **Source ID:** `0k7hotNMGVI`
 - **URL:** https://www.youtube.com/watch?v=0k7hotNMGVI
@@ -801,7 +825,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils producing toxic byproducts (aldehydes and acrolein, also found in cigarette smoke) when heated for frying
 - **Important concepts:** a public smear campaign against saturated animal fat as the stated cause of McDonald's 1990 switch away from tallow
 
-## 67. Can women do an animal based diet??
+## 69. Can women do an animal based diet??
 
 - **Source ID:** `bUy2EaaUTwM`
 - **URL:** https://www.youtube.com/watch?v=bUy2EaaUTwM
@@ -813,7 +837,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** GI gas and bloating, reported to improve when women eliminate vegetables and source carbs from fruit instead
 - **Important concepts:** more animal protein linked to better skin, hair, and nails in women, organs linked to better energy and libido in women
 
-## 68. Can’t afford organic? Try this!
+## 70. Can’t afford organic? Try this!
 
 - **Source ID:** `3eX-8Mm39ho`
 - **URL:** https://www.youtube.com/watch?v=3eX-8Mm39ho
@@ -825,7 +849,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** pesticide residue on conventional produce
 - **Important concepts:** baking soda's alkalinity deactivating acidic pesticide residues, beyond what plain rinsing removes
 
-## 69. CarnivoreMDonald’s
+## 71. CarnivoreMDonald’s
 
 - **Source ID:** `aL4lSn6_i2Y`
 - **URL:** https://www.youtube.com/watch?v=aL4lSn6_i2Y
@@ -837,7 +861,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils and processed sugars in McDonald's food
 - **Important concepts:** none recorded
 
-## 70. Celery = sunburn??
+## 72. Celery = sunburn??
 
 - **Source ID:** `bCSjz8TVhTY`
 - **URL:** https://www.youtube.com/watch?v=bCSjz8TVhTY
@@ -849,7 +873,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** furanocoumarins in celery causing phototoxic skin injury upon sun exposure
 - **Important concepts:** celery framed as a defended plant (like other vegetables) despite its popular "superfood" reputation
 
-## 71. Cheesecake Factory = seed oils??
+## 73. Cheesecake Factory = seed oils??
 
 - **Source ID:** `bGAaZYLgMGo`
 - **URL:** https://www.youtube.com/watch?v=bGAaZYLgMGo
@@ -861,7 +885,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** restaurant grill cross-contamination with seed oils even when ordering oil-free items
 - **Important concepts:** a distinction between cooking surfaces at a restaurant (flat top vs. broiler) that determines seed oil exposure independent of the dish itself
 
-## 72. Chick-fil-A’s FAKE chicken sandwich?
+## 74. Chick-fil-A’s FAKE chicken sandwich?
 
 - **Source ID:** `Bf2pzWcyy5U`
 - **URL:** https://www.youtube.com/watch?v=Bf2pzWcyy5U
@@ -873,7 +897,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 73. Chicken or beef: Which one is healthier?
+## 75. Chicken or beef: Which one is healthier?
 
 - **Source ID:** `AYYIth4Lehc`
 - **URL:** https://www.youtube.com/watch?v=AYYIth4Lehc
@@ -885,7 +909,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** even organic chicken commonly being fed corn, soy, and grains not evolutionarily appropriate for chickens
 - **Important concepts:** none recorded
 
-## 74. Chicken vs quail eggs: what’s the difference?
+## 76. Chicken vs quail eggs: what’s the difference?
 
 - **Source ID:** `bRFGXrgSFqE`
 - **URL:** https://www.youtube.com/watch?v=bRFGXrgSFqE
@@ -897,7 +921,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** ovomucoid protein in chicken eggs triggering allergies or sensitivities in some people
 - **Important concepts:** none recorded
 
-## 75. Chocolate covered almonds vs. eggs
+## 77. Chocolate covered almonds vs. eggs
 
 - **Source ID:** `93GIcexPCSQ`
 - **URL:** https://www.youtube.com/watch?v=93GIcexPCSQ
@@ -909,7 +933,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the Food Compass nutrient scoring system, government-funded and developed over three years at Tufts University, rating chocolate-covered almonds above eggs
 - **Important concepts:** almonds' oxalate content and digestive enzyme inhibitors, flagged as poorly digested
 
-## 76. Clavicular and Paul Saladino FULL Live Stream
+## 78. Clavicular and Paul Saladino FULL Live Stream
 
 - **Source ID:** `r4XBZSvBm2c`
 - **URL:** https://www.youtube.com/watch?v=r4XBZSvBm2c
@@ -921,7 +945,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils and linoleic-acid accumulation in the modern diet, carrageenan, mono/diglycerides, and other plant-milk thickeners, rice (especially brown rice) arsenic content, chemical sunscreen ingredients (avobenzone, oxybenzone, homosalate, octocrylene) as suspected endocrine disruptors, polyester underwear and fertility, red 40 and food dyes generally, raw honey/raw milk contamination risk weighed against pasteurization's own tradeoffs, rancid peanut butter oil
 - **Important concepts:** the "macros first, food quality second" framework for diet change, the linoleic-acid-as-a-winter-signal hypothesis, the arcuate nucleus/hypothalamic satiety-regulation hypothesis for why processed food dysregulates fullness, the "glycine gap" and collagen di-peptide signaling, full-spectrum sunlight vs. isolated-UV research as two different things the dermatology literature doesn't distinguish, Weston A. Price's fat-soluble-vitamin/facial-development thesis
 
-## 77. Clean your home toxin-free!
+## 79. Clean your home toxin-free!
 
 - **Source ID:** `6D5UwxD6ufU`
 - **URL:** https://www.youtube.com/watch?v=6D5UwxD6ufU
@@ -933,7 +957,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** chemicals in conventional cleaning products said to impair hormonal function, disrupt the thyroid, and be linked with cancer and infertility
 - **Important concepts:** none recorded
 
-## 78. Coconuts are tricky…
+## 80. Coconuts are tricky…
 
 - **Source ID:** `7Xnv5U3QUG0`
 - **URL:** https://www.youtube.com/watch?v=7Xnv5U3QUG0
@@ -945,7 +969,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** phytic acid and digestive enzyme inhibitors in coconut meat/flour, carrageenan, a sulfated polysaccharide, in many coconut milk products, described as damaging to the gut
 - **Important concepts:** stearic acid in animal fats activating fat burning and mitochondrial function, preferred over coconut oil's fatty acid profile
 
-## 79. Corn Flakes = Libido Killer
+## 81. Corn Flakes = Libido Killer
 
 - **Source ID:** `03TghQRGA34`
 - **URL:** https://www.youtube.com/watch?v=03TghQRGA34
@@ -957,7 +981,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a historical intent to suppress patients' libido via diet at a psychiatric institution, nutrient deficiency from a diet heavy in processed grains, linked to libido loss
 - **Important concepts:** none recorded
 
-## 80. Creatine = hair loss???
+## 82. Creatine = hair loss???
 
 - **Source ID:** `70J4x4PLBVc`
 - **URL:** https://www.youtube.com/watch?v=70J4x4PLBVc
@@ -969,7 +993,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** DHT (dihydrotestosterone) elevation as the proposed but unsupported mechanism linking creatine to hair loss
 
-## 81. Creatine Makes Vegans Smarter 💪
+## 83. Creatine Makes Vegans Smarter 💪
 
 - **Source ID:** `RV9g-Maav_4`
 - **URL:** https://www.youtube.com/watch?v=RV9g-Maav_4
@@ -981,7 +1005,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** creatine named as a nutrient absent from plants and found only in meat and organs, target creatine intake used to back-calculate a recommended daily amount of meat and organs
 
-## 82. Cyanotoxins in algae and seaweed- why they are not beneficial for our health
+## 84. Cyanotoxins in algae and seaweed- why they are not beneficial for our health
 
 - **Source ID:** `2jXnCNs9etE`
 - **URL:** https://www.youtube.com/watch?v=2jXnCNs9etE
@@ -993,7 +1017,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** cyanotoxin contamination in algae dietary supplements, heavy metal content in seaweed (cadmium, chromium, nickel, vanadium), digestive enzyme inhibitors and other plant defense chemicals in seaweed
 - **Important concepts:** cyanobacteria's roughly 3.5-billion-year evolutionary head start over the ~500-million-year plant/animal co-evolution the source cites, microcystins and BMAA as named cyanotoxins, chlorella as a short-term "medicine," not a daily food
 
-## 83. Darker eggs yolks = more nutrition
+## 85. Darker eggs yolks = more nutrition
 
 - **Source ID:** `9GSE11FWmlc`
 - **URL:** https://www.youtube.com/watch?v=9GSE11FWmlc
@@ -1005,7 +1029,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** beta-carotene content driving egg yolk and white color, attributed to a bug-and-worm diet versus a grain-only diet
 
-## 84. Dermatologists lied to you about the sun
+## 86. Dermatologists lied to you about the sun
 
 - **Source ID:** `BjzSZ_2GBLY`
 - **URL:** https://www.youtube.com/watch?v=BjzSZ_2GBLY
@@ -1017,7 +1041,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** excessive ultraviolet exposure increasing photoaging and cancer risk, acknowledged directly, chemical sunscreen ingredients (avobenzone, octocrylene, oxybenzone) that are endocrine disrupting and potentially cancer-associated, absorbed through skin and excreted in urine/feces, polyester and other plastic clothing fibers containing chemicals that can be absorbed through skin and are endocrine disrupting
 - **Important concepts:** building a "solar callus" (tan) via low-UV morning/evening sun exposure as a somewhat protective adaptation before midday sun exposure
 
-## 85. Diabetes is fixable!
+## 87. Diabetes is fixable!
 
 - **Source ID:** `6H2g3TwrRak`
 - **URL:** https://www.youtube.com/watch?v=6H2g3TwrRak
@@ -1029,7 +1053,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** processed sugar and seed oils named as what to eliminate
 - **Important concepts:** none recorded
 
-## 86. Diet plays a big role in mental health
+## 88. Diet plays a big role in mental health
 
 - **Source ID:** `aui30OPBfIA`
 - **URL:** https://www.youtube.com/watch?v=aui30OPBfIA
@@ -1041,7 +1065,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a national mental health crisis, with sugar- and seed-oil-heavy diets named as a major contributor
 - **Important concepts:** none recorded
 
-## 87. Diet vs. Exercise
+## 89. Diet vs. Exercise
 
 - **Source ID:** `awas0fb9OC0`
 - **URL:** https://www.youtube.com/watch?v=awas0fb9OC0
@@ -1053,7 +1077,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** starting with diet quality, rather than exercise, as the foundational lever for health, with vitality expected to follow naturally
 
-## 88. Different color steaks
+## 90. Different color steaks
 
 - **Source ID:** `_IYyDpXM-kg`
 - **URL:** https://www.youtube.com/watch?v=_IYyDpXM-kg
@@ -1065,7 +1089,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** glyphosate, pesticides, mold, and toxins from grain feed accumulating in grain-finished beef
 - **Important concepts:** meat and fat color (darker meat, more orange fat) offered as a visual proxy for fat-soluble vitamin content
 
-## 89. Do not eat plant-based meat
+## 91. Do not eat plant-based meat
 
 - **Source ID:** `4SiN5j9t_qE`
 - **URL:** https://www.youtube.com/watch?v=4SiN5j9t_qE
@@ -1077,7 +1101,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** lectins in a wheat-gluten-based plant product, described as harmful for the gut, seed oils causing issues in cell membranes and mitochondria
 - **Important concepts:** none recorded
 
-## 90. Do not eat vegetables!!
+## 92. Do not eat vegetables!!
 
 - **Source ID:** `wQYEMOrTysg`
 - **URL:** https://www.youtube.com/watch?v=wQYEMOrTysg
@@ -1089,7 +1113,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** oxalates, lectins, saponins, and tannins named as defense chemicals that disrupt digestion and hormones, GI gas as a specific reported effect of these compounds
 - **Important concepts:** a distinction between fruit (which plants "want" eaten, to spread seeds) and leaves/stems/ roots/seeds (which plants defend, since destroying them prevents reproduction)
 
-## 91. Do Not Fear the Sun! #shorts
+## 93. Do Not Fear the Sun! #shorts
 
 - **Source ID:** `7IyFfrcWVOE`
 - **URL:** https://www.youtube.com/watch?v=7IyFfrcWVOE
@@ -1101,7 +1125,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** sun-triggered endorphins and nitric oxide (cholesterol-containing molecules enabling laminar arterial blood flow) as the mechanism behind sunlight's positive effect
 
-## 92. Do plants give gorillas muscles??
+## 94. Do plants give gorillas muscles??
 
 - **Source ID:** `jyejpKsXKXk`
 - **URL:** https://www.youtube.com/watch?v=jyejpKsXKXk
@@ -1113,7 +1137,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** human digestive anatomy compared to a dog's (larger small intestine, smaller large intestine) rather than a gorilla's, used to argue humans are not built to extract muscle-building nutrition from leaves the way gorillas are
 
-## 93. Do seed oils = chronic disease??
+## 95. Do seed oils = chronic disease??
 
 - **Source ID:** `63H-fH4aObk`
 - **URL:** https://www.youtube.com/watch?v=63H-fH4aObk
@@ -1125,7 +1149,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** obesity, cardiovascular disease, and diabetes rates rising alongside seed oil consumption since 1910
 - **Important concepts:** an inverse-correlation argument — red meat and animal fat consumption declining over the same period chronic disease rose, used to argue against blaming red meat
 
-## 94. Do this before eating rice
+## 96. Do this before eating rice
 
 - **Source ID:** `7vBJReY94_U`
 - **URL:** https://www.youtube.com/watch?v=7vBJReY94_U
@@ -1137,7 +1161,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** brown rice's higher arsenic content relative to white rice, lectins and other "problematic compounds" in rice
 - **Important concepts:** none recorded
 
-## 95. Do this to increase creatine absorption
+## 97. Do this to increase creatine absorption
 
 - **Source ID:** `2Bd1P5HWCnQ`
 - **URL:** https://www.youtube.com/watch?v=2Bd1P5HWCnQ
@@ -1149,7 +1173,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** undissolved creatine in the gut causing osmotic diarrhea, gas, or bloating
 - **Important concepts:** osmotic movement of water into the gut as the mechanism behind creatine-related GI symptoms
 
-## 96. Do. Not. Eat. Plants. Period. #health #shorts #carnivorediet
+## 98. Do. Not. Eat. Plants. Period. #health #shorts #carnivorediet
 
 - **Source ID:** `-oXNqCb5Bgk`
 - **URL:** https://www.youtube.com/watch?v=-oXNqCb5Bgk
@@ -1161,7 +1185,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** plant defense chemicals and toxins present in both wild leaves and domesticated kale
 - **Important concepts:** leafy greens framed as survival food rather than a food humans should eat regularly
 
-## 97. Doctors aren't taught this..
+## 99. Doctors aren't taught this..
 
 - **Source ID:** `bBBHOpikDaM`
 - **URL:** https://www.youtube.com/watch?v=bBBHOpikDaM
@@ -1173,7 +1197,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** medical students not being taught to investigate root causes of illness, or the therapeutic power of food for chronic illness, autoimmune disease, inflammation, cancer, and dementia
 - **Important concepts:** none recorded
 
-## 98. Doctors don’t have time…
+## 100. Doctors don’t have time…
 
 - **Source ID:** `99VYlEXpaoA`
 - **URL:** https://www.youtube.com/watch?v=99VYlEXpaoA
@@ -1185,7 +1209,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** doctors typically having only 7-10 minutes per patient visit
 - **Important concepts:** the short visit window preventing questions about diet and lifestyle, leaving root causes unaddressed while symptoms are treated with medication
 
-## 99. Does fruit make us fat!?
+## 101. Does fruit make us fat!?
 
 - **Source ID:** `2jk2KgA1_Bw`
 - **URL:** https://www.youtube.com/watch?v=2jk2KgA1_Bw
@@ -1197,7 +1221,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** processed sugar (distinct from whole fruit) causing gut bacterial overgrowth, systemic inflammation, and increased visceral fat
 - **Important concepts:** distinguishing whole-fruit fructose from processed sugar when evaluating visceral fat claims
 
-## 100. Does McDonald's cook burgers with seed oils?
+## 102. Does McDonald's cook burgers with seed oils?
 
 - **Source ID:** `b9v_1Vgb6q0`
 - **URL:** https://www.youtube.com/watch?v=b9v_1Vgb6q0
@@ -1209,7 +1233,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 101. Does red meat cause gout?
+## 103. Does red meat cause gout?
 
 - **Source ID:** `afCBg28LP-o`
 - **URL:** https://www.youtube.com/watch?v=afCBg28LP-o
@@ -1221,7 +1245,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** gout, caused by uric acid crystallizing in joints
 - **Important concepts:** insulin sensitivity/resistance framed as the key variable determining whether red meat, organs, and fruit raise uric acid levels
 
-## 102. Does your sea salt contain heavy metals?
+## 104. Does your sea salt contain heavy metals?
 
 - **Source ID:** `6MDK0epKwbM`
 - **URL:** https://www.youtube.com/watch?v=6MDK0epKwbM
@@ -1233,7 +1257,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** 9 grams of Celtic sea salt (an average daily intake) providing almost 10x the California Prop 65 daily lead limit of 0.5 micrograms, Redmond Real Salt also found with significant lead and other heavy metals
 - **Important concepts:** California Prop 65's 0.5 microgram/day lead limit compared against a cited FDA tolerable limit of 12 micrograms/day
 
-## 103. Don’t buy THIS chicken
+## 105. Dogs instinctually know kale is BS, and so do you!!
+
+- **Source ID:** `teaUaH8R_yM`
+- **URL:** https://www.youtube.com/watch?v=teaUaH8R_yM
+- **Upload date:** 2022-07-05
+- **Duration:** 00:42
+- **Source file:** `sources/clean/teaUaH8R_yM.txt`
+- **Main subjects:** a staged demonstration offering a pet dog a choice between kale and raw bull testicle, used as an "instinct" argument against kale
+- **Foods & products:** kale, offered to and rejected by the dog, raw bull testicle, chosen by the dog
+- **Concerns:** none recorded
+- **Important concepts:** a pet's food choice used rhetorically as evidence of "instinctual" dietary wisdom
+
+## 106. Don’t buy THIS chicken
 
 - **Source ID:** `-Oph4JSKHJk`
 - **URL:** https://www.youtube.com/watch?v=-Oph4JSKHJk
@@ -1245,7 +1281,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** up to 12% retained chlorinated water in chicken chilled via a chlorine bath, even when organic, specific retained-water figures given per product — ~7% (organic chicken), ~3% (party wings/ drumsticks), ~9% (thighs), ~10% (party wings, second example)
 - **Important concepts:** the "air chilled" label as the distinction indicating a chicken was not processed in a chlorine bath
 
-## 104. Don’t Make These Mistakes When Buying Butter
+## 107. Don’t Make These Mistakes When Buying Butter
 
 - **Source ID:** `kFo6mmetKmc`
 - **URL:** https://www.youtube.com/watch?v=kFo6mmetKmc
@@ -1257,7 +1293,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** pasteurization altering milk protein structure, PFAS ("forever chemicals") found in butter packaging, a grass-fed claim scandal at a named butter brand, seed oils in plant-based butter substitutes, oxidation of olive and avocado oil under cooking heat
 - **Important concepts:** conformational protein structure changed by pasteurization, odd-chain fatty acids (C15, C17) as a marker associated with good outcomes, CLA (conjugated linoleic acid) as a leanness-associated compound, satiety feedback as the mechanism preventing overeating on whole foods
 
-## 105. Don’t Make These Mistakes When Buying Olive Oil
+## 108. Don’t Make These Mistakes When Buying Olive Oil
 
 - **Source ID:** `mV58zXMBco4`
 - **URL:** https://www.youtube.com/watch?v=mV58zXMBco4
@@ -1269,7 +1305,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** phthalates from plastic packaging/processing contact, cutting olive or avocado oil with seed oil, assuming price predicts quality, low heat stability relative to animal fats
 - **Important concepts:** phthalates as endocrine disruptors, single-source sourcing as a defense against seed-oil cutting, lipophilic (fat-attracting) migration of plastic chemicals into oil
 
-## 106. Don’t make this mistake when brushing your teeth
+## 109. Don’t make this mistake when brushing your teeth
 
 - **Source ID:** `83aQ93AoBUE`
 - **URL:** https://www.youtube.com/watch?v=83aQ93AoBUE
@@ -1281,7 +1317,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** brushing immediately after eating wearing down softened, acid-exposed enamel, fluoride toothpaste, said to consistently lower IQ in studies with children
 - **Important concepts:** brushing before breakfast rather than after, since eating causes overnight mouth bacteria to "explode", flossing before brushing, and brushing right before sleep as the most important brushing time
 
-## 107. Don’t make this mistake when buying sourdough bread
+## 110. Don’t make this mistake when buying sourdough bread
 
 - **Source ID:** `79Ug7GsdICg`
 - **URL:** https://www.youtube.com/watch?v=79Ug7GsdICg
@@ -1293,7 +1329,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** unmetabolized folic acid, present in the blood of over 90% of people consuming supplements or enriched flour, per cited studies, unmetabolized folic acid associated with reduced immune function, some cancers (colon cancer named), and potential neurologic development issues in children or fetuses
 - **Important concepts:** folic acid as a synthetic form of folate that "does not occur in nature"
 
-## 108. Dryer sheets are disrupting your hormones
+## 111. Dryer sheets are disrupting your hormones
 
 - **Source ID:** `05nO24jkGdI`
 - **URL:** https://www.youtube.com/watch?v=05nO24jkGdI
@@ -1305,7 +1341,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** carcinogenic off-gassing (benzene) and irritating compounds (acetaldehyde) released when dryer sheets are used, phthalates in dryer sheet fragrance, described as endocrine disrupting and absorbed through skin from treated clothing, quaternary ammonium compounds ("quats") linked to skin disorders, asthma worsening, irritation, and eczema
 - **Important concepts:** wool dryer balls as a non-chemical static-reduction alternative to dryer sheets
 
-## 109. Eat 80/20 ground beef
+## 112. Eat 80/20 ground beef
 
 - **Source ID:** `5gmNEqaxOEQ`
 - **URL:** https://www.youtube.com/watch?v=5gmNEqaxOEQ
@@ -1317,7 +1353,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** lean ground beef (95/5) described as dry and unenjoyable to eat
 - **Important concepts:** none recorded
 
-## 110. Eat animal fat to burn fat
+## 113. Eat animal fat to burn fat
 
 - **Source ID:** `cjYv6ahzHOM`
 - **URL:** https://www.youtube.com/watch?v=cjYv6ahzHOM
@@ -1329,7 +1365,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** stearic acid and odd chain fatty acids in animal fat framed as activating mitochondrial fat burning
 
-## 111. Eat meat, save the planet. With Will Harris
+## 114. Eat meat, save the planet. With Will Harris
 
 - **Source ID:** `J7zMToZG6mE`
 - **URL:** https://www.youtube.com/watch?v=J7zMToZG6mE
@@ -1341,7 +1377,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** USDA country-of-origin and pasture-raised labeling described as misleading, monocrop agriculture stripping soil organic matter and causing topsoil runoff, CAFO (confined animal feeding operation) housing as a described form of animal cruelty
 - **Important concepts:** holistic management and the "cycles of nature" (water, energy, microbial, grazing, carbon), soil organic matter as both a carbon sink and a rainwater buffer, multi-species grazing symbiosis interrupting parasite life cycles, being "replicable" rather than "linearly scalable" as the framing for regenerative agriculture's growth
 
-## 112. Eat these foods to improve gut health
+## 115. Eat these foods to improve gut health
 
 - **Source ID:** `-TqUmZjq_fA`
 - **URL:** https://www.youtube.com/watch?v=-TqUmZjq_fA
@@ -1353,7 +1389,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** alpha diversity as the measure of gut flora diversity that fermented foods, but not fiber, are said to raise, fermentation reducing anti-nutrients in cabbage when making sauerkraut
 
-## 113. Eat this food to reverse aging
+## 116. Eat this food to reverse aging
 
 - **Source ID:** `5tuGZX1jqJo`
 - **URL:** https://www.youtube.com/watch?v=5tuGZX1jqJo
@@ -1365,7 +1401,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** creatine specifically credited with making vegetarians "smarter" via improved mental clarity
 
-## 114. Eat this to increase testosterone and improve insulin sensitivity #health
+## 117. Eat this to increase testosterone and improve insulin sensitivity #health
 
 - **Source ID:** `7MqjC_jK_3Q`
 - **URL:** https://www.youtube.com/watch?v=7MqjC_jK_3Q
@@ -1377,7 +1413,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 115. Eating cheese as lactose intolerant? 🤯
+## 118. Eating cheese as lactose intolerant? 🤯
 
 - **Source ID:** `1IsQcNUqlUU`
 - **URL:** https://www.youtube.com/watch?v=1IsQcNUqlUU
@@ -1389,7 +1425,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** GI symptoms from lactose in regular milk
 - **Important concepts:** calcium, vitamin K2, odd-chain fatty acids, and bioavailable protein as dairy's stated advantages over plant-based milks
 
-## 116. Egg whites are BS
+## 119. Egg whites are BS
 
 - **Source ID:** `1DqZjGFzWiE`
 - **URL:** https://www.youtube.com/watch?v=1DqZjGFzWiE
@@ -1401,7 +1437,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the outdated belief that egg yolk cholesterol is harmful
 - **Important concepts:** dietary cholesterol having minimal effect on serum cholesterol, vitamin A, choline, riboflavin, and folate as yolk-concentrated nutrients missed by eating whites only
 
-## 117. EMFs are no joke!
+## 120. EMFs are no joke!
 
 - **Source ID:** `o40ouA7xPFQ`
 - **URL:** https://www.youtube.com/watch?v=o40ouA7xPFQ
@@ -1413,7 +1449,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** non-ionizing EMFs from phones/laptops linked to effects on brain neuron formation, spermatogenesis, sperm motility/count, and male and female hormones
 - **Important concepts:** non-ionizing electromagnetic radiation as distinct from ionizing radiation
 
-## 118. Energy drinks?? Really?
+## 121. Energy drinks?? Really?
 
 - **Source ID:** `S06E9VYV7j4`
 - **URL:** https://www.youtube.com/watch?v=S06E9VYV7j4
@@ -1425,7 +1461,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** caffeine spiking cortisol, activating the sympathetic nervous system, disrupting blood sugar and sleep, stevia reported to disrupt bacterial "quorum sensing," harming gut health
 - **Important concepts:** bioavailability differences between synthetic/isolated compounds in energy drinks and the same compounds sourced from meat and organs
 
-## 119. Everyone's Taking Nicotine. Almost Everyone's Doing It Wrong.
+## 122. Everyone's Taking Nicotine. Almost Everyone's Doing It Wrong.
 
 - **Source ID:** `JshTM15bqVI`
 - **URL:** https://www.youtube.com/watch?v=JshTM15bqVI
@@ -1437,7 +1473,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** nicotine receptor upregulation diluting its own effect and deepening the underlying deficiency it masks, fewer than 7% of US adults meeting daily recommended choline intake (2% without eggs), per NHANES, vape juice flavoring compounds implicated in "popcorn lung", combustion byproducts (tar, carbon monoxide, arsenic) in cigarettes/cigars, distinct from nicotine itself, nicotine pouches' gum-line contact time and possible microplastics from pouch material, folic acid (versus folate) flagged for avoidance in the methylation-support phase, cardiovascular disease, pregnancy, and personal addiction history as stated contraindications to any nicotine use, the presenter promoting his own branded supplement within the same video that diagnoses the problem it treats
 - **Important concepts:** nicotinic acetylcholine receptors and nicotine as a partial agonist that activates only some receptor subtypes, acetylcholine's roles in focus, memory retrieval, REM sleep, and gut motility, the four causes of low acetylcholine synthesis — dietary choline, chronic inflammation via acetylcholinesterase, MTHFR/APOE4 genetic variants, and viral spike-protein receptor blockade, receptor upregulation driven specifically by the speed ("spike") of nicotine delivery, not total dose, homocysteine as an actionable methylation biomarker, with a stated target range narrower than standard lab reference ranges
 
-## 120. Ex-Vegan now craves liver!
+## 123. Ex-Vegan now craves liver!
 
 - **Source ID:** `2ZEbESKjM6k`
 - **URL:** https://www.youtube.com/watch?v=2ZEbESKjM6k
@@ -1449,7 +1485,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a stated craving for liver specifically timed to the menstrual cycle
 
-## 121. Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice)
+## 124. Exposing 10 Fake Health Foods at Trader Joe's (Kicked Out Twice)
 
 - **Source ID:** `NMR3kHPi3lk`
 - **URL:** https://www.youtube.com/watch?v=NMR3kHPi3lk
@@ -1461,7 +1497,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** natural flavors as an undisclosed-ingredient loophole, seed oils in marinated meats and packaged foods, carrageenan and other gums, pesticide residue on non-organic produce, retained water and chlorine treatment in conventional chicken, contaminants (added coloring, heavy metals, PCBs, microplastics) in farmed Atlantic salmon, citric acid derived from black mold (Aspergillus), mold toxins in unscreened coffee
 - **Important concepts:** food for humans as a single-ingredient shopping heuristic, the organic barcode prefix as a label-verification trick, egg tier variation within a single farm based on feed and housing, alcohol as having no safe dose
 
-## 122. Exposing the “Healthy” Ingredient That’s Killing You Tucker Goodrich and Jeff Nobbs
+## 125. Exposing the “Healthy” Ingredient That’s Killing You Tucker Goodrich and Jeff Nobbs
 
 - **Source ID:** `wrL-i4zy9xU`
 - **URL:** https://www.youtube.com/watch?v=wrL-i4zy9xU
@@ -1473,7 +1509,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** HNE as a toxic, obesogenic linoleic-acid breakdown product, endocannabinoid-driven overeating from dietary linoleic acid, oxidized LDL initiating atherosclerosis, trans fats formed during seed-oil refining, mislabeled as "0 grams trans fat", linoleic acid's link to age-related macular degeneration, deforestation and land use from vegetable-oil cropland
 - **Important concepts:** the endocannabinoid system (AEA, 2-AG, CB1 receptors) and hypophagic/hyperphagic signaling, beta-oxidation/ketosis as a disposal route for HNE, triglyceride versus phospholipid position of fatty acids (sn-1/2/3, the Chimane/Tsimane and !Kung/Bushmen anthropological comparisons), healthy-user bias in observational nutrition studies
 
-## 123. FAKE MEAT, LESS T and THYROID?
+## 126. FAKE MEAT, LESS T and THYROID?
 
 - **Source ID:** `B7FyzKsWlqo`
 - **URL:** https://www.youtube.com/watch?v=B7FyzKsWlqo
@@ -1485,7 +1521,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** soy protein's claimed thyroid impact, "specifically" for men, testosterone replacement or antidepressants prescribed without first checking the thyroid
 - **Important concepts:** thyroid as the "master" regulator of the broader hormone system, hypothyroidism as disproportionately diagnosed in women, under-recognized in men
 
-## 124. Farmers Market Haul In Costa Rica
+## 127. Farmers Market Haul In Costa Rica
 
 - **Source ID:** `4D-XijuV-yE`
 - **URL:** https://www.youtube.com/watch?v=4D-XijuV-yE
@@ -1497,7 +1533,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** buying directly from local producers as a way to verify pesticide practices firsthand
 
-## 125. Fasting is overrated
+## 128. Fasting is overrated
 
 - **Source ID:** `7BFLibkaf0Q`
 - **URL:** https://www.youtube.com/watch?v=7BFLibkaf0Q
@@ -1509,7 +1545,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** AG1 tested and found to contain heavy metals, fasting creating stress via cortisol, glucagon, and catecholamines
 - **Important concepts:** hyperbaric oxygen therapy's telomere-lengthening claim disputed as actually killing off cells with the shortest telomeres, not lengthening telomeres directly, mouth taping recommended to prevent mouth breathing during sleep
 
-## 126. FDA says eggs are healthy!?
+## 129. FDA says eggs are healthy!?
 
 - **Source ID:** `1Reg2wLQ0is`
 - **URL:** https://www.youtube.com/watch?v=1Reg2wLQ0is
@@ -1521,7 +1557,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** allergic reactions to ovomucoid protein in chicken eggs
 - **Important concepts:** quail eggs having a different ovomucoid protein structure, resulting in fewer IgE-mediated allergic reactions than chicken eggs
 
-## 127. Find and fix the root cause!
+## 130. Find and fix the root cause!
 
 - **Source ID:** `2M_OUQ_siBY`
 - **URL:** https://www.youtube.com/watch?v=2M_OUQ_siBY
@@ -1533,7 +1569,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** diabetes, obesity, and cardiovascular disease framed as driven primarily by food and lifestyle
 - **Important concepts:** the wrong-motor-oil-in-a-car analogy for treating symptoms without diagnosing the root cause
 
-## 128. Fragrances are wrecking your hormones
+## 131. Fragrances are wrecking your hormones
 
 - **Source ID:** `B9BwVxwh8Do`
 - **URL:** https://www.youtube.com/watch?v=B9BwVxwh8Do
@@ -1545,7 +1581,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** phthalates in fragranced products acting as xenoestrogens, endocrine disruptors absorbed via skin, clothing, and inhalation
 - **Important concepts:** fragrance described as "the new secondhand smoke," an ambient, hard-to-avoid exposure route even for non-users nearby
 
-## 129. Free red light therapy?
+## 132. Free red light therapy?
 
 - **Source ID:** `_ml308XlY5g`
 - **URL:** https://www.youtube.com/watch?v=_ml308XlY5g
@@ -1557,7 +1593,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** sunburn risk from ultraviolet exposure during extended time outdoors
 - **Important concepts:** irradiance comparison between midday sunlight and indoor red-light therapy boxes, sunrise/sunset light as a way to get red/near-infrared exposure with less UV
 
-## 130. Friendly hang challenge
+## 133. Friendly hang challenge
 
 - **Source ID:** `4xR2uwsLi24`
 - **URL:** https://www.youtube.com/watch?v=4xR2uwsLi24
@@ -1569,7 +1605,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** grip strength/dead-hang duration as a proxy measure correlated with longevity
 
-## 131. Fruit is amazing
+## 134. Fruit is amazing
 
 - **Source ID:** `BA_qmBoR6Eg`
 - **URL:** https://www.youtube.com/watch?v=BA_qmBoR6Eg
@@ -1581,7 +1617,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** electrolyte problems, heart palpitations, sleep disturbances, and declining testosterone experienced during two years of strict carnivore eating
 - **Important concepts:** fruit's carbohydrates aiding electrolyte conservation and maintaining sodium, chloride, potassium, and magnesium ratios in the body
 
-## 132. Fruit Loops = behavior issues in kids?
+## 135. Fruit Loops = behavior issues in kids?
 
 - **Source ID:** `alExqAdknZ0`
 - **URL:** https://www.youtube.com/watch?v=alExqAdknZ0
@@ -1593,7 +1629,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** artificial dyes (Yellow 6, Red 40, Red 3, Blue 1) linked to hyperactivity and behavioral problems in children, seed oils present even in a cereal product, a less commonly expected source
 - **Important concepts:** none recorded
 
-## 133. Full Day of Eating 2023 Update!
+## 136. Full Day of Eating 2023 Update!
 
 - **Source ID:** `-4eVclrit2o`
 - **URL:** https://www.youtube.com/watch?v=-4eVclrit2o
@@ -1605,7 +1641,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 134. Gatorade vs watermelon juice
+## 137. Gatorade vs watermelon juice
 
 - **Source ID:** `2ygBMqqIUnA`
 - **URL:** https://www.youtube.com/watch?v=2ygBMqqIUnA
@@ -1617,7 +1653,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** artificial dyes (Yellow 5, Red 40) in Gatorade
 - **Important concepts:** fruit sugar consumed during/after exercise not causing insulin resistance, unlike sugar consumed at rest, intra- and post-workout carbohydrates improving muscle glycogen and hormone levels including testosterone, per cited studies
 
-## 135. Get rid of those AirPods!
+## 138. Get rid of those AirPods!
 
 - **Source ID:** `9OKCnr0d4OM`
 - **URL:** https://www.youtube.com/watch?v=9OKCnr0d4OM
@@ -1629,7 +1665,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** EMF radiation exposure directly into the head/ear from wireless earbuds, animal-study evidence of decreased sperm count, reproductive success, fertility, and reproductive organ size from EMF radiation
 - **Important concepts:** a lack of direct human brain-radiation research on AirPods/cell phones, contrasted with existing animal-reproductive-organ research
 
-## 136. Glyphosate: how it's harming you
+## 139. Glyphosate: how it's harming you
 
 - **Source ID:** `nRN8yhYmyVc`
 - **URL:** https://www.youtube.com/watch?v=nRN8yhYmyVc
@@ -1641,7 +1677,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** glyphosate contamination of grains, produce, beer, wine, and drinking water, the herbicide adjuvant POEA making Roundup formulations more toxic than glyphosate alone, glyphosate's association with cancer, neurological disease, and reproductive/endocrine effects, thallium and dacthal contamination in kale, including organic kale, healthy-user bias in observational organic-food research
 - **Important concepts:** active-principle versus full-formulation toxicity testing, the shikimate pathway as glyphosate's proposed route to gut-microbiome disruption, IARC's Group 2 carcinogen classification, grass-fed/grass-finished as an (unverified without testing) proxy for lower agrochemical exposure
 
-## 137. Grain-free flatbread recipe
+## 140. Grain-free flatbread recipe
 
 - **Source ID:** `1Me-G4-HHJk`
 - **URL:** https://www.youtube.com/watch?v=1Me-G4-HHJk
@@ -1653,7 +1689,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** wheat and wheat gluten in regular flatbread, said to "trigger a lot of people's guts"
 - **Important concepts:** none recorded
 
-## 138. Grocery stores make me sick
+## 141. Grocery stores make me sick
 
 - **Source ID:** `PbflpB2KcCU`
 - **URL:** https://www.youtube.com/watch?v=PbflpB2KcCU
@@ -1665,7 +1701,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils and processed sugar named as present in nearly every aisle, including foods not typically flagged (banana chips, tortillas, roasted nuts)
 - **Important concepts:** the meat counter singled out as the one area of a typical grocery store consistent with an animal-based diet
 
-## 139. Grocery stores: modern hunting grounds for humans #animalbased
+## 142. Grocery stores: modern hunting grounds for humans #animalbased
 
 - **Source ID:** `9LLnNbuifkw`
 - **URL:** https://www.youtube.com/watch?v=9LLnNbuifkw
@@ -1677,7 +1713,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** vegetable peel coatings potentially unhealthy for humans
 - **Important concepts:** a lost human "intuition" for what's healthy, obscured by confusing labels and hard-to-read additive lists
 
-## 140. Ground beef is amazing
+## 143. Ground beef is amazing
 
 - **Source ID:** `8ayZ4__PiL0`
 - **URL:** https://www.youtube.com/watch?v=8ayZ4__PiL0
@@ -1689,7 +1725,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** glycine from collagen used to make glutathione, described as a major antioxidant
 
-## 141. Ground beef without beef??
+## 144. Ground beef without beef??
 
 - **Source ID:** `3kge5IpJ7LQ`
 - **URL:** https://www.youtube.com/watch?v=3kge5IpJ7LQ
@@ -1701,7 +1737,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** guar gum, described as harmful for the human gut, caramel color, associated with irritable bowel syndrome
 - **Important concepts:** none recorded
 
-## 142. Heal with an animal-based diet!
+## 145. Heal with an animal-based diet!
 
 - **Source ID:** `O2Wn76_EHnM`
 - **URL:** https://www.youtube.com/watch?v=O2Wn76_EHnM
@@ -1713,7 +1749,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** heart disease, autoimmune disease, obesity, and diabetes framed as reversible rather than permanent
 - **Important concepts:** evolutionarily consistent living (animal-based diet, circadian rhythm, sunlight, exercise) as the mechanism for disease reversal, rejecting the framing that chronic disease patients are "imprisoned" by lifelong pharmaceutical dependence
 
-## 143. Heal yourself with an animal-based diet!
+## 146. Heal yourself with an animal-based diet!
 
 - **Source ID:** `nmwFHXHCb6o`
 - **URL:** https://www.youtube.com/watch?v=nmwFHXHCb6o
@@ -1725,7 +1761,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** vegetables potentially triggering autoimmunity "in some people", autoimmune, inflammatory, and diabetic conditions framed as reversible
 - **Important concepts:** {'a stated order of elimination': 'seed oils first, then processed sugar, then consider vegetables'}
 
-## 144. Healthiest protein bar in the world?
+## 147. Healthiest protein bar in the world?
 
 - **Source ID:** `AEA8LpaxBms`
 - **URL:** https://www.youtube.com/watch?v=AEA8LpaxBms
@@ -1737,7 +1773,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** artificial flavors, artificial ingredients, and binders in commercial protein bars
 - **Important concepts:** vitamin K2 content in grass-fed cheese framed as beneficial for heart health
 
-## 145. Healthy deodorant recipe
+## 148. Healthy deodorant recipe
 
 - **Source ID:** `9TjU-2qfDmM`
 - **URL:** https://www.youtube.com/watch?v=9TjU-2qfDmM
@@ -1749,7 +1785,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** regular deodorant containing toxic, hormone-disrupting chemicals applied near lymph nodes and hormonally active tissue
 - **Important concepts:** the armpit's proximity to lymph nodes and hormonally active tissue as a reason to scrutinize what's applied there
 
-## 146. Healthy soda recipe
+## 149. Healthy soda recipe
 
 - **Source ID:** `0uyoo3O9ELs`
 - **URL:** https://www.youtube.com/watch?v=0uyoo3O9ELs
@@ -1761,7 +1797,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** soda addiction, framed as one of the easiest dietary changes to eliminate for health
 - **Important concepts:** raw, organic, glyphosate-free honey distinguished from processed sugar and Coca-Cola's specific additives
 
-## 147. Here is how I would drink coffee…
+## 150. Here is how I would drink coffee…
 
 - **Source ID:** `AM5vtp8_be8`
 - **URL:** https://www.youtube.com/watch?v=AM5vtp8_be8
@@ -1773,7 +1809,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** hormone-disrupting components potentially leaching from plastic coffee pot components via hot water condensation
 - **Important concepts:** waiting 90 minutes after waking before drinking coffee, and stopping caffeine after noon, replenishing minerals lost from caffeine's diuretic-adjacent effect via sea salt, coconut water, or fruit juice
 
-## 148. Here’s my full day of animal-based eating
+## 151. Here’s my full day of animal-based eating
 
 - **Source ID:** `jNGO1V9KlIk`
 - **URL:** https://www.youtube.com/watch?v=jNGO1V9KlIk
@@ -1785,7 +1821,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a 13-hour overnight fast paired with an 11-hour eating window, two meals a day
 
-## 149. High protein cereals = FAKE “health” food
+## 152. High protein cereals = FAKE “health” food
 
 - **Source ID:** `4om5WTGJQGg`
 - **URL:** https://www.youtube.com/watch?v=4om5WTGJQGg
@@ -1797,7 +1833,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** an ingredient label disclosing a "bioengineered food ingredient" without specifying which one
 - **Important concepts:** none recorded
 
-## 150. Hollywood beauty secret??
+## 153. Hollywood beauty secret??
 
 - **Source ID:** `b3rUWH3-2RU`
 - **URL:** https://www.youtube.com/watch?v=b3rUWH3-2RU
@@ -1809,7 +1845,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 151. Homemade ground beef with organs #animalbased
+## 154. Homemade ground beef with organs #animalbased
 
 - **Source ID:** `3v4RzI6cDHc`
 - **URL:** https://www.youtube.com/watch?v=3v4RzI6cDHc
@@ -1821,7 +1857,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** combining muscle meat, heart, and liver in one ground product to cover a broader nutrient profile than muscle meat alone
 
-## 152. Homemade healthy air freshener
+## 155. Homemade healthy air freshener
 
 - **Source ID:** `4lDQrXfq3fA`
 - **URL:** https://www.youtube.com/watch?v=4lDQrXfq3fA
@@ -1833,7 +1869,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fabric softener and perfume-based air fresheners described as containing endocrine disrupting chemicals
 - **Important concepts:** none recorded
 
-## 153. Homemade healthy ice cream recipe
+## 156. Homemade healthy ice cream recipe
 
 - **Source ID:** `-uM5T3WjVvU`
 - **URL:** https://www.youtube.com/watch?v=-uM5T3WjVvU
@@ -1845,7 +1881,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** raw egg yolk nutrients (choline, vitamin K2, biotin, riboflavin, folate) for brain and body, 60% of dairy's immunologically active components said to be concentrated in milk fat/cream
 
-## 154. Honey is definitely not BS
+## 157. Honey is definitely not BS
 
 - **Source ID:** `vn4yF1UUtr4`
 - **URL:** https://www.youtube.com/watch?v=vn4yF1UUtr4
@@ -1857,7 +1893,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** the "food matrix" distinction between fructose consumed within a whole food versus isolated fructose, honey's use among hunter-gatherer groups, citing the Hadza, as evidence of its place in the ancestral human diet
 
-## 155. Hospitals = profits?? 💰
+## 158. Hospitals = profits?? 💰
 
 - **Source ID:** `aR_UbFkzdXg`
 - **URL:** https://www.youtube.com/watch?v=aR_UbFkzdXg
@@ -1869,7 +1905,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** thyroid disease, aches and pains, obesity, diabetes, and rheumatoid arthritis named as conditions where diet and lifestyle should be tried before becoming "a lifetime customer" of the healthcare system
 - **Important concepts:** the US healthcare system framed as a $4 trillion business structurally incentivized around repeat customers rather than resolving illness
 
-## 156. Hospitals serve junk food…
+## 159. Hospitals serve junk food…
 
 - **Source ID:** `_VxsifaNVAU`
 - **URL:** https://www.youtube.com/watch?v=_VxsifaNVAU
@@ -1881,7 +1917,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a hospital's own snack stand offering almost exclusively sugary, processed baked goods
 - **Important concepts:** none recorded
 
-## 157. How canola oil is made
+## 160. How canola oil is made
 
 - **Source ID:** `blqHuxlNAeI`
 - **URL:** https://www.youtube.com/watch?v=blqHuxlNAeI
@@ -1893,7 +1929,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** erucic acid, a toxic fatty acid strongly associated with heart lesions, originally present in rapeseed at levels requiring special breeding to reduce, hexane, a known neurological toxin used as a solvent in oil extraction, oxidation of the fragile oil during high-temperature extraction, trans fatty acids present in the final processed product
 - **Important concepts:** bleaching and deodorization as processing steps required to mask canola oil's naturally rancid smell
 
-## 158. How Contaminated Is Your Favorite Salt?
+## 161. How Contaminated Is Your Favorite Salt?
 
 - **Source ID:** `Ynis4uKZUfY`
 - **URL:** https://www.youtube.com/watch?v=Ynis4uKZUfY
@@ -1905,7 +1941,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** aluminum, arsenic, cadmium, and lead contamination in sea salt, heavy metal exposure more broadly (tap water, fish, deodorant, canned-food linings)
 - **Important concepts:** tolerable upper limit for lead (Prop 65 versus FDA), blood, urine, and hair testing for heavy metal body burden, per-gram dose math applied to daily salt intake
 
-## 159. How I cut a pineapple
+## 162. How I cut a pineapple
 
 - **Source ID:** `5fsudhrzcWY`
 - **URL:** https://www.youtube.com/watch?v=5fsudhrzcWY
@@ -1917,7 +1953,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 160. How I Find the Healthiest Grass Fed Steak
+## 163. How I Find the Healthiest Grass Fed Steak
 
 - **Source ID:** `QHgMGn1ohH4`
 - **URL:** https://www.youtube.com/watch?v=QHgMGn1ohH4
@@ -1929,7 +1965,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** commodity cattle finished on corn and soy at 16-18 months versus grass-finished to 48+ months, pigs fed corn and soy becoming enriched in linoleic acid, lack of intramuscular fat in some traditionally lean cattle breeds
 - **Important concepts:** third-party grass-fed certification (American Grass-Fed Association), dry-aging as a controlled, enzymatic breakdown process distinct from spoilage, whole-animal butchery and full-carcass ground beef as a "true representation" of the animal, inside skirt versus outside skirt (diaphragm) as different cuts with different flavor
 
-## 161. How I recover so quickly 🤒
+## 164. How I recover so quickly 🤒
 
 - **Source ID:** `03Rq-FSYdT0`
 - **URL:** https://www.youtube.com/watch?v=03Rq-FSYdT0
@@ -1941,7 +1977,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** airport travel and poor sleep named as what predisposes the host to getting sick
 - **Important concepts:** colostrum as immunoglobulin-rich
 
-## 162. How I shop for cheese
+## 165. How I shop for cheese
 
 - **Source ID:** `6RidQTSm3hI`
 - **URL:** https://www.youtube.com/watch?v=6RidQTSm3hI
@@ -1953,7 +1989,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** reading cheese labels for "pasteurized," "raw," or "fresh milk" (a synonym for raw) to identify raw cheese, raw cheese remaining legally purchasable in states where raw milk itself isn't sold in stores
 
-## 163. How much protein for longevity?
+## 166. How much protein for longevity?
 
 - **Source ID:** `5FePZo4twJM`
 - **URL:** https://www.youtube.com/watch?v=5FePZo4twJM
@@ -1965,7 +2001,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a 2014 observational study (Walter Longo's lab) using NHANES dietary recall data, described as "notoriously inaccurate", the study's protein-longevity association reversing direction after age 65, which the host calls internally inconsistent
 - **Important concepts:** the Blue Zones narrative (Dan Buettner) challenged as including mostly meat-eating regions despite being used to argue for plant-based longevity
 
-## 164. How much protein should you eat?
+## 167. How much protein should you eat?
 
 - **Source ID:** `4HGVkRu_vbw`
 - **URL:** https://www.youtube.com/watch?v=4HGVkRu_vbw
@@ -1977,7 +2013,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** one gram of protein per pound of bodyweight as the daily protein target
 
-## 165. How raw butter is made
+## 168. How raw butter is made
 
 - **Source ID:** `2uQW-UpB8Fo`
 - **URL:** https://www.youtube.com/watch?v=2uQW-UpB8Fo
@@ -1989,7 +2025,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** gut issues, framed as a reason to specifically seek out cultured raw butter
 - **Important concepts:** immunoglobulins, peptides, and other "healing compounds" concentrated in raw milk fat
 
-## 166. How Takis are made 😳
+## 169. How Takis are made 😳
 
 - **Source ID:** `8DNLBD47QWU`
 - **URL:** https://www.youtube.com/watch?v=8DNLBD47QWU
@@ -2001,7 +2037,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** cooking oils described as rancid and damaged, used in Takis production, three tons of artificial-coloring seasoning used per day, described as "mutant alien ingredients", attention deficit and hyperactivity attributed to artificial colorings
 - **Important concepts:** none recorded
 
-## 167. How to avoid kids eating junk…
+## 170. How to avoid kids eating junk…
 
 - **Source ID:** `__o4qKqALdk`
 - **URL:** https://www.youtube.com/watch?v=__o4qKqALdk
@@ -2013,7 +2049,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a "downward spiral" once a parent starts introducing bits of candy/junk food to kids
 - **Important concepts:** teaching kids what their food actually is, rather than just restricting it
 
-## 168. How to avoid moldy meat and why cows are NOT driving rainforest deforestation
+## 171. How to avoid moldy meat and why cows are NOT driving rainforest deforestation
 
 - **Source ID:** `2KMaKJqU5Gs`
 - **URL:** https://www.youtube.com/watch?v=2KMaKJqU5Gs
@@ -2025,7 +2061,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** aflatoxin-contaminated peanut meal contaminating turkey meat, mold-toxin accumulation in milk and cheese from grain-fed cows, indoor/urban mold and air-pollution exposure generally, misattributing rainforest deforestation to cattle rather than soy cultivation
 - **Important concepts:** species-appropriate diet as an animal-based framework (organs, meat, fruit, honey, raw dairy), land-tenure law in Amazonia as the actual deforestation driver, knowing your farmer as a mycotoxin-avoidance strategy for raw dairy
 
-## 169. How To Cook Organ Meat With Anya
+## 172. How To Cook Organ Meat With Anya
 
 - **Source ID:** `Os8GRj2YEUs`
 - **URL:** https://www.youtube.com/watch?v=Os8GRj2YEUs
@@ -2037,7 +2073,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** USDA-style "cook until everything's dead" advice versus sourcing clean meat and cooking for taste, off/ammoniac smell as a freshness check on liver
 - **Important concepts:** cooking to "optimal deliciousness" rather than to a safety-driven temperature, marinating and post-cook acid (lemon, sherry vinegar, chimichurri) as a way to balance organ flavor
 
-## 170. How to cook the perfect steak
+## 173. How to cook the perfect steak
 
 - **Source ID:** `9WR5wWZwrlQ`
 - **URL:** https://www.youtube.com/watch?v=9WR5wWZwrlQ
@@ -2049,7 +2085,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** pulling steak off the grill a few degrees below the target temperature, then resting it, to reach the desired final doneness
 
-## 171. How To Decode Egg Labels For The Healthiest Choice
+## 174. How To Decode Egg Labels For The Healthiest Choice
 
 - **Source ID:** `fpO3Y5yVVIA`
 - **URL:** https://www.youtube.com/watch?v=fpO3Y5yVVIA
@@ -2061,7 +2097,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** pesticide bioaccumulation from chicken feed, linoleic acid (omega-6) content driven by corn-and-soy feed, PFAS ("forever chemicals") from nonstick cookware, oxidized cooking oils, misleading plant-based egg substitute labeling
 - **Important concepts:** LDL oxidation susceptibility as a diet-modifiable cardiovascular marker, dietary cholesterol versus blood cholesterol, saturated fat's relative resistance to oxidation when heated
 
-## 172. How to get a strong jawline
+## 175. How to get a strong jawline
 
 - **Source ID:** `__yZeTJEbqc`
 - **URL:** https://www.youtube.com/watch?v=__yZeTJEbqc
@@ -2073,7 +2109,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** eating too quickly, outrunning the body's own satiety response and leading to overeating
 - **Important concepts:** saliva mixing with food during chewing as a stated detoxification step, the oral immune system being activated by the act of chewing
 
-## 173. How to lower glyphosate exposure
+## 176. How to lower glyphosate exposure
 
 - **Source ID:** `vvHMEumxHTc`
 - **URL:** https://www.youtube.com/watch?v=vvHMEumxHTc
@@ -2085,7 +2121,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** glyphosate residue in grains, produce, and drinking water, genistein worsening glyphosate's estrogenic effects, thallium and dacthal contamination from non-organic kale
 - **Important concepts:** glyphosate level testing as a personal baseline metric, reverse osmosis as a glyphosate-reduction method for drinking water, broad-panel environmental toxin testing (GPL-TOX)
 
-## 174. How to make kefir
+## 177. How to make kefir
 
 - **Source ID:** `5796pyRUxFo`
 - **URL:** https://www.youtube.com/watch?v=5796pyRUxFo
@@ -2097,7 +2133,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the host's own lactose intolerance, which raw milk alone doesn't resolve for him
 - **Important concepts:** fermentation lowering kefir's lactose content relative to raw milk
 
-## 175. How to make kefir
+## 178. How to make kefir
 
 - **Source ID:** `a4sK9HJrxW0`
 - **URL:** https://www.youtube.com/watch?v=a4sK9HJrxW0
@@ -2109,7 +2145,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** fermenting raw milk into kefir using either kefir grains or an existing kefir culture as a starter
 
-## 176. How to raise chickens and pork appropriately
+## 179. How to raise chickens and pork appropriately
 
 - **Source ID:** `5Rkk-Be3AqY`
 - **URL:** https://www.youtube.com/watch?v=5Rkk-Be3AqY
@@ -2121,7 +2157,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the practical impossibility of scaling truly species-appropriate chicken or pork production, ring-nosing pigs to stop them rooting so producers can still market them as "pasture raised", soil mineral depletion on land with a history of monocrop farming
 - **Important concepts:** species-appropriate behavior (jungle-fowl roosting for chickens, forest rooting for pigs) versus grassland grazing (ruminants), feed-conversion burden as a limit on truly free-range pig or chicken farming at scale, regenerative, rotational grazing as the reason ruminants scale better than pigs or chickens
 
-## 177. How to reverse low testosterone
+## 180. How to reverse low testosterone
 
 - **Source ID:** `4O0Q8hZsy-M`
 - **URL:** https://www.youtube.com/watch?v=4O0Q8hZsy-M
@@ -2133,7 +2169,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** marijuana use, said to lower testosterone, seed oils, food dyes, and processed food generally, blue light exposure at night disrupting sleep
 - **Important concepts:** grounding (bare feet on the ground) as part of a testosterone-supportive routine
 
-## 178. How to shop for butter 🧈
+## 181. How to shop for butter 🧈
 
 - **Source ID:** `AH6pYoKBUxs`
 - **URL:** https://www.youtube.com/watch?v=AH6pYoKBUxs
@@ -2145,7 +2181,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a distinction between "grass-fed" (diet) and "organic" (pesticide exposure) as two separate quality signals that don't always overlap
 
-## 179. How to shop for extra virgin olive oil!
+## 182. How to shop for extra virgin olive oil!
 
 - **Source ID:** `_TO-GoZo8Lw`
 - **URL:** https://www.youtube.com/watch?v=_TO-GoZo8Lw
@@ -2157,7 +2193,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** imported olive oils adulterated with seed oils, California olive oils found rancid, oxidized, and "essentially spoiled" per a cited UC Davis study
 - **Important concepts:** buying criteria for a genuine, less-degraded olive oil — organic, cold pressed, a visible harvest date, and dark glass bottling
 
-## 180. How To Shop For Meat And Eggs At Costco
+## 183. How To Shop For Meat And Eggs At Costco
 
 - **Source ID:** `mXRxFtQiT3I`
 - **URL:** https://www.youtube.com/watch?v=mXRxFtQiT3I
@@ -2169,7 +2205,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** chlorine and other water-bath byproducts retained in water-chilled chicken, plastic packaging (including black plastic) and heat exposure in rotisserie chicken, carrageenan and other additives in rotisserie chicken seasoning, PCB contamination in farm-raised salmon, carbon monoxide treatment of ahi tuna and its mercury content, misleading egg labels (cage-free, free-range) versus actual chicken living conditions
 - **Important concepts:** water retention percentage as a chicken-processing disclosure, USDA prime versus choice grading as a marbling grade, not a feed-source distinction, astaxanthin as the source of wild salmon's color versus added coloring in farmed salmon, egg white viscosity and yolk height as visual proxies for chicken health
 
-## 181. How to shop for meat at Costco
+## 184. How to shop for meat at Costco
 
 - **Source ID:** `06XYcx8KK7g`
 - **URL:** https://www.youtube.com/watch?v=06XYcx8KK7g
@@ -2181,7 +2217,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** buying a whole primal cut and butchering it yourself as a cost-saving strategy
 
-## 182. How to Shop for Meat at the Grocery Store
+## 185. How to Shop for Meat at the Grocery Store
 
 - **Source ID:** `DwRxSE8m3sQ`
 - **URL:** https://www.youtube.com/watch?v=DwRxSE8m3sQ
@@ -2193,7 +2229,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** moldy or pesticide-contaminated feedlot grain, including grain the host says is legally allowed to contain plastic or food waste, grass-fed labels that omit "100%" as a loophole for partial-life grass feeding, ultra-processed ingredients (methylcellulose, pea protein, seed oils, carrageenan) in plant-based meat
 - **Important concepts:** carbon-negative versus carbon-positive food production, applied to regenerative beef versus plant-based meat, rotational grazing and paddock rest as the mechanism behind regenerative claims, soil mycorrhizal networks as the pathway from grazing animal waste to plant nutrient uptake
 
-## 183. How to shop for ORANGE JUICE
+## 186. How to shop for ORANGE JUICE
 
 - **Source ID:** `7JK29_zS4s4`
 - **URL:** https://www.youtube.com/watch?v=7JK29_zS4s4
@@ -2205,7 +2241,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** packaged orange juice sold in plastic
 - **Important concepts:** none recorded
 
-## 184. How to shop for steaks
+## 187. How to shop for steaks
 
 - **Source ID:** `BCx5RL-cGGA`
 - **URL:** https://www.youtube.com/watch?v=BCx5RL-cGGA
@@ -2217,7 +2253,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** fat marbling throughout a steak (rather than pure leanness) as a tenderness indicator, alongside fat and meat color as a grass-fed versus grain-fed indicator
 
-## 185. Humans crave meat and organs!
+## 188. Humans crave meat and organs!
 
 - **Source ID:** `5WC3ttkxPvM`
 - **URL:** https://www.youtube.com/watch?v=5WC3ttkxPvM
@@ -2229,7 +2265,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** the Hadza's reported answers (favorite food, happiest day, what makes a good husband) all centering on hunting and meat
 
-## 186. I ate a vegetable…
+## 189. I ate a vegetable…
 
 - **Source ID:** `VGbTiOBMKUI`
 - **URL:** https://www.youtube.com/watch?v=VGbTiOBMKUI
@@ -2241,7 +2277,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** unripe fruit's higher defense-chemical content compared to ripe fruit
 - **Important concepts:** rejecting resistant starch from unripe fruit as necessary for gut health, fruit's defense chemical content decreasing as it ripens
 
-## 187. I don’t worry about melanoma…
+## 190. I don’t worry about melanoma…
 
 - **Source ID:** `JPwUMhmajRA`
 - **URL:** https://www.youtube.com/watch?v=JPwUMhmajRA
@@ -2253,7 +2289,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** excess linoleic acid in fat tissue positively correlated with melanoma rates
 - **Important concepts:** gradual, non-burning sun exposure framed as protective against melanoma rather than causative
 
-## 188. I had to quit carnivore…
+## 191. I had to quit carnivore…
 
 - **Source ID:** `3KZ6hTSvMW4`
 - **URL:** https://www.youtube.com/watch?v=3KZ6hTSvMW4
@@ -2265,7 +2301,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** eczema, which strict carnivore fixed, followed by unspecified issues that improved once carbohydrates were reintroduced
 - **Important concepts:** animal-based diet recommended as a starting baseline especially for autoimmune issues or food reactions
 
-## 189. I Made an Energy Drink!
+## 192. I have a very thorough skincare routine…
+
+- **Source ID:** `IfVX5CXlTdE`
+- **URL:** https://www.youtube.com/watch?v=IfVX5CXlTdE
+- **Upload date:** 2022-06-28
+- **Duration:** 00:23
+- **Source file:** `sources/clean/IfVX5CXlTdE.txt`
+- **Main subjects:** reframing diet itself as the host's skincare routine, filmed in a bathroom setting
+- **Foods & products:** meat, organs, fruit, honey, raw dairy - presented as the "skincare routine"
+- **Concerns:** none recorded
+- **Important concepts:** diet framed as skincare, rather than topical products
+
+## 193. I Made an Energy Drink!
 
 - **Source ID:** `gwBFpb-37-M`
 - **URL:** https://www.youtube.com/watch?v=gwBFpb-37-M
@@ -2277,7 +2325,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a blended organ/fruit/dairy mixture offered as a whole-food alternative to commercial energy drinks
 
-## 190. I never use toothpaste…
+## 194. I never use toothpaste…
 
 - **Source ID:** `bRTMnGebhIE`
 - **URL:** https://www.youtube.com/watch?v=bRTMnGebhIE
@@ -2289,7 +2337,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** plastic-bristle toothbrushes as a possible microplastic exposure source, PFAS ("forever chemicals") found in some glide dental flosses, per a cited study on women using PFAS-containing floss showing higher body levels of these chemicals
 - **Important concepts:** bad breath framed as caused by oral and gut microbiome dysbiosis, addressed through diet and gut health rather than toothpaste use
 
-## 191. I Tested the Top 7 Salts for Toxins (Only 2 Passed)
+## 195. I Tested the Top 7 Salts for Toxins (Only 2 Passed)
 
 - **Source ID:** `9cmx-lt3n1w`
 - **URL:** https://www.youtube.com/watch?v=9cmx-lt3n1w
@@ -2301,7 +2349,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** lead contamination, arsenic contamination, aluminum contamination, microplastics, anti-caking and additive ingredients in iodized salt, rock-salt (implied Himalayan) contamination risk, not directly tested here
 - **Important concepts:** Prop 65 lead limit versus FDA tolerable upper limit for lead, salt-and-hypertension attributed to underlying insulin resistance, not salt itself, the Alberger process, hypernatremia and hyponatremia as acute sodium-imbalance states
 
-## 192. I tried this crazy Oreos experiment…
+## 196. I tried this crazy Oreos experiment…
 
 - **Source ID:** `aQfMf9hA5Xo`
 - **URL:** https://www.youtube.com/watch?v=aQfMf9hA5Xo
@@ -2313,7 +2361,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils and high fructose corn syrup in Oreos
 - **Important concepts:** burn resistance used as an informal visual proxy for how "food-like" a processed product actually is
 
-## 193. I was interrogated about NUTRITION on TV…
+## 197. I was interrogated about NUTRITION on TV…
 
 - **Source ID:** `8I69ZP5wpb0`
 - **URL:** https://www.youtube.com/watch?v=8I69ZP5wpb0
@@ -2325,7 +2373,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a formal medical degree not automatically conferring or denying nutritional knowledge, per the host's response to the credential challenge
 
-## 194. I Went From 500 to 857 Testosterone at 48 (5 Simple Tips)
+## 198. I Went From 500 to 857 Testosterone at 48 (5 Simple Tips)
 
 - **Source ID:** `cpKnsRdbx_k`
 - **URL:** https://www.youtube.com/watch?v=cpKnsRdbx_k
@@ -2337,7 +2385,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oil consumption claimed to shrink the testicles, offered without a named study, sauna heat above roughly 210-215°F linked to increased dementia risk in a cited but unnamed cohort, sauna heat's effect on sperm count and motility, polyester underwear's claimed effect on sperm formation, cited from human and canine studies, bedroom CO2 above roughly 900 ppm degrading sleep quality, RF EMF from phones and Wi-Fi routers, especially near the head or groin, or overnight near the bed, a public accusation (from "Greg Ducet") that Saladino used clomiphene, which he denies
 - **Important concepts:** the DHEAS-to-cortisol ratio as the preferred lab marker for overtraining, outdoor UV and infrared light exposure linked to vitamin D, testosterone, and mitochondrial function, the cortisol awakening response and its role in setting the circadian clock, poor sleep suppressing pituitary LH/FSH signaling to the testicles as the stated mechanism linking sleep quality to testosterone, ABNRF (Animal Based Nutrition Research Foundation), Saladino's own nonprofit, cited for in-house microplastics testing
 
-## 195. I wouldn’t put it on my wrist…
+## 199. I wouldn’t put it on my wrist…
 
 - **Source ID:** `80Z9cuzBx-U`
 - **URL:** https://www.youtube.com/watch?v=80Z9cuzBx-U
@@ -2349,7 +2397,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** three types of Apple Watch bands found containing fluoroelastomer, a synthetic rubber contaminated with PFAS, over 11 hours of average daily skin contact with the band, a route for PFAS absorption, RF-EMF exposure from wearing an Apple Watch, Lululemon clothing (sports bras, leggings) separately found contaminated with PFAS
 - **Important concepts:** none recorded
 
-## 196. Illegal energy drink!?
+## 200. Illegal energy drink!?
 
 - **Source ID:** `bnk2WdL1WdA`
 - **URL:** https://www.youtube.com/watch?v=bnk2WdL1WdA
@@ -2361,7 +2409,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** kratom's opiate-like effects, disrupting sleep, mood, and energy levels
 - **Important concepts:** kratom described as plant-derived but pharmacologically similar to an opiate/morphine in its effects on the body
 
-## 197. Is Alkaline water/Structured water BS?
+## 201. Is Alkaline water/Structured water BS?
 
 - **Source ID:** `A0D0zCk-y4w`
 - **URL:** https://www.youtube.com/watch?v=A0D0zCk-y4w
@@ -2373,7 +2421,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** marketing claims behind alkaline water (immunity, cancer prevention), $500–$2,000 water-structuring/vortex devices, pH 8.8 alkaline water denaturing pepsin and worsening reflux symptoms
 - **Important concepts:** blood pH homeostasis (7.35–7.45) and metabolic/respiratory alkalosis, exclusion zone ("fourth phase") water research contrasted with commercial "structured water" claims, urinary pH as the body's own acid-base outlet rather than a dietary target
 
-## 198. Is broccoli actually good for you??
+## 202. Is broccoli actually good for you??
 
 - **Source ID:** `5SowFgUc4BI`
 - **URL:** https://www.youtube.com/watch?v=5SowFgUc4BI
@@ -2385,7 +2433,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** isothiocyanates blocking thyroid iodine absorption, leading to lower thyroid hormone, gas, bloating, and GI issues commonly caused by broccoli
 - **Important concepts:** none recorded
 
-## 199. Is Dementia Preventable?
+## 203. Is Dementia Preventable?
 
 - **Source ID:** `2i7ELY0R3Kw`
 - **URL:** https://www.youtube.com/watch?v=2i7ELY0R3Kw
@@ -2397,7 +2445,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** Alzheimer's and dementia connected to insulin resistance
 - **Important concepts:** the term type 3 diabetes as a name for Alzheimer's framed around insulin resistance in the brain
 
-## 200. Is Detoxing from Seed Oils Possible?
+## 204. Is Detoxing from Seed Oils Possible?
 
 - **Source ID:** `0lVI3v19iUY`
 - **URL:** https://www.youtube.com/watch?v=0lVI3v19iUY
@@ -2409,7 +2457,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid's cited 680-day half-life in cell membranes, implying over 8 years to fully clear excess intake
 - **Important concepts:** stearic acid as the animal-fat alternative the host recommends prioritizing once seed oils are removed
 
-## 201. Is drinking orange juice like drinking Coke?
+## 205. Is drinking orange juice like drinking Coke?
 
 - **Source ID:** `5p3i0dHIbmo`
 - **URL:** https://www.youtube.com/watch?v=5p3i0dHIbmo
@@ -2421,7 +2469,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** Coca-Cola shown in human studies to impair blood vessel lining function
 - **Important concepts:** endothelial function and LDL oxidation resistance as the specific measures that distinguish orange juice's effect from Coca-Cola's despite similar sugar content
 
-## 202. Is drinking water from plastic safe?
+## 206. Is drinking water from plastic safe?
 
 - **Source ID:** `_9ZlUlNMXwA`
 - **URL:** https://www.youtube.com/watch?v=_9ZlUlNMXwA
@@ -2433,7 +2481,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** microplastics found in carotid ("neck") artery plaque associated with a 4.5x increased risk of cardiovascular disease, an estimated 5 grams of microplastic consumed per week from bottled water, described as "a credit card's worth" weekly
 - **Important concepts:** carotid plaque microplastic burden as a measurable cardiovascular risk marker
 
-## 203. Is Elon Musk wrong about THIS?? 😳
+## 207. Is Elon Musk wrong about THIS?? 😳
 
 - **Source ID:** `2EAyYVkoAP4`
 - **URL:** https://www.youtube.com/watch?v=2EAyYVkoAP4
@@ -2445,7 +2493,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** cell phone radiation associated with lower testosterone in men, a cited sperm study finding DNA damage and impaired motility after 5 hours of cell phone exposure
 - **Important concepts:** phone-in-pocket carrying and phone-to-head calls named as the largest RF-EMF exposure routes for most people
 
-## 204. Is grass-fed beef better?
+## 208. Is grass-fed beef better?
 
 - **Source ID:** `-CdRoDSiuGQ`
 - **URL:** https://www.youtube.com/watch?v=-CdRoDSiuGQ
@@ -2457,7 +2505,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** grain feed potentially sprayed with glyphosate/pesticides and carrying mold toxins
 - **Important concepts:** grass-fed cattle regenerating soil and improving ecosystem health over their pasture lifetime
 
-## 205. Is Marijuana BS??
+## 209. Is Marijuana BS??
 
 - **Source ID:** `pFdSfBw0Xz8`
 - **URL:** https://www.youtube.com/watch?v=pFdSfBw0Xz8
@@ -2469,7 +2517,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** cannabinoids named as hormonal disruptors, marijuana smoking linked to appetite increase/overeating and to DNA damage in sperm in infertile men, cannabidiol reported to damage DNA in human cell culture
 - **Important concepts:** marijuana/CBD's clinical benefits (appetite in cancer patients, acute anxiety, nausea, sleep) framed as not correcting root causes
 
-## 206. Is olive oil safe for cooking?
+## 210. Is olive oil safe for cooking?
 
 - **Source ID:** `9wc7JMn5NLE`
 - **URL:** https://www.youtube.com/watch?v=9wc7JMn5NLE
@@ -2481,7 +2529,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a distinction between oxidative stability (resistance to oxidizing at all) and cooking stability under heat, treated somewhat interchangeably in this clip
 
-## 207. Is plant-based meat truly healthy?
+## 211. Is plant-based meat truly healthy?
 
 - **Source ID:** `3V9FuHZWhDE`
 - **URL:** https://www.youtube.com/watch?v=3V9FuHZWhDE
@@ -2493,7 +2541,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** Impossible Burger described as carbon positive, versus regeneratively raised beef as carbon negative
 - **Important concepts:** none recorded
 
-## 208. Is Red Meat Causing Climate Change?
+## 212. Is Red Meat Causing Climate Change?
 
 - **Source ID:** `9gRbOUIa1ok`
 - **URL:** https://www.youtube.com/watch?v=9gRbOUIa1ok
@@ -2505,7 +2553,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** the carbon cycle argument that methane from grazing ruminants derives from atmospheric CO2 already fixed into grass via photosynthesis, rather than representing new net carbon
 
-## 209. Is saturated fat healthy?
+## 213. Is saturated fat healthy?
 
 - **Source ID:** `5xgWLmcjGoo`
 - **URL:** https://www.youtube.com/watch?v=5xgWLmcjGoo
@@ -2517,7 +2565,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** doctors focusing on cholesterol levels without checking fasting insulin, metabolic health, or fasting blood glucose
 - **Important concepts:** coronary artery calcium score of zero as a marker where LDL cholesterol showed no relationship to cardiovascular disease in a cited study
 
-## 210. Is tea BS??
+## 214. Is tea BS??
 
 - **Source ID:** `3cBioKtsUbY`
 - **URL:** https://www.youtube.com/watch?v=3cBioKtsUbY
@@ -2529,7 +2577,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** plant leaf defense chemicals in tea, said to disrupt digestion, caffeine in tea causing reactive hypoglycemia
 - **Important concepts:** none recorded
 
-## 211. Is the American Heart Association corrupt?
+## 215. Is the American Heart Association corrupt?
 
 - **Source ID:** `amdsSTO072I`
 - **URL:** https://www.youtube.com/watch?v=amdsSTO072I
@@ -2541,7 +2589,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** ultra-processed junk food remaining eligible for purchase via SNAP food stamps, the American Heart Association's stated opposition to removing junk food from SNAP eligibility
 - **Important concepts:** the American Heart Association's stated rationale (that nutritional restrictions on SNAP would interfere with its primary hunger-reduction function without addressing root causes of chronic disease), presented by the host as illogical or corrupt
 
-## 212. Is the FDA sabotaging our health?
+## 216. Is the FDA sabotaging our health?
 
 - **Source ID:** `2dR4iGAdAfI`
 - **URL:** https://www.youtube.com/watch?v=2dR4iGAdAfI
@@ -2553,7 +2601,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** conflicts of interest on a dietary guidelines committee, with 19 of 20 members reportedly tied to ultra-processed food or pharmaceutical lobbying, the same committee reportedly stating it isn't convinced ultra-processed foods contribute to US obesity
 - **Important concepts:** none recorded
 
-## 213. Is the medical system broken?
+## 217. Is the medical system broken?
 
 - **Source ID:** `0Hl3nOTIFf0`
 - **URL:** https://www.youtube.com/watch?v=0Hl3nOTIFf0
@@ -2565,7 +2613,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** no ability to treat psychiatric illness with dietary changes during residency at the University of Washington, medications-only treatment, gastroenterologists reportedly telling inflammatory bowel disease (Crohn's, ulcerative colitis) patients there's no connection between their condition and diet
 - **Important concepts:** neuroinflammation as a proposed root cause of most psychiatric illness, the artificial separation of "brain" and "body" in how autoimmune and inflammatory conditions are treated across medical specialties
 
-## 214. Is this the best breakfast for humans?
+## 218. Is this the best breakfast for humans?
 
 - **Source ID:** `5K_5_wEK3e8`
 - **URL:** https://www.youtube.com/watch?v=5K_5_wEK3e8
@@ -2577,7 +2625,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** the claim that "animal agriculture is the number one contributor to global warming" framed as propaganda/rubbish
 
-## 215. Is This The Best Butcher Shop In Texas?
+## 219. Is This The Best Butcher Shop In Texas?
 
 - **Source ID:** `jhr-imd1HYI`
 - **URL:** https://www.youtube.com/watch?v=jhr-imd1HYI
@@ -2589,7 +2637,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** chlorine retained in water-chilled ("Cornish cross") chicken, plastic and plasticizer contamination in commercially processed beef, folic acid (versus natural folate) added to enriched flour, oxalates in chard and isothiocyanates ("goitrogens") in cruciferous vegetables
 - **Important concepts:** Cornish cross versus Red Bro chicken breed genetics and harvest age, whole-farm traceability (a map of named source farms) versus anonymous grocery sourcing, cold-processed whey protein preserving immunoglobulins that heat-processing denatures, taurine concentration in beef cheek
 
-## 216. Is this the biggest driver of chronic illness?
+## 220. Is this the biggest driver of chronic illness?
 
 - **Source ID:** `1cFtgXTfWpw`
 - **URL:** https://www.youtube.com/watch?v=1cFtgXTfWpw
@@ -2601,7 +2649,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** ultra-processed foods reported to make up 73% of the US food supply and over 60% of average diets, links to diabetes, obesity, cancer, and depression, ultra-processed foods increasing hunger
 - **Important concepts:** none recorded
 
-## 217. Is Western medicine only treating symptoms?
+## 221. Is Western medicine only treating symptoms?
 
 - **Source ID:** `aFQJa_XM5Zc`
 - **URL:** https://www.youtube.com/watch?v=aFQJa_XM5Zc
@@ -2613,7 +2661,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** zero nutrition courses across the host's entire medical training pipeline (pre-med through residency)
 - **Important concepts:** medical education focused almost entirely on pharmaceutical treatment of symptoms rather than root-cause, nutrition-informed care
 
-## 218. Is your sunscreen aging your skin?
+## 222. Is your sunscreen aging your skin?
 
 - **Source ID:** `936mFN4jAyM`
 - **URL:** https://www.youtube.com/watch?v=936mFN4jAyM
@@ -2625,7 +2673,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils, specifically sunflower seed oil, present in sunscreens marketed as healthy, linoleic acid accumulating in the skin, from both topical seed oil products and dietary intake, accelerating skin aging
 - **Important concepts:** a low-linoleic-acid diet framed as a way to keep skin resilient and healthy long-term
 
-## 219. Is “dead” dairy negatively affecting our kids?
+## 223. Is “dead” dairy negatively affecting our kids?
 
 - **Source ID:** `BCugCamImrY`
 - **URL:** https://www.youtube.com/watch?v=BCugCamImrY
@@ -2637,7 +2685,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** raw milk being illegal to obtain directly in 37 US states, gut discomfort, diarrhea, constipation, bloating, inflammatory bowel disease, eczema, and sleep issues reported by parents in children prior to switching to raw dairy
 - **Important concepts:** the term dead dairy for pasteurized milk, contrasted with raw dairy
 
-## 220. It’s sprayed all over your food…
+## 224. It’s sprayed all over your food…
 
 - **Source ID:** `_NExhLElrjM`
 - **URL:** https://www.youtube.com/watch?v=_NExhLElrjM
@@ -2649,7 +2697,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** over 3 million tons of pesticides used annually, glyphosate exposure near farms, and via non-organic food, Bayer/Monsanto glyphosate litigation — over $4 billion in pending lawsuits, over $611 million already awarded, a European lifespan rat study finding increased cancers at the EU's own maximum allowable human dose (0.5 mg/kg)
 - **Important concepts:** hazmat-suit application gear used as circumstantial evidence against a chemical's safety claims
 
-## 221. Join us for Animal-Based 30
+## 225. Join us for Animal-Based 30
 
 - **Source ID:** `4xRX3Y9BcEc`
 - **URL:** https://www.youtube.com/watch?v=4xRX3Y9BcEc
@@ -2661,7 +2709,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** autoimmune issues, eczema, and asthma, self-reported as improved by dietary change
 - **Important concepts:** an animal-based diet framed as "evolutionarily appropriate" and optimal for humans
 
-## 222. July 4th Cheat Day?
+## 226. July 4th Cheat Day?
 
 - **Source ID:** `0B9QoUji8Kg`
 - **URL:** https://www.youtube.com/watch?v=0B9QoUji8Kg
@@ -2673,7 +2721,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** feeling worse the next day after eating junk food, versus feeling "amazing" after the described diet
 - **Important concepts:** rejecting "cheat days" as a category, rather than treating them as an earned exception
 
-## 223. Junk food is designed to be addicting..
+## 227. Junk food is designed to be addicting..
 
 - **Source ID:** `AVHUVKYN4GM`
 - **URL:** https://www.youtube.com/watch?v=AVHUVKYN4GM
@@ -2685,7 +2733,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** junk food triggering brain reward patterns similar to cigarette addiction
 - **Important concepts:** cheat days framed as equivalent to a smoker relapsing every weekend — undermining progress via recurring cravings
 
-## 224. KIND bar is not so kind…
+## 228. KIND bar is not so kind…
 
 - **Source ID:** `1p7kCX3SJOo`
 - **URL:** https://www.youtube.com/watch?v=1p7kCX3SJOo
@@ -2697,7 +2745,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a "heart-healthy" claim on a snack bar whose second and third ingredients are both sugar
 - **Important concepts:** none recorded
 
-## 225. Kneesovertoesguy eating animal-based
+## 229. Kneesovertoesguy eating animal-based
 
 - **Source ID:** `79p7ZHHiFwo`
 - **URL:** https://www.youtube.com/watch?v=79p7ZHHiFwo
@@ -2709,7 +2757,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the guest's two-year-old child's unspecified chronic illness, self-reported as resolved
 - **Important concepts:** raw dairy's association with lower allergy, eczema, and asthma rates in kids
 
-## 226. Kodiak Cakes are deceiving
+## 230. Kodiak Cakes are deceiving
 
 - **Source ID:** `9omgln_qaAw`
 - **URL:** https://www.youtube.com/watch?v=9omgln_qaAw
@@ -2721,7 +2769,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** gluten acting as a lectin that disrupts the intestinal lining, contributing to leaky gut, phytic acid in wheat and grains preventing mineral absorption
 - **Important concepts:** adding protein to a grain-based food not neutralizing the grain's own problems (gluten, digestive enzyme inhibitors, phytic acid)
 
-## 227. Lab-grown meat is a crime in Florida
+## 231. Lab-grown meat is a crime in Florida
 
 - **Source ID:** `bMM61INYRr8`
 - **URL:** https://www.youtube.com/watch?v=bMM61INYRr8
@@ -2733,7 +2781,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** lab-grown meat's higher carbon footprint relative to regular grain-fed beef, per a cited 2023 UC Davis study, lab-grown meat allegedly lacking the full vitamins, minerals, nutrients, and cofactors of conventionally raised meat
 - **Important concepts:** none recorded
 
-## 228. Less than $25/day for the top tier animal-based diet
+## 232. Less than $25/day for the top tier animal-based diet
 
 - **Source ID:** `9wDKFf7hvyU`
 - **URL:** https://www.youtube.com/watch?v=9wDKFf7hvyU
@@ -2745,7 +2793,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the perception that an animal-based diet is too expensive
 - **Important concepts:** none recorded
 
-## 229. Listen carefully…
+## 233. Listen carefully…
 
 - **Source ID:** `3mSY1Al96zg`
 - **URL:** https://www.youtube.com/watch?v=3mSY1Al96zg
@@ -2757,7 +2805,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** Philip Morris and RJ Reynolds reportedly applying their cigarette-addiction "playbook" to processed food design in US grocery stores during the 1980s and 1990s
 - **Important concepts:** none recorded
 
-## 230. Liver vs carrots
+## 234. Liver vs carrots
 
 - **Source ID:** `9dnqxSUkEiU`
 - **URL:** https://www.youtube.com/watch?v=9dnqxSUkEiU
@@ -2769,7 +2817,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** roughly half the US population deficient in vitamin A, attributed to low liver intake and high processed food consumption
 - **Important concepts:** retinol (the bioavailable, usable form of vitamin A found in liver) versus beta-carotene (the form in carrots, which the body must convert and does so inefficiently)
 
-## 231. Lululemon = forever chemicals
+## 235. Lululemon = forever chemicals
 
 - **Source ID:** `A-Jnsd2d2WY`
 - **URL:** https://www.youtube.com/watch?v=A-Jnsd2d2WY
@@ -2781,7 +2829,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS (perfluoroalkyl compounds) linked to hormone disruption, cancers, and thyroid, kidney, and liver damage, PFAS being persistent, difficult for the body to clear, and concentrated in legging crotch regions often worn without underwear
 - **Important concepts:** skin absorption of PFAS from clothing, distinct from the more commonly discussed ingestion routes (food packaging, cookware)
 
-## 232. Make sure your eggs are corn and soy free!
+## 236. Make sure your eggs are corn and soy free!
 
 - **Source ID:** `Ag1HbsGqrp0`
 - **URL:** https://www.youtube.com/watch?v=Ag1HbsGqrp0
@@ -2793,7 +2841,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid enrichment in egg yolks from corn and soy chicken feed
 - **Important concepts:** linoleic acid described as "a problematic fatty acid for humans," concentrated in yolks via chicken feed composition
 
-## 233. McDonald's Secret Ingredients You Never Knew About
+## 237. McDonald's Secret Ingredients You Never Knew About
 
 - **Source ID:** `lDQofCXuYik`
 - **URL:** https://www.youtube.com/watch?v=lDQofCXuYik
@@ -2805,7 +2853,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils and trans fats from frying and dough, TBHQ as a preservative excluded from some retailers' shelves, bleached wheat flour (chlorine dioxide), aluminum compounds in pickles and salt, high-fructose corn syrup in sauces and ketchup, microplastics in processed cheese
 - **Important concepts:** linoleic acid accumulation in cell membranes and mitochondrial proton leak, ingredient-count comparison as a proxy for processing level, the 1990s tallow-to-seed-oil switch and the campaign that pushed it
 
-## 234. McDonald’s French fries = anxiety??
+## 238. McDonald’s French fries = anxiety??
 
 - **Source ID:** `bkePLSbRlOQ`
 - **URL:** https://www.youtube.com/watch?v=bkePLSbRlOQ
@@ -2817,7 +2865,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a 12% increase in anxiety and 7% increase in depression associated with fried food consumption, per a cited observational study
 - **Important concepts:** heated polyunsaturated seed oils breaking down into harmful products that may cause neuroinflammation
 
-## 235. McDonald’s salt is not just salt?
+## 239. McDonald’s salt is not just salt?
 
 - **Source ID:** `7fB5a4Ka4cM`
 - **URL:** https://www.youtube.com/watch?v=7fB5a4Ka4cM
@@ -2829,7 +2877,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** aluminum in the salt's silicoaluminate ingredient, linked to neurological issues including neurodegenerative disease and dementia/Alzheimer's
 - **Important concepts:** none recorded
 
-## 236. Meat has always been the optimal food for humans…
+## 240. Meat has always been the optimal food for humans…
 
 - **Source ID:** `y-bxATtvIF0`
 - **URL:** https://www.youtube.com/watch?v=y-bxATtvIF0
@@ -2841,7 +2889,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a "your DNA remembers" framing for evolutionary food preference
 
-## 237. Meat has more nutrients than vegetables
+## 241. Meat has more nutrients than vegetables
 
 - **Source ID:** `Aa9W_MQrpUo`
 - **URL:** https://www.youtube.com/watch?v=Aa9W_MQrpUo
@@ -2853,7 +2901,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** GI issues, autoimmune issues, and inflammation reported by some people to improve after cutting vegetables and focusing on meat and organs
 - **Important concepts:** vegetables framed as "survival food" — edible and nutrient-containing, but with poor bioavailability due to phytic acid and oxalates
 
-## 238. Most people don’t know this…
+## 242. Most people don’t know this…
 
 - **Source ID:** `ALKF584f4hM`
 - **URL:** https://www.youtube.com/watch?v=ALKF584f4hM
@@ -2865,7 +2913,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 239. My animal-based breakfast
+## 243. My animal-based breakfast
 
 - **Source ID:** `AuBzPFyO-Ck`
 - **URL:** https://www.youtube.com/watch?v=AuBzPFyO-Ck
@@ -2877,7 +2925,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 240. My favorite laundry hack
+## 244. My favorite laundry hack
 
 - **Source ID:** `3wvVohysma8`
 - **URL:** https://www.youtube.com/watch?v=3wvVohysma8
@@ -2889,7 +2937,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** phthalates (fragrance-related hormone disruptors) in mainstream laundry detergent, 1,4-dioxane in laundry detergent, at levels the host says make multiple products illegal to sell in New York state
 - **Important concepts:** none recorded
 
-## 241. My favorite pre-workout
+## 245. My favorite pre-workout
 
 - **Source ID:** `9dZ3jZ2UbJA`
 - **URL:** https://www.youtube.com/watch?v=9dZ3jZ2UbJA
@@ -2901,7 +2949,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** IGF-1 in colostrum credited with supporting recovery, workouts, and muscle growth, colostrum's low lactose content making it tolerable for lactose-intolerant people
 
-## 242. My favorite sleep hack
+## 246. My favorite sleep hack
 
 - **Source ID:** `26sSf6ETqLE`
 - **URL:** https://www.youtube.com/watch?v=26sSf6ETqLE
@@ -2913,7 +2961,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** evening blue light exposure disrupting circadian rhythm
 - **Important concepts:** the Color Filters accessibility shortcut set to maximum intensity and hue for a strongly orange-tinted display
 
-## 243. My favorite workout routine at 48 years old
+## 247. My favorite workout routine at 48 years old
 
 - **Source ID:** `5fWjyx3ipPY`
 - **URL:** https://www.youtube.com/watch?v=5fWjyx3ipPY
@@ -2925,7 +2973,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** dead hangs described as decompressing the spine
 
-## 244. My outdoor workout routine
+## 248. My outdoor workout routine
 
 - **Source ID:** `48DaZrlh8zg`
 - **URL:** https://www.youtube.com/watch?v=48DaZrlh8zg
@@ -2937,7 +2985,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** deep push-up range of motion for full shoulder mobility, framed with a "we are primates after all" justification
 
-## 245. My phone is in airplane mode ✈️
+## 249. My phone is in airplane mode ✈️
 
 - **Source ID:** `b3oFeG23xtE`
 - **URL:** https://www.youtube.com/watch?v=b3oFeG23xtE
@@ -2949,7 +2997,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** the term non-native EMF for a category of electromagnetic exposure (radiofrequency, from telecommunications and electronics) essentially absent throughout most of human evolutionary history, contrasted with the near-total absence of such exposure in true wilderness
 
-## 246. My protocol for longevity
+## 250. My protocol for longevity
 
 - **Source ID:** `4qSA3X2GeMo`
 - **URL:** https://www.youtube.com/watch?v=4qSA3X2GeMo
@@ -2961,7 +3009,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** looking at a far-away view during sitting breaks to support the parasympathetic nervous system, Wi-Fi turned off at night, on during the day for work, watching the sunset to signal the body it's time to wind down, alongside red house lighting after dark, community and social connection named explicitly as part of the longevity protocol
 
-## 247. My secret to longevity
+## 251. My secret to longevity
 
 - **Source ID:** `ay_EuPzXsB8`
 - **URL:** https://www.youtube.com/watch?v=ay_EuPzXsB8
@@ -2973,7 +3021,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** prioritizing animal foods, limiting toxin exposure, sleep, movement, and nature as the named pillars behind the host's self-reported wellbeing
 
-## 248. My thoughts on methylene blue
+## 252. My thoughts on methylene blue
 
 - **Source ID:** `aTMXLzDplRU`
 - **URL:** https://www.youtube.com/watch?v=aTMXLzDplRU
@@ -2985,7 +3033,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** methylene blue potentially decreasing ATP production in most users, serotonin syndrome risk from methylene blue's MAOA inhibition when combined with antidepressants, 5-HTP, rhodiola, SAMe, or St. John's wort, methylene blue turning the tongue, brain, and heart blue
 - **Important concepts:** the electron transport chain in mitochondria, and the distinction between people with a genetic block in it (who may benefit from methylene blue) and everyone else (who the host argues does not), MAOA (monoamine oxidase A) inhibition as the actual mechanism behind methylene blue's perceived "feel better" effect, distinct from any true mitochondrial benefit
 
-## 249. My thoughts on toothpaste
+## 253. My thoughts on toothpaste
 
 - **Source ID:** `Ov2obbPnQQI`
 - **URL:** https://www.youtube.com/watch?v=Ov2obbPnQQI
@@ -2997,7 +3045,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluoride toothpaste swallowed by children, at concentrations far higher than fluoridated water
 - **Important concepts:** bad breath framed as originating in gut dysbiosis rather than a mouth-specific problem, fat-soluble vitamins and a whole-foods diet framed as sufficient for tooth decay prevention without added fluoride
 
-## 250. Never Buy These Egg Brands in 2026 (Get THIS Instead)
+## 254. Never Buy These Egg Brands in 2026 (Get THIS Instead)
 
 - **Source ID:** `SPaqnDv-qmQ`
 - **URL:** https://www.youtube.com/watch?v=SPaqnDv-qmQ
@@ -3009,7 +3057,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** misleading food labeling, linoleic acid (omega-6) content driven by chicken feed, private-equity ownership pressure diverging a "clean" brand from its founding practice
 - **Important concepts:** egg carton label meanings (conventional, cage-free, free-range, organic, pasture-raised), linoleic acid content as a feed-quality indicator, third-party pasture-raised certification versus self-reported labeling
 
-## 251. NEVER give baby formulas to your children - here is WHY
+## 255. NEVER give baby formulas to your children - here is WHY
 
 - **Source ID:** `1atXdqKNd50`
 - **URL:** https://www.youtube.com/watch?v=1atXdqKNd50
@@ -3021,7 +3069,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid from seed oils in infant formula accumulating in babies' fatty tissue and cell (including mitochondrial) membranes, predisposition to obesity, childhood diabetes, and other chronic illness from early seed oil exposure
 - **Important concepts:** none recorded
 
-## 252. Never mix coffee with creatine
+## 256. Never mix coffee with creatine
 
 - **Source ID:** `0jwHaBra1QE`
 - **URL:** https://www.youtube.com/watch?v=0jwHaBra1QE
@@ -3033,7 +3081,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** caffeine potentially canceling out creatine's benefits to maximal torque and muscle thickness when taken together
 - **Important concepts:** opposing effects on muscle relaxation time as the proposed mechanism — creatine shortens it, caffeine (via sarcoplasmic reticulum calcium release) lengthens it
 
-## 253. New study reveals side effects of wireless headphones
+## 257. New study reveals side effects of wireless headphones
 
 - **Source ID:** `_-t41cUrvQc`
 - **URL:** https://www.youtube.com/watch?v=_-t41cUrvQc
@@ -3045,7 +3093,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** disrupted sleep architecture from 2.45 GHz signal exposure near the body overnight, an observational link between Bluetooth headphone use and thyroid nodules, RF-EMF's unknown long-term effects on the brain, salivary glands, and thyroid, phone-in-pocket RF-EMF exposure affecting sperm quality and fertility
 - **Important concepts:** RF-EMF as non-ionizing radiation that can still affect physiology without directly damaging DNA, wired headphones and airplane mode as practical exposure-reduction steps
 
-## 254. New Study Shows Sweeteners Make You Hungrier
+## 258. New Study Shows Sweeteners Make You Hungrier
 
 - **Source ID:** `Kl-SL9MSOQY`
 - **URL:** https://www.youtube.com/watch?v=Kl-SL9MSOQY
@@ -3057,7 +3105,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** artificial sweeteners (sucralose) increasing post-consumption hunger, synthetic food dyes (yellow 5, red 3, yellow 6, blue 1), titanium dioxide and carrageenan as gut-unfriendly additives, front-of-package claims (gluten-free, 20 grams of protein) masking a long, poor-quality ingredient list
 - **Important concepts:** protein leverage hypothesis, satiety as a function of daily protein intake relative to goal body weight
 
-## 255. Night time routine here in Costa Rica #animalbased
+## 259. Night time routine here in Costa Rica #animalbased
 
 - **Source ID:** `9UijaqNt8rg`
 - **URL:** https://www.youtube.com/watch?v=9UijaqNt8rg
@@ -3069,7 +3117,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** equatorial daylight consistency (near-equal day/night year-round) as a reason for a consistent early sleep schedule
 
-## 256. Nighttime blue light iPhone hack
+## 260. Nighttime blue light iPhone hack
 
 - **Source ID:** `_5SXYOAuCLc`
 - **URL:** https://www.youtube.com/watch?v=_5SXYOAuCLc
@@ -3081,7 +3129,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** evening blue light and brightness disrupting circadian rhythm and delaying sleep
 - **Important concepts:** using iOS's Color Filters accessibility shortcut as a low-blue-light, low-brightness toggle
 
-## 257. Oatmeal is BS! Here's why 👊
+## 261. Oatmeal is BS! Here's why 👊
 
 - **Source ID:** `c0r7yEixoVI`
 - **URL:** https://www.youtube.com/watch?v=c0r7yEixoVI
@@ -3093,7 +3141,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** phytic acid in oats, described as chelating minerals and blocking their absorption, oats' digestive enzyme inhibitors, named on-screen as "DPP4 inhibitors"
 - **Important concepts:** the "plant defense chemical" framing — seeds carry anti-nutrients because the plant needs to protect its own reproductive material
 
-## 258. Optimal health is my #1 priority
+## 262. Optimal health is my #1 priority
 
 - **Source ID:** `rPp6f5Jnz2o`
 - **URL:** https://www.youtube.com/watch?v=rPp6f5Jnz2o
@@ -3105,7 +3153,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** intentional pre-travel food preparation framed as necessary to maintain diet while traveling
 
-## 259. Orange juice IS good for you!
+## 263. Orange juice IS good for you!
 
 - **Source ID:** `1wVbmZLb2pY`
 - **URL:** https://www.youtube.com/watch?v=1wVbmZLb2pY
@@ -3117,7 +3165,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the common view that orange juice is "just sugar water" and should be feared
 - **Important concepts:** endothelial function as a specific vascular health marker orange juice is said to improve
 
-## 260. Our children deserve better…
+## 264. Our children deserve better…
 
 - **Source ID:** `1mJV6qnsF48`
 - **URL:** https://www.youtube.com/watch?v=1mJV6qnsF48
@@ -3129,7 +3177,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** infant formula containing 25 to 275 times more oxidized lipids than breast milk, per a cited study, FDA regulations effectively requiring seed oils in every infant formula product
 - **Important concepts:** working with RFK Jr. and the current administration as the host's stated path to changing FDA infant formula regulations
 
-## 261. Paper cups are not paper…
+## 265. Paper cups are not paper…
 
 - **Source ID:** `4fqwTGZON6g`
 - **URL:** https://www.youtube.com/watch?v=4fqwTGZON6g
@@ -3141,7 +3189,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** paper cups lined with a plastic film that sheds microplastics into hot liquid, aluminum cans lined with a plastic coating (demonstrated by dissolving the aluminum with sodium hydroxide), with acidic drinks like Coke driving higher microplastic release
 - **Important concepts:** plastic exposure reduction linked to improved testosterone and erectile function
 
-## 262. Pasteurized milk increases the risk of salmonella?
+## 266. Pasteurized milk increases the risk of salmonella?
 
 - **Source ID:** `2tXmXDpdOqc`
 - **URL:** https://www.youtube.com/watch?v=2tXmXDpdOqc
@@ -3153,7 +3201,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a 1985 salmonella outbreak from pasteurized milk, cited as sickening 16,000 to 160,000 people and causing at least 10 deaths
 - **Important concepts:** raw milk's own enzymes and compounds limiting harmful bacterial growth within the milk itself
 
-## 263. Pasture-raised vs regular eggs
+## 267. Pasture-raised vs regular eggs
 
 - **Source ID:** `3LAbBJ0x1Og`
 - **URL:** https://www.youtube.com/watch?v=3LAbBJ0x1Og
@@ -3165,7 +3213,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** yolk color/darkness used directly as a visual proxy for vitamin A, beta-carotene, vitamin E, vitamin D, and vitamin K2 content
 
-## 264. Pasture-raised vs store-bought eggs
+## 268. Pasture-raised vs store-bought eggs
 
 - **Source ID:** `-wKocULS_00`
 - **URL:** https://www.youtube.com/watch?v=-wKocULS_00
@@ -3177,7 +3225,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** yolk height and white thickness (not egg color) as the correct visual metrics for egg quality, chickens eating their own eggshells as evidence they are not natural herbivores
 
-## 265. Paul Saladino’s Animal-Based Breakfast
+## 269. Paul Saladino’s Animal-Based Breakfast
 
 - **Source ID:** `aVpJ7rjv6A8`
 - **URL:** https://www.youtube.com/watch?v=aVpJ7rjv6A8
@@ -3189,7 +3237,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** prioritizing the most nutrient-rich foods with the least amount of toxins as a general dietary principle
 
-## 266. Pharma commercials should be illegal
+## 270. Pharma commercials should be illegal
 
 - **Source ID:** `1rlHJOy2dJc`
 - **URL:** https://www.youtube.com/watch?v=1rlHJOy2dJc
@@ -3201,7 +3249,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** over $5 billion spent on US pharmaceutical commercials in 2021, a cited smoking-cessation drug commercial in which "more than half" of the ad time covered warnings of behavior changes, hostility, agitation, depressed mood, and suicidal thoughts/actions
 - **Important concepts:** direct-to-consumer pharmaceutical marketing as inappropriate because consumers lack the training to weigh side effects against benefits themselves
 
-## 267. Plant-based meat is a scam
+## 271. Plant-based meat is a scam
 
 - **Source ID:** `1fa40zJoOj8`
 - **URL:** https://www.youtube.com/watch?v=1fa40zJoOj8
@@ -3213,7 +3261,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a mycelium-based steak lacking carnosine, taurine, creatine, carnitine, choline, vitamin B12, vitamin K2, heme iron, and selenium
 - **Important concepts:** the regenerative steak framed as sequestering more soil carbon than its production emits, versus the mushroom steak framed as carbon-positive
 
-## 268. Plant-based vs animal-based
+## 272. Plant-based vs animal-based
 
 - **Source ID:** `3atWb0M6KIk`
 - **URL:** https://www.youtube.com/watch?v=3atWb0M6KIk
@@ -3225,7 +3273,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** methylcellulose, described as "basically wood shavings," in plant-based products, plant-based foods relying on synthetic added vitamins due to a lack of intrinsic nutrition
 - **Important concepts:** single-ingredient animal foods contrasted with multi-ingredient, fortified plant-based products at the same price point
 
-## 269. Plants Have Their Own Agenda (Power Project Podcast Excerpt)
+## 273. Plants Have Their Own Agenda (Power Project Podcast Excerpt)
 
 - **Source ID:** `w5xl6CEnAbQ`
 - **URL:** https://www.youtube.com/watch?v=w5xl6CEnAbQ
@@ -3237,7 +3285,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** plant-produced pesticides and toxins, framed as a net detriment to consuming plants
 - **Important concepts:** anthropomorphizing plant evolutionary strategy ("plants don't want to be eaten"), phytochemicals framed as defensive toxins rather than nutrients
 
-## 270. Plants Vs Meat
+## 274. Plants Vs Meat
 
 - **Source ID:** `xY-seDrQ4qc`
 - **URL:** https://www.youtube.com/watch?v=xY-seDrQ4qc
@@ -3249,7 +3297,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** creatine, carnitine, choline, anserine, carnosine, vitamin K2, biotin, riboflavin, and vitamin B12 named as animal-exclusive essential nutrients
 
-## 271. Reacting to Bryan Johnson 100 PILLS supplement protocol
+## 275. Polyester is no good!!
+
+- **Source ID:** `Xs_46tP_hpk`
+- **URL:** https://www.youtube.com/watch?v=Xs_46tP_hpk
+- **Upload date:** 2022-07-01
+- **Duration:** 00:55
+- **Source file:** `sources/clean/Xs_46tP_hpk.txt`
+- **Main subjects:** a cited 24-month dog study linking polyester underwear to lower sperm counts (male) and lower fertility (female), used to argue for natural-fiber clothing in humans
+- **Foods & products:** none recorded
+- **Concerns:** polyester underwear linked to lower sperm counts in male dogs and lower fertility in female dogs over a 24-month study
+- **Important concepts:** extrapolating from a canine clothing-fabric study to human fertility/hormone recommendations
+
+## 276. Reacting to Bryan Johnson 100 PILLS supplement protocol
 
 - **Source ID:** `5k5w8az8BU8`
 - **URL:** https://www.youtube.com/watch?v=5k5w8az8BU8
@@ -3261,7 +3321,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** taurine, vitamin B12, and creatine named as red-meat nutrients with a pro-longevity effect across species
 
-## 272. Reacting to soy TROLL
+## 277. Reacting to soy TROLL
 
 - **Source ID:** `2orOO645Znk`
 - **URL:** https://www.youtube.com/watch?v=2orOO645Znk
@@ -3273,7 +3333,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** soybean extract behaving similarly to BPA and 17-beta estradiol on rat testicles, an inverse association between soy food intake and sperm concentration in men, blunted serum testosterone after 14 days of soy protein supplementation versus whey protein
 - **Important concepts:** xenoestrogen activity as the proposed mechanism linking soy to feminizing effects
 
-## 273. Regeneratively raised cattle are carbon negative
+## 278. Regeneratively raised cattle are carbon negative
 
 - **Source ID:** `9boE1IOF_M4`
 - **URL:** https://www.youtube.com/watch?v=9boE1IOF_M4
@@ -3285,7 +3345,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** monocrop agriculture stripping soil organic matter and requiring 50+ years of fallow recovery, topsoil runoff and flooding from low-organic-matter farmland
 - **Important concepts:** life cycle assessment (LCA) of grazing emissions, soil organic matter as a rainwater-holding capacity, the Conservation Reserve Program (CRP) as scalable grazing land
 
-## 274. Regular sunscreen is a scam
+## 279. Regular sunscreen is a scam
 
 - **Source ID:** `4G7i5d7LBgs`
 - **URL:** https://www.youtube.com/watch?v=4G7i5d7LBgs
@@ -3297,7 +3357,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** avobenzone, oxybenzone, octocrylene, and a fourth chemical absorbing into skin and blood, flagged as potential endocrine disruptors, these chemicals present in over 80% of sunscreens on the market
 - **Important concepts:** mineral sunscreens with non-nano zinc oxide framed as the safer alternative
 
-## 275. Replace olive oil and avocado oil with tallow / butter
+## 280. Replace olive oil and avocado oil with tallow / butter
 
 - **Source ID:** `f7PIaBa5w0Q`
 - **URL:** https://www.youtube.com/watch?v=f7PIaBa5w0Q
@@ -3309,7 +3369,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid, a polyunsaturated fatty acid, linked to chronic illness, obesity, diabetes, and cardiovascular disease
 - **Important concepts:** stearic acid and odd chain fatty acids in animal fats framed as activating fat burning and mitochondrial function, rancidity risk from olive/avocado oil sitting on shelves
 
-## 276. Revealing Shake Shack Secret Ingredients
+## 281. Revealing Shake Shack Secret Ingredients
 
 - **Source ID:** `FFwAgyTDSH8`
 - **URL:** https://www.youtube.com/watch?v=FFwAgyTDSH8
@@ -3321,7 +3381,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils in frying and dough, preservatives (TBHQ, calcium propionate), emulsifiers and anti-foaming agents (polysorbate 80, DATEM, dimethyl polysiloxane), hidden MSG via "autolyzed yeast extract", undisclosed "natural flavors", gums (guar, xanthan) and carrageenan, BPA and other endocrine disruptors on thermal-paper receipts
 - **Important concepts:** ingredient-count comparison as a proxy for processing level, the "natural flavors" labeling loophole, antibiotic-free meat as a narrower claim than "clean" or "premium"
 
-## 277. Reversing Crohn’s disease!
+## 282. Reversing Crohn’s disease!
 
 - **Source ID:** `7xPIfrTW2HM`
 - **URL:** https://www.youtube.com/watch?v=7xPIfrTW2HM
@@ -3333,7 +3393,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** 20 years of Crohn's disease, with a severe flare causing 50 lbs of weight loss and requiring an ileostomy
 - **Important concepts:** none recorded
 
-## 278. RX Bars claim no B.S…
+## 283. RX Bars claim no B.S…
 
 - **Source ID:** `1vb-JB8uD2s`
 - **URL:** https://www.youtube.com/watch?v=1vb-JB8uD2s
@@ -3345,7 +3405,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a "no B.S." marketing claim contradicted by seed oil (sunflower oil) in the ingredient list
 - **Important concepts:** none recorded
 
-## 279. SEA MOSS is definitely BS!
+## 284. SEA MOSS is definitely BS!
 
 - **Source ID:** `yqOUifYvtg8`
 - **URL:** https://www.youtube.com/watch?v=yqOUifYvtg8
@@ -3357,7 +3417,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** carrageenan (a polysaccharide in sea moss) linked to gut inflammation, colitis, and leaky gut in both human and animal models
 - **Important concepts:** rejecting the framing that lower blood sugar/cholesterol from a food is automatically beneficial, especially for someone metabolically healthy
 
-## 280. Seed Oil Awareness..
+## 285. Seed Oil Awareness..
 
 - **Source ID:** `8V4z6Zjwo18`
 - **URL:** https://www.youtube.com/watch?v=8V4z6Zjwo18
@@ -3369,7 +3429,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils described as "the number one cause of obesity, diabetes, chronic disease, cardiovascular disease" in the United States
 - **Important concepts:** none recorded
 
-## 281. Seed oils = obesity
+## 286. Seed oils = obesity
 
 - **Source ID:** `-U9YwS_e380`
 - **URL:** https://www.youtube.com/watch?v=-U9YwS_e380
@@ -3381,7 +3441,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** U.S. obesity rate rising from roughly 11.9% to over 43%, with overweight/obesity together now over 70% of the population, tracked against rising seed oil consumption since 1969, linoleic acid from seed oils causing increased oxidative stress and decreased nitric oxide precursors, per cited interventional studies
 - **Important concepts:** the host's explicit acknowledgment that "correlation is not causation," paired with a separate mechanistic (interventional) line of evidence
 
-## 282. Seed oils are in everything!
+## 287. Seed oils are in everything!
 
 - **Source ID:** `5svRipLoy2Q`
 - **URL:** https://www.youtube.com/watch?v=5svRipLoy2Q
@@ -3393,7 +3453,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils appearing in products (like salmon burgers) where a consumer might not expect them
 - **Important concepts:** none recorded
 
-## 283. Seed oils are INFLAMMATORY
+## 288. Seed oils are in everything!
+
+- **Source ID:** `v6utWNd8Y_c`
+- **URL:** https://www.youtube.com/watch?v=v6utWNd8Y_c
+- **Upload date:** 2022-07-07
+- **Duration:** 00:34
+- **Source file:** `sources/clean/v6utWNd8Y_c.txt`
+- **Main subjects:** a product-label survey showing seed oils present even in foods marketed as "healthier" (gluten-free tortillas, crackers, curry paste)
+- **Foods & products:** gluten-free tortilla wraps, goldfish crackers, and yellow curry paste, each shown containing soybean/canola/sunflower oil
+- **Concerns:** canola, sunflower, and soybean oil ("the evil trifecta") named as present in unexpected, seemingly unrelated products
+- **Important concepts:** gluten-free or other health marketing framed as not guaranteeing a product is free of seed oils
+
+## 289. Seed oils are INFLAMMATORY
 
 - **Source ID:** `_Q6ypwLf2Ok`
 - **URL:** https://www.youtube.com/watch?v=_Q6ypwLf2Ok
@@ -3405,7 +3477,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid accumulating in cells, tissues, and LDL particles, linoleic acid's fragility and susceptibility to oxidation, inflammatory markers (oxidized LDL, Lp(a), Lp-PLA2, CRP) rising as seed oil intake increases
 - **Important concepts:** linoleic acid as an 18-carbon omega-6 polyunsaturated fatty acid, oxidized LDL, Lp(a), and Lp-PLA2 as blood markers of inflammation tied to seed oil intake
 
-## 284. Seed oils at “healthy” vegan restaurant
+## 290. Seed oils at “healthy” vegan restaurant
 
 - **Source ID:** `-8mwqon1Vzg`
 - **URL:** https://www.youtube.com/watch?v=-8mwqon1Vzg
@@ -3417,7 +3489,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** grapeseed oil cited at roughly 60% linoleic acid, rice bran oil cited at roughly 30-40% linoleic acid
 - **Important concepts:** asking restaurant staff directly what oils are used as a way to verify a "healthy" restaurant's actual cooking practices
 
-## 285. Should there be warning labels on junk food?
+## 291. Should there be warning labels on junk food?
 
 - **Source ID:** `8a4cbyP-CbM`
 - **URL:** https://www.youtube.com/watch?v=8a4cbyP-CbM
@@ -3429,7 +3501,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** diabetes, heart disease, cardiovascular disease, depression, "crappy libido," and "an overall miserable life" from regular junk food consumption
 - **Important concepts:** cigarette package warning labels used as the model for a proposed junk food labeling standard
 
-## 286. Should you drink alcohol?
+## 292. Should you drink alcohol?
 
 - **Source ID:** `-UlBs2MtwUo`
 - **URL:** https://www.youtube.com/watch?v=-UlBs2MtwUo
@@ -3441,7 +3513,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** alcohol described directly as "poison"
 - **Important concepts:** alcohol as temporary, borrowed joy rather than a genuine source of well-being
 
-## 287. Should you eat vegetables?
+## 293. Should you eat vegetables?
 
 - **Source ID:** `BPsAsdTaviw`
 - **URL:** https://www.youtube.com/watch?v=BPsAsdTaviw
@@ -3453,7 +3525,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** oxalates in spinach and chard contributing to calcium oxalate kidney stones, isothiocyanates in kale blocking iodine at the thyroid level, potentially causing thyroid problems in people with insufficient iodine intake
 - **Important concepts:** a "thriving versus not thriving" framework for deciding whether to question vegetable consumption — those doing well need not change anything
 
-## 288. Smoke point and peroxidation index are not the same…
+## 294. Smoke point and peroxidation index are not the same…
 
 - **Source ID:** `8jxWDrfQLVc`
 - **URL:** https://www.youtube.com/watch?v=8jxWDrfQLVc
@@ -3465,7 +3537,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** smoke point as a misleading cooking-fat selection criterion, peroxidation index as the measure of how readily an oil oxidizes/degrades under heat
 
-## 289. Sourdough bread is better, right? WRONG!!
+## 295. Sourdough bread is better, right? WRONG!!
 
 - **Source ID:** `ub9Y9K94Guw`
 - **URL:** https://www.youtube.com/watch?v=ub9Y9K94Guw
@@ -3477,7 +3549,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** gluten damaging gut tight junctions, causing leaky gut, gliadin (a gluten fragment) crossing the gut lining and appearing in nursing mothers' breast milk
 - **Important concepts:** fermentation reducing phytic acid content without meaningfully reducing gluten/lectin content
 
-## 290. Sprinting or jogging?
+## 296. Sprinting or jogging?
 
 - **Source ID:** `9z4CcgKU_zc`
 - **URL:** https://www.youtube.com/watch?v=9z4CcgKU_zc
@@ -3489,7 +3561,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** short, intense exercise bouts (sprinting) framed as more valuable than long-distance running for testosterone, VO2 max, and longevity, while cautioning against overuse
 
-## 291. Steak 101 with the butcher
+## 297. Steak 101 with the butcher
 
 - **Source ID:** `1gKZHekv-Xc`
 - **URL:** https://www.youtube.com/watch?v=1gKZHekv-Xc
@@ -3501,7 +3573,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** shank's high connective tissue content as a source of collagen
 
-## 292. Still eating Oreos?￼
+## 298. Still eating Oreos?￼
 
 - **Source ID:** `_NwF18gmBzk`
 - **URL:** https://www.youtube.com/watch?v=_NwF18gmBzk
@@ -3513,7 +3585,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** high fructose corn syrup and canola (seed) oil described as "two of the most addictive substances" in the product, a cited 2013 Connecticut College study finding Oreos activated rodent brain pleasure centers more than cocaine or morphine
 - **Important concepts:** the framing of a processed snack food's formulation as addictive by design
 
-## 293. STOP eating SEED OILS!!
+## 299. STOP eating SEED OILS!!
 
 - **Source ID:** `1__yc0GzxLw`
 - **URL:** https://www.youtube.com/watch?v=1__yc0GzxLw
@@ -3525,7 +3597,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid accumulating in cell membranes and adipose tissue, contributing to oxidative stress and insulin resistance, olive and avocado oil frequently adulterated with cut-in vegetable oils, or oxidized/old
 - **Important concepts:** seed oils' origin as industrial machine lubricants, stearic acid and odd-chain fatty acids as nutrients animal fats provide that other fats lack
 
-## 294. Stop eating soy and beans (Genistein + Glyphosate)
+## 300. Stop eating soy and beans (Genistein + Glyphosate)
 
 - **Source ID:** `MMvzIVSS4wI`
 - **URL:** https://www.youtube.com/watch?v=MMvzIVSS4wI
@@ -3537,7 +3609,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** glyphosate as an endocrine disruptor despite the EPA's contrary classification, genistein's effects on male fertility and reproduction, non-Hodgkin lymphoma risk from pesticide exposure
 - **Important concepts:** estrogen receptor alpha/beta expression ratio, estrogen response element transcription, isoflavonoid, additive effect between two compounds on the same receptor pathway
 
-## 295. STOP giving THIS to your kids
+## 301. STOP giving THIS to your kids
 
 - **Source ID:** `6XFbjCrqLs4`
 - **URL:** https://www.youtube.com/watch?v=6XFbjCrqLs4
@@ -3549,7 +3621,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oil as Nutella's second ingredient, lectins, digestive enzyme inhibitors, phytates, and oxalates in hazelnuts, framed as seed defense compounds
 - **Important concepts:** none recorded
 
-## 296. Stop using nonstick pans!
+## 302. Stop using nonstick pans!
 
 - **Source ID:** `Z2EkXgQcxmo`
 - **URL:** https://www.youtube.com/watch?v=Z2EkXgQcxmo
@@ -3561,7 +3633,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS (Teflon, nonstick coatings, plastic-coated paper cups/containers) shown in cell culture to decrease testosterone formation and receptor activity
 - **Important concepts:** stainless steel and cast iron recommended as PFAS-free cooking alternatives
 
-## 297. Stop using sunscreen: here is why
+## 303. Stop using sunscreen: here is why
 
 - **Source ID:** `b51I9ibT7L8`
 - **URL:** https://www.youtube.com/watch?v=b51I9ibT7L8
@@ -3573,7 +3645,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** mainstream sunscreen chemical ingredients detected in blood plasma, potentially carcinogenic and hormone-disrupting
 - **Important concepts:** a simple sunscreen-selection heuristic — avoid any ingredient other than zinc
 
-## 298. Stop using this for your coffee
+## 304. Stop using this for your coffee
 
 - **Source ID:** `4gBVL0yCY9s`
 - **URL:** https://www.youtube.com/watch?v=4gBVL0yCY9s
@@ -3585,7 +3657,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS, BPA, and BPS leaching from plastic Keurig components into coffee brewed with hot water, tap water and prolonged water sitting in a plastic reservoir as additional exposure factors
 - **Important concepts:** none recorded
 
-## 299. Surf skating for brain and body #animalbased #fitness #animalbaseddiet
+## 305. Surf skating for brain and body #animalbased #fitness #animalbaseddiet
 
 - **Source ID:** `7uKoY8w7m3M`
 - **URL:** https://www.youtube.com/watch?v=7uKoY8w7m3M
@@ -3597,7 +3669,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** movement "in space in nature" framed as engaging brain activity alongside muscle activity, distinct from traditional weightlifting
 
-## 300. Tea bags = microplastics?
+## 306. Tea bags = microplastics?
 
 - **Source ID:** `_0U8Nz0qonI`
 - **URL:** https://www.youtube.com/watch?v=_0U8Nz0qonI
@@ -3609,7 +3681,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** tea bags releasing millions to billions of microplastic particles per cup when steeped in hot water, polypropylene tea bags specifically named as the worst material
 - **Important concepts:** hot water as the mechanism driving microplastic release from tea bags
 
-## 301. The 2 best organs to eat
+## 307. The 2 best organs to eat
 
 - **Source ID:** `AiZOrL_BcJg`
 - **URL:** https://www.youtube.com/watch?v=AiZOrL_BcJg
@@ -3621,7 +3693,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** liver's copper content framed as balancing iron intake
 
-## 302. The amount of cups of brown rice to make 3tbsp of rice bran oil might shock you...
+## 308. The amount of cups of brown rice to make 3tbsp of rice bran oil might shock you...
 
 - **Source ID:** `77Og_H7n0Ok`
 - **URL:** https://www.youtube.com/watch?v=77Og_H7n0Ok
@@ -3633,7 +3705,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a single Chipotle meal containing three tablespoons of seed oil, seed oils high in linoleic acid, described as harmful to cell membranes and mitochondria
 - **Important concepts:** a "24 cups of brown rice" thought experiment used to argue seed oil consumption is evolutionarily unprecedented in concentration
 
-## 303. The amount of heavy metals in CHOCOLATE will shock you...
+## 309. The amount of heavy metals in CHOCOLATE will shock you...
 
 - **Source ID:** `5cXfIJ2opa4`
 - **URL:** https://www.youtube.com/watch?v=5cXfIJ2opa4
@@ -3645,7 +3717,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** lead and cadmium found in every one of 28 tested chocolate bars, Hu Simple Dark Chocolate, one ounce, at 210% of the maximum daily allowed lead and 204% of the maximum daily allowed cadmium
 - **Important concepts:** stated daily maximum thresholds — 0.5 micrograms for lead, 4.1 micrograms for cadmium
 
-## 304. The best diet for humans?
+## 310. The best diet for humans?
 
 - **Source ID:** `BsYho2ITcJg`
 - **URL:** https://www.youtube.com/watch?v=BsYho2ITcJg
@@ -3657,7 +3729,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a six-year vegan diet correlating with worsening skin and health for the referenced creator, without public concern, contrasted with public alarm at her subsequent carnivore eating
 - **Important concepts:** none recorded
 
-## 305. The best drink for hydration
+## 311. The best drink for hydration
 
 - **Source ID:** `9qZs86cc_e4`
 - **URL:** https://www.youtube.com/watch?v=9qZs86cc_e4
@@ -3669,7 +3741,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** unprocessed fruit sugar improving glucose tolerance in a controlled test, contrasted with the general claim that fruit juice is bad for humans
 
-## 306. The best fat for heart health
+## 312. The best fat for heart health
 
 - **Source ID:** `52Ry75F4UA8`
 - **URL:** https://www.youtube.com/watch?v=52Ry75F4UA8
@@ -3681,7 +3753,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the mainstream narrative that butter's saturated fat content raises cholesterol and harms heart health
 - **Important concepts:** vitamin K2 (found essentially only in animal foods — liver, meat, butter) associated with lower atherosclerotic coronary artery disease in the Rotterdam study
 
-## 307. The best food against the flu?
+## 313. The best food against the flu?
 
 - **Source ID:** `8QvEN9OOnXk`
 - **URL:** https://www.youtube.com/watch?v=8QvEN9OOnXk
@@ -3693,7 +3765,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** bioactive peptides, immunoglobulins, and growth factors in colostrum contributing to passive immunity
 
-## 308. The best food for brain health?
+## 314. The best food for brain health?
 
 - **Source ID:** `A74QHCO7H2E`
 - **URL:** https://www.youtube.com/watch?v=A74QHCO7H2E
@@ -3705,7 +3777,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** Alzheimer's dementia, the most common type of dementia diagnosed in humans
 - **Important concepts:** choline's three named roles — methylation, phosphatidylcholine synthesis for cell membranes, and acetylcholine synthesis — as the proposed mechanism linking egg consumption to lower Alzheimer's risk
 
-## 309. The best jet lag hack! 👍
+## 315. The best jet lag hack! 👍
 
 - **Source ID:** `batuBQZ8klw`
 - **URL:** https://www.youtube.com/watch?v=batuBQZ8klw
@@ -3717,7 +3789,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** grounding in a new location, combined with sunlight, framed as helping reset circadian rhythm when traveling across time zones
 
-## 310. The Best Olive Oils Money Can Buy
+## 316. The Best Olive Oils Money Can Buy
 
 - **Source ID:** `d4mYLeFxONQ`
 - **URL:** https://www.youtube.com/watch?v=d4mYLeFxONQ
@@ -3729,7 +3801,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** rancidity and oxidation of olive oil over time, adulteration with seed oils, lack of a certificate of analysis for sourcing/verification, PREDIMED's control group having used refined, non-extra-virgin olive oil
 - **Important concepts:** the PREDIMED study, olive oil polyphenols (oleocanthol, hydroxytyrosol, oleuropein), certificate-of-analysis metrics (acidity, peroxide value, K index, delta K, K232/K270), first cold pressing and single-source sourcing, oleic acid versus polyphenols as the likely source of olive oil's benefit
 
-## 311. The best sleeping hack for babies?
+## 317. The best sleeping hack for babies?
 
 - **Source ID:** `BAsqjyZB7bo`
 - **URL:** https://www.youtube.com/watch?v=BAsqjyZB7bo
@@ -3741,7 +3813,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** stagnant indoor winter air breeding bacteria and virus formation
 - **Important concepts:** the Norwegian cultural practice of "friluftsliv" ("free air life"), where babies nap outdoors, warmly swaddled, even in snowy conditions
 
-## 312. The Best Way to Stay Hydrated (Not Water)
+## 318. The Best Way to Stay Hydrated (Not Water)
 
 - **Source ID:** `RAz7L3rD9_M`
 - **URL:** https://www.youtube.com/watch?v=RAz7L3rD9_M
@@ -3753,7 +3825,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluoride, pesticides, pharmaceuticals, and chlorine derivatives in tap water, overhydration/hyponatremia from excessive plain water intake, heavy metals in common sea salts
 - **Important concepts:** hydrating versus dehydrating fluids (milk/orange juice versus coffee/alcohol), the Galpin equation (body weight in pounds divided by 30 = ounces per 15–20 minutes of exercise), hyponatremia from water intake outpacing electrolyte intake, urine specific gravity as a hydration marker
 
-## 313. The dangers of additives
+## 319. The dangers of additives
 
 - **Source ID:** `MvP689Rmt14`
 - **URL:** https://www.youtube.com/watch?v=MvP689Rmt14
@@ -3765,7 +3837,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** vegetable rennet and soy residue in cheese, especially for autoimmune or soy-sensitive people, silicon dioxide as an undisclosed anti-caking agent, titanium dioxide and talc as caking agents in supplements and pharmaceuticals, artificial food colorings linked to hyperactivity/ADHD in children, citric acid and vitamin C as contaminated, industrially-produced additives, undisclosed fillers and mislabeled ingredients under an emergency FDA/USDA exemption
 - **Important concepts:** excipients as inactive-seeming ingredients with real physiological effects, the "active ingredient plus total amount per serving" label-reading check, citrate synthase and fatty acid synthesis in cancer cell metabolism
 
-## 314. The dangers of high fructose corn syrup
+## 320. The dangers of high fructose corn syrup
 
 - **Source ID:** `HK9_KYWli5I`
 - **URL:** https://www.youtube.com/watch?v=HK9_KYWli5I
@@ -3777,7 +3849,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** underlabeled carbohydrate/calorie content in HFCS-sweetened beverages, mercury contamination from a historical HFCS refining step (chlor-alkali process), HFCS's effect on weight gain and gut microbiota in animal studies, independent of calories
 - **Important concepts:** oligosaccharide underestimation via acid hydrolysis testing, the distinction between processed sugars and whole/less-refined sugar sources, HFCS 42 versus HFCS 55 (fructose fraction)
 
-## 315. The dangers of pesticides
+## 321. The dangers of pesticides
 
 - **Source ID:** `e9UU45pt4Q8`
 - **URL:** https://www.youtube.com/watch?v=e9UU45pt4Q8
@@ -3789,7 +3861,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** synthetic pesticide additives ("adjuvants") making formulations more toxic than a single active ingredient, plant-made defense chemicals as an under-studied exposure in the human diet, vegetables as a possible autoimmune trigger in some people
 - **Important concepts:** adjuvant additives to herbicide formulations (transcribed "adant"), natural plant pesticides versus sprayed synthetic pesticides, glucosinolates as an example class of plant defense chemical
 
-## 316. The dangers of PFAS in fish
+## 322. The dangers of PFAS in fish
 
 - **Source ID:** `Ry4G6ljw5EA`
 - **URL:** https://www.youtube.com/watch?v=Ry4G6ljw5EA
@@ -3801,7 +3873,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS exposure from fish and shellfish consumption, PFAS from dental floss, sparkling water, plastic take-out containers, and disposable cups, thyroid disease and dyslipidemia associated with PFAS exposure, BPA, BPS, and BPE as xenoestrogens beyond PFAS
 - **Important concepts:** PFAS as an umbrella term (PFOA, PFOS, PFHxS, and other named compounds), PFAS environmental and bodily persistence ("forever chemicals"), observational correlation versus confounding (fish intake correlating with other plastic use)
 
-## 317. The dark side of fluoride
+## 323. The dark side of fluoride
 
 - **Source ID:** `89nMUN-Edlo`
 - **URL:** https://www.youtube.com/watch?v=89nMUN-Edlo
@@ -3813,7 +3885,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluoride in tap water, not removed by standard filters like a Brita, requiring reverse osmosis, studies associating fluoride with lower IQ in children, animal studies showing pineal gland calcification with fluoride exposure, reversible on removal
 - **Important concepts:** reverse osmosis (and "certain filtering things") as necessary to remove fluoride from water, unlike standard carbon filters
 
-## 318. The Dark Side of White Meat
+## 324. The Dark Side of White Meat
 
 - **Source ID:** `xt3ZOwgj_5Y`
 - **URL:** https://www.youtube.com/watch?v=xt3ZOwgj_5Y
@@ -3825,7 +3897,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid (omega-6) accumulation from corn-and-soy-fed chicken and pigs, rising linoleic acid in egg yolks from feed
 - **Important concepts:** monogastric versus ruminant fat metabolism, evolutionarily inappropriate intake framed as a cumulative, multi-source exposure, proton leak and cellular energy transformation
 
-## 319. The Deadly Red Meat Disease Taking Over America
+## 325. The Deadly Red Meat Disease Taking Over America
 
 - **Source ID:** `4eHW8mP9RJo`
 - **URL:** https://www.youtube.com/watch?v=4eHW8mP9RJo
@@ -3837,7 +3909,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** alpha-gal syndrome (galactose-alpha-1,3-galactose allergy) from lone star tick bites, low physician awareness and misdiagnosis (often as IBS) of alpha-gal syndrome, DEET and permethrin tick repellents, with unclear long-term organ and cancer risk
 - **Important concepts:** IgE-mediated delayed food allergy, the vascular autonomic signal (VAS), per Dr. Nogier's auricular medicine framework, O-ring muscle testing as a diagnostic device in this therapy
 
-## 320. The Disturbing History of Corn Flakes
+## 326. The death of bacon
+
+- **Source ID:** `PBJN9wDC9IA`
+- **URL:** https://www.youtube.com/watch?v=PBJN9wDC9IA
+- **Upload date:** 2022-07-13
+- **Duration:** 00:48
+- **Source file:** `sources/clean/PBJN9wDC9IA.txt`
+- **Main subjects:** bacon avoided due to omega-6 fatty acid accumulation in pig fat, traced to nearly all commercial pigs being fed corn, soy, and seed oils
+- **Foods & products:** bacon, argued against due to feed-driven omega-6 accumulation
+- **Concerns:** excess linoleic acid/omega-6 accumulating in pig fat from corn/soy/seed-oil feed, described as non-eliminable once accumulated
+- **Important concepts:** feed composition, not species, framed as the determinant of fat quality (echoing this creator's broader "feed over species" argument)
+
+## 327. The Disturbing History of Corn Flakes
 
 - **Source ID:** `PmObqSKkX1w`
 - **URL:** https://www.youtube.com/watch?v=PmObqSKkX1w
@@ -3849,7 +3933,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** synthetic food dyes (red 40, yellow 5, yellow 6, blue 1) permitted in the US but not Canada, BHT as a preservative Kellogg's is being petitioned to remove, Kellogg's selling naturally-colored cereal (paprika, turmeric) abroad while selling dye-colored cereal domestically
 - **Important concepts:** food dye addictiveness tied to evolutionary "fruit" color cues, the historical link between Kellogg's corn flakes and Seventh-day Adventist anti-libido dietary doctrine
 
-## 321. The healing benefits of raw milk 🥛
+## 328. The healing benefits of raw milk 🥛
 
 - **Source ID:** `2qNty7ZhbhI`
 - **URL:** https://www.youtube.com/watch?v=2qNty7ZhbhI
@@ -3861,7 +3945,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** lactoferrin, lysozyme, lactoperoxidase, and immunoglobulins as raw milk's own antimicrobial protective factors, over 700 species of commensal bacteria present in raw milk fluid
 
-## 322. The healthiest breakfast food
+## 329. The healthiest breakfast food
 
 - **Source ID:** `at0uYK7O4gM`
 - **URL:** https://www.youtube.com/watch?v=at0uYK7O4gM
@@ -3873,7 +3957,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** animal foods first thing in the morning framed as optimal brain activation, via protein/amino acid and micronutrient content
 
-## 323. The history and DANGERS of seed oils
+## 330. The history and DANGERS of seed oils
 
 - **Source ID:** `lzazaZLnWNA`
 - **URL:** https://www.youtube.com/watch?v=lzazaZLnWNA
@@ -3885,7 +3969,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the marketing of seed oils as a cheaper, non-spoiling animal-fat substitute, mainstream medicine treating LDL cholesterol as sufficient explanation for heart disease, correlation between seed-oil introduction and rising chronic illness (obesity, cancer, heart disease, diabetes)
 - **Important concepts:** the cholesterol hypothesis and its mid-20th-century origin, LDL versus ApoB-containing lipoproteins as measures used to indict animal fat, correlation versus causation in population-level dietary history
 
-## 324. The history of raw kefir!
+## 331. The history of raw kefir!
 
 - **Source ID:** `5sfYdF5hH4A`
 - **URL:** https://www.youtube.com/watch?v=5sfYdF5hH4A
@@ -3897,7 +3981,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the original video being removed from YouTube, reposted here because the host considers it important
 - **Important concepts:** kefir's accidental origin — residue from prior milkings in an unwashed container acting as a natural starter culture, fermenting within six to ten hours
 
-## 325. The infant formula/seed oil scandal
+## 332. The infant formula/seed oil scandal
 
 - **Source ID:** `7eNXCx4EUjQ`
 - **URL:** https://www.youtube.com/watch?v=7eNXCx4EUjQ
@@ -3909,7 +3993,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** soybean- and corn-industry lobbying shaping formula regulation, fraudulent, industry-funded research cited to Congress, rising linoleic acid in breast milk tracking rising seed-oil consumption, formula-industry PR allegedly discouraging breastfeeding, a black market for imported formula, and a US crackdown on it
 - **Important concepts:** linoleic acid as an 18-carbon polyunsaturated fatty acid concentrated in seed oils, formula composition benchmarked against (a possibly unhealthy) breast-milk population, C-section rates as a downstream effect of "medical incentives"
 
-## 326. The medical education system needs to change!
+## 333. The medical education system needs to change!
 
 - **Source ID:** `_MVWOAnMn1g`
 - **URL:** https://www.youtube.com/watch?v=_MVWOAnMn1g
@@ -3921,7 +4005,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** zero required nutrition coursework across pre-med, PA school, medical school, and residency, no training on the root cause of neuroinflammation or autoimmune illness
 - **Important concepts:** the host's credentials — a chemistry pre-med degree, a PA degree with four years in cardiology, an MD, residency, and board certification as a physician nutrition specialist
 
-## 327. The most powerful motivator #animalbased
+## 334. The most powerful motivator #animalbased
 
 - **Source ID:** `8I-GpwFe5Fg`
 - **URL:** https://www.youtube.com/watch?v=8I-GpwFe5Fg
@@ -3933,7 +4017,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** chronic illness, diabetes, weight, fatigue, sleep problems, depression, eczema, and psoriasis, reported by viewers as improved
 - **Important concepts:** none recorded
 
-## 328. The oldest woman’s secret to longevity
+## 335. The oldest woman’s secret to longevity
 
 - **Source ID:** `8Y8qAyyOGK8`
 - **URL:** https://www.youtube.com/watch?v=8Y8qAyyOGK8
@@ -3945,7 +4029,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** no documented vegetarian among Okinawan centenarians/super-centenarians, per the host, Hong Kong cited as a high-meat-consumption population with over 86-year average life expectancy
 
-## 329. The problem with vegetables
+## 336. The problem with vegetables
 
 - **Source ID:** `5hMfRhEGeVw`
 - **URL:** https://www.youtube.com/watch?v=5hMfRhEGeVw
@@ -3957,7 +4041,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** oxalates accumulating in the body — joints, thyroid, breast tissue — and forming calcium oxalate kidney stones, the most common kidney stone type, kidney failure case studies linked to smoothie cleanses with high oxalate intake
 - **Important concepts:** vegetables framed as not universally well-tolerated, contrasted with people who report thriving on them
 
-## 330. The problem with vegetables
+## 337. The problem with vegetables
 
 - **Source ID:** `aDFcCX7v5Yc`
 - **URL:** https://www.youtube.com/watch?v=aDFcCX7v5Yc
@@ -3969,7 +4053,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** oxalate accumulation linked to calcium oxalate kidney stones (the most common kidney stone type), and accumulation in joints, thyroid, and breast tissue, documented case studies of kidney failure from smoothie cleanses involving high oxalate intake
 - **Important concepts:** the framing that "if you're thriving," vegetables aren't a problem, but unresolved autoimmune, gut, skin, mood, or sleep issues may trace back to oxalate accumulation that physicians rarely investigate
 
-## 331. The problems with plant based meat
+## 338. The problems with plant based meat
 
 - **Source ID:** `CfmMPvcTLAg`
 - **URL:** https://www.youtube.com/watch?v=CfmMPvcTLAg
@@ -3981,7 +4065,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** long, synthetic-heavy ingredient lists in plant-based meat, false or misleading "better for you"/"better for the planet" label claims, seed oils, carrageenan, and phytic acid in plant-based milk, CAFO-raised meat and monocropping both named as their own separate problems
 - **Important concepts:** unconscious versus conscious response to food cues (the EEG claim), synthetic fortification versus food that "comes equipped" with its own nutrients, intuitive eating as conditional on a baseline of metabolic health
 
-## 332. The secret benefits of Grass-Fed BEEF TALLOW
+## 339. The secret benefits of Grass-Fed BEEF TALLOW
 
 - **Source ID:** `-Wn32snt0YY`
 - **URL:** https://www.youtube.com/watch?v=-Wn32snt0YY
@@ -3993,7 +4077,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** oxidized LDL from cooking with unstable (unsaturated) fats, glyphosate contamination in grain-fed cattle's fat
 - **Important concepts:** peroxidation index versus smoke point as the relevant stability measure for a cooking fat, vitamin K2 forms (MK-4 versus MK-7) and their food sources, conjugated linoleic acid (CLA) versus regular linoleic acid, odd-chain fatty acids (C15, C17) as blood markers associated with health outcomes
 
-## 333. The secret ingredient in corn flakes is a religious agenda. Revisionist history with Gary Fettke, MD
+## 340. The secret ingredient in corn flakes is a religious agenda. Revisionist history with Gary Fettke, MD
 
 - **Source ID:** `pvjeI77-7bA`
 - **URL:** https://www.youtube.com/watch?v=pvjeI77-7bA
@@ -4005,7 +4089,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a dietitian-driven regulatory campaign against a doctor recommending low-carb eating, undisclosed conflicts of interest (a vegan/Adventist reviewer on a US dietary guidelines panel), food-industry funding (Coca-Cola, ILSI) shaping "lifestyle medicine" and medical-school curricula, poor sperm quality reported in a vegan/vegetarian population in a "blue zone"
 - **Important concepts:** the polyol pathway (glucose converted to fructose under insulin resistance), the "perfect storm" of sugar, refined carbohydrate, and polyunsaturated (seed) oils, generational education (uncritically inherited textbook claims), the Garden of Eden diet as a religious rather than health-based dietary ideal
 
-## 334. The secret to strong kids?
+## 341. The secret to strong kids?
 
 - **Source ID:** `1lNnLhQwm0w`
 - **URL:** https://www.youtube.com/watch?v=1lNnLhQwm0w
@@ -4017,7 +4101,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** excessive US household cleanliness, including hand soaps containing triclosan, potentially disrupting endocrine function or the gut microbiome
 - **Important concepts:** reduced early-life microbial exposure as a driver of higher rates of asthma, eczema, and allergy
 
-## 335. The Side of Seed Oils Nobody Talks About
+## 342. The Side of Seed Oils Nobody Talks About
 
 - **Source ID:** `DqHqBWCW3Hs`
 - **URL:** https://www.youtube.com/watch?v=DqHqBWCW3Hs
@@ -4029,7 +4113,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** benzene and other solvent residues from extraction, phthalates migrating from polyethylene packaging, heavy metals, specifically antimony, from plastic containers, acrolein and other aldehydes formed by heating, a "refined" tallow being altered toward a less saturated, less heat-stable fat
 - **Important concepts:** refined, bleached, and deodorized (RBD) processing, peroxide value as a marker of oxidative damage, estrogenic equivalence of phthalates, a "spectrum" of seed-oil risk depending on use case, with deep frying at the worst end
 
-## 336. The Truth About Using Nicotine in 2026
+## 343. The Truth About Using Nicotine in 2026
 
 - **Source ID:** `kGqGeYdPxMk`
 - **URL:** https://www.youtube.com/watch?v=kGqGeYdPxMk
@@ -4041,7 +4125,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** engineered addictiveness via freebasing (diammonium phosphate), cardiovascular harm from the nicotine molecule itself, sleep architecture disruption, adolescent prefrontal cortex exposure, tobacco-industry funding bias in cognitive-benefit research, dopamine tolerance and withdrawal
 - **Important concepts:** freebase nicotine versus nicotine salts, the nicotinic acetylcholine receptor and its endogenous ligand (acetylcholine), the Yerkes-Dodson law (optimal arousal for task performance), dopamine baseline depletion from chronic nicotine use, a harm-reduction hierarchy across nicotine delivery methods
 
-## 337. The Untold Side Effects of Nicotine
+## 344. The Untold Side Effects of Nicotine
 
 - **Source ID:** `fyO6eROqf2c`
 - **URL:** https://www.youtube.com/watch?v=fyO6eROqf2c
@@ -4053,7 +4137,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** vaping oils linked to lung pneumonia, pesticides and additives in cigarette tobacco, marijuana's hormonal effects (lowered androgens in men), nicotine pouch addictiveness, nicotine's cardiovascular effects (raised blood pressure and heart rate)
 - **Important concepts:** relative risk ranking across nicotine/tobacco/cannabis delivery methods, correlation-versus-causation in the "smokers and COVID" claim, endogenous versus exogenous signaling molecules (nicotine, cannabinoids)
 
-## 338. The worst idea for fertility
+## 345. The worst idea for fertility
 
 - **Source ID:** `92k__YZEAes`
 - **URL:** https://www.youtube.com/watch?v=92k__YZEAes
@@ -4065,7 +4149,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** Clavicular reportedly on 400mg of testosterone at age 16, leading to zero current sperm production, Burger King and McDonald's meals cited as undermining the fertility benefit of his supplement stack
 - **Important concepts:** none recorded
 
-## 339. There are NO hidden dangers in fruit and honey
+## 346. There are NO hidden dangers in fruit and honey
 
 - **Source ID:** `dm9-DDoSqhM`
 - **URL:** https://www.youtube.com/watch?v=dm9-DDoSqhM
@@ -4077,7 +4161,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** claimed but (per this source) undetected fructose glycation from whole-food fructose sources, methylglyoxal elevation on ketogenic/Atkins diets
 - **Important concepts:** hemoglobin A1c and fructosamine as glycation assays, the distinction between pure/rodent-study fructose and whole-food fructose sources, advanced glycation end products (AGEs)
 
-## 340. This food reverses aging
+## 347. This breaks my heart..
+
+- **Source ID:** `OnfrsJx8IAE`
+- **URL:** https://www.youtube.com/watch?v=OnfrsJx8IAE
+- **Upload date:** 2022-07-18
+- **Duration:** 00:56
+- **Source file:** `sources/clean/OnfrsJx8IAE.txt`
+- **Main subjects:** childhood obesity attributed to processed grains and sugars in children's cereal and snack aisles, framed as fully preventable
+- **Foods & products:** cereal aisle products (processed grains, processed sugars) and cracker aisle products (processed grains, seed oils), argued to drive childhood obesity, organs, meat, fruit, honey, raw dairy, offered as the alternative
+- **Concerns:** childhood obesity, framed as "completely preventable"
+- **Important concepts:** childhood obesity framed as a societal/parental food-environment failure rather than individual child behavior
+
+## 348. This food reverses aging
 
 - **Source ID:** `brQcLA36Tsk`
 - **URL:** https://www.youtube.com/watch?v=brQcLA36Tsk
@@ -4089,7 +4185,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 341. This Invisible Light Restores Your Mitochondria (Science-Backed)
+## 349. This Invisible Light Restores Your Mitochondria (Science-Backed)
 
 - **Source ID:** `XAcCJ5PHMHs`
 - **URL:** https://www.youtube.com/watch?v=XAcCJ5PHMHs
@@ -4101,7 +4197,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** LED bulbs' near-total absence of infrared light, paired with a blue emission peak around 460 nm, light flicker at frequencies imperceptible to the eye but, the video claims, perceptible to the nervous system — linked to eye strain, headaches, migraines, and anxiety, OLED phone/laptop screens' pulse-width-modulation flicker, framed as a problem distinct from (and unfixable alongside) their blue-light content, low-emissivity ("low-e") windows stripping infrared from sunlight entering a home
 - **Important concepts:** full-spectrum versus "processed" light, as a direct analogy to whole food versus processed food, melanopic lux — a measure of how strongly a light source stimulates the circadian system, pulse-width modulation as the mechanism behind screen brightness control and its flicker cost, the claimed oxidative-balance relationship between high-energy visible/UV light and infrared/red light, mediated by mitochondrial melatonin synthesis
 
-## 342. This is harming your thyroid health
+## 350. This is harming your thyroid health
 
 - **Source ID:** `4qh24N0yIdA`
 - **URL:** https://www.youtube.com/watch?v=4qh24N0yIdA
@@ -4113,7 +4209,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** perfume phthalates absorbed through thin neck skin directly into the thyroid gland, perfume/fragrance chemicals entering the bloodstream and affecting testicles, ovaries, and liver, declining fertility rates and rising IVF use linked to cumulative "toxic soup" exposure including fragrances and personal care products
 - **Important concepts:** the thyroid as "one of your hormone control centers," specifically targeted by neck-applied perfume
 
-## 343. This Is How Canada Convinced You To Eat Engine Lubricant
+## 351. This Is How Canada Convinced You To Eat Engine Lubricant
 
 - **Source ID:** `c1kyubykrvA`
 - **URL:** https://www.youtube.com/watch?v=c1kyubykrvA
@@ -4125,7 +4221,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** erucic acid toxicity in unmodified rapeseed oil, carcinogenic extraction solvents (benzene, hexane), oxidation and trans-fat formation from high-heat refining, mainstream health-authority endorsement of an oil the source calls harmful
 - **Important concepts:** canola as an acronym (Canadian Oil, Low Acid), genetic modification as the route from toxic rapeseed to food-grade canola, refining as extraction plus high-heat distillation
 
-## 344. This is how I eat everyday #animalbased
+## 352. This is how I eat everyday #animalbased
 
 - **Source ID:** `a8-hxdyDaaI`
 - **URL:** https://www.youtube.com/watch?v=a8-hxdyDaaI
@@ -4137,7 +4233,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** an animal-based diet defined as centered on animal foods, fruit, and honey, while avoiding grains, oatmeal, and seed oils
 
-## 345. This is how much fruit I eat
+## 353. This is how much fruit I eat
 
 - **Source ID:** `sBWUrRkma3w`
 - **URL:** https://www.youtube.com/watch?v=sBWUrRkma3w
@@ -4149,7 +4245,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** fruit intake scaled to activity level rather than a fixed amount
 
-## 346. This is my full day of eating in Costa Rica!
+## 354. This is my full day of eating in Costa Rica!
 
 - **Source ID:** `1BwHcVGxaq8`
 - **URL:** https://www.youtube.com/watch?v=1BwHcVGxaq8
@@ -4161,7 +4257,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a prototype tallow-based sunscreen, tested but not detailed in this clip
 
-## 347. This is my supplement stack…
+## 355. This is my supplement stack…
 
 - **Source ID:** `6sU8HX0awro`
 - **URL:** https://www.youtube.com/watch?v=6sU8HX0awro
@@ -4173,7 +4269,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** raw liver framed as "the best multivitamin on the planet"
 
-## 348. This is the healthiest food for humans
+## 356. This is the healthiest food for humans
 
 - **Source ID:** `967uvaJL2Ag`
 - **URL:** https://www.youtube.com/watch?v=967uvaJL2Ag
@@ -4185,7 +4281,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 349. THIS is the Key to Weight Loss
+## 357. THIS is the Key to Weight Loss
 
 - **Source ID:** `4WGFtmUcTGg`
 - **URL:** https://www.youtube.com/watch?v=4WGFtmUcTGg
@@ -4197,7 +4293,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** calorie counting and portion control framed as ineffective long-term weight loss strategies
 - **Important concepts:** the phrase "quality of the calories in determines the calories out" as the host's core reframing of weight loss
 
-## 350. This is the world’s OLDEST SUPERFOOD #animalbased
+## 358. This is the world’s OLDEST SUPERFOOD #animalbased
 
 - **Source ID:** `7hpGrnwaMzI`
 - **URL:** https://www.youtube.com/watch?v=7hpGrnwaMzI
@@ -4209,7 +4305,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** biotin, riboflavin, copper, and bioavailable vitamin A as nutrients found mainly in liver rather than muscle meat
 
-## 351. This is why I’m drinking pet food at Sprouts ￼ #animalbased
+## 359. This is why I’m drinking pet food at Sprouts ￼ #animalbased
 
 - **Source ID:** `814Nby7BbAY`
 - **URL:** https://www.youtube.com/watch?v=814Nby7BbAY
@@ -4221,7 +4317,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** direct sales of raw dairy illegal in 37 states, including Texas, a cited statistic that asthma "kills 13 kids a day"
 - **Important concepts:** a regulatory contrast — cigarettes, processed food, seed oils, and fast food legal, while raw dairy sold to consumers is not
 
-## 352. This is why obesity rates are skyrocketing
+## 360. This is why obesity rates are skyrocketing
 
 - **Source ID:** `bCZa3pPzv1M`
 - **URL:** https://www.youtube.com/watch?v=bCZa3pPzv1M
@@ -4233,7 +4329,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** ultra-processed foods making up over 60% of the American diet, climbing obesity rates, diabetes rates, and record-low fertility, argued to be strongly related to ultra-processed food consumption
 - **Important concepts:** a visual comparison of two US maps (obesity rates and ultra-processed fast food consumption rates) showing closely matching geographic patterns
 
-## 353. This might break some hearts
+## 361. This might break some hearts
 
 - **Source ID:** `2SPuz7F6Ifw`
 - **URL:** https://www.youtube.com/watch?v=2SPuz7F6Ifw
@@ -4245,7 +4341,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** caffeine (a methylxanthine) causing blood sugar swings and reactive hypoglycemia, pesticides used on coffee beans, acrylamide from the roasting process, associated with cancer, mold toxins (mycotoxins) from coffee processing
 - **Important concepts:** coffee beans framed as seeds, and therefore highly defended plant tissue
 
-## 354. This will change your mind about McDonald’s
+## 362. This will change your mind about McDonald’s
 
 - **Source ID:** `9agqwLM9GEw`
 - **URL:** https://www.youtube.com/watch?v=9agqwLM9GEw
@@ -4257,7 +4353,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** bromine (from brominated vegetable oil) accumulating in fatty tissue and competing with iodine for thyroid tissue, causing thyroid issues, bromine accumulation potentially causing cognitive issues via brain accumulation
 - **Important concepts:** brominated vegetable oil used as an emulsifier to prevent citrus flavor from separating in a drink
 
-## 355. Throat burn = healthy olive oil
+## 363. Throat burn = healthy olive oil
 
 - **Source ID:** `9U1ooP1XGjQ`
 - **URL:** https://www.youtube.com/watch?v=9U1ooP1XGjQ
@@ -4269,7 +4365,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** throat burn duration (10-15 seconds) as a rough proxy for polyphenol content in olive oil, olive oil recommended as a finishing oil rather than a cooking oil
 
-## 356. Toothbrush = microplastics?
+## 364. Toothbrush = microplastics?
 
 - **Source ID:** `4BwaHBD3AVU`
 - **URL:** https://www.youtube.com/watch?v=4BwaHBD3AVU
@@ -4281,7 +4377,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a cited study estimating up to 50,000+ microplastic particles ingested annually from plastic toothbrush use
 - **Important concepts:** none recorded
 
-## 357. Toothpaste is overrated…
+## 365. Toothpaste is overrated…
 
 - **Source ID:** `7MZvO4CDRS8`
 - **URL:** https://www.youtube.com/watch?v=7MZvO4CDRS8
@@ -4293,7 +4389,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluoride, recommended to avoid if using toothpaste at all
 - **Important concepts:** brushing's actual purpose framed as disrupting biofilm, achievable with water alone, bad breath attributed to gut dysbiosis rather than a lack of minty toothpaste
 
-## 358. Top 3 travel hacks ✈️
+## 366. Top 3 travel hacks ✈️
 
 - **Source ID:** `9oHvri2K1tU`
 - **URL:** https://www.youtube.com/watch?v=9oHvri2K1tU
@@ -4305,7 +4401,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a separate food bag not counting toward standard carry-on baggage limits
 
-## 359. Travel hack: I got food through security!
+## 367. Travel hack: I got food through security!
 
 - **Source ID:** `A4VNEWi0R3w`
 - **URL:** https://www.youtube.com/watch?v=A4VNEWi0R3w
@@ -4317,7 +4413,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a bag of food not counting toward the standard two-carry-on-bag airline limit
 
-## 360. Turmeric does not fix the root cause of inflammation
+## 368. Tuesdays are for tomahawks
+
+- **Source ID:** `OB-DnC7r6G4`
+- **URL:** https://www.youtube.com/watch?v=OB-DnC7r6G4
+- **Upload date:** 2022-07-13
+- **Duration:** 00:57
+- **Source file:** `sources/clean/OB-DnC7r6G4.txt`
+- **Main subjects:** a promotional recurring weekly ritual ("Tomahawk Tuesday") pairing a grass-fed tomahawk steak with a no-seed-oil/no-grain/no-alcohol framing, tied to a social media contest
+- **Foods & products:** a grass-fed, grass-finished tomahawk steak
+- **Concerns:** none recorded
+- **Important concepts:** reclaiming a weekday as a "celebration" built around nutrient-dense meat rather than conventional treats
+
+## 369. Turmeric does not fix the root cause of inflammation
 
 - **Source ID:** `q6hCxRUL_zQ`
 - **URL:** https://www.youtube.com/watch?v=q6hCxRUL_zQ
@@ -4329,7 +4437,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** turmeric reported to lower testosterone and damage DNA, ibuprofen named as having "many negative side effects" without specifics
 - **Important concepts:** covering symptoms versus treating root cause, applied to both pharmaceutical anti- inflammatories and popular nutraceuticals, an animal-based diet (excluding seed oils, processed sugar, plant defense chemicals, and vegetables) framed as the actual root-cause fix for inflammation
 
-## 361. USDA carb recommendations vs mine
+## 370. USDA carb recommendations vs mine
 
 - **Source ID:** `BQhI1Q0aEi8`
 - **URL:** https://www.youtube.com/watch?v=BQhI1Q0aEi8
@@ -4341,7 +4449,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** phytic acid in grains inhibiting mineral absorption, gluten damaging and irritating the gut, opening gap junctions
 - **Important concepts:** low-nutrient, low-toxin carbohydrate sources (fruit, honey, raw milk) preferred over grains as the primary carbohydrate source in the diet
 
-## 362. Use honey as a sweetener!
+## 371. Use honey as a sweetener!
 
 - **Source ID:** `xvPgZfZREeg`
 - **URL:** https://www.youtube.com/watch?v=xvPgZfZREeg
@@ -4353,7 +4461,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** stevia and Splenda disrupting gut microbiome quorum sensing, stevia specifically noted to be used as a contraceptive in indigenous countries
 - **Important concepts:** a tiered ranking of sweeteners rather than a single "sugar is bad" claim
 
-## 363. Use sunscreens based in zinc and animal fats #shorts #health #sunscreen
+## 372. Use sunscreens based in zinc and animal fats #shorts #health #sunscreen
 
 - **Source ID:** `OYDAwBYd_UU`
 - **URL:** https://www.youtube.com/watch?v=OYDAwBYd_UU
@@ -4365,7 +4473,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** homosalate, octocrylene, avobenzone, and oxybenzone (transcribed "octabenzone"), named as endocrine-disrupting sunscreen compounds, parabens and other xenoestrogens in sunscreen
 - **Important concepts:** zinc- and animal-fat-based sunscreen recommended as the alternative
 
-## 364. Vegan diets and nutrient deficiencies: don’t make this mistake
+## 373. Vegan diets and nutrient deficiencies: don’t make this mistake
 
 - **Source ID:** `AkYqZcZn8PM`
 - **URL:** https://www.youtube.com/watch?v=AkYqZcZn8PM
@@ -4377,7 +4485,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** poor mineral bioavailability (magnesium, zinc, iron) from plant sources compared to meat
 
-## 365. Vegan vs carnivore UFC fight
+## 374. Vegan vs carnivore UFC fight
 
 - **Source ID:** `0ulVlSJr-Wk`
 - **URL:** https://www.youtube.com/watch?v=0ulVlSJr-Wk
@@ -4389,7 +4497,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** meat's bioavailability and "unique nutrients... you can't get from plants" as the host's stated reason for its athletic performance edge
 
-## 366. Vegetables are harming you!
+## 375. Vegetables are harming you!
 
 - **Source ID:** `PyHVry9EPFY`
 - **URL:** https://www.youtube.com/watch?v=PyHVry9EPFY
@@ -4401,7 +4509,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** oxalates (spinach, beets) linked to kidney stones, joint pain, and kidney failure, lectins (beans) linked to gut microbiome disruption, autoimmune disease, and (in animal models) Alzheimer's-type neurologic disease, isothiocyanates (kale) linked to thyroid disruption via blocked iodine absorption, Aze, a non-protein amino acid (beets), linked to possible autoimmune disease (multiple sclerosis) and protein misfolding, a compound transcribed "sorolens" (celery) linked to skin photodamage
 - **Important concepts:** each vegetable's harm tied to a specific named compound rather than a general "vegetables are bad" claim
 
-## 367. Vegetables DO NOT contain antioxidants…
+## 376. Vegetables DO NOT contain antioxidants…
 
 - **Source ID:** `D6XQTMoVevw`
 - **URL:** https://www.youtube.com/watch?v=D6XQTMoVevw
@@ -4413,7 +4521,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** plant defense chemicals (framed as pro-oxidants) disrupting digestion and hormones and inhibiting nutrient absorption
 - **Important concepts:** a hormetic (stress-then-adaptation) model of plant compounds - triggering the body's own antioxidant production rather than directly supplying antioxidants, heat, sauna, cold, exercise, sunlight, and fasting named as alternative ways to stimulate the body's own antioxidant production
 
-## 368. Vitamin C has a dirty little secret #health #animalbased #nutrition
+## 377. Vitamin C has a dirty little secret #health #animalbased #nutrition
 
 - **Source ID:** `2HHDc8kL6SQ`
 - **URL:** https://www.youtube.com/watch?v=2HHDc8kL6SQ
@@ -4425,7 +4533,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** GMO corn used to synthesize ascorbic acid typically sprayed with glyphosate (Roundup), synthetic vitamin C associated with worsening cardiovascular disease metrics in observational studies
 - **Important concepts:** naturally occurring versus synthetic vitamin C compared head-to-head for effect on oxidative stress
 
-## 369. Walmart Run!
+## 378. Walmart Run!
 
 - **Source ID:** `3oICD74K00o`
 - **URL:** https://www.youtube.com/watch?v=3oICD74K00o
@@ -4437,7 +4545,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 370. Want to lose wight?
+## 379. Want to lose wight?
 
 - **Source ID:** `Bk6qgSarmrI`
 - **URL:** https://www.youtube.com/watch?v=Bk6qgSarmrI
@@ -4449,7 +4557,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** sequential food reintroduction after an elimination phase, to identify individual reactions (e.g., eczema triggered by tomatoes) tied to a specific goal (weight loss, joint pain, sleep, etc.)
 
-## 371. Weight LOSS shakes = weight GAIN??
+## 380. Weight LOSS shakes = weight GAIN??
 
 - **Source ID:** `1REyE7PeCUY`
 - **URL:** https://www.youtube.com/watch?v=1REyE7PeCUY
@@ -4461,7 +4569,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils (canola, corn) in a "doctor recommended" weight-loss shake, consumed daily, seed oils accumulating in cell membranes, linked to obesity, increased hunger, mitochondrial issues, and eventually diabetes/prediabetes
 - **Important concepts:** none recorded
 
-## 372. Western medicine needs to look at the root cause!
+## 381. Western medicine needs to look at the root cause!
 
 - **Source ID:** `GIUa65v7ZBw`
 - **URL:** https://www.youtube.com/watch?v=GIUa65v7ZBw
@@ -4473,7 +4581,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** diabetes, obesity, heart disease, dementia, and depression, all named as reversible conditions
 - **Important concepts:** aligning diet and lifestyle to "millions of years of human and hominid evolution" as the root-cause fix
 
-## 373. What about Olive Oil?
+## 382. What about Olive Oil?
 
 - **Source ID:** `698-JrKI2js`
 - **URL:** https://www.youtube.com/watch?v=698-JrKI2js
@@ -4485,7 +4593,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** hexane extraction as a seed-oil-specific processing step olive oil doesn't undergo
 
-## 374. What are the best cooking utensils?
+## 383. What are the best cooking utensils?
 
 - **Source ID:** `23veeLGBZoc`
 - **URL:** https://www.youtube.com/watch?v=23veeLGBZoc
@@ -4497,7 +4605,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PVC (a probable carcinogen), brominated compounds (hormone disruptors), and heavy metals (lead, mercury, antimony) in plastic spatulas, a melted/burned plastic spatula edge as a visible sign of degradation and transfer into food
 - **Important concepts:** none recorded
 
-## 375. What are the best FATS to cook with?
+## 384. What are the best FATS to cook with?
 
 - **Source ID:** `6OlIq1hsEXM`
 - **URL:** https://www.youtube.com/watch?v=6OlIq1hsEXM
@@ -4509,7 +4617,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** avocado and olive oil often cut with vegetable oils, or otherwise low quality, avocado and olive oil's linoleic acid content and tendency to oxidize when heated
 - **Important concepts:** butyric acid in butter and ghee as an anti-inflammatory compound used in treating inflammatory bowel disease
 
-## 376. What are the BEST foods for PREGNANCY? #animalbased
+## 385. What are the BEST foods for PREGNANCY? #animalbased
 
 - **Source ID:** `brzQVOWPjfQ`
 - **URL:** https://www.youtube.com/watch?v=brzQVOWPjfQ
@@ -4521,7 +4629,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a cross-cultural pattern of feeding organs and meat to pregnant women or women trying to conceive, observed among the Hadza and described as "human wisdom that's been forgotten"
 
-## 377. What are the best pans for cooking?
+## 386. What are the best pans for cooking?
 
 - **Source ID:** `5wsn8VmF2cE`
 - **URL:** https://www.youtube.com/watch?v=5wsn8VmF2cE
@@ -4533,7 +4641,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** Teflon pans releasing airborne polymers when heated above 488°F, associated with headaches and irritability, scratched non-stick coating potentially transferring into food
 - **Important concepts:** stainless steel described as just iron and other elements, with nothing to leach into food
 
-## 378. What are we feeding our kids?!?
+## 387. What are we feeding our kids?!?
 
 - **Source ID:** `8SXZUbl7CRw`
 - **URL:** https://www.youtube.com/watch?v=8SXZUbl7CRw
@@ -4545,7 +4653,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** plastic baby food packaging linked to declining testosterone and genital development in male and female babies, spinach in baby food, flagged for oxalate content, avocado oil in baby food, flagged for linoleic acid content
 - **Important concepts:** none recorded
 
-## 379. What are “Free-Range” eggs?
+## 388. What are “Free-Range” eggs?
 
 - **Source ID:** `_OzwbCWLK6w`
 - **URL:** https://www.youtube.com/watch?v=_OzwbCWLK6w
@@ -4557,7 +4665,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** free-range chickens getting only about two square feet of roaming space per bird, versus 108 square feet for pasture-raised, cage-free chickens not actually getting outside at all
 - **Important concepts:** chicken density per space as a proxy for diet quality — lower density means more access to bugs and worms rather than relying mainly on grain feed
 
-## 380. What causes cardiovascular disease??
+## 389. What causes cardiovascular disease??
 
 - **Source ID:** `pMHxEPKu0NY`
 - **URL:** https://www.youtube.com/watch?v=pMHxEPKu0NY
@@ -4569,7 +4677,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** metabolic dysfunction (insulin resistance) argued to drive endothelial dysfunction and atherosclerosis
 - **Important concepts:** seed oils and processed sugars named as the two causes of the underlying metabolic dysfunction
 
-## 381. What does the “A” stand for?
+## 390. What does the “A” stand for?
 
 - **Source ID:** `9En81nJq0KE`
 - **URL:** https://www.youtube.com/watch?v=9En81nJq0KE
@@ -4581,7 +4689,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** Chick-fil-A removing its antibiotic-free chicken stipulation in March 2024
 - **Important concepts:** dimethyl polysiloxane (a silly-putty ingredient used as an anti-foaming agent) as an example of a non-food additive in a "100% real chicken" product
 
-## 382. What is beef tallow? #animalbased
+## 391. What is beef tallow? #animalbased
 
 - **Source ID:** `3YbN1-ShEtE`
 - **URL:** https://www.youtube.com/watch?v=3YbN1-ShEtE
@@ -4593,7 +4701,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** stearic acid, an 18-carbon saturated fat, triggering fat burning in human trials and leanness in animal studies
 
-## 383. What is fluoride really?
+## 392. What is fluoride really?
 
 - **Source ID:** `sPGdfZtLYKk`
 - **URL:** https://www.youtube.com/watch?v=sPGdfZtLYKk
@@ -4605,7 +4713,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluorosilicic acid as an industrial waste product added to municipal water, cumulative/chronic toxicity versus single-dose toxicity framing, carbon (Brita-style) filters, and even Berkey filters without a post-filter, failing to remove fluoride
 - **Important concepts:** filtering water before drinking it versus relying on the body to filter out contaminants (the video's own "temple" framing), cumulative dosage, not just single-dose amount, as the determinant of toxicity, transdermal absorption of chlorine during skin contact with tap water
 
-## 384. What is he eating? 😳
+## 393. What is he eating? 😳
 
 - **Source ID:** `4Wis0LjCfG0`
 - **URL:** https://www.youtube.com/watch?v=4Wis0LjCfG0
@@ -4617,7 +4725,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** aluminum foil food storage increasing aluminum content in food, brown rice's higher arsenic content relative to white rice, a cited 2022 NutriNet-Santé cohort study linking high artificial sweetener consumption to increased cancer and cardiovascular disease rates, apples on "the dirty dozen" pesticide-residue list, a cited Columbia study finding hundreds of thousands of nanoplastics per liter in bottled sparkling water
 - **Important concepts:** none recorded
 
-## 385. What is the best food for longevity? #animalbased #health
+## 394. What is the best food for longevity? #animalbased #health
 
 - **Source ID:** `2YwBknT6ub0`
 - **URL:** https://www.youtube.com/watch?v=2YwBknT6ub0
@@ -4629,7 +4737,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** taurine, creatine, carnosine, anserine, 4-hydroxyproline, and carnitine as longevity-linked nutrients found in red meat but not in plant foods
 
-## 386. What to eat for a healthy libido
+## 395. What to eat for a healthy libido
 
 - **Source ID:** `cYWkt4y58Go`
 - **URL:** https://www.youtube.com/watch?v=cYWkt4y58Go
@@ -4641,7 +4749,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** carnitine and carnosine's etymological link to "carnis," the Latin word for meat, used to argue for an inherent animal-food-libido connection
 
-## 387. What's in the Whole Foods HOT BAR??
+## 396. What's in the Whole Foods HOT BAR??
 
 - **Source ID:** `7ptOYsFQKBY`
 - **URL:** https://www.youtube.com/watch?v=7ptOYsFQKBY
@@ -4653,7 +4761,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils described as "the single greatest driver of metabolic dysfunction, insulin resistance, diabetes, eventually obesity in humans"
 - **Important concepts:** none recorded
 
-## 388. What's WRONG With Your Milk (and how to fix it)
+## 397. What's WRONG With Your Milk (and how to fix it)
 
 - **Source ID:** `Ya-P2K5k6PY`
 - **URL:** https://www.youtube.com/watch?v=Ya-P2K5k6PY
@@ -4665,7 +4773,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** A1 casein as more immunologically problematic than A2, foodborne illness risk from raw dairy, foodborne illness risk from pasteurized dairy (historical outbreaks), homogenization's necessity questioned
 - **Important concepts:** A2/A2 homozygosity in cattle breeds (Jersey, Guernsey), ferroptosis and lipid-peroxide-induced cell death, pentadecanoic acid (C15) as a biomarker of full-fat dairy intake, calcium-phosphorus mineral balance, swill milk and the historical origin of pasteurization
 
-## 389. What’s happening to Americans?
+## 398. What’s happening to Americans?
 
 - **Source ID:** `5DTFlxQ0_Xs`
 - **URL:** https://www.youtube.com/watch?v=5DTFlxQ0_Xs
@@ -4677,7 +4785,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** over 70% of Americans obese or overweight, almost 40% of kids obese or overweight, fertility rates down 50% in the last decade, sperm counts down 60%, autism prevalence at 1 in 32 children, up from 1 in 150 a decade earlier, over 5,000 substances in the food supply the host says the FDA hasn't fully tested
 - **Important concepts:** none recorded
 
-## 390. What’s in a Pop Tart?
+## 399. What’s in a Pop Tart?
 
 - **Source ID:** `_oMVQbVS7Uk`
 - **URL:** https://www.youtube.com/watch?v=_oMVQbVS7Uk
@@ -4689,7 +4797,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** corn syrup and high-fructose corn syrup linked to obesity in animal and human trials, soybean and palm (seed) oils, called "the single greatest driver of obesity and chronic illness in humans", caramel color, a synthetic additive linked to cancers in animal models, Red 40, associated with ADHD and anxiety behaviors in kids and adults
 - **Important concepts:** none recorded
 
-## 391. What’s in my fridge?
+## 400. What’s in my fridge?
 
 - **Source ID:** `_-H-WXirdwU`
 - **URL:** https://www.youtube.com/watch?v=_-H-WXirdwU
@@ -4701,7 +4809,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** humidity in Costa Rica as the stated reason for keeping salt refrigerated
 - **Important concepts:** storing fat-soluble/oil-based foods (butter, yucca) in glass rather than plastic
 
-## 392. What’s in your baby’s diapers?
+## 401. What’s in your baby’s diapers?
 
 - **Source ID:** `22HuFL6CgnU`
 - **URL:** https://www.youtube.com/watch?v=22HuFL6CgnU
@@ -4713,7 +4821,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fragrance (phthalates and other xenoestrogens), chlorine, bleaches, parabens, and latex in diapers, absorbed through skin during childhood development
 - **Important concepts:** skin absorption as an exposure route worth the same scrutiny as what's eaten
 
-## 393. What’s inside Dunkin Donuts’ ?
+## 402. What’s inside Dunkin Donuts’ ?
 
 - **Source ID:** `5yLbhlJ6gtY`
 - **URL:** https://www.youtube.com/watch?v=5yLbhlJ6gtY
@@ -4725,7 +4833,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** carrageenan and other gums (cellulose, guar, xanthan, acacia) described as gut-irritating and inflammatory, over 60% of calories in Western diets now coming from ultra-processed foods
 - **Important concepts:** none recorded
 
-## 394. What’s the best way to cook eggs?
+## 403. What’s the best way to cook eggs?
 
 - **Source ID:** `0L63t4iUQ8c`
 - **URL:** https://www.youtube.com/watch?v=0L63t4iUQ8c
@@ -4737,7 +4845,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS ("forever chemicals") from non-stick pan coatings disrupting hormones, olive and avocado oil oxidizing and breaking down when heated for cooking
 - **Important concepts:** none recorded
 
-## 395. What’s your dental floss made of?
+## 404. What’s your dental floss made of?
 
 - **Source ID:** `0Q_JNqyG2yI`
 - **URL:** https://www.youtube.com/watch?v=0Q_JNqyG2yI
@@ -4749,7 +4857,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS in Oral-B Glide, Colgate, Up & Up, and Salimo dental floss, per an independent analysis, a cited study finding women who used Oral-B Glide floss had significantly higher blood PFAS levels, PFAS associated with endocrine disruption, hormonal disruption, and learning delay in children
 - **Important concepts:** silk (transcribed "soak") floss as a lower-PFAS, lower-microplastic alternative
 
-## 396. Where did I gain my background in nutrition?
+## 405. Where did I gain my background in nutrition?
 
 - **Source ID:** `BlAtR7oWlQM`
 - **URL:** https://www.youtube.com/watch?v=BlAtR7oWlQM
@@ -4761,7 +4869,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a doctor's formal specialty credential (here, a psychiatry residency) not automatically implying or precluding independently gained nutritional expertise
 
-## 397. Whiten your teeth with this toothpaste
+## 406. Whiten your teeth with this toothpaste
 
 - **Source ID:** `8HgTn-g1nNM`
 - **URL:** https://www.youtube.com/watch?v=8HgTn-g1nNM
@@ -4773,7 +4881,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** conventional "fluoride filled" toothpaste, framed negatively as the alternative this recipe replaces
 - **Important concepts:** bentonite clay's negative charge pulling metals and toxins from the mouth, mixing with a wood rather than metal spoon, since bentonite clay could pull trace metals out of a metal spoon
 
-## 398. Why are you using deodorant…
+## 407. Why are you chewing gum??
+
+- **Source ID:** `RkwwPLx0fP8`
+- **URL:** https://www.youtube.com/watch?v=RkwwPLx0fP8
+- **Upload date:** 2022-06-29
+- **Duration:** 00:32
+- **Source file:** `sources/clean/RkwwPLx0fP8.txt`
+- **Main subjects:** rejecting chewing gum on the basis of its sugar/sugar-substitute-dominated ingredient list disrupting gut flora
+- **Foods & products:** chewing gum, listing gum base, dextrose, and corn syrup among its first ingredients
+- **Concerns:** processed sugars and sugar substitutes in gum disrupting gut flora communication
+- **Important concepts:** none recorded
+
+## 408. Why are you using deodorant…
 
 - **Source ID:** `LNedlg1mQMw`
 - **URL:** https://www.youtube.com/watch?v=LNedlg1mQMw
@@ -4785,7 +4905,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** parabens, phthalates, synthetic fragrances, and aluminum named as commercial deodorant ingredients
 - **Important concepts:** diet quality framed as the primary driver of how a person smells, more than deodorant use
 
-## 399. Why are you using sunscreen?
+## 409. Why are you using sunscreen?
 
 - **Source ID:** `6QJ-b-_aDD8`
 - **URL:** https://www.youtube.com/watch?v=6QJ-b-_aDD8
@@ -4797,7 +4917,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** avobenzone, oxybenzone, octocrylene, and homosalate, linked to hormonal disruption and absorbed through skin, rising melanoma rates despite 90%+ of time spent indoors and rising sunscreen use
 - **Important concepts:** a tallow-based, non-nano zinc mineral sunscreen framed as reasonable for photoprotection and skin aging specifically, separate from the skin-cancer-prevention question, diet quality proposed as more linked to skin cancer risk than sunscreen use
 
-## 400. Why aren’t doctors taught this?
+## 410. Why aren’t doctors taught this?
 
 - **Source ID:** `79C8MYaJg-A`
 - **URL:** https://www.youtube.com/watch?v=79C8MYaJg-A
@@ -4809,7 +4929,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** medical school and research funding coming substantially from pharmaceutical companies, shaping curriculum toward pharma-centric content
 - **Important concepts:** self-education (reading hundreds to thousands of articles and books, consulting experts) as the host's own path to a physician nutrition specialist board certification
 
-## 401. Why cows are not bad for the environment
+## 411. Why cows are not bad for the environment
 
 - **Source ID:** `b8O7KC_h8Es`
 - **URL:** https://www.youtube.com/watch?v=b8O7KC_h8Es
@@ -4821,7 +4941,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** grossly overestimated water-usage figures commonly cited for ruminant livestock
 - **Important concepts:** ruminants cycling water back into soil via urination in a way that preserves topsoil and prevents erosion and runoff, land unsuitable for crop agriculture but usable for grazing, allowing regenerative practices to increase soil carbon carrying capacity where cropping could not
 
-## 402. Why cutting calories fails long-term
+## 412. Why cutting calories fails long-term
 
 - **Source ID:** `a6yq_DzFD4U`
 - **URL:** https://www.youtube.com/watch?v=a6yq_DzFD4U
@@ -4833,7 +4953,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** over 85% of people who lose weight via calorie counting/restriction without attention to food quality failing long-term, per cited studies
 - **Important concepts:** adaptive thermogenesis, the body's metabolic slowdown response to calorie restriction, processed food increasing hunger calorie-for-calorie relative to whole food
 
-## 403. Why do so many kids get diabetes?
+## 413. Why do so many kids get diabetes?
 
 - **Source ID:** `6utEu2IPLz4`
 - **URL:** https://www.youtube.com/watch?v=6utEu2IPLz4
@@ -4845,7 +4965,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** childhood type 2 diabetes rates "increasing massively," alongside "out of control" childhood obesity, type 1 diabetes, an autoimmune condition, suggested as possibly diet-linked as well
 - **Important concepts:** none recorded
 
-## 404. Why grass-finished meat is better
+## 414. Why grass-finished meat is better
 
 - **Source ID:** `4HurlX9qpLY`
 - **URL:** https://www.youtube.com/watch?v=4HurlX9qpLY
@@ -4857,7 +4977,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** glyphosate residue in cattle fed GMO grains or Roundup-sprayed grasses/hay, PFAS and microplastic exposure as additional (unquantified) grass-fed advantages
 - **Important concepts:** organic grass-fed as excluding GMO feed and glyphosate-sprayed grass/hay specifically
 
-## 405. Why I don't eat fish, chicken or pork!
+## 415. Why I don't eat fish, chicken or pork!
 
 - **Source ID:** `jzszqg-xQGM`
 - **URL:** https://www.youtube.com/watch?v=jzszqg-xQGM
@@ -4869,7 +4989,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS exposure from food packaging, nonstick cookware, dental floss, and sparkling water, heavy metals (mercury, lead, arsenic, cadmium) in fish, especially larger predatory species, microplastics in fish, shellfish, and salt, linoleic acid (omega-6) bioaccumulation from corn-and-soy-fed chicken and pigs, fish oil supplementation as unnecessary and potentially oxidized
 - **Important concepts:** monogastric versus ruminant fat metabolism, bioaccumulation as a general mechanism across PFAS, heavy metals, and linoleic acid, the "nutrient problem, not calorie problem" framing of global food scarcity
 
-## 406. Why LED lights are harming your sleep
+## 416. Why LED lights are harming your sleep
 
 - **Source ID:** `B7nY4rXnQjg`
 - **URL:** https://www.youtube.com/watch?v=B7nY4rXnQjg
@@ -4881,7 +5001,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** LED flicker causing nervous system stimulation ("tired but wired"), headaches, and eye strain, LED lighting disrupting circadian rhythm
 - **Important concepts:** the term processed light as an analogy to processed food — LED light framed as an unhealthy, artificial version of natural light
 
-## 407. Why men have low testosterone today
+## 417. Why men have low testosterone today
 
 - **Source ID:** `6UStjTPlkuo`
 - **URL:** https://www.youtube.com/watch?v=6UStjTPlkuo
@@ -4893,7 +5013,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** average male testosterone reportedly falling from roughly 800 ng/dL to 400-450 ng/dL across generations, doctors prescribing TRT for low testosterone without checking vitamin D or zinc levels first, plastic exposure (cans, bottles, paper cups, food storage/heating containers) linked to lower testosterone and erectile dysfunction
 - **Important concepts:** zinc levels below 80 potentially doubling testosterone with supplementation alone, plastics framed as "the new smoke" — an underrecognized, pervasive health threat
 
-## 408. Why PEANUT BUTTER is one of the worst foods with Dave Asprey
+## 418. Why PEANUT BUTTER is one of the worst foods with Dave Asprey
 
 - **Source ID:** `Jy8fbpMHgqo`
 - **URL:** https://www.youtube.com/watch?v=Jy8fbpMHgqo
@@ -4905,7 +5025,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** aflatoxin in peanut butter, described as a leading dietary source of a major carcinogen, very long-chain fatty acids (VLCFA) accumulating in neuronal tissue, phytic acid's effect on mineral absorption and, per this source, bone density, Instagram content moderation flagging seed-oil and corn-flakes-history posts as misinformation
 - **Important concepts:** VLCFA (very long-chain fatty acids) and cell-membrane fit, phytic acid as a mineral chelator ("swallowing condoms" analogy), the aggregate nutrient density index (ANDI) critiqued as a flawed food-ranking metric, adipose-tissue linoleic acid versus blood linoleic acid as a marker of seed-oil consumption
 
-## 409. Why raw butter is better than pasteurized
+## 419. Why raw butter is better than pasteurized
 
 - **Source ID:** `2MwRcbIQf3w`
 - **URL:** https://www.youtube.com/watch?v=2MwRcbIQf3w
@@ -4917,7 +5037,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** pasteurization heating cream to over 200°F, altering whey protein conformation
 
-## 410. Why Sugar & Fruit Juice Are NOT The Same
+## 420. Why Sugar & Fruit Juice Are NOT The Same
 
 - **Source ID:** `hljJ0T7yASU`
 - **URL:** https://www.youtube.com/watch?v=hljJ0T7yASU
@@ -4929,7 +5049,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** pure/processed sugar raising endotoxin (lipopolysaccharide) via gut dysbiosis, protein pop-tarts and protein cookies as a booming but questionable processed-food category, heating/processing honey (or turning it into powder) breaking down its beneficial compounds, non-glyphosate-tested honey
 - **Important concepts:** dysbiosis and lipopolysaccharide (endotoxin) as the proposed mechanism for why sugar source matters, polyphenolic/plant compounds in honey and juice as gut-flora modifiers
 
-## 411. Why we do not need fluoride to prevent tooth decay
+## 421. Why we do not need fluoride to prevent tooth decay
 
 - **Source ID:** `e5K6O41hQ3A`
 - **URL:** https://www.youtube.com/watch?v=e5K6O41hQ3A
@@ -4941,7 +5061,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** framing tooth decay purely as a fluoride-deficiency problem
 - **Important concepts:** odontoblasts as living immune cells in teeth, fat-soluble vitamins (D, E, A, K2) as the proposed determinant of cavity resistance, hydroxyapatite formation via fluoride or calcium
 
-## 412. Why would I take cheat days? #shorts #health #carnivorediet
+## 422. Why would I take cheat days? #shorts #health #carnivorediet
 
 - **Source ID:** `jt-FdOb7EH4`
 - **URL:** https://www.youtube.com/watch?v=jt-FdOb7EH4
@@ -4953,7 +5073,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a "dopaminergic, drug-like effect" from cheat-day food followed by feeling worse afterward
 - **Important concepts:** cheat days framed as a behavioral obstacle rather than an earned reward
 
-## 413. Why You Should Avoid Cooking With These Oils
+## 423. Why You Should Avoid Cooking With These Oils
 
 - **Source ID:** `Tg6qO3aEw9E`
 - **URL:** https://www.youtube.com/watch?v=Tg6qO3aEw9E
@@ -4965,7 +5085,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PTFE/Teflon aerosolizing from nonstick pans, oxidation of polyunsaturated fats (seed, olive, avocado oil) when heated, olive and avocado oil being cut with seed oils, endocrine-disrupting plastic in can linings for olive and avocado oil, oxidized LDL and Lp(a) from seed-oil consumption
 - **Important concepts:** peroxidation index as the relevant heat-stability measure, not smoke point, the Maillard-adjacent "mercury ball effect" for testing a stainless pan's readiness, odd-chain and 18-carbon saturated fatty acids (stearic, pentadecanoic, heptadecanoic acid), fat-soluble vitamins (A, D, E, K/K2) concentrated in animal fat from grass-fed diets
 
-## 414. Why you should eat more eggs
+## 424. Why you should eat more eggs
 
 - **Source ID:** `axJMmdCcQLg`
 - **URL:** https://www.youtube.com/watch?v=axJMmdCcQLg
@@ -4977,7 +5097,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 415. Why Your "Organic" Honey Is Full Of Pesticides (w/ Eric Mason)
+## 425. Why Your "Organic" Honey Is Full Of Pesticides (w/ Eric Mason)
 
 - **Source ID:** `1Fke1NV4ZdA`
 - **URL:** https://www.youtube.com/watch?v=1Fke1NV4ZdA
@@ -4989,7 +5109,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** glyphosate contamination reaching honey even under "organic" labeling, neonicotinoid ("neonic") seed coatings that are unregulated at the seed-production stage, adulterated/fake honey cut with sugar, high-fructose corn syrup, or rice syrup; mislabeled country of origin to dodge tariffs, heavy metals (lead, arsenic) turning up in urban bee colonies' honey and comb, heat/processing in "non-raw" honey reducing its biological complexity
 - **Important concepts:** dysbiosis and lipopolysaccharide (endotoxin) as the host's hypothesis for why sugar source matters, true source certification as a honey-authenticity standard, raw versus processed honey (heat and straining as the dividing line), the honeybee as an environmental "canary in the coal mine"
 
-## 416. Would you eat this?
+## 426. Would you eat this?
 
 - **Source ID:** `8OyA8WeCvvk`
 - **URL:** https://www.youtube.com/watch?v=8OyA8WeCvvk
@@ -5001,7 +5121,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the sauce's 16 ingredients including multiple seed oils and unspecified "natural flavors", the bun's 24 ingredients, compared to the three ingredients (wheat, water, salt) bread "is supposed to have"
 - **Important concepts:** a "your great-grandmother would recognize the ingredients" heuristic for evaluating food quality
 
-## 417. Yes, I was once a raw vegan…
+## 427. Yes, I was once a raw vegan…
 
 - **Source ID:** `gZWC_JxjljM`
 - **URL:** https://www.youtube.com/watch?v=gZWC_JxjljM
@@ -5013,7 +5133,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** gas, bloating, fatigue, and eczema during the raw vegan phase, electrolyte imbalance and muscle cramps during the strict carnivore phase, 25 lb of lean muscle mass lost during the raw vegan phase
 - **Important concepts:** a three-phase personal dietary progression used as evidence for the current diet
 
-## 418. You Are Being Lied To About Fish Oil
+## 428. You Are Being Lied To About Fish Oil
 
 - **Source ID:** `AN0M9rUugpI`
 - **URL:** https://www.youtube.com/watch?v=AN0M9rUugpI
@@ -5025,7 +5145,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** atrial fibrillation and arrhythmia linked to high-dose (4+ grams/day) fish oil, LDL oxidation from fish oil, fish oil rancidity ("fish burps") and industrial bleaching/deodorizing/refining of fish oil, lipid peroxidation from fatty fish and fish oil, including pharmaceutical-grade and cod liver oil
 - **Important concepts:** membrane pacemaker theory of aging, eicosanoids as the basis for treating omega-3 and omega-6 differently, polyunsaturated fat double-bond count as a predictor of oxidation susceptibility
 
-## 419. You crave meat for a reason…
+## 429. You crave meat for a reason…
 
 - **Source ID:** `-i4NDImStFE`
 - **URL:** https://www.youtube.com/watch?v=-i4NDImStFE
@@ -5037,7 +5157,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** plant-based meat products substituting for, rather than delivering, nutrient-dense animal foods
 - **Important concepts:** a conscious/unconscious split in food response — aversion at a conscious level, positive response at an evolutionary/unconscious level
 
-## 420. You DON’T need lower cholesterol…
+## 430. You DON’T need lower cholesterol…
 
 - **Source ID:** `7VCxmMFZSGQ`
 - **URL:** https://www.youtube.com/watch?v=7VCxmMFZSGQ
@@ -5049,7 +5169,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** fasting insulin as an easy metabolic health test, LDL cholesterol described as "horribly bad" at predicting cardiovascular disease in metabolically healthy people, cholesterol's roles in immune response, hormone/fertility health, and longevity in old age
 
-## 421. You should never eat these
+## 431. You should never eat these
 
 - **Source ID:** `8BJTVtZF1FU`
 - **URL:** https://www.youtube.com/watch?v=8BJTVtZF1FU
@@ -5061,7 +5181,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the deodorization step in seed oil refining occurring at 500°F, described as effectively "deep fried in the factory" before any home cooking, plastic packaging leaching antimony into seed oil during 6-12 months of shelf storage
 - **Important concepts:** none recorded
 
-## 422. You think nicotine is healthy!?
+## 432. You think nicotine is healthy!?
 
 - **Source ID:** `4CjoMHDm7N4`
 - **URL:** https://www.youtube.com/watch?v=4CjoMHDm7N4
@@ -5073,7 +5193,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** up to 90mg of nicotine per day from near-daily pouch use, with 45-75% absorption yielding roughly 50mg absorbed nicotine per day — more than 30 cigarettes' worth, nicotine increasing cortisol, a stress hormone
 - **Important concepts:** creatine framed as "the best nootropic," contrasted with nicotine as "the worst example of a nootropic"
 
-## 423. Your bacon is BS: Stop eating pork
+## 433. Your bacon is BS: Stop eating pork
 
 - **Source ID:** `HPTpID3vV_o`
 - **URL:** https://www.youtube.com/watch?v=HPTpID3vV_o
@@ -5085,7 +5205,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid (omega-6) bioaccumulation in pork fat from corn-and-soy feed
 - **Important concepts:** monogastric versus ruminant fat storage and metabolism, feed composition as the determinant of an animal's own fatty-acid profile
 
-## 424. Your kale contains heavy metals
+## 434. Your kale contains heavy metals
 
 - **Source ID:** `qxhOQ6PY5ME`
 - **URL:** https://www.youtube.com/watch?v=qxhOQ6PY5ME
@@ -5097,7 +5217,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** vitamin K1 (in kale) being conflated with vitamin K2, isothiocyanates and goitrin interfering with thyroid iodine uptake, Dacthal (DCPA) pesticide residue, an EPA-acknowledged thyroid endocrine disruptor, thallium contamination of leafy greens from naturally high-thallium soils, oxalates in spinach (mentioned in passing)
 - **Important concepts:** vitamin K1 versus K2 as distinct compounds with distinct effects, isothiocyanates and goitrin as thyroid-disrupting plant compounds, soil-to-plant heavy metal transfer, specifically thallium
 
-## 425. You’ll never touch another receipt…
+## 435. You’ll never touch another receipt…
 
 - **Source ID:** `7zn7TCSM54c`
 - **URL:** https://www.youtube.com/watch?v=7zn7TCSM54c
@@ -5109,7 +5229,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a 2014 study finding 100% of participants had measurable BPA increases after two hours handling receipts, cashiers handling receipts all day showing BPA increases of 2-3x, two further studies (2017, 2018) corroborating BPA transfer through skin contact with thermal paper
 - **Important concepts:** none recorded
 
-## 426. You’re probably not running correctly #running #fitness #carnivorediet
+## 436. You’re probably not running correctly #running #fitness #carnivorediet
 
 - **Source ID:** `iT03Yx6ge3o`
 - **URL:** https://www.youtube.com/watch?v=iT03Yx6ge3o
@@ -5121,7 +5241,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** heel-strike running form argued to hurt knees and joints when used for jogging or running
 - **Important concepts:** walking as an inherently heel-strike motor pattern, contrasted with jogging/running/sprinting as inherently forefoot-strike patterns
 
-## 427. “Red meat is inflammatory” - Harvard 😂
+## 437. “Red meat is inflammatory” - Harvard 😂
 
 - **Source ID:** `AcS2zoWrFq8`
 - **URL:** https://www.youtube.com/watch?v=AcS2zoWrFq8
@@ -5133,7 +5253,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** replacing grain-based carbohydrates with red meat reducing inflammation, per a cited interventional study
 
-## 428. 🤯 Your Protein Bar Is Made Of WHAT?!?
+## 438. 🤯 Your Protein Bar Is Made Of WHAT?!?
 
 - **Source ID:** `_Cb2NJ_C1Mg`
 - **URL:** https://www.youtube.com/watch?v=_Cb2NJ_C1Mg
@@ -5166,6 +5286,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 **a chipotle burrito/burrito bowl, cooked with rice bran oil** — The amount of cups of brown rice to make 3tbsp of rice bran oil might shock you... (`77Og_H7n0Ok`)
 
 **a dunkin' donuts boston cream donut — processed sugars, corn syrup, artificial flavors, preservatives (sodium benzoate, sodium pyrophosphate), seed oils, and multiple gums** — What’s inside Dunkin Donuts’ ? (`5yLbhlJ6gtY`)
+
+**a grass-fed, grass-finished tomahawk steak** — Tuesdays are for tomahawks (`OB-DnC7r6G4`)
 
 **a grass-fed, grass-finished, regeneratively raised bison ribeye (10 oz, 64g bioavailable animal protein)** — Plant-based meat is a scam (`1fa40zJoOj8`)
 
@@ -5256,6 +5378,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 **avocado oil and olive oil (not recommended for cooking, but usable uncooked with careful sourcing)** — What are the best FATS to cook with? (`6OlIq1hsEXM`)
 
 **bacon** — The Dark Side of White Meat (`xt3ZOwgj_5Y`), Why I don't eat fish, chicken or pork! (`jzszqg-xQGM`), Your bacon is BS: Stop eating pork (`HPTpID3vV_o`)
+
+**bacon, argued against due to feed-driven omega-6 accumulation** — The death of bacon (`PBJN9wDC9IA`)
 
 **baja gold** — How Contaminated Is Your Favorite Salt? (`Ynis4uKZUfY`)
 
@@ -5367,7 +5491,11 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **celtic sea salt and redmond real salt, both found to carry significant lead levels** — Does your sea salt contain heavy metals? (`6MDK0epKwbM`)
 
+**cereal aisle products (processed grains, processed sugars) and cracker aisle products (processed grains, seed oils), argued to drive childhood obesity** — This breaks my heart.. (`OnfrsJx8IAE`)
+
 **cheesecake factory menu items — flat-top-cooked tortillas, buns, chicken, and bacon (canola oil), broiler-cooked burgers, steaks, and fish (no oil), and canola-oil-based salad dressing** — Cheesecake Factory = seed oils?? (`bGAaZYLgMGo`)
+
+**chewing gum, listing gum base, dextrose, and corn syrup among its first ingredients** — Why are you chewing gum?? (`RkwwPLx0fP8`)
 
 **chick-fil-a grilled chicken sandwich (patty, bun, and sauce)** — Chick-fil-A’s FAKE chicken sandwich? (`Bf2pzWcyy5U`)
 
@@ -5589,6 +5717,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **gin** — Avoid These Drinks At All Costs (`AUuy4PHnMO8`)
 
+**gluten-free tortilla wraps, goldfish crackers, and yellow curry paste, each shown containing soybean/canola/sunflower oil** — Seed oils are in everything! (`v6utWNd8Y_c`)
+
 **goat milk** — What's WRONG With Your Milk (and how to fix it) (`Ya-P2K5k6PY`)
 
 **goat's milk kefir, mango, honey (small pre-surf breakfast)** — Here’s my full day of animal-based eating (`jNGO1V9KlIk`)
@@ -5739,6 +5869,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **kale, described as "basically the same thing" as toxic wild leaves, "just a distant cousin with a few less toxins"** — Do. Not. Eat. Plants. Period. #health #shorts #carnivorediet (`-oXNqCb5Bgk`)
 
+**kale, offered to and rejected by the dog** — Dogs instinctually know kale is BS, and so do you!! (`teaUaH8R_yM`)
+
 **kale, spinach, and chard, named as specific problem vegetables for oxalates and isothiocyanates** — Should you eat vegetables? (`BPsAsdTaviw`)
 
 **kale, used as the specific example plant** — Plants Have Their Own Agenda (Power Project Podcast Excerpt) (`w5xl6CEnAbQ`)
@@ -5869,6 +6001,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **meat, organs, fruit, honey, and raw dairy (the animal-based diet)** — Animal-based diets are sexy (`2fGij-Ipb3k`)
 
+**meat, organs, fruit, honey, raw dairy - presented as the "skincare routine"** — I have a very thorough skincare routine… (`IfVX5CXlTdE`)
+
 **meat, organs, fruit, honey, raw dairy — the animal-based diet recommended as the fix** — Diabetes is fixable! (`6H2g3TwrRak`)
 
 **meat, organs, fruit, honey, raw dairy — the recommended animal-based diet** — THIS is the Key to Weight Loss (`4WGFtmUcTGg`)
@@ -5977,9 +6111,13 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **organs, meat, fruit, honey, raw dairy, named as the broader "animal-based food pyramid"** — This is how much fruit I eat (`sBWUrRkma3w`)
 
+**organs, meat, fruit, honey, raw dairy, named as the diet credited for the host's vitality** — 45 and Thriving!! (`UNaIf0rpQJ8`)
+
 **organs, meat, fruit, honey, raw dairy, named as the host's regular diet** — Why would I take cheat days? #shorts #health #carnivorediet (`jt-FdOb7EH4`)
 
 **organs, meat, fruit, honey, raw dairy, named as the recommended diet** — Heal yourself with an animal-based diet! (`nmwFHXHCb6o`)
+
+**organs, meat, fruit, honey, raw dairy, offered as the alternative** — This breaks my heart.. (`OnfrsJx8IAE`)
 
 **organs, meat, fruit, honey, raw dairy, recommended for libido** — What to eat for a healthy libido (`cYWkt4y58Go`)
 
@@ -6072,6 +6210,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 **quail eggs, emu eggs, goose eggs, duck eggs** — FDA says eggs are healthy!? (`1Reg2wLQ0is`)
 
 **raw (unpasteurized) butter** — Don’t Make These Mistakes When Buying Butter (`kFo6mmetKmc`)
+
+**raw bull testicle, chosen by the dog** — Dogs instinctually know kale is BS, and so do you!! (`teaUaH8R_yM`)
 
 **raw butter** — What's WRONG With Your Milk (and how to fix it) (`Ya-P2K5k6PY`)
 
