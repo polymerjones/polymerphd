@@ -25,9 +25,15 @@ single house position. Each note names its own source creator directly in its pr
 
 # What was processed
 
-This library is new and growing. See `09_SOURCE_CATALOG.md` (generated mechanically from the
-notes, so it is always complete and current) for the exact video count, creators, and topics
-covered so far.
+| Measure | Figure |
+|---|---|
+| Videos written up as structured notes | **42** |
+| Source channels | **Seth Capehart MD** (`@SethCapehartMD`) and **Dr. Mike/Matt Jones** (`@Dr.MattJones`) |
+| Knowledge files in this package | **11** (numbered files 00–08 and 10; `09_SOURCE_CATALOG.md` self-regenerates) |
+
+This library is still growing — new creators and videos are added over time. See
+`09_SOURCE_CATALOG.md` (generated mechanically from the notes, so it is always complete and
+current) for the exact, up-to-the-minute video count, creators, and topics covered.
 
 ---
 
