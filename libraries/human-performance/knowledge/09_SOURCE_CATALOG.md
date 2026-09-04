@@ -3,13 +3,24 @@
 Every source ingested into this knowledge package, with the Main subjects, Practices, and Important concepts each one covers.
 
 **Source:** Various creators  
-**Videos catalogued:** 18
+**Videos catalogued:** 22
 
 Entries are alphabetical by title. Use the video ID to trace any claim in the other files back to its source.
 
 ---
 
-## 1. How To Sleep
+## 1. Aura Is Real. Here's the Science.
+
+- **Video ID:** `mQOie2JHpPU`
+- **URL:** https://www.youtube.com/watch?v=mQOie2JHpPU
+- **Upload date:** 2026-08-03
+- **Duration:** 14:20
+- **Source file:** `sources/clean/mQOie2JHpPU.txt`
+- **Main subjects:** people who "have nothing to prove" analyzed as having resolved an internal "am I enough" question through some past forced confrontation rather than achievement, Jung's concept of "the shadow" as the avoided material that achievement-chasing lets a person keep not looking at, a three-part deliberate practice for building this quality without waiting for a forced crisis
+- **Practices:** notice, without needing to stop, the moments you're doing something to be perceived a certain way rather than because you want to, deliberately spend time alone, unwitnessed, without documenting or performing it, do difficult things privately, with no audience and no applause, specifically because no one will see them
+- **Important concepts:** the need to prove framed as an attempt to answer "am I enough" through external means, which never resolves because the question was never really about the achievement, achievement-chasers described as often having "no choice" - a loss, illness, or failure stripped away the identity they were maintaining, forcing a confrontation with what was underneath
+
+## 2. How To Sleep
 
 - **Video ID:** `jA0Zl8ipmTQ`
 - **URL:** https://www.youtube.com/watch?v=jA0Zl8ipmTQ
@@ -20,7 +31,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** the "rule of three" - three calming, low-stimulation actions done in the same order every night, no scrolling before bed, consistent sleep and wake times, a supplement stack in order of escalating strength - magnesium glycinate (200-400mg, 45 minutes before bed), sublingual melatonin spray if needed, valerian root if more is needed
 - **Important concepts:** sleeping versus actually recovering as distinct states, deep sleep as the window for growth hormone release and tissue repair, the circadian rhythm as a consistency-dependent biological clock, not just a duration target
 
-## 2. Hustle Culture Was Wrong
+## 3. Hustle Culture Was Wrong
 
 - **Video ID:** `ctR2CIjOTXo`
 - **URL:** https://www.youtube.com/watch?v=ctR2CIjOTXo
@@ -31,7 +42,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** notice which kind of tiredness a hard day produces - clean and restable, or depleted and still anxious
 - **Important concepts:** the same discipline and grind producing opposite outcomes depending on whether the underlying goal fills or drains the person, ignored small warning signals compounding into loud, undeniable ones, neither hustle nor rest as universally correct - the skill is reading which the current moment requires
 
-## 3. Modern Life Is A Disease
+## 4. Modern Life Is A Disease
 
 - **Video ID:** `oufQkXnSkes`
 - **URL:** https://www.youtube.com/watch?v=oufQkXnSkes
@@ -42,7 +53,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** walk 8,000-10,000 steps a day, lift heavy compound movements 2-3x per week, sprint 20-30 seconds once a week, stand and move every hour if desk-bound, eat only foods that existed 100 years ago, 5 minutes of parasympathetic practice morning and night (breath work, silence, unplugged walking), morning and evening sunlight, barefoot on the ground where possible, fixed sleep/wake time, dark cold quiet room, no screens or caffeine late, 7-9 hours, in-person community and screen-free family time
 - **Important concepts:** insulin resistance from muscular inactivity, sitting as a sickness signal the body reads literally, the food industry's engineered "bliss point" overriding satiety, chronic low-grade cortisol versus acute fight-or-flight, HPA axis dysregulation, deep sleep as the repair window (growth hormone, testosterone, ghrelin/leptin), loneliness as a physiological stressor, not just an emotional one, a healthcare/food/pharma system economically misaligned with prevention
 
-## 4. Neuroplasticity Is Working Against You
+## 5. Neuroplasticity Is Working Against You
 
 - **Video ID:** `hguZ68FPLmM`
 - **URL:** https://www.youtube.com/watch?v=hguZ68FPLmM
@@ -53,7 +64,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** deep work in short 10-30 minute single-task blocks, building duration over time like interval training, dual n-back training, 15-20 minutes daily or every other day, no-scroll mornings, before any deep work, one to two daily 30-60 minute "attention recovery windows" with no scrolling, multitasking, or stimulation, physical friction against impulsive app use, e.g. an NFC-tag app blocker that can't be overridden from the phone itself
 - **Important concepts:** the brain becoming "efficient at shallow and fragmented" as a direct, non-pathological consequence of shallow, fragmented inputs, a stated pattern from end-of-life conversations - people who felt "scattered" and never discovered purpose because of constant micro-distraction
 
-## 5. Neuroscience Confirms - Why Doing Less Helps You Achieve More
+## 6. Neuroscience Confirms - Why Doing Less Helps You Achieve More
 
 - **Video ID:** `iD5zio-GXyA`
 - **URL:** https://www.youtube.com/watch?v=iD5zio-GXyA
@@ -64,7 +75,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** write down every current habit, goal, system, and commitment without filtering, {'filter that list twice': 'what have you actually done consistently in 30 days, and of those, what produced something real'}, protect the few things that survive that filter "at all cost"; drop the rest, before adding anything new, ask what can be removed first
 - **Important concepts:** background cognitive processes / "open background apps", the higher cognitive cost of unresolved decisions versus unfinished tasks, performative effort (visibly "adding") versus effective effort (protecting a few things intensely), depth of focused effort compounding over scattered surface-level effort
 
-## 6. Neuroscience Confirms: What Constant Stimulation Did to Your Brain
+## 7. Neuroscience Confirms: What Constant Stimulation Did to Your Brain
 
 - **Video ID:** `ffkUyUHif3Y`
 - **URL:** https://www.youtube.com/watch?v=ffkUyUHif3Y
@@ -75,7 +86,18 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** protect the first 30 minutes after waking from any screen, build deliberate "boredom windows" into the day - a commute, a walk, or a meal with no audio or screen, use physical friction (an NFC-tag app blocker) rather than software-only app limits, notice the automatic, unconscious reach for a phone the moment boredom appears, without necessarily fixing it immediately
 - **Important concepts:** dopamine recalibration - the brain's baseline stimulation requirement rising with repeated high-stimulation input, making ordinary life feel flat by comparison, attention fragmentation - the brain trained to expect input every few seconds, producing discomfort when input stops
 
-## 7. Stop Consuming Content
+## 8. Neuroscience Confirms: Why You Can't Read Anymore
+
+- **Video ID:** `Q9PXpEtvjN4`
+- **URL:** https://www.youtube.com/watch?v=Q9PXpEtvjN4
+- **Upload date:** 2026-08-24
+- **Duration:** 17:28
+- **Source file:** `sources/clean/Q9PXpEtvjN4.txt`
+- **Main subjects:** the "frontoparietal control network" and its role in sustained attention, framed as trainable rather than fixed, a cited Stanford study finding heavy media multitaskers perform worse, not better, at filtering distraction and switching tasks, cited studies on reading specifically - Emory brain-connectivity changes from reading fiction, a Neurology-linked cognitive-decline finding, and a University of Texas study on phone-visibility reducing cognitive capacity
+- **Practices:** read a physical book for a set 10-20 minutes at the same time every night, starting at 10 minutes, keep the phone in a different room while reading, not just face-down nearby, read something genuinely enjoyable rather than "productivity" or self-improvement material, avoid three specific mistakes - reading on a screen, reading to collect/highlight/track rather than absorb, and counting audiobooks as this specific practice
+- **Important concepts:** reading capacity as a constructed, trainable circuit rather than an innate or fixed ability, self-paced attention (a book) versus externally-paced input (video, podcast, audiobook) as a meaningful mechanistic difference
+
+## 9. Stop Consuming Content
 
 - **Video ID:** `A1CFsSH2hHI`
 - **URL:** https://www.youtube.com/watch?v=A1CFsSH2hHI
@@ -86,7 +108,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** pick one already-known-to-work action and do it consistently before adding anything new
 - **Important concepts:** anticipating a solution releasing dopamine before any action is taken, logged by the brain as progress, the distinction between obvious procrastination and "research as avoidance," which looks like growth
 
-## 8. The Productivity Apps I Trust With My Life
+## 10. The Productivity Apps I Trust With My Life
 
 - **Video ID:** `cXsZzRRDTCg`
 - **URL:** https://www.youtube.com/watch?v=cXsZzRRDTCg
@@ -97,7 +119,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** keep a single simple running to-do list rather than an elaborate tagging/organization system, migrate one tool at a time (e.g. email first) rather than rebuilding an entire stack at once
 - **Important concepts:** a business model built on holding attention (notifications, recommendations) versus one built on a tool simply working well, explicitly naming which parts of a personal setup are and are not actually private, rather than presenting the whole stack as uniformly private
 
-## 9. The Real Reason We're All Exhausted
+## 11. The Real Reason We're All Exhausted
 
 - **Video ID:** `Z2EIZuDFOuQ`
 - **URL:** https://www.youtube.com/watch?v=Z2EIZuDFOuQ
@@ -108,7 +130,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** sit down and explicitly define what "a good life" looks like, apart from inherited cultural defaults, protect recovery time on the calendar as a non-negotiable commitment, not leftover time, a morning walk before the day's demands start, phone-free family dinner, a day with no to-do list attached
 - **Important concepts:** working to live versus living to work, permission to stop as a stated, explicit act, rest as a physiological requirement rather than something earned after productivity, the gap between cross-sectional national income and national happiness scores
 
-## 10. The Silent Epidemic That's More Dangerous Than Smoking
+## 12. The Silent Epidemic That's More Dangerous Than Smoking
 
 - **Video ID:** `96ss9bcEnlg`
 - **URL:** https://www.youtube.com/watch?v=96ss9bcEnlg
@@ -119,7 +141,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** prioritize quality of contact over size of social network - a few people you're truly at peace with, reduce friction to real contact - phone calls over texts, in-person over phone calls, pair physical movement with social contact (e.g. group fitness) for a combined biological benefit, weekly challenge - call (not text) one person you've been meaning to reconnect with
 - **Important concepts:** social isolation (objective, few contacts) versus loneliness (subjective, felt disconnection) as distinct constructs with different health pathways, a dose-response relationship between cumulative lifetime loneliness and mortality risk, allostatic load as the cumulative biological wear from chronic stress
 
-## 11. The Truth About Getting Fit That No One Sells You
+## 13. The Truth About Getting Fit That No One Sells You
 
 - **Video ID:** `I0DV1jzKIC8`
 - **URL:** https://www.youtube.com/watch?v=I0DV1jzKIC8
@@ -130,7 +152,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** build training around five patterns - squat, hinge/deadlift, push, pull, carry - with isolation work as secondary, target roughly 10 sets per muscle group per week, split across two sessions per muscle group, apply progressive overload primarily by adding weight over time, tracked against the previous week, push working sets close to (not necessarily to) failure, through a full range of motion, walk daily without headphones as unscheduled daily movement, separate from formal cardio
 - **Important concepts:** total weekly training volume per muscle group as the primary driver of results, not program choice, soreness explicitly rejected as a valid measure of workout effectiveness, recovery, not the workout itself, as where muscle is actually built
 
-## 12. These 4 Things Will Define Your Life
+## 14. These 4 Things Will Define Your Life
 
 - **Video ID:** `93Pkb80GO6U`
 - **URL:** https://www.youtube.com/watch?v=93Pkb80GO6U
@@ -141,7 +163,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** practice articulating hard conversations and writing, then review afterward what didn't land and why, lift heavy things and walk daily, consistently, for years, as the entire prescription for physical capacity, use physical friction (an NFC-tag app blocker) to build tolerance for unstimulated silence, follow a genuine question or curiosity down a "rabbit hole" in an area of life that's stalled (finances, health, communication)
 - **Important concepts:** discomfort with silence as usually discomfort with one's own unprocessed thoughts, not boredom, the compounding gap over 20 years between someone who reads/questions/thinks and someone who mostly consumes
 
-## 13. What Actually Extends Your Life (It's Not What's Trending)
+## 15. What Actually Extends Your Life (It's Not What's Trending)
 
 - **Video ID:** `3_BYtYzZknM`
 - **URL:** https://www.youtube.com/watch?v=3_BYtYzZknM
@@ -152,7 +174,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** build VO2 max through zone 2 cardio plus some higher-intensity intervals, in any enjoyable activity, resistance train 30-60 minutes/week minimum for the largest mortality benefit, ~1.5-2 hours/week for physique/functional gains, sleep 7-8 hours with consistent bed/wake times, prioritizing regularity alongside duration, be intentional about who you spend time with and whether those relationships are nourishing, minimize ultra-processed food and eat a Mediterranean-pattern diet (plants, olive oil, fish, nuts, legumes)
 - **Important concepts:** VO2 max as "basically 90% of what we know" about longevity, versus the "extra little bit" trending interventions add, a dose-response relationship for both resistance training and sleep duration - benefits appearing in a specific range, not scaling linearly upward, the distinction between evidence for a supplement's active ingredient and evidence for a specific branded product
 
-## 14. What Is an Elimination Diet? (A Doctor Explains)
+## 16. What Is an Elimination Diet? (A Doctor Explains)
 
 - **Video ID:** `sKC2Mter49o`
 - **URL:** https://www.youtube.com/watch?v=sKC2Mter49o
@@ -163,7 +185,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** eliminate gluten, dairy, eggs, soy, corn, refined sugar, alcohol, and often nightshades for about 3 weeks, reintroduce one food at a time, roughly 3 days apart, tracking symptoms before adding the next, track energy, sleep, digestion, skin, mood, and joints daily in simple notes during both phases
 - **Important concepts:** food sensitivities as often invisible to standard labs, detectable mainly through elimination-then-reintroduction response, reintroduction, not elimination, framed as the phase that actually produces the diagnostic answer
 
-## 15. What Your Feed Is Actually Doing to Your Brain
+## 17. What Your Feed Is Actually Doing to Your Brain
 
 - **Video ID:** `PvZl9gq0w0A`
 - **URL:** https://www.youtube.com/watch?v=PvZl9gq0w0A
@@ -174,7 +196,29 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** use physical friction (an NFC-tag app blocker) rather than relying on willpower or built-in screen time limits, give the nervous system somewhere to return to - 20 minutes daily with no stimulation (a walk without audio, sitting without a screen, journaling), notice whether reaching for the phone is a deliberate choice or an automatic reflex
 - **Important concepts:** the algorithm as engineered for engagement/activation, not preference - outrage and anxiety keep people on-platform longer than satisfaction does, emotional baseline drift - repeated high-arousal content raising the resting level the nervous system treats as normal, making calm feel like something's missing
 
-## 16. Why You Need To Fail
+## 18. Why You Can't Do Hard Things
+
+- **Video ID:** `o_0VVZIFoLw`
+- **URL:** https://www.youtube.com/watch?v=o_0VVZIFoLw
+- **Upload date:** 2026-09-04
+- **Duration:** 17:17
+- **Source file:** `sources/clean/o_0VVZIFoLw.txt`
+- **Main subjects:** effort discounting - the brain treating effort as a genuine, computed cost against reward, via the anterior cingulate cortex, a cited line of research (rodent and human) showing the brain systems for wanting a reward (dopamine/pursuit) and enjoying it (pleasure) are separate systems, three specific mechanisms that shift a person's effort-to-reward "curve" - near-zero-effort reward saturation, sleep debt, and a history of effort that didn't pay off
+- **Practices:** let effort cost something real, on purpose, in a small way most days (walk instead of ride, cook instead of order, read instead of scroll), finish two specific unfinished things rather than leaving many tasks open in the background, set the bar deliberately low enough to clear, then raise it gradually, to make reward "legible" again
+- **Important concepts:** effort as a genuine, computed cost rather than a metaphor, subtracted from perceived reward value, wanting (dopamine/pursuit) and liking (pleasure) as dissociable brain systems
+
+## 19. Why You Feel Flat When Nothing Is Actually Wrong
+
+- **Video ID:** `4-eiU-FlyJ8`
+- **URL:** https://www.youtube.com/watch?v=4-eiU-FlyJ8
+- **Upload date:** 2026-08-16
+- **Duration:** 20:17
+- **Source file:** `sources/clean/4-eiU-FlyJ8.txt`
+- **Main subjects:** a distinction between "solvable problems" (an answer exists outside you, retrievable) and things "that can only be lived" (relationships, mortality, purpose - never finished, only changed shape), phones and modern life framed as filling every unstructured gap with close substitutes for real needs - roughly "80-90% as good in the moment and roughly 0% as good over 10 years", an explicit caution distinguishing this "flatness" from genuine treatable medical causes that must be ruled out first
+- **Practices:** protect the first and last hour of the day from any phone use, keep phones off the table during meals, and eat alone with no screen at all, ask questions that don't have a lookup-able answer, ideally with another person, out loud, join a recurring, embodied, in-person commitment (a regular group, volunteering, a standing gathering) rather than a one-off, find something outside yourself that depends on you, deliberately practice being bored - a drive with no music, a wait with no phone, sitting with no plan
+- **Important concepts:** solvable problems versus things that can only be lived, as a distinction for where attention actually needs to go, digital substitutes for real needs (connection, being known, thinking) framed as close enough not to trigger rejection while quietly hollowing out the original need
+
+## 20. Why You Need To Fail
 
 - **Video ID:** `3CETqBJ_4gk`
 - **URL:** https://www.youtube.com/watch?v=3CETqBJ_4gk
@@ -185,7 +229,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** constrain each new attempt with a hard time cap, money cap, and emotional cap before starting, ship an intentionally rough first version rather than waiting to make it good, after each attempt, explicitly decide to kill it, iterate, or double down — no open-ended lingering
 - **Important concepts:** failing cheaply and early as a way of "buying skills at a discount", the paralysis of "I need the right idea" versus the reality that most ideas are testable for a few hundred dollars in a weekend, success as an exponential payoff on a long, flat stretch of accumulated small failures
 
-## 17. Why Your Drive Is Gone (It's Probably Not Testosterone)
+## 21. Why Your Drive Is Gone (It's Probably Not Testosterone)
 
 - **Video ID:** `BBc4QWydJ74`
 - **URL:** https://www.youtube.com/watch?v=BBc4QWydJ74
@@ -196,7 +240,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Practices:** lift heavy 3-4x/week, walk daily, 30 minutes, with no phone/podcast/scrolling, eat enough, especially protein and quality carbohydrates, rather than under-eating while under stress, commit to one non-negotiable responsibility that has real consequences to someone or something, remove one specific source of "cheap dopamine" rather than attempting a full digital detox
 - **Important concepts:** drive as a signaling problem (cortisol plus dopamine plus purpose) rather than a testosterone deficiency, testosterone framed as responsive to demand rather than causal on its own, purpose defined specifically as direction and chosen obligation, not motivation or passion
 
-## 18. Your Brain Is Lying To You
+## 22. Your Brain Is Lying To You
 
 - **Video ID:** `bgZaTSSYRxA`
 - **URL:** https://www.youtube.com/watch?v=bgZaTSSYRxA
@@ -225,6 +269,10 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **apply progressive overload primarily by adding weight over time, tracked against the previous week** — The Truth About Getting Fit That No One Sells You (`I0DV1jzKIC8`)
 
+**ask questions that don't have a lookup-able answer, ideally with another person, out loud** — Why You Feel Flat When Nothing Is Actually Wrong (`4-eiU-FlyJ8`)
+
+**avoid three specific mistakes - reading on a screen, reading to collect/highlight/track rather than absorb, and counting audiobooks as this specific practice** — Neuroscience Confirms: Why You Can't Read Anymore (`Q9PXpEtvjN4`)
+
 **be intentional about who you spend time with and whether those relationships are nourishing** — What Actually Extends Your Life (It's Not What's Trending) (`3_BYtYzZknM`)
 
 **before adding anything new, ask what can be removed first** — Neuroscience Confirms - Why Doing Less Helps You Achieve More (`iD5zio-GXyA`)
@@ -243,6 +291,12 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **deep work in short 10-30 minute single-task blocks, building duration over time like interval training** — Neuroplasticity Is Working Against You (`hguZ68FPLmM`)
 
+**deliberately practice being bored - a drive with no music, a wait with no phone, sitting with no plan** — Why You Feel Flat When Nothing Is Actually Wrong (`4-eiU-FlyJ8`)
+
+**deliberately spend time alone, unwitnessed, without documenting or performing it** — Aura Is Real. Here's the Science. (`mQOie2JHpPU`)
+
+**do difficult things privately, with no audience and no applause, specifically because no one will see them** — Aura Is Real. Here's the Science. (`mQOie2JHpPU`)
+
 **dual n-back training, 15-20 minutes daily or every other day** — Neuroplasticity Is Working Against You (`hguZ68FPLmM`)
 
 **eat enough, especially protein and quality carbohydrates, rather than under-eating while under stress** — Why Your Drive Is Gone (It's Probably Not Testosterone) (`BBc4QWydJ74`)
@@ -250,6 +304,10 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **eat only foods that existed 100 years ago** — Modern Life Is A Disease (`oufQkXnSkes`)
 
 **eliminate gluten, dairy, eggs, soy, corn, refined sugar, alcohol, and often nightshades for about 3 weeks** — What Is an Elimination Diet? (A Doctor Explains) (`sKC2Mter49o`)
+
+**find something outside yourself that depends on you** — Why You Feel Flat When Nothing Is Actually Wrong (`4-eiU-FlyJ8`)
+
+**finish two specific unfinished things rather than leaving many tasks open in the background** — Why You Can't Do Hard Things (`o_0VVZIFoLw`)
 
 **fixed sleep/wake time, dark cold quiet room, no screens or caffeine late, 7-9 hours** — Modern Life Is A Disease (`oufQkXnSkes`)
 
@@ -259,7 +317,15 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **in-person community and screen-free family time** — Modern Life Is A Disease (`oufQkXnSkes`)
 
+**join a recurring, embodied, in-person commitment (a regular group, volunteering, a standing gathering) rather than a one-off** — Why You Feel Flat When Nothing Is Actually Wrong (`4-eiU-FlyJ8`)
+
 **keep a single simple running to-do list rather than an elaborate tagging/organization system** — The Productivity Apps I Trust With My Life (`cXsZzRRDTCg`)
+
+**keep phones off the table during meals, and eat alone with no screen at all** — Why You Feel Flat When Nothing Is Actually Wrong (`4-eiU-FlyJ8`)
+
+**keep the phone in a different room while reading, not just face-down nearby** — Neuroscience Confirms: Why You Can't Read Anymore (`Q9PXpEtvjN4`)
+
+**let effort cost something real, on purpose, in a small way most days (walk instead of ride, cook instead of order, read instead of scroll)** — Why You Can't Do Hard Things (`o_0VVZIFoLw`)
 
 **lift heavy 3-4x/week** — Why Your Drive Is Gone (It's Probably Not Testosterone) (`BBc4QWydJ74`)
 
@@ -283,6 +349,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **notice which kind of tiredness a hard day produces - clean and restable, or depleted and still anxious** — Hustle Culture Was Wrong (`ctR2CIjOTXo`)
 
+**notice, without needing to stop, the moments you're doing something to be perceived a certain way rather than because you want to** — Aura Is Real. Here's the Science. (`mQOie2JHpPU`)
+
 **one to two daily 30-60 minute "attention recovery windows" with no scrolling, multitasking, or stimulation** — Neuroplasticity Is Working Against You (`hguZ68FPLmM`)
 
 **pair physical movement with social contact (e.g. group fitness) for a combined biological benefit** — The Silent Epidemic That's More Dangerous Than Smoking (`96ss9bcEnlg`)
@@ -303,7 +371,13 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **protect the first 30 minutes after waking from any screen** — Neuroscience Confirms: What Constant Stimulation Did to Your Brain (`ffkUyUHif3Y`)
 
+**protect the first and last hour of the day from any phone use** — Why You Feel Flat When Nothing Is Actually Wrong (`4-eiU-FlyJ8`)
+
 **push working sets close to (not necessarily to) failure, through a full range of motion** — The Truth About Getting Fit That No One Sells You (`I0DV1jzKIC8`)
+
+**read a physical book for a set 10-20 minutes at the same time every night, starting at 10 minutes** — Neuroscience Confirms: Why You Can't Read Anymore (`Q9PXpEtvjN4`)
+
+**read something genuinely enjoyable rather than "productivity" or self-improvement material** — Neuroscience Confirms: Why You Can't Read Anymore (`Q9PXpEtvjN4`)
 
 **reduce friction to real contact - phone calls over texts, in-person over phone calls** — The Silent Epidemic That's More Dangerous Than Smoking (`96ss9bcEnlg`)
 
@@ -312,6 +386,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **remove one specific source of "cheap dopamine" rather than attempting a full digital detox** — Why Your Drive Is Gone (It's Probably Not Testosterone) (`BBc4QWydJ74`)
 
 **resistance train 30-60 minutes/week minimum for the largest mortality benefit, ~1.5-2 hours/week for physique/functional gains** — What Actually Extends Your Life (It's Not What's Trending) (`3_BYtYzZknM`)
+
+**set the bar deliberately low enough to clear, then raise it gradually, to make reward "legible" again** — Why You Can't Do Hard Things (`o_0VVZIFoLw`)
 
 **ship an intentionally rough first version rather than waiting to make it good** — Why You Need To Fail (`3CETqBJ_4gk`)
 
