@@ -44,9 +44,13 @@ kept neutral throughout.
 ## CPR / cardiac arrest — adult
 
 If unresponsive and not breathing normally: call emergency services immediately, start CPR
-immediately, get a defibrillator (AED) if one is nearby. If found collapsed on a bed, current
-guidance is to start CPR **on the bed** rather than delaying to move them to the floor — remove
-pillows, push slightly deeper to compensate for the soft mattress.
+immediately (**30 compressions : 2 breaths**), get a defibrillator (AED) if one is nearby. If found
+collapsed on a bed, current guidance is to start CPR **on the bed** rather than delaying to move
+them to the floor — remove pillows, push slightly deeper to compensate for the soft mattress. With
+helpers present, continue CPR non-stop while a helper retrieves the AED; apply it the moment it
+arrives, without delay. **Adult AED pad placement:** one pad under the right clavicle, one under
+the left armpit, a hand's width apart, on dry bare skin. An AED cannot shock unless it's needed —
+applying one cannot itself cause harm.
 
 ## CPR / cardiac arrest — child
 
@@ -64,6 +68,63 @@ prompt; resume CPR after any shock.
 | Consciousness | Usually conscious, breathing, talking | Unresponsive |
 | Signs | Chest pain, pain in arm/jaw, sweaty, feels sick | Not breathing normally |
 | Do | Sit down, keep calm, call EMS, give their own prescribed medication | Call EMS, start CPR now, get an AED |
+
+## Stroke
+
+Recognize with **FAST**: **F**ace (fallen on one side, smile not symmetrical), **A**rms (can't
+raise both/keep them level), **S**peech (slurred, trouble speaking), **T**ime (call emergency
+services immediately if any of these are present — faster treatment saves more of the brain). Once
+called: help them into the recovery position on their affected side, keep warm and calm, keep
+onlookers away. A temporary version (a TIA/"mini stroke") still needs emergency treatment even if
+symptoms resolve. Don't let a plausible mimic (a previous injury, alcohol/drugs, a diabetic hypo)
+talk you out of calling — when in doubt, call.
+
+## Anaphylaxis / severe allergic reaction
+
+Signs: itchy skin or raised rash, swollen eyes/lips/hands/feet, lightheadedness, wheezing/breathing
+difficulty, abdominal pain, nausea, vomiting, collapse. Call emergency services immediately, then
+use the person's own auto-injector pen (EpiPen or Jext): remove the cap (needle comes from the
+opposite end), press firmly against the outer thigh through clothing until it clicks, **hold for
+10 seconds** (simplifies the EpiPen's official 3s vs. Jext's 10s), then massage the site. A second
+dose can be given after 5 minutes if breathing difficulty continues — always carry two pens.
+
+## Shock (hypovolemic — blood/fluid loss)
+
+Call emergency services immediately. Treat the underlying blood/fluid loss directly (bandage and
+pressure for bleeding). Lay the person down, raise their legs, keep them warm. **Give nothing to
+eat or drink** (risk of vomiting under anesthesia, and digestion diverts blood from the heart,
+lungs, and brain that need it most). Signs: pale/cold/clammy skin, anxiety progressing toward
+unresponsiveness, weak/fatigued limbs, dizziness, blurred vision, nausea, rapid shallow breathing
+("air hunger"). Other shock types exist (cardiogenic, obstructive, distributive — including septic
+and anaphylactic) but aren't detailed in this collection beyond the hypovolemic case.
+
+## Fracture
+
+Immobilize, don't move. A finger: strap to a neighboring finger. An arm at the side: keep still,
+sling if needed. A suspected broken leg, pelvis, or skull: **do not move them at all** — call an
+ambulance. Two sling options for arm injuries: a **support sling** (sprained wrist, broken humerus
+or forearm — tied at the side of the neck, not behind it) or an **elevation sling** (broken
+clavicle or dislocated shoulder — bandage over the top of the arm, tied behind the back). Keep the
+casualty warm while waiting for help.
+
+## Diabetic emergency
+
+If uncertain whether someone is hyper- or hypoglycemic and can't test their blood sugar: **give
+sugar anyway** (full-fat Coke, jam, jelly babies, glucose gel/tablets) and call emergency services —
+sugar won't harm a hyperglycemic person, but could save someone who's hypoglycemic and
+deteriorating fast. Hyperglycemic signs (slower onset): thirst, frequent urination, fruity breath.
+Hypoglycemic signs (fast onset): dizziness, aggression, irritability, sweating. A first aider should
+not perform a blood-sugar test on someone else unless specifically trained/authorized to.
+
+## Heat exhaustion and heat stroke
+
+**Heat exhaustion** (38°C+, hot/sweaty/distressed): move to shade/cool environment, sips of water,
+keep calm. **Heat stroke** (~40°C, thermostat failure — key sign: sweating has *stopped*, skin is
+dry): medical emergency — remove from heat source, call emergency services, cool actively while
+waiting, in order of preference: whole-body cold-water immersion (1–26°C) → cold shower/hose → ice
+packs at neck/armpits/groin wrapped in a towel. A related risk in children: a fever-driven
+**febrile convulsion**, treated the same as any seizure (protect, don't restrain) while also
+working to lower their temperature.
 
 ## Seizure
 

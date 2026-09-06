@@ -18,6 +18,40 @@
       }
     },
     {
+      "id": "rkYJQycMoPM",
+      "kind": "youtube",
+      "title": "Adult CPR & AED Pad Placement – 2025 Update (What’s Changed?",
+      "url": "https://www.youtube.com/watch?v=rkYJQycMoPM",
+      "upload_date": "2026-02-15",
+      "duration_seconds": 179,
+      "duration": "02:59",
+      "word_count": 500,
+      "clean_file": "clean/rkYJQycMoPM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 179
+      }
+    },
+    {
+      "id": "SGIfqYsi8IQ",
+      "kind": "youtube",
+      "title": "Anaphylaxis Explained: Signs, Symptoms & EpiPen Use",
+      "url": "https://www.youtube.com/watch?v=SGIfqYsi8IQ",
+      "upload_date": "2025-07-28",
+      "duration_seconds": 302,
+      "duration": "05:02",
+      "word_count": 796,
+      "clean_file": "clean/SGIfqYsi8IQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 302
+      }
+    },
+    {
       "id": "AmXN6YjxtII",
       "kind": "youtube",
       "title": "Child Collapses & Not Breathing — What To Do (CPR + AED)",
@@ -52,6 +86,23 @@
       }
     },
     {
+      "id": "mlWdZtWAIVU",
+      "kind": "youtube",
+      "title": "Diabetes |  Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=mlWdZtWAIVU",
+      "upload_date": "2023-07-20",
+      "duration_seconds": 292,
+      "duration": "04:52",
+      "word_count": 846,
+      "clean_file": "clean/mlWdZtWAIVU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 292
+      }
+    },
+    {
       "id": "daEErJU36-4",
       "kind": "youtube",
       "title": "Heart Attack vs Cardiac Arrest: The Difference Could Save a Life",
@@ -66,6 +117,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 60
+      }
+    },
+    {
+      "id": "Mzf-sslc2Zo",
+      "kind": "youtube",
+      "title": "Heat Exhaustion and Heat Stroke|  Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=Mzf-sslc2Zo",
+      "upload_date": "2022-07-14",
+      "duration_seconds": 289,
+      "duration": "04:49",
+      "word_count": 855,
+      "clean_file": "clean/Mzf-sslc2Zo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 289
       }
     },
     {
@@ -100,6 +168,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 385
+      }
+    },
+    {
+      "id": "gL2iE0wYm8w",
+      "kind": "youtube",
+      "title": "How to help with a fracture |  Adult First Aid  | EMT First Aid Training",
+      "url": "https://www.youtube.com/watch?v=gL2iE0wYm8w",
+      "upload_date": "2023-07-13",
+      "duration_seconds": 382,
+      "duration": "06:22",
+      "word_count": 1241,
+      "clean_file": "clean/gL2iE0wYm8w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 382
       }
     },
     {
@@ -185,6 +270,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 619
+      }
+    },
+    {
+      "id": "JetIdXD7174",
+      "kind": "youtube",
+      "title": "Shock - Hypovolemic Shock|  Adult First Aid  | EMT First Aid Training",
+      "url": "https://www.youtube.com/watch?v=JetIdXD7174",
+      "upload_date": "2022-09-08",
+      "duration_seconds": 387,
+      "duration": "06:27",
+      "word_count": 1099,
+      "clean_file": "clean/JetIdXD7174.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 387
+      }
+    },
+    {
+      "id": "UuQFAQAaOQo",
+      "kind": "youtube",
+      "title": "Stroke |  Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=UuQFAQAaOQo",
+      "upload_date": "2023-03-02",
+      "duration_seconds": 435,
+      "duration": "07:15",
+      "word_count": 1183,
+      "clean_file": "clean/UuQFAQAaOQo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 435
       }
     },
     {
