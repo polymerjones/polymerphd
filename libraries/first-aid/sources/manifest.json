@@ -52,6 +52,40 @@
       }
     },
     {
+      "id": "pu0feSX4qh8",
+      "kind": "youtube",
+      "title": "Animal Bites and Insects",
+      "url": "https://www.youtube.com/watch?v=pu0feSX4qh8",
+      "upload_date": "2025-07-24",
+      "duration_seconds": 416,
+      "duration": "06:56",
+      "word_count": 1337,
+      "clean_file": "clean/pu0feSX4qh8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 416
+      }
+    },
+    {
+      "id": "tFwJUPSU6Fw",
+      "kind": "youtube",
+      "title": "Bites and stings from the sea|  Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=tFwJUPSU6Fw",
+      "upload_date": "2022-09-01",
+      "duration_seconds": 284,
+      "duration": "04:44",
+      "word_count": 762,
+      "clean_file": "clean/tFwJUPSU6Fw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 284
+      }
+    },
+    {
       "id": "AmXN6YjxtII",
       "kind": "youtube",
       "title": "Child Collapses & Not Breathing — What To Do (CPR + AED)",
@@ -103,6 +137,23 @@
       }
     },
     {
+      "id": "ezLmv6ksiAA",
+      "kind": "youtube",
+      "title": "Electrocution |  Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=ezLmv6ksiAA",
+      "upload_date": "2023-04-20",
+      "duration_seconds": 275,
+      "duration": "04:35",
+      "word_count": 770,
+      "clean_file": "clean/ezLmv6ksiAA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 275
+      }
+    },
+    {
       "id": "daEErJU36-4",
       "kind": "youtube",
       "title": "Heart Attack vs Cardiac Arrest: The Difference Could Save a Life",
@@ -151,6 +202,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 243
+      }
+    },
+    {
+      "id": "ohKowP1Posc",
+      "kind": "youtube",
+      "title": "How to help Concussion in Sport |  Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=ohKowP1Posc",
+      "upload_date": "2023-06-08",
+      "duration_seconds": 627,
+      "duration": "10:27",
+      "word_count": 1859,
+      "clean_file": "clean/ohKowP1Posc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 627
       }
     },
     {
@@ -239,6 +307,74 @@
       }
     },
     {
+      "id": "WBNLB4SUqZk",
+      "kind": "youtube",
+      "title": "How to treat someone having an Asthma attack |  Adult First Aid  | EMT First Aid Training",
+      "url": "https://www.youtube.com/watch?v=WBNLB4SUqZk",
+      "upload_date": "2022-03-10",
+      "duration_seconds": 368,
+      "duration": "06:08",
+      "word_count": 1070,
+      "clean_file": "clean/WBNLB4SUqZk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 368
+      }
+    },
+    {
+      "id": "_doDuU-FzTY",
+      "kind": "youtube",
+      "title": "Hypothermia |  Adult First Aid  | EMT First Aid Training",
+      "url": "https://www.youtube.com/watch?v=_doDuU-FzTY",
+      "upload_date": "2022-11-17",
+      "duration_seconds": 212,
+      "duration": "03:32",
+      "word_count": 599,
+      "clean_file": "clean/_doDuU-FzTY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 212
+      }
+    },
+    {
+      "id": "5Ar9386jn_E",
+      "kind": "youtube",
+      "title": "Insect Bites and Stings |  Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=5Ar9386jn_E",
+      "upload_date": "2022-08-18",
+      "duration_seconds": 416,
+      "duration": "06:56",
+      "word_count": 1232,
+      "clean_file": "clean/5Ar9386jn_E.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 416
+      }
+    },
+    {
+      "id": "w5eqBMoTGcE",
+      "kind": "youtube",
+      "title": "Poisoning |  Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=w5eqBMoTGcE",
+      "upload_date": "2022-11-03",
+      "duration_seconds": 500,
+      "duration": "08:20",
+      "word_count": 1438,
+      "clean_file": "clean/w5eqBMoTGcE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 500
+      }
+    },
+    {
       "id": "MH5zM1q0RlU",
       "kind": "youtube",
       "title": "Reach, Throw, Don't Go — what to do if someone's struggling in water",
@@ -290,6 +426,40 @@
       }
     },
     {
+      "id": "NMQo-0kbX84",
+      "kind": "youtube",
+      "title": "Snake Bites |  Health and Safety   | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=NMQo-0kbX84",
+      "upload_date": "2022-06-02",
+      "duration_seconds": 622,
+      "duration": "10:22",
+      "word_count": 1790,
+      "clean_file": "clean/NMQo-0kbX84.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 622
+      }
+    },
+    {
+      "id": "U-NimqP2Ev4",
+      "kind": "youtube",
+      "title": "Sprains and Strains |  Adult First Aid  | EMT First Aid Training",
+      "url": "https://www.youtube.com/watch?v=U-NimqP2Ev4",
+      "upload_date": "2023-04-13",
+      "duration_seconds": 272,
+      "duration": "04:32",
+      "word_count": 829,
+      "clean_file": "clean/U-NimqP2Ev4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 272
+      }
+    },
+    {
       "id": "UuQFAQAaOQo",
       "kind": "youtube",
       "title": "Stroke |  Adult First Aid  | EMT First Aid Training |",
@@ -338,6 +508,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 427
+      }
+    },
+    {
+      "id": "5bzqZ7ajeCQ",
+      "kind": "youtube",
+      "title": "What is a SPINAL injury, How do you get a SPINAL injury and HOW to treat a SPINAL injury.",
+      "url": "https://www.youtube.com/watch?v=5bzqZ7ajeCQ",
+      "upload_date": "2021-09-08",
+      "duration_seconds": 280,
+      "duration": "04:40",
+      "word_count": 872,
+      "clean_file": "clean/5bzqZ7ajeCQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 280
+      }
+    },
+    {
+      "id": "bV1WWhv-_Ag",
+      "kind": "youtube",
+      "title": "What is ASTHMA and how to treat it as a FIRST AIDER",
+      "url": "https://www.youtube.com/watch?v=bV1WWhv-_Ag",
+      "upload_date": "2021-08-29",
+      "duration_seconds": 282,
+      "duration": "04:42",
+      "word_count": 795,
+      "clean_file": "clean/bV1WWhv-_Ag.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 282
       }
     },
     {

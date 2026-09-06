@@ -69,6 +69,108 @@
       }
     },
     {
+      "id": "YPKG9b5ahmA",
+      "kind": "youtube",
+      "title": "Natural Movement & Parkour with Loren Fjord",
+      "url": "https://www.youtube.com/watch?v=YPKG9b5ahmA",
+      "upload_date": "2026-04-30",
+      "duration_seconds": 2144,
+      "duration": "35:44",
+      "word_count": 7657,
+      "clean_file": "clean/YPKG9b5ahmA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2144
+      }
+    },
+    {
+      "id": "firq2GnTLjc",
+      "kind": "youtube",
+      "title": "Redefining Rehabilitation Through Natural Movement 🌿",
+      "url": "https://www.youtube.com/watch?v=firq2GnTLjc",
+      "upload_date": "2025-08-05",
+      "duration_seconds": 2378,
+      "duration": "39:38",
+      "word_count": 7378,
+      "clean_file": "clean/firq2GnTLjc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2378
+      }
+    },
+    {
+      "id": "5Kdv4KVsxFE",
+      "kind": "youtube",
+      "title": "Restoration Series 1 - Primary",
+      "url": "https://www.youtube.com/watch?v=5Kdv4KVsxFE",
+      "upload_date": "2017-07-13",
+      "duration_seconds": 1398,
+      "duration": "23:18",
+      "word_count": 3700,
+      "clean_file": "clean/5Kdv4KVsxFE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1398
+      }
+    },
+    {
+      "id": "5uQ0nN7GMcY",
+      "kind": "youtube",
+      "title": "Restoration Series 2 - Renewal",
+      "url": "https://www.youtube.com/watch?v=5uQ0nN7GMcY",
+      "upload_date": "2021-01-21",
+      "duration_seconds": 716,
+      "duration": "11:56",
+      "word_count": 1914,
+      "clean_file": "clean/5uQ0nN7GMcY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 716
+      }
+    },
+    {
+      "id": "Zn5MFmowMvE",
+      "kind": "youtube",
+      "title": "Shaping the Future of MovNat Medical 2.0",
+      "url": "https://www.youtube.com/watch?v=Zn5MFmowMvE",
+      "upload_date": "2025-08-05",
+      "duration_seconds": 1454,
+      "duration": "24:14",
+      "word_count": 4901,
+      "clean_file": "clean/Zn5MFmowMvE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1454
+      }
+    },
+    {
+      "id": "RadG02NFKU0",
+      "kind": "youtube",
+      "title": "She Coaches 16 People at Once and Nobody Gets Left Behind",
+      "url": "https://www.youtube.com/watch?v=RadG02NFKU0",
+      "upload_date": "2026-05-26",
+      "duration_seconds": 1498,
+      "duration": "24:58",
+      "word_count": 5235,
+      "clean_file": "clean/RadG02NFKU0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1498
+      }
+    },
+    {
       "id": "aUVVDyJUDdw",
       "kind": "youtube",
       "title": "The Movement Code Hidden in Your DNA – With David Weck",
