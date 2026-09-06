@@ -1,0 +1,52 @@
+{
+  "slug": "first-aid",
+  "title": "First Aid",
+  "subtitle": "What to do in the first few minutes of a medical emergency",
+  "lede": "A reference to {videos} sources on immediate first-aid response — the first few minutes before or instead of professional help.",
+  "about_paragraphs": [
+    "A reference built from {videos} sources on basic emergency first aid — recovery position, choking, drowning, bleeding, and other rescue basics — synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a specific point in a specific source — a video timestamp. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["subjects", "emergencies", "procedures", "concepts"],
+  "primary_facet": "emergencies",
+  "controlled_facets": {},
+  "universal_sections": [
+    "Central claim",
+    "Symptoms and body signals addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+
+  "glossary_file": "07_PLAIN_ENGLISH_GLOSSARY.md",
+  "curated_facts_file": null,
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "subjects": "Main subjects",
+    "emergencies": "Emergencies",
+    "procedures": "Procedures",
+    "concepts": "Important concepts"
+  },
+  "catalog_description": "Every transcript ingested into this knowledge package, with the subjects, emergencies, procedures, and concepts each one covers.",
+  "catalog_unit_label": "Videos",
+  "catalog_id_label": "Video ID",
+
+  "attribution": {
+    "style": "youtube_channel_partial",
+    "name": "EMT First Aid (Emily Mottershead)",
+    "url": "https://www.youtube.com/channel/UCVA0o1-mwzihyaAwQgdn4Lg"
+  },
+
+  "custom_gpt": {
+    "enabled": true,
+    "instructions_file": "PASTE_INTO_GPT_INSTRUCTIONS.txt",
+    "file_limit": 20
+  },
+
+  "derived_practice_facets": false
+}

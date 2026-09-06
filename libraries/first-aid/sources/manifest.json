@@ -1,0 +1,107 @@
+{
+  "sources": [
+    {
+      "id": "AmXN6YjxtII",
+      "kind": "youtube",
+      "title": "Child Collapses & Not Breathing — What To Do (CPR + AED)",
+      "url": "https://www.youtube.com/watch?v=AmXN6YjxtII",
+      "upload_date": "2026-06-23",
+      "duration_seconds": 68,
+      "duration": "01:08",
+      "word_count": 219,
+      "clean_file": "clean/AmXN6YjxtII.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 68
+      }
+    },
+    {
+      "id": "dLz7tn-bR9w",
+      "kind": "youtube",
+      "title": "CPR in a Bed? Yes – New CPR Guidelines Explained!",
+      "url": "https://www.youtube.com/watch?v=dLz7tn-bR9w",
+      "upload_date": "2026-07-19",
+      "duration_seconds": 47,
+      "duration": "00:47",
+      "word_count": 145,
+      "clean_file": "clean/dLz7tn-bR9w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 47
+      }
+    },
+    {
+      "id": "daEErJU36-4",
+      "kind": "youtube",
+      "title": "Heart Attack vs Cardiac Arrest: The Difference Could Save a Life",
+      "url": "https://www.youtube.com/watch?v=daEErJU36-4",
+      "upload_date": "2026-07-14",
+      "duration_seconds": 60,
+      "duration": "01:00",
+      "word_count": 180,
+      "clean_file": "clean/daEErJU36-4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 60
+      }
+    },
+    {
+      "id": "-q_O1aLYXlw",
+      "kind": "youtube",
+      "title": "How to Stop a Nosebleed (The Right Way) 🩸 #firstaid",
+      "url": "https://www.youtube.com/watch?v=-q_O1aLYXlw",
+      "upload_date": "2026-07-28",
+      "duration_seconds": 66,
+      "duration": "01:06",
+      "word_count": 237,
+      "clean_file": "clean/-q_O1aLYXlw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 66
+      }
+    },
+    {
+      "id": "MH5zM1q0RlU",
+      "kind": "youtube",
+      "title": "Reach, Throw, Don't Go — what to do if someone's struggling in water",
+      "url": "https://www.youtube.com/watch?v=MH5zM1q0RlU",
+      "upload_date": "2026-08-11",
+      "duration_seconds": 56,
+      "duration": "00:56",
+      "word_count": 162,
+      "clean_file": "clean/MH5zM1q0RlU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 56
+      }
+    },
+    {
+      "id": "nmOqZM-xJzA",
+      "kind": "youtube",
+      "title": "The #1 First Aid Skill Isn’t CPR 🚨",
+      "url": "https://www.youtube.com/watch?v=nmOqZM-xJzA",
+      "upload_date": "2026-06-21",
+      "duration_seconds": 40,
+      "duration": "00:40",
+      "word_count": 98,
+      "clean_file": "clean/nmOqZM-xJzA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 40
+      }
+    }
+  ],
+  "skipped": []
+}

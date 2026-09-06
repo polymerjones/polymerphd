@@ -1,0 +1,56 @@
+{
+  "sources": [
+    {
+      "id": "ljw0HURuuLM",
+      "kind": "youtube",
+      "title": "The Turkish Get-Up Explained | Movement, Constraints, and the Real Purpose of Training",
+      "url": "https://www.youtube.com/watch?v=ljw0HURuuLM",
+      "upload_date": "2026-05-06",
+      "duration_seconds": 2234,
+      "duration": "37:14",
+      "word_count": 8322,
+      "clean_file": "clean/ljw0HURuuLM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2234
+      }
+    },
+    {
+      "id": "EdGeF6MJNeI",
+      "kind": "youtube",
+      "title": "WHAT NATURAL MOVEMENT REALLY BUILDS By Gaspard Nouaille",
+      "url": "https://www.youtube.com/watch?v=EdGeF6MJNeI",
+      "upload_date": "2026-08-17",
+      "duration_seconds": 51,
+      "duration": "00:51",
+      "word_count": 89,
+      "clean_file": "clean/EdGeF6MJNeI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 51
+      }
+    },
+    {
+      "id": "NlQE1zMJwns",
+      "kind": "youtube",
+      "title": "WHAT TRADITIONAL SPORTS COULDN'T TEACH ME",
+      "url": "https://www.youtube.com/watch?v=NlQE1zMJwns",
+      "upload_date": "2026-06-09",
+      "duration_seconds": 1166,
+      "duration": "19:26",
+      "word_count": 3936,
+      "clean_file": "clean/NlQE1zMJwns.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1166
+      }
+    }
+  ],
+  "skipped": []
+}
