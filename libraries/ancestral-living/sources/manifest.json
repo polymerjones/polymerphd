@@ -1,6 +1,125 @@
 {
   "sources": [
     {
+      "id": "NfQiJDIXryM",
+      "kind": "youtube",
+      "title": "3 Natural Movements for Spinal Mobility",
+      "url": "https://www.youtube.com/watch?v=NfQiJDIXryM",
+      "upload_date": "2022-09-27",
+      "duration_seconds": 984,
+      "duration": "16:24",
+      "word_count": 2536,
+      "clean_file": "clean/NfQiJDIXryM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 984
+      }
+    },
+    {
+      "id": "t9qdRFCV65U",
+      "kind": "youtube",
+      "title": "8 Years in the Wilderness with Miriam Lancewood, UYL Podcast Episode",
+      "url": "https://www.youtube.com/watch?v=t9qdRFCV65U",
+      "upload_date": "2019-07-01",
+      "duration_seconds": 3886,
+      "duration": "64:46",
+      "word_count": 10495,
+      "clean_file": "clean/t9qdRFCV65U.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3886
+      }
+    },
+    {
+      "id": "sb09PkrMhJc",
+      "kind": "youtube",
+      "title": "Barefoot vs. minimalist shoes: does it really change running mechanics?",
+      "url": "https://www.youtube.com/watch?v=sb09PkrMhJc",
+      "upload_date": "2025-10-02",
+      "duration_seconds": 838,
+      "duration": "13:58",
+      "word_count": 2895,
+      "clean_file": "clean/sb09PkrMhJc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 838
+      }
+    },
+    {
+      "id": "CIShtax3_nI",
+      "kind": "youtube",
+      "title": "Behind The Scenes with Erwan Le Corre - \"The Workout The World Forgot\" - 15 Years of MovNat",
+      "url": "https://www.youtube.com/watch?v=CIShtax3_nI",
+      "upload_date": "2023-11-22",
+      "duration_seconds": 879,
+      "duration": "14:39",
+      "word_count": 2120,
+      "clean_file": "clean/CIShtax3_nI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 879
+      }
+    },
+    {
+      "id": "aUVVDyJUDdw",
+      "kind": "youtube",
+      "title": "The Movement Code Hidden in Your DNA – With David Weck",
+      "url": "https://www.youtube.com/watch?v=aUVVDyJUDdw",
+      "upload_date": "2025-03-21",
+      "duration_seconds": 6834,
+      "duration": "113:54",
+      "word_count": 19146,
+      "clean_file": "clean/aUVVDyJUDdw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 6834
+      }
+    },
+    {
+      "id": "EmN2ON_VIXY",
+      "kind": "youtube",
+      "title": "The Next Evolution of MovNat: A Conversation with Erwan Le Corre & Brian Betancourt",
+      "url": "https://www.youtube.com/watch?v=EmN2ON_VIXY",
+      "upload_date": "2025-06-25",
+      "duration_seconds": 1446,
+      "duration": "24:06",
+      "word_count": 4394,
+      "clean_file": "clean/EmN2ON_VIXY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1446
+      }
+    },
+    {
+      "id": "9PcHMzl45rg",
+      "kind": "youtube",
+      "title": "The Power of the Get-Up",
+      "url": "https://www.youtube.com/watch?v=9PcHMzl45rg",
+      "upload_date": "2025-08-21",
+      "duration_seconds": 951,
+      "duration": "15:51",
+      "word_count": 3252,
+      "clean_file": "clean/9PcHMzl45rg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 951
+      }
+    },
+    {
       "id": "ljw0HURuuLM",
       "kind": "youtube",
       "title": "The Turkish Get-Up Explained | Movement, Constraints, and the Real Purpose of Training",
@@ -15,6 +134,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 2234
+      }
+    },
+    {
+      "id": "8dF9WQwEK0E",
+      "kind": "youtube",
+      "title": "What does it mean to truly move like a human? 🤔",
+      "url": "https://www.youtube.com/watch?v=8dF9WQwEK0E",
+      "upload_date": "2025-09-02",
+      "duration_seconds": 4253,
+      "duration": "70:53",
+      "word_count": 15112,
+      "clean_file": "clean/8dF9WQwEK0E.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 4253
       }
     },
     {

@@ -1,6 +1,23 @@
 {
   "sources": [
     {
+      "id": "FbvdPMM1KW8",
+      "kind": "youtube",
+      "title": "Adult Choking 2025 Update – First Aid Techniques Explained",
+      "url": "https://www.youtube.com/watch?v=FbvdPMM1KW8",
+      "upload_date": "2026-02-15",
+      "duration_seconds": 338,
+      "duration": "05:38",
+      "word_count": 1179,
+      "clean_file": "clean/FbvdPMM1KW8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 338
+      }
+    },
+    {
       "id": "AmXN6YjxtII",
       "kind": "youtube",
       "title": "Child Collapses & Not Breathing — What To Do (CPR + AED)",
@@ -52,6 +69,40 @@
       }
     },
     {
+      "id": "DVjMfc8dHf4",
+      "kind": "youtube",
+      "title": "How to help a baby choking |  Child and Baby First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=DVjMfc8dHf4",
+      "upload_date": "2022-02-17",
+      "duration_seconds": 243,
+      "duration": "04:03",
+      "word_count": 634,
+      "clean_file": "clean/DVjMfc8dHf4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 243
+      }
+    },
+    {
+      "id": "ba5_cInKwr0",
+      "kind": "youtube",
+      "title": "How to help someone having a seizure |  Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=ba5_cInKwr0",
+      "upload_date": "2023-06-29",
+      "duration_seconds": 385,
+      "duration": "06:25",
+      "word_count": 1123,
+      "clean_file": "clean/ba5_cInKwr0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 385
+      }
+    },
+    {
       "id": "-q_O1aLYXlw",
       "kind": "youtube",
       "title": "How to Stop a Nosebleed (The Right Way) 🩸 #firstaid",
@@ -66,6 +117,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 66
+      }
+    },
+    {
+      "id": "cdNHeYQ2Knc",
+      "kind": "youtube",
+      "title": "How to treat a bleed |  Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=cdNHeYQ2Knc",
+      "upload_date": "2022-09-15",
+      "duration_seconds": 271,
+      "duration": "04:31",
+      "word_count": 934,
+      "clean_file": "clean/cdNHeYQ2Knc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 271
+      }
+    },
+    {
+      "id": "nrUJU3EhENY",
+      "kind": "youtube",
+      "title": "How to treat Burns |  Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=nrUJU3EhENY",
+      "upload_date": "2022-08-25",
+      "duration_seconds": 546,
+      "duration": "09:06",
+      "word_count": 1748,
+      "clean_file": "clean/nrUJU3EhENY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 546
       }
     },
     {
@@ -86,6 +171,23 @@
       }
     },
     {
+      "id": "bpA6uWkeuPA",
+      "kind": "youtube",
+      "title": "Recovery Position for Children and Infants |  Child and Baby First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=bpA6uWkeuPA",
+      "upload_date": "2022-06-16",
+      "duration_seconds": 619,
+      "duration": "10:19",
+      "word_count": 1966,
+      "clean_file": "clean/bpA6uWkeuPA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 619
+      }
+    },
+    {
       "id": "nmOqZM-xJzA",
       "kind": "youtube",
       "title": "The #1 First Aid Skill Isn’t CPR 🚨",
@@ -100,6 +202,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 40
+      }
+    },
+    {
+      "id": "ccDPTLFu9Po",
+      "kind": "youtube",
+      "title": "Unconscious Adult 2025 Update – Primary & Secondary Survey + Recovery Position",
+      "url": "https://www.youtube.com/watch?v=ccDPTLFu9Po",
+      "upload_date": "2026-02-15",
+      "duration_seconds": 427,
+      "duration": "07:07",
+      "word_count": 1346,
+      "clean_file": "clean/ccDPTLFu9Po.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 427
+      }
+    },
+    {
+      "id": "2B9qqSP8nnc",
+      "kind": "youtube",
+      "title": "What to put inside your first aid kit  |  HSE BS 8599  |  EMT First Aid Training",
+      "url": "https://www.youtube.com/watch?v=2B9qqSP8nnc",
+      "upload_date": "2022-02-10",
+      "duration_seconds": 456,
+      "duration": "07:36",
+      "word_count": 1287,
+      "clean_file": "clean/2B9qqSP8nnc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 456
       }
     }
   ],
