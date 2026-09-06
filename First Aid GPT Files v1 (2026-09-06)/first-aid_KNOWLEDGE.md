@@ -1,0 +1,182 @@
+# First Aid
+
+## From 01_CORE_PRINCIPLES.md
+
+# 01 — Core Principles
+
+Five patterns recur across this collection often enough to treat as load-bearing, even though the
+source channel never states them as a single list. Read these first — they're the lens the rest of
+this package applies to any specific emergency.
+
+---
+
+## 1. Recognizing and escalating early matters more than any single technique
+
+The channel's own stated ranking puts recognition and calling for help ahead of hands-on skill:
+"the most important first aid skill... is recognizing when something is seriously wrong, and
+calling the emergency medical services early." Every emergency covered in this collection repeats
+some version of the same instruction — call before, or while, treating, not after — and several
+notes name specific numeric escalation triggers rather than leaving "call for help" as vague advice
+(a seizure lasting over five minutes, bleeding that hasn't stopped after 30 minutes, a burn larger
+than about 1% of body surface). Where a specific trigger exists, it's worth remembering as a
+concrete threshold, not just a general sense that "this seems bad."
+
+## 2. Protect the airway and don't restrain — most techniques serve one of those two goals
+
+Across recovery position, choking, seizures, and CPR, the recurring physical objective is keeping
+an airway open or clear, not immobilizing the person. The recovery position exists specifically so
+vomit or blood can drain rather than block the airway. Seizure first aid is explicit that
+restraining someone is actively wrong — protect them from injury, don't hold them down. Choking
+response (back slaps, thrusts) exists to physically clear an obstruction rather than to keep the
+person still.
+
+## 3. Technique is adapted by age and anatomy, not swapped for a different goal
+
+The same underlying goal — an open airway, a cleared obstruction — is achieved differently for an
+adult, a child, and an infant, because infant anatomy behaves oppositely to adult anatomy in at
+least one specific way: tilting an infant's head back (which opens an adult's airway) closes an
+infant's. This collection's infant-specific notes exist because applying the adult technique
+unmodified would be actively counterproductive, not just less optimal.
+
+## 4. Don't do things that make monitoring or later treatment harder
+
+Several notes name a "don't" that isn't about the immediate injury but about not creating a second
+problem: don't wrap a burn tightly (it will need to be removed, causing more damage, and tight
+cling film loses its "doesn't stick" benefit); don't put anything in a seizing person's mouth;
+don't layer a fresh dressing over a soaked one; don't apply creams, sprays, or medication a first
+aider isn't positioned to safely administer. The shared theme is that the first aider's job is
+narrower than it might feel in the moment — stabilize and enable further care, don't try to fully
+resolve the underlying problem.
+
+## 5. When a source hedges, that hedge is part of the information
+
+This collection includes at least one explicit warning against over-generalizing (seizures: "never
+think there's a normal seizure") and at least one place where the same video gives two slightly
+different numbers for the same fact within minutes of each other (infant breathing rate). Those
+aren't treated as errors to silently correct — they're preserved as-stated, because a first aider
+relying on this material should know where the source itself is uncertain or approximate, rather
+than being handed false precision.
+
+---
+
+## From 02_EMERGENCY_QUICK_REFERENCE.md
+
+# 02 — Emergency Quick Reference
+
+A by-emergency lookup pulling together every procedure this collection covers. This is a summary
+for fast orientation — the individual notes carry the full detail, direct quotation, and
+timestamps this file leaves out. **This collection is not a substitute for emergency medical
+services or first-aid certification training.** When in doubt, or for anything not covered here,
+call emergency services.
+
+---
+
+## Unresponsive but breathing (adult)
+
+1. Check the area for danger, check for a response, shout for help / call emergency services.
+2. Open the airway (head-tilt chin-lift for an adult or child — **not** for an infant, see below).
+3. Look, listen, feel for normal breathing for 10 seconds.
+4. If breathing normally, do a head-to-toe secondary survey for injury.
+5. If no injury found, place in the **recovery position**: link the far hand under the near cheek,
+   bend the near knee, roll toward you using the knee, keep the knee at 90° so they stay on their
+   side, re-open the airway.
+6. If a fracture prevents the recovery position, keep them on their back and hold the airway open
+   manually instead.
+
+## Unresponsive but breathing (infant, 0–1)
+
+Same sequence, with two changes: keep the airway **neutral** (not tilted either direction — tilting
+either way closes an infant's airway), and use a cradle hold instead of a floor roll: supporting
+the jaw to keep the airway neutral, head slightly lower than the bottom so vomit drains away.
+
+## Choking — adult or child
+
+- **Partial obstruction** (coughing, making noise): encourage coughing, stay calm, don't intervene
+  physically.
+- **Complete obstruction** (silent, can't breathe): call emergency services, then alternate up to 5
+  back slaps (heel of hand, between shoulder blades) with up to 5 abdominal thrusts (thumb-in-fist
+  under the ribcage, above the belly), repeating until it clears or they become unconscious. If
+  unconscious: check breathing, ensure ambulance is called, begin CPR.
+
+## Choking — infant (0–1)
+
+Same back-slap/thrust alternation, but thrusts go **in line with the nipples** (a slower, harder
+push than a CPR compression, not the same motion) rather than in the abdomen, and the airway is
+kept neutral throughout.
+
+## CPR / cardiac arrest — adult
+
+If unresponsive and not breathing normally: call emergency services immediately, start CPR
+immediately, get a defibrillator (AED) if one is nearby. If found collapsed on a bed, current
+guidance is to start CPR **on the bed** rather than delaying to move them to the floor — remove
+pillows, push slightly deeper to compensate for the soft mattress.
+
+## CPR / cardiac arrest — child
+
+Check breathing for up to 10 seconds; if not breathing, give 5 rescue breaths, then compressions
+with **one hand** to **one-third body depth**, in a **15 compressions : 2 breaths** cycle, until an
+AED arrives. AED: pediatric pads if available, otherwise adult pads (placement: one to the left of
+the chest midline, one directly opposite on the back). Follow the shock-advised/no-shock-advised
+prompt; resume CPR after any shock.
+
+## Heart attack vs. cardiac arrest — telling them apart
+
+| | Heart attack | Cardiac arrest |
+|---|---|---|
+| What's happening | Circulation problem (blocked artery) | Electrical problem (heart stops pumping) |
+| Consciousness | Usually conscious, breathing, talking | Unresponsive |
+| Signs | Chest pain, pain in arm/jaw, sweaty, feels sick | Not breathing normally |
+| Do | Sit down, keep calm, call EMS, give their own prescribed medication | Call EMS, start CPR now, get an AED |
+
+## Seizure
+
+Stay calm. Protect from injury (clear the area, cushion the head — never hold it). **Never
+restrain. Never put anything in the mouth. Don't move them unless they're in danger. Don't try to
+bring them around. Don't give food or drink until fully recovered.** Time the seizure. Once it
+ends: check breathing, place in recovery position, stay with them until fully conscious. Call an
+ambulance if: it's a first seizure or history is unknown, it lasts over 5 minutes, a second seizure
+follows without regaining consciousness in between, or breathing stops (begin CPR).
+
+## Bleeding / cuts
+
+Clean if there's time — but if bleeding is heavy, skip cleaning and go straight to pressure (delay
+risks hypovolemic shock). Pressure, then a dressing sized to the wound. If blood soaks through,
+remove and re-press rather than layering a new dressing on top. **Palm wound across the hand:**
+pack with gauze, have them make a fist (closes that orientation of wound — don't do this for a
+wound running up-and-down the palm). **Head wound:** wrap at the base of the skull, not higher.
+
+## Nosebleed
+
+Lean **forward**, not back (tilting back sends blood down the throat). Pinch the soft part of the
+nose (below the bony bridge) with firm, continuous pressure for 10 minutes without checking. Repeat
+for another 10 if still bleeding. Seek medical help if it hasn't stopped after 30 minutes, is
+heavy, or followed a head injury.
+
+## Burns
+
+Cool under running water for **at least 20 minutes**, regardless of cause (fire, hot surfaces —
+including hot sand — sun, chemicals, electricity). If skin has been removed, protect afterward with
+cling film loosely layered (not tight) over the area. **Never**: creams, ointments, ice, butter,
+touching the burn, bursting a blister, or removing stuck clothing. Seek medical help for a burn on
+a child/baby, one larger than about 1% of body surface (roughly a palm), a full-thickness burn, one
+that goes all the way around a limb, or any burn on the head, hands, feet, or genitals.
+
+## Drowning / water rescue
+
+**Reach, throw, don't go.** Don't enter the water after someone struggling — call emergency
+services (coast guard if coastal, fire rescue if inland), tell them to float (head back, ears in
+water, relax), then reach with something (towel, branch, rope) or throw something buoyant, staying
+low and keeping your weight back. If you fall in yourself: float, don't fight the cold-water-shock
+urge to thrash.
+
+## Building a first aid kit
+
+Base contents on an actual needs assessment for the setting, not a fixed list (BS 8599 is a UK
+reference standard, not a legal requirement). Typical contents: disposable ice packs; sterile
+dressings in small/medium/large; scissors; micropore tape; triangular bandages; hypoallergenic
+plasters; cleaning wipes; latex-free gloves and (at least two, for two helpers) face shields; foil
+blankets (for keeping an *already-warm* casualty warm, not for warming a cold one); general PPE.
+Consider adding: safety pins, sterile water/saline, tweezers, a guidance leaflet, a pocket mask,
+compression bandages. **Never include** "potions, lotions, and sprays" — painkillers, medicated
+creams, or sprays a first aider isn't qualified to administer.
+
