@@ -69,6 +69,23 @@
       }
     },
     {
+      "id": "qgg0pdGgKcY",
+      "kind": "youtube",
+      "title": "Back to School First Aid Special -Medications and Emergencies at School",
+      "url": "https://www.youtube.com/watch?v=qgg0pdGgKcY",
+      "upload_date": "2021-08-30",
+      "duration_seconds": 774,
+      "duration": "12:54",
+      "word_count": 2260,
+      "clean_file": "clean/qgg0pdGgKcY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 774
+      }
+    },
+    {
       "id": "tFwJUPSU6Fw",
       "kind": "youtube",
       "title": "Bites and stings from the sea|  Adult First Aid  | EMT First Aid Training |",
@@ -134,6 +151,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 292
+      }
+    },
+    {
+      "id": "DIlD4pA12KQ",
+      "kind": "youtube",
+      "title": "Drowning, Secondary and Dry |  Water Safety  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=DIlD4pA12KQ",
+      "upload_date": "2022-06-23",
+      "duration_seconds": 284,
+      "duration": "04:44",
+      "word_count": 750,
+      "clean_file": "clean/DIlD4pA12KQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 284
       }
     },
     {
@@ -324,6 +358,23 @@
       }
     },
     {
+      "id": "NPUU72Lybis",
+      "kind": "youtube",
+      "title": "Hyperventilation |  Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=NPUU72Lybis",
+      "upload_date": "2023-04-27",
+      "duration_seconds": 413,
+      "duration": "06:53",
+      "word_count": 1202,
+      "clean_file": "clean/NPUU72Lybis.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 413
+      }
+    },
+    {
       "id": "_doDuU-FzTY",
       "kind": "youtube",
       "title": "Hypothermia |  Adult First Aid  | EMT First Aid Training",
@@ -355,6 +406,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 416
+      }
+    },
+    {
+      "id": "V6v9H6YyX64",
+      "kind": "youtube",
+      "title": "Panic Attacks |  Adult First Aid  | EMT First Aid Training",
+      "url": "https://www.youtube.com/watch?v=V6v9H6YyX64",
+      "upload_date": "2023-05-04",
+      "duration_seconds": 387,
+      "duration": "06:27",
+      "word_count": 1042,
+      "clean_file": "clean/V6v9H6YyX64.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 387
       }
     },
     {
@@ -491,6 +559,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 40
+      }
+    },
+    {
+      "id": "UNjMo2W1M8Q",
+      "kind": "youtube",
+      "title": "Treatment of Small Cuts and Splinters | Adult First Aid  | EMT First Aid Training |",
+      "url": "https://www.youtube.com/watch?v=UNjMo2W1M8Q",
+      "upload_date": "2022-10-06",
+      "duration_seconds": 212,
+      "duration": "03:32",
+      "word_count": 709,
+      "clean_file": "clean/UNjMo2W1M8Q.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 212
       }
     },
     {

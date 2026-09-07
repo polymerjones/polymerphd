@@ -69,6 +69,40 @@
       }
     },
     {
+      "id": "mI3kahU2oEg",
+      "kind": "youtube",
+      "title": "Ed St. Martin on Teaching Natural Movement at MoveThru",
+      "url": "https://www.youtube.com/watch?v=mI3kahU2oEg",
+      "upload_date": "2025-10-17",
+      "duration_seconds": 725,
+      "duration": "12:05",
+      "word_count": 2666,
+      "clean_file": "clean/mI3kahU2oEg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 725
+      }
+    },
+    {
+      "id": "KlKh2kWFX0s",
+      "kind": "youtube",
+      "title": "MovNat Training Session: Breath Work Session",
+      "url": "https://www.youtube.com/watch?v=KlKh2kWFX0s",
+      "upload_date": "2025-07-31",
+      "duration_seconds": 834,
+      "duration": "13:54",
+      "word_count": 1040,
+      "clean_file": "clean/KlKh2kWFX0s.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 834
+      }
+    },
+    {
       "id": "YPKG9b5ahmA",
       "kind": "youtube",
       "title": "Natural Movement & Parkour with Loren Fjord",
@@ -83,6 +117,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 2144
+      }
+    },
+    {
+      "id": "i7JdDf7HzVM",
+      "kind": "youtube",
+      "title": "Real-World Strength & Natural Movement | MovNat Team Instructor Igor Bilinskyi",
+      "url": "https://www.youtube.com/watch?v=i7JdDf7HzVM",
+      "upload_date": "2026-04-08",
+      "duration_seconds": 3072,
+      "duration": "51:12",
+      "word_count": 9649,
+      "clean_file": "clean/i7JdDf7HzVM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3072
       }
     },
     {
@@ -290,5 +341,14 @@
       }
     }
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "id": "UObBLZbtNEQ",
+      "title": "MovNat in Thailand",
+      "url": "https://www.youtube.com/watch?v=UObBLZbtNEQ",
+      "duration_seconds": 845,
+      "duration": "14:05",
+      "reason": "no captions"
+    }
+  ]
 }

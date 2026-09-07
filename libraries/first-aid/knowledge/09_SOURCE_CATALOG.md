@@ -3,7 +3,7 @@
 Every transcript ingested into this knowledge package, with the subjects, emergencies, procedures, and concepts each one covers.
 
 **Video sources from:** EMT First Aid (Emily Mottershead) — https://www.youtube.com/channel/UCVA0o1-mwzihyaAwQgdn4Lg  
-**Videos catalogued:** 33
+**Videos catalogued:** 38
 
 Entries are alphabetical by title. Use the video ID to trace any claim in the other files back to its source.
 
@@ -57,7 +57,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** for an animal bite: first ensure the scene is safe (e.g. the biting animal is removed/ controlled), then treat as any other bleed — clean the wound, apply pressure, seek medical help if needed, for hairy caterpillar hair exposure: do not rub the area; remove the hairs with tweezers, or rinse under running water and air-dry (not rub dry), then lift hairs out with sticky tape; monitor breathing, for a tick: remove promptly and carefully with a tick remover (placed under the tick, twisted 360°) or fine tweezers, ensuring the head comes out with the body; never burn it, cover it in Vaseline, or spin it to make it "dizzy," since this can cause the tick to regurgitate its contents into the wound and increase disease risk, keep a removed tick in a sealed bag or container in the freezer in case it needs testing for Lyme disease later, and to show medical professionals the whole tick (including the head) was removed, prevention for ticks: wear long trousers and socks in woodland/long grass, and check yourself, clothing, and pets afterward
 - **Important concepts:** the oak processionary moth caterpillar named specifically as the toxic hairy caterpillar of concern, recognizable by nesting in oak trees and moving in a "procession" line, Lyme disease described as a serious illness with flu-like symptoms, lethargy, and body aches, with about 50% of cases developing a "bullseye" rash, and — if not promptly treated — potential for paralysis, arthritis, or meningitis
 
-## 5. Bites and stings from the sea|  Adult First Aid  | EMT First Aid Training |
+## 5. Back to School First Aid Special -Medications and Emergencies at School
+
+- **Video ID:** `qgg0pdGgKcY`
+- **URL:** https://www.youtube.com/watch?v=qgg0pdGgKcY
+- **Upload date:** 2021-08-30
+- **Duration:** 12:54
+- **Source file:** `sources/clean/qgg0pdGgKcY.txt`
+- **Main subjects:** preparing a child with an ongoing medical condition for school — individual healthcare plans, carrying and administering their own medication, and UK school policy on spare emergency medication
+- **Emergencies:** none recorded
+- **Procedures:** encourage a child to carry and, where appropriate, self-administer their own emergency medication (inhaler, auto-injector pen) at school rather than having it locked away and inaccessible, for a child with a complex or ongoing medical condition (e.g. asthma, epilepsy, diabetes, severe allergies): request an Individual Healthcare Plan (IHP) from the school specifying what help the school will provide and what staff can administer in an emergency, for routine short-term medication (e.g. antibiotics): schedule doses around the school day where possible (morning, after school, bedtime) to avoid needing to bring medication in at all; if it must be brought in, only prescription medication in its original packaging, with written parental consent, and only the smallest amount needed for that day, staff administering or supervising medication in the UK do so voluntarily — the source states teachers are not legally required to give or supervise medication
+- **Important concepts:** UK policy context named: the Children and Families Act (introduced September 2014) requiring schools to support pupils with medical needs; schools permitted to hold a spare blue reliever inhaler since 2014, and a spare adrenaline auto-injector pen (e.g. EpiPen) since October 2017 — both described as optional for a school to stock, not compulsory, and not a substitute for the child's own medication, a stated statistic that half of adults with mental health issues report their first symptoms before age 14, used to frame the importance of watching for emotional-health signs alongside physical medical needs
+
+## 6. Bites and stings from the sea|  Adult First Aid  | EMT First Aid Training |
 
 - **Video ID:** `tFwJUPSU6Fw`
 - **URL:** https://www.youtube.com/watch?v=tFwJUPSU6Fw
@@ -69,7 +81,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** wear shoes on rocks and walk slowly into the water to avoid cuts from barnacles/shells and crab pinches, for a jellyfish sting: remove any stuck tentacles with a flat object (e.g. a credit card), never fingers, and without rubbing (which can trigger more venom release); rinse with seawater, not fresh water; then soak the area in water as hot as tolerable for at least 30 minutes (or use hot flannels/towels if soaking isn't possible), do not urinate on a jellyfish sting — explicitly stated to potentially worsen it, the same way fresh water does, by releasing more venom from unfired stingers, for a weever fish sting: remove the embedded dorsal-fin spines from the foot, then immerse the foot in water at 40°C (104°F) or higher for at least 30 minutes, seek medical help or a lifeguard immediately if uncomfortable performing self-treatment, or if in doubt about any marine sting or bite
 - **Important concepts:** the shared mechanism behind two counter-intuitive instructions: both urinating on a jellyfish sting and rinsing it with fresh water are stated to activate unfired stingers and release additional venom, rather than providing relief
 
-## 6. Child Collapses & Not Breathing — What To Do (CPR + AED)
+## 7. Child Collapses & Not Breathing — What To Do (CPR + AED)
 
 - **Video ID:** `AmXN6YjxtII`
 - **URL:** https://www.youtube.com/watch?v=AmXN6YjxtII
@@ -81,7 +93,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** sending someone for a nearby defibrillator while checking breathing by looking, listening, and feeling for up to 10 seconds, giving five rescue breaths if the child is not breathing, then compressions with one hand to one-third of body depth, in a 15-compressions-to-2-breaths cycle, continued until the AED arrives, AED/defibrillator use on a child, pediatric pads if available, otherwise adult pads, placed one to the left of the chest midline and one directly opposite on the back, then following the device's shock-advised / no-shock-advised prompt and resuming CPR after any shock
 - **Important concepts:** one-handed compressions to one-third body depth as the child-specific adaptation of adult CPR technique
 
-## 7. CPR in a Bed? Yes – New CPR Guidelines Explained!
+## 8. CPR in a Bed? Yes – New CPR Guidelines Explained!
 
 - **Video ID:** `dLz7tn-bR9w`
 - **URL:** https://www.youtube.com/watch?v=dLz7tn-bR9w
@@ -93,7 +105,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** check breathing for up to 10 seconds; if not breathing normally, call 999 (the source's emergency number) immediately, per the stated 2025 guidelines, keep the person on the bed rather than moving them to a hard floor first — remove pillows, kneel beside them, start compressions immediately, pushing slightly deeper to compensate for the soft mattress
 - **Important concepts:** "starting now beats starting perfectly" as the stated rationale for the guideline change
 
-## 8. Diabetes |  Adult First Aid  | EMT First Aid Training |
+## 9. Diabetes |  Adult First Aid  | EMT First Aid Training |
 
 - **Video ID:** `mlWdZtWAIVU`
 - **URL:** https://www.youtube.com/watch?v=mlWdZtWAIVU
@@ -105,7 +117,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** a first aider should not perform a blood-sugar test (pin-prick or sensor) on someone else unless specifically trained and authorized to (e.g. as a childminder or nursery worker with a care plan) — encourage the person to test themselves instead, for a hyperglycemic episode: give the person their own prescribed medication (tablets or insulin) to bring sugar levels down, for a hypoglycemic episode: give sugar immediately (a full-fat Coke, jam, jelly babies, glucose gel, or tablets) to raise blood sugar quickly, since a hypo deteriorates fast without correction, if blood sugar can't be tested and the signs are ambiguous, the source's stated rule is to give sugar anyway and call emergency medical services, on the reasoning that sugar will not harm a hyperglycemic person but could save a hypoglycemic one
 - **Important concepts:** type 1 diabetes (no insulin production, typically inherited) versus type 2 (insufficient insulin, often linked to being overweight, more common) as the source's basic split, a normal blood-sugar reading stated as 4 to 7; above 7 as hyperglycemic, below 4 as hypoglycemic, hyperglycemic signs (thirst, frequent urination, fruity-smelling breath, slower onset) versus hypoglycemic signs (dizziness, aggression, irritability, sweating, fast onset) as the source's distinguishing pattern, with an explicit caveat that a blood-sugar reading is the only way to know for certain
 
-## 9. Electrocution |  Adult First Aid  | EMT First Aid Training |
+## 10. Drowning, Secondary and Dry |  Water Safety  | EMT First Aid Training |
+
+- **Video ID:** `DIlD4pA12KQ`
+- **URL:** https://www.youtube.com/watch?v=DIlD4pA12KQ
+- **Upload date:** 2022-06-23
+- **Duration:** 04:44
+- **Source file:** `sources/clean/DIlD4pA12KQ.txt`
+- **Main subjects:** the drowning-specific CPR sequence (adapted because drowning is a respiratory, not cardiac, event), plus dry drowning and secondary/delayed drowning as distinct, rare complications
+- **Emergencies:** an unconscious adult recovered from water, not breathing, dry drowning — a child inhales water that triggers a vocal-cord spasm, preventing air from entering the lungs, without water actually entering the lungs, secondary/delayed drowning — inhaled water causes lung inflammation that can present hours to days (up to 72 hours) after the initial water exposure
+- **Procedures:** only enter water to help if it's safe to do so; shout for help first, once the person is on dry land, open the airway and check breathing for 10 seconds as usual, if not breathing: open the airway, pinch the nose, and give 5 rescue breaths first (this may be enough on its own) — if not, begin 30 compressions to 2 breaths and continue for one minute, if alone and the person hasn't recovered after one minute of CPR, leave to call emergency services, then resume care — this differs from an on-land collapse, where the ambulance is called immediately, before starting CPR, if breathing resumes, place in the recovery position and keep warm, seek medical help immediately for any suspected dry or secondary drowning, even if the person seems to recover initially
+- **Important concepts:** the key distinction driving the different CPR sequence: a drowning collapse is treated as a respiratory problem (lack of oxygen) rather than a cardiac one, similar in mechanism to why an infant or child might stop breathing, whereas a collapse on dry land is treated as more likely cardiac, both dry and secondary drowning are explicitly stated to be "extremely, extremely rare"
+
+## 11. Electrocution |  Adult First Aid  | EMT First Aid Training |
 
 - **Video ID:** `ezLmv6ksiAA`
 - **URL:** https://www.youtube.com/watch?v=ezLmv6ksiAA
@@ -117,7 +141,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** ensure the scene is safe before approaching — assume the patient may still be "live" if in contact with the electrical source, and do not touch them if there is any doubt, for a low-voltage source (e.g. household): turn off the power supply at the main, then approach, for a high-voltage source (e.g. overhead cables): stay well back — electricity can arc up to 80 meters through air or ground, more in wet or foggy conditions — and call emergency medical services rather than approaching at all, once safe to approach, check breathing (e.g. by talking to the person as you approach); begin CPR if not breathing, or place in the recovery position if breathing but unconscious, then assess for other injuries including burns, know in advance where the main power supply is, at home or at work, so it can be turned off quickly if needed
 - **Important concepts:** as little as 10 milliamps causing muscle contraction strong enough to make a hand close around and be unable to release an electrical source, and as little as 60 milliamps being potentially fatal in wet conditions, electricity causing two separate burn sites (entry and exit points), described as often severe and slow to heal because the damage penetrates deep into the body, the body becoming "the link from live to earth" when a body part contacts or nears a live source, explaining why an electrocuted person can remain dangerous to touch
 
-## 10. Heart Attack vs Cardiac Arrest: The Difference Could Save a Life
+## 12. Heart Attack vs Cardiac Arrest: The Difference Could Save a Life
 
 - **Video ID:** `daEErJU36-4`
 - **URL:** https://www.youtube.com/watch?v=daEErJU36-4
@@ -129,7 +153,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** for a heart attack — sit the person down, keep them calm, call emergency medical services, and give any medication they have been told by their doctor to take, for cardiac arrest — call emergency medical services immediately, start CPR immediately, and get a defibrillator if one is nearby
 - **Important concepts:** heart attack framed as a circulation (plumbing) problem versus cardiac arrest as an electrical problem, as the core distinguishing model
 
-## 11. Heat Exhaustion and Heat Stroke|  Adult First Aid  | EMT First Aid Training |
+## 13. Heat Exhaustion and Heat Stroke|  Adult First Aid  | EMT First Aid Training |
 
 - **Video ID:** `Mzf-sslc2Zo`
 - **URL:** https://www.youtube.com/watch?v=Mzf-sslc2Zo
@@ -141,7 +165,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** for heat exhaustion: move to a cooler/shaded environment, give sips of water, keep calm, for heat stroke: remove from the heat source immediately and call emergency medical services, then actively cool the patient while waiting — in order of preference: whole-body immersion from the neck down in water between 1 and 26°C, then a cold shower or garden hose, then ice in bags wrapped in a towel placed on the neck, armpits, and groin, or wet towels (removing and replacing a wet towel with a dry one once cooled, to avoid overcooling), for a febrile convulsion: treat the same as any seizure (keep safe, never hold down), while also trying to bring the temperature down; call emergency medical services if in doubt
 - **Important concepts:** 37°C as the source's stated normal body temperature, with below 35°C as hypothermia, 38°C and above as heat exhaustion, and 40°C as heat stroke, the loss of sweating (dry skin) as the key distinguishing sign that heat exhaustion has progressed to the more dangerous heat stroke, dehydration named as the underlying risk factor across all heat-related problems
 
-## 12. How to help a baby choking |  Child and Baby First Aid  | EMT First Aid Training |
+## 14. How to help a baby choking |  Child and Baby First Aid  | EMT First Aid Training |
 
 - **Video ID:** `DVjMfc8dHf4`
 - **URL:** https://www.youtube.com/watch?v=DVjMfc8dHf4
@@ -153,7 +177,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** keep the infant's airway neutral throughout (neither tilted back nor forward, both of which are stated to close a baby's airway), supporting the jawline with one hand, up to five back slaps with the heel of the hand, head lower than the bottom, checking after each one for the blockage to clear, if back slaps don't work, turn the infant over (airway still supported, head still lower than the bottom) and give up to five chest thrusts — two fingers in line with the nipples, described as a slower, harder push than a CPR compression, not a compression itself, repeat the back-slap/chest-thrust cycle, call emergency medical services if the blockage persists, and begin CPR if the infant becomes unresponsive and is not breathing
 - **Important concepts:** infant chest thrusts (in line with the nipples) as a distinct technique from adult/child abdominal thrusts, and explicitly distinguished from a CPR compression by speed and force
 
-## 13. How to help Concussion in Sport |  Adult First Aid  | EMT First Aid Training |
+## 15. How to help Concussion in Sport |  Adult First Aid  | EMT First Aid Training |
 
 - **Video ID:** `ohKowP1Posc`
 - **URL:** https://www.youtube.com/watch?v=ohKowP1Posc
@@ -165,7 +189,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** if concussion is suspected: "if in doubt, sit them out" — stop the activity immediately, rest completely (physically and mentally), never leave the person alone; keep them with a responsible adult who can monitor for deterioration and knows how to get help, do not let them drive, and discourage alcohol for at least 24 hours, if signs deteriorate, or seizures occur, or a spinal injury/broken limb is suspected: keep them warm, do not move them, and call emergency medical services, return-to-sport timeline: 24–48 hours of full rest (physical and cognitive), then a graduated return-to-play protocol; no sport-specific training for at least 14 days, no competition for at least 21 days — with progression through the protocol only continuing if an activity doesn't more than mildly worsen symptoms
 - **Important concepts:** three common concussion myths named and corrected: that a person must be knocked unconscious (in fact this occurs in under 10% of concussions), that a head injury must have occurred (concussion can result from a transmitted or whiplash-type force elsewhere on the body), and that it would show on imaging (concussion cannot be seen on X-ray, CT, or MRI), a sign (something observable) versus a symptom (something the person reports) as the source's basic distinction for recognizing concussion, symptom onset described as sometimes immediate but sometimes delayed up to 72 hours, explicitly given as the reason repeated assessment matters, concussion's effects organized into four areas by the source: physical, cognitive ("mental processing"), mood, and sleep
 
-## 14. How to help someone having a seizure |  Adult First Aid  | EMT First Aid Training |
+## 16. How to help someone having a seizure |  Adult First Aid  | EMT First Aid Training |
 
 - **Video ID:** `ba5_cInKwr0`
 - **URL:** https://www.youtube.com/watch?v=ba5_cInKwr0
@@ -177,7 +201,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** stay calm, protect the person from injury by moving objects out of the way and cushioning their head (never holding it), never restrain them, and start timing the seizure, look for medical ID (bracelet, necklace, phone, wallet) if the person's history is unknown, carefully, since it may indicate what caused the seizure, once the seizure ends, check breathing, place the person in the recovery position, and keep talking to them until they fully regain consciousness, do not: restrain the person, put anything in their mouth, move them unless they're in danger, try to bring them around forcibly, or give them anything to eat or drink until fully recovered, call an ambulance if: it's a first seizure or the person's history is unknown, the seizure lasts longer than five minutes, a second tonic-clonic seizure follows the first without regaining consciousness in between, the person seems to need urgent medical attention, or they stop breathing (begin CPR in that case)
 - **Important concepts:** a convulsive versus non-convulsive seizure as the source's basic split, with epilepsy defined as "a tendency to have recurrent seizures" rather than a single specific cause, the tonic stage (rigid, muscular contraction) followed by the clonic stage (repeated contract-relax convulsions) as the two phases of a typical tonic-clonic seizure, a febrile convulsion in young children, attributed to the brain not yet coping with a rapid rise in body temperature, a possible pre-seizure warning symptom (odd movements, unusual smells or tastes) — the transcript's caption reads "orders," almost certainly a mishearing of the clinical term "auras," but that word is not actually spoken in the available captions — explicitly stated as inconsistent and not present for everyone
 
-## 15. How to help with a fracture |  Adult First Aid  | EMT First Aid Training
+## 17. How to help with a fracture |  Adult First Aid  | EMT First Aid Training
 
 - **Video ID:** `gL2iE0wYm8w`
 - **URL:** https://www.youtube.com/watch?v=gL2iE0wYm8w
@@ -189,7 +213,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** immobilize the injured limb or digit rather than moving it — for a finger, strap it to a neighboring finger; for an arm at the side, keep it still without necessarily needing a sling; for a suspected broken leg while lying down, keep the person still rather than attempting to splint or move them, do not attempt to transport someone with a suspected broken leg, pelvis, femur, or skull fracture yourself — call an ambulance, since moving them "will only make it worse", for less severe arm injuries, once immobilized, the casualty can usually walk to get medical help, or be driven, with next of kin contacted if needed, keep the casualty warm while waiting for help, since a fracture alone is not usually life-threatening but can take time to receive care, support sling: for a suspected sprained wrist, broken humerus, or broken forearm bones — triangular bandage slid between the arm and body, long side vertical, tied at the side of the neck (not behind it), point toward the injured elbow, elevation sling: for a suspected broken clavicle or dislocated shoulder — bandage laid over the top of the arm rather than underneath, tucked from the fingers down to the elbow, gathered and tied behind the back, avoiding pressure directly over the injury
 - **Important concepts:** immobilization (not elevation or splinting attempts by an untrained first aider) as the consistent goal across all fracture types, improvising a sling from a jumper or t-shirt as an acceptable substitute when a casualty prefers not to be touched, provided the arm is kept still
 
-## 16. How to Stop a Nosebleed (The Right Way) 🩸 #firstaid
+## 18. How to Stop a Nosebleed (The Right Way) 🩸 #firstaid
 
 - **Video ID:** `-q_O1aLYXlw`
 - **URL:** https://www.youtube.com/watch?v=-q_O1aLYXlw
@@ -201,7 +225,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** lean forward, not back, to avoid sending blood down the throat, pinch the soft part of the nose just below the bony bridge, and hold firm, continuous pressure for 10 minutes without releasing to check, staying seated upright and breathing through the mouth, optionally apply a cold compress to the bridge of the nose or back of the neck, if still bleeding after 10 minutes, pinch for another 10 minutes, seek medical help if bleeding hasn't stopped after 30 minutes, if it is heavy, or if the nosebleed followed a head injury
 - **Important concepts:** none recorded
 
-## 17. How to treat a bleed |  Adult First Aid  | EMT First Aid Training |
+## 19. How to treat a bleed |  Adult First Aid  | EMT First Aid Training |
 
 - **Video ID:** `cdNHeYQ2Knc`
 - **URL:** https://www.youtube.com/watch?v=cdNHeYQ2Knc
@@ -213,7 +237,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** general sequence for any bleed: clean the wound (if time allows), put pressure on it, apply a dressing sized to the wound (small/medium/large), and secure it, checking that a wound bleeding through a dressing gets the dressing replaced rather than layered on top of soaked material, palm wound running across the palm: pack it with gauze and have the casualty make a fist, which is stated to close that orientation of wound (a fist would instead open a wound running up and down the palm, and should not be used for that orientation), head wound: wrap the bandage around the base of the skull rather than higher up, covering top and bottom of the dressing the same way as on a limb
 - **Important concepts:** hypovolemic shock explained by the source as low blood volume from fluid loss, driving down blood pressure — the stated reason bleeding must be stopped even before cleaning
 
-## 18. How to treat Burns |  Adult First Aid  | EMT First Aid Training |
+## 20. How to treat Burns |  Adult First Aid  | EMT First Aid Training |
 
 - **Video ID:** `nrUJU3EhENY`
 - **URL:** https://www.youtube.com/watch?v=nrUJU3EhENY
@@ -225,7 +249,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** cool any burn under running water for at least 20 minutes regardless of cause; if no water is available, a gel-based burns dressing is the next-best option, but water is stated as the preferred method, once cooled, protect a burn where skin has been removed by loosely layering cling film over it, not wrapped tightly, so hospital staff can see the wound without removing a dressing, do not put anything other than water on a burn — no creams, ointments, ice, or butter; do not touch the burn or burst a blister; do not remove clothing stuck to the burn, seek medical help for a burn on a child or baby, one larger than about 1% of the body's surface (roughly the size of a palm), a full-thickness burn, one that goes all the way around a limb, or any burn on the head, hands, feet, or genitals
 - **Important concepts:** "SCALD" as the source's acronym for judging burn severity: size, cause, age (of the person), location, and depth, the "rule of nines" for estimating burn size as a percentage of total body surface area (one hand is roughly 1 percent; the head 9 percent; front and back of the torso 18 percent each; each leg 18 percent; each arm 9 percent), first-degree/superficial, second-degree/partial-thickness, and third-degree/full-thickness as the three depth categories, with the counterintuitive point that full-thickness burns can hurt less because nerve endings have been destroyed
 
-## 19. How to treat someone having an Asthma attack |  Adult First Aid  | EMT First Aid Training
+## 21. How to treat someone having an Asthma attack |  Adult First Aid  | EMT First Aid Training
 
 - **Video ID:** `WBNLB4SUqZk`
 - **URL:** https://www.youtube.com/watch?v=WBNLB4SUqZk
@@ -237,7 +261,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** let the person choose their own position (sitting up, a tripod lean over a table, hands behind the head) and encourage opening the chest cavity rather than curling up; loosen tight clothing, always use the casualty's OWN inhaler, never someone else's (cross-contamination risk, and it may be a different medication), without a spacer: press the pump and breathe in, one puff every minute; if not improving after 5 minutes, call emergency medical services and continue one puff per minute until they arrive, with a mouthpiece spacer: shake the inhaler, insert it into the spacer, have the casualty breathe out fully, seal their mouth around the mouthpiece, press one puff into the spacer, have them breathe in slowly (not hard/fast), hold breath ~10 seconds, breathe out slowly; wait 30 seconds before a second dose if needed, never leave an asthma sufferer alone during an attack, and never send them somewhere cold (cold air is a trigger and will tighten an already-tight chest further)
 - **Important concepts:** the preventative (brown, typically a steroid, taken morning/night) versus reliever (blue, typically salbutamol, used during an attack) inhaler distinction, a spacer described as delivering a more precise dose directly to the lungs and reducing side effects like oral thrush compared to using a pump inhaler alone
 
-## 20. Hypothermia |  Adult First Aid  | EMT First Aid Training
+## 22. Hyperventilation |  Adult First Aid  | EMT First Aid Training |
+
+- **Video ID:** `NPUU72Lybis`
+- **URL:** https://www.youtube.com/watch?v=NPUU72Lybis
+- **Upload date:** 2023-04-27
+- **Duration:** 06:53
+- **Source file:** `sources/clean/NPUU72Lybis.txt`
+- **Main subjects:** what hyperventilation is (over-breathing that depletes carbon dioxide), and two techniques for breaking the resulting "vicious circle"
+- **Emergencies:** hyperventilation — over-breathing, often occurring during a panic attack
+- **Procedures:** find a quiet place to sit, release tension in the shoulders and upper body, sit with a straight back, and loosen tight clothing before starting a breathing technique, breath-control technique: breathe in slowly for a count of four, hold for a count of four, breathe out slowly for a count of four, repeating until calm — with an occasional normal breath inserted if needed to avoid dizziness from too many deep breaths in a row, re-breathing technique: cup both hands over the nose and mouth, breathe in through the nose and out through the mouth into the cupped hands, repeated no more than four times, to re-inhale some of the carbon dioxide just exhaled, {'other tips mentioned': 'humming, whistling, or singing can help regulate breathing'}, seek emergency medical advice if unsure whether the presentation is hyperventilation or something else (e.g. a heart attack), since symptoms like chest pain can overlap — never leave the person alone in that uncertainty
+- **Important concepts:** hyperventilation explained mechanistically: over-breathing pushes out more carbon dioxide than normal, and the resulting CO2 deficit (not a lack of oxygen) is what produces the symptoms and drives further over-breathing in a self-reinforcing "vicious circle", the brown-paper-bag rebreathing method is explicitly named as no longer taught in first aid, with the source noting medical research on it is described as "divided" on why it works and that it doesn't work for everyone
+
+## 23. Hypothermia |  Adult First Aid  | EMT First Aid Training
 
 - **Video ID:** `_doDuU-FzTY`
 - **URL:** https://www.youtube.com/watch?v=_doDuU-FzTY
@@ -249,7 +285,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** for hypothermia: do not reheat quickly — rapid rewarming can complicate the condition and cause cardiac arrest; if the person is wet, remove wet clothing (water draws heat out 20-25 times faster than air) and dry them by patting gently, then warm gradually, for frost nip: warm the affected area gently yourself (e.g. tucking cold fingertips under the armpits), watching that it doesn't progress to frostbite, for frostbite: do not rub or massage the area (this worsens it); rewarm only slowly, using water no warmer than 40°C, and seek emergency medical guidance since the rewarming process is usually very painful, prevention: carry a change of clothes, towels, and blankets whenever wet conditions or cold water are a possibility, even in summer, and note a standard foil blanket alone is not sufficient to warm someone up, only to help maintain warmth
 - **Important concepts:** the specific danger of fast rewarming in hypothermia — named as a cause of cardiac arrest, not just an ineffective approach, water's heat-transfer rate relative to air (stated as 20 to 25 times faster) as the reason wet clothing must be removed even in otherwise mild conditions
 
-## 21. Insect Bites and Stings |  Adult First Aid  | EMT First Aid Training |
+## 24. Insect Bites and Stings |  Adult First Aid  | EMT First Aid Training |
 
 - **Video ID:** `5Ar9386jn_E`
 - **URL:** https://www.youtube.com/watch?v=5Ar9386jn_E
@@ -261,7 +297,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** for a bee sting (stinger left behind): scrape it out sideways with a flat edge (a credit or business card), never with tweezers or by squeezing at the top — both of those actions push more venom from the embedded sac into the wound, for a wasp sting (no stinger left behind) or a general insect bite: wash with soap and water, apply a cold compress, elevate the area to reduce swelling, and avoid scratching (which risks infection); avoid home remedies like vinegar or bicarbonate of soda, which the source states are "unlikely to help", watch for an allergic reaction after any sting; call emergency services immediately for wheezing, breathing difficulty, facial swelling, feeling or being sick, an increased heart rate, dizziness, or faintness — signs of anaphylaxis, seek medical help if an infection develops (spreading redness, worsening pain or swelling, pus, fever, or swollen glands)
 - **Important concepts:** the mechanical distinction between a bee (leaves its stinger embedded) and a wasp (does not) as the reason their first-aid treatment differs, pus described plainly as discharge from an infected bite, with spreading redness/swelling "more likely due to an allergy than to an infection" when it happens quickly
 
-## 22. Poisoning |  Adult First Aid  | EMT First Aid Training |
+## 25. Panic Attacks |  Adult First Aid  | EMT First Aid Training
+
+- **Video ID:** `V6v9H6YyX64`
+- **URL:** https://www.youtube.com/watch?v=V6v9H6YyX64
+- **Upload date:** 2023-05-04
+- **Duration:** 06:27
+- **Source file:** `sources/clean/V6v9H6YyX64.txt`
+- **Main subjects:** what a panic attack and panic disorder are, their symptoms and typical duration, and the difference between reassuring someone in the moment versus longer-term treatment options
+- **Emergencies:** a panic attack — a sudden rush of intense mental and physical symptoms, part of panic disorder when recurrent
+- **Procedures:** in the moment: stay calm, remember panic attacks are not life-threatening and won't cause physical harm, stay where you are, and breathe through it — if hyperventilating, use the breathing techniques covered in the companion hyperventilation video, call emergency medical services if there's genuine doubt about whether the presentation is a panic attack or something else, since several symptoms (chest pain, racing heart) overlap with more dangerous conditions, longer-term: encourage seeing a GP to rule out other conditions and discuss treatment — main options named are talking therapy (CBT) and medication (antidepressants, which the source notes can take 2-4 weeks to start working and up to 8 weeks for full effect), self-help measures named: breathing techniques, regular physical exercise, complementary therapies (massage, aromatherapy, yoga, Pilates), and cutting back on sugar, caffeine, alcohol, and smoking, all described as able to worsen attacks
+- **Important concepts:** anxiety described as ranging from mild to severe, with panic named as its most severe form, a "cycle of living in fear of fear" — avoiding situations out of fear of triggering another attack, which the source says can itself increase the frequency of attacks, a diagnostic threshold mentioned: regular, unexpected panic attacks followed by at least a month of continuous worry about having further attacks
+
+## 26. Poisoning |  Adult First Aid  | EMT First Aid Training |
 
 - **Video ID:** `w5eqBMoTGcE`
 - **URL:** https://www.youtube.com/watch?v=w5eqBMoTGcE
@@ -273,7 +321,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** identify what was taken, how much, and when; reassure the casualty and call emergency medical services with as much detail as possible to help hospital treatment, if the casualty becomes unconscious, open the airway, check breathing, and begin CPR if needed — using a face shield or covering the mouth and blowing through the nose to avoid cross-contamination from residual chemical, do not induce vomiting in a conscious casualty, since vomiting can cause further damage as the substance passes back through the respiratory tract, mouth, and nose, stay calm and non-accusatory, since a scared casualty (especially a child) may not disclose what or how much they took, for food poisoning: rest, hydration (rehydration powders or isotonic drinks), and seeking medical help if needed; report to authorities/employer if relevant (e.g. a shared food source), for plant/fungi poisoning: try to identify the plant or fungus (photograph or bring a sample) to help medical treatment
 - **Important concepts:** poison/toxin defined broadly — not only swallowed, but absorbed through skin or eyes, inhaled, or injected, then carried through the bloodstream to organs and tissue, dehydration named as a serious complication of food poisoning, especially for the young, the elderly, or in a hot climate, prevention framed as the primary defense against plant/fungi poisoning — knowing what plants are in one's own garden or house and removing ones dangerous to children or pets
 
-## 23. Reach, Throw, Don't Go — what to do if someone's struggling in water
+## 27. Reach, Throw, Don't Go — what to do if someone's struggling in water
 
 - **Video ID:** `MH5zM1q0RlU`
 - **URL:** https://www.youtube.com/watch?v=MH5zM1q0RlU
@@ -285,7 +333,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** call the emergency number (999 in the source) and ask for the coast guard if at the coast, or fire rescue if inland (river, lake, or canal), shout at the casualty to float — head back, ears in the water, relax — to buy time, throw anything buoyant (a ring, a body board, an empty bottle, a cool bag), or reach with a towel, branch, or rope while lying flat, staying low, and keeping weight back to avoid being pulled in, if you fall in yourself, float rather than fight the water
 - **Important concepts:** "reach, throw, do not go" as the source's stated governing rule for water rescue, cold water shock named as the mechanism that "takes your breathing away," with fighting it described as what actually drowns people
 
-## 24. Recovery Position for Children and Infants |  Child and Baby First Aid  | EMT First Aid Training |
+## 28. Recovery Position for Children and Infants |  Child and Baby First Aid  | EMT First Aid Training |
 
 - **Video ID:** `bpA6uWkeuPA`
 - **URL:** https://www.youtube.com/watch?v=bpA6uWkeuPA
@@ -297,7 +345,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** for a child (1-18): the same primary survey, secondary survey, and recovery position steps as an adult, with the breathing-rate benchmark adjusted (a baby breathes roughly 10 times per 10 seconds versus an adult's 2-4), for an infant (0-1): keep the airway in a fully neutral position rather than tilted back — tilting either forward or back is stated to close a baby's airway rather than open it, infant recovery position: cradle the baby with a hand supporting the jaw to keep the airway neutral, head kept slightly lower than the bottom so vomit drains away, rather than rolling the baby onto the floor as with an adult or child
 - **Important concepts:** infant airway neutrality as a distinct anatomical rule from the adult/child head-tilt, since the same head-tilt chin-lift that opens an adult's airway is stated to close an infant's
 
-## 25. Shock - Hypovolemic Shock|  Adult First Aid  | EMT First Aid Training
+## 29. Shock - Hypovolemic Shock|  Adult First Aid  | EMT First Aid Training
 
 - **Video ID:** `JetIdXD7174`
 - **URL:** https://www.youtube.com/watch?v=JetIdXD7174
@@ -309,7 +357,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** call emergency medical services immediately — shock is treated as a medical emergency, treat the underlying blood or fluid loss directly (e.g. bandage and apply pressure to a bleeding wound), lay the patient down and raise their legs to help circulation reach the brain, lungs, and heart, and keep them warm, give nothing to eat or drink ("nil by mouth"), even if they're thirsty — stated reasons are surgical risk (vomiting under anesthesia) and that digestion would divert blood away from the organs that need it most, keep the patient lying down with legs raised until emergency medical services arrive, even if they start to feel better
 - **Important concepts:** the four types of medical shock named by the source: hypovolemic (blood/fluid volume loss), cardiogenic (the heart fails to pump, e.g. from a heart attack or valve problem), obstructive (a blockage restricting blood flow, e.g. of the aorta or venous return), and distributive (abnormal blood distribution to tissue, covering septic, anaphylactic, and neurogenic shock), a stated blood-loss severity scale — shock begins at roughly 20% blood/fluid loss, and death is stated to occur at roughly 40% loss, the body's stated priority order for oxygen delivery during shock: lungs, heart, and brain first, "air hunger" as the source's description of shock-related breathing distress, likened to breathing with a bag over one's head
 
-## 26. Snake Bites |  Health and Safety   | EMT First Aid Training |
+## 30. Snake Bites |  Health and Safety   | EMT First Aid Training |
 
 - **Video ID:** `NMQo-0kbX84`
 - **URL:** https://www.youtube.com/watch?v=NMQo-0kbX84
@@ -321,7 +369,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** general treatment: call emergency medical services and get to hospital fast; stay calm (a raised heart rate speeds venom circulation); keep the bitten limb as still as possible, lying the casualty down, in the recovery position if possible; try to identify the snake's color and pattern; loosen tight clothing and remove jewelry near the bite before swelling starts; draw a mark around the bite, note the time, and record symptoms every 30 minutes, do NOT: approach, catch, or kill the snake; suck or cut venom from the wound; apply ice (constricts vessels, worsens local tissue damage); apply a tourniquet (concentrates venom, worsening tissue destruction); give aspirin or ibuprofen (worsens bleeding); use any commercial "snake bite kit" device, for a confirmed neurotoxic/elapid bite only: apply a broad pressure-immobilization bandage from below the bite upward, over clothing (don't remove clothing, to avoid moving the limb), with pressure similar to a sprained-ankle wrap, then splint the limb; this bandage must not be removed until at hospital with anti-venom ready, since removal causes a rapid venom surge into the bloodstream
 - **Important concepts:** "no first aid is often less harmful than bad first aid" as the source's stated governing rule for snake bites specifically, a pressure-immobilization bandage explicitly distinguished from a tourniquet — the source is emphatic the two are not substitutes and a tourniquet is "never ever appropriate for any type of snake bite", identifying the snake's type/pattern is framed as clinically useful for the treating doctor, but not the priority over calling for help
 
-## 27. Sprains and Strains |  Adult First Aid  | EMT First Aid Training
+## 31. Sprains and Strains |  Adult First Aid  | EMT First Aid Training
 
 - **Video ID:** `U-NimqP2Ev4`
 - **URL:** https://www.youtube.com/watch?v=U-NimqP2Ev4
@@ -333,7 +381,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** RICE: Rest (stop the activity, get comfortable), Ice (20 minutes maximum, wrapped in a towel if from a freezer rather than a shake-activated cold pack, checking circulation past the injury every 10 minutes), Compression (a crepe bandage, comfortably firm), Elevate (to reduce swelling), move the casualty carefully once initial treatment is done — stand an upper-limb injury up slowly (pain can cause faintness), and get help moving a lower-limb injury since they shouldn't bear weight on it, always advise seeking professional medical help afterward, since a first aider "can't x-ray" and a fracture could be present alongside the soft-tissue injury
 - **Important concepts:** a ligament (bone-to-bone) versus a tendon (muscle-to-bone) as the anatomical distinction between what's damaged in a sprain versus a strain — though the source notes a first aider doesn't need to tell the two injuries apart to treat them the same way
 
-## 28. Stroke |  Adult First Aid  | EMT First Aid Training |
+## 32. Stroke |  Adult First Aid  | EMT First Aid Training |
 
 - **Video ID:** `UuQFAQAaOQo`
 - **URL:** https://www.youtube.com/watch?v=UuQFAQAaOQo
@@ -345,7 +393,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** recognize using FAST: Face (has it fallen on one side, is the smile symmetrical), Arms (can both be raised and held level, or does one drop), Speech (slurred, trouble speaking, drooling), Time (call emergency services immediately if any of these are present), help the person onto the floor and into the recovery position on their affected side, keep them warm (cover with a blanket), calm, and keep onlookers away to protect their dignity and reduce distress, do not give food or drink, and be prepared that bladder or bowel control may be lost
 - **Important concepts:** two main stroke mechanisms named: a clot blocking an artery (via thrombosis, embolism, or small-vessel blockage) versus a bleed/hemorrhage from a burst blood vessel in or around the brain, a TIA (transient ischemic attack) as a temporary version of a stroke that still requires emergency treatment, since it signals risk of a more serious stroke later, stroke mimics named explicitly — a previous fall/broken arm, alcohol or drug influence, or a diabetic hypoglycemic episode can all resemble stroke signs, with the source's stated rule being to call emergency services regardless of uncertainty
 
-## 29. The #1 First Aid Skill Isn’t CPR 🚨
+## 33. The #1 First Aid Skill Isn’t CPR 🚨
 
 - **Video ID:** `nmOqZM-xJzA`
 - **URL:** https://www.youtube.com/watch?v=nmOqZM-xJzA
@@ -357,7 +405,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** calling emergency medical services as soon as something looks seriously wrong, stated as coming before CPR, AED use, or bleeding control in importance
 - **Important concepts:** "early is better than late" as a stated governing principle for first-aid decision-making, trusting instinct over social hesitation (\"not wanting to make a fuss\") when someone looks seriously unwell
 
-## 30. Unconscious Adult 2025 Update – Primary & Secondary Survey + Recovery Position
+## 34. Treatment of Small Cuts and Splinters | Adult First Aid  | EMT First Aid Training |
+
+- **Video ID:** `UNjMo2W1M8Q`
+- **URL:** https://www.youtube.com/watch?v=UNjMo2W1M8Q
+- **Upload date:** 2022-10-06
+- **Duration:** 03:32
+- **Source file:** `sources/clean/UNjMo2W1M8Q.txt`
+- **Main subjects:** treatment for minor injuries that don't need the full bleeding-wound protocol — small cuts, scratches, blisters, and splinters
+- **Emergencies:** a small cut or scratch (e.g. a paper cut, a minor graze), a blister (from friction — tools, new footwear, repetitive activity), a splinter (commonly wood or small metal fragments)
+- **Procedures:** small cut/scratch: clean under running water or with a wipe (not a wipe if visibly dirty — described as being "like sandpaper"), then cover with a plaster (checking for a plaster allergy first) — otherwise expected to heal on its own, monitored for infection, blister: keep clean and dry, cover with a plaster to reduce friction; do not burst it, since the intact blister is protecting the skin underneath from infection, splinter, if visible and not fully under the skin: clean the area with mild soap and water first, grip the visible end with tweezers and pull it out in the same direction it entered (to avoid breaking it), then squeeze either side of the wound afterward to encourage a little bleeding that can flush out remaining dirt, and cover with a plaster if needed, a splinter that can't be seen or reached is expected to usually work its way out on its own within a few days, seek medical advice for a splinter that can't be removed, is bleeding heavily, or is in a sensitive area such as under a nail
+- **Important concepts:** none recorded
+
+## 35. Unconscious Adult 2025 Update – Primary & Secondary Survey + Recovery Position
 
 - **Video ID:** `ccDPTLFu9Po`
 - **URL:** https://www.youtube.com/watch?v=ccDPTLFu9Po
@@ -369,7 +429,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** primary survey: check the area for danger (look, listen, smell), check for a response, shout for help / call emergency medical services, open the airway with a head-tilt chin-lift, then look, listen, and feel for normal breathing for 10 seconds, secondary survey: head-to-toe check for lumps/bumps, fluid from the ears (possible spinal sign), medical ID jewelry, lacerations on each arm, sternum/abdomen for signs of internal bleeding, pelvis stability, pocket contents (checked with the back of the hand), and each leg, recovery position: link the far hand under the near cheek, bend the near leg at the knee, roll the person toward you using the knee, keep the knee at 90 degrees so they stay on their side, then re-open the airway, if a broken limb prevents the recovery position, keep the person on their back with the airway held open manually instead, while accepting this ties up the rescuer's hands
 - **Important concepts:** "agonal gasps" as a last-breath pattern that can be mistaken for normal breathing but actually calls for CPR, not the recovery position, adult versus infant normal-breathing benchmarks (2-3 breaths per 10 seconds for an adult versus 5-7 for an infant) as the calibration for the breathing check
 
-## 31. What is a SPINAL injury, How do you get a SPINAL injury and HOW to treat a SPINAL injury.
+## 36. What is a SPINAL injury, How do you get a SPINAL injury and HOW to treat a SPINAL injury.
 
 - **Video ID:** `5bzqZ7ajeCQ`
 - **URL:** https://www.youtube.com/watch?v=5bzqZ7ajeCQ
@@ -381,7 +441,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** do not move a person with a suspected spinal injury; support their head and neck, keep them as still as possible, leave their body in the position found, keep talking to and reassuring them, and call emergency medical services, move them only if: they are in immediate danger (e.g. a burning car), their airway is compromised (vomiting or fluid in the mouth), or CPR is needed and they are face down, when a move to perform CPR or clear the airway is unavoidable, use a log roll: several people turn the body over in one single motion, one person dedicated to supporting and aligning the head with the body, with the person at the head directing the roll
 - **Important concepts:** the spinal cord's location of damage determining the extent of paralysis — lower-spine damage affecting leg use, higher damage risking loss of control over "vital life support systems such as my breathing system", spinal cord damage described as unable to be repaired, which the source gives as the reason for treating any suspicion of spinal injury as the most serious possibility rather than waiting for confirmation
 
-## 32. What is ASTHMA and how to treat it as a FIRST AIDER
+## 37. What is ASTHMA and how to treat it as a FIRST AIDER
 
 - **Video ID:** `bV1WWhv-_Ag`
 - **URL:** https://www.youtube.com/watch?v=bV1WWhv-_Ag
@@ -393,7 +453,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Procedures:** encourage the casualty to take their inhaler, get their shoulders down and back to open the chest cavity, and try to get their breathing under control together with them, if the inhaler doesn't work, or they don't have it with them, call 999, face-mask spacer technique (for a child): shake the inhaler and test-pump it, insert into the spacer, have the child sit comfortably and upright (opens the chest cavity), seal the mask over nose and mouth, squeeze the inhaler canister while they breathe in and out slowly, continue for at least five breaths, then remove the mask, if a second dose is needed because they're struggling again, wait 30 seconds to a minute before repeating
 - **Important concepts:** the same preventative (brown, steroid, morning/night) versus reliever (blue) inhaler split as this channel's other asthma video, with a note that combination pumps are acceptable to use during an attack as long as it isn't the brown/preventative one
 
-## 33. What to put inside your first aid kit  |  HSE BS 8599  |  EMT First Aid Training
+## 38. What to put inside your first aid kit  |  HSE BS 8599  |  EMT First Aid Training
 
 - **Video ID:** `2B9qqSP8nnc`
 - **URL:** https://www.youtube.com/watch?v=2B9qqSP8nnc
@@ -414,6 +474,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **a bite from a known neurotoxic/elapid snake (non-spitting cobras, mambas, coral snakes, sea snakes, and "actually everything in australia")** — Snake Bites |  Health and Safety   | EMT First Aid Training | (`NMQo-0kbX84`)
 
 **a bleeding wound on a limb, palm, or head, with the risk of hypovolemic shock if bleeding isn't controlled** — How to treat a bleed |  Adult First Aid  | EMT First Aid Training | (`cdNHeYQ2Knc`)
+
+**a blister (from friction — tools, new footwear, repetitive activity)** — Treatment of Small Cuts and Splinters | Adult First Aid  | EMT First Aid Training | (`UNjMo2W1M8Q`)
 
 **a burn or scald from any cause — fire, hot surfaces (including hot sand), sun, chemicals, or electricity** — How to treat Burns |  Adult First Aid  | EMT First Aid Training | (`nrUJU3EhENY`)
 
@@ -442,6 +504,12 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **a non-convulsive seizure (described as "daydreaming"/absence-type)** — How to help someone having a seizure |  Adult First Aid  | EMT First Aid Training | (`ba5_cInKwr0`)
 
 **a nosebleed** — How to Stop a Nosebleed (The Right Way) 🩸 #firstaid (`-q_O1aLYXlw`)
+
+**a panic attack — a sudden rush of intense mental and physical symptoms, part of panic disorder when recurrent** — Panic Attacks |  Adult First Aid  | EMT First Aid Training (`V6v9H6YyX64`)
+
+**a small cut or scratch (e.g. a paper cut, a minor graze)** — Treatment of Small Cuts and Splinters | Adult First Aid  | EMT First Aid Training | (`UNjMo2W1M8Q`)
+
+**a splinter (commonly wood or small metal fragments)** — Treatment of Small Cuts and Splinters | Adult First Aid  | EMT First Aid Training | (`UNjMo2W1M8Q`)
 
 **a sprain — an overstretched ligament (bone-to-bone) at a joint** — Sprains and Strains |  Adult First Aid  | EMT First Aid Training (`U-NimqP2Ev4`)
 
@@ -475,6 +543,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **an unconscious adult found on the floor, breathing normally, with no obvious catastrophic bleed** — Unconscious Adult 2025 Update – Primary & Secondary Survey + Recovery Position (`ccDPTLFu9Po`)
 
+**an unconscious adult recovered from water, not breathing** — Drowning, Secondary and Dry |  Water Safety  | EMT First Aid Training | (`DIlD4pA12KQ`)
+
 **an unconscious child or infant, breathing normally, with no obvious injury found on the secondary survey** — Recovery Position for Children and Infants |  Child and Baby First Aid  | EMT First Aid Training | (`bpA6uWkeuPA`)
 
 **an unresponsive, non-breathing adult with helpers present and a defibrillator obtainable** — Adult CPR & AED Pad Placement – 2025 Update (What’s Changed? (`rkYJQycMoPM`)
@@ -484,6 +554,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **anaphylaxis — a severe, life-threatening allergic reaction affecting the respiratory system** — Anaphylaxis Explained: Signs, Symptoms & EpiPen Use (`SGIfqYsi8IQ`)
 
 **cardiac arrest — the heart stops pumping altogether, person is unresponsive and not breathing normally** — Heart Attack vs Cardiac Arrest: The Difference Could Save a Life (`daEErJU36-4`)
+
+**dry drowning — a child inhales water that triggers a vocal-cord spasm, preventing air from entering the lungs, without water actually entering the lungs** — Drowning, Secondary and Dry |  Water Safety  | EMT First Aid Training | (`DIlD4pA12KQ`)
 
 **electrocution from mains electricity, high-voltage cables, or other electrical sources** — Electrocution |  Adult First Aid  | EMT First Aid Training | (`ezLmv6ksiAA`)
 
@@ -503,11 +575,15 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **heat stroke (body temperature around 40°c, thermostat failure, a medical emergency)** — Heat Exhaustion and Heat Stroke|  Adult First Aid  | EMT First Aid Training | (`Mzf-sslc2Zo`)
 
+**hyperventilation — over-breathing, often occurring during a panic attack** — Hyperventilation |  Adult First Aid  | EMT First Aid Training | (`NPUU72Lybis`)
+
 **hypothermia — from cold air exposure or cold-water immersion** — Hypothermia |  Adult First Aid  | EMT First Aid Training (`_doDuU-FzTY`)
 
 **hypovolemic shock — insufficient circulating blood or fluid, most commonly from hemorrhage or severe vomiting/diarrhea** — Shock - Hypovolemic Shock|  Adult First Aid  | EMT First Aid Training (`JetIdXD7174`)
 
 **plant or fungi poisoning (e.g. foxglove, poisonous berries, death cap mushroom)** — Poisoning |  Adult First Aid  | EMT First Aid Training | (`w5eqBMoTGcE`)
+
+**secondary/delayed drowning — inhaled water causes lung inflammation that can present hours to days (up to 72 hours) after the initial water exposure** — Drowning, Secondary and Dry |  Water Safety  | EMT First Aid Training | (`DIlD4pA12KQ`)
 
 **someone found collapsed in a bed, not breathing normally** — CPR in a Bed? Yes – New CPR Guidelines Explained! (`dLz7tn-bR9w`)
 

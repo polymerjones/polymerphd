@@ -3,7 +3,7 @@
 Every transcript ingested into this knowledge package, with the subjects, movements, principles, and concepts each one covers.
 
 **Video sources from:** MovNat — https://www.youtube.com/user/MovNat  
-**Videos catalogued:** 17
+**Videos catalogued:** 20
 
 Entries are alphabetical by title. Use the video ID to trace any claim in the other files back to its source.
 
@@ -57,7 +57,31 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** natural movement is framed by Le Corre as humanity's original, evolutionary form of exercise — "based on completely natural, evolutionary, ancestral movements" — practiced outdoors, barefoot, rather than in a gym, the capacity for natural movement (running, jumping, climbing, crawling, balancing) is described as "entirely our birthright," with modern life framed as having suppressed rather than eliminated that capacity, technique and safety are stated as necessary even for movements that look simple and unstructured, since looking easy is itself a sign of trained efficiency rather than a lack of real skill
 - **Important concepts:** the specific chain of events that made natural movement visible to a mainstream audience: Le Corre's video shown to Barefoot Ted, who showed it to journalist Christopher McDougall (later author of Born to Run), leading to an 11-page Men's Health feature that named the practice "natural movement" for a wide audience for the first time
 
-## 5. Natural Movement & Parkour with Loren Fjord
+## 5. Ed St. Martin on Teaching Natural Movement at MoveThru
+
+- **Video ID:** `mI3kahU2oEg`
+- **URL:** https://www.youtube.com/watch?v=mI3kahU2oEg
+- **Upload date:** 2025-10-17
+- **Duration:** 12:05
+- **Source file:** `sources/clean/mI3kahU2oEg.txt`
+- **Main subjects:** an interview with Ed St. Martin, a natural-movement instructor at MoveThru gym, on teaching natural movement primarily to older adults, illustrated with several specific student case studies
+- **Movements & practices:** none recorded
+- **Evolutionary principles:** "know your body" as the instructor's stated prerequisite for teaching others how to use theirs — Ed credits his own history of skeletal issues with teaching him what actually works, rather than seeing it as a pure limitation, a class-progression structure named (Refine 1, Refine 2, Restore, Evolve), moving from foundational skills through functional restoration to advanced/explosive movement, training built around "integrated play" with varied equipment (movement cubes, balance beams, kettlebells, water bags) rather than a fixed program, framed explicitly as unlike a conventional gym
+- **Important concepts:** regaining the ability to get up off the ground unaided, named as a common concern for aging students who want to play with grandchildren without needing a chair or support to rise, "contralateral" crawling coordination (opposite hand and foot moving together) singled out as a basic motor pattern that many adults have to consciously relearn, described as giving "the brain kind of a jump start", community and social accountability described as a primary reason students keep attending, independent of the exercise content itself
+
+## 6. MovNat Training Session: Breath Work Session
+
+- **Video ID:** `KlKh2kWFX0s`
+- **URL:** https://www.youtube.com/watch?v=KlKh2kWFX0s
+- **Upload date:** 2025-07-31
+- **Duration:** 13:54
+- **Source file:** `sources/clean/KlKh2kWFX0s.txt`
+- **Main subjects:** a guided breath-control training session built around three pillars (diaphragmatic, nasal, and slow breathing), practiced across multiple body positions and then applied to movement itself
+- **Movements & practices:** deep diaphragmatic exhale (pushing air out further than a normal exhale), repeated 4 times with 2 regular recovery breaths between each, maximum diaphragmatic inhale using the diaphragm alone, without upper respiratory muscles, repeated 4 times with 2 recovery breaths between each, maximum diaphragmatic inhale immediately followed by a further maximum inhale using the upper respiratory muscles and rib cage, repeated 4 times, deliberately paced with recovery breaths to avoid hyperventilating, the same three-part sequence repeated in a deep squat position, then in a prone position with arms locked out, and then in a full spinal-flexion position (knees and feet touching the ground behind the head), slow backward rocking with nasal diaphragmatic breathing, increasing range of motion each repetition, dynamic breath control: moving freely (any movement, any intensity) while deliberately maintaining nasal, diaphragmatic, slow breathing throughout, rather than reverting to open- mouth or upper-chest breathing as movement intensifies
+- **Evolutionary principles:** the same breath-control sequence is deliberately repeated across different body positions (seated, squat, prone, spinal flexion) because each position is stated to "challenge the diaphragm and respiratory muscles differently" due to differences in structural alignment, three stated pillars of breath control: diaphragmatic, nasal, and slow — used as the standard to maintain even as movement becomes more dynamic or intense
+- **Important concepts:** a deliberate pacing rule — regular recovery breath cycles are inserted between maximal breathing efforts specifically to avoid hyperventilating during the practice
+
+## 7. Natural Movement & Parkour with Loren Fjord
 
 - **Video ID:** `YPKG9b5ahmA`
 - **URL:** https://www.youtube.com/watch?v=YPKG9b5ahmA
@@ -69,7 +93,19 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** "movement is just a behavior to solve a task and a problem" — training tools (barbell, kettlebell) are framed as interchangeable constraints, not prerequisites, since "the technique trumps everything", a stated "performance versus training" distinction: training deliberately creates a mechanical disadvantage to build capacity, while performing at an actual event calls for efficiency and conserving effort ("big cat philosophy" — lazy until it's go time), assessing a client's lowest level of competency before programming, contrasted with a cautionary account of a trainer starting an uncoordinated client on box jumps, resulting in a broken shin, dislocated shoulder, and other injuries from skipping that assessment, "it's not about performance, it's about confidence" as the stated reframe for why capability training matters most for older adults, illustrated by an elderly client's fear of not being able to get up off the floor to play with her grandson
 - **Important concepts:** biotensegrity (citing Graham Scarr's book) as a stated model of the body as a living, self-renewing tensegrity structure rather than a fragile, finite-use inanimate object, a distinction between physical sensations — discomfort, fatigue, pain, and tissue damage — that a novice exerciser is said to often be unable to tell apart, the "poop test" (credited to a coach named Michael Carr) — using how a movement looks and sounds as a practical, if informal, proxy for whether it is biomechanically safe and efficient, a stated relative-strength framing: reasonable to aim for the top of the general population while still being near the bottom of true elite performers, and that dismissing someone as "not strong" for a modest lift ignores the value of the process of becoming stronger
 
-## 6. Redefining Rehabilitation Through Natural Movement 🌿
+## 8. Real-World Strength & Natural Movement | MovNat Team Instructor Igor Bilinskyi
+
+- **Video ID:** `i7JdDf7HzVM`
+- **URL:** https://www.youtube.com/watch?v=i7JdDf7HzVM
+- **Upload date:** 2026-04-08
+- **Duration:** 51:12
+- **Source file:** `sources/clean/i7JdDf7HzVM.txt`
+- **Main subjects:** a podcast interview with Igor Bilinski, a MovNat instructor in Poland, framing natural movement training around an "altruistic" motive (being fit enough to help others in genuine emergencies) rather than appearance or sport performance, specialization in a single sport versus general natural-movement competency, illustrated with a tsunami-survival anecdote and a whitewater-rafting incident with gym-trained participants, barefoot training, cold exposure, and outdoor/unpredictable-terrain progression as specific practices within Igor's coaching approach
+- **Movements & practices:** primal movement patterns named: running, jumping, landing, overcoming obstacles, lifting, carrying loads, throwing, catching, swimming, diving, and self-defense skills, barefoot walking and training, including on natural terrain (sand, mountain trail stones), with the stated rationale that footwear changes how the body perceives the ground and stabilizes movement, balance-beam/board walking (described as a narrow board, roughly 2m by 4cm) used as an ankle, knee, hip, and spinal-stabilization exercise transferable to sport performance, progressive training structure: building base fitness in a controlled studio environment first, then transferring it to outdoor, unpredictable terrain (mud, forest, mountains, snow), regular cold exposure / ice swimming, practiced by the instructor for a stated 12 years
+- **Evolutionary principles:** an "altruistic attitude" defined as training to be physically capable of helping others in need (the instructor names firefighters and paramedics as models), on the premise that untrained physicality leads people to avoid situations where they could help, "how you train determines how you react" — stress-inoculation logic: adrenaline and unfamiliar conditions are trained for progressively (controlled studio conditions first, then unpredictable field conditions) so real emergencies are met with practiced rather than untested responses, sport-specific training is described as building narrow competency at the cost of broader movement versatility, contrasted with natural movement's stated aim of comprehensive fitness across all primal movement patterns, posture and physical appearance are described as a side effect of comprehensive natural- movement fitness, not a training goal in themselves
+- **Important concepts:** a cited real-world illustration: survivors of a tsunami (described as witnessed by one of the instructor's mentors, in Thailand, sometime around 2008-2009) were disproportionately people who could run fast, climb, hold an elevated position, dive, hold their breath, and carry a child or load over distance — used to argue that broad natural-movement competency, not narrow sport specialization, is what mattered in that specific emergency, a described incident: experienced gym-goers, taken whitewater rafting, capsized and reacted with unusual fear and helplessness, which the instructor attributes to lacking practiced "instinctive self-defense movements" for unpredictable, unstable situations despite high gym fitness
+
+## 9. Redefining Rehabilitation Through Natural Movement 🌿
 
 - **Video ID:** `firq2GnTLjc`
 - **URL:** https://www.youtube.com/watch?v=firq2GnTLjc
@@ -81,7 +117,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** patients recovering from injury are told their pain response is a normal, protective signal rather than being "broken," with graded return to movement used to rebuild a felt sense of safety in the body, movement is framed as a behavior that "needs to have a consequence," where a pain-free success in a movement is the signal that gives the nervous system "permission" to move that way again, complex, task-oriented, multi-joint movement performed in a varied, complexity-adding environment is claimed to produce better motor-learning and rehabilitation outcomes than isolated exercise, attributed by the speaker to research he does not cite specifically
 - **Important concepts:** Ryan Peters' account of discovering MovNat through a chapter on natural movement in "The Paleo Manifesto" by John Durant, leading him from conventional strength training into natural movement as a physical therapist and running coach, Brian Betancourt's own knee injury (described as LCL, PCL, and MCL damage graded "two plus," with a subluxation/dislocation and only the ACL intact) used as a first-person case study for natural-movement-based rehabilitation
 
-## 7. Restoration Series 1 - Primary
+## 10. Restoration Series 1 - Primary
 
 - **Video ID:** `5Kdv4KVsxFE`
 - **URL:** https://www.youtube.com/watch?v=5Kdv4KVsxFE
@@ -93,7 +129,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** breath-led relaxation and visualization (growing "longer, taller, wider") are used throughout to guide positioning, rather than forcing a stretch to a target range of motion, the wall-alignment exercise is explicitly framed as correcting a habitual forward-flexed posture: "this is what an ideal standing position would be if we weren't always forward flexed all the time", the practice explicitly closes by carrying its effects into ordinary movement (a walk) rather than ending the session self-contained
 - **Important concepts:** the iliac crest and pubic bone alignment used as a specific anatomical landmark for judging correct kneeling posture
 
-## 8. Restoration Series 2 - Renewal
+## 11. Restoration Series 2 - Renewal
 
 - **Video ID:** `5uQ0nN7GMcY`
 - **URL:** https://www.youtube.com/watch?v=5uQ0nN7GMcY
@@ -105,7 +141,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** the series is explicitly presented as building on a prior one: "this secondary series of natural movements builds off of our original primary restoration series video... we will progress to more challenging yet still fundamental movements which require more range of motion, control, and coordination", transitions are practiced slowly and deliberately specifically to build motor control, not just flexibility: "coordination and control are important aspects of mobility", repeated transitions between the same few ground positions (rather than a larger movement vocabulary) are used as the vehicle for building smoothness over time
 - **Important concepts:** none recorded
 
-## 9. Shaping the Future of MovNat Medical 2.0
+## 12. Shaping the Future of MovNat Medical 2.0
 
 - **Video ID:** `Zn5MFmowMvE`
 - **URL:** https://www.youtube.com/watch?v=Zn5MFmowMvE
@@ -117,7 +153,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** momentary changes to alignment or movement pattern are described as easy to produce, but making a change permanent is described as hard, requiring ongoing context-rich practice rather than a single weekly session, hands-on manual therapy is described by the practitioner himself as not the actual mechanism of lasting change, but as a way to establish trust and give a felt experience that a different movement is possible: "it establishes trust... then hopefully you'll listen to me now about what really needs to be done", fear-avoidance belief following an injury (one's own, or witnessing someone else's) is treated through graded, safe re-exposure to the avoided movement rather than argument or reassurance alone
 - **Important concepts:** parkour athletes' repeated low-stakes failures used as an example of skill built through fast feedback loops, connected by the speaker to research on motor learning and "ecological dynamics", "you don't lift weights in real life" — carrying and moving objects (e.g. mulch) framed as the real-world analog of resistance training, blurring into what gets labeled "functional strength"
 
-## 10. She Coaches 16 People at Once and Nobody Gets Left Behind
+## 13. She Coaches 16 People at Once and Nobody Gets Left Behind
 
 - **Video ID:** `RadG02NFKU0`
 - **URL:** https://www.youtube.com/watch?v=RadG02NFKU0
@@ -129,7 +165,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** class size is capped at 12 to 16 people, never over 20, specifically to preserve enough space and enough individual coaching attention per person, the gym is explicitly positioned as filling a gap between high-intensity training (CrossFit, Hyrox) and flexibility-focused practice (yoga, Pilates) rather than competing with or replacing either — "we are not trying to replace the CrossFit, Hyrox, or the... yoga, Pilates kind of stuff", training is framed as existing to serve life outside the gym, not as an end in itself — "life doesn't revolve around the gym... you're made to train so that you are stronger outside for the outside world"
 - **Important concepts:** a described mismatch between CrossFit's high-intensity, uniform-prescription culture and a mobility-first, individualized approach, offered as the stated reason CrossFitters who tried the source's classes largely stopped attending once they discovered they lacked the mobility for basic ground positions, an unreleased stratification idea, explicitly disclosed as still in development ("you're the first person hearing this... I'm cooking in the back"), that would generalize the get-up assessment covered in `9PcHMzl45rg` into a broader, belt-system-style competency scale so coaches can quickly identify a student's level across multiple movements
 
-## 11. The Movement Code Hidden in Your DNA – With David Weck
+## 14. The Movement Code Hidden in Your DNA – With David Weck
 
 - **Video ID:** `aUVVDyJUDdw`
 - **URL:** https://www.youtube.com/watch?v=aUVVDyJUDdw
@@ -141,7 +177,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** "the caveman did not run away from the saber-tooth tiger" — Weck's claim that turning to flee a pursuing predator triggers its chase instinct, and that the evolutionarily sound response to a dangerous predator was group confrontation with weapons, not sprinting away, evolution is explicitly named by Weck as a useful but not literally true framework — "it's a theory that is wrong that is useful for the mental gymnastics of understanding yourself" — offered as his own epistemic hedge on the evolutionary narrative he builds the rest of the conversation on, a critique of mainstream strength and conditioning for prioritizing "mirror muscle" strength (chest, shoulders, glutes) over what Weck calls spine/hands/feet/neck strength, and for treating "stiffness" as the primary goal rather than coordinated, tone-based balance
 - **Important concepts:** "tone" as the deepest, most chronic layer of muscular control (distinguished from phasic muscle contraction), which Weck connects — via his own therapy experience, not a cited study — to stored emotional trauma, CCT ("coiling core training") versus RMT ("rotational movement training") as Weck's own coined distinction between staying on one side while shifting weight (CCT) and crossing to the opposite side (RMT), "stick, rope, and rock" as Weck's distilled account of humanity's original tools/toys, offered as the basis for manipulative movement training in place of gym equipment
 
-## 12. The Next Evolution of MovNat: A Conversation with Erwan Le Corre & Brian Betancourt
+## 15. The Next Evolution of MovNat: A Conversation with Erwan Le Corre & Brian Betancourt
 
 - **Video ID:** `EmN2ON_VIXY`
 - **URL:** https://www.youtube.com/watch?v=EmN2ON_VIXY
@@ -153,7 +189,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** MovNat is described as a systematic, progression-based method rather than unstructured outdoor activity — "it's not just go in the woods, do whatever you want, be wild... it's systematic", natural movement is framed as the origin from which specialized sports are derived, not the reverse: "our ancestors evolved with these abilities to move on their feet and throw or catch things... we made them specialized sports, but originally it was the full scope of movements that you needed to survive", a distinction between "mindless" repetitive physical activity and "adaptable" movement that requires real-time problem-solving, with the latter linked to greater brain-derived neurotrophic factor (BDNF) production
 - **Important concepts:** lactate reframed from a "waste product" to an actively used, shuttled fuel source that crosses the blood-brain barrier and may be a preferred fuel for axons — explicitly flagged by the speaker himself as an unsubstantiated, evolving line of reasoning rather than settled science, movement competency proposed as connected to reduced personal insecurity and improved social interaction, offered as personal opinion rather than a evidenced claim
 
-## 13. The Power of the Get-Up
+## 16. The Power of the Get-Up
 
 - **Video ID:** `9PcHMzl45rg`
 - **URL:** https://www.youtube.com/watch?v=9PcHMzl45rg
@@ -165,7 +201,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** "movement is a behavior designed to solve a problem" — used to justify the get-up as an assessment: getting up off the floor is a real problem whose solution reveals a person's movement competency without a full battery of clinical tests, a person getting up will default to whatever movement pattern they already feel safe doing, so the pattern avoided (not just the pattern used) is diagnostic of a specific mobility or strength limitation
 - **Important concepts:** the distinction between a joint-capsule/tissue mobility limit and a motor-coordination limit, tested by comparing passive range of motion (moved by another person) against active range (moved by the person themselves) at the same joint
 
-## 14. The Turkish Get-Up Explained | Movement, Constraints, and the Real Purpose of Training
+## 17. The Turkish Get-Up Explained | Movement, Constraints, and the Real Purpose of Training
 
 - **Video ID:** `ljw0HURuuLM`
 - **URL:** https://www.youtube.com/watch?v=ljw0HURuuLM
@@ -177,7 +213,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** "the tool does not dictate the technique. The tool assists in the learning of the technique" — tools and added load are framed as teaching constraints, not the source of adaptation, a coach should always calibrate to "the lowest level of competency" of the student being taught, movement is classified into four domains: manipulative (moving objects/oneself relative to the environment), locomotive (getting from point A to point B), combative (striking and grappling), and expressive (moving for its own sake) — with get-up patterns identified as fundamentally combative movements with broader application
 - **Important concepts:** points of support (the body parts in contact with a surface) and how they interact with the surface of support, reducing in number and stability from lying down to standing, tension versus relaxation as a trainable skill, distinct from raw strength, "differential learning" — varying a movement slightly on each repetition to gain more exposure to it, rather than repeating it identically, effectiveness (can the task be completed at all) versus efficiency (how well it is completed) as two separate axes for judging a movement attempt
 
-## 15. What does it mean to truly move like a human? 🤔
+## 18. What does it mean to truly move like a human? 🤔
 
 - **Video ID:** `8dF9WQwEK0E`
 - **URL:** https://www.youtube.com/watch?v=8dF9WQwEK0E
@@ -189,7 +225,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** "our natural state is healthy... our natural state is robust if we don't get in our own way" — framed around the idea of a shared, physically robust human ancestor, extended to movement, diet, environment, and relationships alike, improving general human movement capacity (getting up off the floor, grip strength) is stated to alleviate "peripheral symptoms and issues" before specialization is pursued, with the claim that generalist capacity can push specialized performance higher than expected, physical practice is framed as an unavoidable "relationship with self" — everyone has one, whether or not they recognize it, and it can be a poor one on "autopilot", disciplines with immediate physical feedback (parkour, martial arts, jiu-jitsu) are described as leaving "not much room... for lies," since failure is enforced directly by gravity or an opponent rather than self-assessment
 - **Important concepts:** "degeneracy" — the ability to perform a task multiple ways, offered as what broad movement training increases, training described as "the gateway drug" that leads people toward examining diet, sleep, and relationships once they experience quality-of-movement improvements, "fail fast, learn fast" paired with a caveat: failure only helps if paired with diagnosing why the failure happened, rather than repeating the same mistake
 
-## 16. WHAT NATURAL MOVEMENT REALLY BUILDS By Gaspard Nouaille
+## 19. WHAT NATURAL MOVEMENT REALLY BUILDS By Gaspard Nouaille
 
 - **Video ID:** `EdGeF6MJNeI`
 - **URL:** https://www.youtube.com/watch?v=EdGeF6MJNeI
@@ -201,7 +237,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 - **Evolutionary principles:** natural movement is framed as restoring "true global functionality" against physical limitations, social pressure, and unpredictable environments
 - **Important concepts:** feeling the strength and capacity of one's own body described as directly transforming mindset toward a "more peaceful, confident, and grounded posture toward life in general"
 
-## 17. WHAT TRADITIONAL SPORTS COULDN'T TEACH ME
+## 20. WHAT TRADITIONAL SPORTS COULDN'T TEACH ME
 
 - **Video ID:** `NlQE1zMJwns`
 - **URL:** https://www.youtube.com/watch?v=NlQE1zMJwns
@@ -249,6 +285,14 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **a wall alignment exercise — hips, mid-back, and back of the head all touching a wall simultaneously — used to teach what the source calls an "ideal standing position"** — Restoration Series 1 - Primary (`5Kdv4KVsxFE`)
 
+**balance-beam/board walking (described as a narrow board, roughly 2m by 4cm) used as an ankle, knee, hip, and spinal-stabilization exercise transferable to sport performance** — Real-World Strength & Natural Movement | MovNat Team Instructor Igor Bilinskyi (`i7JdDf7HzVM`)
+
+**barefoot walking and training, including on natural terrain (sand, mountain trail stones), with the stated rationale that footwear changes how the body perceives the ground and stabilizes movement** — Real-World Strength & Natural Movement | MovNat Team Instructor Igor Bilinskyi (`i7JdDf7HzVM`)
+
+**deep diaphragmatic exhale (pushing air out further than a normal exhale), repeated 4 times with 2 regular recovery breaths between each** — MovNat Training Session: Breath Work Session (`KlKh2kWFX0s`)
+
+**dynamic breath control: moving freely (any movement, any intensity) while deliberately maintaining nasal, diaphragmatic, slow breathing throughout, rather than reverting to open- mouth or upper-chest breathing as movement intensifies** — MovNat Training Session: Breath Work Session (`KlKh2kWFX0s`)
+
 **extension (prone lying): from forearms, pressing up onto the wrists while looking upward to extend the upper back, steering the extension away from the lower back or neck if felt there, then holding an extended position for 10 seconds using upper-back strength rather than pressing hard off the ground** — 3 Natural Movements for Spinal Mobility (`NfQiJDIXryM`)
 
 **flexion (rocking): forward-flexing the spine into a "c" shape (upper back, then mid/lower back, then hips) and rocking gently using minimal arm/leg momentum, then holding a full flexed position for 10 seconds** — 3 Natural Movements for Spinal Mobility (`NfQiJDIXryM`)
@@ -269,13 +313,23 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 
 **kneeling rotational reaching drills, and a deep-knee-bend sequence adding lateral, forward, and backward stepping** — Restoration Series 2 - Renewal (`5uQ0nN7GMcY`)
 
+**maximum diaphragmatic inhale immediately followed by a further maximum inhale using the upper respiratory muscles and rib cage, repeated 4 times, deliberately paced with recovery breaths to avoid hyperventilating** — MovNat Training Session: Breath Work Session (`KlKh2kWFX0s`)
+
+**maximum diaphragmatic inhale using the diaphragm alone, without upper respiratory muscles, repeated 4 times with 2 recovery breaths between each** — MovNat Training Session: Breath Work Session (`KlKh2kWFX0s`)
+
 **natural-movement drills used to address a limited ankle/hip range found in the get-up screen — kneeling ankle self-mobilization, toe-inclusive rocking, a seated knee-glide-and-reach drill, and a tall half-kneel with reaching** — The Power of the Get-Up (`9PcHMzl45rg`)
 
 **parkour's basic movement vocabulary — walking, balancing, running, jumping — adapted to unpredictable, diverse built terrain, contrasted with gymnastics' fixed, standardized apparatus** — Natural Movement & Parkour with Loren Fjord (`YPKG9b5ahmA`)
 
 **passive and active hip external-rotation tests used to distinguish a true mobility limit from a motor-control (strength/coordination) issue** — The Power of the Get-Up (`9PcHMzl45rg`)
 
+**primal movement patterns named: running, jumping, landing, overcoming obstacles, lifting, carrying loads, throwing, catching, swimming, diving, and self-defense skills** — Real-World Strength & Natural Movement | MovNat Team Instructor Igor Bilinskyi (`i7JdDf7HzVM`)
+
+**progressive training structure: building base fitness in a controlled studio environment first, then transferring it to outdoor, unpredictable terrain (mud, forest, mountains, snow)** — Real-World Strength & Natural Movement | MovNat Team Instructor Igor Bilinskyi (`i7JdDf7HzVM`)
+
 **regressing a skill by assisting it rather than removing it — e.g. teaching a hands swing-up onto a bar at progressively lower bar heights so a beginner still trains the same movement pattern with support** — She Coaches 16 People at Once and Nobody Gets Left Behind (`RadG02NFKU0`)
+
+**regular cold exposure / ice swimming, practiced by the instructor for a stated 12 years** — Real-World Strength & Natural Movement | MovNat Team Instructor Igor Bilinskyi (`i7JdDf7HzVM`)
 
 **rotation: seated on an elevated bolster (hips above knee height) for a neutral spine, then reaching backward in sequence (head, then torso, then arm), holding an end-range rotation for 10 seconds using the body's own muscular tension rather than pulling with the opposite hand** — 3 Natural Movements for Spinal Mobility (`NfQiJDIXryM`)
 
@@ -284,6 +338,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **side-rolling from supine to prone and back, leading with the arms and then with the legs, keeping the hips glued to the ground while reaching across the body** — Restoration Series 1 - Primary (`5Kdv4KVsxFE`)
 
 **single-leg kneeling by turning the hips from a deep knee bend, closing with a 10-minute walk or free-flowing ground movement practice** — Restoration Series 2 - Renewal (`5uQ0nN7GMcY`)
+
+**slow backward rocking with nasal diaphragmatic breathing, increasing range of motion each repetition** — MovNat Training Session: Breath Work Session (`KlKh2kWFX0s`)
 
 **the "spinal engine" as the origin point of locomotion, developed (in weck's evolutionary account) from lateral fish undulation through amphibian and mammalian strategies toward upright bipedal movement — presented as why the spine should be trained through multi-axis movement rather than braced into one "neutral" position** — The Movement Code Hidden in Your DNA – With David Weck (`aUVVDyJUDdw`)
 
@@ -296,6 +352,8 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **the full get-up sequence — body-weight shift onto the bent leg, transfer to elbow, transfer to hand, half-kneeling transition, and standing — taught step by step to two students** — The Turkish Get-Up Explained | Movement, Constraints, and the Real Purpose of Training (`ljw0HURuuLM`)
 
 **the get-up (elbow roll-up to hand post) used as a real-world illustration of the generalist vs. specialist argument: a 600 lb back-squatter struggling with it while the guest performed it smoothly** — What does it mean to truly move like a human? 🤔 (`8dF9WQwEK0E`)
+
+**the same three-part sequence repeated in a deep squat position, then in a prone position with arms locked out, and then in a full spinal-flexion position (knees and feet touching the ground behind the head)** — MovNat Training Session: Breath Work Session (`KlKh2kWFX0s`)
 
 **the turkish get-up named as "the most fundamental human pattern"** — Natural Movement & Parkour with Loren Fjord (`YPKG9b5ahmA`)
 
@@ -310,3 +368,11 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 **use of a kettlebell held overhead as a constraint to teach smoother, more efficient movement through the same get-up pattern** — The Turkish Get-Up Explained | Movement, Constraints, and the Real Purpose of Training (`ljw0HURuuLM`)
 
 **walking long distances daily while carrying a loaded pack (lancewood's own pack around 25kg, her partner's around 15kg) described as her only fitness maintenance, with no formal exercise** — 8 Years in the Wilderness with Miriam Lancewood, UYL Podcast Episode (`t9qdRFCV65U`)
+
+---
+
+## No transcript available — link only, not cited
+
+No caption track could be extracted for these (a YouTube limitation, not necessarily an absence of dialogue), so there's no transcript to anchor a claim against. They aren't sourced or fact-checked against anything here — just links, for watching directly.
+
+- [MovNat in Thailand](https://www.youtube.com/watch?v=UObBLZbtNEQ) (14:05)
