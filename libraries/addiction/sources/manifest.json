@@ -17,7 +17,50 @@
         "bound_field": "duration_seconds",
         "bound": 2004
       }
+    },
+    {
+      "id": "jfiBDuUVc-A",
+      "kind": "youtube",
+      "title": "How to pull yourself out of a cheap dopamine spiral | Mark Manson",
+      "url": "https://www.youtube.com/watch?v=jfiBDuUVc-A",
+      "upload_date": "2026-04-28",
+      "duration_seconds": 1072,
+      "duration": "17:52",
+      "word_count": 3053,
+      "clean_file": "clean/jfiBDuUVc-A.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1072
+      }
+    },
+    {
+      "id": "qjS78Mjzy7k",
+      "kind": "youtube",
+      "title": "Mark Manson: Self-control is a complete illusion",
+      "url": "https://www.youtube.com/watch?v=qjS78Mjzy7k",
+      "upload_date": "2026-07-01",
+      "duration_seconds": 724,
+      "duration": "12:04",
+      "word_count": 1948,
+      "clean_file": "clean/qjS78Mjzy7k.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 724
+      }
     }
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "id": "KHd-luu3M8s",
+      "title": "Your phone addiction is keeping you from achieving flow state | Arthur Brooks",
+      "url": "https://www.youtube.com/watch?v=KHd-luu3M8s",
+      "duration_seconds": 2004,
+      "duration": "33:24",
+      "reason": "no captions"
+    }
+  ]
 }
