@@ -120,6 +120,57 @@
       }
     },
     {
+      "id": "fnqkHOejQ00",
+      "kind": "youtube",
+      "title": "Loneliness is a biological advantage for cancer | David Linden",
+      "url": "https://www.youtube.com/watch?v=fnqkHOejQ00",
+      "upload_date": "2026-04-09",
+      "duration_seconds": 1655,
+      "duration": "27:35",
+      "word_count": 3777,
+      "clean_file": "clean/fnqkHOejQ00.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1655
+      }
+    },
+    {
+      "id": "wnhGEX0ava0",
+      "kind": "youtube",
+      "title": "Microbiome expert: How to reset your gut overnight | Tim Spector",
+      "url": "https://www.youtube.com/watch?v=wnhGEX0ava0",
+      "upload_date": "2026-06-25",
+      "duration_seconds": 1516,
+      "duration": "25:16",
+      "word_count": 3939,
+      "clean_file": "clean/wnhGEX0ava0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1516
+      }
+    },
+    {
+      "id": "YVwtt2MdfRg",
+      "kind": "youtube",
+      "title": "Microbiome expert: Your diet is making you anxious and depressed | Tim Spector",
+      "url": "https://www.youtube.com/watch?v=YVwtt2MdfRg",
+      "upload_date": "2026-06-23",
+      "duration_seconds": 1745,
+      "duration": "29:05",
+      "word_count": 4289,
+      "clean_file": "clean/YVwtt2MdfRg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1745
+      }
+    },
+    {
       "id": "oufQkXnSkes",
       "kind": "youtube",
       "title": "Modern Life Is A Disease",
@@ -205,6 +256,57 @@
       }
     },
     {
+      "id": "lx1djVcn1Gc",
+      "kind": "youtube",
+      "title": "Physician: Autoimmune disease isn't your immune system attacking you | Giulia Enders",
+      "url": "https://www.youtube.com/watch?v=lx1djVcn1Gc",
+      "upload_date": "2026-08-06",
+      "duration_seconds": 1204,
+      "duration": "20:04",
+      "word_count": 3605,
+      "clean_file": "clean/lx1djVcn1Gc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1204
+      }
+    },
+    {
+      "id": "HeWuOittejM",
+      "kind": "youtube",
+      "title": "Physician: Listen to your body’s wisdom instead of constantly pushing to optimize it | Giulia Enders",
+      "url": "https://www.youtube.com/watch?v=HeWuOittejM",
+      "upload_date": "2026-08-04",
+      "duration_seconds": 606,
+      "duration": "10:06",
+      "word_count": 1764,
+      "clean_file": "clean/HeWuOittejM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 606
+      }
+    },
+    {
+      "id": "npvfDKXGyRY",
+      "kind": "youtube",
+      "title": "Physician: Self-loneliness is real, and most people have it | Giulia Enders",
+      "url": "https://www.youtube.com/watch?v=npvfDKXGyRY",
+      "upload_date": "2026-08-05",
+      "duration_seconds": 835,
+      "duration": "13:55",
+      "word_count": 2558,
+      "clean_file": "clean/npvfDKXGyRY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 835
+      }
+    },
+    {
       "id": "A1CFsSH2hHI",
       "kind": "youtube",
       "title": "Stop Consuming Content",
@@ -253,6 +355,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 413
+      }
+    },
+    {
+      "id": "TShHIawV9yU",
+      "kind": "youtube",
+      "title": "The honest (and hidden) side effects of GLP-1s | David Linden",
+      "url": "https://www.youtube.com/watch?v=TShHIawV9yU",
+      "upload_date": "2026-04-07",
+      "duration_seconds": 960,
+      "duration": "16:00",
+      "word_count": 2505,
+      "clean_file": "clean/TShHIawV9yU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 960
+      }
+    },
+    {
+      "id": "Gb5bopBVDKM",
+      "kind": "youtube",
+      "title": "The infinite choice problem at the heart of modern living | David Epstein",
+      "url": "https://www.youtube.com/watch?v=Gb5bopBVDKM",
+      "upload_date": "2026-06-03",
+      "duration_seconds": 580,
+      "duration": "09:40",
+      "word_count": 1670,
+      "clean_file": "clean/Gb5bopBVDKM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 580
       }
     },
     {
@@ -358,6 +494,23 @@
       }
     },
     {
+      "id": "q57fOwJ0sLs",
+      "kind": "youtube",
+      "title": "The science of stress, coping, and recovery, in 22 minutes | Lisa Damour",
+      "url": "https://www.youtube.com/watch?v=q57fOwJ0sLs",
+      "upload_date": "2026-08-18",
+      "duration_seconds": 1388,
+      "duration": "23:08",
+      "word_count": 4254,
+      "clean_file": "clean/q57fOwJ0sLs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1388
+      }
+    },
+    {
       "id": "96ss9bcEnlg",
       "kind": "youtube",
       "title": "The Silent Epidemic That's More Dangerous Than Smoking",
@@ -372,6 +525,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 958
+      }
+    },
+    {
+      "id": "mNcbAJxt9TU",
+      "kind": "youtube",
+      "title": "The single biggest myth about diet trends, explained by an expert | Tim Spector",
+      "url": "https://www.youtube.com/watch?v=mNcbAJxt9TU",
+      "upload_date": "2026-06-24",
+      "duration_seconds": 1130,
+      "duration": "18:50",
+      "word_count": 3112,
+      "clean_file": "clean/mNcbAJxt9TU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1130
+      }
+    },
+    {
+      "id": "XJb6s2y6DBM",
+      "kind": "youtube",
+      "title": "The strange science of placebos | David Linden",
+      "url": "https://www.youtube.com/watch?v=XJb6s2y6DBM",
+      "upload_date": "2026-04-08",
+      "duration_seconds": 1205,
+      "duration": "20:05",
+      "word_count": 2826,
+      "clean_file": "clean/XJb6s2y6DBM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1205
       }
     },
     {
@@ -409,6 +596,23 @@
       }
     },
     {
+      "id": "j_PR9x5_P1A",
+      "kind": "youtube",
+      "title": "The unpopular truth about the concept of the lone genius | David Epstein",
+      "url": "https://www.youtube.com/watch?v=j_PR9x5_P1A",
+      "upload_date": "2026-06-02",
+      "duration_seconds": 1180,
+      "duration": "19:40",
+      "word_count": 3632,
+      "clean_file": "clean/j_PR9x5_P1A.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1180
+      }
+    },
+    {
       "id": "YtJOvJebgeQ",
       "kind": "youtube",
       "title": "The Zone 2 Lie",
@@ -440,6 +644,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1132
+      }
+    },
+    {
+      "id": "rSJQf72jlGA",
+      "kind": "youtube",
+      "title": "This Ancient Greek practice creates more meaning in your life | Arthur Brooks",
+      "url": "https://www.youtube.com/watch?v=rSJQf72jlGA",
+      "upload_date": "2026-08-12",
+      "duration_seconds": 3186,
+      "duration": "53:06",
+      "word_count": 10039,
+      "clean_file": "clean/rSJQf72jlGA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3186
       }
     },
     {
@@ -491,6 +712,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 640
+      }
+    },
+    {
+      "id": "XI6mWGKDEpE",
+      "kind": "youtube",
+      "title": "We switch screens every 45 seconds. It's making us sick | David Epstein",
+      "url": "https://www.youtube.com/watch?v=XI6mWGKDEpE",
+      "upload_date": "2026-06-04",
+      "duration_seconds": 560,
+      "duration": "09:20",
+      "word_count": 1802,
+      "clean_file": "clean/XI6mWGKDEpE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 560
       }
     },
     {
@@ -613,6 +851,40 @@
       }
     },
     {
+      "id": "JxPD4ZiULEU",
+      "kind": "youtube",
+      "title": "Why even the healthiest people hit a wall at age 70 | Andrew Steele",
+      "url": "https://www.youtube.com/watch?v=JxPD4ZiULEU",
+      "upload_date": "2026-01-21",
+      "duration_seconds": 1293,
+      "duration": "21:33",
+      "word_count": 5053,
+      "clean_file": "clean/JxPD4ZiULEU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1293
+      }
+    },
+    {
+      "id": "-8cPMuMm2BE",
+      "kind": "youtube",
+      "title": "Why modern fitness culture misunderstands human bodies | Daniel Lieberman",
+      "url": "https://www.youtube.com/watch?v=-8cPMuMm2BE",
+      "upload_date": "2026-01-22",
+      "duration_seconds": 1131,
+      "duration": "18:51",
+      "word_count": 3977,
+      "clean_file": "clean/-8cPMuMm2BE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1131
+      }
+    },
+    {
       "id": "o_0VVZIFoLw",
       "kind": "youtube",
       "title": "Why You Can't Do Hard Things",
@@ -695,6 +967,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 775
+      }
+    },
+    {
+      "id": "J4csae0gaQM",
+      "kind": "youtube",
+      "title": "Young people say their lives feel fake. Here’s why | Arthur Brooks",
+      "url": "https://www.youtube.com/watch?v=J4csae0gaQM",
+      "upload_date": "2026-08-11",
+      "duration_seconds": 1693,
+      "duration": "28:13",
+      "word_count": 5242,
+      "clean_file": "clean/J4csae0gaQM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1693
       }
     },
     {

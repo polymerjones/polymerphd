@@ -19,6 +19,40 @@
       }
     },
     {
+      "id": "RcJbUrsb6_c",
+      "kind": "youtube",
+      "title": "Getting 1% better every day is mathematically impossible. Do this instead | Brad Stulberg",
+      "url": "https://www.youtube.com/watch?v=RcJbUrsb6_c",
+      "upload_date": "2026-04-23",
+      "duration_seconds": 1109,
+      "duration": "18:29",
+      "word_count": 3595,
+      "clean_file": "clean/RcJbUrsb6_c.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1109
+      }
+    },
+    {
+      "id": "_LXOkNxWqpw",
+      "kind": "youtube",
+      "title": "Goals set us up for disappointment. Build this instead | Chris Bailey",
+      "url": "https://www.youtube.com/watch?v=_LXOkNxWqpw",
+      "upload_date": "2026-05-21",
+      "duration_seconds": 1292,
+      "duration": "21:32",
+      "word_count": 3656,
+      "clean_file": "clean/_LXOkNxWqpw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1292
+      }
+    },
+    {
       "id": "jfiBDuUVc-A",
       "kind": "youtube",
       "title": "How to pull yourself out of a cheap dopamine spiral | Mark Manson",
@@ -50,6 +84,108 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 724
+      }
+    },
+    {
+      "id": "5m5jy39AmV8",
+      "kind": "youtube",
+      "title": "Most of your suffering comes from one thing | Mark Manson",
+      "url": "https://www.youtube.com/watch?v=5m5jy39AmV8",
+      "upload_date": "2026-04-29",
+      "duration_seconds": 1238,
+      "duration": "20:38",
+      "word_count": 3746,
+      "clean_file": "clean/5m5jy39AmV8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1238
+      }
+    },
+    {
+      "id": "A6dRIGyf-fE",
+      "kind": "youtube",
+      "title": "The push to self-optimize is hollowing out your happiness | Brad Stulberg",
+      "url": "https://www.youtube.com/watch?v=A6dRIGyf-fE",
+      "upload_date": "2026-04-22",
+      "duration_seconds": 1248,
+      "duration": "20:48",
+      "word_count": 3948,
+      "clean_file": "clean/A6dRIGyf-fE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1248
+      }
+    },
+    {
+      "id": "3Rz99TpM9uE",
+      "kind": "youtube",
+      "title": "The science of rewiring bad habits, in 17 minutes | Charles Duhigg",
+      "url": "https://www.youtube.com/watch?v=3Rz99TpM9uE",
+      "upload_date": "2026-06-16",
+      "duration_seconds": 1049,
+      "duration": "17:29",
+      "word_count": 3436,
+      "clean_file": "clean/3Rz99TpM9uE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1049
+      }
+    },
+    {
+      "id": "qCDk0k1EL-s",
+      "kind": "youtube",
+      "title": "These 12 values drive every decision you’ve ever made | Chris Bailey",
+      "url": "https://www.youtube.com/watch?v=qCDk0k1EL-s",
+      "upload_date": "2026-05-20",
+      "duration_seconds": 583,
+      "duration": "09:43",
+      "word_count": 1468,
+      "clean_file": "clean/qCDk0k1EL-s.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 583
+      }
+    },
+    {
+      "id": "tM2s97-AJwo",
+      "kind": "youtube",
+      "title": "You can't shame yourself into a new nervous system | Nicole LePera",
+      "url": "https://www.youtube.com/watch?v=tM2s97-AJwo",
+      "upload_date": "2026-05-07",
+      "duration_seconds": 1056,
+      "duration": "17:36",
+      "word_count": 2919,
+      "clean_file": "clean/tM2s97-AJwo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1056
+      }
+    },
+    {
+      "id": "enbx-X26pII",
+      "kind": "youtube",
+      "title": "Your goals are optimized for the wrong thing | Chris Bailey",
+      "url": "https://www.youtube.com/watch?v=enbx-X26pII",
+      "upload_date": "2026-05-19",
+      "duration_seconds": 802,
+      "duration": "13:22",
+      "word_count": 2157,
+      "clean_file": "clean/enbx-X26pII.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 802
       }
     }
   ],

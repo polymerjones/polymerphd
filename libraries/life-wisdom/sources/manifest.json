@@ -18,6 +18,23 @@
       }
     },
     {
+      "id": "kwsBDxcVh34",
+      "kind": "youtube",
+      "title": "\"Reactance theory\" explains your most destructive life decisions | Paul Bloom",
+      "url": "https://www.youtube.com/watch?v=kwsBDxcVh34",
+      "upload_date": "2026-07-22",
+      "duration_seconds": 1507,
+      "duration": "25:07",
+      "word_count": 4261,
+      "clean_file": "clean/kwsBDxcVh34.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1507
+      }
+    },
+    {
       "id": "hloBBd9ZT2I",
       "kind": "youtube",
       "title": "\"🎙️ The Power of a Woman Living Alone Without Boyfriends 💪 | Shi Heng Yi Wisdom\"",
@@ -35,6 +52,23 @@
       }
     },
     {
+      "id": "EpacFN8cU-Y",
+      "kind": "youtube",
+      "title": "1 in 5 people are unbearably lonely. A psychologist explains | Paul Bloom",
+      "url": "https://www.youtube.com/watch?v=EpacFN8cU-Y",
+      "upload_date": "2026-07-21",
+      "duration_seconds": 1437,
+      "duration": "23:57",
+      "word_count": 4110,
+      "clean_file": "clean/EpacFN8cU-Y.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1437
+      }
+    },
+    {
       "id": "RzR5qJjyQ3U",
       "kind": "youtube",
       "title": "12 Subtle Signs You’re More Attractive Than You Think | Shi Heng Yi Wisdom\"",
@@ -49,6 +83,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1160
+      }
+    },
+    {
+      "id": "lzRl29Gyib0",
+      "kind": "youtube",
+      "title": "62% of teenagers wish adults would do this when they’re upset | Lisa Damour",
+      "url": "https://www.youtube.com/watch?v=lzRl29Gyib0",
+      "upload_date": "2026-08-20",
+      "duration_seconds": 1628,
+      "duration": "27:08",
+      "word_count": 5274,
+      "clean_file": "clean/lzRl29Gyib0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1628
       }
     },
     {
@@ -86,6 +137,23 @@
       }
     },
     {
+      "id": "cuNPqmX15gs",
+      "kind": "youtube",
+      "title": "Happy couples don't solve their problems | John & Julie Gottman",
+      "url": "https://www.youtube.com/watch?v=cuNPqmX15gs",
+      "upload_date": "2026-08-25",
+      "duration_seconds": 1483,
+      "duration": "24:43",
+      "word_count": 3191,
+      "clean_file": "clean/cuNPqmX15gs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1483
+      }
+    },
+    {
       "id": "lO2U9H0U8sQ",
       "kind": "youtube",
       "title": "How Successful People Make the Most of Every Moment in 24 Hours | Shi Heng Yi Wisdom",
@@ -103,6 +171,23 @@
       }
     },
     {
+      "id": "ncPPIpGjBH0",
+      "kind": "youtube",
+      "title": "How to decipher people’s true intentions, in 12 minutes | Vanessa Van Edwards",
+      "url": "https://www.youtube.com/watch?v=ncPPIpGjBH0",
+      "upload_date": "2026-06-10",
+      "duration_seconds": 695,
+      "duration": "11:35",
+      "word_count": 2166,
+      "clean_file": "clean/ncPPIpGjBH0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 695
+      }
+    },
+    {
       "id": "MsIuSyScGlk",
       "kind": "youtube",
       "title": "How to Handle a Woman Who Hurts You | Shi Heng Yi Wisdom",
@@ -117,6 +202,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1889
+      }
+    },
+    {
+      "id": "hJstrNfZe0E",
+      "kind": "youtube",
+      "title": "How to make friends as an adult, according to a Harvard psychiatrist | Robert Waldinger",
+      "url": "https://www.youtube.com/watch?v=hJstrNfZe0E",
+      "upload_date": "2026-04-21",
+      "duration_seconds": 666,
+      "duration": "11:06",
+      "word_count": 1566,
+      "clean_file": "clean/hJstrNfZe0E.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 666
+      }
+    },
+    {
+      "id": "hIkAXDe4ZPQ",
+      "kind": "youtube",
+      "title": "How to navigate uncomfortable social situations, in 16 mins | Charles Duhigg",
+      "url": "https://www.youtube.com/watch?v=hIkAXDe4ZPQ",
+      "upload_date": "2026-06-18",
+      "duration_seconds": 976,
+      "duration": "16:16",
+      "word_count": 3207,
+      "clean_file": "clean/hIkAXDe4ZPQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 976
       }
     },
     {
@@ -188,6 +307,74 @@
       }
     },
     {
+      "id": "mlpV7mzGfIE",
+      "kind": "youtube",
+      "title": "Strong partners do this when they hear “We need to talk” | John & Julie Gottman",
+      "url": "https://www.youtube.com/watch?v=mlpV7mzGfIE",
+      "upload_date": "2026-08-26",
+      "duration_seconds": 1206,
+      "duration": "20:06",
+      "word_count": 2570,
+      "clean_file": "clean/mlpV7mzGfIE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1206
+      }
+    },
+    {
+      "id": "ZRqtUcM9pr0",
+      "kind": "youtube",
+      "title": "Subtle sabotage: What your face looks like while you're listening | Vanessa Van Edwards",
+      "url": "https://www.youtube.com/watch?v=ZRqtUcM9pr0",
+      "upload_date": "2026-06-11",
+      "duration_seconds": 829,
+      "duration": "13:49",
+      "word_count": 2565,
+      "clean_file": "clean/ZRqtUcM9pr0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 829
+      }
+    },
+    {
+      "id": "-ynkqfoteVk",
+      "kind": "youtube",
+      "title": "The biological proof that damage from trauma can be reversed | Rachel Yehuda",
+      "url": "https://www.youtube.com/watch?v=-ynkqfoteVk",
+      "upload_date": "2026-04-15",
+      "duration_seconds": 1242,
+      "duration": "20:42",
+      "word_count": 3194,
+      "clean_file": "clean/-ynkqfoteVk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1242
+      }
+    },
+    {
+      "id": "P67QcUyQ6lU",
+      "kind": "youtube",
+      "title": "The crucial emotional skill most adults were never taught | Becky Kennedy",
+      "url": "https://www.youtube.com/watch?v=P67QcUyQ6lU",
+      "upload_date": "2025-12-30",
+      "duration_seconds": 2511,
+      "duration": "41:51",
+      "word_count": 7782,
+      "clean_file": "clean/P67QcUyQ6lU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2511
+      }
+    },
+    {
       "id": "LNb88LCyp6U",
       "kind": "youtube",
       "title": "The Most Dangerous Trait in a Person – A Stark Warning from Shi Heng Yi Wisdom",
@@ -202,6 +389,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 917
+      }
+    },
+    {
+      "id": "XdpnVowlawA",
+      "kind": "youtube",
+      "title": "The most important conversational rule most people never learn | Charles Duhigg",
+      "url": "https://www.youtube.com/watch?v=XdpnVowlawA",
+      "upload_date": "2026-06-17",
+      "duration_seconds": 602,
+      "duration": "10:02",
+      "word_count": 2016,
+      "clean_file": "clean/XdpnVowlawA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 602
+      }
+    },
+    {
+      "id": "-p4v0a7Gj24",
+      "kind": "youtube",
+      "title": "The one principal that all highly successful people share | Mark Manson",
+      "url": "https://www.youtube.com/watch?v=-p4v0a7Gj24",
+      "upload_date": "2026-04-30",
+      "duration_seconds": 1106,
+      "duration": "18:26",
+      "word_count": 3211,
+      "clean_file": "clean/-p4v0a7Gj24.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1106
       }
     },
     {
@@ -222,6 +443,57 @@
       }
     },
     {
+      "id": "y_790Abbiek",
+      "kind": "youtube",
+      "title": "The story you told about your trauma is making it worse | Rachel Yehuda",
+      "url": "https://www.youtube.com/watch?v=y_790Abbiek",
+      "upload_date": "2026-04-16",
+      "duration_seconds": 1242,
+      "duration": "20:42",
+      "word_count": 3178,
+      "clean_file": "clean/y_790Abbiek.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1242
+      }
+    },
+    {
+      "id": "T18KUSDy-zU",
+      "kind": "youtube",
+      "title": "The strange reason nobody views their own retaliation as evil | Paul Bloom",
+      "url": "https://www.youtube.com/watch?v=T18KUSDy-zU",
+      "upload_date": "2026-07-23",
+      "duration_seconds": 1158,
+      "duration": "19:18",
+      "word_count": 3083,
+      "clean_file": "clean/T18KUSDy-zU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1158
+      }
+    },
+    {
+      "id": "tWDcqt-Xj2w",
+      "kind": "youtube",
+      "title": "The uncomfortable question you should ask on every first date | Alain de Botton",
+      "url": "https://www.youtube.com/watch?v=tWDcqt-Xj2w",
+      "upload_date": "2026-02-26",
+      "duration_seconds": 1414,
+      "duration": "23:34",
+      "word_count": 4390,
+      "clean_file": "clean/tWDcqt-Xj2w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1414
+      }
+    },
+    {
       "id": "7h9IeZ1Jms0",
       "kind": "youtube",
       "title": "The Unstoppable Power of a Woman Who Thrives Without Friends | Shi Heng Yi Wisdom",
@@ -236,6 +508,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 2400
+      }
+    },
+    {
+      "id": "X0MkytAc8Dw",
+      "kind": "youtube",
+      "title": "These children are labeled as defiant. Why that’s wrong | Becky Kennedy",
+      "url": "https://www.youtube.com/watch?v=X0MkytAc8Dw",
+      "upload_date": "2025-12-31",
+      "duration_seconds": 656,
+      "duration": "10:56",
+      "word_count": 2064,
+      "clean_file": "clean/X0MkytAc8Dw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 656
       }
     },
     {
@@ -256,6 +545,23 @@
       }
     },
     {
+      "id": "JJqHqWvA-8k",
+      "kind": "youtube",
+      "title": "This is why highly empathic people feel drained all the time | Lisa Damour",
+      "url": "https://www.youtube.com/watch?v=JJqHqWvA-8k",
+      "upload_date": "2026-08-19",
+      "duration_seconds": 1170,
+      "duration": "19:30",
+      "word_count": 3786,
+      "clean_file": "clean/JJqHqWvA-8k.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1170
+      }
+    },
+    {
       "id": "vQ3iR67rtfc",
       "kind": "youtube",
       "title": "This One Vitamin Prevents Muscle Loss in Just 14 Days | Shi Heng Yi Wisdom",
@@ -273,6 +579,23 @@
       }
     },
     {
+      "id": "O7AJKBeWg-Q",
+      "kind": "youtube",
+      "title": "This social signal kills charisma faster than anything else | Vanessa Van Edwards",
+      "url": "https://www.youtube.com/watch?v=O7AJKBeWg-Q",
+      "upload_date": "2026-06-09",
+      "duration_seconds": 1073,
+      "duration": "17:53",
+      "word_count": 3403,
+      "clean_file": "clean/O7AJKBeWg-Q.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1073
+      }
+    },
+    {
       "id": "kLJN8pFZGi4",
       "kind": "youtube",
       "title": "To See Someone's True Character, Pay Attention to Just 2 Things-|shi heng yi wisdom?",
@@ -287,6 +610,57 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1102
+      }
+    },
+    {
+      "id": "plG_Lbu49Wk",
+      "kind": "youtube",
+      "title": "Total compatibility is not a requirement for a long-lasting partnership | John & Julie Gottman",
+      "url": "https://www.youtube.com/watch?v=plG_Lbu49Wk",
+      "upload_date": "2026-08-27",
+      "duration_seconds": 1222,
+      "duration": "20:22",
+      "word_count": 2548,
+      "clean_file": "clean/plG_Lbu49Wk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1222
+      }
+    },
+    {
+      "id": "4apGtiz42Qk",
+      "kind": "youtube",
+      "title": "Why relationships in 2026 carry impossible expectations | Alain de Botton",
+      "url": "https://www.youtube.com/watch?v=4apGtiz42Qk",
+      "upload_date": "2026-02-24",
+      "duration_seconds": 669,
+      "duration": "11:09",
+      "word_count": 1807,
+      "clean_file": "clean/4apGtiz42Qk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 669
+      }
+    },
+    {
+      "id": "ISV46OuhQyQ",
+      "kind": "youtube",
+      "title": "Why shame works short-term and backfires for life | Becky Kennedy",
+      "url": "https://www.youtube.com/watch?v=ISV46OuhQyQ",
+      "upload_date": "2025-12-29",
+      "duration_seconds": 2270,
+      "duration": "37:50",
+      "word_count": 7053,
+      "clean_file": "clean/ISV46OuhQyQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2270
       }
     },
     {
@@ -321,6 +695,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1032
+      }
+    },
+    {
+      "id": "TZI0ktDNRB0",
+      "kind": "youtube",
+      "title": "Your attachment style was shaped before you turned 10 | Alain de Botton",
+      "url": "https://www.youtube.com/watch?v=TZI0ktDNRB0",
+      "upload_date": "2026-02-25",
+      "duration_seconds": 927,
+      "duration": "15:27",
+      "word_count": 2648,
+      "clean_file": "clean/TZI0ktDNRB0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 927
       }
     },
     {

@@ -443,6 +443,23 @@
       }
     },
     {
+      "id": "4EmuBcIlWBs",
+      "kind": "youtube",
+      "title": "5 Stoic lessons to become your best self in 2026 | Massimo Pigliucci",
+      "url": "https://www.youtube.com/watch?v=4EmuBcIlWBs",
+      "upload_date": "2026-01-07",
+      "duration_seconds": 2830,
+      "duration": "47:10",
+      "word_count": 8287,
+      "clean_file": "clean/4EmuBcIlWBs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2830
+      }
+    },
+    {
       "id": "rnQ_ntJcgCc",
       "kind": "youtube",
       "title": "5 Stoic Secrets That Pull Success to You — WATCH EVERYTHING CHANGE | STOICISM",
@@ -1565,6 +1582,23 @@
       }
     },
     {
+      "id": "NOH48U5nxt0",
+      "kind": "youtube",
+      "title": "Stoicism has been wildly misinterpreted. Here’s the ancient truth: | Massimo Pigliucci",
+      "url": "https://www.youtube.com/watch?v=NOH48U5nxt0",
+      "upload_date": "2026-01-08",
+      "duration_seconds": 2610,
+      "duration": "43:30",
+      "word_count": 7150,
+      "clean_file": "clean/NOH48U5nxt0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2610
+      }
+    },
+    {
       "id": "v1W15Ef9-I4",
       "kind": "youtube",
       "title": "Stop Caring What People Think - Watch Everything Change | STOICISM",
@@ -1650,6 +1684,40 @@
       }
     },
     {
+      "id": "VUJSsfbcMh0",
+      "kind": "youtube",
+      "title": "The hidden problem at the heart of nihilism | Alex O'Connor",
+      "url": "https://www.youtube.com/watch?v=VUJSsfbcMh0",
+      "upload_date": "2025-12-19",
+      "duration_seconds": 2034,
+      "duration": "33:54",
+      "word_count": 6334,
+      "clean_file": "clean/VUJSsfbcMh0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2034
+      }
+    },
+    {
+      "id": "F2L93rmz5nw",
+      "kind": "youtube",
+      "title": "The invisible archetype: being physically raised but emotionally abandoned | Nicole LePera",
+      "url": "https://www.youtube.com/watch?v=F2L93rmz5nw",
+      "upload_date": "2026-05-05",
+      "duration_seconds": 1405,
+      "duration": "23:25",
+      "word_count": 3912,
+      "clean_file": "clean/F2L93rmz5nw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1405
+      }
+    },
+    {
       "id": "McjSdV4985Y",
       "kind": "youtube",
       "title": "The More You Let Go, The More Life Gives You | STOICISM",
@@ -1681,6 +1749,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 2569
+      }
+    },
+    {
+      "id": "BvsY7j3TyD0",
+      "kind": "youtube",
+      "title": "Thinking too logically can actually hold you back | Dan Shipper",
+      "url": "https://www.youtube.com/watch?v=BvsY7j3TyD0",
+      "upload_date": "2026-02-05",
+      "duration_seconds": 1352,
+      "duration": "22:32",
+      "word_count": 3873,
+      "clean_file": "clean/BvsY7j3TyD0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1352
       }
     },
     {
@@ -1769,6 +1854,40 @@
       }
     },
     {
+      "id": "0tRxtfHpVk4",
+      "kind": "youtube",
+      "title": "Why people mistake feelings for moral insight | Alex O'Connor",
+      "url": "https://www.youtube.com/watch?v=0tRxtfHpVk4",
+      "upload_date": "2025-12-20",
+      "duration_seconds": 1950,
+      "duration": "32:30",
+      "word_count": 5963,
+      "clean_file": "clean/0tRxtfHpVk4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1950
+      }
+    },
+    {
+      "id": "V3_EAZd0-rw",
+      "kind": "youtube",
+      "title": "Why Stoicism fails when treated like self-help | Massimo Pigliucci",
+      "url": "https://www.youtube.com/watch?v=V3_EAZd0-rw",
+      "upload_date": "2026-01-06",
+      "duration_seconds": 1350,
+      "duration": "22:30",
+      "word_count": 3857,
+      "clean_file": "clean/V3_EAZd0-rw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1350
+      }
+    },
+    {
       "id": "mAqc3WylMBc",
       "kind": "youtube",
       "title": "You Are Not Free Until You Understand Why You Want What You Want | Baruch Spinoza",
@@ -1783,6 +1902,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 810
+      }
+    },
+    {
+      "id": "w0bsmGO78WM",
+      "kind": "youtube",
+      "title": "Your identity, habits, and patterns were designed by childhood wounds | Nicole LePera",
+      "url": "https://www.youtube.com/watch?v=w0bsmGO78WM",
+      "upload_date": "2026-05-06",
+      "duration_seconds": 815,
+      "duration": "13:35",
+      "word_count": 2190,
+      "clean_file": "clean/w0bsmGO78WM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 815
       }
     }
   ],
