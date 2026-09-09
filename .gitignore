@@ -9,6 +9,12 @@ libraries/*/sources/raw/
 # and the library's own clean/manifest provenance record belong in git.
 /ebook/
 
+# Purchased DVD program media (multi-GB video rips, PDF guides) staged for
+# add_local_video.py / add_pdf.py before ingestion. Same rule as /ebook/ above:
+# never committed — only the cited note and the library's own clean/manifest
+# provenance record belong in git.
+/Georges St-Pierre Rushfit Workout Program/
+
 # macOS
 .DS_Store
 

@@ -1,0 +1,255 @@
+{
+  "sources": [
+    {
+      "id": "abdominal-strength-and-core-conditioning",
+      "kind": "video_local",
+      "title": "Abdominal Strength and Core Conditioning",
+      "url": null,
+      "source_file": "Rushfit Abdominal Strength and Core Conditioning Dvd.avi",
+      "release_year": 2010,
+      "duration_seconds": 6050.836458,
+      "duration": "1:40:50",
+      "word_count": 19666,
+      "clean_file": "clean/abdominal-strength-and-core-conditioning.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 6050.836458
+      }
+    },
+    {
+      "id": "balance-and-agility",
+      "kind": "video_local",
+      "title": "Balance and Agility",
+      "url": null,
+      "source_file": "Rushfit Balance and Agility.mp4",
+      "release_year": 2010,
+      "duration_seconds": 2306.014348,
+      "duration": "38:26",
+      "word_count": 6413,
+      "clean_file": "clean/balance-and-agility.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2306.014348
+      }
+    },
+    {
+      "id": "bonus-workouts",
+      "kind": "video_local",
+      "title": "Bonus Workouts",
+      "url": null,
+      "source_file": "Rushfit Bonus Workouts Dvd.avi",
+      "release_year": 2010,
+      "duration_seconds": 5693.145792,
+      "duration": "1:34:53",
+      "word_count": 16331,
+      "clean_file": "clean/bonus-workouts.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 5693.145792
+      }
+    },
+    {
+      "id": "explosive-power-training",
+      "kind": "video_local",
+      "title": "Explosive Power Training",
+      "url": null,
+      "source_file": "Rushfit Explosive Powertraining Dvd.avi",
+      "release_year": 2010,
+      "duration_seconds": 6078.989583,
+      "duration": "1:41:18",
+      "word_count": 18768,
+      "clean_file": "clean/explosive-power-training.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 6078.989583
+      }
+    },
+    {
+      "id": "foundation-moves",
+      "kind": "video_local",
+      "title": "Foundation Moves",
+      "url": null,
+      "source_file": "Foundation Moves.mp4",
+      "release_year": 2010,
+      "duration_seconds": 2794.419419,
+      "duration": "46:34",
+      "word_count": 9723,
+      "clean_file": "clean/foundation-moves.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2794.419419
+      }
+    },
+    {
+      "id": "full-body-strength-and-conditioning",
+      "kind": "video_local",
+      "title": "Full Body Strength and Conditioning",
+      "url": null,
+      "source_file": "Rushfit Full Body Strength and Conditioning Dvd.avi",
+      "release_year": 2010,
+      "duration_seconds": 5997.825167,
+      "duration": "1:39:57",
+      "word_count": 19517,
+      "clean_file": "clean/full-body-strength-and-conditioning.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 5997.825167
+      }
+    },
+    {
+      "id": "rushfit-advanced-training-calendar",
+      "kind": "pdf",
+      "title": "RUSHFIT Advanced Training Calendar, Weeks 1-8",
+      "author": "Georges St-Pierre / Erik Owings",
+      "url": "http://www.gsprushfit.com",
+      "retrieved_date": "2026-09-09",
+      "clean_file": "clean/rushfit-advanced-training-calendar.txt",
+      "word_count": 632,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 4
+      }
+    },
+    {
+      "id": "rushfit-beginner-training-calendar",
+      "kind": "pdf",
+      "title": "RUSHFIT Beginner Training Calendar, Weeks 1-8",
+      "author": "Georges St-Pierre / Erik Owings",
+      "url": "http://www.gsprushfit.com",
+      "retrieved_date": "2026-09-09",
+      "clean_file": "clean/rushfit-beginner-training-calendar.txt",
+      "word_count": 555,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 4
+      }
+    },
+    {
+      "id": "rushfit-intermediate-training-calendar",
+      "kind": "pdf",
+      "title": "RUSHFIT Intermediate Training Calendar, Weeks 1-8",
+      "author": "Georges St-Pierre / Erik Owings",
+      "url": "http://www.gsprushfit.com",
+      "retrieved_date": "2026-09-09",
+      "clean_file": "clean/rushfit-intermediate-training-calendar.txt",
+      "word_count": 470,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 4
+      }
+    },
+    {
+      "id": "rushfit-nutrition-guide",
+      "kind": "pdf",
+      "title": "RUSHFIT Nutrition Guide",
+      "author": "Georges St-Pierre / Erik Owings",
+      "url": "http://www.gsprushfit.com",
+      "retrieved_date": "2026-09-09",
+      "clean_file": "clean/rushfit-nutrition-guide.txt",
+      "word_count": 3498,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 23
+      }
+    },
+    {
+      "id": "rushfit-workout-guide",
+      "kind": "pdf",
+      "title": "RUSHFIT Workout Guide",
+      "author": "Georges St-Pierre / Erik Owings",
+      "url": "http://www.gsprushfit.com",
+      "retrieved_date": "2026-09-09",
+      "clean_file": "clean/rushfit-workout-guide.txt",
+      "word_count": 2491,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 23
+      }
+    },
+    {
+      "id": "strength-and-endurance",
+      "kind": "video_local",
+      "title": "Strength and Endurance",
+      "url": null,
+      "source_file": "Rushfit Strength and Endurance Workout Dvd.avi",
+      "release_year": 2010,
+      "duration_seconds": 6067.32,
+      "duration": "1:41:07",
+      "word_count": 19813,
+      "clean_file": "clean/strength-and-endurance.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 6067.32
+      }
+    },
+    {
+      "id": "stretch-for-flexibility",
+      "kind": "video_local",
+      "title": "Stretch for Flexibility",
+      "url": null,
+      "source_file": "Rushfit Stretch For Flexibility.mp4",
+      "release_year": 2010,
+      "duration_seconds": 2379.087421,
+      "duration": "39:39",
+      "word_count": 7215,
+      "clean_file": "clean/stretch-for-flexibility.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2379.087421
+      }
+    },
+    {
+      "id": "the-fight-conditioning-workout",
+      "kind": "video_local",
+      "title": "The Fight Conditioning Workout",
+      "url": null,
+      "source_file": "Rushfit the Fight Conditioning Workout Dvd.avi",
+      "release_year": 2010,
+      "duration_seconds": 4867.2,
+      "duration": "1:21:07",
+      "word_count": 12891,
+      "clean_file": "clean/the-fight-conditioning-workout.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 4867.2
+      }
+    }
+  ]
+}

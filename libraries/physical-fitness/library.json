@@ -1,0 +1,52 @@
+{
+  "slug": "physical-fitness",
+  "title": "Physical Fitness",
+  "subtitle": "Home training programs — workouts, technique, and nutrition guides",
+  "lede": "A reference to {videos} sources across home fitness training programs — workouts, technique, and nutrition.",
+  "about_paragraphs": [
+    "A reference built from {videos} sources across home fitness training programs — starting with Georges St-Pierre's RUSHFIT camp (nine DVD workout sessions and five program guides, designed by GSP and trainer Erik Owings) — synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a specific point in a specific source — a page in a guide, or a timestamp in a workout video. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["program", "workouts", "exercises", "equipment", "training_focus"],
+  "primary_facet": "exercises",
+  "controlled_facets": {},
+  "universal_sections": [
+    "Central claim",
+    "Form cues and body signals addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+
+  "glossary_file": "07_PLAIN_ENGLISH_GLOSSARY.md",
+  "curated_facts_file": null,
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "program": "Program",
+    "workouts": "Workouts",
+    "exercises": "Exercises and movements",
+    "equipment": "Equipment",
+    "training_focus": "Training focus"
+  },
+  "catalog_unit_label": "Sources",
+  "catalog_id_label": "Source ID",
+
+  "attribution": {
+    "style": "multi_channel",
+    "name": "Various programs",
+    "url": null
+  },
+
+  "custom_gpt": {
+    "enabled": true,
+    "instructions_file": "PASTE_INTO_GPT_INSTRUCTIONS.txt",
+    "file_limit": 20
+  },
+
+  "derived_practice_facets": false
+}
