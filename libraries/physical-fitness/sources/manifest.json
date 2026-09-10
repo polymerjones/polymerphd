@@ -39,6 +39,63 @@
       }
     },
     {
+      "id": "basics",
+      "kind": "video_local",
+      "title": "Basics",
+      "url": null,
+      "source_file": "Basics-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 655.221889,
+      "duration": "10:55",
+      "word_count": 1685,
+      "clean_file": "clean/basics.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 655.221889
+      }
+    },
+    {
+      "id": "beast-abs",
+      "kind": "video_local",
+      "title": "Beast Abs",
+      "url": null,
+      "source_file": "Beast Abs-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 726.69336,
+      "duration": "12:06",
+      "word_count": 1766,
+      "clean_file": "clean/beast-abs.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 726.69336
+      }
+    },
+    {
+      "id": "beast-cardio",
+      "kind": "video_local",
+      "title": "Beast Cardio",
+      "url": null,
+      "source_file": "Beast Cardio-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 1902.83617,
+      "duration": "31:42",
+      "word_count": 4352,
+      "clean_file": "clean/beast-cardio.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1902.83617
+      }
+    },
+    {
       "id": "bonus-workouts",
       "kind": "video_local",
       "title": "Bonus Workouts",
@@ -55,6 +112,177 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 5693.145792
+      }
+    },
+    {
+      "id": "build-back-and-bis",
+      "kind": "video_local",
+      "title": "Build Back & Bis",
+      "url": null,
+      "source_file": "Build Back & Bis-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 3102.168836,
+      "duration": "51:42",
+      "word_count": 7053,
+      "clean_file": "clean/build-back-and-bis.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3102.168836
+      }
+    },
+    {
+      "id": "build-chest-and-tris",
+      "kind": "video_local",
+      "title": "Build Chest & Tris",
+      "url": null,
+      "source_file": "Build Chest & Tris-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 3102.502503,
+      "duration": "51:42",
+      "word_count": 7011,
+      "clean_file": "clean/build-chest-and-tris.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3102.502503
+      }
+    },
+    {
+      "id": "build-legs",
+      "kind": "video_local",
+      "title": "Build Legs",
+      "url": null,
+      "source_file": "Build Legs-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2377.811144,
+      "duration": "39:37",
+      "word_count": 5426,
+      "clean_file": "clean/build-legs.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2377.811144
+      }
+    },
+    {
+      "id": "build-shoulders",
+      "kind": "video_local",
+      "title": "Build Shoulders",
+      "url": null,
+      "source_file": "Build Shoulders-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2662.462462,
+      "duration": "44:22",
+      "word_count": 6331,
+      "clean_file": "clean/build-shoulders.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2662.462462
+      }
+    },
+    {
+      "id": "bulk-arms",
+      "kind": "video_local",
+      "title": "Bulk Arms",
+      "url": null,
+      "source_file": "Bulk Arms-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2483.850517,
+      "duration": "41:23",
+      "word_count": 5327,
+      "clean_file": "clean/bulk-arms.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2483.850517
+      }
+    },
+    {
+      "id": "bulk-back",
+      "kind": "video_local",
+      "title": "Bulk Back",
+      "url": null,
+      "source_file": "Bulk Back-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2053.953954,
+      "duration": "34:13",
+      "word_count": 4441,
+      "clean_file": "clean/bulk-back.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2053.953954
+      }
+    },
+    {
+      "id": "bulk-chest",
+      "kind": "video_local",
+      "title": "Bulk Chest",
+      "url": null,
+      "source_file": "Bulk Chest-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 1910.343677,
+      "duration": "31:50",
+      "word_count": 4376,
+      "clean_file": "clean/bulk-chest.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1910.343677
+      }
+    },
+    {
+      "id": "bulk-legs",
+      "kind": "video_local",
+      "title": "Bulk Legs",
+      "url": null,
+      "source_file": "Bulk Legs-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2561.795128,
+      "duration": "42:41",
+      "word_count": 5974,
+      "clean_file": "clean/bulk-legs.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2561.795128
+      }
+    },
+    {
+      "id": "bulk-shoulders",
+      "kind": "video_local",
+      "title": "Bulk Shoulders",
+      "url": null,
+      "source_file": "Bulk Shoulders-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2270.770771,
+      "duration": "37:50",
+      "word_count": 5260,
+      "clean_file": "clean/bulk-shoulders.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2270.770771
       }
     },
     {
@@ -112,6 +340,44 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 5997.825167
+      }
+    },
+    {
+      "id": "lucky-7",
+      "kind": "video_local",
+      "title": "Lucky 7",
+      "url": null,
+      "source_file": "Lucky 7-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 1528.795462,
+      "duration": "25:28",
+      "word_count": 3404,
+      "clean_file": "clean/lucky-7.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1528.795462
+      }
+    },
+    {
+      "id": "meet-the-team",
+      "kind": "video_local",
+      "title": "Meet The Team",
+      "url": null,
+      "source_file": "Meet The Team-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 336.236236,
+      "duration": "05:36",
+      "word_count": 1024,
+      "clean_file": "clean/meet-the-team.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 336.236236
       }
     },
     {
@@ -233,6 +499,44 @@
       }
     },
     {
+      "id": "tempo-back-bis",
+      "kind": "video_local",
+      "title": "Tempo Back Bis",
+      "url": null,
+      "source_file": "Tempo Back Bis-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 3005.805806,
+      "duration": "50:05",
+      "word_count": 6644,
+      "clean_file": "clean/tempo-back-bis.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3005.805806
+      }
+    },
+    {
+      "id": "tempo-chest-tris",
+      "kind": "video_local",
+      "title": "Tempo Chest Tris",
+      "url": null,
+      "source_file": "Tempo Chest Tris-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 3241.508175,
+      "duration": "54:01",
+      "word_count": 7436,
+      "clean_file": "clean/tempo-chest-tris.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3241.508175
+      }
+    },
+    {
       "id": "the-fight-conditioning-workout",
       "kind": "video_local",
       "title": "The Fight Conditioning Workout",
@@ -249,6 +553,25 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 4867.2
+      }
+    },
+    {
+      "id": "total-body",
+      "kind": "video_local",
+      "title": "Total Body",
+      "url": null,
+      "source_file": "Total Body-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2413.44678,
+      "duration": "40:13",
+      "word_count": 5264,
+      "clean_file": "clean/total-body.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2413.44678
       }
     }
   ]

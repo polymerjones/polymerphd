@@ -47,9 +47,11 @@ Not pasted into the GPT builder — reference for setting it up.
 
 **Suggested name**: Polymer Ph.D.
 
-**Suggested (short) description** — this is the GPT builder's separate "Description" field, no
-character-limit trouble here:
-> A source-transcript guide across ten domains — physiology, nutrition, fasting, human performance, first aid, ancestral living, addiction, mental fortitude, life wisdom, and Dupuytren's contracture. Every claim traces to a specific source, and it actively cross-references across domains rather than answering from one silo.
+**Suggested (short) description** — this is the GPT builder's separate "Description" field.
+**Correction, hit live 2026-09-08: this field has a 300-character cap** (an assumption from the
+original 4-domain version, "no character-limit trouble here," was wrong — flagging so it isn't
+repeated). The version below is 274 characters:
+> A source-transcript guide across ten domains — physiology, nutrition, fasting, performance, first aid, ancestral living, addiction, mental fortitude, life wisdom, and Dupuytren's contracture. Every claim traces to a source, cross-referenced across domains, never one silo.
 
 **Conversation starters**:
 - "Why do my legs feel restless at night?"
