@@ -575,6 +575,771 @@
       }
     },
     {
+      "id": "2e7nsKn7PC0",
+      "kind": "youtube",
+      "title": "25 Sets of SQUATS! - Leg Day | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=2e7nsKn7PC0",
+      "upload_date": "2022-08-03",
+      "duration_seconds": 809,
+      "duration": "13:29",
+      "word_count": 1207,
+      "clean_file": "clean/2e7nsKn7PC0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 809
+      }
+    },
+    {
+      "id": "c17-tkIZ6-Q",
+      "kind": "youtube",
+      "title": "3D Shoulder Workout | Bro Split",
+      "url": "https://www.youtube.com/watch?v=c17-tkIZ6-Q",
+      "upload_date": "2023-11-13",
+      "duration_seconds": 1388,
+      "duration": "23:08",
+      "word_count": 3622,
+      "clean_file": "clean/c17-tkIZ6-Q.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1388
+      }
+    },
+    {
+      "id": "QSkmRguNamg",
+      "kind": "youtube",
+      "title": "Arm Day Explained at Pumptown | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=QSkmRguNamg",
+      "upload_date": "2023-01-06",
+      "duration_seconds": 1999,
+      "duration": "33:19",
+      "word_count": 4685,
+      "clean_file": "clean/QSkmRguNamg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1999
+      }
+    },
+    {
+      "id": "qi_Ie7oe1cw",
+      "kind": "youtube",
+      "title": "Arm Day on Low Carbs | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=qi_Ie7oe1cw",
+      "upload_date": "2023-03-06",
+      "duration_seconds": 1285,
+      "duration": "21:25",
+      "word_count": 2966,
+      "clean_file": "clean/qi_Ie7oe1cw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1285
+      }
+    },
+    {
+      "id": "fnSBWbTbJIQ",
+      "kind": "youtube",
+      "title": "Arm Day w/ Larry Wheels | Powerlifter Meets Bodybuilder",
+      "url": "https://www.youtube.com/watch?v=fnSBWbTbJIQ",
+      "upload_date": "2024-02-28",
+      "duration_seconds": 2738,
+      "duration": "45:38",
+      "word_count": 7807,
+      "clean_file": "clean/fnSBWbTbJIQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2738
+      }
+    },
+    {
+      "id": "buTwER0sEjE",
+      "kind": "youtube",
+      "title": "Arm Training | My Current Protocol & Split",
+      "url": "https://www.youtube.com/watch?v=buTwER0sEjE",
+      "upload_date": "2024-11-27",
+      "duration_seconds": 2053,
+      "duration": "34:13",
+      "word_count": 3911,
+      "clean_file": "clean/buTwER0sEjE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2053
+      }
+    },
+    {
+      "id": "f9kNF4P6lRs",
+      "kind": "youtube",
+      "title": "Back Day Explained: Full Breakdown",
+      "url": "https://www.youtube.com/watch?v=f9kNF4P6lRs",
+      "upload_date": "2025-06-06",
+      "duration_seconds": 4684,
+      "duration": "78:04",
+      "word_count": 11442,
+      "clean_file": "clean/f9kNF4P6lRs.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 4684
+      }
+    },
+    {
+      "id": "CA3VdIWws2s",
+      "kind": "youtube",
+      "title": "Back to My Roots | Grungy Shoulder Training",
+      "url": "https://www.youtube.com/watch?v=CA3VdIWws2s",
+      "upload_date": "2024-11-14",
+      "duration_seconds": 1019,
+      "duration": "16:59",
+      "word_count": 1268,
+      "clean_file": "clean/CA3VdIWws2s.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1019
+      }
+    },
+    {
+      "id": "aa85pra9nsk",
+      "kind": "youtube",
+      "title": "Bodybuilding Arm Workout - BACK AT IT!! | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=aa85pra9nsk",
+      "upload_date": "2022-10-02",
+      "duration_seconds": 1452,
+      "duration": "24:12",
+      "word_count": 3302,
+      "clean_file": "clean/aa85pra9nsk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1452
+      }
+    },
+    {
+      "id": "rGhzDOSyB54",
+      "kind": "youtube",
+      "title": "Bro Split Day 1 - Chest",
+      "url": "https://www.youtube.com/watch?v=rGhzDOSyB54",
+      "upload_date": "2023-10-18",
+      "duration_seconds": 1648,
+      "duration": "27:28",
+      "word_count": 4372,
+      "clean_file": "clean/rGhzDOSyB54.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1648
+      }
+    },
+    {
+      "id": "dqgzTjY31WQ",
+      "kind": "youtube",
+      "title": "Building a Bigger Chest | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=dqgzTjY31WQ",
+      "upload_date": "2023-09-01",
+      "duration_seconds": 1558,
+      "duration": "25:58",
+      "word_count": 3772,
+      "clean_file": "clean/dqgzTjY31WQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1558
+      }
+    },
+    {
+      "id": "BRYj0qirZH8",
+      "kind": "youtube",
+      "title": "Chest Workout Tips | Raw & Unfiltered",
+      "url": "https://www.youtube.com/watch?v=BRYj0qirZH8",
+      "upload_date": "2026-07-24",
+      "duration_seconds": 2165,
+      "duration": "36:05",
+      "word_count": 6240,
+      "clean_file": "clean/BRYj0qirZH8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2165
+      }
+    },
+    {
+      "id": "H6bPy_CCpE8",
+      "kind": "youtube",
+      "title": "CHEST WORKOUT W/ JULIAN DECINA & MATT GREGGO",
+      "url": "https://www.youtube.com/watch?v=H6bPy_CCpE8",
+      "upload_date": "2026-01-09",
+      "duration_seconds": 3208,
+      "duration": "53:28",
+      "word_count": 7529,
+      "clean_file": "clean/H6bPy_CCpE8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3208
+      }
+    },
+    {
+      "id": "XpaZc3Nvhj0",
+      "kind": "youtube",
+      "title": "Euphoric Arm Workout | Uprising Explained",
+      "url": "https://www.youtube.com/watch?v=XpaZc3Nvhj0",
+      "upload_date": "2024-05-07",
+      "duration_seconds": 2634,
+      "duration": "43:54",
+      "word_count": 8157,
+      "clean_file": "clean/XpaZc3Nvhj0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2634
+      }
+    },
+    {
+      "id": "CnIVBAjD3Wg",
+      "kind": "youtube",
+      "title": "Fxck Around & Find Out | Chest & Shoulders w/ The Young Bucks",
+      "url": "https://www.youtube.com/watch?v=CnIVBAjD3Wg",
+      "upload_date": "2024-08-30",
+      "duration_seconds": 1622,
+      "duration": "27:02",
+      "word_count": 3148,
+      "clean_file": "clean/CnIVBAjD3Wg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1622
+      }
+    },
+    {
+      "id": "A6-J6_NdVt0",
+      "kind": "youtube",
+      "title": "Gnarly Chest Workout w/ Anton Swl & Cjak",
+      "url": "https://www.youtube.com/watch?v=A6-J6_NdVt0",
+      "upload_date": "2024-11-19",
+      "duration_seconds": 3120,
+      "duration": "52:00",
+      "word_count": 4223,
+      "clean_file": "clean/A6-J6_NdVt0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3120
+      }
+    },
+    {
+      "id": "hGl2Ob_k9Bo",
+      "kind": "youtube",
+      "title": "Grueling Back Workout",
+      "url": "https://www.youtube.com/watch?v=hGl2Ob_k9Bo",
+      "upload_date": "2026-03-19",
+      "duration_seconds": 1983,
+      "duration": "33:03",
+      "word_count": 3898,
+      "clean_file": "clean/hGl2Ob_k9Bo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1983
+      }
+    },
+    {
+      "id": "OMNnkYSJ-SM",
+      "kind": "youtube",
+      "title": "How To Train Shoulders",
+      "url": "https://www.youtube.com/watch?v=OMNnkYSJ-SM",
+      "upload_date": "2026-01-31",
+      "duration_seconds": 1839,
+      "duration": "30:39",
+      "word_count": 5914,
+      "clean_file": "clean/OMNnkYSJ-SM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1839
+      }
+    },
+    {
+      "id": "m2KAkQV7pdA",
+      "kind": "youtube",
+      "title": "How-To: T-Bar Rows - Feroce Iron Academy",
+      "url": "https://www.youtube.com/watch?v=m2KAkQV7pdA",
+      "upload_date": "2016-11-09",
+      "duration_seconds": 376,
+      "duration": "06:16",
+      "word_count": 1039,
+      "clean_file": "clean/m2KAkQV7pdA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 376
+      }
+    },
+    {
+      "id": "xlNCg_GWGy0",
+      "kind": "youtube",
+      "title": "Intense Arm Workout Seth Feroce | Whiteboard Workout",
+      "url": "https://www.youtube.com/watch?v=xlNCg_GWGy0",
+      "upload_date": "2022-07-22",
+      "duration_seconds": 2445,
+      "duration": "40:45",
+      "word_count": 5716,
+      "clean_file": "clean/xlNCg_GWGy0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2445
+      }
+    },
+    {
+      "id": "-4Wqix43V4o",
+      "kind": "youtube",
+      "title": "Intense Shoulder Training | Jammed, Jacked, & Juicy",
+      "url": "https://www.youtube.com/watch?v=-4Wqix43V4o",
+      "upload_date": "2024-03-19",
+      "duration_seconds": 1872,
+      "duration": "31:12",
+      "word_count": 4363,
+      "clean_file": "clean/-4Wqix43V4o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1872
+      }
+    },
+    {
+      "id": "LMP5kT_dmnM",
+      "kind": "youtube",
+      "title": "Intensity is My Sanctuary | Arm Day Advice",
+      "url": "https://www.youtube.com/watch?v=LMP5kT_dmnM",
+      "upload_date": "2024-10-14",
+      "duration_seconds": 1969,
+      "duration": "32:49",
+      "word_count": 4289,
+      "clean_file": "clean/LMP5kT_dmnM.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1969
+      }
+    },
+    {
+      "id": "TFQInC2JvIo",
+      "kind": "youtube",
+      "title": "LEG DAY & POSING W/ HANY RAMBOD",
+      "url": "https://www.youtube.com/watch?v=TFQInC2JvIo",
+      "upload_date": "2024-12-10",
+      "duration_seconds": 2771,
+      "duration": "46:11",
+      "word_count": 7148,
+      "clean_file": "clean/TFQInC2JvIo.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2771
+      }
+    },
+    {
+      "id": "s0LJIwSUAMQ",
+      "kind": "youtube",
+      "title": "LEG DAY Explained | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=s0LJIwSUAMQ",
+      "upload_date": "2022-10-20",
+      "duration_seconds": 1575,
+      "duration": "26:15",
+      "word_count": 2778,
+      "clean_file": "clean/s0LJIwSUAMQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1575
+      }
+    },
+    {
+      "id": "kh9Oo4QQqXE",
+      "kind": "youtube",
+      "title": "Nasty Chest Pump | Digging Deep",
+      "url": "https://www.youtube.com/watch?v=kh9Oo4QQqXE",
+      "upload_date": "2024-04-25",
+      "duration_seconds": 2775,
+      "duration": "46:15",
+      "word_count": 4971,
+      "clean_file": "clean/kh9Oo4QQqXE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2775
+      }
+    },
+    {
+      "id": "pcLl4tE3BwQ",
+      "kind": "youtube",
+      "title": "Old School Back Workout | Time to Get Huge",
+      "url": "https://www.youtube.com/watch?v=pcLl4tE3BwQ",
+      "upload_date": "2024-02-21",
+      "duration_seconds": 1977,
+      "duration": "32:57",
+      "word_count": 4608,
+      "clean_file": "clean/pcLl4tE3BwQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1977
+      }
+    },
+    {
+      "id": "06X8Z71fuuk",
+      "kind": "youtube",
+      "title": "Putting a Fan Through My Back Workout!",
+      "url": "https://www.youtube.com/watch?v=06X8Z71fuuk",
+      "upload_date": "2024-10-30",
+      "duration_seconds": 2779,
+      "duration": "46:19",
+      "word_count": 6717,
+      "clean_file": "clean/06X8Z71fuuk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2779
+      }
+    },
+    {
+      "id": "NbyeienXYOg",
+      "kind": "youtube",
+      "title": "RAW BACK WORKOUT W/ ANTON SWL & COACH KYLE",
+      "url": "https://www.youtube.com/watch?v=NbyeienXYOg",
+      "upload_date": "2023-11-24",
+      "duration_seconds": 2530,
+      "duration": "42:10",
+      "word_count": 4950,
+      "clean_file": "clean/NbyeienXYOg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2530
+      }
+    },
+    {
+      "id": "L9Py5s8V58E",
+      "kind": "youtube",
+      "title": "Rebuilding My Physique: Back Day | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=L9Py5s8V58E",
+      "upload_date": "2020-08-06",
+      "duration_seconds": 1372,
+      "duration": "22:52",
+      "word_count": 3571,
+      "clean_file": "clean/L9Py5s8V58E.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1372
+      }
+    },
+    {
+      "id": "bGjqTqbPKJU",
+      "kind": "youtube",
+      "title": "SCARY ARM PUMP",
+      "url": "https://www.youtube.com/watch?v=bGjqTqbPKJU",
+      "upload_date": "2025-09-19",
+      "duration_seconds": 1235,
+      "duration": "20:35",
+      "word_count": 3142,
+      "clean_file": "clean/bGjqTqbPKJU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1235
+      }
+    },
+    {
+      "id": "zpUTA5i16kA",
+      "kind": "youtube",
+      "title": "Seth Feroce - How-To: Side Lateral Raise",
+      "url": "https://www.youtube.com/watch?v=zpUTA5i16kA",
+      "upload_date": "2016-04-25",
+      "duration_seconds": 460,
+      "duration": "07:40",
+      "word_count": 1287,
+      "clean_file": "clean/zpUTA5i16kA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 460
+      }
+    },
+    {
+      "id": "y01MQBNG-as",
+      "kind": "youtube",
+      "title": "Seth Feroce How-To: Alternating Dumbbell Curls",
+      "url": "https://www.youtube.com/watch?v=y01MQBNG-as",
+      "upload_date": "2016-05-24",
+      "duration_seconds": 330,
+      "duration": "05:30",
+      "word_count": 950,
+      "clean_file": "clean/y01MQBNG-as.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 330
+      }
+    },
+    {
+      "id": "OEP-Sd4et5A",
+      "kind": "youtube",
+      "title": "Seth Feroce How-To: Cable Curls",
+      "url": "https://www.youtube.com/watch?v=OEP-Sd4et5A",
+      "upload_date": "2016-09-01",
+      "duration_seconds": 334,
+      "duration": "05:34",
+      "word_count": 860,
+      "clean_file": "clean/OEP-Sd4et5A.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 334
+      }
+    },
+    {
+      "id": "yACg3ciPALc",
+      "kind": "youtube",
+      "title": "Seth Feroce How-To: Dumbbell Pullovers",
+      "url": "https://www.youtube.com/watch?v=yACg3ciPALc",
+      "upload_date": "2016-10-31",
+      "duration_seconds": 361,
+      "duration": "06:01",
+      "word_count": 914,
+      "clean_file": "clean/yACg3ciPALc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 361
+      }
+    },
+    {
+      "id": "ALNyDCkW9y8",
+      "kind": "youtube",
+      "title": "Seth Feroce How-To: Front Raises",
+      "url": "https://www.youtube.com/watch?v=ALNyDCkW9y8",
+      "upload_date": "2016-05-12",
+      "duration_seconds": 462,
+      "duration": "07:42",
+      "word_count": 1289,
+      "clean_file": "clean/ALNyDCkW9y8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 462
+      }
+    },
+    {
+      "id": "Yo7S6WrvuPQ",
+      "kind": "youtube",
+      "title": "Seth Feroce How-To: Rear Delts",
+      "url": "https://www.youtube.com/watch?v=Yo7S6WrvuPQ",
+      "upload_date": "2016-05-03",
+      "duration_seconds": 339,
+      "duration": "05:39",
+      "word_count": 915,
+      "clean_file": "clean/Yo7S6WrvuPQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 339
+      }
+    },
+    {
+      "id": "VfZeOq18YGU",
+      "kind": "youtube",
+      "title": "Seth Feroce How-To: Traps",
+      "url": "https://www.youtube.com/watch?v=VfZeOq18YGU",
+      "upload_date": "2016-06-16",
+      "duration_seconds": 285,
+      "duration": "04:45",
+      "word_count": 785,
+      "clean_file": "clean/VfZeOq18YGU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 285
+      }
+    },
+    {
+      "id": "kfR8WcXqGiE",
+      "kind": "youtube",
+      "title": "Shoulder Training with Missy Truscott | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=kfR8WcXqGiE",
+      "upload_date": "2023-05-01",
+      "duration_seconds": 1204,
+      "duration": "20:04",
+      "word_count": 2894,
+      "clean_file": "clean/kfR8WcXqGiE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1204
+      }
+    },
+    {
+      "id": "FCgybJwiwiw",
+      "kind": "youtube",
+      "title": "Shoulder Training | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=FCgybJwiwiw",
+      "upload_date": "2021-09-29",
+      "duration_seconds": 598,
+      "duration": "09:58",
+      "word_count": 1127,
+      "clean_file": "clean/FCgybJwiwiw.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 598
+      }
+    },
+    {
+      "id": "KZ7WXH_8NFk",
+      "kind": "youtube",
+      "title": "Shoulder Warmup for Bodybuilders w/ Dr. Jake & Seth Feroce | 30/31",
+      "url": "https://www.youtube.com/watch?v=KZ7WXH_8NFk",
+      "upload_date": "2024-01-30",
+      "duration_seconds": 1670,
+      "duration": "27:50",
+      "word_count": 5890,
+      "clean_file": "clean/KZ7WXH_8NFk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1670
+      }
+    },
+    {
+      "id": "69EuvOMFib4",
+      "kind": "youtube",
+      "title": "Shoulders With Chris Bumstead And Hany Rambod | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=69EuvOMFib4",
+      "upload_date": "2023-05-17",
+      "duration_seconds": 1523,
+      "duration": "25:23",
+      "word_count": 2807,
+      "clean_file": "clean/69EuvOMFib4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1523
+      }
+    },
+    {
+      "id": "w41YZ6czsZY",
+      "kind": "youtube",
+      "title": "THE GREATEST CHEST TRAINING VIDEO EVER! | Hany Rambod & Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=w41YZ6czsZY",
+      "upload_date": "2022-05-27",
+      "duration_seconds": 2737,
+      "duration": "45:37",
+      "word_count": 7655,
+      "clean_file": "clean/w41YZ6czsZY.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2737
+      }
+    },
+    {
+      "id": "q8dLAPsljvU",
+      "kind": "youtube",
+      "title": "The Race to 240 | Shoulder Day",
+      "url": "https://www.youtube.com/watch?v=q8dLAPsljvU",
+      "upload_date": "2024-09-30",
+      "duration_seconds": 1695,
+      "duration": "28:15",
+      "word_count": 3243,
+      "clean_file": "clean/q8dLAPsljvU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1695
+      }
+    },
+    {
+      "id": "FuEc552OlfI",
+      "kind": "youtube",
+      "title": "The Ultimate Dumbbell Shoulder Workout | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=FuEc552OlfI",
+      "upload_date": "2022-07-11",
+      "duration_seconds": 1400,
+      "duration": "23:20",
+      "word_count": 3371,
+      "clean_file": "clean/FuEc552OlfI.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1400
+      }
+    },
+    {
+      "id": "eAHW_PZRTZc",
+      "kind": "youtube",
+      "title": "Tips for Building a Bigger Back | Grips, Positioning, & Leverages",
+      "url": "https://www.youtube.com/watch?v=eAHW_PZRTZc",
+      "upload_date": "2024-08-21",
+      "duration_seconds": 1876,
+      "duration": "31:16",
+      "word_count": 4734,
+      "clean_file": "clean/eAHW_PZRTZc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1876
+      }
+    },
+    {
       "id": "eY2npBUVU4Y",
       "kind": "youtube",
       "title": "Tips for Growing Bigger Arms | Adding Intensity",
@@ -590,7 +1355,84 @@
         "bound_field": "duration_seconds",
         "bound": 2525
       }
+    },
+    {
+      "id": "EaKmRFql3Ek",
+      "kind": "youtube",
+      "title": "TOP 5 ARM EXERCISES | WHITEBOARD WORKOUT",
+      "url": "https://www.youtube.com/watch?v=EaKmRFql3Ek",
+      "upload_date": "2025-06-26",
+      "duration_seconds": 2724,
+      "duration": "45:24",
+      "word_count": 7100,
+      "clean_file": "clean/EaKmRFql3Ek.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2724
+      }
+    },
+    {
+      "id": "yM7JZA2WkLQ",
+      "kind": "youtube",
+      "title": "Upper Chest Whiteboard Workout",
+      "url": "https://www.youtube.com/watch?v=yM7JZA2WkLQ",
+      "upload_date": "2024-10-21",
+      "duration_seconds": 2303,
+      "duration": "38:23",
+      "word_count": 5347,
+      "clean_file": "clean/yM7JZA2WkLQ.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2303
+      }
+    },
+    {
+      "id": "ztu583weAuE",
+      "kind": "youtube",
+      "title": "Vlog of Everything, Elf, Black Friday, and Leg Day | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=ztu583weAuE",
+      "upload_date": "2022-11-12",
+      "duration_seconds": 1245,
+      "duration": "20:45",
+      "word_count": 2698,
+      "clean_file": "clean/ztu583weAuE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1245
+      }
+    },
+    {
+      "id": "C7MCxkLAfF4",
+      "kind": "youtube",
+      "title": "Volume Back Workout at Pump Town USA | Seth Feroce",
+      "url": "https://www.youtube.com/watch?v=C7MCxkLAfF4",
+      "upload_date": "2021-01-08",
+      "duration_seconds": 1157,
+      "duration": "19:17",
+      "word_count": 2488,
+      "clean_file": "clean/C7MCxkLAfF4.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1157
+      }
     }
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "id": "vp9D1nRsPOY",
+      "title": "LEG DAY with Seth Feroce, Martin Fitzwater and Keone Pearson",
+      "url": "https://www.youtube.com/watch?v=vp9D1nRsPOY",
+      "duration_seconds": 515,
+      "duration": "08:35",
+      "reason": "no captions"
+    }
+  ]
 }
