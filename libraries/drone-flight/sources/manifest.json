@@ -1,0 +1,56 @@
+{
+  "sources": [
+    {
+      "id": "Dy3xVuIED9c",
+      "kind": "youtube",
+      "title": "DJI Air 3S - 44 Tips & Settings: The Complete Beginners Guide",
+      "url": "https://www.youtube.com/watch?v=Dy3xVuIED9c",
+      "upload_date": "2024-10-16",
+      "duration_seconds": 1819,
+      "duration": "30:19",
+      "word_count": 7670,
+      "clean_file": "clean/Dy3xVuIED9c.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1819
+      }
+    },
+    {
+      "id": "Ogxc6CLBgpc",
+      "kind": "youtube",
+      "title": "DJI Air 3S: Beginner's Guide (Start Here!)",
+      "url": "https://www.youtube.com/watch?v=Ogxc6CLBgpc",
+      "upload_date": "2024-12-17",
+      "duration_seconds": 1061,
+      "duration": "17:41",
+      "word_count": 4066,
+      "clean_file": "clean/Ogxc6CLBgpc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1061
+      }
+    },
+    {
+      "id": "zpJUr_GKVXU",
+      "kind": "youtube",
+      "title": "DJI Air 3s: Every Feature & Set up Explained - [FULL FLIGHT DEMO]",
+      "url": "https://www.youtube.com/watch?v=zpJUr_GKVXU",
+      "upload_date": "2024-11-08",
+      "duration_seconds": 1942,
+      "duration": "32:22",
+      "word_count": 3873,
+      "clean_file": "clean/zpJUr_GKVXU.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1942
+      }
+    }
+  ],
+  "skipped": []
+}

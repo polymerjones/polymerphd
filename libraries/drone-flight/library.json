@@ -1,0 +1,51 @@
+{
+  "slug": "drone-flight",
+  "title": "Drone Flight",
+  "subtitle": "Setup, settings, and flying consumer drones",
+  "lede": "A reference to {videos} sources on flying and configuring consumer drones — setup, settings, and flight technique.",
+  "about_paragraphs": [
+    "A reference built from {videos} sources on consumer drone setup, settings, and flight technique, synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a specific point in a specific video timestamp. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["subjects", "drone_models", "flight_skills", "settings"],
+  "primary_facet": "settings",
+  "controlled_facets": {},
+  "universal_sections": [
+    "Central claim",
+    "Warnings and pilot signals addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+
+  "glossary_file": "07_PLAIN_ENGLISH_GLOSSARY.md",
+  "curated_facts_file": null,
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "subjects": "Main subjects",
+    "drone_models": "Drone models",
+    "flight_skills": "Flight skills",
+    "settings": "Settings & configuration"
+  },
+  "catalog_unit_label": "Sources",
+  "catalog_id_label": "Source ID",
+
+  "attribution": {
+    "style": "youtube_channel_partial",
+    "name": "DansTube.TV",
+    "url": "https://www.youtube.com/channel/UCa10m04VDy8yJghT3eJET9Q"
+  },
+
+  "custom_gpt": {
+    "enabled": true,
+    "instructions_file": "PASTE_INTO_GPT_INSTRUCTIONS.txt",
+    "file_limit": 20
+  },
+
+  "derived_practice_facets": false
+}

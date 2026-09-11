@@ -3,7 +3,7 @@
 Every source ingested into this knowledge package, with the Program, Workouts, Exercises and movements, Equipment, and Training focus each one covers.
 
 **Source:** Various programs  
-**Sources catalogued:** 31
+**Sources catalogued:** 32
 
 Entries are alphabetical by title. Use the source ID to trace any claim in the other files back to its source.
 
@@ -344,7 +344,20 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** none — bodyweight only
 - **Training focus:** MMA-specific conditioning combining striking, takedowns, and groundwork in one session, dynamic and isometric core tension together, vertical-to-horizontal transitions ("the thing that fatigues fighters the most"), technique carried over from the Foundation Moves DVD, post-workout mental transition, not just physical recovery
 
-## 31. Total Body
+## 31. Tips for Growing Bigger Arms | Adding Intensity
+
+- **Source ID:** `eY2npBUVU4Y`
+- **URL:** https://www.youtube.com/watch?v=eY2npBUVU4Y
+- **Upload date:** 2024-05-21
+- **Duration:** 42:05
+- **Source file:** `sources/clean/eY2npBUVU4Y.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Arm day (biceps and triceps), guest lifter Josh Whitmire, single filmed session
+- **Exercises and movements:** cable curl (constant-tension warm-up), hammer curl, preacher curl, incline curl, cable push-down / press-down (elbow-flare push vs. press variants), overhead dumbbell tricep extension
+- **Equipment:** cable stack/machine (curl and push-down attachments), dumbbells, preacher bench
+- **Training focus:** intensifiers (drop sets, giant sets, strip sets), top set / back-off set structuring, mind-muscle connection and post-set squeezes, blood-flow/pump technique, including an occlusion-training aside, exercise-order and elbow-placement manipulation for head emphasis
+
+## 32. Total Body
 
 - **Source ID:** `total-body`
 - **Duration:** 40:13
@@ -362,6 +375,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 **abdominal strength and core conditioning** — RUSHFIT Advanced Training Calendar, Weeks 1-8 (`rushfit-advanced-training-calendar`), RUSHFIT Beginner Training Calendar, Weeks 1-8 (`rushfit-beginner-training-calendar`), RUSHFIT Intermediate Training Calendar, Weeks 1-8 (`rushfit-intermediate-training-calendar`)
 
 **abdominal strength and core conditioning (five rounds)** — Abdominal Strength and Core Conditioning (`abdominal-strength-and-core-conditioning`)
+
+**arm day (biceps and triceps), guest lifter josh whitmire, single filmed session** — Tips for Growing Bigger Arms | Adding Intensity (`eY2npBUVU4Y`)
 
 **balance and agility (as "bonus workout")** — RUSHFIT Advanced Training Calendar, Weeks 1-8 (`rushfit-advanced-training-calendar`), RUSHFIT Beginner Training Calendar, Weeks 1-8 (`rushfit-beginner-training-calendar`), RUSHFIT Intermediate Training Calendar, Weeks 1-8 (`rushfit-intermediate-training-calendar`)
 
