@@ -91,6 +91,35 @@ If a video is out of scope for the library (e.g. physics-framed rather than body
 writing a note — one id per line. `add.sh` and `check_notes.py` both treat ids there as
 legitimately excluded, not missing.
 
+### Adding an Instagram-sourced video (`healthy-baked-goods`)
+
+Instagram reels don't go through `add.sh` — yt-dlp's YouTube-caption pipeline can't reach them
+(confirmed: it hits Instagram's login wall even for bare metadata), and there's no caption track
+to fetch anyway. Use `add_instagram_reel.py` instead, which pulls the video, cover thumbnail, and
+caption text straight from the post via `instaloader`:
+
+```
+pip3 install instaloader                                   # once per machine
+instaloader --login <your-instagram-username>               # once per machine, saves a session file
+python3 scripts/add_instagram_reel.py <slug> <instagram-url> [--id ID] [--title T] \
+    [--login <username>]           # reuses the saved session to also try comments as a fallback
+                                    # when the caption is thin (some creators pin the recipe instead)
+    [--onscreen-file <path>]       # your own [mm:ss]-anchored notes, if the video has on-screen
+                                    # text or narration worth citing beyond the caption
+python3 scripts/check_notes.py <slug> <id>
+```
+
+The caption becomes the note's primary, paragraph-anchored source (bare `[¶N]` citations, same
+mechanism `add_website.py` uses for articles). If `--onscreen-file` is given, it becomes a second,
+timestamp-anchored source `<id>-video`, cited with the scoped form `` `<id>-video`[mm:ss] ``. Stills
+(the post's own cover image, plus an early and late video frame) are written to
+`sources/images/<id>/` — list the ones worth showing in the note's `images:` frontmatter field
+(paths relative to `sources/`); `check_notes.py` verifies each one exists.
+
+If `instaloader` can't reach a post at all (private/deleted), fall back to manual mode: save the
+video and paste the caption/comment text yourself, then pass `--video-file`, `--caption-file`,
+`--url`, `--title`, and `--author` instead of a URL.
+
 ---
 
 ## Adding a library

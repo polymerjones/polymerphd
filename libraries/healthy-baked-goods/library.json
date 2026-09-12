@@ -1,0 +1,51 @@
+{
+  "slug": "healthy-baked-goods",
+  "title": "Healthy Baked Goods",
+  "subtitle": "Recipe reels from Instagram, condensed to what each creator actually said",
+  "lede": "A reference to {videos} recipes drawn from Instagram reels — ingredients, method, and substitutions exactly as each creator stated them.",
+  "about_paragraphs": [
+    "A reference built from {videos} Instagram recipe reels, from dozens of different creators, synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a specific point in a specific post — a paragraph in the caption, a comment, or a timestamp in the video. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["bake_type", "key_ingredients", "dietary_tags", "recipes"],
+  "primary_facet": "bake_type",
+  "controlled_facets": {},
+  "universal_sections": [
+    "Central claim",
+    "Cravings, occasions, and dietary needs addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+
+  "glossary_file": "07_PLAIN_ENGLISH_GLOSSARY.md",
+  "curated_facts_file": null,
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "bake_type": "Type of bake",
+    "key_ingredients": "Key ingredients",
+    "dietary_tags": "Dietary tags",
+    "recipes": "Recipe style"
+  },
+  "catalog_unit_label": "Sources",
+  "catalog_id_label": "Source ID",
+
+  "attribution": {
+    "style": "multi_creator",
+    "name": "Various Instagram creators",
+    "url": null
+  },
+
+  "custom_gpt": {
+    "enabled": true,
+    "instructions_file": "PASTE_INTO_GPT_INSTRUCTIONS.txt",
+    "file_limit": 20
+  },
+
+  "derived_practice_facets": false
+}

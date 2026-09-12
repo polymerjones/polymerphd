@@ -142,6 +142,24 @@ th{background:var(--accent-soft);font-family:var(--sans);font-size:.8rem}
 mark{background:var(--accent-soft);color:inherit;font-weight:600;padding:0 .1em}
 .empty{color:var(--muted);font-style:italic;padding:2rem 0}
 .back{font-family:var(--sans);font-size:.8rem;display:inline-block;margin-bottom:1rem}
+.shots{display:flex;flex-wrap:wrap;gap:.5rem;margin:.8rem 0}
+.shots img{height:140px;width:auto;max-width:100%;border-radius:8px;
+  border:1px solid var(--rule);object-fit:cover;cursor:zoom-in}
+.lightbox-wrap{position:relative;max-width:92vw;max-height:88vh;display:flex;
+  align-items:center;justify-content:center;animation:rise .18s cubic-bezier(.2,.8,.3,1) forwards}
+.lightbox-wrap img{max-width:92vw;max-height:88vh;border-radius:10px;
+  box-shadow:0 18px 50px rgba(0,0,0,.35);display:block}
+.lightbox-close{position:absolute;top:-.9rem;right:-.9rem;width:2.2rem;height:2.2rem;
+  border-radius:50%;background:var(--card);border:1px solid var(--rule);color:var(--ink);
+  font-size:1.1rem;line-height:1;cursor:pointer;display:flex;align-items:center;
+  justify-content:center;box-shadow:0 4px 14px rgba(0,0,0,.25)}
+.lightbox-nav{position:absolute;top:50%;transform:translateY(-50%);width:2.6rem;height:2.6rem;
+  border-radius:50%;background:rgba(0,0,0,.45);border:none;color:#fff;font-size:1.3rem;
+  cursor:pointer;display:flex;align-items:center;justify-content:center}
+.lightbox-nav.prev{left:.6rem}
+.lightbox-nav.next{right:.6rem}
+.lightbox-count{position:absolute;bottom:-1.7rem;left:50%;transform:translateX(-50%);
+  font-family:var(--sans);font-size:.75rem;color:var(--paper);opacity:.85}
 .count{font-family:var(--sans);font-size:.78rem;color:var(--muted);margin:0 0 1rem}
 #boot{padding:4rem 1.5rem;text-align:center;color:var(--muted);font-family:var(--sans)}
 
@@ -245,7 +263,7 @@ let currentSlug = null;
 let D = null, INDEX = null, VID = {}, filters = null;
 const LOADED = new Map();
 
-function freshFilters(){ return {system:null, duration:null, position:null, equipment:null}; }
+function freshFilters(){ return {system:null, duration:null, position:null, equipment:null, ingredientMax:null}; }
 
 async function enterLibrary(slug){
   let entry = LOADED.get(slug);
@@ -636,32 +654,39 @@ function viewSymptoms(){
   return wrap;
 }
 
+const INGREDIENT_MAXES = [["3","≤3 ingredients"],["6","≤6 ingredients"],["10","≤10 ingredients"]];
+
 function viewSources(){
   const wrap = document.createElement("div");
-  let open = !!filters.system;
+  const hasIngredientCounts = D.videos.some(v => v.ingredient_count != null);
+  let open = !!(filters.system || filters.ingredientMax);
   const render = () => {
     const term = (wrap.querySelector("#vf")?.value||"").toLowerCase();
     let rows = D.videos;
     if(filters.system) rows = rows.filter(v => v[D.meta.primary_facet].includes(filters.system));
+    if(filters.ingredientMax) rows = rows.filter(v =>
+      v.ingredient_count != null && v.ingredient_count <= parseInt(filters.ingredientMax, 10));
     if(term) rows = rows.filter(v =>
-      (v.title+" "+v.subjects.join(" ")+" "+v.concepts.join(" ")).toLowerCase().includes(term));
+      (v.title+" "+D.meta.facets.map(f=>(v[f]||[]).join(" ")).join(" ")).toLowerCase().includes(term));
     rows = [...rows].sort((a,b) => a.title.localeCompare(b.title));
 
     wrap.innerHTML = `<div class="prose"><h1>Sources</h1>
       <p class="lede">All ${D.videos.length} sources written up, carrying
       ${D.stats.anchors.toLocaleString()} anchors between them. Every claim in a note links
       back to the point the source states it.</p></div>
-      <input id="vf" class="sans" placeholder="Filter by title, subject or concept…" value="${esc(term)}"
+      <input id="vf" class="sans" placeholder="Filter by title or tag…" value="${esc(term)}"
         style="width:100%;max-width:var(--measure);padding:.5rem .7rem;font-size:16px;
         border:1px solid var(--rule);border-radius:8px;background:var(--card);
         color:var(--ink);margin-bottom:.9rem">
       <button type="button" class="foldbtn" id="ffbtn">${open?"Hide filters ▲":"Show filters ▾"}</button>
       <div class="filterfold${open?" open":""}" id="ff">
         <div class="filters" id="fs">${chips(Object.keys(D.vocab[D.meta.primary_facet]).map(s=>[s,s]), filters.system)}</div>
+        ${hasIngredientCounts ? `<div class="filters" id="fi">${chips(INGREDIENT_MAXES, filters.ingredientMax)}</div>` : ""}
       </div>
       <p class="count">${rows.length} source${rows.length===1?"":"s"}</p>
       <div class="list">${rows.map(videoLine).join("")}</div>`;
     wire(wrap.querySelector("#fs"), "system", render);
+    if(hasIngredientCounts) wire(wrap.querySelector("#fi"), "ingredientMax", render);
     wrap.querySelector("#ffbtn").onclick = () => { open = !open; render(); };
     const inp = wrap.querySelector("#vf");
     inp.oninput = () => { const p = inp.selectionStart; render();
@@ -681,6 +706,8 @@ function viewVideo(id){
     <h1>${esc(v.title)}</h1>
     <p class="meta">${v.upload_date} · ${v.duration} · ${v.anchors} anchors${v.url
       ? ` · <a href="${v.url}" target="_blank" rel="noopener">${v.kind === "youtube" ? "Watch on YouTube" : "Open source"}</a>` : ""}</p>
+    ${v.images && v.images.length ? `<div class="shots">${v.images.map((img,i) =>
+      `<img src="data:${img.mime};base64,${img.data}" alt="" data-vid="${esc(v.id)}" data-idx="${i}">`).join("")}</div>` : ""}
     ${evidenceBadge(v) ? `<div class="tags">${evidenceBadge(v)}</div>` : ""}
     ${D.meta.facets.map(f => facet(D.meta.facet_labels[f], v[f])).join("")}
     <hr>
@@ -809,6 +836,38 @@ function showAbout(){
   document.body.appendChild(scrim);
 }
 
+function openLightbox(images, startIndex){
+  let i = startIndex;
+  const scrim = document.createElement("div");
+  scrim.className = "scrim";
+  const render = () => {
+    const img = images[i];
+    scrim.innerHTML = `<div class="lightbox-wrap">
+      <img src="data:${img.mime};base64,${img.data}" alt="">
+      <button type="button" class="lightbox-close" aria-label="Close">✕</button>
+      ${images.length > 1 ? `
+        <button type="button" class="lightbox-nav prev" aria-label="Previous">‹</button>
+        <button type="button" class="lightbox-nav next" aria-label="Next">›</button>
+        <span class="lightbox-count">${i+1} / ${images.length}</span>` : ""}
+    </div>`;
+    scrim.querySelector(".lightbox-close").onclick = close;
+    if(images.length > 1){
+      scrim.querySelector(".prev").onclick = () => { i = (i - 1 + images.length) % images.length; render(); };
+      scrim.querySelector(".next").onclick = () => { i = (i + 1) % images.length; render(); };
+    }
+  };
+  const close = () => { scrim.remove(); document.removeEventListener("keydown", onKey); };
+  const onKey = e => {
+    if(e.key === "Escape") close();
+    else if(e.key === "ArrowLeft" && images.length > 1){ i = (i - 1 + images.length) % images.length; render(); }
+    else if(e.key === "ArrowRight" && images.length > 1){ i = (i + 1) % images.length; render(); }
+  };
+  scrim.onclick = e => { if(e.target === scrim) close(); };
+  document.addEventListener("keydown", onKey);
+  render();
+  document.body.appendChild(scrim);
+}
+
 /* ---------------------------------------------------------------- router */
 const TABS = [
   ["",          "Search",    "🔍"],
@@ -926,6 +985,13 @@ async function route(){
 
   $("#mark").onclick = showAbout;
   $("#backnav").onclick = () => history.back();
+
+  $("main").addEventListener("click", e => {
+    const img = e.target.closest(".shots img");
+    if(!img) return;
+    const v = VID[img.dataset.vid];
+    if(v && v.images) openLightbox(v.images, parseInt(img.dataset.idx, 10));
+  });
 
   $("#theme").onclick = () => {
     const cur = document.documentElement.getAttribute("data-theme");

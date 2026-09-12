@@ -1,0 +1,981 @@
+{
+  "sources": [
+    {
+      "id": "hansonshannon-140-calories-12g-protein",
+      "kind": "instagram_caption",
+      "title": "140 calories!! 12g protein. ",
+      "url": "https://www.instagram.com/reel/Dc4Zu-3NV6M/",
+      "author": "hansonshannon",
+      "upload_date": "2026-09-04",
+      "word_count": 68,
+      "clean_file": "clean/hansonshannon-140-calories-12g-protein.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 5
+      }
+    },
+    {
+      "id": "lilsipper-lilsipper-blender-protein-pumpkin-cheesecake-it-s-so-easy-all-you-have-to",
+      "kind": "instagram_caption",
+      "title": "@lilsipper BLENDER PROTEIN PUMPKIN CHEESECAKE! 🍰 - It’s so easy! All you have to",
+      "url": "https://www.instagram.com/reel/Dc2CGCJP8lw/",
+      "author": "lilsipper",
+      "upload_date": "2026-09-03",
+      "word_count": 79,
+      "clean_file": "clean/lilsipper-lilsipper-blender-protein-pumpkin-cheesecake-it-s-so-easy-all-you-have-to.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 5
+      }
+    },
+    {
+      "id": "a-fruity-twist-that-makes-banana-bread-even-better",
+      "kind": "website",
+      "title": "A Fruity Twist That Makes Banana Bread Even Better",
+      "author": "A Cozy Kitchen",
+      "url": "https://www.acozykitchen.com/strawberry-banana-bread",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/a-fruity-twist-that-makes-banana-bread-even-better.txt",
+      "word_count": 1317,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "biteswithdina-air-fryer-donut-holes-but-make-them-lemon-blueberry",
+      "kind": "instagram_caption",
+      "title": "Air fryer donut holes, but make them lemon blueberry 🍋🫐",
+      "url": "https://www.instagram.com/reel/DcPxAvQsN-v/",
+      "author": "biteswithdina",
+      "upload_date": "2026-08-20",
+      "word_count": 280,
+      "clean_file": "clean/biteswithdina-air-fryer-donut-holes-but-make-them-lemon-blueberry.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 12
+      }
+    },
+    {
+      "id": "rationfit-apple-cheesecake",
+      "kind": "instagram_caption",
+      "title": "Apple Cheesecake 🍏✨",
+      "url": "https://www.instagram.com/reel/DcYcDAJNsjw/",
+      "author": "rationfit",
+      "upload_date": "2026-08-23",
+      "word_count": 233,
+      "clean_file": "clean/rationfit-apple-cheesecake.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 9
+      }
+    },
+    {
+      "id": "veggieworldrecipes-apple-oatmeal-bars",
+      "kind": "instagram_caption",
+      "title": "Apple Oatmeal Bars🍎",
+      "url": "https://www.instagram.com/reel/DcL_IaqIbdL/",
+      "author": "veggieworldrecipes",
+      "upload_date": "2026-08-18",
+      "word_count": 36,
+      "clean_file": "clean/veggieworldrecipes-apple-oatmeal-bars.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 4
+      }
+    },
+    {
+      "id": "blueberry-cookies-lane-grey-fare",
+      "kind": "website",
+      "title": "Blueberry Cookies - Lane & Grey Fare",
+      "author": "Lane & Grey Fare",
+      "url": "https://laneandgreyfare.com/blueberry-cookies/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/blueberry-cookies-lane-grey-fare.txt",
+      "word_count": 2053,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "be-satis-fied-bounty-balls",
+      "kind": "instagram_caption",
+      "title": "Bounty balls",
+      "url": "https://www.instagram.com/reel/Dc9I_r0Toye/",
+      "author": "be_satis_fied",
+      "upload_date": "2026-09-06",
+      "word_count": 3,
+      "clean_file": "clean/be-satis-fied-bounty-balls.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "theloopywhisk-buttery-melt-in-the-mouth-tender-lemon-cookies-swirled-through-with-blueberry-j",
+      "kind": "instagram_caption",
+      "title": "Buttery, melt-in-the-mouth tender lemon cookies swirled through with blueberry j",
+      "url": "https://www.instagram.com/reel/DanfNtzID1g/",
+      "author": "theloopywhisk",
+      "upload_date": "2026-07-10",
+      "word_count": 76,
+      "clean_file": "clean/theloopywhisk-buttery-melt-in-the-mouth-tender-lemon-cookies-swirled-through-with-blueberry-j.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 2
+      }
+    },
+    {
+      "id": "fantabulosity-blog-coconut-cheesecake",
+      "kind": "instagram_caption",
+      "title": "Coconut Cheesecake 🥥🍰✨",
+      "url": "https://www.instagram.com/reel/DcOB8JwhRM8/",
+      "author": "fantabulosity_blog",
+      "upload_date": "2026-08-19",
+      "word_count": 182,
+      "clean_file": "clean/fantabulosity-blog-coconut-cheesecake.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 8
+      }
+    },
+    {
+      "id": "pastrybysaloni-coconut-cream-brownies",
+      "kind": "instagram_caption",
+      "title": "Coconut Cream Brownies ",
+      "url": "https://www.instagram.com/reel/DZuyJJlxsqw/",
+      "author": "pastrybysaloni",
+      "upload_date": "2026-06-18",
+      "word_count": 97,
+      "clean_file": "clean/pastrybysaloni-coconut-cream-brownies.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 6
+      }
+    },
+    {
+      "id": "coconut-cream-brownies-pastrybysaloni",
+      "kind": "website",
+      "title": "Coconut Cream Brownies - PastrybySaloni",
+      "author": "Pastry by Saloni",
+      "url": "https://pastrybysaloni.com/coconut-brownies/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/coconut-cream-brownies-pastrybysaloni.txt",
+      "word_count": 2693,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 7
+      }
+    },
+    {
+      "id": "thelittleblogofvegan-comment-yes-or-cookie-and-i-ll-send-you-the-recipe",
+      "kind": "instagram_caption",
+      "title": "Vegan White Chocolate Raspberry Cookies",
+      "url": "https://www.instagram.com/reel/Dbiex2vMB9B/",
+      "author": "thelittleblogofvegan",
+      "upload_date": "2026-08-02",
+      "word_count": 106,
+      "clean_file": "clean/thelittleblogofvegan-comment-yes-or-cookie-and-i-ll-send-you-the-recipe.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 5
+      }
+    },
+    {
+      "id": "cakemehometonight-consider-this-your-sign-to-bring-back-the-best-part-of-lunchtime-soft-chewy",
+      "kind": "instagram_caption",
+      "title": "Homemade Oatmeal Cream Pies",
+      "url": "https://www.instagram.com/reel/DcleQ0Nxv7n/",
+      "author": "cakemehometonight",
+      "upload_date": "2026-08-28",
+      "word_count": 48,
+      "clean_file": "clean/cakemehometonight-consider-this-your-sign-to-bring-back-the-best-part-of-lunchtime-soft-chewy.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 2
+      }
+    },
+    {
+      "id": "easiest-apple-bars-with-vegan-caramel-sauce",
+      "kind": "website",
+      "title": "Easiest Apple Bars (with Vegan Caramel Sauce)",
+      "author": "Veggie World Recipes",
+      "url": "https://veggieworldrecipes.com/apple-bars/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/easiest-apple-bars-with-vegan-caramel-sauce.txt",
+      "word_count": 898,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "mediterranean-recipes-2026-high-protein-lemon-cookies-soft-glazed",
+      "kind": "instagram_caption",
+      "title": "High-Protein Lemon Cookies (Soft & Glazed)",
+      "url": "https://www.instagram.com/reel/DZ0qdH-lOud/",
+      "author": "mediterranean_recipes_2026",
+      "upload_date": "2026-06-20",
+      "word_count": 219,
+      "clean_file": "clean/mediterranean-recipes-2026-high-protein-lemon-cookies-soft-glazed.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 5
+      }
+    },
+    {
+      "id": "kat-farinha-i-m-addicted-to-protein-balls",
+      "kind": "instagram_caption",
+      "title": "I’m addicted to protein balls :) ",
+      "url": "https://www.instagram.com/reel/Dcb70dvSPr_/",
+      "author": "kat_farinha",
+      "upload_date": "2026-08-24",
+      "word_count": 172,
+      "clean_file": "clean/kat-farinha-i-m-addicted-to-protein-balls.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 6
+      }
+    },
+    {
+      "id": "lemon-blueberry-cheesecake-cookies",
+      "kind": "website",
+      "title": "Lemon Blueberry Cheesecake Cookies",
+      "author": "In Bloom Bakery",
+      "url": "https://inbloombakery.com/lemon-blueberry-cheesecake-cookies/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/lemon-blueberry-cheesecake-cookies.txt",
+      "word_count": 1401,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "inbloombakery-lemon-blueberry-cheesecake-cookies",
+      "kind": "instagram_caption",
+      "title": "Lemon Blueberry Cheesecake Cookies 🍋🫐",
+      "url": "https://www.instagram.com/reel/DWHA0pqDajG/",
+      "author": "inbloombakery_",
+      "upload_date": "2026-03-20",
+      "word_count": 48,
+      "clean_file": "clean/inbloombakery-lemon-blueberry-cheesecake-cookies.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 4
+      }
+    },
+    {
+      "id": "lemon-blueberry-cookies-lane-grey-fare",
+      "kind": "website",
+      "title": "Lemon Blueberry Cookies - Lane & Grey Fare",
+      "author": "Lane & Grey Fare",
+      "url": "https://laneandgreyfare.com/lemon-blueberry-cookies/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/lemon-blueberry-cookies-lane-grey-fare.txt",
+      "word_count": 2552,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "laneandgreyfare-lemon-blueberry-cookies-gluten-free-eggless-nut-free-and-can-be-vegan-i-have",
+      "kind": "instagram_caption",
+      "title": "Lemon Blueberry Cookies. Gluten free, eggless, nut free and can be vegan. I have",
+      "url": "https://www.instagram.com/reel/DZgnEEpPFsC/",
+      "author": "laneandgreyfare",
+      "upload_date": "2026-06-13",
+      "word_count": 59,
+      "clean_file": "clean/laneandgreyfare-lemon-blueberry-cookies-gluten-free-eggless-nut-free-and-can-be-vegan-i-have.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 2
+      }
+    },
+    {
+      "id": "lemon-blueberry-crumble-cheesecake",
+      "kind": "website",
+      "title": "Lemon Blueberry Crumble Cheesecake",
+      "author": "In Bloom Bakery",
+      "url": "https://inbloombakery.com/lemon-blueberry-crumble-cheesecake/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/lemon-blueberry-crumble-cheesecake.txt",
+      "word_count": 1886,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "inbloombakery-lemon-blueberry-crumble-cheesecake",
+      "kind": "instagram_caption",
+      "title": "Lemon Blueberry Crumble Cheesecake 🫐🍋✨",
+      "url": "https://www.instagram.com/reel/DYUl9FIMgwP/",
+      "author": "inbloombakery_",
+      "upload_date": "2026-05-14",
+      "word_count": 48,
+      "clean_file": "clean/inbloombakery-lemon-blueberry-crumble-cheesecake.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 4
+      }
+    },
+    {
+      "id": "lemon-blueberry-oatmeal-cream-pies-easy-summer-recipe-munchies-by-mallory",
+      "kind": "website",
+      "title": "Lemon Blueberry Oatmeal Cream Pies (Easy Summer Recipe) - Munchies By Mallory",
+      "author": "Munchies By Mallory",
+      "url": "https://munchiesbymallory.com/recipe/lemon-blueberry-oatmeal-cream-pies/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/lemon-blueberry-oatmeal-cream-pies-easy-summer-recipe-munchies-by-mallory.txt",
+      "word_count": 2650,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "munchiesbymallory-lemon-blueberry-oatmeal-cream-pies",
+      "kind": "instagram_caption",
+      "title": "lemon blueberry oatmeal cream pies 🍋🫐🍪",
+      "url": "https://www.instagram.com/reel/DZkeql_B7Mu/",
+      "author": "munchiesbymallory",
+      "upload_date": "2026-06-14",
+      "word_count": 85,
+      "clean_file": "clean/munchiesbymallory-lemon-blueberry-oatmeal-cream-pies.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 5
+      }
+    },
+    {
+      "id": "acozykitchen-lemon-brownies-bright-soft-supple-with-a-fudgey-like-interior-the-best-and",
+      "kind": "instagram_caption",
+      "title": "Lemon Brownies",
+      "url": "https://www.instagram.com/reel/DWMV3Xpkpq4/",
+      "author": "acozykitchen",
+      "upload_date": "2026-03-22",
+      "word_count": 30,
+      "clean_file": "clean/acozykitchen-lemon-brownies-bright-soft-supple-with-a-fudgey-like-interior-the-best-and.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "lemon-raspberry-cookies-lane-grey-fare",
+      "kind": "website",
+      "title": "Lemon Raspberry Cookies - Lane & Grey Fare",
+      "author": "Lane & Grey Fare",
+      "url": "https://laneandgreyfare.com/lemon-raspberry-cookies/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/lemon-raspberry-cookies-lane-grey-fare.txt",
+      "word_count": 2675,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "nora-dora99-my-healthy-carrot-cake-bars-carrotcake-healthydesserts",
+      "kind": "instagram_caption",
+      "title": "My healthy carrot cake bars🥕 #carrotcake #healthydesserts",
+      "url": "https://www.instagram.com/reel/DbscKzWzvRZ/",
+      "author": "nora.dora99",
+      "upload_date": "2026-08-06",
+      "word_count": 8,
+      "clean_file": "clean/nora-dora99-my-healthy-carrot-cake-bars-carrotcake-healthydesserts.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "laneandgreyfare-not-it-s-not-mold-it-s-a-blueberry-sugar-cookie-and-it-s-a-must-have-this-summe",
+      "kind": "instagram_caption",
+      "title": "Not it’s not mold, it’s a Blueberry Sugar Cookie and it’s a must have this summe",
+      "url": "https://www.instagram.com/reel/DaO6vwgNBoA/",
+      "author": "laneandgreyfare",
+      "upload_date": "2026-07-01",
+      "word_count": 45,
+      "clean_file": "clean/laneandgreyfare-not-it-s-not-mold-it-s-a-blueberry-sugar-cookie-and-it-s-a-must-have-this-summe.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 2
+      }
+    },
+    {
+      "id": "casalnacozinhablog-o-melhor-bolo-de-laranja",
+      "kind": "instagram_caption",
+      "title": "O melhor bolo de laranja 🍊 ",
+      "url": "https://www.instagram.com/reel/DXfM5BOESXn/",
+      "author": "casalnacozinhablog",
+      "upload_date": "2026-04-23",
+      "word_count": 86,
+      "clean_file": "clean/casalnacozinhablog-o-melhor-bolo-de-laranja.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 7
+      }
+    },
+    {
+      "id": "oatmeal-cream-pies",
+      "kind": "website",
+      "title": "Oatmeal Cream Pies",
+      "author": "Cake Me Home Tonight",
+      "url": "https://cakemehometonight.com/oatmeal-cream-pies/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/oatmeal-cream-pies.txt",
+      "word_count": 1341,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "cle-aneatsdaily-protein-snickers-ice-cream-bites",
+      "kind": "instagram_caption",
+      "title": "Protein Snickers Ice Cream Bites",
+      "url": "https://www.instagram.com/reel/Db3RLzaD-F3/",
+      "author": "cle_aneatsdaily",
+      "upload_date": "2026-08-10",
+      "word_count": 14,
+      "clean_file": "clean/cle-aneatsdaily-protein-snickers-ice-cream-bites.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "pumpkin-cheesecake-cookies",
+      "kind": "website",
+      "title": "Pumpkin Cheesecake Cookies",
+      "author": "In Bloom Bakery",
+      "url": "https://inbloombakery.com/pumpkin-cheesecake-cookies/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/pumpkin-cheesecake-cookies.txt",
+      "word_count": 1765,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "inbloombakery-pumpkin-cheesecake-cookies",
+      "kind": "instagram_caption",
+      "title": "Pumpkin Cheesecake Cookies 🧡🍂🎃",
+      "url": "https://www.instagram.com/reel/DcbNSbSRZlp/",
+      "author": "inbloombakery_",
+      "upload_date": "2026-08-24",
+      "word_count": 41,
+      "clean_file": "clean/inbloombakery-pumpkin-cheesecake-cookies.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 4
+      }
+    },
+    {
+      "id": "serena-ansari-pumpkin-coffee-cake",
+      "kind": "instagram_caption",
+      "title": "Pumpkin Coffee Cake 🎃☕️🍁",
+      "url": "https://www.instagram.com/reel/DdAe1FJSF2c/",
+      "author": "serena.ansari",
+      "upload_date": "2026-09-08",
+      "word_count": 389,
+      "clean_file": "clean/serena-ansari-pumpkin-coffee-cake.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 20
+      }
+    },
+    {
+      "id": "raspberry-cheesecake-crumble-bars-butternut-bakery",
+      "kind": "website",
+      "title": "Raspberry Cheesecake Crumble Bars - Butternut Bakery",
+      "author": "Butternut Bakery",
+      "url": "https://butternutbakeryblog.com/raspberry-cheesecake-crumble-bars/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/raspberry-cheesecake-crumble-bars-butternut-bakery.txt",
+      "word_count": 1596,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "thepickyeater-recipe-below",
+      "kind": "instagram_caption",
+      "title": "Sweet Potato Chocolate Donuts",
+      "url": "https://www.instagram.com/reel/DcrtdN4vmjb/",
+      "author": "thepickyeater",
+      "upload_date": "2026-08-30",
+      "word_count": 336,
+      "clean_file": "clean/thepickyeater-recipe-below.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 13
+      }
+    },
+    {
+      "id": "pinchmetwice-recipe",
+      "kind": "instagram_caption",
+      "title": "No-Bake Banana Pudding Cheesecake",
+      "url": "https://www.instagram.com/reel/DaQ3gKgMcsC/",
+      "author": "pinchmetwice",
+      "upload_date": "2026-07-01",
+      "word_count": 299,
+      "clean_file": "clean/pinchmetwice-recipe.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 13
+      }
+    },
+    {
+      "id": "michelle-salda-september-is-almost-here-and-with-it-come-the-brrr-months-there-s-something",
+      "kind": "instagram_caption",
+      "title": "September is almost here, and with it come the brrr months. 🍂 There’s something ",
+      "url": "https://www.instagram.com/reel/DcjzvpvxPjG/",
+      "author": "michelle_salda",
+      "upload_date": "2026-08-27",
+      "word_count": 299,
+      "clean_file": "clean/michelle-salda-september-is-almost-here-and-with-it-come-the-brrr-months-there-s-something.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 11
+      }
+    },
+    {
+      "id": "itsaudreybakes-starbucks-inspired-pumpkin-scones",
+      "kind": "instagram_caption",
+      "title": "Starbucks-Inspired Pumpkin Scones 🎃🍂",
+      "url": "https://www.instagram.com/reel/DceJTAavbvN/",
+      "author": "itsaudreybakes",
+      "upload_date": "2026-08-25",
+      "word_count": 299,
+      "clean_file": "clean/itsaudreybakes-starbucks-inspired-pumpkin-scones.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 9
+      }
+    },
+    {
+      "id": "acozykitchen-strawberries-and-cream-banana-bread-inspired-by-wimbledon-comment-cozy-and",
+      "kind": "instagram_caption",
+      "title": "Strawberries and Cream Banana Bread",
+      "url": "https://www.instagram.com/reel/DaGRLbPSE9P/",
+      "author": "acozykitchen",
+      "upload_date": "2026-06-27",
+      "word_count": 21,
+      "clean_file": "clean/acozykitchen-strawberries-and-cream-banana-bread-inspired-by-wimbledon-comment-cozy-and.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "amber-recipes3-strawberry-banana-pudding-dream",
+      "kind": "instagram_caption",
+      "title": "Strawberry Banana Pudding Dream 🍓🍌",
+      "url": "https://www.instagram.com/reel/Db_ZambFEqQ/",
+      "author": "amber_recipes3",
+      "upload_date": "2026-08-13",
+      "word_count": 43,
+      "clean_file": "clean/amber-recipes3-strawberry-banana-pudding-dream.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 3
+      }
+    },
+    {
+      "id": "eatsdelightfulblog-strawberry-brownies-the-same-dense-chewy-and-oh-so-fudgy-texture-that-you-d",
+      "kind": "instagram_caption",
+      "title": "strawberry brownies 🍓 the same dense, chewy, and oh so fudgy texture that you’d ",
+      "url": "https://www.instagram.com/reel/DZxRTBwB1mQ/",
+      "author": "eatsdelightfulblog",
+      "upload_date": "2026-06-19",
+      "word_count": 58,
+      "clean_file": "clean/eatsdelightfulblog-strawberry-brownies-the-same-dense-chewy-and-oh-so-fudgy-texture-that-you-d.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "strawberry-cheesecake-cookies",
+      "kind": "website",
+      "title": "Strawberry Cheesecake Cookies",
+      "author": "In Bloom Bakery",
+      "url": "https://inbloombakery.com/strawberry-cheesecake-cookies/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/strawberry-cheesecake-cookies.txt",
+      "word_count": 1365,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "inbloombakery-strawberry-cheesecake-cookies",
+      "kind": "instagram_caption",
+      "title": "Strawberry Cheesecake Cookies 🍓❤️🌸",
+      "url": "https://www.instagram.com/reel/DZcqfESR4Ly/",
+      "author": "inbloombakery_",
+      "upload_date": "2026-06-11",
+      "word_count": 39,
+      "clean_file": "clean/inbloombakery-strawberry-cheesecake-cookies.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 4
+      }
+    },
+    {
+      "id": "strawberry-jam-cookies-lane-grey-fare",
+      "kind": "website",
+      "title": "Strawberry Jam Cookies - Lane & Grey Fare",
+      "author": "Lane & Grey Fare",
+      "url": "https://laneandgreyfare.com/strawberry-jam-cookies/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/strawberry-jam-cookies-lane-grey-fare.txt",
+      "word_count": 3729,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "strawberry-shortcake-cookies",
+      "kind": "website",
+      "title": "Strawberry Shortcake Cookies",
+      "author": "In Bloom Bakery",
+      "url": "https://inbloombakery.com/strawberry-shortcake-cookies/",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/strawberry-shortcake-cookies.txt",
+      "word_count": 1627,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "inbloombakery-strawberry-shortcake-cookies",
+      "kind": "instagram_caption",
+      "title": "Strawberry Shortcake Cookies 🍓🍰❤️",
+      "url": "https://www.instagram.com/reel/DZKvtG2xCew/",
+      "author": "inbloombakery_",
+      "upload_date": "2026-06-04",
+      "word_count": 62,
+      "clean_file": "clean/inbloombakery-strawberry-shortcake-cookies.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 5
+      }
+    },
+    {
+      "id": "sweet-potato-cheese-crackers",
+      "kind": "instagram_caption",
+      "title": "Sweet Potato Cheese Crackers",
+      "url": "https://www.instagram.com/reel/DcbRdMQoCC2/",
+      "author": "mountain_mothering",
+      "upload_date": "2026-08-24",
+      "word_count": 98,
+      "clean_file": "clean/sweet-potato-cheese-crackers.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 5
+      }
+    },
+    {
+      "id": "sweet-potato-cheese-crackers-video",
+      "kind": "instagram_reel",
+      "title": "Sweet Potato Cheese Crackers (video)",
+      "url": "https://www.instagram.com/reel/DcbRdMQoCC2/",
+      "author": "mountain_mothering",
+      "duration_seconds": 24.122676,
+      "duration": "00:24",
+      "word_count": 75,
+      "clean_file": "clean/sweet-potato-cheese-crackers-video.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 24.122676
+      }
+    },
+    {
+      "id": "laneandgreyfare-these-lemon-raspberry-cookies-are-a-must-they-re-gorgeous-soft-and-refreshing",
+      "kind": "instagram_caption",
+      "title": "These Lemon Raspberry Cookies are a must! They’re gorgeous, soft and refreshing!",
+      "url": "https://www.instagram.com/reel/DaEr9s9s92Q/",
+      "author": "laneandgreyfare",
+      "upload_date": "2026-06-27",
+      "word_count": 46,
+      "clean_file": "clean/laneandgreyfare-these-lemon-raspberry-cookies-are-a-must-they-re-gorgeous-soft-and-refreshing.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 2
+      }
+    },
+    {
+      "id": "butternutbakery-these-raspberry-cheesecake-crumble-bars-seem-fancy-but-they-re-actually-incredi",
+      "kind": "instagram_caption",
+      "title": "Raspberry Cheesecake Crumble Bars",
+      "url": "https://www.instagram.com/reel/DWgpXsFDbIt/",
+      "author": "butternutbakery",
+      "upload_date": "2026-03-30",
+      "word_count": 63,
+      "clean_file": "clean/butternutbakery-these-raspberry-cheesecake-crumble-bars-seem-fancy-but-they-re-actually-incredi.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 2
+      }
+    },
+    {
+      "id": "vegan-white-chocolate-raspberry-cookies",
+      "kind": "website",
+      "title": "Vegan White Chocolate Raspberry Cookies",
+      "author": "The Little Blog of Vegan",
+      "url": "https://www.thelittleblogofvegan.com/2026/08/vegan-white-chocolate-raspberry-cookies-2.html",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/vegan-white-chocolate-raspberry-cookies.txt",
+      "word_count": 1478,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "why-every-lemon-lover-needs-this-brownie-recipe-in-their-life",
+      "kind": "website",
+      "title": "Why Every Lemon Lover Needs This Brownie Recipe in Their Life",
+      "author": "A Cozy Kitchen",
+      "url": "https://www.acozykitchen.com/lemon-brownies",
+      "retrieved_date": "2026-09-12",
+      "clean_file": "clean/why-every-lemon-lover-needs-this-brownie-recipe-in-their-life.txt",
+      "word_count": 1236,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "laneandgreyfare-yes-to-these-strawberry-jam-cookies-perfect-for-the-summer-gluten-free-nut-fr",
+      "kind": "instagram_caption",
+      "title": "Yes to these Strawberry Jam Cookies! Perfect for the summer! Gluten free, nut fr",
+      "url": "https://www.instagram.com/reel/DaMcufmhomn/",
+      "author": "laneandgreyfare",
+      "upload_date": "2026-06-30",
+      "word_count": 42,
+      "clean_file": "clean/laneandgreyfare-yes-to-these-strawberry-jam-cookies-perfect-for-the-summer-gluten-free-nut-fr.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 2
+      }
+    },
+    {
+      "id": "ekus-concepts-cheesecake-glow-endless-sweet-journey",
+      "kind": "instagram_caption",
+      "title": "“Cheesecake Glow. Endless Sweet Journey.”",
+      "url": "https://www.instagram.com/reel/DdJeFh4sm7d/",
+      "author": "ekus_concepts",
+      "upload_date": "2026-09-11",
+      "word_count": 61,
+      "clean_file": "clean/ekus-concepts-cheesecake-glow-endless-sweet-journey.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "myclassic-cookbook-lemon-blueberry-cake-with-cream-cheese-frosting-blueberry-drizzle",
+      "kind": "instagram_caption",
+      "title": "🍋🫐 Lemon Blueberry Cake with Cream Cheese Frosting & Blueberry Drizzle",
+      "url": "https://www.instagram.com/reel/Da0CGlxqnTI/",
+      "author": "myclassic.cookbook",
+      "upload_date": "2026-07-15",
+      "word_count": 412,
+      "clean_file": "clean/myclassic-cookbook-lemon-blueberry-cake-with-cream-cheese-frosting-blueberry-drizzle.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 24
+      }
+    },
+    {
+      "id": "amber-recipes3-caramel-apple-cheesecake-bars",
+      "kind": "instagram_caption",
+      "title": "🍎 Caramel Apple Cheesecake Bars",
+      "url": "https://www.instagram.com/reel/DdEsJRlguiu/",
+      "author": "amber_recipes3",
+      "upload_date": "2026-09-09",
+      "word_count": 42,
+      "clean_file": "clean/amber-recipes3-caramel-apple-cheesecake-bars.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 3
+      }
+    },
+    {
+      "id": "cozybeabakes-strawberry-cheesecake-stuffed-cookies",
+      "kind": "instagram_caption",
+      "title": "🍓 Strawberry Cheesecake Stuffed Cookies",
+      "url": "https://www.instagram.com/reel/Dc1SANOJEIN/",
+      "author": "cozybeabakes",
+      "upload_date": "2026-09-03",
+      "word_count": 251,
+      "clean_file": "clean/cozybeabakes-strawberry-cheesecake-stuffed-cookies.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 6
+      }
+    },
+    {
+      "id": "theflexibledietinglifestyle-172-cal-oreo-protein-cheesecake",
+      "kind": "instagram_caption",
+      "title": "😮‍💨 172 Cal OREO Protein Cheesecake",
+      "url": "https://www.instagram.com/reel/Dcq9IvdRipM/",
+      "author": "theflexibledietinglifestyle",
+      "upload_date": "2026-08-30",
+      "word_count": 356,
+      "clean_file": "clean/theflexibledietinglifestyle-172-cal-oreo-protein-cheesecake.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 8
+      }
+    },
+    {
+      "id": "porterpantryfarmgoods-these-put-the-oh-in-pumpkin-oatmeal-cookies",
+      "kind": "instagram_caption",
+      "title": "🤎These put the “oh!” in Pumpkin Oatmeal Cookies. ",
+      "url": "https://www.instagram.com/reel/Dc-QelLtCAg/",
+      "author": "porterpantryfarmgoods",
+      "upload_date": "2026-09-07",
+      "word_count": 315,
+      "clean_file": "clean/porterpantryfarmgoods-these-put-the-oh-in-pumpkin-oatmeal-cookies.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 12
+      }
+    }
+  ]
+}

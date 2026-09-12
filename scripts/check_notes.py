@@ -108,6 +108,12 @@ def check(path, lib, note_ids, sources, deferred):
         if f"{facet}:" not in fm:
             problems.append(f"missing frontmatter facet: {facet}")
 
+    m = re.search(r"\nimages:\n((?:  - .+\n)+)", fm)
+    if m:
+        for rel in re.findall(r"  - (.+)", m.group(1)):
+            if not (lib.sources_dir / rel.strip()).exists():
+                problems.append(f"images: no such file sources/{rel.strip()}")
+
     for facet, allowed in lib.controlled_facets.items():
         if f"{facet}:" not in fm:
             continue

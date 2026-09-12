@@ -221,6 +221,18 @@ def load_notes(lib, by_id, problems):
                 )
 
         extent, date, url = display_fields(meta)
+        images = []
+        for rel in as_list(fm.get("images")):
+            img_path = lib.sources_dir / rel
+            if not img_path.exists():
+                problems.append(f"{path.name}: images entry not found: sources/{rel}")
+                continue
+            mime = "image/png" if img_path.suffix.lower() == ".png" else "image/jpeg"
+            images.append({
+                "data": base64.b64encode(img_path.read_bytes()).decode("ascii"),
+                "mime": mime,
+            })
+
         videos.append({
             "id": vid,
             "kind": meta.get("kind", "youtube"),
@@ -229,9 +241,11 @@ def load_notes(lib, by_id, problems):
             "url": url,
             "upload_date": date,
             "duration": extent,
+            "ingredient_count": fm.get("ingredient_count"),
             **{f: sorted(as_list(fm.get(f))) for f in lib.facets},
             "sections": [{"heading": h, "body": b} for h, b in sections.items()],
             "anchors": len(citations),
+            "images": images,
         })
     return videos
 
