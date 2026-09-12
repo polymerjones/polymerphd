@@ -864,6 +864,23 @@
       }
     },
     {
+      "id": "cRnf05icb4M",
+      "kind": "youtube",
+      "title": "High Dose Testosterone Vs. Stacking Anabolic Steroids",
+      "url": "https://www.youtube.com/watch?v=cRnf05icb4M",
+      "upload_date": "2020-01-29",
+      "duration_seconds": 373,
+      "duration": "06:13",
+      "word_count": 1176,
+      "clean_file": "clean/cRnf05icb4M.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 373
+      }
+    },
+    {
       "id": "OMNnkYSJ-SM",
       "kind": "youtube",
       "title": "How To Train Shoulders",
@@ -980,6 +997,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1575
+      }
+    },
+    {
+      "id": "FjT1pgXYR8k",
+      "kind": "youtube",
+      "title": "My Darkest Steroid Experiences",
+      "url": "https://www.youtube.com/watch?v=FjT1pgXYR8k",
+      "upload_date": "2025-05-13",
+      "duration_seconds": 2123,
+      "duration": "35:23",
+      "word_count": 6866,
+      "clean_file": "clean/FjT1pgXYR8k.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2123
+      }
+    },
+    {
+      "id": "FGLeADS_B7w",
+      "kind": "youtube",
+      "title": "My Number 1 Piece Of Advice If You Are Going To Use Steroids That Nobody Will Tell You",
+      "url": "https://www.youtube.com/watch?v=FGLeADS_B7w",
+      "upload_date": "2019-07-11",
+      "duration_seconds": 773,
+      "duration": "12:53",
+      "word_count": 2421,
+      "clean_file": "clean/FGLeADS_B7w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 773
       }
     },
     {
@@ -1272,6 +1323,23 @@
       }
     },
     {
+      "id": "RhXAcvLdBbk",
+      "kind": "youtube",
+      "title": "Story Time - My WORST CYCLES EVER",
+      "url": "https://www.youtube.com/watch?v=RhXAcvLdBbk",
+      "upload_date": "2020-12-06",
+      "duration_seconds": 1179,
+      "duration": "19:39",
+      "word_count": 4053,
+      "clean_file": "clean/RhXAcvLdBbk.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1179
+      }
+    },
+    {
       "id": "w41YZ6czsZY",
       "kind": "youtube",
       "title": "THE GREATEST CHEST TRAINING VIDEO EVER! | Hany Rambod & Seth Feroce",
@@ -1422,6 +1490,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1157
+      }
+    },
+    {
+      "id": "j9avZn6B0OE",
+      "kind": "youtube",
+      "title": "What The Hell Is TREN? And Why Is Everyone Taking It?",
+      "url": "https://www.youtube.com/watch?v=j9avZn6B0OE",
+      "upload_date": "2024-02-25",
+      "duration_seconds": 2200,
+      "duration": "36:40",
+      "word_count": 5849,
+      "clean_file": "clean/j9avZn6B0OE.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2200
       }
     }
   ],
