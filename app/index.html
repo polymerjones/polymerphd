@@ -203,6 +203,44 @@ mark{background:var(--accent-soft);color:inherit;font-weight:600;padding:0 .1em}
   min-height:44px;width:100%;margin-top:.2rem}
 @media (max-width:640px){ .about img{width:140px;height:140px} }
 
+/* ---- healthy-baked-goods photo grid: this library's own home, in place of
+   the plain text landing every other library gets ---- */
+.bg-lede{margin:0 0 1.3rem}
+.bg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(9.5rem,1fr));gap:.9rem}
+.bg-card{
+  position:relative;display:block;aspect-ratio:4/5;border-radius:16px;overflow:hidden;
+  background:var(--card);border:1px solid var(--rule);box-shadow:var(--shadow);
+  text-decoration:none;color:inherit;-webkit-tap-highlight-color:transparent;
+  opacity:0;transform:translateY(10px);animation:bg-rise .5s cubic-bezier(.2,.8,.3,1) forwards;
+  transition:transform .25s cubic-bezier(.2,.8,.3,1),box-shadow .25s ease;
+}
+@keyframes bg-rise{to{opacity:1;transform:translateY(0)}}
+.bg-card:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(15,13,10,.18)}
+.bg-card:active{transform:scale(.955);transition:transform .09s cubic-bezier(.3,0,.6,1)}
+.bg-cover{
+  position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+  transform:scale(1.001);transition:transform .5s cubic-bezier(.2,.8,.3,1),filter .35s ease;
+}
+.bg-card:hover .bg-cover{transform:scale(1.09);filter:saturate(1.08)}
+.bg-overlay{
+  position:absolute;inset:auto 0 0 0;padding:1.7rem .7rem .55rem;
+  background:linear-gradient(to top,rgba(10,8,5,.82),rgba(10,8,5,0) 92%);
+}
+.bg-title{
+  font-family:var(--sans);color:#fff;font-size:.82rem;font-weight:600;line-height:1.3;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+}
+.bg-kind{
+  font-family:var(--sans);color:rgba(255,255,255,.8);font-size:.66rem;letter-spacing:.03em;
+  text-transform:uppercase;margin-top:.2rem;opacity:0;transform:translateY(3px);
+  transition:opacity .2s ease .05s,transform .2s ease .05s;
+}
+.bg-card:hover .bg-kind{opacity:1;transform:translateY(0)}
+@media (prefers-reduced-motion:reduce){
+  .bg-card{animation:none;opacity:1;transform:none}
+  .bg-card,.bg-cover,.bg-kind{transition:none}
+}
+
 /* ---- mobile ---- */
 @media (max-width:640px){
   body{font-size:17px}
@@ -766,6 +804,40 @@ function viewFile(slug){
   </div>`;
 }
 
+/* ---------------------------------------------- baked-goods photo-grid home
+   healthy-baked-goods gets a distinct landing screen: a photo grid of every
+   recipe's cover image instead of the plain text "start with a surface" page
+   every other library gets, since a recipe reel's own image is more useful
+   here than a list of surfaces. Search (a non-empty query) still falls
+   through to the normal viewSearch results for this library too. */
+function tapFeedback(){ try{ navigator.vibrate && navigator.vibrate(8); }catch(e){} }
+
+function viewBakedGoodsGrid(){
+  const rows = [...D.videos]
+    .filter(v => v.images && v.images.length)
+    .sort((a,b) => (b.upload_date||"").localeCompare(a.upload_date||"") || a.title.localeCompare(b.title));
+  const card = (v, i) => {
+    const cover = v.images[0];
+    const kind = (v.bake_type && v.bake_type[0]) || "";
+    return `<a class="bg-card" style="animation-delay:${Math.min(i*18,420)}ms"
+        href="${libHref("source", v.id)}">
+      <img class="bg-cover" src="data:${cover.mime};base64,${cover.data}" alt="" loading="lazy">
+      <div class="bg-overlay">
+        <span class="bg-title">${esc(v.title)}</span>
+        ${kind ? `<span class="bg-kind">${esc(kind)}</span>` : ""}
+      </div>
+    </a>`;
+  };
+  const wrap = document.createElement("div");
+  wrap.innerHTML = `<div class="prose bg-lede">
+      <h1>${esc(D.meta.title)}</h1>
+      <p class="lede">${fillTemplate(D.meta.lede, D.stats)}</p>
+    </div>
+    <div class="bg-grid">${rows.map(card).join("")}</div>`;
+  wrap.querySelectorAll(".bg-card").forEach(a => a.addEventListener("pointerdown", tapFeedback));
+  return wrap;
+}
+
 /* ------------------------------------------------------------- library picker */
 function viewPicker(){
   return `<div class="prose">
@@ -941,6 +1013,7 @@ async function route(){
   else if(rest === "symptoms")        node = viewSymptoms();
   else if(rest === "sources")         node = viewSources();
   else if(rest === "reference")       node = viewReference();
+  else if(!q && D.meta.slug === "healthy-baked-goods") node = viewBakedGoodsGrid();
   else                                 node = viewSearch(q);
 
   showLibraryChrome();
