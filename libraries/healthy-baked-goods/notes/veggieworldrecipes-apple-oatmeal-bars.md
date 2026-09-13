@@ -40,8 +40,8 @@ second source; the blog itself states `` `easiest-apple-bars-with-vegan-caramel-
 | Component | Ingredients |
 |---|---|
 | Crust | Old-fashioned oats (2¼ cups/180g), blanched almond flour (1½ cups/180g), cinnamon (1 tsp), baking powder (1½ tsp), maple syrup (¾ cup), coconut oil (⅓ cup), vanilla (1 tsp), salt (dash) |
-| Apple filling | Apples, any kind (3 medium/510g), lemon juice (½ lemon), coconut sugar (⅓ cup), vanilla (½ tsp), cinnamon (1 tsp), cornstarch (2 tbsp) |
-| Vegan caramel sauce | Coconut cream, refrigerated overnight, solid part only (⅓ cup/100g), coconut sugar (½ cup/100g), cornstarch (1 tsp), vanilla (¼ tsp), salt (¼ tsp) |
+| Apple filling | Apples (3 medium/510g, any kind), lemon juice (½ lemon), coconut sugar (⅓ cup), vanilla (½ tsp), cinnamon (1 tsp), cornstarch (2 tbsp) |
+| Vegan caramel sauce | Coconut cream (⅓ cup/100g, refrigerated overnight, solid part only), coconut sugar (½ cup/100g), cornstarch (1 tsp), vanilla (¼ tsp), salt (¼ tsp) |
 
 ## Method
 

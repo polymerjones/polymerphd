@@ -38,7 +38,7 @@ covers only what the caption actually states.
 `[¶2]`–`[¶3]` Cookie dough: unsalted butter (½ cup, softened), granulated sugar (⅔ cup),
 vanilla extract (1 tsp), egg (1, cold), all-purpose flour (1½ cups), cornstarch (½ tsp),
 baking soda (½ tsp), baking powder (½ tsp), salt (¼ tsp), freeze-dried strawberries (½
-cup). Strawberry jam: fresh strawberries, chopped (12 oz), granulated sugar (¼ cup, more if
+cup). Strawberry jam: fresh strawberries (12 oz, chopped), granulated sugar (¼ cup, more if
 strawberries aren't sweet). Cream cheese filling: cream cheese (4 oz, softened), granulated
 sugar (2 tbsp), vanilla extract (½ tsp).
 

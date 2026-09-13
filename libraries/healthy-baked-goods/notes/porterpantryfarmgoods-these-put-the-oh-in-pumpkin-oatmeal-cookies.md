@@ -32,7 +32,7 @@ credited by the poster to another creator: `[¶12]` "Recipe credit: @better_bake
 `[¶1]` All-purpose flour (1¾ cups/225g), baking soda (½ tsp), baking powder (½ tsp), salt
 (½ tsp), ground cinnamon (1½ tsp), pumpkin pie spice (1½ tsp), unsalted butter (1
 cup/226g, softened), light brown sugar (¾ cup/165g, packed), granulated sugar (¾ cup/180g),
-egg yolk (1 large, room temp), pumpkin purée, blotted (¾ cup), vanilla extract (1¾ tsp),
+egg yolk (1 large, room temp), pumpkin purée (¾ cup, blotted), vanilla extract (1¾ tsp),
 quick oats (2½ cups/245g).
 
 ## Method

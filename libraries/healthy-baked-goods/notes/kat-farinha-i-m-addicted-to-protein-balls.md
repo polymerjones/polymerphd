@@ -31,7 +31,7 @@ powder and almond flour/butter, dipped in white chocolate.
 
 ## Ingredients
 
-`[¶3]` Canned pumpkin purée, blotted dry (1 cup), almond butter (⅓ cup), beef isolate
+`[¶3]` Canned pumpkin purée (1 cup, blotted dry), almond butter (⅓ cup), beef isolate
 protein powder (4 oz), blanched almond flour (½ cup), monk fruit sweetener (¼ cup), pumpkin
 pie spice (2 tsp), vanilla (1 tsp), sea salt (½ tsp), white chocolate chips with coconut oil
 (½ tbsp) for coating. Makes 16 balls (4 servings of 4).

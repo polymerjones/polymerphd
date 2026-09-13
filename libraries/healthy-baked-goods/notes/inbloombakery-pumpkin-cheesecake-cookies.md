@@ -33,8 +33,8 @@ Instagram caption points to `[¶3]` "inbloombakery.com" for the full recipe.
 
 `` `pumpkin-cheesecake-cookies`[¶1] `` — the blog's own recipe card. Cheesecake filling:
 cream cheese (6 oz/170g, cold), sugar (3 tbsp/38g), vanilla (½ tsp). Spiced sugar: sugar
-(¼ cup/50g), pumpkin pie spice (½ tsp). Cookies: canned pumpkin purée, dried (½ cup/122g,
-specifically Libby's brand per the creator), all-purpose flour (1¾ cups/219g), pumpkin pie
+(¼ cup/50g), pumpkin pie spice (½ tsp). Cookies: canned pumpkin purée (½ cup/122g,
+dried, specifically Libby's brand per the creator), all-purpose flour (1¾ cups/219g), pumpkin pie
 spice (1 tbsp), baking powder (½ tsp), baking soda (½ tsp), salt (½ tsp), unsalted butter
 (¾ cup/168g, softened), light brown sugar (1 cup/220g), egg yolks (2, room temp), vanilla
 (2 tsp).

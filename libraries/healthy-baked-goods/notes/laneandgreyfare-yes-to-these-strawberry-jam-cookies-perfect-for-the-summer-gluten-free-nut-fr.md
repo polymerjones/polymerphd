@@ -37,8 +37,8 @@ and grey strawberry jam cookies").
 ## Ingredients
 
 `` `strawberry-jam-cookies-lane-grey-fare`[¶1] `` — the blog's own recipe card. Jam:
-strawberries (1 lb, fresh or frozen), granulated sugar (1 cup), orange juice, no pulp
-(2 tbsp), kosher salt (2 pinches). Cookies: gluten-free multipurpose flour (2 cups),
+strawberries (1 lb, fresh or frozen), granulated sugar (1 cup), orange juice
+(2 tbsp, no pulp), kosher salt (2 pinches). Cookies: gluten-free multipurpose flour (2 cups),
 cornstarch (1½ tbsp, mixed into the flour, plus a separate 2 heaping tbsp cornstarch +
 3 tbsp water as an egg substitute), baking powder (1½ tsp), kosher salt (½ tsp), unsalted
 butter or vegan baking stick (½ cup), granulated sugar (1¼ cups + 3 tbsp for coating),

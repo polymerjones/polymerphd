@@ -32,11 +32,11 @@ cream and sprinkled with shortcake crumble." The Instagram caption points to `[�
 ## Ingredients
 
 `` `strawberry-shortcake-cookies`[¶1] `` — the blog's own recipe card. Strawberry jam: fresh
-strawberries, diced (14 oz/396g), sugar (¼ cup/50g). Shortcake crumble: flour (½ cup/62g),
+strawberries (14 oz/396g, diced), sugar (¼ cup/50g). Shortcake crumble: flour (½ cup/62g),
 sugar (1 tbsp/12g), salt (⅛ tsp), cold cubed butter (3 tbsp/42g). Cookies: all-purpose flour
 (2¾ cups/344g), baking powder (½ tsp), baking soda (½ tsp), salt (½ tsp), sugar (1
 cup/200g), unsalted butter (1 cup/227g, very softened), egg (1), vanilla (2 tsp), white
-chocolate bars, chopped (6 oz/170g). Mascarpone whipped cream: mascarpone (4 oz/113g),
+chocolate bars (6 oz/170g, chopped). Mascarpone whipped cream: mascarpone (4 oz/113g),
 powdered sugar (3 tbsp/25g), heavy cream (1 cup/240ml).
 
 ## Method

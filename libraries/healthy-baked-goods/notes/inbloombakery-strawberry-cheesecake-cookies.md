@@ -33,7 +33,7 @@ cookies extra chewy!"
 
 `` `strawberry-cheesecake-cookies`[¶1] `` — the blog's own recipe card. Cheesecake filling:
 cream cheese (6 oz/170g, cold), sugar (3 tbsp/38g), vanilla (½ tsp). Strawberry jam: fresh
-strawberries, hulled and diced (12 oz/340g), sugar (¼ cup/50g). Cookies: all-purpose flour
+strawberries (12 oz/340g, hulled and diced), sugar (¼ cup/50g). Cookies: all-purpose flour
 (2¾ cups/344g, spooned and leveled), baking powder (½ tsp), baking soda (½ tsp), salt (½
 tsp), granulated sugar (1 cup/200g, plus ¼ cup for rolling), unsalted butter (1 cup/227g,
 very softened), egg (1, room temp), vanilla (2 tsp).

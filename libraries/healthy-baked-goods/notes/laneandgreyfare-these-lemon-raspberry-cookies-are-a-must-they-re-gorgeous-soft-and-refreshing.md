@@ -42,7 +42,7 @@ gluten-free 1:1 flour with xanthan gum (2 cups), baking powder (1.5 tsp), kosher
 (½ tsp), unsalted butter or vegan baking stick (½ cup), granulated sugar (1¼ cups, plus
 3 tbsp for coating), cornstarch mixed with water (2 heaping tbsp + 3 tbsp water, as an
 egg substitute), milk (3 tbsp), fresh lemon juice (2 tbsp) and zest (1 tbsp + 1 tsp,
-divided), frozen raspberries, chopped (½ cup). Optional glaze: confectioners' sugar (1
+divided), frozen raspberries (½ cup, chopped). Optional glaze: confectioners' sugar (1
 cup), 1–2 frozen raspberries, water.
 
 ## Method

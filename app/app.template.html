@@ -251,6 +251,25 @@ mark{background:var(--accent-soft);color:inherit;font-weight:600;padding:0 .1em}
   .bg-card,.bg-cover,.bg-kind{transition:none}
 }
 
+/* ---- ingredient checklist (healthy-baked-goods "Ingredients" section) ---- */
+.ingredients-block{margin:0 0 1.4rem}
+.ing-group-title{font-family:var(--sans);font-size:.74rem;text-transform:uppercase;
+  letter-spacing:.05em;color:var(--muted);font-weight:600;margin:1rem 0 .3rem}
+.ing-group-title:first-child{margin-top:0}
+.ing-list{list-style:none;margin:0 0 .2rem;padding:0}
+.ing-item{border-bottom:1px solid var(--rule)}
+.ing-item label{display:flex;align-items:flex-start;gap:.65rem;padding:.55rem .05rem;cursor:pointer}
+.ing-item input[type=checkbox]{width:1.15rem;height:1.15rem;margin-top:.15rem;flex:none;
+  accent-color:var(--accent);cursor:pointer}
+.ing-item span{font-size:1rem;line-height:1.45}
+.ing-item:has(input:checked) span{color:var(--muted);text-decoration:line-through}
+.ing-trailing{font-size:.88rem;color:var(--muted);font-style:italic;margin:.6rem 0 0}
+.ing-copy{font-family:var(--sans);font-size:.82rem;font-weight:600;background:var(--accent-soft);
+  color:var(--accent);border:1px solid transparent;border-radius:9px;padding:.6rem 1.1rem;
+  margin-top:.8rem;cursor:pointer;min-height:42px}
+.ing-copy:active{transform:scale(.97)}
+.ing-copy.copied{background:var(--accent);color:var(--paper)}
+
 /* ---- mobile ---- */
 @media (max-width:640px){
   body{font-size:17px}
@@ -744,6 +763,101 @@ function viewSources(){
   return wrap;
 }
 
+/* ---------------------------------------------------- ingredient checklist
+   healthy-baked-goods' "Ingredients" section is free-form prose ("Cake: butter
+   (1 cup), sugar...") or a markdown table (Component/Ingredients, or
+   Ingredient/Amount) rather than a list — never a bare `- item` markdown
+   list, so the usual md() renderer just shows it as a dense paragraph. This
+   parses either shape into named groups of individual items so they can
+   render as one-per-line checkboxes instead. Purely a display transform —
+   nothing here changes what a note asserts, only how this one section lays
+   out. Validated offline against all 39 notes in the library before porting
+   here: every one parses into at least one real item, with only a handful of
+   long-but-correct single items (a parenthetical spanning a whole clause).
+   A note this can't parse falls back to the normal paragraph rendering. */
+function splitTopLevel(str, sep){
+  const out = []; let depth = 0, buf = "";
+  for(const ch of str){
+    if(ch === "(") depth++;
+    else if(ch === ")") depth = Math.max(0, depth-1);
+    if(ch === sep && depth === 0){ out.push(buf); buf = ""; }
+    else buf += ch;
+  }
+  if(buf.trim()) out.push(buf);
+  return out;
+}
+function stripIngredientCitations(s){
+  return s
+    .replace(/``\s*`[^`]+`\[(?:\d{1,2}:\d{2}(?::\d{2})?|p\.\d+|¶\d+)\]\s*``/g, "")
+    .replace(/`[^`]+`/g, "")
+    .replace(/\[(?:\d{1,2}:\d{2}(?::\d{2})?|p\.\d+|¶\d+)\]/g, "")
+    .replace(/\s{2,}/g, " ")
+    .trim();
+}
+const ING_TITLE_RE = /^([A-Z][A-Za-z0-9 /'’"“”()&-]{1,60}):\s*([\s\S]*)$/;
+const ING_GENERIC_RE = /^(.{0,60}?):\s*([\s\S]*)$/;
+
+function parseIngredientsProse(text){
+  text = stripIngredientCitations(text.replace(/\n/g, " "));
+  const sentences = splitTopLevel(text, ".").map(s => s.trim()).filter(Boolean);
+  const groups = [], trailing = [];
+  const items = s => splitTopLevel(s, ",").map(x => x.trim()).filter(Boolean);
+  sentences.forEach((sentence, i) => {
+    const m = ING_TITLE_RE.exec(sentence);
+    if(m){ groups.push({title: m[1].trim(), items: items(m[2])}); return; }
+    const g = ING_GENERIC_RE.exec(sentence);
+    if(g && /[\d(]/.test(g[2])){ groups.push({title: null, items: items(g[2])}); return; }
+    if(i === 0){
+      if(/[\d(]/.test(sentence)) groups.push({title: null, items: items(sentence)});
+      return;
+    }
+    trailing.push(sentence);
+  });
+  return {groups, trailing};
+}
+function parseIngredientsTable(lines){
+  const cellsOf = l => l.trim().replace(/^\||\|$/g, "").split("|").map(c => c.trim());
+  const rows = lines.filter(l => !/^\|[\s:|-]+\|\s*$/.test(l)).map(cellsOf);
+  const header = rows[0].map(h => h.toLowerCase());
+  const groups = [];
+  // "Ingredient | Amount" (or "| Amount | Note", any column count): one ingredient per
+  // row rather than a comma list to split — detected by the header itself, not the
+  // column count, since a third "Note" column is legitimate (see healthyholme's table).
+  const isPerRow = /ingredient/.test(header[0]) && header.some(h => /amount|qty|quantity/.test(h));
+  if(isPerRow){
+    groups.push({title: null, items: rows.slice(1).map(r => {
+      let s = stripIngredientCitations(r[0]);
+      if(r[1]) s += ` — ${stripIngredientCitations(r[1])}`;
+      if(r[2]) s += ` (${stripIngredientCitations(r[2])})`;
+      return s;
+    })});
+  } else {
+    for(const r of rows.slice(1)){
+      const title = r.length > 1 ? stripIngredientCitations(r[0]) : null;
+      const cell = stripIngredientCitations(r[r.length - 1]);
+      groups.push({title, items: splitTopLevel(cell, ",").map(s => s.trim()).filter(Boolean)});
+    }
+  }
+  return {groups, trailing: []};
+}
+function parseIngredients(raw){
+  const tableLines = raw.split("\n").filter(l => l.trim().startsWith("|"));
+  return tableLines.length >= 2 ? parseIngredientsTable(tableLines) : parseIngredientsProse(raw);
+}
+function renderIngredients(raw, videoId){
+  const {groups, trailing} = parseIngredients(raw);
+  if(!groups.some(g => g.items.length)) return md(raw, videoId);
+  const groupHtml = groups.filter(g => g.items.length).map(g => `
+    ${g.title ? `<h4 class="ing-group-title">${esc(g.title)}</h4>` : ""}
+    <ul class="ing-list">${g.items.map(it =>
+      `<li class="ing-item"><label><input type="checkbox"><span>${esc(it)}</span></label></li>`
+    ).join("")}</ul>`).join("");
+  const trailingHtml = trailing.length
+    ? `<p class="ing-trailing">${esc(trailing.join(" "))}</p>` : "";
+  return `<div class="ingredients-block">${groupHtml}${trailingHtml}
+    <button type="button" class="ing-copy">Copy ingredients</button></div>`;
+}
+
 function viewVideo(id){
   const v = VID[id];
   if(!v) return `<p class="empty">No such source.</p>`;
@@ -759,7 +873,9 @@ function viewVideo(id){
     ${evidenceBadge(v) ? `<div class="tags">${evidenceBadge(v)}</div>` : ""}
     ${D.meta.facets.map(f => facet(D.meta.facet_labels[f], v[f])).join("")}
     <hr>
-    ${v.sections.map(s => `<h2>${esc(s.heading)}</h2>${md(s.body, v.id)}`).join("")}
+    ${v.sections.map(s => `<h2>${esc(s.heading)}</h2>${
+      s.heading === "Ingredients" ? renderIngredients(s.body, v.id) : md(s.body, v.id)
+    }`).join("")}
   </div>`;
 }
 
@@ -1071,9 +1187,28 @@ async function route(){
 
   $("main").addEventListener("click", e => {
     const img = e.target.closest(".shots img");
-    if(!img) return;
-    const v = VID[img.dataset.vid];
-    if(v && v.images) openLightbox(v.images, parseInt(img.dataset.idx, 10));
+    if(img){
+      const v = VID[img.dataset.vid];
+      if(v && v.images) openLightbox(v.images, parseInt(img.dataset.idx, 10));
+      return;
+    }
+    const copyBtn = e.target.closest(".ing-copy");
+    if(copyBtn){
+      const block = copyBtn.closest(".ingredients-block");
+      const lines = [];
+      block.querySelectorAll(".ing-group-title, .ing-item span").forEach(el => {
+        lines.push(el.classList.contains("ing-group-title") ? el.textContent : "- " + el.textContent);
+      });
+      const text = lines.join("\n");
+      const flash = (label, ok) => {
+        copyBtn.textContent = label;
+        copyBtn.classList.toggle("copied", ok);
+        setTimeout(() => { copyBtn.textContent = "Copy ingredients"; copyBtn.classList.remove("copied"); }, 1500);
+      };
+      if(navigator.clipboard && navigator.clipboard.writeText){
+        navigator.clipboard.writeText(text).then(() => flash("Copied ✓", true)).catch(() => flash("Couldn't copy", false));
+      } else flash("Couldn't copy", false);
+    }
   });
 
   $("#theme").onclick = () => {
