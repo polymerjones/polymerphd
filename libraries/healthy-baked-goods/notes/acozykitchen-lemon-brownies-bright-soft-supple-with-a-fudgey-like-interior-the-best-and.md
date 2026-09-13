@@ -84,4 +84,9 @@ sources here, which give only a finished recipe with no visible iteration.
 
 ## Conflicts with other sources
 
-None yet — no other lemon-brownie or one-bowl brownie recipe is in this library.
+Disagrees on technique with `alinavrnk-the-easiest-lemon-dessert-you-ll-make-all-summer`, the
+library's other lemon brownie recipe: that recipe melts the butter and whisks it into the sugar —
+exactly the approach this creator's own Test #1/#2 iterations produced a "too gooey" center with,
+prompting her switch to creaming. Neither source claims the other's method fails; this may reflect
+two independently-workable formulations rather than a real contradiction. The two also glaze
+differently (white chocolate lemon glaze here vs. a plain powdered-sugar glaze there).

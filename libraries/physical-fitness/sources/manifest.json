@@ -575,6 +575,57 @@
       }
     },
     {
+      "id": "6AyCpDJQ3Kc",
+      "kind": "youtube",
+      "title": "\"I F***ING LOVE STEROIDS\" - Ryan Garcia ABSOLUTELY Took Ostarine (positive B sample) | My Analysis",
+      "url": "https://www.youtube.com/watch?v=6AyCpDJQ3Kc",
+      "upload_date": "2024-05-25",
+      "duration_seconds": 992,
+      "duration": "16:32",
+      "word_count": 2938,
+      "clean_file": "clean/6AyCpDJQ3Kc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 992
+      }
+    },
+    {
+      "id": "gPjlGj97aKA",
+      "kind": "youtube",
+      "title": "\"If You're Not Growing On Test And Dbol, You're Not Going To Grow\"",
+      "url": "https://www.youtube.com/watch?v=gPjlGj97aKA",
+      "upload_date": "2024-05-27",
+      "duration_seconds": 116,
+      "duration": "01:56",
+      "word_count": 372,
+      "clean_file": "clean/gPjlGj97aKA.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 116
+      }
+    },
+    {
+      "id": "OwPmZd_ucpc",
+      "kind": "youtube",
+      "title": "$25,000 Follistatin Gene Therapy - Before & After Results Analysis With Peter Attia",
+      "url": "https://www.youtube.com/watch?v=OwPmZd_ucpc",
+      "upload_date": "2025-01-02",
+      "duration_seconds": 1134,
+      "duration": "18:54",
+      "word_count": 3497,
+      "clean_file": "clean/OwPmZd_ucpc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1134
+      }
+    },
+    {
       "id": "2e7nsKn7PC0",
       "kind": "youtube",
       "title": "25 Sets of SQUATS! - Leg Day | Seth Feroce",
@@ -711,6 +762,23 @@
       }
     },
     {
+      "id": "IDtrN-z26Dg",
+      "kind": "youtube",
+      "title": "Being On TRT vs. Being On \"TRT\"!",
+      "url": "https://www.youtube.com/watch?v=IDtrN-z26Dg",
+      "upload_date": "2025-01-27",
+      "duration_seconds": 254,
+      "duration": "04:14",
+      "word_count": 783,
+      "clean_file": "clean/IDtrN-z26Dg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 254
+      }
+    },
+    {
       "id": "aa85pra9nsk",
       "kind": "youtube",
       "title": "Bodybuilding Arm Workout - BACK AT IT!! | Seth Feroce",
@@ -796,6 +864,40 @@
       }
     },
     {
+      "id": "_dTpQsVnb6I",
+      "kind": "youtube",
+      "title": "Cycling Off Vs. Blasting And Cruising",
+      "url": "https://www.youtube.com/watch?v=_dTpQsVnb6I",
+      "upload_date": "2024-05-25",
+      "duration_seconds": 114,
+      "duration": "01:54",
+      "word_count": 401,
+      "clean_file": "clean/_dTpQsVnb6I.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 114
+      }
+    },
+    {
+      "id": "tcVqMqw3k2w",
+      "kind": "youtube",
+      "title": "Do You Need DHT To Build Muscle?",
+      "url": "https://www.youtube.com/watch?v=tcVqMqw3k2w",
+      "upload_date": "2024-11-23",
+      "duration_seconds": 350,
+      "duration": "05:50",
+      "word_count": 1005,
+      "clean_file": "clean/tcVqMqw3k2w.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 350
+      }
+    },
+    {
       "id": "XpaZc3Nvhj0",
       "kind": "youtube",
       "title": "Euphoric Arm Workout | Uprising Explained",
@@ -878,6 +980,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 373
+      }
+    },
+    {
+      "id": "6Kx3fzuchD8",
+      "kind": "youtube",
+      "title": "How Much Muscle Can You Gain Natty Vs. Enhanced | IFBB Pro Steroid Dosages | ft. Jeff Nippard",
+      "url": "https://www.youtube.com/watch?v=6Kx3fzuchD8",
+      "upload_date": "2023-09-01",
+      "duration_seconds": 1520,
+      "duration": "25:20",
+      "word_count": 4493,
+      "clean_file": "clean/6Kx3fzuchD8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1520
       }
     },
     {
@@ -1323,6 +1442,40 @@
       }
     },
     {
+      "id": "Nf6mCbpfvS0",
+      "kind": "youtube",
+      "title": "Steroid Use In The Fitness Industry | ft. Will Tennyson",
+      "url": "https://www.youtube.com/watch?v=Nf6mCbpfvS0",
+      "upload_date": "2025-02-06",
+      "duration_seconds": 1146,
+      "duration": "19:06",
+      "word_count": 3356,
+      "clean_file": "clean/Nf6mCbpfvS0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1146
+      }
+    },
+    {
+      "id": "jK-t8jHoVDg",
+      "kind": "youtube",
+      "title": "Steroids Aren’t Safe, But TRT Is - True Or False?",
+      "url": "https://www.youtube.com/watch?v=jK-t8jHoVDg",
+      "upload_date": "2025-01-13",
+      "duration_seconds": 330,
+      "duration": "05:30",
+      "word_count": 960,
+      "clean_file": "clean/jK-t8jHoVDg.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 330
+      }
+    },
+    {
       "id": "RhXAcvLdBbk",
       "kind": "youtube",
       "title": "Story Time - My WORST CYCLES EVER",
@@ -1391,6 +1544,40 @@
       }
     },
     {
+      "id": "psLl_03E9R8",
+      "kind": "youtube",
+      "title": "The World Champion Combination Of Autism And Steroids",
+      "url": "https://www.youtube.com/watch?v=psLl_03E9R8",
+      "upload_date": "2024-08-19",
+      "duration_seconds": 122,
+      "duration": "02:02",
+      "word_count": 348,
+      "clean_file": "clean/psLl_03E9R8.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 122
+      }
+    },
+    {
+      "id": "kmZ6NbLC73U",
+      "kind": "youtube",
+      "title": "This Is The Power Of Steroids...",
+      "url": "https://www.youtube.com/watch?v=kmZ6NbLC73U",
+      "upload_date": "2024-07-01",
+      "duration_seconds": 989,
+      "duration": "16:29",
+      "word_count": 3021,
+      "clean_file": "clean/kmZ6NbLC73U.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 989
+      }
+    },
+    {
       "id": "eAHW_PZRTZc",
       "kind": "youtube",
       "title": "Tips for Building a Bigger Back | Grips, Positioning, & Leverages",
@@ -1439,6 +1626,23 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 2724
+      }
+    },
+    {
+      "id": "RtpCh6U9v6o",
+      "kind": "youtube",
+      "title": "TRT Dosing And Frequency Breakdown With Dr. Peter Attia",
+      "url": "https://www.youtube.com/watch?v=RtpCh6U9v6o",
+      "upload_date": "2024-06-23",
+      "duration_seconds": 788,
+      "duration": "13:08",
+      "word_count": 2340,
+      "clean_file": "clean/RtpCh6U9v6o.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 788
       }
     },
     {
@@ -1493,6 +1697,23 @@
       }
     },
     {
+      "id": "gc2eDTWBI5Y",
+      "kind": "youtube",
+      "title": "What % Of People On Steroids Achieved Their Natural Limit First?",
+      "url": "https://www.youtube.com/watch?v=gc2eDTWBI5Y",
+      "upload_date": "2025-01-19",
+      "duration_seconds": 158,
+      "duration": "02:38",
+      "word_count": 482,
+      "clean_file": "clean/gc2eDTWBI5Y.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 158
+      }
+    },
+    {
       "id": "j9avZn6B0OE",
       "kind": "youtube",
       "title": "What The Hell Is TREN? And Why Is Everyone Taking It?",
@@ -1507,6 +1728,40 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 2200
+      }
+    },
+    {
+      "id": "gPsD9u_Kqbc",
+      "kind": "youtube",
+      "title": "Why Chris Bumstead Refuses To Take Tren... My Thoughts",
+      "url": "https://www.youtube.com/watch?v=gPsD9u_Kqbc",
+      "upload_date": "2023-07-09",
+      "duration_seconds": 1851,
+      "duration": "30:51",
+      "word_count": 5833,
+      "clean_file": "clean/gPsD9u_Kqbc.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1851
+      }
+    },
+    {
+      "id": "-jKafRJg6d0",
+      "kind": "youtube",
+      "title": "Why Steroid Abusers Age Faster",
+      "url": "https://www.youtube.com/watch?v=-jKafRJg6d0",
+      "upload_date": "2025-02-05",
+      "duration_seconds": 234,
+      "duration": "03:54",
+      "word_count": 735,
+      "clean_file": "clean/-jKafRJg6d0.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 234
       }
     }
   ],

@@ -74,4 +74,9 @@ specific, testable claims in this library's caption-only sources.
 `serena-ansari-pumpkin-coffee-cake` and `itsaudreybakes-starbucks-inspired-pumpkin-scones`
 are the other pumpkin-spiced bakes in this library; this is the only no-bake, protein-powder
 -based one, and the only recipe naming a specific protein source (beef isolate) rather than
-a generic "protein powder."
+a generic "protein powder." Shares its core no-bake, pumpkin-purée, rolled-and-chocolate-dipped
+format with `lovelydelites-it-s-officially-that-time-my-pumpkin-pie-truffles-are-back`, but the two
+disagree on moisture management: this recipe blots the pumpkin dry as a stated non-negotiable
+step, while that recipe thickens the purée with coconut flour instead and reports no rolling
+issues. Neither source addresses the other's method directly, so this reads as two independently
+workable approaches rather than a genuine contradiction.

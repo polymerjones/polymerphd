@@ -3,7 +3,7 @@
 Every source ingested into this knowledge package, with the Type of bake, Key ingredients, Dietary tags, and Recipe style each one covers.
 
 **Source:** Various Instagram creators  
-**Sources catalogued:** 33
+**Sources catalogued:** 39
 
 Entries are alphabetical by title. Use the source ID to trace any claim in the other files back to its source.
 
@@ -45,7 +45,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** vegan, gluten-free
 - **Recipe style:** none recorded
 
-## 4. Coconut Cheesecake 🥥🍰✨
+## 4. carrot cake recipe from scratch
+
+- **Source ID:** `cheflorarecipes-carrot-cake-recipe-from-scratch`
+- **URL:** https://www.instagram.com/reel/DcYpcZ7j6Pi/
+- **Author:** cheflorarecipes
+- **Upload date:** 2026-08-23
+- **Source file:** `sources/clean/cheflorarecipes-carrot-cake-recipe-from-scratch.txt`
+- **Type of bake:** layer cake
+- **Key ingredients:** carrot, cream cheese, walnuts
+- **Dietary tags:** none recorded
+- **Recipe style:** none recorded
+
+## 5. Coconut Cheesecake 🥥🍰✨
 
 - **Source ID:** `fantabulosity-blog-coconut-cheesecake`
 - **URL:** https://www.instagram.com/reel/DcOB8JwhRM8/
@@ -57,7 +69,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 5. Coconut Cream Brownies 
+## 6. Coconut Cream Brownies 
 
 - **Source ID:** `pastrybysaloni-coconut-cream-brownies`
 - **URL:** https://www.instagram.com/reel/DZuyJJlxsqw/
@@ -69,7 +81,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** egg-free
 - **Recipe style:** none recorded
 
-## 6. High-Protein Lemon Cookies (Soft & Glazed)
+## 7. High-Protein Lemon Cookies (Soft & Glazed)
 
 - **Source ID:** `mediterranean-recipes-2026-high-protein-lemon-cookies-soft-glazed`
 - **URL:** https://www.instagram.com/reel/DZ0qdH-lOud/
@@ -81,7 +93,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** high-protein
 - **Recipe style:** none recorded
 
-## 7. Homemade Oatmeal Cream Pies
+## 8. Homemade Oatmeal Cream Pies
 
 - **Source ID:** `cakemehometonight-consider-this-your-sign-to-bring-back-the-best-part-of-lunchtime-soft-chewy`
 - **URL:** https://www.instagram.com/reel/DcleQ0Nxv7n/
@@ -93,7 +105,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 8. I’m addicted to protein balls :) 
+## 9. It’s officially that time 🎃 My Pumpkin Pie Truffles are BACK!
+
+- **Source ID:** `lovelydelites-it-s-officially-that-time-my-pumpkin-pie-truffles-are-back`
+- **URL:** https://www.instagram.com/reel/Dc1iClSvxyb/
+- **Author:** lovelydelites
+- **Upload date:** 2026-09-03
+- **Source file:** `sources/clean/lovelydelites-it-s-officially-that-time-my-pumpkin-pie-truffles-are-back.txt`
+- **Type of bake:** truffles
+- **Key ingredients:** pumpkin puree, almond butter, coconut flour
+- **Dietary tags:** gluten-free, no-bake
+- **Recipe style:** no-bake
+
+## 10. I’m addicted to protein balls :) 
 
 - **Source ID:** `kat-farinha-i-m-addicted-to-protein-balls`
 - **URL:** https://www.instagram.com/reel/Dcb70dvSPr_/
@@ -105,7 +129,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** high-protein
 - **Recipe style:** no-bake
 
-## 9. Lemon Blueberry Cheesecake Cookies 🍋🫐
+## 11. Lemon Blueberry Cheesecake Cookies 🍋🫐
 
 - **Source ID:** `inbloombakery-lemon-blueberry-cheesecake-cookies`
 - **URL:** https://www.instagram.com/reel/DWHA0pqDajG/
@@ -117,7 +141,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 10. Lemon Blueberry Cookies. Gluten free, eggless, nut free and can be vegan. I have
+## 12. Lemon Blueberry Cookies. Gluten free, eggless, nut free and can be vegan. I have
 
 - **Source ID:** `laneandgreyfare-lemon-blueberry-cookies-gluten-free-eggless-nut-free-and-can-be-vegan-i-have`
 - **URL:** https://www.instagram.com/reel/DZgnEEpPFsC/
@@ -129,7 +153,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** gluten-free, egg-free, nut-free, vegan
 - **Recipe style:** none recorded
 
-## 11. Lemon Blueberry Crumble Cheesecake 🫐🍋✨
+## 13. Lemon Blueberry Crumble Cheesecake 🫐🍋✨
 
 - **Source ID:** `inbloombakery-lemon-blueberry-crumble-cheesecake`
 - **URL:** https://www.instagram.com/reel/DYUl9FIMgwP/
@@ -141,7 +165,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 12. lemon blueberry oatmeal cream pies 🍋🫐🍪
+## 14. lemon blueberry oatmeal cream pies 🍋🫐🍪
 
 - **Source ID:** `munchiesbymallory-lemon-blueberry-oatmeal-cream-pies`
 - **URL:** https://www.instagram.com/reel/DZkeql_B7Mu/
@@ -153,7 +177,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 13. Lemon Brownies
+## 15. Lemon Brownies
 
 - **Source ID:** `acozykitchen-lemon-brownies-bright-soft-supple-with-a-fudgey-like-interior-the-best-and`
 - **URL:** https://www.instagram.com/reel/DWMV3Xpkpq4/
@@ -165,7 +189,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** one-bowl
 
-## 14. No-Bake Banana Pudding Cheesecake
+## 16. No-Bake Banana Pudding Cheesecake
 
 - **Source ID:** `pinchmetwice-recipe`
 - **URL:** https://www.instagram.com/reel/DaQ3gKgMcsC/
@@ -177,7 +201,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** no-bake
 
-## 15. Not it’s not mold, it’s a Blueberry Sugar Cookie and it’s a must have this summe
+## 17. Not it’s not mold, it’s a Blueberry Sugar Cookie and it’s a must have this summe
 
 - **Source ID:** `laneandgreyfare-not-it-s-not-mold-it-s-a-blueberry-sugar-cookie-and-it-s-a-must-have-this-summe`
 - **URL:** https://www.instagram.com/reel/DaO6vwgNBoA/
@@ -189,7 +213,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** gluten-free, egg-free, nut-free, vegan
 - **Recipe style:** none recorded
 
-## 16. O melhor bolo de laranja 🍊 
+## 18. O melhor bolo de laranja 🍊 
 
 - **Source ID:** `casalnacozinhablog-o-melhor-bolo-de-laranja`
 - **URL:** https://www.instagram.com/reel/DXfM5BOESXn/
@@ -201,7 +225,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 17. Pumpkin Cheesecake Cookies 🧡🍂🎃
+## 19. Pumpkin Cheesecake Cookies 🧡🍂🎃
 
 - **Source ID:** `inbloombakery-pumpkin-cheesecake-cookies`
 - **URL:** https://www.instagram.com/reel/DcbNSbSRZlp/
@@ -213,7 +237,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 18. Pumpkin Coffee Cake 🎃☕️🍁
+## 20. Pumpkin Coffee Cake 🎃☕️🍁
 
 - **Source ID:** `serena-ansari-pumpkin-coffee-cake`
 - **URL:** https://www.instagram.com/reel/DdAe1FJSF2c/
@@ -225,7 +249,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 19. Raspberry Cheesecake Crumble Bars
+## 21. Raspberry Cheesecake Crumble Bars
 
 - **Source ID:** `butternutbakery-these-raspberry-cheesecake-crumble-bars-seem-fancy-but-they-re-actually-incredi`
 - **URL:** https://www.instagram.com/reel/DWgpXsFDbIt/
@@ -237,7 +261,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 20. September is almost here, and with it come the brrr months. 🍂 There’s something 
+## 22. September is almost here, and with it come the brrr months. 🍂 There’s something 
 
 - **Source ID:** `michelle-salda-september-is-almost-here-and-with-it-come-the-brrr-months-there-s-something`
 - **URL:** https://www.instagram.com/reel/DcjzvpvxPjG/
@@ -249,7 +273,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** high-protein
 - **Recipe style:** no-bake, freezer-set
 
-## 21. Starbucks-Inspired Pumpkin Scones 🎃🍂
+## 23. Starbucks-Inspired Pumpkin Scones 🎃🍂
 
 - **Source ID:** `itsaudreybakes-starbucks-inspired-pumpkin-scones`
 - **URL:** https://www.instagram.com/reel/DceJTAavbvN/
@@ -261,7 +285,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 22. Strawberries and Cream Banana Bread
+## 24. Strawberries and Cream Banana Bread
 
 - **Source ID:** `acozykitchen-strawberries-and-cream-banana-bread-inspired-by-wimbledon-comment-cozy-and`
 - **URL:** https://www.instagram.com/reel/DaGRLbPSE9P/
@@ -273,7 +297,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 23. Strawberry Cheesecake Cookies 🍓❤️🌸
+## 25. Strawberry Cheesecake Cookies 🍓❤️🌸
 
 - **Source ID:** `inbloombakery-strawberry-cheesecake-cookies`
 - **URL:** https://www.instagram.com/reel/DZcqfESR4Ly/
@@ -285,7 +309,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 24. Strawberry Shortcake Cookies 🍓🍰❤️
+## 26. Strawberry Shortcake Cookies 🍓🍰❤️
 
 - **Source ID:** `inbloombakery-strawberry-shortcake-cookies`
 - **URL:** https://www.instagram.com/reel/DZKvtG2xCew/
@@ -297,7 +321,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 25. Sweet Potato Cheese Crackers
+## 27. Sweet Potato Cheese Crackers
 
 - **Source ID:** `sweet-potato-cheese-crackers`
 - **URL:** https://www.instagram.com/reel/DcbRdMQoCC2/
@@ -309,7 +333,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** toddler-friendly, savory
 
-## 26. Sweet Potato Chocolate Donuts
+## 28. Sweet Potato Chocolate Donuts
 
 - **Source ID:** `thepickyeater-recipe-below`
 - **URL:** https://www.instagram.com/reel/DcrtdN4vmjb/
@@ -321,7 +345,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** blender, chocolate-coated
 
-## 27. These Lemon Raspberry Cookies are a must! They’re gorgeous, soft and refreshing!
+## 29. These copycat Pumpkin Reeses Peanut Butter Cups are made with only 4 ingredients
+
+- **Source ID:** `healthyholme-these-copycat-pumpkin-reeses-peanut-butter-cups-are-made-with-only-4-ingredients`
+- **URL:** https://www.instagram.com/reel/Dc3qV5xMv1G/
+- **Author:** healthyholme
+- **Upload date:** 2026-09-04
+- **Source file:** `sources/clean/healthyholme-these-copycat-pumpkin-reeses-peanut-butter-cups-are-made-with-only-4-ingredients.txt`
+- **Type of bake:** no-bake candy
+- **Key ingredients:** natural peanut butter, maple syrup, dark chocolate
+- **Dietary tags:** refined-sugar-free, gluten-free
+- **Recipe style:** none recorded
+
+## 30. These Lemon Raspberry Cookies are a must! They’re gorgeous, soft and refreshing!
 
 - **Source ID:** `laneandgreyfare-these-lemon-raspberry-cookies-are-a-must-they-re-gorgeous-soft-and-refreshing`
 - **URL:** https://www.instagram.com/reel/DaEr9s9s92Q/
@@ -333,7 +369,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** gluten-free, egg-free, nut-free, vegan
 - **Recipe style:** none recorded
 
-## 28. Vegan White Chocolate Raspberry Cookies
+## 31. Vegan White Chocolate Raspberry Cookies
 
 - **Source ID:** `thelittleblogofvegan-comment-yes-or-cookie-and-i-ll-send-you-the-recipe`
 - **URL:** https://www.instagram.com/reel/Dbiex2vMB9B/
@@ -345,7 +381,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** vegan, dairy-free
 - **Recipe style:** none recorded
 
-## 29. Yes to these Strawberry Jam Cookies! Perfect for the summer! Gluten free, nut fr
+## 32. Yes to these Strawberry Jam Cookies! Perfect for the summer! Gluten free, nut fr
 
 - **Source ID:** `laneandgreyfare-yes-to-these-strawberry-jam-cookies-perfect-for-the-summer-gluten-free-nut-fr`
 - **URL:** https://www.instagram.com/reel/DaMcufmhomn/
@@ -357,7 +393,31 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** gluten-free, egg-free, nut-free, vegan
 - **Recipe style:** none recorded
 
-## 30. 🍋🫐 Lemon Blueberry Cake with Cream Cheese Frosting & Blueberry Drizzle
+## 33. ⭐️⭐️⭐️⭐️⭐️Martha says “I’ve made this cake twice now, and it turned out perfectl
+
+- **Source ID:** `tastesoflizzyt-martha-says-i-ve-made-this-cake-twice-now-and-it-turned-out-perfectl`
+- **URL:** https://www.instagram.com/reel/Dc_H1QzxcFQ/
+- **Author:** tastesoflizzyt
+- **Upload date:** 2026-09-07
+- **Source file:** `sources/clean/tastesoflizzyt-martha-says-i-ve-made-this-cake-twice-now-and-it-turned-out-perfectl.txt`
+- **Type of bake:** coffee cake
+- **Key ingredients:** peach, blueberry, sour cream
+- **Dietary tags:** none recorded
+- **Recipe style:** none recorded
+
+## 34. 🍋 The easiest lemon dessert you’ll make all summer!
+
+- **Source ID:** `alinavrnk-the-easiest-lemon-dessert-you-ll-make-all-summer`
+- **URL:** https://www.instagram.com/reel/Dbf3IgDxCw6/
+- **Author:** alinavrnk
+- **Upload date:** 2026-08-01
+- **Source file:** `sources/clean/alinavrnk-the-easiest-lemon-dessert-you-ll-make-all-summer.txt`
+- **Type of bake:** brownies
+- **Key ingredients:** lemon zest, lemon juice, butter
+- **Dietary tags:** none recorded
+- **Recipe style:** none recorded
+
+## 35. 🍋🫐 Lemon Blueberry Cake with Cream Cheese Frosting & Blueberry Drizzle
 
 - **Source ID:** `myclassic-cookbook-lemon-blueberry-cake-with-cream-cheese-frosting-blueberry-drizzle`
 - **URL:** https://www.instagram.com/reel/Da0CGlxqnTI/
@@ -369,7 +429,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 31. 🍓 Strawberry Cheesecake Stuffed Cookies
+## 36. 🍎 Apple Cinnamon Crumble Loaf
+
+- **Source ID:** `everydayextra-apple-cinnamon-crumble-loaf`
+- **URL:** https://www.instagram.com/reel/DcwK1vwhYIY/
+- **Author:** everydayextra_
+- **Upload date:** 2026-09-01
+- **Source file:** `sources/clean/everydayextra-apple-cinnamon-crumble-loaf.txt`
+- **Type of bake:** loaf cake
+- **Key ingredients:** apple, cinnamon, brown sugar
+- **Dietary tags:** none recorded
+- **Recipe style:** none recorded
+
+## 37. 🍓 Strawberry Cheesecake Stuffed Cookies
 
 - **Source ID:** `cozybeabakes-strawberry-cheesecake-stuffed-cookies`
 - **URL:** https://www.instagram.com/reel/Dc1SANOJEIN/
@@ -381,7 +453,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** none recorded
 - **Recipe style:** none recorded
 
-## 32. 😮‍💨 172 Cal OREO Protein Cheesecake
+## 38. 😮‍💨 172 Cal OREO Protein Cheesecake
 
 - **Source ID:** `theflexibledietinglifestyle-172-cal-oreo-protein-cheesecake`
 - **URL:** https://www.instagram.com/reel/Dcq9IvdRipM/
@@ -393,7 +465,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Dietary tags:** high-protein
 - **Recipe style:** blender, water-bath
 
-## 33. 🤎These put the “oh!” in Pumpkin Oatmeal Cookies. 
+## 39. 🤎These put the “oh!” in Pumpkin Oatmeal Cookies. 
 
 - **Source ID:** `porterpantryfarmgoods-these-put-the-oh-in-pumpkin-oatmeal-cookies`
 - **URL:** https://www.instagram.com/reel/Dc-QelLtCAg/
@@ -409,9 +481,11 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 ## Index by key ingredients
 
-**almond butter** — I’m addicted to protein balls :)  (`kat-farinha-i-m-addicted-to-protein-balls`)
+**almond butter** — It’s officially that time 🎃 My Pumpkin Pie Truffles are BACK! (`lovelydelites-it-s-officially-that-time-my-pumpkin-pie-truffles-are-back`), I’m addicted to protein balls :)  (`kat-farinha-i-m-addicted-to-protein-balls`)
 
 **almond flour** — Apple Oatmeal Bars🍎 (`veggieworldrecipes-apple-oatmeal-bars`)
+
+**apple** — 🍎 Apple Cinnamon Crumble Loaf (`everydayextra-apple-cinnamon-crumble-loaf`)
 
 **apple puree** — Apple Cheesecake 🍏✨ (`rationfit-apple-cheesecake`)
 
@@ -421,9 +495,17 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **blueberries** — Air fryer donut holes, but make them lemon blueberry 🍋🫐 (`biteswithdina-air-fryer-donut-holes-but-make-them-lemon-blueberry`), Lemon Blueberry Cheesecake Cookies 🍋🫐 (`inbloombakery-lemon-blueberry-cheesecake-cookies`), Lemon Blueberry Cookies. Gluten free, eggless, nut free and can be vegan. I have (`laneandgreyfare-lemon-blueberry-cookies-gluten-free-eggless-nut-free-and-can-be-vegan-i-have`), Lemon Blueberry Crumble Cheesecake 🫐🍋✨ (`inbloombakery-lemon-blueberry-crumble-cheesecake`), lemon blueberry oatmeal cream pies 🍋🫐🍪 (`munchiesbymallory-lemon-blueberry-oatmeal-cream-pies`), Not it’s not mold, it’s a Blueberry Sugar Cookie and it’s a must have this summe (`laneandgreyfare-not-it-s-not-mold-it-s-a-blueberry-sugar-cookie-and-it-s-a-must-have-this-summe`), 🍋🫐 Lemon Blueberry Cake with Cream Cheese Frosting & Blueberry Drizzle (`myclassic-cookbook-lemon-blueberry-cake-with-cream-cheese-frosting-blueberry-drizzle`)
 
-**butter** — Sweet Potato Cheese Crackers (`sweet-potato-cheese-crackers`)
+**blueberry** — ⭐️⭐️⭐️⭐️⭐️Martha says “I’ve made this cake twice now, and it turned out perfectl (`tastesoflizzyt-martha-says-i-ve-made-this-cake-twice-now-and-it-turned-out-perfectl`)
+
+**brown sugar** — 🍎 Apple Cinnamon Crumble Loaf (`everydayextra-apple-cinnamon-crumble-loaf`)
+
+**butter** — Sweet Potato Cheese Crackers (`sweet-potato-cheese-crackers`), 🍋 The easiest lemon dessert you’ll make all summer! (`alinavrnk-the-easiest-lemon-dessert-you-ll-make-all-summer`)
 
 **buttermilk** — 🍋🫐 Lemon Blueberry Cake with Cream Cheese Frosting & Blueberry Drizzle (`myclassic-cookbook-lemon-blueberry-cake-with-cream-cheese-frosting-blueberry-drizzle`)
+
+**carrot** — carrot cake recipe from scratch (`cheflorarecipes-carrot-cake-recipe-from-scratch`)
+
+**cinnamon** — 🍎 Apple Cinnamon Crumble Loaf (`everydayextra-apple-cinnamon-crumble-loaf`)
 
 **cocoa powder** — Sweet Potato Chocolate Donuts (`thepickyeater-recipe-below`)
 
@@ -431,13 +513,15 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **coconut cream** — Apple Oatmeal Bars🍎 (`veggieworldrecipes-apple-oatmeal-bars`)
 
+**coconut flour** — It’s officially that time 🎃 My Pumpkin Pie Truffles are BACK! (`lovelydelites-it-s-officially-that-time-my-pumpkin-pie-truffles-are-back`)
+
 **coconut milk** — Coconut Cheesecake 🥥🍰✨ (`fantabulosity-blog-coconut-cheesecake`), Coconut Cream Brownies  (`pastrybysaloni-coconut-cream-brownies`)
 
 **cottage cheese** — Air fryer donut holes, but make them lemon blueberry 🍋🫐 (`biteswithdina-air-fryer-donut-holes-but-make-them-lemon-blueberry`), High-Protein Lemon Cookies (Soft & Glazed) (`mediterranean-recipes-2026-high-protein-lemon-cookies-soft-glazed`), 😮‍💨 172 Cal OREO Protein Cheesecake (`theflexibledietinglifestyle-172-cal-oreo-protein-cheesecake`)
 
-**cream cheese** — Coconut Cheesecake 🥥🍰✨ (`fantabulosity-blog-coconut-cheesecake`), Lemon Blueberry Cheesecake Cookies 🍋🫐 (`inbloombakery-lemon-blueberry-cheesecake-cookies`), Lemon Blueberry Crumble Cheesecake 🫐🍋✨ (`inbloombakery-lemon-blueberry-crumble-cheesecake`), lemon blueberry oatmeal cream pies 🍋🫐🍪 (`munchiesbymallory-lemon-blueberry-oatmeal-cream-pies`), No-Bake Banana Pudding Cheesecake (`pinchmetwice-recipe`), Pumpkin Cheesecake Cookies 🧡🍂🎃 (`inbloombakery-pumpkin-cheesecake-cookies`), Raspberry Cheesecake Crumble Bars (`butternutbakery-these-raspberry-cheesecake-crumble-bars-seem-fancy-but-they-re-actually-incredi`), Strawberries and Cream Banana Bread (`acozykitchen-strawberries-and-cream-banana-bread-inspired-by-wimbledon-comment-cozy-and`), Strawberry Cheesecake Cookies 🍓❤️🌸 (`inbloombakery-strawberry-cheesecake-cookies`), 🍋🫐 Lemon Blueberry Cake with Cream Cheese Frosting & Blueberry Drizzle (`myclassic-cookbook-lemon-blueberry-cake-with-cream-cheese-frosting-blueberry-drizzle`), 🍓 Strawberry Cheesecake Stuffed Cookies (`cozybeabakes-strawberry-cheesecake-stuffed-cookies`), 😮‍💨 172 Cal OREO Protein Cheesecake (`theflexibledietinglifestyle-172-cal-oreo-protein-cheesecake`)
+**cream cheese** — carrot cake recipe from scratch (`cheflorarecipes-carrot-cake-recipe-from-scratch`), Coconut Cheesecake 🥥🍰✨ (`fantabulosity-blog-coconut-cheesecake`), Lemon Blueberry Cheesecake Cookies 🍋🫐 (`inbloombakery-lemon-blueberry-cheesecake-cookies`), Lemon Blueberry Crumble Cheesecake 🫐🍋✨ (`inbloombakery-lemon-blueberry-crumble-cheesecake`), lemon blueberry oatmeal cream pies 🍋🫐🍪 (`munchiesbymallory-lemon-blueberry-oatmeal-cream-pies`), No-Bake Banana Pudding Cheesecake (`pinchmetwice-recipe`), Pumpkin Cheesecake Cookies 🧡🍂🎃 (`inbloombakery-pumpkin-cheesecake-cookies`), Raspberry Cheesecake Crumble Bars (`butternutbakery-these-raspberry-cheesecake-crumble-bars-seem-fancy-but-they-re-actually-incredi`), Strawberries and Cream Banana Bread (`acozykitchen-strawberries-and-cream-banana-bread-inspired-by-wimbledon-comment-cozy-and`), Strawberry Cheesecake Cookies 🍓❤️🌸 (`inbloombakery-strawberry-cheesecake-cookies`), 🍋🫐 Lemon Blueberry Cake with Cream Cheese Frosting & Blueberry Drizzle (`myclassic-cookbook-lemon-blueberry-cake-with-cream-cheese-frosting-blueberry-drizzle`), 🍓 Strawberry Cheesecake Stuffed Cookies (`cozybeabakes-strawberry-cheesecake-stuffed-cookies`), 😮‍💨 172 Cal OREO Protein Cheesecake (`theflexibledietinglifestyle-172-cal-oreo-protein-cheesecake`)
 
-**dark chocolate** — Coconut Cream Brownies  (`pastrybysaloni-coconut-cream-brownies`), Sweet Potato Chocolate Donuts (`thepickyeater-recipe-below`)
+**dark chocolate** — Coconut Cream Brownies  (`pastrybysaloni-coconut-cream-brownies`), Sweet Potato Chocolate Donuts (`thepickyeater-recipe-below`), These copycat Pumpkin Reeses Peanut Butter Cups are made with only 4 ingredients (`healthyholme-these-copycat-pumpkin-reeses-peanut-butter-cups-are-made-with-only-4-ingredients`)
 
 **flaxseed** — Vegan White Chocolate Raspberry Cookies (`thelittleblogofvegan-comment-yes-or-cookie-and-i-ll-send-you-the-recipe`)
 
@@ -455,13 +539,19 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **lemon** — Air fryer donut holes, but make them lemon blueberry 🍋🫐 (`biteswithdina-air-fryer-donut-holes-but-make-them-lemon-blueberry`), High-Protein Lemon Cookies (Soft & Glazed) (`mediterranean-recipes-2026-high-protein-lemon-cookies-soft-glazed`), Lemon Blueberry Cheesecake Cookies 🍋🫐 (`inbloombakery-lemon-blueberry-cheesecake-cookies`), Lemon Blueberry Cookies. Gluten free, eggless, nut free and can be vegan. I have (`laneandgreyfare-lemon-blueberry-cookies-gluten-free-eggless-nut-free-and-can-be-vegan-i-have`), Lemon Blueberry Crumble Cheesecake 🫐🍋✨ (`inbloombakery-lemon-blueberry-crumble-cheesecake`), lemon blueberry oatmeal cream pies 🍋🫐🍪 (`munchiesbymallory-lemon-blueberry-oatmeal-cream-pies`), Lemon Brownies (`acozykitchen-lemon-brownies-bright-soft-supple-with-a-fudgey-like-interior-the-best-and`), These Lemon Raspberry Cookies are a must! They’re gorgeous, soft and refreshing! (`laneandgreyfare-these-lemon-raspberry-cookies-are-a-must-they-re-gorgeous-soft-and-refreshing`), 🍋🫐 Lemon Blueberry Cake with Cream Cheese Frosting & Blueberry Drizzle (`myclassic-cookbook-lemon-blueberry-cake-with-cream-cheese-frosting-blueberry-drizzle`)
 
-**maple syrup** — Pumpkin Coffee Cake 🎃☕️🍁 (`serena-ansari-pumpkin-coffee-cake`)
+**lemon juice** — 🍋 The easiest lemon dessert you’ll make all summer! (`alinavrnk-the-easiest-lemon-dessert-you-ll-make-all-summer`)
+
+**lemon zest** — 🍋 The easiest lemon dessert you’ll make all summer! (`alinavrnk-the-easiest-lemon-dessert-you-ll-make-all-summer`)
+
+**maple syrup** — Pumpkin Coffee Cake 🎃☕️🍁 (`serena-ansari-pumpkin-coffee-cake`), These copycat Pumpkin Reeses Peanut Butter Cups are made with only 4 ingredients (`healthyholme-these-copycat-pumpkin-reeses-peanut-butter-cups-are-made-with-only-4-ingredients`)
 
 **marshmallow fluff** — Homemade Oatmeal Cream Pies (`cakemehometonight-consider-this-your-sign-to-bring-back-the-best-part-of-lunchtime-soft-chewy`)
 
 **mascarpone** — Strawberry Shortcake Cookies 🍓🍰❤️ (`inbloombakery-strawberry-shortcake-cookies`)
 
 **molasses** — Homemade Oatmeal Cream Pies (`cakemehometonight-consider-this-your-sign-to-bring-back-the-best-part-of-lunchtime-soft-chewy`)
+
+**natural peanut butter** — These copycat Pumpkin Reeses Peanut Butter Cups are made with only 4 ingredients (`healthyholme-these-copycat-pumpkin-reeses-peanut-butter-cups-are-made-with-only-4-ingredients`)
 
 **nilla wafers** — Lemon Blueberry Crumble Cheesecake 🫐🍋✨ (`inbloombakery-lemon-blueberry-crumble-cheesecake`), No-Bake Banana Pudding Cheesecake (`pinchmetwice-recipe`)
 
@@ -473,9 +563,11 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **oreo** — 😮‍💨 172 Cal OREO Protein Cheesecake (`theflexibledietinglifestyle-172-cal-oreo-protein-cheesecake`)
 
+**peach** — ⭐️⭐️⭐️⭐️⭐️Martha says “I’ve made this cake twice now, and it turned out perfectl (`tastesoflizzyt-martha-says-i-ve-made-this-cake-twice-now-and-it-turned-out-perfectl`)
+
 **protein powder** — High-Protein Lemon Cookies (Soft & Glazed) (`mediterranean-recipes-2026-high-protein-lemon-cookies-soft-glazed`), I’m addicted to protein balls :)  (`kat-farinha-i-m-addicted-to-protein-balls`), 😮‍💨 172 Cal OREO Protein Cheesecake (`theflexibledietinglifestyle-172-cal-oreo-protein-cheesecake`)
 
-**pumpkin puree** — I’m addicted to protein balls :)  (`kat-farinha-i-m-addicted-to-protein-balls`), Pumpkin Cheesecake Cookies 🧡🍂🎃 (`inbloombakery-pumpkin-cheesecake-cookies`), Pumpkin Coffee Cake 🎃☕️🍁 (`serena-ansari-pumpkin-coffee-cake`), September is almost here, and with it come the brrr months. 🍂 There’s something  (`michelle-salda-september-is-almost-here-and-with-it-come-the-brrr-months-there-s-something`), Starbucks-Inspired Pumpkin Scones 🎃🍂 (`itsaudreybakes-starbucks-inspired-pumpkin-scones`), 🤎These put the “oh!” in Pumpkin Oatmeal Cookies.  (`porterpantryfarmgoods-these-put-the-oh-in-pumpkin-oatmeal-cookies`)
+**pumpkin puree** — It’s officially that time 🎃 My Pumpkin Pie Truffles are BACK! (`lovelydelites-it-s-officially-that-time-my-pumpkin-pie-truffles-are-back`), I’m addicted to protein balls :)  (`kat-farinha-i-m-addicted-to-protein-balls`), Pumpkin Cheesecake Cookies 🧡🍂🎃 (`inbloombakery-pumpkin-cheesecake-cookies`), Pumpkin Coffee Cake 🎃☕️🍁 (`serena-ansari-pumpkin-coffee-cake`), September is almost here, and with it come the brrr months. 🍂 There’s something  (`michelle-salda-september-is-almost-here-and-with-it-come-the-brrr-months-there-s-something`), Starbucks-Inspired Pumpkin Scones 🎃🍂 (`itsaudreybakes-starbucks-inspired-pumpkin-scones`), 🤎These put the “oh!” in Pumpkin Oatmeal Cookies.  (`porterpantryfarmgoods-these-put-the-oh-in-pumpkin-oatmeal-cookies`)
 
 **pumpkin spice** — Starbucks-Inspired Pumpkin Scones 🎃🍂 (`itsaudreybakes-starbucks-inspired-pumpkin-scones`)
 
@@ -487,10 +579,14 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **shredded coconut** — Coconut Cream Brownies  (`pastrybysaloni-coconut-cream-brownies`)
 
+**sour cream** — ⭐️⭐️⭐️⭐️⭐️Martha says “I’ve made this cake twice now, and it turned out perfectl (`tastesoflizzyt-martha-says-i-ve-made-this-cake-twice-now-and-it-turned-out-perfectl`)
+
 **strawberries** — Strawberries and Cream Banana Bread (`acozykitchen-strawberries-and-cream-banana-bread-inspired-by-wimbledon-comment-cozy-and`), Strawberry Cheesecake Cookies 🍓❤️🌸 (`inbloombakery-strawberry-cheesecake-cookies`), Strawberry Shortcake Cookies 🍓🍰❤️ (`inbloombakery-strawberry-shortcake-cookies`), Yes to these Strawberry Jam Cookies! Perfect for the summer! Gluten free, nut fr (`laneandgreyfare-yes-to-these-strawberry-jam-cookies-perfect-for-the-summer-gluten-free-nut-fr`)
 
 **sweet potato puree** — Sweet Potato Cheese Crackers (`sweet-potato-cheese-crackers`), Sweet Potato Chocolate Donuts (`thepickyeater-recipe-below`)
 
 **vanilla pudding** — No-Bake Banana Pudding Cheesecake (`pinchmetwice-recipe`)
+
+**walnuts** — carrot cake recipe from scratch (`cheflorarecipes-carrot-cake-recipe-from-scratch`)
 
 **white chocolate** — Lemon Brownies (`acozykitchen-lemon-brownies-bright-soft-supple-with-a-fudgey-like-interior-the-best-and`), Strawberry Shortcake Cookies 🍓🍰❤️ (`inbloombakery-strawberry-shortcake-cookies`), Vegan White Chocolate Raspberry Cookies (`thelittleblogofvegan-comment-yes-or-cookie-and-i-ll-send-you-the-recipe`)

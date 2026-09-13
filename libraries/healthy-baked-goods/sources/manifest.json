@@ -145,6 +145,22 @@
       }
     },
     {
+      "id": "cheflorarecipes-carrot-cake-recipe-from-scratch",
+      "kind": "instagram_caption",
+      "title": "carrot cake recipe from scratch",
+      "url": "https://www.instagram.com/reel/DcYpcZ7j6Pi/",
+      "author": "cheflorarecipes",
+      "upload_date": "2026-08-23",
+      "word_count": 293,
+      "clean_file": "clean/cheflorarecipes-carrot-cake-recipe-from-scratch.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 5
+      }
+    },
+    {
       "id": "fantabulosity-blog-coconut-cheesecake",
       "kind": "instagram_caption",
       "title": "Coconut Cheesecake 🥥🍰✨",
@@ -193,35 +209,19 @@
       }
     },
     {
-      "id": "thelittleblogofvegan-comment-yes-or-cookie-and-i-ll-send-you-the-recipe",
-      "kind": "instagram_caption",
-      "title": "Vegan White Chocolate Raspberry Cookies",
-      "url": "https://www.instagram.com/reel/Dbiex2vMB9B/",
-      "author": "thelittleblogofvegan",
-      "upload_date": "2026-08-02",
-      "word_count": 106,
-      "clean_file": "clean/thelittleblogofvegan-comment-yes-or-cookie-and-i-ll-send-you-the-recipe.txt",
+      "id": "pumpkin-reeses-cups-healthyholme",
+      "kind": "website",
+      "title": "Copycat Reeses Pumpkins: 4 Ingredient Peanut Butter Cups",
+      "author": "@healthyholme",
+      "url": "https://healthyholme.com/2024/09/23/copycat-reeses-pumpkins-4-ingredient-peanut-butter-cups/",
+      "retrieved_date": "2026-09-13",
+      "clean_file": "clean/pumpkin-reeses-cups-healthyholme.txt",
+      "word_count": 695,
       "anchor": {
         "kind": "paragraph",
         "format": "¶N",
         "bound_field": "paragraph_count",
-        "bound": 5
-      }
-    },
-    {
-      "id": "cakemehometonight-consider-this-your-sign-to-bring-back-the-best-part-of-lunchtime-soft-chewy",
-      "kind": "instagram_caption",
-      "title": "Homemade Oatmeal Cream Pies",
-      "url": "https://www.instagram.com/reel/DcleQ0Nxv7n/",
-      "author": "cakemehometonight",
-      "upload_date": "2026-08-28",
-      "word_count": 48,
-      "clean_file": "clean/cakemehometonight-consider-this-your-sign-to-bring-back-the-best-part-of-lunchtime-soft-chewy.txt",
-      "anchor": {
-        "kind": "paragraph",
-        "format": "¶N",
-        "bound_field": "paragraph_count",
-        "bound": 2
+        "bound": 1
       }
     },
     {
@@ -254,6 +254,38 @@
         "format": "¶N",
         "bound_field": "paragraph_count",
         "bound": 5
+      }
+    },
+    {
+      "id": "cakemehometonight-consider-this-your-sign-to-bring-back-the-best-part-of-lunchtime-soft-chewy",
+      "kind": "instagram_caption",
+      "title": "Homemade Oatmeal Cream Pies",
+      "url": "https://www.instagram.com/reel/DcleQ0Nxv7n/",
+      "author": "cakemehometonight",
+      "upload_date": "2026-08-28",
+      "word_count": 48,
+      "clean_file": "clean/cakemehometonight-consider-this-your-sign-to-bring-back-the-best-part-of-lunchtime-soft-chewy.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 2
+      }
+    },
+    {
+      "id": "lovelydelites-it-s-officially-that-time-my-pumpkin-pie-truffles-are-back",
+      "kind": "instagram_caption",
+      "title": "It’s officially that time 🎃 My Pumpkin Pie Truffles are BACK!",
+      "url": "https://www.instagram.com/reel/Dc1iClSvxyb/",
+      "author": "lovelydelites",
+      "upload_date": "2026-09-03",
+      "word_count": 209,
+      "clean_file": "clean/lovelydelites-it-s-officially-that-time-my-pumpkin-pie-truffles-are-back.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 9
       }
     },
     {
@@ -449,6 +481,22 @@
       }
     },
     {
+      "id": "pinchmetwice-recipe",
+      "kind": "instagram_caption",
+      "title": "No-Bake Banana Pudding Cheesecake",
+      "url": "https://www.instagram.com/reel/DaQ3gKgMcsC/",
+      "author": "pinchmetwice",
+      "upload_date": "2026-07-01",
+      "word_count": 299,
+      "clean_file": "clean/pinchmetwice-recipe.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 13
+      }
+    },
+    {
       "id": "laneandgreyfare-not-it-s-not-mold-it-s-a-blueberry-sugar-cookie-and-it-s-a-must-have-this-summe",
       "kind": "instagram_caption",
       "title": "Not it’s not mold, it’s a Blueberry Sugar Cookie and it’s a must have this summe",
@@ -494,6 +542,22 @@
         "format": "¶N",
         "bound_field": "paragraph_count",
         "bound": 1
+      }
+    },
+    {
+      "id": "peach-blueberry-cake-tastesoflizzyt",
+      "kind": "website",
+      "title": "Peach Blueberry Cake",
+      "author": "@tastesoflizzyt",
+      "url": "https://www.tastesoflizzyt.com/peach-blueberry-cake/",
+      "retrieved_date": "2026-09-13",
+      "clean_file": "clean/peach-blueberry-cake-tastesoflizzyt.txt",
+      "word_count": 1338,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 2
       }
     },
     {
@@ -561,6 +625,22 @@
       }
     },
     {
+      "id": "butternutbakery-these-raspberry-cheesecake-crumble-bars-seem-fancy-but-they-re-actually-incredi",
+      "kind": "instagram_caption",
+      "title": "Raspberry Cheesecake Crumble Bars",
+      "url": "https://www.instagram.com/reel/DWgpXsFDbIt/",
+      "author": "butternutbakery",
+      "upload_date": "2026-03-30",
+      "word_count": 63,
+      "clean_file": "clean/butternutbakery-these-raspberry-cheesecake-crumble-bars-seem-fancy-but-they-re-actually-incredi.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 2
+      }
+    },
+    {
       "id": "raspberry-cheesecake-crumble-bars-butternut-bakery",
       "kind": "website",
       "title": "Raspberry Cheesecake Crumble Bars - Butternut Bakery",
@@ -574,38 +654,6 @@
         "format": "¶N",
         "bound_field": "paragraph_count",
         "bound": 1
-      }
-    },
-    {
-      "id": "thepickyeater-recipe-below",
-      "kind": "instagram_caption",
-      "title": "Sweet Potato Chocolate Donuts",
-      "url": "https://www.instagram.com/reel/DcrtdN4vmjb/",
-      "author": "thepickyeater",
-      "upload_date": "2026-08-30",
-      "word_count": 336,
-      "clean_file": "clean/thepickyeater-recipe-below.txt",
-      "anchor": {
-        "kind": "paragraph",
-        "format": "¶N",
-        "bound_field": "paragraph_count",
-        "bound": 13
-      }
-    },
-    {
-      "id": "pinchmetwice-recipe",
-      "kind": "instagram_caption",
-      "title": "No-Bake Banana Pudding Cheesecake",
-      "url": "https://www.instagram.com/reel/DaQ3gKgMcsC/",
-      "author": "pinchmetwice",
-      "upload_date": "2026-07-01",
-      "word_count": 299,
-      "clean_file": "clean/pinchmetwice-recipe.txt",
-      "anchor": {
-        "kind": "paragraph",
-        "format": "¶N",
-        "bound_field": "paragraph_count",
-        "bound": 13
       }
     },
     {
@@ -802,6 +850,38 @@
       }
     },
     {
+      "id": "thepickyeater-recipe-below",
+      "kind": "instagram_caption",
+      "title": "Sweet Potato Chocolate Donuts",
+      "url": "https://www.instagram.com/reel/DcrtdN4vmjb/",
+      "author": "thepickyeater",
+      "upload_date": "2026-08-30",
+      "word_count": 336,
+      "clean_file": "clean/thepickyeater-recipe-below.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 13
+      }
+    },
+    {
+      "id": "healthyholme-these-copycat-pumpkin-reeses-peanut-butter-cups-are-made-with-only-4-ingredients",
+      "kind": "instagram_caption",
+      "title": "These copycat Pumpkin Reeses Peanut Butter Cups are made with only 4 ingredients",
+      "url": "https://www.instagram.com/reel/Dc3qV5xMv1G/",
+      "author": "healthyholme",
+      "upload_date": "2026-09-04",
+      "word_count": 83,
+      "clean_file": "clean/healthyholme-these-copycat-pumpkin-reeses-peanut-butter-cups-are-made-with-only-4-ingredients.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 3
+      }
+    },
+    {
       "id": "laneandgreyfare-these-lemon-raspberry-cookies-are-a-must-they-re-gorgeous-soft-and-refreshing",
       "kind": "instagram_caption",
       "title": "These Lemon Raspberry Cookies are a must! They’re gorgeous, soft and refreshing!",
@@ -818,19 +898,19 @@
       }
     },
     {
-      "id": "butternutbakery-these-raspberry-cheesecake-crumble-bars-seem-fancy-but-they-re-actually-incredi",
+      "id": "thelittleblogofvegan-comment-yes-or-cookie-and-i-ll-send-you-the-recipe",
       "kind": "instagram_caption",
-      "title": "Raspberry Cheesecake Crumble Bars",
-      "url": "https://www.instagram.com/reel/DWgpXsFDbIt/",
-      "author": "butternutbakery",
-      "upload_date": "2026-03-30",
-      "word_count": 63,
-      "clean_file": "clean/butternutbakery-these-raspberry-cheesecake-crumble-bars-seem-fancy-but-they-re-actually-incredi.txt",
+      "title": "Vegan White Chocolate Raspberry Cookies",
+      "url": "https://www.instagram.com/reel/Dbiex2vMB9B/",
+      "author": "thelittleblogofvegan",
+      "upload_date": "2026-08-02",
+      "word_count": 106,
+      "clean_file": "clean/thelittleblogofvegan-comment-yes-or-cookie-and-i-ll-send-you-the-recipe.txt",
       "anchor": {
         "kind": "paragraph",
         "format": "¶N",
         "bound_field": "paragraph_count",
-        "bound": 2
+        "bound": 5
       }
     },
     {
@@ -898,6 +978,38 @@
       }
     },
     {
+      "id": "tastesoflizzyt-martha-says-i-ve-made-this-cake-twice-now-and-it-turned-out-perfectl",
+      "kind": "instagram_caption",
+      "title": "⭐️⭐️⭐️⭐️⭐️Martha says “I’ve made this cake twice now, and it turned out perfectl",
+      "url": "https://www.instagram.com/reel/Dc_H1QzxcFQ/",
+      "author": "tastesoflizzyt",
+      "upload_date": "2026-09-07",
+      "word_count": 53,
+      "clean_file": "clean/tastesoflizzyt-martha-says-i-ve-made-this-cake-twice-now-and-it-turned-out-perfectl.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 5
+      }
+    },
+    {
+      "id": "alinavrnk-the-easiest-lemon-dessert-you-ll-make-all-summer",
+      "kind": "instagram_caption",
+      "title": "🍋 The easiest lemon dessert you’ll make all summer!",
+      "url": "https://www.instagram.com/reel/Dbf3IgDxCw6/",
+      "author": "alinavrnk",
+      "upload_date": "2026-08-01",
+      "word_count": 205,
+      "clean_file": "clean/alinavrnk-the-easiest-lemon-dessert-you-ll-make-all-summer.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 9
+      }
+    },
+    {
       "id": "myclassic-cookbook-lemon-blueberry-cake-with-cream-cheese-frosting-blueberry-drizzle",
       "kind": "instagram_caption",
       "title": "🍋🫐 Lemon Blueberry Cake with Cream Cheese Frosting & Blueberry Drizzle",
@@ -911,6 +1023,22 @@
         "format": "¶N",
         "bound_field": "paragraph_count",
         "bound": 24
+      }
+    },
+    {
+      "id": "everydayextra-apple-cinnamon-crumble-loaf",
+      "kind": "instagram_caption",
+      "title": "🍎 Apple Cinnamon Crumble Loaf",
+      "url": "https://www.instagram.com/reel/DcwK1vwhYIY/",
+      "author": "everydayextra_",
+      "upload_date": "2026-09-01",
+      "word_count": 257,
+      "clean_file": "clean/everydayextra-apple-cinnamon-crumble-loaf.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 9
       }
     },
     {
