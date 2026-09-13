@@ -51,7 +51,7 @@ if [ "$PUSH" -eq 1 ]; then
   git add -A
   git commit -q -m "Add ${NEW} note(s) and rebuild outputs"
   git push -q origin main
-  echo "  pushed. https://polymerjones.github.io/polymerphd/ updates in ~1 min."
+  echo "  pushed. https://polyphd.app/ updates in seconds; https://polymerjones.github.io/polymerphd/ in ~1 min."
 else
   echo
   echo "Reviewed and happy? Publish with:  bash scripts/publish.sh --push"

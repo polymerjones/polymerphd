@@ -57,10 +57,15 @@ appear anywhere downstream.
 All three are built from the same corpus. The web app is also published, so it can be opened
 without installing anything:
 
-**<https://polymerjones.github.io/polymerphd/>** — GitHub Pages, served from `main` at the
-repository root, where a small `index.html` redirects to `app/index.html`. It redeploys about a
-minute after any push. The app needs iOS 16.4+ or macOS 13.3+, because it unpacks its data with
-`DecompressionStream`; on anything older the page opens blank.
+**<https://polyphd.app/>** — the primary link, served by Vercel from the same `main` branch.
+Deploys go live within seconds of any push, with no meaningful CDN cache lag. The app needs
+iOS 16.4+ or macOS 13.3+, because it unpacks its data with `DecompressionStream`; on anything
+older the page opens blank.
+
+**<https://polymerjones.github.io/polymerphd/>** — the older GitHub Pages URL, served from `main`
+at the repository root, where a small `index.html` redirects to `app/index.html`. Still live as a
+fallback; redeploys about a minute after any push, then caches for up to ~10 minutes on top of
+that.
 
 ### 1. Custom GPT (one per library)
 

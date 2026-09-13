@@ -176,7 +176,9 @@ source material, restated in the README's Boundaries section.
 - **`slice_sections.py` and `slice_matching.py` read `sys.argv` at module level** and cannot be
   imported. `build_catalog.py` is safely importable.
 - **GitHub Pages caches for about ten minutes.** After a push, verify with a cache-busting query
-  string or you will see the previous build and think the deploy failed.
+  string or you will see the previous build and think the deploy failed. This only affects the
+  GitHub Pages fallback URL; the primary `https://polyphd.app/` link (Vercel) invalidates its CDN
+  within seconds of a push.
 - **`libraries/<slug>/sources/raw/` is gitignored** (yt-dlp dumps, regenerable, ~300 MB across all
   libraries). `sources/clean/` is the provenance record and is committed.
 - **The iOS build expires after 7 days** on a free Apple ID. Rebuild to renew.
@@ -190,7 +192,8 @@ source material, restated in the README's Boundaries section.
 
 | Path | Updates when |
 |---|---|
-| <https://polymerjones.github.io/polymerphd/> | ~1 min after any push. This is the link Paul sends his father |
+| <https://polyphd.app/> | Seconds after any push (Vercel). This is now the primary link — the one to send |
+| <https://polymerjones.github.io/polymerphd/> | ~1 min after any push, then caches ~10 min (see below). Older fallback link |
 | `app/index.html` | `build_app_data.py` (all libraries at once) |
 | `ios/` | `make_xcodeproj.py`, then build to device |
 | **Custom GPT** (one per library) | **Never automatically.** Re-upload the files in `libraries/<slug>/knowledge/` (per that library's `custom_gpt.file_limit`, 20 today) by hand after any synthesis change, with `libraries/<slug>/PASTE_INTO_GPT_INSTRUCTIONS.txt` as the system prompt |
