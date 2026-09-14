@@ -81,6 +81,22 @@
       }
     },
     {
+      "id": "shelikesmilk-apple-fritter-loaf-cake",
+      "kind": "instagram_caption",
+      "title": "APPLE FRITTER LOAF CAKE🍂🍏",
+      "url": "https://www.instagram.com/reel/DdIBTjOqWMa/",
+      "author": "shelikesmilk",
+      "upload_date": "2026-09-10",
+      "word_count": 406,
+      "clean_file": "clean/shelikesmilk-apple-fritter-loaf-cake.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 10
+      }
+    },
+    {
       "id": "veggieworldrecipes-apple-oatmeal-bars",
       "kind": "instagram_caption",
       "title": "Apple Oatmeal Bars🍎",
@@ -110,6 +126,22 @@
         "format": "¶N",
         "bound_field": "paragraph_count",
         "bound": 1
+      }
+    },
+    {
+      "id": "mahperezz-bolo-de-chocolate-fofinho-feito-com-banana-chega-de-esquecer-a-banana-e-ela-es",
+      "kind": "instagram_caption",
+      "title": "Bolo de chocolate fofinho, feito com banana (chega de esquecer a banana e ela es",
+      "url": "https://www.instagram.com/reel/DbeQNC1xIKb/",
+      "author": "mahperezz",
+      "upload_date": "2026-07-31",
+      "word_count": 130,
+      "clean_file": "clean/mahperezz-bolo-de-chocolate-fofinho-feito-com-banana-chega-de-esquecer-a-banana-e-ela-es.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 7
       }
     },
     {
@@ -238,6 +270,22 @@
         "format": "¶N",
         "bound_field": "paragraph_count",
         "bound": 1
+      }
+    },
+    {
+      "id": "oliviabrookscook-healthy-pumpkin-pie-cheesecake-easy-dessert",
+      "kind": "instagram_caption",
+      "title": "Healthy Pumpkin Pie Cheesecake 🎃 Easy Dessert!",
+      "url": "https://www.instagram.com/reel/Dc9jyj_gV0z/",
+      "author": "oliviabrookscook",
+      "upload_date": "2026-09-06",
+      "word_count": 109,
+      "clean_file": "clean/oliviabrookscook-healthy-pumpkin-pie-cheesecake-easy-dessert.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 2
       }
     },
     {
@@ -481,6 +529,38 @@
       }
     },
     {
+      "id": "lindsaypleskot-rd-double-chocolate-protein-muffins",
+      "kind": "instagram_caption",
+      "title": "My kids say these taste like chocolate cupcakes, and they happen to have 8g (no ",
+      "url": "https://www.instagram.com/reel/Dc926TKhVZf/",
+      "author": "lindsaypleskot.rd",
+      "upload_date": "2026-09-07",
+      "word_count": 306,
+      "clean_file": "clean/lindsaypleskot-rd-double-chocolate-protein-muffins.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 7
+      }
+    },
+    {
+      "id": "theconsciousplantkitchen-pumpkin-bites",
+      "kind": "instagram_caption",
+      "title": "No gluten, no dairy, no eggs🙏Comment' RECIPE' and I'll DM you the full recipe fo",
+      "url": "https://www.instagram.com/reel/DdFRVEqCppE/",
+      "author": "theconsciousplantkitchen",
+      "upload_date": "2026-09-09",
+      "word_count": 59,
+      "clean_file": "clean/theconsciousplantkitchen-pumpkin-bites.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
       "id": "pinchmetwice-recipe",
       "kind": "instagram_caption",
       "title": "No-Bake Banana Pudding Cheesecake",
@@ -569,6 +649,22 @@
       "upload_date": "2026-08-10",
       "word_count": 14,
       "clean_file": "clean/cle-aneatsdaily-protein-snickers-ice-cream-bites.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
+      "id": "theconsciousplantkitchen-pumpkin-bites-blog",
+      "kind": "website",
+      "title": "Pumpkin Bites (3 Ingredient, No Eggs, Gluten-Free)",
+      "author": "@theconsciousplantkitchen",
+      "url": "https://www.theconsciousplantkitchen.com/pumpkin-bites/",
+      "retrieved_date": "2026-09-13",
+      "clean_file": "clean/theconsciousplantkitchen-pumpkin-bites-blog.txt",
+      "word_count": 752,
       "anchor": {
         "kind": "paragraph",
         "format": "¶N",
@@ -866,6 +962,22 @@
       }
     },
     {
+      "id": "lindsaypleskot-rd-double-chocolate-protein-muffins-blog",
+      "kind": "website",
+      "title": "These Chocolate Muffins Taste Like Cupcakes with 8g protein each!",
+      "author": "@lindsaypleskot.rd",
+      "url": "https://www.lindsaypleskot.com/double-chocolate-protein-muffins/",
+      "retrieved_date": "2026-09-13",
+      "clean_file": "clean/lindsaypleskot-rd-double-chocolate-protein-muffins-blog.txt",
+      "word_count": 1271,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      }
+    },
+    {
       "id": "healthyholme-these-copycat-pumpkin-reeses-peanut-butter-cups-are-made-with-only-4-ingredients",
       "kind": "instagram_caption",
       "title": "These copycat Pumpkin Reeses Peanut Butter Cups are made with only 4 ingredients",
@@ -1071,6 +1183,22 @@
         "format": "¶N",
         "bound_field": "paragraph_count",
         "bound": 6
+      }
+    },
+    {
+      "id": "alinavrnk-blueberry-cake-with-mascarpone-cream",
+      "kind": "instagram_caption",
+      "title": "💜 Blueberry Cake with Mascarpone Cream 🫐",
+      "url": "https://www.instagram.com/reel/Db-yYcKR_ia/",
+      "author": "alinavrnk",
+      "upload_date": "2026-08-13",
+      "word_count": 385,
+      "clean_file": "clean/alinavrnk-blueberry-cake-with-mascarpone-cream.txt",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 15
       }
     },
     {
