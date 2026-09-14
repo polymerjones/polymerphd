@@ -270,6 +270,23 @@ mark{background:var(--accent-soft);color:inherit;font-weight:600;padding:0 .1em}
 .ing-copy:active{transform:scale(.97)}
 .ing-copy.copied{background:var(--accent);color:var(--paper)}
 
+/* ---- healthy-baked-goods recipe index (Sources tab) ---- */
+.recipe-group-title{font-family:var(--sans);font-size:.74rem;text-transform:uppercase;
+  letter-spacing:.05em;color:var(--muted);font-weight:600;margin:1.7rem 0 .2rem}
+.recipe-group-title:first-child{margin-top:0}
+.recipe-row{display:flex;align-items:center;gap:.8rem;text-decoration:none;color:inherit;
+  padding:.85rem 0;border-bottom:1px solid var(--rule)}
+.recipe-row:hover .recipe-title{color:var(--accent)}
+.recipe-thumb{width:56px;height:56px;border-radius:10px;object-fit:cover;flex:none;
+  background:var(--accent-soft);border:1px solid var(--rule)}
+.recipe-body{min-width:0;flex:1}
+.recipe-title{font-weight:600;font-size:1rem;line-height:1.3;display:-webkit-box;
+  -webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.recipe-byline{display:block;font-family:var(--sans);font-size:.72rem;color:var(--muted);
+  margin-top:.15rem}
+.recipe-chevron{font-family:var(--sans);color:var(--muted);font-size:1.15rem;flex:none;
+  opacity:.55}
+
 /* ---- mobile ---- */
 @media (max-width:640px){
   body{font-size:17px}
@@ -330,7 +347,8 @@ let currentSlug = null;
 let D = null, INDEX = null, VID = {}, filters = null;
 const LOADED = new Map();
 
-function freshFilters(){ return {system:null, duration:null, position:null, equipment:null, ingredientMax:null}; }
+function freshFilters(){ return {system:null, duration:null, position:null, equipment:null,
+  ingredientMax:null, category:null, dietTag:null}; }
 
 async function enterLibrary(slug){
   let entry = LOADED.get(slug);
@@ -723,7 +741,109 @@ function viewSymptoms(){
 
 const INGREDIENT_MAXES = [["3","≤3 ingredients"],["6","≤6 ingredients"],["10","≤10 ingredients"]];
 
+/* healthy-baked-goods only: bake_type is freeform (no controlled vocabulary), so grouping the
+   Sources/"Recipe Index" tab into cookbook-style sections needs a hand-maintained mapping —
+   one category per recipe, derived from each video's first bake_type value. An unmapped
+   future bake_type value falls into "Other" rather than breaking the page. */
+const RECIPE_CATEGORY_MAP = {
+  "cake":"Cakes & Loaves", "layer cake":"Cakes & Loaves", "loaf cake":"Cakes & Loaves",
+  "coffee cake":"Cakes & Loaves",
+  "cookies":"Cookies",
+  "cheesecake":"Cheesecakes & Cream Desserts", "cheesecake bites":"Cheesecakes & Cream Desserts",
+  "cream pies":"Cheesecakes & Cream Desserts",
+  "bars":"Bars, Bites & Brownies", "bites":"Bars, Bites & Brownies", "brownies":"Bars, Bites & Brownies",
+  "no-bake candy":"Bars, Bites & Brownies", "protein balls":"Bars, Bites & Brownies",
+  "truffles":"Bars, Bites & Brownies",
+  "muffins":"Muffins & Breakfast", "scones":"Muffins & Breakfast", "bread":"Muffins & Breakfast",
+  "donuts":"Muffins & Breakfast", "crackers":"Muffins & Breakfast",
+};
+const RECIPE_CATEGORY_ORDER = ["Cakes & Loaves","Cookies","Cheesecakes & Cream Desserts",
+  "Bars, Bites & Brownies","Muffins & Breakfast"];
+function recipeCategory(v){
+  const bt = (v.bake_type && v.bake_type[0]) || "";
+  return RECIPE_CATEGORY_MAP[bt] || "Other";
+}
+function recipeRow(v){
+  const cover = v.images && v.images[0];
+  const thumb = cover
+    ? `<img class="recipe-thumb" src="data:${cover.mime};base64,${cover.data}" alt="" loading="lazy">`
+    : `<div class="recipe-thumb"></div>`;
+  const bits = [recipeCategory(v)];
+  if(v.ingredient_count != null) bits.push(`${v.ingredient_count} ingredient${v.ingredient_count===1?"":"s"}`);
+  bits.push(`${v.anchors} source ref${v.anchors===1?"":"s"}`);
+  return `<a class="recipe-row" href="${libHref("source", v.id)}">
+    ${thumb}
+    <span class="recipe-body">
+      <span class="recipe-title">${esc(v.title)}</span>
+      ${v.creator ? `<span class="recipe-byline">${esc(v.creator)}</span>` : ""}
+      <span class="meta">${bits.join(" · ")}</span>
+    </span>
+    <span class="recipe-chevron">›</span>
+  </a>`;
+}
+function viewRecipeIndex(){
+  const wrap = document.createElement("div");
+  const dietCounts = {};
+  for(const v of D.videos) for(const t of (v.dietary_tags||[])) dietCounts[t] = (dietCounts[t]||0)+1;
+  const dietDefs = Object.entries(dietCounts).filter(([,c]) => c>=5).sort((a,b) => b[1]-a[1])
+    .map(([t]) => [t, t.replace(/-/g," ").replace(/\b\w/g, c => c.toUpperCase())]);
+  const catCounts = {};
+  for(const v of D.videos){ const c = recipeCategory(v); catCounts[c] = (catCounts[c]||0)+1; }
+  const catOrder = RECIPE_CATEGORY_ORDER.filter(c => catCounts[c]);
+  let open = !!filters.dietTag;
+  const render = () => {
+    const term = (wrap.querySelector("#vf")?.value||"").toLowerCase();
+    let rows = D.videos;
+    if(filters.category) rows = rows.filter(v => recipeCategory(v) === filters.category);
+    if(filters.dietTag) rows = rows.filter(v => (v.dietary_tags||[]).includes(filters.dietTag));
+    if(term) rows = rows.filter(v =>
+      (v.title+" "+(v.creator||"")+" "+D.meta.facets.map(f=>(v[f]||[]).join(" ")).join(" ")).toLowerCase().includes(term));
+    rows = [...rows].sort((a,b) => a.title.localeCompare(b.title));
+
+    const groups = new Map();
+    for(const v of rows){
+      const c = recipeCategory(v);
+      if(!groups.has(c)) groups.set(c, []);
+      groups.get(c).push(v);
+    }
+    const orderedGroups = [...catOrder, ...[...groups.keys()].filter(c => !catOrder.includes(c))]
+      .filter(c => groups.has(c));
+
+    wrap.innerHTML = `<div class="prose"><h1>Recipe Index</h1>
+      <p class="lede">${D.videos.length} recipes collected from creators, with ingredients,
+      methods, substitutions, and original source notes preserved.</p>
+      <p class="meta">${D.videos.length} recipes · ${D.stats.anchors.toLocaleString()} source references</p></div>
+      <input id="vf" class="sans" placeholder="Search recipes, ingredients, or creator…" value="${esc(term)}"
+        style="width:100%;max-width:var(--measure);padding:.5rem .7rem;font-size:16px;
+        border:1px solid var(--rule);border-radius:8px;background:var(--card);
+        color:var(--ink);margin-bottom:.9rem">
+      <div class="filters" id="fc">${chips([["", "All"], ...catOrder.map(c=>[c,c])], filters.category||"")}</div>
+      ${dietDefs.length ? `<button type="button" class="foldbtn" id="ffbtn">${open?"Hide tags ▲":"More tags ▾"}</button>
+      <div class="filterfold${open?" open":""}" id="ff">
+        <div class="filters" id="fd">${chips(dietDefs, filters.dietTag)}</div>
+      </div>` : ""}
+      <p class="count">${rows.length} recipe${rows.length===1?"":"s"}</p>
+      ${orderedGroups.map(c => `<h2 class="recipe-group-title">${esc(c)}</h2>
+        ${groups.get(c).map(recipeRow).join("")}`).join("")}`;
+
+    wire(wrap.querySelector("#fc"), "category", render);
+    if(dietDefs.length){
+      wire(wrap.querySelector("#fd"), "dietTag", render);
+      wrap.querySelector("#ffbtn").onclick = () => { open = !open; render(); };
+    }
+    const inp = wrap.querySelector("#vf");
+    inp.oninput = () => { const p = inp.selectionStart; render();
+      const n = wrap.querySelector("#vf"); n.focus(); n.setSelectionRange(p,p); };
+  };
+  render();
+  return wrap;
+}
+
 function viewSources(){
+  return D.meta.slug === "healthy-baked-goods" ? viewRecipeIndex() : viewSourcesGeneric();
+}
+
+function viewSourcesGeneric(){
   const wrap = document.createElement("div");
   const hasIngredientCounts = D.videos.some(v => v.ingredient_count != null);
   let open = !!(filters.system || filters.ingredientMax);
@@ -1076,7 +1196,18 @@ const TABS = [
 ];
 
 function renderNav(activeSuffix){
-  $("nav").innerHTML = TABS.map(([suffix,label,ico]) => {
+  $("nav").innerHTML = TABS.filter(([suffix]) => {
+    // A tab with zero of its kind of content is a dead end (an empty "0 practices"
+    // page) rather than a real surface — hide it instead of showing nothing to filter.
+    // Applies to any library, not just one — most libraries are missing one of these.
+    if(suffix === "practices") return D.stats.practices > 0;
+    if(suffix === "symptoms")  return D.stats.symptoms > 0;
+    return true;
+  }).map(([suffix,label,ico]) => {
+    // healthy-baked-goods' empty-query "Search" tab is actually a photo-grid landing
+    // page (viewBakedGoodsGrid) rather than a text search box first — "Browse" reads
+    // truer there. Every other library keeps "Search", which is what that tab still is.
+    if(suffix === "" && D && D.meta.slug === "healthy-baked-goods") label = "Browse";
     const on = suffix === activeSuffix;
     return `<a href="${libHref(suffix)}" class="${on?"on":""}"><span class="ico">${ico}</span>${label}</a>`;
   }).join("");

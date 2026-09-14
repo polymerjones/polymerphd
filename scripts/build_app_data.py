@@ -242,6 +242,7 @@ def load_notes(lib, by_id, problems):
             "upload_date": date,
             "duration": extent,
             "ingredient_count": fm.get("ingredient_count"),
+            "creator": fm.get("creator"),
             **{f: sorted(as_list(fm.get(f))) for f in lib.facets},
             "sections": [{"heading": h, "body": b} for h, b in sections.items()],
             "anchors": len(citations),
