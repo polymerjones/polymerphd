@@ -1,0 +1,22 @@
+{
+  "sources": [
+    {
+      "id": "-BEdhS9-cno",
+      "kind": "youtube",
+      "title": "Ayurveda Pt. 1: Doshas, Cognitive Fingerprint, Personality",
+      "url": "https://www.youtube.com/watch?v=-BEdhS9-cno",
+      "upload_date": "2019-11-20",
+      "duration_seconds": 4587,
+      "duration": "76:27",
+      "word_count": 13110,
+      "clean_file": "clean/-BEdhS9-cno.txt",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 4587
+      }
+    }
+  ],
+  "skipped": []
+}

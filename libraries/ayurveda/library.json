@@ -1,0 +1,51 @@
+{
+  "slug": "ayurveda",
+  "title": "Ayurveda",
+  "subtitle": "Doshas, routines, and remedies from traditional Ayurvedic medicine",
+  "lede": "A reference to {videos} sources on Ayurvedic medicine — doshas, daily routines, and remedies as their teachers describe them.",
+  "about_paragraphs": [
+    "A reference built from {videos} sources on Ayurveda — doshas, daily and seasonal routines, and remedies — synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a specific point in a specific source — a page, a paragraph, or a video timestamp, depending on what kind of source made the claim. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["subjects", "doshas", "practices", "concepts"],
+  "primary_facet": "doshas",
+  "controlled_facets": {},
+  "universal_sections": [
+    "Central claim",
+    "Symptoms and body signals addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+
+  "glossary_file": "07_PLAIN_ENGLISH_GLOSSARY.md",
+  "curated_facts_file": null,
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "subjects": "Main subjects",
+    "doshas": "Doshas",
+    "practices": "Practices",
+    "concepts": "Important concepts"
+  },
+  "catalog_unit_label": "Sources",
+  "catalog_id_label": "Source ID",
+
+  "attribution": {
+    "style": "youtube_channel_partial",
+    "name": "HealthyGamerGG",
+    "url": "https://www.youtube.com/@HealthyGamerGG"
+  },
+
+  "custom_gpt": {
+    "enabled": false,
+    "instructions_file": "PASTE_INTO_GPT_INSTRUCTIONS.txt",
+    "file_limit": 20
+  },
+
+  "derived_practice_facets": false
+}
