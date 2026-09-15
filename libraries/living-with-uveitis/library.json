@@ -1,0 +1,51 @@
+{
+  "slug": "living-with-uveitis",
+  "title": "Living With Uveitis",
+  "subtitle": "One patient's uveitis journey, in her own words",
+  "lede": "A reference to {videos} sources from Living With Uveitis — one patient's own account of diagnosis, treatment, and daily life with chronic eye inflammation.",
+  "about_paragraphs": [
+    "A reference built from {videos} sources on livingwithuveitis.com — a patient-written site covering uveitis basics, treatments, and a first-person treatment journey — synthesised into {library_files} knowledge files and {glossary_terms} glossary terms.",
+    "Every claim traces to a specific point in a specific source — a page, a paragraph, or a video timestamp, depending on what kind of source made the claim. Nothing here is generated: there is no model in this app, and it makes no network requests. It works offline, permanently."
+  ],
+  "icon_file": "icon.b64",
+  "splash_file": "splash.b64",
+
+  "facets": ["subjects", "anatomy", "management", "concepts"],
+  "primary_facet": "subjects",
+  "controlled_facets": {},
+  "universal_sections": [
+    "Central claim",
+    "Symptoms and body signals addressed",
+    "Glossary terms introduced",
+    "Analogies worth reusing",
+    "Source-stated confidence",
+    "Conflicts with other sources"
+  ],
+
+  "glossary_file": "07_PLAIN_ENGLISH_GLOSSARY.md",
+  "curated_facts_file": null,
+  "catalog_file": "09_SOURCE_CATALOG.md",
+
+  "facet_labels": {
+    "subjects": "Main subjects",
+    "anatomy": "Anatomy",
+    "management": "Management options",
+    "concepts": "Important concepts"
+  },
+  "catalog_unit_label": "Sources",
+  "catalog_id_label": "Source ID",
+
+  "attribution": {
+    "style": "personal_blog",
+    "name": "Living With Uveitis",
+    "url": "https://livingwithuveitis.com/"
+  },
+
+  "custom_gpt": { "enabled": false },
+
+  "evidence_types": ["patient_experience", "patient_education", "guest_perspective",
+    "clinical_reference", "other"],
+  "evidence_levels": ["high", "moderate", "low", "anecdotal"],
+
+  "derived_practice_facets": false
+}

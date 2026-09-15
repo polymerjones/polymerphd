@@ -1,0 +1,624 @@
+{
+  "sources": [
+    {
+      "id": "anatomy-of-the-eye",
+      "kind": "website",
+      "title": "ANATOMY OF THE EYE",
+      "author": null,
+      "url": "https://livingwithuveitis.com/home/uveitis/anatomy-of-the-eye/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/anatomy-of-the-eye.txt",
+      "word_count": 384,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_education",
+        "level": "moderate"
+      }
+    },
+    {
+      "id": "swimming-with-uveitis",
+      "kind": "website",
+      "title": "Avoid the splash: swimming with uveitis",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2022/10/26/avoid-the-splash-swimming-with-uveitis/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/swimming-with-uveitis.txt",
+      "word_count": 665,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "treatment-complications",
+      "kind": "website",
+      "title": "COMPLICATIONS",
+      "author": null,
+      "url": "https://livingwithuveitis.com/home/treatments/complications/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/treatment-complications.txt",
+      "word_count": 1486,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_education",
+        "level": "moderate"
+      }
+    },
+    {
+      "id": "coping-when-treatment-fails",
+      "kind": "website",
+      "title": "Coping when a treatment fails",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/03/30/coping-when-a-treatment-fails/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/coping-when-treatment-fails.txt",
+      "word_count": 1078,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "covid-19-uveitis",
+      "kind": "website",
+      "title": "COVID-19 & UVEITIS",
+      "author": null,
+      "url": "https://livingwithuveitis.com/covid-19-uveitis/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/covid-19-uveitis.txt",
+      "word_count": 137,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_education",
+        "level": "moderate"
+      }
+    },
+    {
+      "id": "diffusing-the-bomb",
+      "kind": "website",
+      "title": "Diffusing the bomb",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2022/02/22/diffusing-the-bomb/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/diffusing-the-bomb.txt",
+      "word_count": 1494,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "evil-eyes",
+      "kind": "website",
+      "title": "Evil Eyes",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/10/26/evil-eyes/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/evil-eyes.txt",
+      "word_count": 1231,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "healthy-vision",
+      "kind": "website",
+      "title": "HEALTHY VISION",
+      "author": null,
+      "url": "https://livingwithuveitis.com/healthy-vision/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/healthy-vision.txt",
+      "word_count": 384,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_education",
+        "level": "moderate"
+      }
+    },
+    {
+      "id": "immunosuppressed-pnw",
+      "kind": "website",
+      "title": "Immunosuppressed in the Pacific Northwest",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/03/16/immunosuppressed-in-the-pacific-northwest/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/immunosuppressed-pnw.txt",
+      "word_count": 1244,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "inflammation",
+      "kind": "website",
+      "title": "INFLAMMATION & IMMUNE RESPONSE",
+      "author": null,
+      "url": "https://livingwithuveitis.com/home/inflammation/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/inflammation.txt",
+      "word_count": 412,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_education",
+        "level": "moderate"
+      }
+    },
+    {
+      "id": "into-the-eyes-of-the-beholder",
+      "kind": "website",
+      "title": "Into the eyes of the beholder",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2021/03/22/into-the-eyes-of-the-beholder/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/into-the-eyes-of-the-beholder.txt",
+      "word_count": 660,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "diagnosis-story",
+      "kind": "website",
+      "title": "Living with uveitis: all variables and no control",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2019/10/26/475/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/diagnosis-story.txt",
+      "word_count": 634,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "makeup-and-uveitis",
+      "kind": "website",
+      "title": "Makeup and Uveitis",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/04/13/makeup-and-uveitis/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/makeup-and-uveitis.txt",
+      "word_count": 772,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "new-year-same-blur",
+      "kind": "website",
+      "title": "New Year, Same Blur",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2021/01/25/new-year-same-blur/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/new-year-same-blur.txt",
+      "word_count": 768,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "prednisone-for-life",
+      "kind": "website",
+      "title": "Prednisone for life",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2024/12/15/prednisone-for-life/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/prednisone-for-life.txt",
+      "word_count": 483,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "prednisone-part-i",
+      "kind": "website",
+      "title": "Prednisone: The Good, the Bad, & the Ugly (Part I)",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/08/17/prednisone-the-good-the-bad-and-the-ugly-part-i/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/prednisone-part-i.txt",
+      "word_count": 1703,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "prednisone-part-ii",
+      "kind": "website",
+      "title": "Prednisone: The Good, The Bad, & the Ugly (Part II)",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/09/28/prednisone-the-good-the-bad-the-ugly-part-ii/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/prednisone-part-ii.txt",
+      "word_count": 1413,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "qa-george",
+      "kind": "website",
+      "title": "Q & A with George of “A Flower in their Eyes”",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/05/18/q-a-with-george-of-a-flower-in-their-eyes/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/qa-george.txt",
+      "word_count": 812,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "guest_perspective",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "qa-jack-pritchard",
+      "kind": "website",
+      "title": "Q & A with Jack Pritchard",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/07/20/q-a-with-jack-pritchard/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/qa-jack-pritchard.txt",
+      "word_count": 766,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "guest_perspective",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "qa-lorelei",
+      "kind": "website",
+      "title": "Q & A with Lorelei",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/04/25/q-a-with-lorelei/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/qa-lorelei.txt",
+      "word_count": 831,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "guest_perspective",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "research-links",
+      "kind": "website",
+      "title": "RESEARCH",
+      "author": null,
+      "url": "https://livingwithuveitis.com/research/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/research-links.txt",
+      "word_count": 543,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_education",
+        "level": "moderate"
+      }
+    },
+    {
+      "id": "intravitreal-injection-tutorial",
+      "kind": "website",
+      "title": "Stick a needle in my eye: intravitreal steroid implant injection tutorial",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/03/02/stick-a-needle-in-my-eye-intravitreal-steroid-implant-injection-tutorial/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/intravitreal-injection-tutorial.txt",
+      "word_count": 1207,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "stories-support",
+      "kind": "website",
+      "title": "STORIES & SUPPORT",
+      "author": null,
+      "url": "https://livingwithuveitis.com/stories-support/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/stories-support.txt",
+      "word_count": 107,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_education",
+        "level": "moderate"
+      }
+    },
+    {
+      "id": "latest-on-my-uveitis",
+      "kind": "website",
+      "title": "The latest on my uveitis",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/11/23/the-latest-on-my-uveitis/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/latest-on-my-uveitis.txt",
+      "word_count": 1172,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "third-times-the-charm",
+      "kind": "website",
+      "title": "Third Time’s the Charm",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2021/08/23/third-times-the-charm/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/third-times-the-charm.txt",
+      "word_count": 821,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "tools-tests-terms",
+      "kind": "website",
+      "title": "TOOLS, TESTS & TERMINOLOGY",
+      "author": null,
+      "url": "https://livingwithuveitis.com/home/uveitis/toolstestterms/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/tools-tests-terms.txt",
+      "word_count": 1150,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_education",
+        "level": "moderate"
+      }
+    },
+    {
+      "id": "treatments-overview",
+      "kind": "website",
+      "title": "TREATMENTS",
+      "author": null,
+      "url": "https://livingwithuveitis.com/home/treatments/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/treatments-overview.txt",
+      "word_count": 1384,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_education",
+        "level": "moderate"
+      }
+    },
+    {
+      "id": "uveitis-overview",
+      "kind": "website",
+      "title": "UVEITIS BASICS",
+      "author": null,
+      "url": "https://livingwithuveitis.com/home/uveitis/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/uveitis-overview.txt",
+      "word_count": 1011,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_education",
+        "level": "moderate"
+      }
+    },
+    {
+      "id": "race-and-disparity",
+      "kind": "website",
+      "title": "Uveitis, Race and Disparity in Healthcare",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/06/22/uveitis-race-and-disparity-in-healthcare/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/race-and-disparity.txt",
+      "word_count": 1580,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "what-you-dont-see",
+      "kind": "website",
+      "title": "What you don’t see: an open letter from a uveitis patient",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/02/14/what-you-dont-see-a-letter-from-a-uveitis-patient/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/what-you-dont-see.txt",
+      "word_count": 691,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    },
+    {
+      "id": "pregnancy-journey",
+      "kind": "website",
+      "title": "Women and uveitis / my pregnancy journey",
+      "author": "Wendy",
+      "url": "https://livingwithuveitis.com/2020/01/20/women-and-uveitis-my-pregnancy-journey/",
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/pregnancy-journey.txt",
+      "word_count": 1516,
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1
+      },
+      "evidence": {
+        "type": "patient_experience",
+        "level": "anecdotal"
+      }
+    }
+  ]
+}
