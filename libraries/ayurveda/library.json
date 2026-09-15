@@ -35,17 +35,17 @@
   "catalog_unit_label": "Sources",
   "catalog_id_label": "Source ID",
 
-  "attribution": {
-    "style": "youtube_channel_partial",
-    "name": "HealthyGamerGG",
-    "url": "https://www.youtube.com/@HealthyGamerGG"
-  },
+  "attribution": null,
 
   "custom_gpt": {
     "enabled": false,
     "instructions_file": "PASTE_INTO_GPT_INSTRUCTIONS.txt",
     "file_limit": 20
   },
+
+  "evidence_types": ["textbook", "government_guideline", "expert_commentary",
+    "peer_reviewed_study", "other"],
+  "evidence_levels": ["high", "moderate", "low", "anecdotal"],
 
   "derived_practice_facets": false
 }

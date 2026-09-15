@@ -1,6 +1,66 @@
 {
   "sources": [
     {
+      "id": "ayurveda-idiots-guides-sahara-rose-ketabi",
+      "kind": "pdf",
+      "title": "Ayurveda",
+      "author": "Sahara Rose Ketabi",
+      "url": null,
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/ayurveda-idiots-guides-sahara-rose-ketabi.txt",
+      "word_count": 105652,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 332
+      },
+      "evidence": {
+        "type": "textbook",
+        "level": "moderate"
+      }
+    },
+    {
+      "id": "ccras-diet-lifestyle-guidelines-skin-diseases",
+      "kind": "pdf",
+      "title": "Ayurveda Based Diet & Life Style Guidelines for Prevention and Management of Skin Diseases",
+      "author": "Central Council for Research in Ayurvedic Sciences, Ministry of AYUSH, Government of India",
+      "url": null,
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/ccras-diet-lifestyle-guidelines-skin-diseases.txt",
+      "word_count": 7121,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 48
+      },
+      "evidence": {
+        "type": "government_guideline",
+        "level": "high"
+      }
+    },
+    {
+      "id": "ccras-diet-lifestyle-guidelines-cardiac-disorders",
+      "kind": "pdf",
+      "title": "Ayurveda Based Diet and Life Style Guidelines for Prevention of Cardiac Disorders",
+      "author": "Central Council for Research in Ayurvedic Sciences, Ministry of AYUSH, Government of India",
+      "url": null,
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/ccras-diet-lifestyle-guidelines-cardiac-disorders.txt",
+      "word_count": 9100,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 34
+      },
+      "evidence": {
+        "type": "government_guideline",
+        "level": "high"
+      }
+    },
+    {
       "id": "-BEdhS9-cno",
       "kind": "youtube",
       "title": "Ayurveda Pt. 1: Doshas, Cognitive Fingerprint, Personality",
@@ -15,6 +75,26 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 4587
+      }
+    },
+    {
+      "id": "flow-the-psychology-of-optimal-experience",
+      "kind": "pdf",
+      "title": "Flow: The Psychology of Optimal Experience",
+      "author": "Mihaly Csikszentmihalyi",
+      "url": null,
+      "retrieved_date": "2026-09-15",
+      "clean_file": "clean/flow-the-psychology-of-optimal-experience.txt",
+      "word_count": 134628,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 314
+      },
+      "evidence": {
+        "type": "textbook",
+        "level": "moderate"
       }
     }
   ],
