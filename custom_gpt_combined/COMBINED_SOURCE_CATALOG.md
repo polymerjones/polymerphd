@@ -610,6 +610,112 @@ No caption track could be extracted for these (a YouTube limitation, not necessa
 
 ---
 
+## Ayurveda
+
+# 09 — Source Catalog
+
+Every source ingested into this knowledge package, with the Main subjects, Doshas, Practices, and Important concepts each one covers.
+
+**Sources catalogued:** 5
+
+Entries are alphabetical by title. Use the source ID to trace any claim in the other files back to its source.
+
+---
+
+## 1. Ayurveda
+
+- **Source ID:** `ayurveda-idiots-guides-sahara-rose-ketabi`
+- **Author:** Sahara Rose Ketabi
+- **Source file:** `sources/clean/ayurveda-idiots-guides-sahara-rose-ketabi.txt`
+- **Main subjects:** A comprehensive, beginner-oriented survey of Ayurveda as both a medical and spiritual system, positioning it as the root discipline behind Chinese medicine, Western herbology, and yoga, The three-dosha (Vata/Pitta/Kapha) personality and constitution framework, including a self-assessment quiz, and its distinction between Prakriti (birth constitution) and Vikruti (current, shiftable state), Daily (dinacharya) and time-of-day dosha scheduling, seasonal (ritucharya) routines, and specific self-care rituals (oil pulling, tongue scraping, abhyanga, dry brushing, nasya), {'Ayurvedic nutrition theory': 'the digestive fire (agni), five nutritional-disorder categories, the seven bodily tissues (dhatus), the six tastes (rasa), and the six stages of digestion'}, The spiritual layer of Ayurveda: the three subtle essences (ojas/tejas/prana), the three universal qualities/gunas (sattva/rajas/tamas), the five koshas (subtle bodies), and the seven chakras, Panchakarma detoxification therapy and a large catalog of home remedies for digestive, skin, and women's health complaints
+- **Doshas:** Vata (air + ether): dry, light, cold, rough, mobile, subtle, clear qualities; governs movement, circulation, elimination, respiration, the nervous system, and creativity; imbalance shows as bloating, constipation, anxiety, insomnia, dry skin, and irregular periods, Pitta (fire + water): hot, sharp, oily, light, liquid, spreading qualities; governs digestion, metabolism, body temperature, and intelligence/drive; imbalance shows as heartburn, hyperacidity, acne, anger, and burnout, Kapha (earth + water): heavy, slow, cool, oily, soft, dense, static, sticky qualities; governs structure, lubrication, immunity, and emotional stability; imbalance shows as weight gain, lethargy, congestion, water retention, and depression, Prakriti (birth constitution, fixed) vs. Vikruti (current constitution, shiftable by diet/lifestyle/season/stress) — the source's central diagnostic distinction, illustrated with three worked case studies, Dosha-specific diet, taste, lifestyle, yoga, meditation, and time-of-day guidance given in parallel for all three doshas throughout the book
+- **Practices:** Dinacharya (daily routine): wake near sunrise, tongue scrape, oil pull, dry brush, self-oil massage (abhyanga), light warm breakfast, biggest meal at midday, light dinner 3+ hours before sleep, asleep by 10pm — with dosha-specific variants given for Vata, Pitta, and Kapha, Scheduling activity by dosha time-of-day: Kapha hours (6-10am/6-10pm) for waking/settling, Pitta hours (10am-2pm/10pm-2am) for hardest tasks/biggest meal, Vata hours (2-6pm/2-6am) for creative work and dreaming/meditation, The six tastes (madhura/amla/lavana/katu/tikta/kashaya) as a nutrition framework independent of calorie counting, with specific taste combinations recommended or restricted per dosha, Panchakarma detoxification (basti, nasya, vamana, virechana, raktamokshana) and its modern gentler equivalents (abhyanga, shirodhara, udvartanam, nabhi/netra/hrid basti), plus an at-home panchakarma routine and kitchari recipe, A large catalog of specific home remedies (herbs, teas, oils, pastes) for digestive complaints, skin conditions, headaches/migraines, colds/fevers, and women's health issues, each tied to a dosha-based causal explanation
+- **Important concepts:** Agni (digestive fire) and its four types: sama (balanced), vishama (Vata-irregular), tikshna (Pitta-sharp), manda (Kapha-dull) — said to govern not only physical digestion but emotional states (confidence, patience, logic vs. fear, impatience, confusion), The seven dhatus (bodily tissues) — rasa/plasma, rakta/blood, mamsa/muscle, medas/fat, asthi/bone, majja/nervous system, shukra-artava/reproductive tissue — each with its own dosha alignment and increased/decreased imbalance symptoms, The six stages of digestion (madhura/amla/lavana/katu/tikta/kashaya avastha paka), each mapped to a taste, a pair of elements, and a dosha, taking roughly six hours end to end, The three cosmic forces — ojas (Kapha-linked vitality), tejas (Pitta-linked radiance), prana (Vata-linked life force/breath) — as the subtle counterparts of the three doshas, The three gunas (universal qualities) — sattva (purity), rajas (movement/stimulation), tamas (inertia/darkness) — used to classify foods, behaviors, and people, The five koshas (annamaya/pranamaya/manomaya/vijnanamaya/anandamaya — physical, energy, mental, intuitive, bliss bodies) and the seven chakras, each mapped to a kosha, element, color, location, and physical/emotional imbalance signature, Ashtang Ayurveda: the eight branches of Ayurvedic medicine (internal medicine, otolaryngology, toxicology, surgery, pediatrics, psychiatry, gerontology, aphrodisiac therapy), positioned as broader than Vata/Pitta/Kapha typing alone
+
+## 2. Ayurveda Based Diet & Life Style Guidelines for Prevention and Management of Skin Diseases
+
+- **Source ID:** `ccras-diet-lifestyle-guidelines-skin-diseases`
+- **Author:** Central Council for Research in Ayurvedic Sciences, Ministry of AYUSH, Government of India
+- **Source file:** `sources/clean/ccras-diet-lifestyle-guidelines-skin-diseases.txt`
+- **Main subjects:** A government clinical guideline document (CCRAS/Ministry of AYUSH) on preventing and managing skin diseases through diet and lifestyle, distinct in register and authority from the library's other, more informal sources, Classification of skin disease under the umbrella term Kushta, with a detailed etiology, pathogenesis, and symptom framework, The eight-factor (ashta ahara vidhi visesha ayatana) and eighteen-factor (dietetic incompatibility) frameworks for how diet itself causes disease, Daily (dinacharya), seasonal (ritucharya), and ethical (sadvritta) regimens as preventive measures, largely identical to those in the companion CCRAS cardiac-disorders guideline, Specific pathya (wholesome) and apathya (unwholesome) food and lifestyle lists targeted at Kushta specifically
+- **Doshas:** Tridosha involvement in skin disease: Vata, Pitta, and Kapha, along with four Dushyas (Tvak/Rasa, Rakta, Mansa, Ambu/Lasika), are named as the seven "sannikrishta nidana" (proximal causative factors) of Kushta, Dosha-specific treatment of Kushta: Vataja kusta treated with internal medicated ghee; Pittaja kusta treated with Raktamokshana (blood-letting) and Virechana (purgation); Kaphaja kusta treated with Vamana (therapeutic emesis), Kushta is described as fundamentally a Tridoshaja (all-three-dosha) disease, with subtype classification based on which dosha predominates
+- **Practices:** Dinacharya (daily regimen): waking during Brahma Muhurta (4:00-5:30am), tongue/eye cleaning, oil massage (abhyanga), daily exercise, bathing, regular grooming, Ritucharya (seasonal regimen): dosha-specific dietary shifts across six named seasons (spring/summer/monsoon/pre-winter/winter/autumn), Sadvritta (ethical regimen): truthfulness, temper control, moderation, cleanliness, meditation, self-control — an explicit list of conduct rules, Avoiding suppression of 13 named natural urges (urination, defecation, flatus, ejaculation, vomiting, sneezing, eructation, yawning, hunger/thirst, tears, exertion-induced respiration, sleep), each paired with a specific named consequence of suppressing it, Panchakarma-based Kushta treatment sequence: Snehapanam (internal medicated ghee) prior to Samshodhana, then Swedana (sudation), then Vamana or Virechana depending on dominant dosha, followed by Samsarjana krama (regulated post-therapy diet) and, for excess Vata, Asthapana/Anuvasana Vasti (enemas) and Nasya (nasal therapy), Specific named pathya (food/lifestyle to adopt) and apathya (to avoid) lists for Kushta, covering herbs, oils, grains, and daily conduct
+- **Important concepts:** Virudha ahara (dietetic incompatibility): diet combinations classified into ~18 types, said to cause complications ranging from skin disease to insanity to death, Ashta ahara vidhi visesha ayatana: the eight factors (Prakriti, Karana, Samyoga, Raashi, Desha, Kaala, Upayoga Samstha, Upayokta) said to govern whether food is beneficial, Nidana (etiological) classification: Sannikrishta (proximal) vs. Viprakrishta (remote) causes, further split into Aharaja (diet), Viharaja (lifestyle), Manasika (psychological), Visesha, and Sahaja (including a claimed transmigration-from-past-lives cause, Kulaja Nidana), Maha Kushta (7 major) and Kshudra Kushta (11 minor) as the source's classification of Kushta subtypes, each named and described with a specific visual/tactile presentation, Samsargaja roga — the source's category for diseases (including skin diseases) said to spread via physical contact, exhaled air, shared dining/sleeping/sitting, or shared personal items
+
+## 3. Ayurveda Based Diet and Life Style Guidelines for Prevention of Cardiac Disorders
+
+- **Source ID:** `ccras-diet-lifestyle-guidelines-cardiac-disorders`
+- **Author:** Central Council for Research in Ayurvedic Sciences, Ministry of AYUSH, Government of India
+- **Source file:** `sources/clean/ccras-diet-lifestyle-guidelines-cardiac-disorders.txt`
+- **Main subjects:** A government clinical guideline (CCRAS/Ministry of AYUSH, 1st edition 2018) on preventing cardiovascular disease through Ayurvedic diet and lifestyle, Cardiac risk factors framed in both modern epidemiological terms (non-modifiable/modifiable/emerging) and Ayurvedic pathophysiology (Rasavaha Srotas, Agni, vitiated Rasa Dhatu), Three named "lifestyle disease" risk conditions treated in detail — Madhumeha (diabetes), Uchcharaktachapa (hypertension), and Sthaulya (obesity) — each with its own causes, symptoms, and pathya/apathya, Three dosha-specific full-day diet charts (Vata, Pitta, Kapha Prakriti Purush), Daily (dinacharya), seasonal (ritucharya), and ethical (sadvritta) regimens, largely identical in wording to the companion CCRAS skin-diseases guideline
+- **Doshas:** Panchamahabhoota composition of the tridoshas as stated here: Vata = Vayu + Akasha; Pitta = Agni + Jala; Kapha = Jala + Prithvi, Taste-to-dosha alleviation mapping: sweet/sour/salty tastes alleviate Vata; astringent/sweet/bitter alleviate Pitta; astringent/pungent/bitter alleviate Kapha, Uchcharaktachapa (hypertension) is classed as Vataja, attributed to Vaishamya (imbalance) of Vyana Vayu specifically, with associated conditions (palpitation, headache, vertigo, insomnia, tinnitus) named as VatajaVikara, Madhumeha (diabetes) is classed as a special variety of Vataja Prameha, also termed Ojomeha or Kshaudrameha, Three full-day diet charts differentiated by Prakriti (Vata/Pitta/Kapha), each specifying different meal quantities, dairy handling, and beverage choices at the same meal slots
+- **Practices:** Dinacharya (daily regimen): waking during Brahma Muhurta (4:00-5:30am), tongue cleaning, daily oil massage (Abhyanga), daily exercise (Vyayama), dry-powder massage (Udvartana), bathing (Snana), regular grooming, Ritucharya (seasonal regimen): six-season dosha-matched dietary shifts, worded almost identically to the companion skin-diseases guideline, Named food lists to consume regularly vs. avoid regularly for general cardiac health, plus separate pathya/apathya lists specifically for Madhumeha, Uchcharaktachapa, and Sthaulya, Three dosha-specific full-day diet charts specifying exact meal-by-meal menus and quantities, {'Explicit modifiable-risk-factor advice': 'regular blood pressure checks, daily brisk walking, weight reduction, Yoga/meditation under supervision, avoiding day-sleeping and alcohol/tobacco'}
+- **Important concepts:** Rasavaha Srotas: the Ayurvedic circulatory system, with Hridaya (heart) and the ten Mula Dhamanis (great vessels) named as its Mula (main seat/organ), The digestion-to-heart-disease pathway: Koshtagni (digestive fire) → Ahararasa (nutrient portion of digested food) → Rasa Dhatu (first tissue) → circulated by Vyana Vayu; impaired Agni produces vitiated Rasa Dhatu, which the source links to Medoroga, Sthoulya, Prameha, and ultimately Hrid-vikara (heart disease), Three causative factors for any illness per this source's prologue: Asatmyendriyartha Samyoga (incompatible sense-organ correlation), Prajnaparadha (intellectual blasphemy), and Parinama (disharmony with natural rhythms), Viruddhahara (dietetic incompatibility) reframed specifically around cardiac risk — named as a direct aggravator of Tridoshas leading to Gulma (lump), allergies, and skin disease, The six tastes (rasa) mapped to which two of the five Mahabhoota elements each predominates in, and which tastes alleviate which dosha
+
+## 4. Ayurveda Pt. 1: Doshas, Cognitive Fingerprint, Personality
+
+- **Source ID:** `-BEdhS9-cno`
+- **URL:** https://www.youtube.com/watch?v=-BEdhS9-cno
+- **Upload date:** 2019-11-20
+- **Duration:** 76:27
+- **Source file:** `sources/clean/-BEdhS9-cno.txt`
+- **Main subjects:** Ayurveda framed as a whole-person, pattern-building diagnostic system, contrasted directly with Western medicine's reductionist specialization into sub-specialties, The three-dosha constitutional framework (Vata, Pitta, Kapha) as an explanation for personality, body type, and "cognitive fingerprint", How stress manifests differently by dosha, and a dosha-based reframing of depression into three subtypes instead of one DSM diagnosis, Diet, milk selection, and simple home remedies matched to dosha rather than applied universally, The emerging gut-brain axis and gut bacteria as a mechanism for how diet changes mood, Genomic and clinical research the source cites as evidence that dosha groupings track real biological differences
+- **Doshas:** Vata (wind): fast to learn, fast to forget, thin/fast metabolism, angular features, mind that jumps between interests, gets bored easily, prone to anxiety and autoimmune disease, benefits from a varied schedule and warm/moist food, Pitta (fire): driven, focused, argumentative, medium build, prone to anger/irritability and inflammatory conditions, benefits from cold/dry food, Kapha (earth/water): slow to learn but slow to forget, heavyset, highly resilient/high endurance, prone to depression and isolation and to type-2 diabetes, benefits from warm/dry food, Bidoshic and tridoshic people, who carry a meaningful mix of two or three doshas rather than dominance by one
+- **Practices:** Match food temperature/moisture to dosha as a simple rule of thumb: Vata eats warm and moist (soup over salad), Pitta eats cold and dry (salad, sandwiches), Kapha eats warm and dry (toast), Structure a Vata life around variety and multiple concurrent pursuits rather than a single disciplined track, so boredom is redirected toward productive alternatives instead of video games, {'A home remedy for digestive complaints': 'plain (not Greek, not low-fat) yogurt mixed with water roughly 1:2 to 2.5:5.5, with a pinch of toasted cumin and pink/Himalayan salt, taken daily if not lactose intolerant'}, Eating papaya and pomegranate on alternate days for weak/difficult digestion, attributed to the digestive enzyme papain in papaya, Choosing dosha-appropriate milk (of several possible animal sources) as a targeted remedy rather than treating "milk" as one substance
+- **Important concepts:** Cognitive fingerprint: the source's own term for an individual's unique cognitive makeup, used to argue that advice like "be more disciplined" only fits some doshas, Prakruti: a person's genetic baseline mix of Vata, Pitta, and Kapha, described as the "stats" a person is created with, The gap between a person's baseline dosha mix and their current, deviated state, which the source treats as the target of dietary and lifestyle correction, Three depression subtypes proposed by dosha (anxious/Vata, anger-attack/Pitta, neurovegetative/Kapha) versus a single DSM-5 depression diagnosis, The brain-gut axis, including a stool-transplant study on rats used as evidence that gut bacteria can transfer a depressive state, A claimed historical link between Ayurveda/Hindu philosophy, Carl Jung's typology, and the Myers-Briggs framework
+
+## 5. Flow: The Psychology of Optimal Experience
+
+- **Source ID:** `flow-the-psychology-of-optimal-experience`
+- **Author:** Mihaly Csikszentmihalyi
+- **Source file:** `sources/clean/flow-the-psychology-of-optimal-experience.txt`
+- **Main subjects:** A general-audience synthesis of decades of psychological research (interviews, questionnaires, and the author's own "Experience Sampling Method" pager studies of over 100,000 moments) on "flow" — the state of complete absorption in an activity, pursued for its own sake, The claim that happiness is not a passive result of good fortune but a skill: a condition achieved by learning to control the contents of one's own consciousness, moment by moment, Psychic entropy (disordered consciousness — anxiety, boredom, worry) versus flow/negentropy (ordered consciousness), and how the self grows in complexity through repeated flow experience, The eight components of the flow experience: a challenge matched to skill, merging of action and awareness, clear goals and immediate feedback, total concentration, a sense of control, loss of self-consciousness, and altered sense of time, The 'autotelic personality' and 'autotelic self' — what distinguishes people who can find flow almost anywhere from those who cannot, including family-context research and a proposed neurological correlate, {'Flow applied across domains': 'the body and senses (sport, sex, Yoga, martial arts, seeing, music, taste), symbolic/intellectual activity, work, relationships and solitude, coping with tragedy and stress, and the construction of a unifying life purpose ("the making of meaning")'}
+- **Doshas:** This source contains no Ayurvedic dosha content and does not reference Vata, Pitta, or Kapha, or any Ayurvedic terminology at all — it is a Western academic-psychology text included in this library at the reader's own discretion, not for its Ayurvedic content
+- **Practices:** Matching perceived challenge to perceived skill in an activity as the single most reliable lever for producing flow (too much challenge relative to skill produces anxiety; too little produces boredom), 'Microflow' habits (finger-tapping, doodling, humming, private mental games) used to stay engaged during unavoidably boring stretches of time, illustrated at length by physicist Heinz Maier-Leibnitz's 888-tap finger-counting system, Patanjali's eight-stage classical Yoga (yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi) presented as one of the oldest and most systematic historical methods for deliberately producing flow through bodily and mental discipline, A three-step model for transforming stress/tragedy into flow ("transformational coping"): unselfconscious self-assurance, focusing attention outward on the environment rather than inward on the self, and actively discovering new goals rather than only removing obstacles to old ones, A four-step program for cultivating an 'autotelic self': setting clear self-chosen goals, becoming immersed in the chosen activity, paying continuous attention to feedback, and learning to enjoy immediate experience for its own sake
+- **Important concepts:** Psychic entropy: disorder in consciousness caused by information that conflicts with a person's goals (pain, fear, anxiety, jealousy); its opposite is flow, sometimes called psychic negentropy, Complexity of the self as the product of two processes — differentiation (becoming more distinct/skilled) and integration (feeling connected to others/larger systems) — with flow required for the self to grow more complex over time, The autotelic experience/autotelic personality: 'autotelic' from Greek auto (self) + telos (goal) — an activity or a person oriented toward intrinsic rather than external ("exotelic") reward, Anomie (lack of rules, producing anxiety) and alienation (rules that block one's own goals, producing boredom) as the societal-level analogues of individual attentional disorder and self-centeredness, 'Dissipative structures' (borrowed from Ilya Prigogine's chemistry) as a physical-science analogy for how a well-ordered self converts disorder (stress, tragedy) into a new source of growth, the way plants convert dispersed sunlight into structured biomass, A three-part theory of how life acquires meaning: purpose (a unifying goal), resolution (translating that purpose into sustained action), and harmony (the resulting congruence of feeling, thought, and action) — argued to apply regardless of the specific content of the goal
+
+---
+
+## Index by doshas
+
+**bidoshic and tridoshic people, who carry a meaningful mix of two or three doshas rather than dominance by one** — Ayurveda Pt. 1: Doshas, Cognitive Fingerprint, Personality (`-BEdhS9-cno`)
+
+**dosha-specific diet, taste, lifestyle, yoga, meditation, and time-of-day guidance given in parallel for all three doshas throughout the book** — Ayurveda (`ayurveda-idiots-guides-sahara-rose-ketabi`)
+
+**dosha-specific treatment of kushta: vataja kusta treated with internal medicated ghee; pittaja kusta treated with raktamokshana (blood-letting) and virechana (purgation); kaphaja kusta treated with vamana (therapeutic emesis)** — Ayurveda Based Diet & Life Style Guidelines for Prevention and Management of Skin Diseases (`ccras-diet-lifestyle-guidelines-skin-diseases`)
+
+**kapha (earth + water): heavy, slow, cool, oily, soft, dense, static, sticky qualities; governs structure, lubrication, immunity, and emotional stability; imbalance shows as weight gain, lethargy, congestion, water retention, and depression** — Ayurveda (`ayurveda-idiots-guides-sahara-rose-ketabi`)
+
+**kapha (earth/water): slow to learn but slow to forget, heavyset, highly resilient/high endurance, prone to depression and isolation and to type-2 diabetes, benefits from warm/dry food** — Ayurveda Pt. 1: Doshas, Cognitive Fingerprint, Personality (`-BEdhS9-cno`)
+
+**kushta is described as fundamentally a tridoshaja (all-three-dosha) disease, with subtype classification based on which dosha predominates** — Ayurveda Based Diet & Life Style Guidelines for Prevention and Management of Skin Diseases (`ccras-diet-lifestyle-guidelines-skin-diseases`)
+
+**madhumeha (diabetes) is classed as a special variety of vataja prameha, also termed ojomeha or kshaudrameha** — Ayurveda Based Diet and Life Style Guidelines for Prevention of Cardiac Disorders (`ccras-diet-lifestyle-guidelines-cardiac-disorders`)
+
+**panchamahabhoota composition of the tridoshas as stated here: vata = vayu + akasha; pitta = agni + jala; kapha = jala + prithvi** — Ayurveda Based Diet and Life Style Guidelines for Prevention of Cardiac Disorders (`ccras-diet-lifestyle-guidelines-cardiac-disorders`)
+
+**pitta (fire + water): hot, sharp, oily, light, liquid, spreading qualities; governs digestion, metabolism, body temperature, and intelligence/drive; imbalance shows as heartburn, hyperacidity, acne, anger, and burnout** — Ayurveda (`ayurveda-idiots-guides-sahara-rose-ketabi`)
+
+**pitta (fire): driven, focused, argumentative, medium build, prone to anger/irritability and inflammatory conditions, benefits from cold/dry food** — Ayurveda Pt. 1: Doshas, Cognitive Fingerprint, Personality (`-BEdhS9-cno`)
+
+**prakriti (birth constitution, fixed) vs. vikruti (current constitution, shiftable by diet/lifestyle/season/stress) — the source's central diagnostic distinction, illustrated with three worked case studies** — Ayurveda (`ayurveda-idiots-guides-sahara-rose-ketabi`)
+
+**taste-to-dosha alleviation mapping: sweet/sour/salty tastes alleviate vata; astringent/sweet/bitter alleviate pitta; astringent/pungent/bitter alleviate kapha** — Ayurveda Based Diet and Life Style Guidelines for Prevention of Cardiac Disorders (`ccras-diet-lifestyle-guidelines-cardiac-disorders`)
+
+**this source contains no ayurvedic dosha content and does not reference vata, pitta, or kapha, or any ayurvedic terminology at all — it is a western academic-psychology text included in this library at the reader's own discretion, not for its ayurvedic content** — Flow: The Psychology of Optimal Experience (`flow-the-psychology-of-optimal-experience`)
+
+**three full-day diet charts differentiated by prakriti (vata/pitta/kapha), each specifying different meal quantities, dairy handling, and beverage choices at the same meal slots** — Ayurveda Based Diet and Life Style Guidelines for Prevention of Cardiac Disorders (`ccras-diet-lifestyle-guidelines-cardiac-disorders`)
+
+**tridosha involvement in skin disease: vata, pitta, and kapha, along with four dushyas (tvak/rasa, rakta, mansa, ambu/lasika), are named as the seven "sannikrishta nidana" (proximal causative factors) of kushta** — Ayurveda Based Diet & Life Style Guidelines for Prevention and Management of Skin Diseases (`ccras-diet-lifestyle-guidelines-skin-diseases`)
+
+**uchcharaktachapa (hypertension) is classed as vataja, attributed to vaishamya (imbalance) of vyana vayu specifically, with associated conditions (palpitation, headache, vertigo, insomnia, tinnitus) named as vatajavikara** — Ayurveda Based Diet and Life Style Guidelines for Prevention of Cardiac Disorders (`ccras-diet-lifestyle-guidelines-cardiac-disorders`)
+
+**vata (air + ether): dry, light, cold, rough, mobile, subtle, clear qualities; governs movement, circulation, elimination, respiration, the nervous system, and creativity; imbalance shows as bloating, constipation, anxiety, insomnia, dry skin, and irregular periods** — Ayurveda (`ayurveda-idiots-guides-sahara-rose-ketabi`)
+
+**vata (wind): fast to learn, fast to forget, thin/fast metabolism, angular features, mind that jumps between interests, gets bored easily, prone to anxiety and autoimmune disease, benefits from a varied schedule and warm/moist food** — Ayurveda Pt. 1: Doshas, Cognitive Fingerprint, Personality (`-BEdhS9-cno`)
+
+---
+
 ## Dupuytren
 
 # 09 — Source Catalog
@@ -7215,7 +7321,7 @@ Entries are alphabetical by title. Use the video ID to trace any claim in the ot
 Every source ingested into this knowledge package, with the Main subjects, Foods & products, Concerns, and Important concepts each one covers.
 
 **Video sources from:** Paul Saladino MD — https://www.youtube.com/@Paulsaladinomd  
-**Sources catalogued:** 458
+**Sources catalogued:** 460
 
 Entries are alphabetical by title. Use the source ID to trace any claim in the other files back to its source.
 
@@ -11493,7 +11599,17 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** benzene and other solvent residues from extraction, phthalates migrating from polyethylene packaging, heavy metals, specifically antimony, from plastic containers, acrolein and other aldehydes formed by heating, a "refined" tallow being altered toward a less saturated, less heat-stable fat
 - **Important concepts:** refined, bleached, and deodorized (RBD) processing, peroxide value as a marker of oxidative damage, estrogenic equivalence of phthalates, a "spectrum" of seed-oil risk depending on use case, with deep frying at the worst end
 
-## 357. The Truth About Using Nicotine in 2026
+## 357. The Stubborn Fat Solution
+
+- **Source ID:** `the-stubborn-fat-solution`
+- **Author:** Lyle McDonald
+- **Source file:** `sources/clean/the-stubborn-fat-solution.txt`
+- **Main subjects:** A physiology-first bodybuilding/physique text explaining why the last, most resistant pockets of body fat (female hip/thigh, male ab/low-back) are metabolically different from the rest of the body's fat, and what diet/exercise/supplement strategies actually address that difference, The three-step mechanism of "burning" body fat (breakdown/lipolysis, transport via blood flow, uptake/oxidation) and why stubborn fat fails at the first two steps specifically, A survey of hormones relevant to fat mobilization (insulin, catecholamines, growth hormone, cortisol, thyroid, leptin, the sex hormones) and their often two-sided ("schizophrenic") effects, Four concrete, named protocols (low-carb + low-intensity cardio; oral yohimbine + low-intensity cardio; the original Stubborn Fat Protocol 1.0; the new Stubborn Fat Protocol 2.0) sequenced from simplest to most demanding, {'An explicit sex-difference argument': 'why fasted low-intensity cardio on a carb-based diet works for men\'s ab fat but is "about the single worst thing" a woman can do for lower-body fat'}
+- **Foods & products:** Medium-chain triglycerides (MCTs) and diglycerides (DGs, commercial name Enova oil), proposed as dietary fat substitutes that bypass storage in stubborn lower-body fat because they are processed through the liver rather than the lymphatic system, Fish oil, recommended as a standing daily addition because the body preferentially burns off dietary polyunsaturated fat before mobilizing its own more saturated (and harder-to-mobilize) stored fat, Low-glycemic-index and reduced-quantity carbohydrate intake (specifically ≤20% of total calories for 4+ days), framed as a lever on insulin and alpha-2 receptor activity rather than as a general "clean eating" principle, High-carbohydrate refeeds (5-24 hours) and full diet breaks (10-14 days, carbohydrate ≥100-150g/day) used deliberately to counteract the drop in leptin, thyroid conversion, and catecholamine output that occurs on an extended diet
+- **Concerns:** The specific failure mode of dieters (especially women) who lean out everywhere except hips/thighs, or men who lean out everywhere except abs/low back, despite otherwise "doing everything right", Accelerated muscle loss late in a diet, attributed here specifically to the body turning to muscle for fuel once non-stubborn fat is exhausted and stubborn fat can't be mobilized fast enough, Overtraining from excessive frequency/intensity of the higher-tier protocols, presented as a bigger practical risk to most readers than any physiological limitation of the protocols themselves, Common but debunked fixes for stubborn fat — spot reduction, blaming estrogen alone, blaming cortisol alone, topical creams (with one exception noted below) — each addressed and dismissed with the physiological reasoning for why they don't work
+- **Important concepts:** Lipolysis's three-step bottleneck: breakdown (via hormone-sensitive lipase, regulated by insulin vs. the catecholamines through cyclic AMP), transport (adipose tissue blood flow), and oxidation (uptake into liver/muscle via carnitine palmityl transferase) — stubborn fat specifically fails at the first two steps, Alpha-2 vs. beta-2 adrenoceptors as the central mechanism: beta-2 activation increases lipolysis and blood flow, alpha-2 activation inhibits both, and stubborn fat (hip/thigh) has roughly a 9:1 alpha-2-to-beta-2 ratio versus more balanced ratios elsewhere in the body, The claim that fat cells from a given body region are physiologically identical between men and women (verified by biopsy) — sex differences in stubborn-fat location are a difference in where fat gets preferentially stored/emptied, not a difference in the fat cells themselves, A five-factor account of why stubborn fat is stubborn: adrenoceptor ratio, blood flow, insulin sensitivity, the type of fatty acid stored (saturated vs. unsaturated), and fat cell size — the first three are described as directly modifiable through diet/exercise/supplements, the last two as outside the reader's control, Acylation-stimulating protein (ASP) presented as a more fundamental fat-storage enzyme than lipoprotein lipase (LPL), based on animal knockout studies, used to argue against the popular claim that insulin alone controls fat storage
+
+## 358. The Truth About Using Nicotine in 2026
 
 - **Source ID:** `kGqGeYdPxMk`
 - **URL:** https://www.youtube.com/watch?v=kGqGeYdPxMk
@@ -11505,7 +11621,17 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** engineered addictiveness via freebasing (diammonium phosphate), cardiovascular harm from the nicotine molecule itself, sleep architecture disruption, adolescent prefrontal cortex exposure, tobacco-industry funding bias in cognitive-benefit research, dopamine tolerance and withdrawal
 - **Important concepts:** freebase nicotine versus nicotine salts, the nicotinic acetylcholine receptor and its endogenous ligand (acetylcholine), the Yerkes-Dodson law (optimal arousal for task performance), dopamine baseline depletion from chronic nicotine use, a harm-reduction hierarchy across nicotine delivery methods
 
-## 358. The Untold Side Effects of Nicotine
+## 359. The Ultimate Diet 2.0
+
+- **Source ID:** `the-ultimate-diet-2-0`
+- **Author:** Lyle McDonald
+- **Source file:** `sources/clean/the-ultimate-diet-2-0.txt`
+- **Main subjects:** A 7-day cyclical diet and training system (a revision of Dan Duchaine/Michael Zumpano's 1982 "Ultimate Diet" and Duchaine's 1990s "Bodyopus") aimed at lean bodybuilders and athletes trying to lose fat without losing muscle, or gain muscle without gaining much fat, The physiological argument that partitioning (where calories go when overfeeding, and where they come from when underfeeding) — not willpower or a specific macronutrient ratio — is the real obstacle for genetically average trainees, and why "standard" high-protein/moderate-carb diet advice fails this population specifically, {'A three-phase weekly structure': 'a low-carbohydrate/glycogen-depletion phase (training-induced), a short high-intensity "priming" workout plus deliberate carbohydrate/creatine loading, and a heavy "power" workout timed to land while glycogen-supercompensated'}, Muscle growth mechanics (myofibrillar vs. sarcoplasmic hypertrophy, fiber types, ribosome/mRNA turnover) used to justify why the week's three distinct training styles (volume, tension, power) are sequenced the way they are, An explicit, repeated argument that professional bodybuilders' results reflect genetics and drug use rather than transferable technique, framed as the reason a natural, genetically average trainee needs a more deliberately engineered approach
+- **Foods & products:** Medium-chain triglycerides (MCTs), diacylglycerol/DAG oil (brand name Enova), and coconut oil, proposed as the preferred fat sources during the low-carbohydrate phase because they reach the liver faster than standard long-chain dietary fat and are used for energy ahead of the body's own stored fat, {'A specific low-carbohydrate-day meal structure': 'protein 1-1.5 g/lb lean body mass (casein/whey blend or whole-food protein preferred over liquid-only for satiety), carbohydrate ≤20% of calories (50-100g/day), the remainder as fat, 3-4 meals/day rather than 6'}, {'The Thursday-night and Saturday pre-workout "priming" feeding': '~25-30g carbohydrate with ~15g whey protein (plus optional creatine) 30-60 minutes before training, used specifically to shift the body out of a low-carbohydrate state and support the workout'}, Weekend carbohydrate loading targeted at roughly 4-5 g/kg lean body mass on the heavy "power" training day, tapering down through Sunday, with the explicit caveat that muscle glycogen storage caps around 16 g/kg (more carbohydrate beyond that is "neither necessary nor beneficial")
+- **Concerns:** Accelerated late-diet muscle loss, attributed here to the same adaptive hormonal cascade (falling leptin/thyroid/testosterone, rising cortisol) as in the author's companion book on stubborn fat, with the weekly carbohydrate/calorie cycling presented as the direct countermeasure, The specific frustration of dieters who "do everything right" under standard advice yet fail to reach single-digit (male) or high-teen (female) body fat, distinguished explicitly from beginners or the generally overweight, for whom the author says standard advice already works fine, Overtraining and burnout from running the cycle too long without a break — the book recommends a mandatory 2-week maintenance break every 6-8 weekly cycles, The psychological/adherence toll of the low-carbohydrate days (described bluntly as "miserable" and productive of nausea, lightheadedness, and brain fog) versus the deliberately built-in permission to eat normally on the weekend
+- **Important concepts:** The P-ratio: the proportion of protein vs. fat gained during overfeeding or lost during underfeeding, described as mostly genetically fixed (only ~15-20% modifiable through diet/training) and the central variable separating genetically favored trainees from average ones, The same lipolysis-bottleneck physiology as the author's companion book (breakdown via HSL/cAMP, transport via adipose tissue blood flow, oxidation via CPT; alpha-2 vs. beta-2 adrenoceptor ratios explaining stubborn ab/low-back and hip/thigh fat) presented here as the foundation the whole cyclical structure is engineered around, Glycogen supercompensation as a deliberate anabolic and fat-loss tool: depleting muscle/liver glycogen via specific training increases insulin sensitivity and carbohydrate storage capacity, which the diet times to land during a subsequent high-carbohydrate refeed, Myofibrillar vs. sarcoplasmic hypertrophy, and the ribosome/mRNA turnover model of muscle growth (elevated protein synthesis from a single training bout said to fade within ~36 hours), used to justify sequencing volume, tension, and power training within one week rather than training one style continuously, Ketosis reframed as an incidental byproduct of the diet's fat-oxidation strategy rather than a goal in itself — explicitly contrasted with Duchaine's Bodyopus, which pursued ketosis directly
+
+## 360. The Untold Side Effects of Nicotine
 
 - **Source ID:** `fyO6eROqf2c`
 - **URL:** https://www.youtube.com/watch?v=fyO6eROqf2c
@@ -11517,7 +11643,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** vaping oils linked to lung pneumonia, pesticides and additives in cigarette tobacco, marijuana's hormonal effects (lowered androgens in men), nicotine pouch addictiveness, nicotine's cardiovascular effects (raised blood pressure and heart rate)
 - **Important concepts:** relative risk ranking across nicotine/tobacco/cannabis delivery methods, correlation-versus-causation in the "smokers and COVID" claim, endogenous versus exogenous signaling molecules (nicotine, cannabinoids)
 
-## 359. The worst idea for fertility
+## 361. The worst idea for fertility
 
 - **Source ID:** `92k__YZEAes`
 - **URL:** https://www.youtube.com/watch?v=92k__YZEAes
@@ -11529,7 +11655,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** Clavicular reportedly on 400mg of testosterone at age 16, leading to zero current sperm production, Burger King and McDonald's meals cited as undermining the fertility benefit of his supplement stack
 - **Important concepts:** none recorded
 
-## 360. There are NO hidden dangers in fruit and honey
+## 362. There are NO hidden dangers in fruit and honey
 
 - **Source ID:** `dm9-DDoSqhM`
 - **URL:** https://www.youtube.com/watch?v=dm9-DDoSqhM
@@ -11541,7 +11667,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** claimed but (per this source) undetected fructose glycation from whole-food fructose sources, methylglyoxal elevation on ketogenic/Atkins diets
 - **Important concepts:** hemoglobin A1c and fructosamine as glycation assays, the distinction between pure/rodent-study fructose and whole-food fructose sources, advanced glycation end products (AGEs)
 
-## 361. This breaks my heart..
+## 363. This breaks my heart..
 
 - **Source ID:** `OnfrsJx8IAE`
 - **URL:** https://www.youtube.com/watch?v=OnfrsJx8IAE
@@ -11553,7 +11679,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** childhood obesity, framed as "completely preventable"
 - **Important concepts:** childhood obesity framed as a societal/parental food-environment failure rather than individual child behavior
 
-## 362. This food reverses aging
+## 364. This food reverses aging
 
 - **Source ID:** `brQcLA36Tsk`
 - **URL:** https://www.youtube.com/watch?v=brQcLA36Tsk
@@ -11565,7 +11691,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 363. This Invisible Light Restores Your Mitochondria (Science-Backed)
+## 365. This Invisible Light Restores Your Mitochondria (Science-Backed)
 
 - **Source ID:** `XAcCJ5PHMHs`
 - **URL:** https://www.youtube.com/watch?v=XAcCJ5PHMHs
@@ -11577,7 +11703,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** LED bulbs' near-total absence of infrared light, paired with a blue emission peak around 460 nm, light flicker at frequencies imperceptible to the eye but, the video claims, perceptible to the nervous system — linked to eye strain, headaches, migraines, and anxiety, OLED phone/laptop screens' pulse-width-modulation flicker, framed as a problem distinct from (and unfixable alongside) their blue-light content, low-emissivity ("low-e") windows stripping infrared from sunlight entering a home
 - **Important concepts:** full-spectrum versus "processed" light, as a direct analogy to whole food versus processed food, melanopic lux — a measure of how strongly a light source stimulates the circadian system, pulse-width modulation as the mechanism behind screen brightness control and its flicker cost, the claimed oxidative-balance relationship between high-energy visible/UV light and infrared/red light, mediated by mitochondrial melatonin synthesis
 
-## 364. This is harming your thyroid health
+## 366. This is harming your thyroid health
 
 - **Source ID:** `4qh24N0yIdA`
 - **URL:** https://www.youtube.com/watch?v=4qh24N0yIdA
@@ -11589,7 +11715,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** perfume phthalates absorbed through thin neck skin directly into the thyroid gland, perfume/fragrance chemicals entering the bloodstream and affecting testicles, ovaries, and liver, declining fertility rates and rising IVF use linked to cumulative "toxic soup" exposure including fragrances and personal care products
 - **Important concepts:** the thyroid as "one of your hormone control centers," specifically targeted by neck-applied perfume
 
-## 365. This Is How Canada Convinced You To Eat Engine Lubricant
+## 367. This Is How Canada Convinced You To Eat Engine Lubricant
 
 - **Source ID:** `c1kyubykrvA`
 - **URL:** https://www.youtube.com/watch?v=c1kyubykrvA
@@ -11601,7 +11727,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** erucic acid toxicity in unmodified rapeseed oil, carcinogenic extraction solvents (benzene, hexane), oxidation and trans-fat formation from high-heat refining, mainstream health-authority endorsement of an oil the source calls harmful
 - **Important concepts:** canola as an acronym (Canadian Oil, Low Acid), genetic modification as the route from toxic rapeseed to food-grade canola, refining as extraction plus high-heat distillation
 
-## 366. This is how I eat everyday #animalbased
+## 368. This is how I eat everyday #animalbased
 
 - **Source ID:** `a8-hxdyDaaI`
 - **URL:** https://www.youtube.com/watch?v=a8-hxdyDaaI
@@ -11613,7 +11739,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** an animal-based diet defined as centered on animal foods, fruit, and honey, while avoiding grains, oatmeal, and seed oils
 
-## 367. This is how much fruit I eat
+## 369. This is how much fruit I eat
 
 - **Source ID:** `sBWUrRkma3w`
 - **URL:** https://www.youtube.com/watch?v=sBWUrRkma3w
@@ -11625,7 +11751,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** fruit intake scaled to activity level rather than a fixed amount
 
-## 368. This is my full day of eating in Costa Rica!
+## 370. This is my full day of eating in Costa Rica!
 
 - **Source ID:** `1BwHcVGxaq8`
 - **URL:** https://www.youtube.com/watch?v=1BwHcVGxaq8
@@ -11637,7 +11763,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a prototype tallow-based sunscreen, tested but not detailed in this clip
 
-## 369. This is my supplement stack…
+## 371. This is my supplement stack…
 
 - **Source ID:** `6sU8HX0awro`
 - **URL:** https://www.youtube.com/watch?v=6sU8HX0awro
@@ -11649,7 +11775,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** raw liver framed as "the best multivitamin on the planet"
 
-## 370. This is the healthiest food for humans
+## 372. This is the healthiest food for humans
 
 - **Source ID:** `967uvaJL2Ag`
 - **URL:** https://www.youtube.com/watch?v=967uvaJL2Ag
@@ -11661,7 +11787,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 371. THIS is the Key to Weight Loss
+## 373. THIS is the Key to Weight Loss
 
 - **Source ID:** `4WGFtmUcTGg`
 - **URL:** https://www.youtube.com/watch?v=4WGFtmUcTGg
@@ -11673,7 +11799,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** calorie counting and portion control framed as ineffective long-term weight loss strategies
 - **Important concepts:** the phrase "quality of the calories in determines the calories out" as the host's core reframing of weight loss
 
-## 372. This is the world’s OLDEST SUPERFOOD #animalbased
+## 374. This is the world’s OLDEST SUPERFOOD #animalbased
 
 - **Source ID:** `7hpGrnwaMzI`
 - **URL:** https://www.youtube.com/watch?v=7hpGrnwaMzI
@@ -11685,7 +11811,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** biotin, riboflavin, copper, and bioavailable vitamin A as nutrients found mainly in liver rather than muscle meat
 
-## 373. This is why I’m drinking pet food at Sprouts ￼ #animalbased
+## 375. This is why I’m drinking pet food at Sprouts ￼ #animalbased
 
 - **Source ID:** `814Nby7BbAY`
 - **URL:** https://www.youtube.com/watch?v=814Nby7BbAY
@@ -11697,7 +11823,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** direct sales of raw dairy illegal in 37 states, including Texas, a cited statistic that asthma "kills 13 kids a day"
 - **Important concepts:** a regulatory contrast — cigarettes, processed food, seed oils, and fast food legal, while raw dairy sold to consumers is not
 
-## 374. This is why obesity rates are skyrocketing
+## 376. This is why obesity rates are skyrocketing
 
 - **Source ID:** `bCZa3pPzv1M`
 - **URL:** https://www.youtube.com/watch?v=bCZa3pPzv1M
@@ -11709,7 +11835,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** ultra-processed foods making up over 60% of the American diet, climbing obesity rates, diabetes rates, and record-low fertility, argued to be strongly related to ultra-processed food consumption
 - **Important concepts:** a visual comparison of two US maps (obesity rates and ultra-processed fast food consumption rates) showing closely matching geographic patterns
 
-## 375. This might break some hearts
+## 377. This might break some hearts
 
 - **Source ID:** `2SPuz7F6Ifw`
 - **URL:** https://www.youtube.com/watch?v=2SPuz7F6Ifw
@@ -11721,7 +11847,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** caffeine (a methylxanthine) causing blood sugar swings and reactive hypoglycemia, pesticides used on coffee beans, acrylamide from the roasting process, associated with cancer, mold toxins (mycotoxins) from coffee processing
 - **Important concepts:** coffee beans framed as seeds, and therefore highly defended plant tissue
 
-## 376. This will change your mind about McDonald’s
+## 378. This will change your mind about McDonald’s
 
 - **Source ID:** `9agqwLM9GEw`
 - **URL:** https://www.youtube.com/watch?v=9agqwLM9GEw
@@ -11733,7 +11859,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** bromine (from brominated vegetable oil) accumulating in fatty tissue and competing with iodine for thyroid tissue, causing thyroid issues, bromine accumulation potentially causing cognitive issues via brain accumulation
 - **Important concepts:** brominated vegetable oil used as an emulsifier to prevent citrus flavor from separating in a drink
 
-## 377. Throat burn = healthy olive oil
+## 379. Throat burn = healthy olive oil
 
 - **Source ID:** `9U1ooP1XGjQ`
 - **URL:** https://www.youtube.com/watch?v=9U1ooP1XGjQ
@@ -11745,7 +11871,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** throat burn duration (10-15 seconds) as a rough proxy for polyphenol content in olive oil, olive oil recommended as a finishing oil rather than a cooking oil
 
-## 378. Toothbrush = microplastics?
+## 380. Toothbrush = microplastics?
 
 - **Source ID:** `4BwaHBD3AVU`
 - **URL:** https://www.youtube.com/watch?v=4BwaHBD3AVU
@@ -11757,7 +11883,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a cited study estimating up to 50,000+ microplastic particles ingested annually from plastic toothbrush use
 - **Important concepts:** none recorded
 
-## 379. Toothpaste is overrated…
+## 381. Toothpaste is overrated…
 
 - **Source ID:** `7MZvO4CDRS8`
 - **URL:** https://www.youtube.com/watch?v=7MZvO4CDRS8
@@ -11769,7 +11895,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluoride, recommended to avoid if using toothpaste at all
 - **Important concepts:** brushing's actual purpose framed as disrupting biofilm, achievable with water alone, bad breath attributed to gut dysbiosis rather than a lack of minty toothpaste
 
-## 380. Top 3 travel hacks ✈️
+## 382. Top 3 travel hacks ✈️
 
 - **Source ID:** `9oHvri2K1tU`
 - **URL:** https://www.youtube.com/watch?v=9oHvri2K1tU
@@ -11781,7 +11907,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a separate food bag not counting toward standard carry-on baggage limits
 
-## 381. Travel hack: I got food through security!
+## 383. Travel hack: I got food through security!
 
 - **Source ID:** `A4VNEWi0R3w`
 - **URL:** https://www.youtube.com/watch?v=A4VNEWi0R3w
@@ -11793,7 +11919,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a bag of food not counting toward the standard two-carry-on-bag airline limit
 
-## 382. Trip to the Seed Oil Store
+## 384. Trip to the Seed Oil Store
 
 - **Source ID:** `OIkRZYFbbDQ`
 - **URL:** https://www.youtube.com/watch?v=OIkRZYFbbDQ
@@ -11805,7 +11931,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils named as "the single greatest driver of chronic illness in the US and the world today"
 - **Important concepts:** none recorded
 
-## 383. Tuesdays are for tomahawks
+## 385. Tuesdays are for tomahawks
 
 - **Source ID:** `OB-DnC7r6G4`
 - **URL:** https://www.youtube.com/watch?v=OB-DnC7r6G4
@@ -11817,7 +11943,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** reclaiming a weekday as a "celebration" built around nutrient-dense meat rather than conventional treats
 
-## 384. Turmeric does not fix the root cause of inflammation
+## 386. Turmeric does not fix the root cause of inflammation
 
 - **Source ID:** `q6hCxRUL_zQ`
 - **URL:** https://www.youtube.com/watch?v=q6hCxRUL_zQ
@@ -11829,7 +11955,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** turmeric reported to lower testosterone and damage DNA, ibuprofen named as having "many negative side effects" without specifics
 - **Important concepts:** covering symptoms versus treating root cause, applied to both pharmaceutical anti- inflammatories and popular nutraceuticals, an animal-based diet (excluding seed oils, processed sugar, plant defense chemicals, and vegetables) framed as the actual root-cause fix for inflammation
 
-## 385. U.S. Dietary Guidelines are CRAZY!!!
+## 387. U.S. Dietary Guidelines are CRAZY!!!
 
 - **Source ID:** `YjfM-E-Dr-0`
 - **URL:** https://www.youtube.com/watch?v=YjfM-E-Dr-0
@@ -11841,7 +11967,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** official government dietary guidance framed as recommending against nutrient-dense saturated fat in favor of seed oils
 
-## 386. USDA carb recommendations vs mine
+## 388. USDA carb recommendations vs mine
 
 - **Source ID:** `BQhI1Q0aEi8`
 - **URL:** https://www.youtube.com/watch?v=BQhI1Q0aEi8
@@ -11853,7 +11979,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** phytic acid in grains inhibiting mineral absorption, gluten damaging and irritating the gut, opening gap junctions
 - **Important concepts:** low-nutrient, low-toxin carbohydrate sources (fruit, honey, raw milk) preferred over grains as the primary carbohydrate source in the diet
 
-## 387. Use honey as a sweetener!
+## 389. Use honey as a sweetener!
 
 - **Source ID:** `xvPgZfZREeg`
 - **URL:** https://www.youtube.com/watch?v=xvPgZfZREeg
@@ -11865,7 +11991,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** stevia and Splenda disrupting gut microbiome quorum sensing, stevia specifically noted to be used as a contraceptive in indigenous countries
 - **Important concepts:** a tiered ranking of sweeteners rather than a single "sugar is bad" claim
 
-## 388. Use sunscreens based in zinc and animal fats #shorts #health #sunscreen
+## 390. Use sunscreens based in zinc and animal fats #shorts #health #sunscreen
 
 - **Source ID:** `OYDAwBYd_UU`
 - **URL:** https://www.youtube.com/watch?v=OYDAwBYd_UU
@@ -11877,7 +12003,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** homosalate, octocrylene, avobenzone, and oxybenzone (transcribed "octabenzone"), named as endocrine-disrupting sunscreen compounds, parabens and other xenoestrogens in sunscreen
 - **Important concepts:** zinc- and animal-fat-based sunscreen recommended as the alternative
 
-## 389. Vegan diets and nutrient deficiencies: don’t make this mistake
+## 391. Vegan diets and nutrient deficiencies: don’t make this mistake
 
 - **Source ID:** `AkYqZcZn8PM`
 - **URL:** https://www.youtube.com/watch?v=AkYqZcZn8PM
@@ -11889,7 +12015,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** poor mineral bioavailability (magnesium, zinc, iron) from plant sources compared to meat
 
-## 390. Vegan vs carnivore UFC fight
+## 392. Vegan vs carnivore UFC fight
 
 - **Source ID:** `0ulVlSJr-Wk`
 - **URL:** https://www.youtube.com/watch?v=0ulVlSJr-Wk
@@ -11901,7 +12027,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** meat's bioavailability and "unique nutrients... you can't get from plants" as the host's stated reason for its athletic performance edge
 
-## 391. Vegans are silly 😂
+## 393. Vegans are silly 😂
 
 - **Source ID:** `WiKQAOWfOi4`
 - **URL:** https://www.youtube.com/watch?v=WiKQAOWfOi4
@@ -11913,7 +12039,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** the same recurring animal-exclusive-nutrient list delivered as a comedic, rapid dialogue format
 
-## 392. Vegetables are harming you!
+## 394. Vegetables are harming you!
 
 - **Source ID:** `PyHVry9EPFY`
 - **URL:** https://www.youtube.com/watch?v=PyHVry9EPFY
@@ -11925,7 +12051,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** oxalates (spinach, beets) linked to kidney stones, joint pain, and kidney failure, lectins (beans) linked to gut microbiome disruption, autoimmune disease, and (in animal models) Alzheimer's-type neurologic disease, isothiocyanates (kale) linked to thyroid disruption via blocked iodine absorption, Aze, a non-protein amino acid (beets), linked to possible autoimmune disease (multiple sclerosis) and protein misfolding, a compound transcribed "sorolens" (celery) linked to skin photodamage
 - **Important concepts:** each vegetable's harm tied to a specific named compound rather than a general "vegetables are bad" claim
 
-## 393. Vegetables DO NOT contain antioxidants…
+## 395. Vegetables DO NOT contain antioxidants…
 
 - **Source ID:** `D6XQTMoVevw`
 - **URL:** https://www.youtube.com/watch?v=D6XQTMoVevw
@@ -11937,7 +12063,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** plant defense chemicals (framed as pro-oxidants) disrupting digestion and hormones and inhibiting nutrient absorption
 - **Important concepts:** a hormetic (stress-then-adaptation) model of plant compounds - triggering the body's own antioxidant production rather than directly supplying antioxidants, heat, sauna, cold, exercise, sunlight, and fasting named as alternative ways to stimulate the body's own antioxidant production
 
-## 394. Vitamin C has a dirty little secret #health #animalbased #nutrition
+## 396. Vitamin C has a dirty little secret #health #animalbased #nutrition
 
 - **Source ID:** `2HHDc8kL6SQ`
 - **URL:** https://www.youtube.com/watch?v=2HHDc8kL6SQ
@@ -11949,7 +12075,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** GMO corn used to synthesize ascorbic acid typically sprayed with glyphosate (Roundup), synthetic vitamin C associated with worsening cardiovascular disease metrics in observational studies
 - **Important concepts:** naturally occurring versus synthetic vitamin C compared head-to-head for effect on oxidative stress
 
-## 395. Walmart Run!
+## 397. Walmart Run!
 
 - **Source ID:** `3oICD74K00o`
 - **URL:** https://www.youtube.com/watch?v=3oICD74K00o
@@ -11961,7 +12087,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 396. Want to lose wight?
+## 398. Want to lose wight?
 
 - **Source ID:** `Bk6qgSarmrI`
 - **URL:** https://www.youtube.com/watch?v=Bk6qgSarmrI
@@ -11973,7 +12099,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** sequential food reintroduction after an elimination phase, to identify individual reactions (e.g., eczema triggered by tomatoes) tied to a specific goal (weight loss, joint pain, sleep, etc.)
 
-## 397. Weight LOSS shakes = weight GAIN??
+## 399. Weight LOSS shakes = weight GAIN??
 
 - **Source ID:** `1REyE7PeCUY`
 - **URL:** https://www.youtube.com/watch?v=1REyE7PeCUY
@@ -11985,7 +12111,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils (canola, corn) in a "doctor recommended" weight-loss shake, consumed daily, seed oils accumulating in cell membranes, linked to obesity, increased hunger, mitochondrial issues, and eventually diabetes/prediabetes
 - **Important concepts:** none recorded
 
-## 398. Western medicine needs to look at the root cause!
+## 400. Western medicine needs to look at the root cause!
 
 - **Source ID:** `GIUa65v7ZBw`
 - **URL:** https://www.youtube.com/watch?v=GIUa65v7ZBw
@@ -11997,7 +12123,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** diabetes, obesity, heart disease, dementia, and depression, all named as reversible conditions
 - **Important concepts:** aligning diet and lifestyle to "millions of years of human and hominid evolution" as the root-cause fix
 
-## 399. What about Olive Oil?
+## 401. What about Olive Oil?
 
 - **Source ID:** `698-JrKI2js`
 - **URL:** https://www.youtube.com/watch?v=698-JrKI2js
@@ -12009,7 +12135,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** hexane extraction as a seed-oil-specific processing step olive oil doesn't undergo
 
-## 400. What are the best cooking utensils?
+## 402. What are the best cooking utensils?
 
 - **Source ID:** `23veeLGBZoc`
 - **URL:** https://www.youtube.com/watch?v=23veeLGBZoc
@@ -12021,7 +12147,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PVC (a probable carcinogen), brominated compounds (hormone disruptors), and heavy metals (lead, mercury, antimony) in plastic spatulas, a melted/burned plastic spatula edge as a visible sign of degradation and transfer into food
 - **Important concepts:** none recorded
 
-## 401. What are the best FATS to cook with?
+## 403. What are the best FATS to cook with?
 
 - **Source ID:** `6OlIq1hsEXM`
 - **URL:** https://www.youtube.com/watch?v=6OlIq1hsEXM
@@ -12033,7 +12159,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** avocado and olive oil often cut with vegetable oils, or otherwise low quality, avocado and olive oil's linoleic acid content and tendency to oxidize when heated
 - **Important concepts:** butyric acid in butter and ghee as an anti-inflammatory compound used in treating inflammatory bowel disease
 
-## 402. What are the BEST foods for PREGNANCY? #animalbased
+## 404. What are the BEST foods for PREGNANCY? #animalbased
 
 - **Source ID:** `brzQVOWPjfQ`
 - **URL:** https://www.youtube.com/watch?v=brzQVOWPjfQ
@@ -12045,7 +12171,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a cross-cultural pattern of feeding organs and meat to pregnant women or women trying to conceive, observed among the Hadza and described as "human wisdom that's been forgotten"
 
-## 403. What are the best pans for cooking?
+## 405. What are the best pans for cooking?
 
 - **Source ID:** `5wsn8VmF2cE`
 - **URL:** https://www.youtube.com/watch?v=5wsn8VmF2cE
@@ -12057,7 +12183,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** Teflon pans releasing airborne polymers when heated above 488°F, associated with headaches and irritability, scratched non-stick coating potentially transferring into food
 - **Important concepts:** stainless steel described as just iron and other elements, with nothing to leach into food
 
-## 404. What are we feeding our kids?!?
+## 406. What are we feeding our kids?!?
 
 - **Source ID:** `8SXZUbl7CRw`
 - **URL:** https://www.youtube.com/watch?v=8SXZUbl7CRw
@@ -12069,7 +12195,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** plastic baby food packaging linked to declining testosterone and genital development in male and female babies, spinach in baby food, flagged for oxalate content, avocado oil in baby food, flagged for linoleic acid content
 - **Important concepts:** none recorded
 
-## 405. What are “Free-Range” eggs?
+## 407. What are “Free-Range” eggs?
 
 - **Source ID:** `_OzwbCWLK6w`
 - **URL:** https://www.youtube.com/watch?v=_OzwbCWLK6w
@@ -12081,7 +12207,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** free-range chickens getting only about two square feet of roaming space per bird, versus 108 square feet for pasture-raised, cage-free chickens not actually getting outside at all
 - **Important concepts:** chicken density per space as a proxy for diet quality — lower density means more access to bugs and worms rather than relying mainly on grain feed
 
-## 406. What causes cardiovascular disease??
+## 408. What causes cardiovascular disease??
 
 - **Source ID:** `pMHxEPKu0NY`
 - **URL:** https://www.youtube.com/watch?v=pMHxEPKu0NY
@@ -12093,7 +12219,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** metabolic dysfunction (insulin resistance) argued to drive endothelial dysfunction and atherosclerosis
 - **Important concepts:** seed oils and processed sugars named as the two causes of the underlying metabolic dysfunction
 
-## 407. What does the “A” stand for?
+## 409. What does the “A” stand for?
 
 - **Source ID:** `9En81nJq0KE`
 - **URL:** https://www.youtube.com/watch?v=9En81nJq0KE
@@ -12105,7 +12231,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** Chick-fil-A removing its antibiotic-free chicken stipulation in March 2024
 - **Important concepts:** dimethyl polysiloxane (a silly-putty ingredient used as an anti-foaming agent) as an example of a non-food additive in a "100% real chicken" product
 
-## 408. What is beef tallow? #animalbased
+## 410. What is beef tallow? #animalbased
 
 - **Source ID:** `3YbN1-ShEtE`
 - **URL:** https://www.youtube.com/watch?v=3YbN1-ShEtE
@@ -12117,7 +12243,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** stearic acid, an 18-carbon saturated fat, triggering fat burning in human trials and leanness in animal studies
 
-## 409. What is fluoride really?
+## 411. What is fluoride really?
 
 - **Source ID:** `sPGdfZtLYKk`
 - **URL:** https://www.youtube.com/watch?v=sPGdfZtLYKk
@@ -12129,7 +12255,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fluorosilicic acid as an industrial waste product added to municipal water, cumulative/chronic toxicity versus single-dose toxicity framing, carbon (Brita-style) filters, and even Berkey filters without a post-filter, failing to remove fluoride
 - **Important concepts:** filtering water before drinking it versus relying on the body to filter out contaminants (the video's own "temple" framing), cumulative dosage, not just single-dose amount, as the determinant of toxicity, transdermal absorption of chlorine during skin contact with tap water
 
-## 410. What is he eating? 😳
+## 412. What is he eating? 😳
 
 - **Source ID:** `4Wis0LjCfG0`
 - **URL:** https://www.youtube.com/watch?v=4Wis0LjCfG0
@@ -12141,7 +12267,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** aluminum foil food storage increasing aluminum content in food, brown rice's higher arsenic content relative to white rice, a cited 2022 NutriNet-Santé cohort study linking high artificial sweetener consumption to increased cancer and cardiovascular disease rates, apples on "the dirty dozen" pesticide-residue list, a cited Columbia study finding hundreds of thousands of nanoplastics per liter in bottled sparkling water
 - **Important concepts:** none recorded
 
-## 411. What is the best food for longevity? #animalbased #health
+## 413. What is the best food for longevity? #animalbased #health
 
 - **Source ID:** `2YwBknT6ub0`
 - **URL:** https://www.youtube.com/watch?v=2YwBknT6ub0
@@ -12153,7 +12279,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** taurine, creatine, carnosine, anserine, 4-hydroxyproline, and carnitine as longevity-linked nutrients found in red meat but not in plant foods
 
-## 412. What to eat for a healthy libido
+## 414. What to eat for a healthy libido
 
 - **Source ID:** `cYWkt4y58Go`
 - **URL:** https://www.youtube.com/watch?v=cYWkt4y58Go
@@ -12165,7 +12291,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** carnitine and carnosine's etymological link to "carnis," the Latin word for meat, used to argue for an inherent animal-food-libido connection
 
-## 413. What's in the Whole Foods HOT BAR??
+## 415. What's in the Whole Foods HOT BAR??
 
 - **Source ID:** `7ptOYsFQKBY`
 - **URL:** https://www.youtube.com/watch?v=7ptOYsFQKBY
@@ -12177,7 +12303,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** seed oils described as "the single greatest driver of metabolic dysfunction, insulin resistance, diabetes, eventually obesity in humans"
 - **Important concepts:** none recorded
 
-## 414. What's WRONG With Your Milk (and how to fix it)
+## 416. What's WRONG With Your Milk (and how to fix it)
 
 - **Source ID:** `Ya-P2K5k6PY`
 - **URL:** https://www.youtube.com/watch?v=Ya-P2K5k6PY
@@ -12189,7 +12315,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** A1 casein as more immunologically problematic than A2, foodborne illness risk from raw dairy, foodborne illness risk from pasteurized dairy (historical outbreaks), homogenization's necessity questioned
 - **Important concepts:** A2/A2 homozygosity in cattle breeds (Jersey, Guernsey), ferroptosis and lipid-peroxide-induced cell death, pentadecanoic acid (C15) as a biomarker of full-fat dairy intake, calcium-phosphorus mineral balance, swill milk and the historical origin of pasteurization
 
-## 415. What’s happening to Americans?
+## 417. What’s happening to Americans?
 
 - **Source ID:** `5DTFlxQ0_Xs`
 - **URL:** https://www.youtube.com/watch?v=5DTFlxQ0_Xs
@@ -12201,7 +12327,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** over 70% of Americans obese or overweight, almost 40% of kids obese or overweight, fertility rates down 50% in the last decade, sperm counts down 60%, autism prevalence at 1 in 32 children, up from 1 in 150 a decade earlier, over 5,000 substances in the food supply the host says the FDA hasn't fully tested
 - **Important concepts:** none recorded
 
-## 416. What’s in a Pop Tart?
+## 418. What’s in a Pop Tart?
 
 - **Source ID:** `_oMVQbVS7Uk`
 - **URL:** https://www.youtube.com/watch?v=_oMVQbVS7Uk
@@ -12213,7 +12339,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** corn syrup and high-fructose corn syrup linked to obesity in animal and human trials, soybean and palm (seed) oils, called "the single greatest driver of obesity and chronic illness in humans", caramel color, a synthetic additive linked to cancers in animal models, Red 40, associated with ADHD and anxiety behaviors in kids and adults
 - **Important concepts:** none recorded
 
-## 417. What’s in my fridge?
+## 419. What’s in my fridge?
 
 - **Source ID:** `_-H-WXirdwU`
 - **URL:** https://www.youtube.com/watch?v=_-H-WXirdwU
@@ -12225,7 +12351,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** humidity in Costa Rica as the stated reason for keeping salt refrigerated
 - **Important concepts:** storing fat-soluble/oil-based foods (butter, yucca) in glass rather than plastic
 
-## 418. What’s in your baby’s diapers?
+## 420. What’s in your baby’s diapers?
 
 - **Source ID:** `22HuFL6CgnU`
 - **URL:** https://www.youtube.com/watch?v=22HuFL6CgnU
@@ -12237,7 +12363,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** fragrance (phthalates and other xenoestrogens), chlorine, bleaches, parabens, and latex in diapers, absorbed through skin during childhood development
 - **Important concepts:** skin absorption as an exposure route worth the same scrutiny as what's eaten
 
-## 419. What’s inside Dunkin Donuts’ ?
+## 421. What’s inside Dunkin Donuts’ ?
 
 - **Source ID:** `5yLbhlJ6gtY`
 - **URL:** https://www.youtube.com/watch?v=5yLbhlJ6gtY
@@ -12249,7 +12375,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** carrageenan and other gums (cellulose, guar, xanthan, acacia) described as gut-irritating and inflammatory, over 60% of calories in Western diets now coming from ultra-processed foods
 - **Important concepts:** none recorded
 
-## 420. What’s the best way to cook eggs?
+## 422. What’s the best way to cook eggs?
 
 - **Source ID:** `0L63t4iUQ8c`
 - **URL:** https://www.youtube.com/watch?v=0L63t4iUQ8c
@@ -12261,7 +12387,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS ("forever chemicals") from non-stick pan coatings disrupting hormones, olive and avocado oil oxidizing and breaking down when heated for cooking
 - **Important concepts:** none recorded
 
-## 421. What’s your dental floss made of?
+## 423. What’s your dental floss made of?
 
 - **Source ID:** `0Q_JNqyG2yI`
 - **URL:** https://www.youtube.com/watch?v=0Q_JNqyG2yI
@@ -12273,7 +12399,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS in Oral-B Glide, Colgate, Up & Up, and Salimo dental floss, per an independent analysis, a cited study finding women who used Oral-B Glide floss had significantly higher blood PFAS levels, PFAS associated with endocrine disruption, hormonal disruption, and learning delay in children
 - **Important concepts:** silk (transcribed "soak") floss as a lower-PFAS, lower-microplastic alternative
 
-## 422. Where did I gain my background in nutrition?
+## 424. Where did I gain my background in nutrition?
 
 - **Source ID:** `BlAtR7oWlQM`
 - **URL:** https://www.youtube.com/watch?v=BlAtR7oWlQM
@@ -12285,7 +12411,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** a doctor's formal specialty credential (here, a psychiatry residency) not automatically implying or precluding independently gained nutritional expertise
 
-## 423. Whiten your teeth with this toothpaste
+## 425. Whiten your teeth with this toothpaste
 
 - **Source ID:** `8HgTn-g1nNM`
 - **URL:** https://www.youtube.com/watch?v=8HgTn-g1nNM
@@ -12297,7 +12423,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** conventional "fluoride filled" toothpaste, framed negatively as the alternative this recipe replaces
 - **Important concepts:** bentonite clay's negative charge pulling metals and toxins from the mouth, mixing with a wood rather than metal spoon, since bentonite clay could pull trace metals out of a metal spoon
 
-## 424. Why are you chewing gum??
+## 426. Why are you chewing gum??
 
 - **Source ID:** `RkwwPLx0fP8`
 - **URL:** https://www.youtube.com/watch?v=RkwwPLx0fP8
@@ -12309,7 +12435,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** processed sugars and sugar substitutes in gum disrupting gut flora communication
 - **Important concepts:** none recorded
 
-## 425. Why are you using deodorant…
+## 427. Why are you using deodorant…
 
 - **Source ID:** `LNedlg1mQMw`
 - **URL:** https://www.youtube.com/watch?v=LNedlg1mQMw
@@ -12321,7 +12447,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** parabens, phthalates, synthetic fragrances, and aluminum named as commercial deodorant ingredients
 - **Important concepts:** diet quality framed as the primary driver of how a person smells, more than deodorant use
 
-## 426. Why are you using sunscreen?
+## 428. Why are you using sunscreen?
 
 - **Source ID:** `6QJ-b-_aDD8`
 - **URL:** https://www.youtube.com/watch?v=6QJ-b-_aDD8
@@ -12333,7 +12459,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** avobenzone, oxybenzone, octocrylene, and homosalate, linked to hormonal disruption and absorbed through skin, rising melanoma rates despite 90%+ of time spent indoors and rising sunscreen use
 - **Important concepts:** a tallow-based, non-nano zinc mineral sunscreen framed as reasonable for photoprotection and skin aging specifically, separate from the skin-cancer-prevention question, diet quality proposed as more linked to skin cancer risk than sunscreen use
 
-## 427. Why aren’t doctors taught this?
+## 429. Why aren’t doctors taught this?
 
 - **Source ID:** `79C8MYaJg-A`
 - **URL:** https://www.youtube.com/watch?v=79C8MYaJg-A
@@ -12345,7 +12471,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** medical school and research funding coming substantially from pharmaceutical companies, shaping curriculum toward pharma-centric content
 - **Important concepts:** self-education (reading hundreds to thousands of articles and books, consulting experts) as the host's own path to a physician nutrition specialist board certification
 
-## 428. Why cows are not bad for the environment
+## 430. Why cows are not bad for the environment
 
 - **Source ID:** `b8O7KC_h8Es`
 - **URL:** https://www.youtube.com/watch?v=b8O7KC_h8Es
@@ -12357,7 +12483,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** grossly overestimated water-usage figures commonly cited for ruminant livestock
 - **Important concepts:** ruminants cycling water back into soil via urination in a way that preserves topsoil and prevents erosion and runoff, land unsuitable for crop agriculture but usable for grazing, allowing regenerative practices to increase soil carbon carrying capacity where cropping could not
 
-## 429. Why cutting calories fails long-term
+## 431. Why cutting calories fails long-term
 
 - **Source ID:** `a6yq_DzFD4U`
 - **URL:** https://www.youtube.com/watch?v=a6yq_DzFD4U
@@ -12369,7 +12495,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** over 85% of people who lose weight via calorie counting/restriction without attention to food quality failing long-term, per cited studies
 - **Important concepts:** adaptive thermogenesis, the body's metabolic slowdown response to calorie restriction, processed food increasing hunger calorie-for-calorie relative to whole food
 
-## 430. Why do so many kids get diabetes?
+## 432. Why do so many kids get diabetes?
 
 - **Source ID:** `6utEu2IPLz4`
 - **URL:** https://www.youtube.com/watch?v=6utEu2IPLz4
@@ -12381,7 +12507,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** childhood type 2 diabetes rates "increasing massively," alongside "out of control" childhood obesity, type 1 diabetes, an autoimmune condition, suggested as possibly diet-linked as well
 - **Important concepts:** none recorded
 
-## 431. Why grass-finished meat is better
+## 433. Why grass-finished meat is better
 
 - **Source ID:** `4HurlX9qpLY`
 - **URL:** https://www.youtube.com/watch?v=4HurlX9qpLY
@@ -12393,7 +12519,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** glyphosate residue in cattle fed GMO grains or Roundup-sprayed grasses/hay, PFAS and microplastic exposure as additional (unquantified) grass-fed advantages
 - **Important concepts:** organic grass-fed as excluding GMO feed and glyphosate-sprayed grass/hay specifically
 
-## 432. Why I don't drink Coffee!
+## 434. Why I don't drink Coffee!
 
 - **Source ID:** `lEe-jmO-jt4`
 - **URL:** https://www.youtube.com/watch?v=lEe-jmO-jt4
@@ -12405,7 +12531,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a cited study of post-menopausal women showing bone loss with moderate coffee intake when daily calcium was below 800 mg
 - **Important concepts:** relying on caffeine for energy versus getting energy from diet and sleep
 
-## 433. Why I don't eat fish
+## 435. Why I don't eat fish
 
 - **Source ID:** `fohp3ODi3S8`
 - **URL:** https://www.youtube.com/watch?v=fohp3ODi3S8
@@ -12417,7 +12543,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** heavy metals (cadmium, mercury, arsenic, lead) contaminating most fish, microplastics in fish, shown in animal models to disrupt hormones and fertility, a cited study linking fish consumption to increased melanoma rates, attributed to heavy metals and PCBs
 - **Important concepts:** microplastic bioaccumulation up the food chain into humans
 
-## 434. Why I don't eat fish, chicken or pork!
+## 436. Why I don't eat fish, chicken or pork!
 
 - **Source ID:** `jzszqg-xQGM`
 - **URL:** https://www.youtube.com/watch?v=jzszqg-xQGM
@@ -12429,7 +12555,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PFAS exposure from food packaging, nonstick cookware, dental floss, and sparkling water, heavy metals (mercury, lead, arsenic, cadmium) in fish, especially larger predatory species, microplastics in fish, shellfish, and salt, linoleic acid (omega-6) bioaccumulation from corn-and-soy-fed chicken and pigs, fish oil supplementation as unnecessary and potentially oxidized
 - **Important concepts:** monogastric versus ruminant fat metabolism, bioaccumulation as a general mechanism across PFAS, heavy metals, and linoleic acid, the "nutrient problem, not calorie problem" framing of global food scarcity
 
-## 435. Why I Don't Eat Most Chicken or Pork..
+## 437. Why I Don't Eat Most Chicken or Pork..
 
 - **Source ID:** `FwglS-HbmNw`
 - **URL:** https://www.youtube.com/watch?v=FwglS-HbmNw
@@ -12441,7 +12567,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid accumulation in chicken and pork from corn/soy/seed-oil feed
 - **Important concepts:** monogastric versus ruminant digestion as the reason chicken/pork accumulate feed-derived fats differently than grass-fed beef
 
-## 436. Why LED lights are harming your sleep
+## 438. Why LED lights are harming your sleep
 
 - **Source ID:** `B7nY4rXnQjg`
 - **URL:** https://www.youtube.com/watch?v=B7nY4rXnQjg
@@ -12453,7 +12579,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** LED flicker causing nervous system stimulation ("tired but wired"), headaches, and eye strain, LED lighting disrupting circadian rhythm
 - **Important concepts:** the term processed light as an analogy to processed food — LED light framed as an unhealthy, artificial version of natural light
 
-## 437. Why men have low testosterone today
+## 439. Why men have low testosterone today
 
 - **Source ID:** `6UStjTPlkuo`
 - **URL:** https://www.youtube.com/watch?v=6UStjTPlkuo
@@ -12465,7 +12591,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** average male testosterone reportedly falling from roughly 800 ng/dL to 400-450 ng/dL across generations, doctors prescribing TRT for low testosterone without checking vitamin D or zinc levels first, plastic exposure (cans, bottles, paper cups, food storage/heating containers) linked to lower testosterone and erectile dysfunction
 - **Important concepts:** zinc levels below 80 potentially doubling testosterone with supplementation alone, plastics framed as "the new smoke" — an underrecognized, pervasive health threat
 
-## 438. Why PEANUT BUTTER is one of the worst foods with Dave Asprey
+## 440. Why PEANUT BUTTER is one of the worst foods with Dave Asprey
 
 - **Source ID:** `Jy8fbpMHgqo`
 - **URL:** https://www.youtube.com/watch?v=Jy8fbpMHgqo
@@ -12477,7 +12603,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** aflatoxin in peanut butter, described as a leading dietary source of a major carcinogen, very long-chain fatty acids (VLCFA) accumulating in neuronal tissue, phytic acid's effect on mineral absorption and, per this source, bone density, Instagram content moderation flagging seed-oil and corn-flakes-history posts as misinformation
 - **Important concepts:** VLCFA (very long-chain fatty acids) and cell-membrane fit, phytic acid as a mineral chelator ("swallowing condoms" analogy), the aggregate nutrient density index (ANDI) critiqued as a flawed food-ranking metric, adipose-tissue linoleic acid versus blood linoleic acid as a marker of seed-oil consumption
 
-## 439. Why raw butter is better than pasteurized
+## 441. Why raw butter is better than pasteurized
 
 - **Source ID:** `2MwRcbIQf3w`
 - **URL:** https://www.youtube.com/watch?v=2MwRcbIQf3w
@@ -12489,7 +12615,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** pasteurization heating cream to over 200°F, altering whey protein conformation
 
-## 440. Why Sugar & Fruit Juice Are NOT The Same
+## 442. Why Sugar & Fruit Juice Are NOT The Same
 
 - **Source ID:** `hljJ0T7yASU`
 - **URL:** https://www.youtube.com/watch?v=hljJ0T7yASU
@@ -12501,7 +12627,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** pure/processed sugar raising endotoxin (lipopolysaccharide) via gut dysbiosis, protein pop-tarts and protein cookies as a booming but questionable processed-food category, heating/processing honey (or turning it into powder) breaking down its beneficial compounds, non-glyphosate-tested honey
 - **Important concepts:** dysbiosis and lipopolysaccharide (endotoxin) as the proposed mechanism for why sugar source matters, polyphenolic/plant compounds in honey and juice as gut-flora modifiers
 
-## 441. Why we do not need fluoride to prevent tooth decay
+## 443. Why we do not need fluoride to prevent tooth decay
 
 - **Source ID:** `e5K6O41hQ3A`
 - **URL:** https://www.youtube.com/watch?v=e5K6O41hQ3A
@@ -12513,7 +12639,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** framing tooth decay purely as a fluoride-deficiency problem
 - **Important concepts:** odontoblasts as living immune cells in teeth, fat-soluble vitamins (D, E, A, K2) as the proposed determinant of cavity resistance, hydroxyapatite formation via fluoride or calcium
 
-## 442. Why would I take cheat days? #shorts #health #carnivorediet
+## 444. Why would I take cheat days? #shorts #health #carnivorediet
 
 - **Source ID:** `jt-FdOb7EH4`
 - **URL:** https://www.youtube.com/watch?v=jt-FdOb7EH4
@@ -12525,7 +12651,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a "dopaminergic, drug-like effect" from cheat-day food followed by feeling worse afterward
 - **Important concepts:** cheat days framed as a behavioral obstacle rather than an earned reward
 
-## 443. Why You Should Avoid Cooking With These Oils
+## 445. Why You Should Avoid Cooking With These Oils
 
 - **Source ID:** `Tg6qO3aEw9E`
 - **URL:** https://www.youtube.com/watch?v=Tg6qO3aEw9E
@@ -12537,7 +12663,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** PTFE/Teflon aerosolizing from nonstick pans, oxidation of polyunsaturated fats (seed, olive, avocado oil) when heated, olive and avocado oil being cut with seed oils, endocrine-disrupting plastic in can linings for olive and avocado oil, oxidized LDL and Lp(a) from seed-oil consumption
 - **Important concepts:** peroxidation index as the relevant heat-stability measure, not smoke point, the Maillard-adjacent "mercury ball effect" for testing a stainless pan's readiness, odd-chain and 18-carbon saturated fatty acids (stearic, pentadecanoic, heptadecanoic acid), fat-soluble vitamins (A, D, E, K/K2) concentrated in animal fat from grass-fed diets
 
-## 444. Why you should eat more eggs
+## 446. Why you should eat more eggs
 
 - **Source ID:** `axJMmdCcQLg`
 - **URL:** https://www.youtube.com/watch?v=axJMmdCcQLg
@@ -12549,7 +12675,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** none recorded
 
-## 445. Why Your "Organic" Honey Is Full Of Pesticides (w/ Eric Mason)
+## 447. Why Your "Organic" Honey Is Full Of Pesticides (w/ Eric Mason)
 
 - **Source ID:** `1Fke1NV4ZdA`
 - **URL:** https://www.youtube.com/watch?v=1Fke1NV4ZdA
@@ -12561,7 +12687,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** glyphosate contamination reaching honey even under "organic" labeling, neonicotinoid ("neonic") seed coatings that are unregulated at the seed-production stage, adulterated/fake honey cut with sugar, high-fructose corn syrup, or rice syrup; mislabeled country of origin to dodge tariffs, heavy metals (lead, arsenic) turning up in urban bee colonies' honey and comb, heat/processing in "non-raw" honey reducing its biological complexity
 - **Important concepts:** dysbiosis and lipopolysaccharide (endotoxin) as the host's hypothesis for why sugar source matters, true source certification as a honey-authenticity standard, raw versus processed honey (heat and straining as the dividing line), the honeybee as an environmental "canary in the coal mine"
 
-## 446. Would you eat this?
+## 448. Would you eat this?
 
 - **Source ID:** `8OyA8WeCvvk`
 - **URL:** https://www.youtube.com/watch?v=8OyA8WeCvvk
@@ -12573,7 +12699,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the sauce's 16 ingredients including multiple seed oils and unspecified "natural flavors", the bun's 24 ingredients, compared to the three ingredients (wheat, water, salt) bread "is supposed to have"
 - **Important concepts:** a "your great-grandmother would recognize the ingredients" heuristic for evaluating food quality
 
-## 447. Yes, I was once a raw vegan…
+## 449. Yes, I was once a raw vegan…
 
 - **Source ID:** `gZWC_JxjljM`
 - **URL:** https://www.youtube.com/watch?v=gZWC_JxjljM
@@ -12585,7 +12711,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** gas, bloating, fatigue, and eczema during the raw vegan phase, electrolyte imbalance and muscle cramps during the strict carnivore phase, 25 lb of lean muscle mass lost during the raw vegan phase
 - **Important concepts:** a three-phase personal dietary progression used as evidence for the current diet
 
-## 448. You Are Being Lied To About Fish Oil
+## 450. You Are Being Lied To About Fish Oil
 
 - **Source ID:** `AN0M9rUugpI`
 - **URL:** https://www.youtube.com/watch?v=AN0M9rUugpI
@@ -12597,7 +12723,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** atrial fibrillation and arrhythmia linked to high-dose (4+ grams/day) fish oil, LDL oxidation from fish oil, fish oil rancidity ("fish burps") and industrial bleaching/deodorizing/refining of fish oil, lipid peroxidation from fatty fish and fish oil, including pharmaceutical-grade and cod liver oil
 - **Important concepts:** membrane pacemaker theory of aging, eicosanoids as the basis for treating omega-3 and omega-6 differently, polyunsaturated fat double-bond count as a predictor of oxidation susceptibility
 
-## 449. You crave meat for a reason…
+## 451. You crave meat for a reason…
 
 - **Source ID:** `-i4NDImStFE`
 - **URL:** https://www.youtube.com/watch?v=-i4NDImStFE
@@ -12609,7 +12735,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** plant-based meat products substituting for, rather than delivering, nutrient-dense animal foods
 - **Important concepts:** a conscious/unconscious split in food response — aversion at a conscious level, positive response at an evolutionary/unconscious level
 
-## 450. You DON’T need lower cholesterol…
+## 452. You DON’T need lower cholesterol…
 
 - **Source ID:** `7VCxmMFZSGQ`
 - **URL:** https://www.youtube.com/watch?v=7VCxmMFZSGQ
@@ -12621,7 +12747,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** fasting insulin as an easy metabolic health test, LDL cholesterol described as "horribly bad" at predicting cardiovascular disease in metabolically healthy people, cholesterol's roles in immune response, hormone/fertility health, and longevity in old age
 
-## 451. You should never eat these
+## 453. You should never eat these
 
 - **Source ID:** `8BJTVtZF1FU`
 - **URL:** https://www.youtube.com/watch?v=8BJTVtZF1FU
@@ -12633,7 +12759,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** the deodorization step in seed oil refining occurring at 500°F, described as effectively "deep fried in the factory" before any home cooking, plastic packaging leaching antimony into seed oil during 6-12 months of shelf storage
 - **Important concepts:** none recorded
 
-## 452. You think nicotine is healthy!?
+## 454. You think nicotine is healthy!?
 
 - **Source ID:** `4CjoMHDm7N4`
 - **URL:** https://www.youtube.com/watch?v=4CjoMHDm7N4
@@ -12645,7 +12771,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** up to 90mg of nicotine per day from near-daily pouch use, with 45-75% absorption yielding roughly 50mg absorbed nicotine per day — more than 30 cigarettes' worth, nicotine increasing cortisol, a stress hormone
 - **Important concepts:** creatine framed as "the best nootropic," contrasted with nicotine as "the worst example of a nootropic"
 
-## 453. Your bacon is BS: Stop eating pork
+## 455. Your bacon is BS: Stop eating pork
 
 - **Source ID:** `HPTpID3vV_o`
 - **URL:** https://www.youtube.com/watch?v=HPTpID3vV_o
@@ -12657,7 +12783,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** linoleic acid (omega-6) bioaccumulation in pork fat from corn-and-soy feed
 - **Important concepts:** monogastric versus ruminant fat storage and metabolism, feed composition as the determinant of an animal's own fatty-acid profile
 
-## 454. Your kale contains heavy metals
+## 456. Your kale contains heavy metals
 
 - **Source ID:** `qxhOQ6PY5ME`
 - **URL:** https://www.youtube.com/watch?v=qxhOQ6PY5ME
@@ -12669,7 +12795,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** vitamin K1 (in kale) being conflated with vitamin K2, isothiocyanates and goitrin interfering with thyroid iodine uptake, Dacthal (DCPA) pesticide residue, an EPA-acknowledged thyroid endocrine disruptor, thallium contamination of leafy greens from naturally high-thallium soils, oxalates in spinach (mentioned in passing)
 - **Important concepts:** vitamin K1 versus K2 as distinct compounds with distinct effects, isothiocyanates and goitrin as thyroid-disrupting plant compounds, soil-to-plant heavy metal transfer, specifically thallium
 
-## 455. You’ll never touch another receipt…
+## 457. You’ll never touch another receipt…
 
 - **Source ID:** `7zn7TCSM54c`
 - **URL:** https://www.youtube.com/watch?v=7zn7TCSM54c
@@ -12681,7 +12807,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** a 2014 study finding 100% of participants had measurable BPA increases after two hours handling receipts, cashiers handling receipts all day showing BPA increases of 2-3x, two further studies (2017, 2018) corroborating BPA transfer through skin contact with thermal paper
 - **Important concepts:** none recorded
 
-## 456. You’re probably not running correctly #running #fitness #carnivorediet
+## 458. You’re probably not running correctly #running #fitness #carnivorediet
 
 - **Source ID:** `iT03Yx6ge3o`
 - **URL:** https://www.youtube.com/watch?v=iT03Yx6ge3o
@@ -12693,7 +12819,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** heel-strike running form argued to hurt knees and joints when used for jogging or running
 - **Important concepts:** walking as an inherently heel-strike motor pattern, contrasted with jogging/running/sprinting as inherently forefoot-strike patterns
 
-## 457. “Red meat is inflammatory” - Harvard 😂
+## 459. “Red meat is inflammatory” - Harvard 😂
 
 - **Source ID:** `AcS2zoWrFq8`
 - **URL:** https://www.youtube.com/watch?v=AcS2zoWrFq8
@@ -12705,7 +12831,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Concerns:** none recorded
 - **Important concepts:** replacing grain-based carbohydrates with red meat reducing inflammation, per a cited interventional study
 
-## 458. 🤯 Your Protein Bar Is Made Of WHAT?!?
+## 460. 🤯 Your Protein Bar Is Made Of WHAT?!?
 
 - **Source ID:** `_Cb2NJ_C1Mg`
 - **URL:** https://www.youtube.com/watch?v=_Cb2NJ_C1Mg
@@ -13155,6 +13281,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **fish oil, fatty fish (e.g., salmon), leaner fish** — Are pork & chicken the new seed oils? (`oWFsV2PsgO0`)
 
+**fish oil, recommended as a standing daily addition because the body preferentially burns off dietary polyunsaturated fat before mobilizing its own more saturated (and harder-to-mobilize) stored fat** — The Stubborn Fat Solution (`the-stubborn-fat-solution`)
+
 **fish, argued against** — Why I don't eat fish (`fohp3ODi3S8`)
 
 **flank steak, bavette (sirloin flap), short ribs, navel (beef belly)** — Steak 101 with the butcher (`1gKZHekv-Xc`)
@@ -13297,6 +13425,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **high fructose corn syrup** — The dangers of high fructose corn syrup (`HK9_KYWli5I`)
 
+**high-carbohydrate refeeds (5-24 hours) and full diet breaks (10-14 days, carbohydrate ≥100-150g/day) used deliberately to counteract the drop in leptin, thyroid conversion, and catecholamine output that occurs on an extended diet** — The Stubborn Fat Solution (`the-stubborn-fat-solution`)
+
 **homemade watermelon juice (electrolytes, potassium, magnesium, natural sugars)** — Gatorade vs watermelon juice (`2ygBMqqIUnA`)
 
 **homemade, well-fermented kombucha and kefir, argued for** — Is kombucha BS? (`cve2_kOLN0M`)
@@ -13394,6 +13524,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 **local produce (apples, chard, cruciferous vegetables, mushrooms)** — Is This The Best Butcher Shop In Texas? (`jhr-imd1HYI`)
 
 **local, raw, organic, glyphosate-free honey** — Eat this to increase testosterone and improve insulin sensitivity #health (`7MqjC_jK_3Q`)
+
+**low-glycemic-index and reduced-quantity carbohydrate intake (specifically ≤20% of total calories for 4+ days), framed as a lever on insulin and alpha-2 receptor activity rather than as a general "clean eating" principle** — The Stubborn Fat Solution (`the-stubborn-fat-solution`)
 
 **lucerna weight-loss shake — water, milk protein concentrate, canola oil, and corn oil among the top ingredients** — Weight LOSS shakes = weight GAIN?? (`1REyE7PeCUY`)
 
@@ -13494,6 +13626,10 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 **meat, organs, fruit, honey, raw dairy, offered as the preferred diet** — Vegetables DO NOT contain antioxidants… (`D6XQTMoVevw`)
 
 **meat, organs, raw cheese, raw butter, raw milk, fruit, and local raw organic honey (the current animal-based diet)** — I had to quit carnivore… (`3KZ6hTSvMW4`)
+
+**medium-chain triglycerides (mcts) and diglycerides (dgs, commercial name enova oil), proposed as dietary fat substitutes that bypass storage in stubborn lower-body fat because they are processed through the liver rather than the lymphatic system** — The Stubborn Fat Solution (`the-stubborn-fat-solution`)
+
+**medium-chain triglycerides (mcts), diacylglycerol/dag oil (brand name enova), and coconut oil, proposed as the preferred fat sources during the low-carbohydrate phase because they reach the liver faster than standard long-chain dietary fat and are used for energy ahead of the body's own stored fat** — The Ultimate Diet 2.0 (`the-ultimate-diet-2-0`)
 
 **milk, orange juice, meat, heart, and coconut water as magnesium sources** — Best foods for magnesium deficiency and sleep (`9inc4BTjYAc`)
 
@@ -14069,6 +14205,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **watermelon juice, mango puree, local glyphosate-free honey, raw goat milk/yogurt/kefir, apples, cantaloupe, cucumber, raw butter, ground heart, ground beef, skirt steak, liver, bones for bone broth, heart, lime, coconuts, oranges, tallow, capers, and raw chicken (fed to his dog)** — Animal-based fridge tour in Costa Rica (`B3O_OfrgFWs`)
 
+**weekend carbohydrate loading targeted at roughly 4-5 g/kg lean body mass on the heavy "power" training day, tapering down through sunday, with the explicit caveat that muscle glycogen storage caps around 16 g/kg (more carbohydrate beyond that is "neither necessary nor beneficial")** — The Ultimate Diet 2.0 (`the-ultimate-diet-2-0`)
+
 **wheat, oats, crackers, and bread (representing the usda's six daily grain servings), contrasted with fruit, honey, and raw milk as preferred carbohydrate sources** — USDA carb recommendations vs mine (`BQhI1Q0aEi8`)
 
 **whey protein in a post-surf smoothie** — My protocol for longevity (`4qSA3X2GeMo`)
@@ -14095,13 +14233,2467 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **zyn and other nicotine pouches** — Everyone's Taking Nicotine. Almost Everyone's Doing It Wrong. (`JshTM15bqVI`)
 
+**{'a specific low-carbohydrate-day meal structure': 'protein 1-1.5 g/lb lean body mass (casein/whey blend or whole-food protein preferred over liquid-only for satiety), carbohydrate ≤20% of calories (50-100g/day), the remainder as fat, 3-4 meals/day rather than 6'}** — The Ultimate Diet 2.0 (`the-ultimate-diet-2-0`)
+
+**{'the thursday-night and saturday pre-workout "priming" feeding': '~25-30g carbohydrate with ~15g whey protein (plus optional creatine) 30-60 minutes before training, used specifically to shift the body out of a low-carbohydrate state and support the workout'}** — The Ultimate Diet 2.0 (`the-ultimate-diet-2-0`)
+
 ---
 
 ## No transcript available — link only, not cited
 
 No caption track could be extracted for these (a YouTube limitation, not necessarily an absence of dialogue), so there's no transcript to anchor a claim against. They aren't sourced or fact-checked against anything here — just links, for watching directly.
 
+- [1170 cals of chick-fil-A: Which one are you picking?](https://www.youtube.com/watch?v=KhyK_UymuOs) (00:18)
+- [14 year old kid drinks raw milk!?](https://www.youtube.com/watch?v=INz6RrG4C9g) (01:05)
+- [1600 calories from healthy vs processed foods](https://www.youtube.com/watch?v=dOnDM5NpECs) (01:00)
+- [20 years old McDonald’s!?](https://www.youtube.com/watch?v=nxVQf7TkRUQ) (00:59)
+- [3 Airport Travel Hacks!](https://www.youtube.com/watch?v=XLfXYfxZkZU) (00:42)
+- [3 Animal-Based Breakfasts](https://www.youtube.com/watch?v=KQ071pHCyto) (01:00)
+- [3 foods that make you hungrier](https://www.youtube.com/watch?v=rlLasti3CcQ) (01:00)
+- [3 foods to combat hair loss](https://www.youtube.com/watch?v=ZumgNd3i4Z8) (00:56)
+- [3 more kitchen hacks](https://www.youtube.com/watch?v=21H9kSOW2iQ) (00:59)
+- [3 reasons to eat more red meat](https://www.youtube.com/watch?v=vqY6QyV_IlI) (00:57)
+- [4 healthy kitchen hacks](https://www.youtube.com/watch?v=riMeEh2kAMo) (01:22)
+- [4 Ways to Optimize your Testosterone, Naturally](https://www.youtube.com/watch?v=k7xR5DfRXp8) (00:55)
+- [4 worst items in your kitchen…](https://www.youtube.com/watch?v=wm3W_QP5RmM) (01:10)
+- [45 and Thriving!!](https://www.youtube.com/watch?v=UNaIf0rpQJ8) (00:56)
+- [4th of July grilling hacks](https://www.youtube.com/watch?v=gtXZNWhLqiI) (00:48)
+- [4th of July grilling hacks](https://www.youtube.com/watch?v=pxtJyNCvoOc) (00:48)
+- [5 biggest sources of microplastics](https://www.youtube.com/watch?v=lRM79Vxo8pA) (01:29)
+- [5 foods you wouldn't expect to have added processed sugars.](https://www.youtube.com/watch?v=pttJzgqFBWg) (01:00)
+- [5 Surprising Side Effects of Eating Meat for Women](https://www.youtube.com/watch?v=9J6_qoYqkSo) (00:23)
+- [5 ways to increase vitamin D naturally](https://www.youtube.com/watch?v=k4f8CZ92rZ4) (01:07)
+- [550 calorie muffin vs 550 calorie beef burger](https://www.youtube.com/watch?v=qQYC7go0XUE) (00:35)
+- [750 calories in both?!](https://www.youtube.com/watch?v=FFmN7Cq7m5c) (00:56)
+- [850 calories: which will you eat?](https://www.youtube.com/watch?v=sI_4oAoJpfI) (00:18)
+- [92% of oat-based foods are contaminated](https://www.youtube.com/watch?v=Wz7r6Rvuq6M) (00:50)
+- [@hubermanlab is so right about this…](https://www.youtube.com/watch?v=fUFjScdh6tw) (00:59)
+- [A bucket of seed oils??](https://www.youtube.com/watch?v=ShEs887Fbsk) (00:40)
+- [A calorie is NOT a calorie…](https://www.youtube.com/watch?v=OgG4WJqJ1Lc) (00:42)
+- [A day in my life (traveling edition)](https://www.youtube.com/watch?v=yLmjZwlFKgY) (00:59)
+- [A day in my life in Costa Rica](https://www.youtube.com/watch?v=55hOAvJh-Iw) (01:00)
+- [A day in my life in the mountains](https://www.youtube.com/watch?v=DrnPTp2m3Ek) (00:55)
+- [A Day of Eating in 60 Seconds](https://www.youtube.com/watch?v=fpDX5D9RnEU) (01:00)
+- [A day of eating in Costa Rica: POV Edition](https://www.youtube.com/watch?v=jt4N09NH68Y) (00:49)
+- [A lot of corn for a little seed oil 🌽](https://www.youtube.com/watch?v=tb9rTsZwCAI) (00:52)
+- [Acne? Fix your diet!](https://www.youtube.com/watch?v=FH-PaE66F7U) (00:59)
+- [Add ORGANS to your diet](https://www.youtube.com/watch?v=eNP2SSw0M2Q) (00:52)
+- [Affordable grass-fed meat at Sam's Club!](https://www.youtube.com/watch?v=B1iDumoCaOI) (00:42)
+- [Afraid of ticks? Use this natural repellent](https://www.youtube.com/watch?v=m2EBxK7WAZ4) (00:42)
+- [Alcohol is a toxin…](https://www.youtube.com/watch?v=z1ub7PfX22o) (00:42)
+- [Alcohol is Poison!](https://www.youtube.com/watch?v=2ARPAsZK41c) (00:54)
+- [Alcohol is poison!](https://www.youtube.com/watch?v=nwZ_ZceHYu0) (00:50)
+- [Almond milk vs. raw milk](https://www.youtube.com/watch?v=83AYM5srCLk) (00:57)
+- [Almond milk vs. raw milk](https://www.youtube.com/watch?v=YB1DyU0JQY8) (00:59)
+- [Am I wrong?](https://www.youtube.com/watch?v=qQNL9STqTm4) (00:57)
+- [Amazing carnivore diet transformation](https://www.youtube.com/watch?v=BEv9zXQ4Uoc) (00:52)
+- [American bread vs Real bread](https://www.youtube.com/watch?v=azfzvdyrd9s) (00:50)
+- [American bread vs real bread](https://www.youtube.com/watch?v=dizLqGu_TUI) (00:49)
+- [American cheese isn’t real cheese!?](https://www.youtube.com/watch?v=goFfEyxgmR0) (01:00)
+- [American foods vs European food](https://www.youtube.com/watch?v=EP5aZZFIsQU) (00:59)
+- [Americans deserve better…](https://www.youtube.com/watch?v=oE_xMOtNAF0) (01:11)
+- [An animal-based diet is optimal for humans](https://www.youtube.com/watch?v=e-KTjQyZNvQ) (00:15)
+- [Ancestral living is so powerful. Full episode with my buddy Liver King on my channel.](https://www.youtube.com/watch?v=TxYru42yi0o) (00:47)
+- [And cigarettes are legal 🤯](https://www.youtube.com/watch?v=sd1ZzWn3kW8) (00:50)
+- [Animal-based = most optimal diet](https://www.youtube.com/watch?v=Cm2PRVJ6OXM) (00:57)
+- [Animal-based affordably at Walmart](https://www.youtube.com/watch?v=jXTYIPHe28Y) (00:47)
+- [Animal-based at Sam’s Club](https://www.youtube.com/watch?v=BfjJmEqX9Og) (00:51)
+- [Animal-based at Trader Joe’s](https://www.youtube.com/watch?v=ge59cdQOKtI) (00:52)
+- [Animal-Based at Whole Foods](https://www.youtube.com/watch?v=AcTJJxzkoGo) (00:50)
+- [Animal-based day of eating in Costa Rica](https://www.youtube.com/watch?v=am6oFhtgY9U) (00:52)
+- [Animal-based day of eating!](https://www.youtube.com/watch?v=ne-0X9uj2ew) (00:54)
+- [Animal-based diet = optimal health](https://www.youtube.com/watch?v=iT7DxpR8IJY) (00:59)
+- [Animal-based diet = vegan??](https://www.youtube.com/watch?v=C7QTb1cpLK8) (00:57)
+- [Animal-based diet for less than $15/day](https://www.youtube.com/watch?v=UNEOijq-Z5I) (00:59)
+- [Animal-based diet on a 9-5 office job](https://www.youtube.com/watch?v=jdfqmtp9iko) (00:50)
+- [Animal-based diets are sexy](https://www.youtube.com/watch?v=2fGij-Ipb3k) (00:49)
+- [Animal-based diets will eliminate cravings](https://www.youtube.com/watch?v=SATM3VJyVYc) (00:54)
+- [Animal-based drinks at 7/11](https://www.youtube.com/watch?v=IZwzvoVPh5o) (00:40)
+- [Animal-based drive-thru?](https://www.youtube.com/watch?v=FSYY1nAOdV8) (00:49)
+- [Animal-Based for $10 a Day!](https://www.youtube.com/watch?v=dKTUVGDjKj0) (00:59)
+- [Animal-based fridge tour](https://www.youtube.com/watch?v=eRy9eX4Gc3U) (00:56)
+- [Animal-based fridge tour in Costa Rica](https://www.youtube.com/watch?v=B3O_OfrgFWs) (00:59)
+- [Animal-based grocery haul in LA 🥩🍍](https://www.youtube.com/watch?v=FbwG7MXLGYA) (00:59)
+- [Animal-based haul after landing in Miami](https://www.youtube.com/watch?v=vuKMPPNGo9o) (00:56)
+- [Animal-based haul at Lazy Acres 🥩🥛🍌](https://www.youtube.com/watch?v=gSb3HwItw3I) (00:37)
+- [Animal-based haul at Sprouts 🥩🥛🍇](https://www.youtube.com/watch?v=Z3zT8KN6dtg) (00:45)
+- [Animal-based haul at Trader Joe’s](https://www.youtube.com/watch?v=zbUh-a2W2QU) (00:59)
+- [Animal-based haul for $10/day](https://www.youtube.com/watch?v=RBGXQaUzofU) (00:59)
+- [Animal-based in one of the most expensive zip codes](https://www.youtube.com/watch?v=iCC4PCgItt4) (00:59)
+- [Animal-based is the ultimate anti-inflammatory diet!](https://www.youtube.com/watch?v=M4e58dWnc7w) (01:00)
+- [Animal-based pasta recipe](https://www.youtube.com/watch?v=6XGZNFokY4U) (01:00)
+- [Animal-based restaurant in Texas](https://www.youtube.com/watch?v=2E5Tp_TzyTU) (00:53)
+- [Animal-based Shake Shake Recipe](https://www.youtube.com/watch?v=L8C5ye1-NF4) (00:51)
+- [Animal-based smoothie recipe](https://www.youtube.com/watch?v=oxz7-029aSU) (01:09)
+- [Animal-based Sprouts Haul: POV Edition](https://www.youtube.com/watch?v=DmQ0-EzyM-U) (00:58)
+- [Animal-based sunscreen recipe](https://www.youtube.com/watch?v=TpFEYHwMJtI) (01:00)
+- [Animal-based while traveling](https://www.youtube.com/watch?v=vQ4BVs3X-bM) (00:45)
+- [Animal-based Whole Foods grocery haul](https://www.youtube.com/watch?v=Qf-Zumc3ZO0) (00:51)
+- [Animals do not contain defense chemicals, but plants do!](https://www.youtube.com/watch?v=BAY_Uj9DLkA) (00:53)
+- [Another plant-based marketing scam...](https://www.youtube.com/watch?v=0Kmt0TtD5II) (00:46)
+- [Are AirPods microwaving your brain?](https://www.youtube.com/watch?v=nROLiEt7qs8) (00:45)
+- [Are beans BS??](https://www.youtube.com/watch?v=TKeyH_8s7mA) (00:55)
+- [Are Brita water filters BS?!](https://www.youtube.com/watch?v=GshOUKdb9P0) (00:53)
+- [Are eggs the best shampoo? #animalbased #health](https://www.youtube.com/watch?v=-tnWOdPGuUA) (00:58)
+- [Are fruit and honey causing diabetes?](https://www.youtube.com/watch?v=Ts9rm4tTC18) (00:58)
+- [Are greens powders healthy?](https://www.youtube.com/watch?v=ffCOXtVuxVQ) (00:46)
+- [Are humans broken??](https://www.youtube.com/watch?v=4a4G5Uhqx5c) (00:40)
+- [Are LED lights disrupting your circadian rhythm?](https://www.youtube.com/watch?v=AJDJ9MnmooQ) (01:01)
+- [Are mushroom extracts safe?](https://www.youtube.com/watch?v=-KBaMy_PX-E) (00:49)
+- [Are pasture-raised eggs healthier?](https://www.youtube.com/watch?v=qTIEcQCdkXQ) (00:47)
+- [Are peptides healthy?](https://www.youtube.com/watch?v=5_-OJCuwE9o) (01:19)
+- [Are phthalates shrinking penises??](https://www.youtube.com/watch?v=DLkK4r37qLU) (01:00)
+- [Are plant-based companies waking up?](https://www.youtube.com/watch?v=mDpL3iHtaw8) (00:45)
+- [Are saturated fats causing heart disease?](https://www.youtube.com/watch?v=a49gJwAf1yo) (00:48)
+- [Are seed oils responsible for most chronic illnesses?](https://www.youtube.com/watch?v=O-qBzLg5Zzs) (01:00)
+- [Are seed oils “heart healthy”?](https://www.youtube.com/watch?v=VeQkcv8v3gA) (00:27)
+- [Are these heart healthy?](https://www.youtube.com/watch?v=BcP-ZG30etE) (00:31)
+- [Are they profiting off of sick patients?](https://www.youtube.com/watch?v=S8hUT83WsGg) (01:26)
+- [Are vegetarian diets healthy for pregnancy?](https://www.youtube.com/watch?v=macG8Nc_Jx0) (01:03)
+- [Are we about to go extinct?](https://www.youtube.com/watch?v=W8wXAjMQveo) (01:01)
+- [Are we being poisoned!?](https://www.youtube.com/watch?v=XicVMPLIYGo) (01:06)
+- [Are we being poisoned?](https://www.youtube.com/watch?v=uIE-0x1dpsg) (01:00)
+- [Are we curing cancer?](https://www.youtube.com/watch?v=yLKulEdvBMU) (00:57)
+- [Are wireless headphones safe?](https://www.youtube.com/watch?v=Xy5MBeCj-UE) (00:49)
+- [Are you carrying it in your pocket?](https://www.youtube.com/watch?v=L96jBEnyTcg) (00:39)
+- [Are you cooking with aluminum foil?](https://www.youtube.com/watch?v=OuhnMMdbpZI) (00:48)
+- [Are you drinking plastic?](https://www.youtube.com/watch?v=bUuSc5ScCGA) (00:53)
+- [Are you eating enough protein?](https://www.youtube.com/watch?v=QlbB8XcLQf4) (00:48)
+- [Are you eating liver yet?](https://www.youtube.com/watch?v=JC32TuPOvrQ) (00:32)
+- [Are you eating plastic!?](https://www.youtube.com/watch?v=es5kIpecHKs) (00:33)
+- [Are you getting enough zinc?](https://www.youtube.com/watch?v=IBuwVhcPgM4) (01:14)
+- [Are You Self-Medicating with Food?](https://www.youtube.com/watch?v=AitX6UipzXA) (00:48)
+- [Are you still eating Doritos?](https://www.youtube.com/watch?v=ZUlY46H-mYM) (01:01)
+- [Are you still touching receipts?](https://www.youtube.com/watch?v=0A8xig3pYcw) (00:51)
+- [Are you still using AirPods?](https://www.youtube.com/watch?v=MpcyS5oAKTk) (00:49)
+- [Are you taking enough creatine?](https://www.youtube.com/watch?v=XIsTihPoCLw) (01:20)
+- [Are you taking fish oil? Beware of this…](https://www.youtube.com/watch?v=rTqQN1Yja00) (00:59)
+- [Are you the best version of yourself?](https://www.youtube.com/watch?v=LFCTllHo-RM) (00:29)
+- [Are you thriving??](https://www.youtube.com/watch?v=eH7uiHsMgCU) (00:57)
+- [Are you using a Brita filter?](https://www.youtube.com/watch?v=eCxsN61CVII) (00:54)
+- [Are you using non-stick pans?](https://www.youtube.com/watch?v=6kRodIeJvIQ) (00:45)
+- [Are you wearing polyester underwear?](https://www.youtube.com/watch?v=iUCwDL7RFrw) (01:12)
+- [Arrested for raw milk?](https://www.youtube.com/watch?v=YEhS-FoNIxU) (00:50)
+- [Avocados = seed oils??](https://www.youtube.com/watch?v=Ed0E5qX9wWg) (00:56)
+- [Avoid artificial sweeteners](https://www.youtube.com/watch?v=Ix_EXUPN4pY) (00:57)
+- [Avoid folic acid…](https://www.youtube.com/watch?v=_vfOaxaK8Gg) (00:43)
+- [Avoid plastic baby bottles at all costs](https://www.youtube.com/watch?v=zAAMo95hjRg) (01:13)
+- [Avoid restaurants that use seed oils](https://www.youtube.com/watch?v=J-sI8V4Q4No) (00:48)
+- [Avoid seed oils and processed sugar for HPB](https://www.youtube.com/watch?v=YF3r99ZdMkM) (00:53)
+- [Avoid the FAT TRIAD](https://www.youtube.com/watch?v=oCKwQtsuw98) (00:57)
+- [Avoid the ROOTS of plants!](https://www.youtube.com/watch?v=f9W2U_r5ixk) (00:59)
+- [Avoid these candles at all costs](https://www.youtube.com/watch?v=ngxDqptk4Mw) (00:58)
+- [Avoid these cinnamon brands!](https://www.youtube.com/watch?v=1JQBKwsPaCI) (00:45)
+- [Avoid these fake health foods](https://www.youtube.com/watch?v=mf72QwEYG9A) (00:45)
+- [Avoid these items in your bathroom](https://www.youtube.com/watch?v=5RfmBJFnJ6o) (01:08)
+- [Avoid these kitchen items](https://www.youtube.com/watch?v=kwX8GQS1NBE) (00:36)
+- [Avoid these personal care products at all costs](https://www.youtube.com/watch?v=wlFIDWndvP8) (00:50)
+- [Avoid these “healthy” brands at all costs](https://www.youtube.com/watch?v=1zNYieUeXUc) (01:01)
+- [Avoid “LOW CALORIE” products](https://www.youtube.com/watch?v=oScxljbKBWg) (01:00)
+- [Baking soda hack to clean produce](https://www.youtube.com/watch?v=nu2XlLWJZZA) (00:59)
+- [Baking soda is the best](https://www.youtube.com/watch?v=JjGVIWDF2Cs) (00:49)
+- [Baking soda kitchen hack](https://www.youtube.com/watch?v=LmQq2KIGKx8) (01:00)
+- [Be careful with coffee…](https://www.youtube.com/watch?v=r9EMTy1azW0) (00:34)
+- [Be careful with olive oil](https://www.youtube.com/watch?v=F1D1d1L4B5U) (00:50)
+- [Be careful with shredded cheese](https://www.youtube.com/watch?v=Uz10ybcIiJw) (00:59)
+- [Beating Crohn's with meat & fruit](https://www.youtube.com/watch?v=-soqLhiSiLw) (01:02)
+- [Beef + fruit = thrive](https://www.youtube.com/watch?v=r1YX7xzVGdY) (01:00)
+- [Beef is NOT the problem..](https://www.youtube.com/watch?v=NsldzDNukCg) (00:59)
+- [Beef liver won the Nobel Prize in Medicine](https://www.youtube.com/watch?v=MOMecbviBzU) (00:58)
+- [Beef tallow on your face???](https://www.youtube.com/watch?v=iQ2hXXSQ4GM) (00:21)
+- [Being in nature positively changes your brain chemistry!](https://www.youtube.com/watch?v=MHTwSRP_cjU) (00:57)
+- [Best breakfast for brain health and energy](https://www.youtube.com/watch?v=rTBPV1DkRCA) (00:35)
+- [Best burger ever](https://www.youtube.com/watch?v=7GomN1xISUs) (00:59)
+- [Best cut of steak for collagen?](https://www.youtube.com/watch?v=kktHVCPeXAE) (00:53)
+- [Best food for heart health?](https://www.youtube.com/watch?v=rkFASSeIQZ0) (00:49)
+- [Best foods at a GAS STATION](https://www.youtube.com/watch?v=IkewbDbv1dY) (00:45)
+- [Best foods for magnesium deficiency and sleep](https://www.youtube.com/watch?v=9inc4BTjYAc) (00:53)
+- [Best hydration hack while traveling](https://www.youtube.com/watch?v=qz0pBIa2r7g) (00:49)
+- [Best traveling HACK ✈️🥥](https://www.youtube.com/watch?v=IuhqZ3d9ex4) (00:32)
+- [Best way to boost your testosterone..](https://www.youtube.com/watch?v=qjIKsizQK7Q) (00:47)
+- [Best way to eat a steak?](https://www.youtube.com/watch?v=SQjNcsSWKMk) (00:55)
+- [Best way to eat tomatoes](https://www.youtube.com/watch?v=EpWlIWT45rs) (00:13)
+- [Beware of aluminum cans 😳](https://www.youtube.com/watch?v=T230QObkuz4) (00:53)
+- [Beware of candles](https://www.youtube.com/watch?v=d1OMdDKXFo0) (00:54)
+- [Beware of dishwashing detergents](https://www.youtube.com/watch?v=bJHYBkj7sZs) (00:58)
+- [Beware of greens powders…](https://www.youtube.com/watch?v=806L9lRWCZs) (01:03)
+- [Beware of Lululemon](https://www.youtube.com/watch?v=yUKxs2joIjM) (00:48)
+- [Beware of paper cups…](https://www.youtube.com/watch?v=uWW5VVwzM14) (01:18)
+- [Beware of vitamin D supplements](https://www.youtube.com/watch?v=9UOxANBvYkI) (00:56)
+- [Beware of Wi-Fi routers…](https://www.youtube.com/watch?v=dQrSTdjvbKM) (01:00)
+- [Beware of “Coconut Oil” SPRAY](https://www.youtube.com/watch?v=9lxMdEPIz0E) (00:34)
+- [Big fish are full of heavy metals…](https://www.youtube.com/watch?v=GUzUddx9UF0) (01:00)
+- [Big food experimenting on human brain?](https://www.youtube.com/watch?v=LFMevNfEE-4) (00:52)
+- [Big pharma funds most research…](https://www.youtube.com/watch?v=1xtf1TYfK4s) (00:54)
+- [Bill Gates said what!?](https://www.youtube.com/watch?v=JHD_0fAN3cs) (01:05)
+- [Black truffle oil = vegetable oil 🤯](https://www.youtube.com/watch?v=CrUOEf4CQts) (00:25)
+- [Blue Zones eat meat?!?](https://www.youtube.com/watch?v=AYy5vyHlYn0) (00:56)
+- [Blue Zones... Fact or fiction?](https://www.youtube.com/watch?v=HHZ3CDsvjSg) (00:59)
+- [Bodyweight exercise is my favorite.. 💪](https://www.youtube.com/watch?v=_JljWWlVUlU) (00:12)
+- [Bone broth in NYC!](https://www.youtube.com/watch?v=r09-AVmKLdU) (00:36)
+- [Bone marrow is amazing](https://www.youtube.com/watch?v=gIhzp5RUxSU) (00:39)
+- [Bone marrow is so good for you](https://www.youtube.com/watch?v=puGlv-qjtPY) (00:43)
+- [Bone marrow is so nutritious](https://www.youtube.com/watch?v=FAIuPGlF8zU) (00:47)
+- [Boost your kids immune system](https://www.youtube.com/watch?v=9HiO21TYJ98) (00:57)
+- [Bryan Johnson changed his mind?](https://www.youtube.com/watch?v=mSvfB-PZawQ) (01:03)
+- [Burger King’s secret ingredient](https://www.youtube.com/watch?v=Jd0Gufmo9Tg) (00:43)
+- [Butter can heal your gut](https://www.youtube.com/watch?v=yyvIIz_1qgE) (00:43)
+- [Butter is a health food](https://www.youtube.com/watch?v=8hqhEPi4ikM) (00:21)
+- [Butter Vs Ghee… What’s the difference? #animalbased #health #dairyproducts #animalbaseddiet](https://www.youtube.com/watch?v=Voacn0f73eM) (00:52)
+- [Butter vs seed oils: which is healthier?](https://www.youtube.com/watch?v=Ct1WGvweVrA) (01:00)
+- [Calling out McDonalds…](https://www.youtube.com/watch?v=0k7hotNMGVI) (00:59)
+- [Calories are NOT￼ created equally](https://www.youtube.com/watch?v=FI74itwJhN8) (00:54)
+- [Calories in, calories out is not a long term solution for weight loss](https://www.youtube.com/watch?v=fgn6uww_GrM) (00:45)
+- [Can women do an animal based diet??](https://www.youtube.com/watch?v=bUy2EaaUTwM) (00:56)
+- [Can you build muscle with plant protein?](https://www.youtube.com/watch?v=WaHdWoQOP10) (00:57)
+- [Can you detox from fluoride?](https://www.youtube.com/watch?v=wMbZw3ctxaw) (00:37)
+- [Can you detox from fluoride? Here is how to do it](https://www.youtube.com/watch?v=cfWPcNAVRMI) (01:00)
+- [Can you heal yourself?](https://www.youtube.com/watch?v=IcNhbqOoZ7I) (00:18)
+- [Can’t afford organic? Try this hack…](https://www.youtube.com/watch?v=JPe-r7AzbRI) (01:00)
+- [Can’t afford organic? Try this!](https://www.youtube.com/watch?v=3eX-8Mm39ho) (00:59)
+- [Cardio does not = weight loss](https://www.youtube.com/watch?v=iQ_bhxIPGEI) (00:45)
+- [CarnivoreMDonald’s](https://www.youtube.com/watch?v=aL4lSn6_i2Y) (00:48)
+- [Celery = sunburn??](https://www.youtube.com/watch?v=bCSjz8TVhTY) (00:33)
+- [Celsius energy drink = artificial sweeteners](https://www.youtube.com/watch?v=wr9mSOKIkv4) (00:49)
+- [Change your life in 30 days](https://www.youtube.com/watch?v=incqQINgMEo) (00:56)
+- [Change your life in 30 days!](https://www.youtube.com/watch?v=X1vAmJTD19Q) (00:59)
+- [Change your life with these 3 things](https://www.youtube.com/watch?v=DFr3cW-Q_lQ) (00:39)
+- [Cheat days are a scam](https://www.youtube.com/watch?v=MjWmLz88aNk) (00:37)
+- [Cheese does what?!](https://www.youtube.com/watch?v=TJtY8-5h_pY) (01:00)
+- [Cheese is a health food: here is why](https://www.youtube.com/watch?v=jGCxzZtqOtM) (01:00)
+- [Cheese is a longevity food!](https://www.youtube.com/watch?v=GSaGEGYMg-s) (00:34)
+- [Cheese is good for you](https://www.youtube.com/watch?v=bUJeEZkDggw) (00:55)
+- [Cheesecake Factory = seed oils??](https://www.youtube.com/watch?v=bGAaZYLgMGo) (00:56)
+- [Chia seeds don’t want to be eaten](https://www.youtube.com/watch?v=f0Zw8j7a0KY) (00:59)
+- [Chick-fil-A = seed oils](https://www.youtube.com/watch?v=koFtA_6u0k0) (00:57)
+- [Chick-fil-A’s FAKE chicken sandwich?](https://www.youtube.com/watch?v=Bf2pzWcyy5U) (00:51)
+- [Chicken or beef: Which one is healthier?](https://www.youtube.com/watch?v=AYYIth4Lehc) (00:38)
+- [Chicken vs quail eggs: what’s the difference?](https://www.youtube.com/watch?v=bRFGXrgSFqE) (00:38)
+- [Chipotle should change its cooking oil](https://www.youtube.com/watch?v=XIq2pJPhtdo) (00:52)
+- [Chocolate covered almonds vs. eggs](https://www.youtube.com/watch?v=93GIcexPCSQ) (00:59)
 - [Clavicular and Paul Saladino FULL Live Stream](https://www.youtube.com/watch?v=r4XBZSvBm2c) (228:41)
+- [Clean your home toxin-free!](https://www.youtube.com/watch?v=6D5UwxD6ufU) (00:51)
+- [Climbing pump hits different… 💪](https://www.youtube.com/watch?v=xRvUCr6Cs2E) (00:24)
+- [Coconut oil is the best plant fat](https://www.youtube.com/watch?v=dfNxRQ766ic) (00:17)
+- [Coconuts are tricky…](https://www.youtube.com/watch?v=7Xnv5U3QUG0) (01:00)
+- [Coffee could impair sleep cycles](https://www.youtube.com/watch?v=tome3yZ2qMY) (00:54)
+- [Collagen is amazing for you: homemade bone broth #animalbased #health](https://www.youtube.com/watch?v=IMETkCp7zgQ) (01:00)
+- [Cooking Oils 101: Do not cook with these oils](https://www.youtube.com/watch?v=TJBhbgIKio0) (01:00)
+- [Cooking with avocado oil??](https://www.youtube.com/watch?v=qNj4BA3fURU) (00:39)
+- [Corn Flakes = Libido Killer](https://www.youtube.com/watch?v=03TghQRGA34) (00:59)
+- [Corruption in the food industry](https://www.youtube.com/watch?v=nyo3x-z0Hfg) (00:25)
+- [Could broccoli be harmful for you?](https://www.youtube.com/watch?v=QaIvsqqaRSo) (00:58)
+- [Could eating steak prevent diabetes?](https://www.youtube.com/watch?v=raQMsEmcKm8) (00:59)
+- [Could red meat help you live longer?](https://www.youtube.com/watch?v=cFwRl-wwiHE) (00:54)
+- [Creatine = hair loss???](https://www.youtube.com/watch?v=70J4x4PLBVc) (01:15)
+- [Creatine Makes Vegans Smarter 💪](https://www.youtube.com/watch?v=RV9g-Maav_4) (01:00)
+- [Darker eggs yolks = more nutrition](https://www.youtube.com/watch?v=9GSE11FWmlc) (00:57)
+- [Debating about nutrition on TV](https://www.youtube.com/watch?v=s7rPjCr6cyY) (00:50)
+- [Dermatologists lied to you about the sun](https://www.youtube.com/watch?v=BjzSZ_2GBLY) (01:19)
+- [DEXA scan reveals “side effects” of red meat #animalbased](https://www.youtube.com/watch?v=ZgRoz60ugnc) (00:51)
+- [Diabetes is fixable!](https://www.youtube.com/watch?v=6H2g3TwrRak) (00:25)
+- [Diabetic improves on animal-based](https://www.youtube.com/watch?v=GWheYMsm8QY) (00:38)
+- [Diet Coke = anxiety??](https://www.youtube.com/watch?v=Qz06bo-1Qy8) (00:53)
+- [Diet Coke vs. Coke Zero](https://www.youtube.com/watch?v=zuQyKM-HL7o) (01:00)
+- [Diet heals Crohn's disease!?](https://www.youtube.com/watch?v=toU_EbUm6nQ) (01:13)
+- [Diet plays a big role in mental health](https://www.youtube.com/watch?v=aui30OPBfIA) (01:00)
+- [Diet Soda = Gut Damage](https://www.youtube.com/watch?v=U3Ec3xY4Hf8) (01:00)
+- [Diet vs. Exercise](https://www.youtube.com/watch?v=awas0fb9OC0) (00:55)
+- [Ditch your multivitamin and eat ORGANS](https://www.youtube.com/watch?v=thD3QKxHZQk) (01:00)
+- [Do I have cheat days?](https://www.youtube.com/watch?v=JX2SmkzfHsE) (00:32)
+- [Do not eat plant-based meat](https://www.youtube.com/watch?v=4SiN5j9t_qE) (00:52)
+- [Do not eat vegetables!!](https://www.youtube.com/watch?v=wQYEMOrTysg) (00:54)
+- [Do NOT fear CHOLESTEROL!](https://www.youtube.com/watch?v=ojVuVICofjk) (00:36)
+- [Do NOT fear saturated fats 🧈](https://www.youtube.com/watch?v=X8y8_Ud0CTk) (01:00)
+- [Do Not Fear the Sun! #shorts](https://www.youtube.com/watch?v=7IyFfrcWVOE) (00:41)
+- [Do NOT put mouthwash in your mouth](https://www.youtube.com/watch?v=uP_e8tOs_1Y) (00:57)
+- [Do plants give gorillas muscles??](https://www.youtube.com/watch?v=jyejpKsXKXk) (01:00)
+- [Do seed oils = chronic disease??](https://www.youtube.com/watch?v=63H-fH4aObk) (00:56)
+- [Do these 3 things](https://www.youtube.com/watch?v=HByQG8Uwsbg) (00:52)
+- [Do these 3 to improve sleep](https://www.youtube.com/watch?v=t5p-t-pfvqM) (00:34)
+- [Do this before eating rice](https://www.youtube.com/watch?v=7vBJReY94_U) (00:47)
+- [Do this to get healthy!](https://www.youtube.com/watch?v=zUo4I05hTG4) (00:49)
+- [Do this to improve sleep](https://www.youtube.com/watch?v=rJk9qSbOEWA) (00:55)
+- [Do this to increase creatine absorption](https://www.youtube.com/watch?v=2Bd1P5HWCnQ) (00:44)
+- [Do vegans kill the most animals?](https://www.youtube.com/watch?v=iJCgU-Lk0jI) (01:11)
+- [Do you drink tea?](https://www.youtube.com/watch?v=0SKnQbdum3o) (00:52)
+- [Do you know what Chick-fil-A stands for?](https://www.youtube.com/watch?v=xc19EK2K6LM) (00:59)
+- [Do. Not. Eat. Plants. Period. #health #shorts #carnivorediet](https://www.youtube.com/watch?v=-oXNqCb5Bgk) (00:48)
+- [Doctors aren't taught this..](https://www.youtube.com/watch?v=bBBHOpikDaM) (00:49)
+- [Doctors don’t have time…](https://www.youtube.com/watch?v=99VYlEXpaoA) (00:58)
+- [Doctors DON’T know THIS](https://www.youtube.com/watch?v=pHtpsR0zdnw) (00:21)
+- [Doctors don’t learn nutrition…](https://www.youtube.com/watch?v=iN4Aa3Z1bIM) (00:57)
+- [Doctors need to think about root cause](https://www.youtube.com/watch?v=DOHtXh24ZLk) (00:41)
+- [Does calories in vs calories out work?](https://www.youtube.com/watch?v=ttDlH90rfME) (00:26)
+- [Does cheese lower testosterone?](https://www.youtube.com/watch?v=K-F-rgomlb0) (01:12)
+- [Does Chick-Fil-A use seed oils?](https://www.youtube.com/watch?v=Vm5YFzpdax4) (00:54)
+- [Does fruit make us fat!?](https://www.youtube.com/watch?v=2jk2KgA1_Bw) (01:07)
+- [Does McDonald's cook burgers with seed oils?](https://www.youtube.com/watch?v=b9v_1Vgb6q0) (00:49)
+- [Does red meat cause cancer?](https://www.youtube.com/watch?v=C2ndS0rRFYI) (01:00)
+- [Does red meat cause diabetes?](https://www.youtube.com/watch?v=HRO1us-xI3E) (01:00)
+- [Does red meat cause gout?](https://www.youtube.com/watch?v=afCBg28LP-o) (01:00)
+- [Does your sea salt contain heavy metals?](https://www.youtube.com/watch?v=6MDK0epKwbM) (00:55)
+- [Dogs instinctually know kale is BS, and so do you!!](https://www.youtube.com/watch?v=teaUaH8R_yM) (00:42)
+- [Dogs know something we’ve forgotten](https://www.youtube.com/watch?v=2Yn9y-9qJYE) (00:07)
+- [Don't trust, Verify!](https://www.youtube.com/watch?v=dJyfMo9jvZ8) (00:53)
+- [Don’t buy Lululemon shorts until you hear this…](https://www.youtube.com/watch?v=viD8zw1LNUA) (00:58)
+- [Don’t buy THIS chicken](https://www.youtube.com/watch?v=-Oph4JSKHJk) (00:55)
+- [Don’t cook with avocado oil](https://www.youtube.com/watch?v=f5NeHPOpKxk) (00:45)
+- [Don’t fall for cage-free eggs](https://www.youtube.com/watch?v=EgOzasOGxgE) (00:50)
+- [Don’t fall for this!](https://www.youtube.com/watch?v=YVDoVHlY-7Q) (00:43)
+- [Don’t fall for this…](https://www.youtube.com/watch?v=LiBCPAw2zHI) (00:57)
+- [Don’t go to In-N-Out on Tuesday!](https://www.youtube.com/watch?v=F-VRVXBW2U4) (00:37)
+- [Don’t make this mistake when brushing your teeth](https://www.youtube.com/watch?v=83aQ93AoBUE) (00:47)
+- [Don’t make this mistake when buying chicken](https://www.youtube.com/watch?v=EPUmx2kp3QU) (00:46)
+- [Don’t make this mistake when buying sourdough bread](https://www.youtube.com/watch?v=79Ug7GsdICg) (00:59)
+- [Don’t make this mistake…](https://www.youtube.com/watch?v=oY8s7Q9e5_Q) (00:59)
+- [Don’t put your phone against your ear](https://www.youtube.com/watch?v=g2Q-3mYNCgI) (01:22)
+- [Don’t sleep next to your WiFi](https://www.youtube.com/watch?v=RilPBW-hfEM) (01:10)
+- [Drink this to minimize hangovers](https://www.youtube.com/watch?v=xuphoTP8c90) (00:21)
+- [Drinking from plastic bottles?](https://www.youtube.com/watch?v=VltOnHaQaDQ) (01:00)
+- [Drinking hack to avoid hangover](https://www.youtube.com/watch?v=sPqwGZttV44) (00:54)
+- [Dryer sheets are disrupting your hormones](https://www.youtube.com/watch?v=05nO24jkGdI) (00:51)
+- [Easiest way to lose weight](https://www.youtube.com/watch?v=iu66Y5vmIH8) (01:00)
+- [Easy healthy eggnog recipe](https://www.youtube.com/watch?v=qhBPkEjsIfM) (00:53)
+- [Easy homemade healthy air fresher](https://www.youtube.com/watch?v=dpVokEi5Ih0) (00:55)
+- [Eat 80/20 ground beef](https://www.youtube.com/watch?v=5gmNEqaxOEQ) (00:48)
+- [Eat animal fat to burn fat](https://www.youtube.com/watch?v=cjYv6ahzHOM) (00:29)
+- [Eat meat and move your body! 🥩💪](https://www.youtube.com/watch?v=nfgG6N5pkzM) (00:20)
+- [Eat MORE cheese for heart health #animalbased](https://www.youtube.com/watch?v=T8Mlb8UwFSg) (00:38)
+- [Eat these foods to improve gut health](https://www.youtube.com/watch?v=-TqUmZjq_fA) (00:41)
+- [Eat these foods to improve your gut health!](https://www.youtube.com/watch?v=Pm-TuyXPofo) (00:41)
+- [Eat these foods to reverse obesity](https://www.youtube.com/watch?v=hfnl1iE_FZs) (00:50)
+- [Eat this food to reverse aging](https://www.youtube.com/watch?v=5tuGZX1jqJo) (00:39)
+- [Eat this to increase testosterone](https://www.youtube.com/watch?v=raaqaXIEExQ) (01:00)
+- [Eat this to increase testosterone and improve insulin sensitivity #health](https://www.youtube.com/watch?v=7MqjC_jK_3Q) (00:33)
+- [Eat this to live to 100](https://www.youtube.com/watch?v=mzPq3HfB5N0) (00:51)
+- [Eating cheese as lactose intolerant? 🤯](https://www.youtube.com/watch?v=1IsQcNUqlUU) (00:58)
+- [Eating healthy is cheaper than you think](https://www.youtube.com/watch?v=R-RdFukkwOA) (00:07)
+- [Eating healthy is cheaper than you think](https://www.youtube.com/watch?v=mox6bORPil0) (01:00)
+- [Eating McDonald’s fries is like smoking cigarettes!?](https://www.youtube.com/watch?v=MfpXxrRNZ5Y) (00:53)
+- [Eating meat is like taking Ozempic?](https://www.youtube.com/watch?v=TnExId9Jz1Q) (00:40)
+- [Eating steaks keeps you warm?? 🤔](https://www.youtube.com/watch?v=PQWQ_LAE9vU) (00:57)
+- [Edible Biscuits Made Out of Plastic? Anything but Meat. Macroplastics Are SO On Brand for 2026x](https://www.youtube.com/watch?v=peLjFJ7fWOE) (01:10)
+- [Egg whites are BS](https://www.youtube.com/watch?v=1DqZjGFzWiE) (01:00)
+- [EMF blocking stickers!?](https://www.youtube.com/watch?v=ZPFWdabOICc) (01:12)
+- [EMFs are no joke!](https://www.youtube.com/watch?v=o40ouA7xPFQ) (00:58)
+- [Energy drinks?? Really?](https://www.youtube.com/watch?v=S06E9VYV7j4) (01:00)
+- [Erling Haaland diet for performance](https://www.youtube.com/watch?v=knE5-RBL3rE) (01:22)
+- [Europe bans nail polish ingredient!?](https://www.youtube.com/watch?v=TbmwPJZ0SuY) (01:25)
+- [Ex-Vegan now craves liver!](https://www.youtube.com/watch?v=2ZEbESKjM6k) (00:55)
+- [Fake "Meat", Real Problems](https://www.youtube.com/watch?v=XrE5ZkVMaDE) (01:00)
+- [Fake health foods at Whole Foods](https://www.youtube.com/watch?v=rmehLLkTS5A) (01:20)
+- [Farm raised salmon is disgusting!](https://www.youtube.com/watch?v=heQOmN3_HLM) (00:52)
+- [FARM raised vs. WILD caught fish](https://www.youtube.com/watch?v=L7I3RwzQCQ8) (00:51)
+- [Farm-raised salmon is a scam](https://www.youtube.com/watch?v=W3eZmGq89IM) (01:02)
+- [Farmed fish is NOT healthy](https://www.youtube.com/watch?v=KgqaiOj_sOo) (01:06)
+- [Farmers Market Haul In Costa Rica](https://www.youtube.com/watch?v=4D-XijuV-yE) (00:38)
+- [Fasting is overrated](https://www.youtube.com/watch?v=7BFLibkaf0Q) (00:48)
+- [FDA admits American cheese is fake cheese…](https://www.youtube.com/watch?v=zqANmNc5sHI) (00:54)
+- [FDA says eggs are healthy!?](https://www.youtube.com/watch?v=1Reg2wLQ0is) (01:21)
+- [Find and fix the root cause!](https://www.youtube.com/watch?v=2M_OUQ_siBY) (00:59)
+- [First meal after birth!?](https://www.youtube.com/watch?v=chg4zstCm7Y) (00:59)
+- [Five Guys burgers = no seed oils!!](https://www.youtube.com/watch?v=qf1BioFmgn8) (00:47)
+- [Food is information, choose wisely](https://www.youtube.com/watch?v=uC8SZ4GLDno) (00:21)
+- [Foods to strengthen and heal your joints… #animalbased](https://www.youtube.com/watch?v=Gun2sXSDU-s) (01:00)
+- [Fragrances are wrecking your hormones](https://www.youtube.com/watch?v=B9BwVxwh8Do) (01:00)
+- [Free red light therapy?](https://www.youtube.com/watch?v=_ml308XlY5g) (00:55)
+- [Free salt? 😳](https://www.youtube.com/watch?v=I0Pc0aGwBrM) (00:59)
+- [Friendly hang challenge](https://www.youtube.com/watch?v=4xR2uwsLi24) (01:19)
+- [Fruit and diabetes?](https://www.youtube.com/watch?v=QjhqDboV2W8) (00:50)
+- [Fruit is amazing](https://www.youtube.com/watch?v=BA_qmBoR6Eg) (01:00)
+- [Fruit is the only part of a plant I’ll eat](https://www.youtube.com/watch?v=gYtAuEG0F4w) (01:00)
+- [Fruit Loops = behavior issues in kids?](https://www.youtube.com/watch?v=alExqAdknZ0) (00:34)
+- [Fruit vs grains: which is better?](https://www.youtube.com/watch?v=qLC-78JBeJ0) (00:35)
+- [Full Day of Eating 2023 Update!](https://www.youtube.com/watch?v=-4eVclrit2o) (00:45)
+- [Gatorade causing inflammation?](https://www.youtube.com/watch?v=h4DJz4ySBA8) (00:50)
+- [Gatorade vs watermelon juice](https://www.youtube.com/watch?v=2ygBMqqIUnA) (00:55)
+- [Gatorade vs watermelon juice?](https://www.youtube.com/watch?v=EWRL1s1dsZ8) (00:55)
+- [Get in the sun!](https://www.youtube.com/watch?v=nMrPJ-VJa1E) (01:00)
+- [Get rid of those AirPods!](https://www.youtube.com/watch?v=9OKCnr0d4OM) (01:00)
+- [Girl Scout Cookies are poison](https://www.youtube.com/watch?v=dGtUzTYPvMs) (00:58)
+- [Glass bottles = microplastics?](https://www.youtube.com/watch?v=nSG37M-itrY) (01:20)
+- [Good food choices = good health](https://www.youtube.com/watch?v=THCQna1ngOk) (01:00)
+- [Grain-free flatbread recipe](https://www.youtube.com/watch?v=1Me-G4-HHJk) (00:58)
+- [Grass fed vs grain fed meat](https://www.youtube.com/watch?v=jrKOWqPySEo) (00:55)
+- [Grass-fed beef at Walmart](https://www.youtube.com/watch?v=U58YWlTgzFE) (00:15)
+- [Grass-fed butcher tour](https://www.youtube.com/watch?v=XSgtXoC3UAQ) (01:00)
+- [Grass-fed vs grain fed beef](https://www.youtube.com/watch?v=TobL4ee8oyk) (00:55)
+- [Greens powders are harmful?](https://www.youtube.com/watch?v=KrzykmjmjRc) (00:38)
+- [Grocery stores make me sick](https://www.youtube.com/watch?v=PbflpB2KcCU) (01:00)
+- [Grocery stores: modern hunting grounds for humans #animalbased](https://www.youtube.com/watch?v=9LLnNbuifkw) (00:52)
+- [Ground beef is a health hack](https://www.youtube.com/watch?v=IRRUJNFOkVc) (00:53)
+- [Ground beef is a health hack](https://www.youtube.com/watch?v=S5CLroO2LuE) (00:50)
+- [Ground beef is amazing](https://www.youtube.com/watch?v=8ayZ4__PiL0) (00:58)
+- [Ground beef without beef??](https://www.youtube.com/watch?v=3kge5IpJ7LQ) (00:40)
+- [Happy meal = diabetes](https://www.youtube.com/watch?v=QWPsOwDq2Ok) (01:00)
+- [Harvard says seed oils are healthier than butter](https://www.youtube.com/watch?v=ciWHpHt9_Jk) (01:00)
+- [Have you found the root cause of your gut issues?](https://www.youtube.com/watch?v=Zo_Bo696TM8) (00:35)
+- [He lost weight eating this!?](https://www.youtube.com/watch?v=JZhT_xg3yyQ) (01:03)
+- [Heal with an animal-based diet!](https://www.youtube.com/watch?v=O2Wn76_EHnM) (00:54)
+- [Heal yourself with an animal-based diet!](https://www.youtube.com/watch?v=nmwFHXHCb6o) (00:55)
+- [Healthiest food ever…](https://www.youtube.com/watch?v=SUPsYiJKEY4) (00:32)
+- [Healthiest protein bar in the world?](https://www.youtube.com/watch?v=AEA8LpaxBms) (00:44)
+- [Healthy deodorant recipe](https://www.youtube.com/watch?v=9TjU-2qfDmM) (01:18)
+- [Healthy foods now or hospital bills later](https://www.youtube.com/watch?v=gYGTGWW4uiI) (00:30)
+- [Healthy fruit shopping hack](https://www.youtube.com/watch?v=OujArJUj2b4) (00:24)
+- [Healthy grain-free flat bread recipe](https://www.youtube.com/watch?v=bqjNpMmvQp4) (00:58)
+- [Healthy ice cream recipe](https://www.youtube.com/watch?v=wIB8eqISvm4) (00:59)
+- [Healthy mouthwash recipe](https://www.youtube.com/watch?v=XYFd6_gwWio) (00:43)
+- [Healthy pasta recipe](https://www.youtube.com/watch?v=Up9rbiFJJGA) (01:00)
+- [Healthy snacks have sugar and seed oils…](https://www.youtube.com/watch?v=o0Wrri264iw) (00:57)
+- [Healthy soda recipe](https://www.youtube.com/watch?v=0uyoo3O9ELs) (00:59)
+- [Healthy soda recipe](https://www.youtube.com/watch?v=IQ4O6yxdIuY) (00:59)
+- [Here is how I would drink coffee…](https://www.youtube.com/watch?v=AM5vtp8_be8) (01:00)
+- [Here is the truth…](https://www.youtube.com/watch?v=n-80vuwHm_E) (00:36)
+- [Here’s my full day of animal-based eating](https://www.youtube.com/watch?v=jNGO1V9KlIk) (00:51)
+- [Here’s what I would order at Texas Roadhouse](https://www.youtube.com/watch?v=OAxME74cbQ0) (00:42)
+- [Here’s what I’ll feed my kids…](https://www.youtube.com/watch?v=ufgie5oGOSs) (00:54)
+- [Hidden benefits of liver](https://www.youtube.com/watch?v=FW8xPL_sNgg) (00:36)
+- [High protein cereals = FAKE “health” food](https://www.youtube.com/watch?v=4om5WTGJQGg) (00:42)
+- [Hollywood beauty secret??](https://www.youtube.com/watch?v=b3rUWH3-2RU) (00:31)
+- [Home gym in Costa Rica](https://www.youtube.com/watch?v=uM-_lgxfOGs) (01:17)
+- [Home gym tour in Costa Rica 💪](https://www.youtube.com/watch?v=nxYyytdZK7A) (01:00)
+- [Homemade animal-based sunscreen](https://www.youtube.com/watch?v=lHkyEepwMoU) (01:00)
+- [Homemade animal-based sunscreen recipe](https://www.youtube.com/watch?v=TgbcjpAKCaE) (01:00)
+- [Homemade ground beef with organs #animalbased](https://www.youtube.com/watch?v=3v4RzI6cDHc) (00:47)
+- [Homemade healthy air freshener](https://www.youtube.com/watch?v=4lDQrXfq3fA) (00:55)
+- [Homemade healthy ice cream recipe](https://www.youtube.com/watch?v=-uM5T3WjVvU) (00:59)
+- [Homemade non-toxic herbicide recipe](https://www.youtube.com/watch?v=f3TMNYr-Qeg) (00:58)
+- [Honey is definitely not BS](https://www.youtube.com/watch?v=vn4yF1UUtr4) (00:35)
+- [Hospital food = 💩](https://www.youtube.com/watch?v=wd4JnHoI0mo) (00:58)
+- [Hospitals = profits?? 💰](https://www.youtube.com/watch?v=aR_UbFkzdXg) (00:56)
+- [Hospitals serve junk food…](https://www.youtube.com/watch?v=_VxsifaNVAU) (00:23)
+- [How are these legal??](https://www.youtube.com/watch?v=XamtdeHVBLg) (00:45)
+- [How Canada convinced you to eat engine lubricant](https://www.youtube.com/watch?v=ZllfwuVgkXw) (01:59)
+- [How canola oil is made](https://www.youtube.com/watch?v=blqHuxlNAeI) (00:57)
+- [How I cut a pineapple](https://www.youtube.com/watch?v=5fsudhrzcWY) (00:51)
+- [How I healed from eczema and asthma](https://www.youtube.com/watch?v=P4c9USv7rV0) (00:39)
+- [How I recover so quickly 🤒](https://www.youtube.com/watch?v=03Rq-FSYdT0) (00:36)
+- [How I reversed chronic eczema](https://www.youtube.com/watch?v=KUwInRbNEFI) (00:44)
+- [How I shop for cheese](https://www.youtube.com/watch?v=6RidQTSm3hI) (00:58)
+- [How I shop for eggs at the farmers market](https://www.youtube.com/watch?v=Zb0O_8c2MKc) (00:57)
+- [How I shop for plant-based milk](https://www.youtube.com/watch?v=rXVe8Vy9cDQ) (00:33)
+- [How I use my iPhone safely](https://www.youtube.com/watch?v=dFKEpovWJ4k) (00:59)
+- [How I’d quit nicotine](https://www.youtube.com/watch?v=SwUk525EYxk) (01:02)
+- [How keto foods trick you](https://www.youtube.com/watch?v=PodUUXJTKok) (01:00)
+- [How long did our ancestors truly live?](https://www.youtube.com/watch?v=rMWwjjHkcA0) (01:09)
+- [How many calories in Crumbl cookies?](https://www.youtube.com/watch?v=VsNmyKi2EVA) (00:36)
+- [How many carbohydrates you should eat on an animal-based diet](https://www.youtube.com/watch?v=J9t3tKOtpyU) (00:56)
+- [How much EMF is in your Tesla?](https://www.youtube.com/watch?v=ie2BNhCN6Do) (01:27)
+- [How much liver to eat](https://www.youtube.com/watch?v=szDB7PXcq8M) (00:40)
+- [How much protein for longevity?](https://www.youtube.com/watch?v=5FePZo4twJM) (01:29)
+- [How much protein per meal?](https://www.youtube.com/watch?v=DC3LGdZGtrk) (01:21)
+- [How much protein should you eat?](https://www.youtube.com/watch?v=4HGVkRu_vbw) (00:48)
+- [How raw butter is made](https://www.youtube.com/watch?v=2uQW-UpB8Fo) (00:57)
+- [How raw cheese is made #animalbased](https://www.youtube.com/watch?v=noAACLJ92Ys) (00:53)
+- [How raw kefir is made - gut healing food #animalbased](https://www.youtube.com/watch?v=mXBW98oWfcA) (00:41)
+- [How Takis are made 😳](https://www.youtube.com/watch?v=8DNLBD47QWU) (00:46)
+- [How the healthcare system makes money](https://www.youtube.com/watch?v=CVeOS6xmvD0) (00:36)
+- [How to avoid microplastics in teabags](https://www.youtube.com/watch?v=KXAp2GOXyqo) (01:01)
+- [How to boost testosterone over 40](https://www.youtube.com/watch?v=kC1eH2tHngU) (01:24)
+- [How to build a strong immune system](https://www.youtube.com/watch?v=KCfXQ-NOBN4) (00:57)
+- [How to construct an animal-based diet](https://www.youtube.com/watch?v=xTYSwjbsyh0) (00:57)
+- [How to cook the best fried eggs](https://www.youtube.com/watch?v=cdnyfuoosfg) (00:55)
+- [How to cook the perfect steak](https://www.youtube.com/watch?v=9WR5wWZwrlQ) (00:45)
+- [How to detox from fluoride in tap water and toothpaste](https://www.youtube.com/watch?v=kjVia978VyQ) (00:57)
+- [How to detox microplastics](https://www.youtube.com/watch?v=U_wUI0IJK6M) (00:53)
+- [How to eat an animal-based diet whilst traveling #animalbased #animalbaseddiet #nutrition](https://www.youtube.com/watch?v=kR62XvqfM8A) (00:44)
+- [How to eat healthy at IHOP](https://www.youtube.com/watch?v=c8_QBf4cZA0) (00:56)
+- [How to find pesticide free, raw honey](https://www.youtube.com/watch?v=yv-lJ1Xw8z8) (00:54)
+- [How to find raw dairy where it’s illegal](https://www.youtube.com/watch?v=X6M03NeUOZg) (00:56)
+- [How to find seed oils free restaurants](https://www.youtube.com/watch?v=ZYuHFwZbFZg) (00:29)
+- [How to fix the root cause of your problems #animalbased](https://www.youtube.com/watch?v=G5x3aGoLPSg) (00:38)
+- [How to fix your gut: best diet hack](https://www.youtube.com/watch?v=Cs-TWBmA-w0) (00:45)
+- [How to get enough magnesium](https://www.youtube.com/watch?v=IDNInWCZL2c) (00:34)
+- [How to heal from eczema and psoriasis](https://www.youtube.com/watch?v=JiQkNjeNgN8) (00:59)
+- [How to make a primal burger](https://www.youtube.com/watch?v=KPv79qt1I1c) (00:28)
+- [How to make healthy French fries](https://www.youtube.com/watch?v=OrXJoqmIpdw) (00:56)
+- [How to make healthy fries](https://www.youtube.com/watch?v=DRcrSVL1b0c) (00:24)
+- [How to make homemade tallow based sunscreen!](https://www.youtube.com/watch?v=mPflgb0VMF8) (01:00)
+- [How to make kefir](https://www.youtube.com/watch?v=5796pyRUxFo) (00:58)
+- [How to make kefir](https://www.youtube.com/watch?v=a4sK9HJrxW0) (00:41)
+- [How to open a coconut in Costa Rica 🥥🌴](https://www.youtube.com/watch?v=i9lk6qwHfQs) (00:36)
+- [How to order at restaurants: #1 thing you should ask #animalbased](https://www.youtube.com/watch?v=H3B8UVdlaQQ) (01:00)
+- [How to remove pesticides on produce](https://www.youtube.com/watch?v=L0fYpjepSzM) (00:35)
+- [How to reverse lactose intolerance](https://www.youtube.com/watch?v=efqdFG7cvNg) (00:45)
+- [How to reverse low testosterone](https://www.youtube.com/watch?v=4O0Q8hZsy-M) (00:49)
+- [How to reverse low testosterone](https://www.youtube.com/watch?v=E2NsqhM0oOo) (00:41)
+- [How to reverse PCOS](https://www.youtube.com/watch?v=KYtwCcxBIk0) (00:34)
+- [How to shop for butter 🧈](https://www.youtube.com/watch?v=AH6pYoKBUxs) (00:44)
+- [How to shop for eggs 🥚](https://www.youtube.com/watch?v=nt-25UJ6IaE) (01:00)
+- [How to shop for extra virgin olive oil!](https://www.youtube.com/watch?v=_TO-GoZo8Lw) (00:56)
+- [How to shop for ice cream](https://www.youtube.com/watch?v=mJFsqrwhA4Y) (00:53)
+- [How to shop for meat at Costco](https://www.youtube.com/watch?v=06XYcx8KK7g) (00:56)
+- [How to shop for milk](https://www.youtube.com/watch?v=QRNMVpA9YU4) (00:59)
+- [How to shop for OLIVE OIL](https://www.youtube.com/watch?v=dXQgYe-UGLQ) (00:37)
+- [How to shop for olive oil](https://www.youtube.com/watch?v=vmf5lIe8Afo) (01:00)
+- [How to shop for ORANGE JUICE](https://www.youtube.com/watch?v=7JK29_zS4s4) (00:28)
+- [How to shop for steaks](https://www.youtube.com/watch?v=BCx5RL-cGGA) (01:00)
+- [How to survive the tick invasion](https://www.youtube.com/watch?v=y_TAq5xzJkM) (00:58)
+- [How to wash non-organic fruit](https://www.youtube.com/watch?v=eIgAv6w7w-o) (00:35)
+- [Huberman reveals the secret to fat loss](https://www.youtube.com/watch?v=H4l2l13p_5k) (00:57)
+- [Humans crave meat and organs!](https://www.youtube.com/watch?v=5WC3ttkxPvM) (00:34)
+- [Hunter-gatherers eat animal-based](https://www.youtube.com/watch?v=ML96viQZtQI) (01:00)
+- [I ate a vegetable…](https://www.youtube.com/watch?v=VGbTiOBMKUI) (00:46)
+- [I bet you didn’t know this…](https://www.youtube.com/watch?v=yi_WERZNZzg) (00:57)
+- [I Don't Eat Raw Egg Whites!](https://www.youtube.com/watch?v=BzzuQS8gl3k) (00:56)
+- [I don’t worry about melanoma…](https://www.youtube.com/watch?v=JPwUMhmajRA) (00:42)
+- [I found Burger King’s secret ingredients](https://www.youtube.com/watch?v=ESyVBBcqkiY) (01:13)
+- [I had to quit carnivore…](https://www.youtube.com/watch?v=3KZ6hTSvMW4) (01:00)
+- [I Have "High" Cholesterol](https://www.youtube.com/watch?v=Q88y8giVk80) (01:00)
+- [I have a very thorough skincare routine…](https://www.youtube.com/watch?v=IfVX5CXlTdE) (00:23)
+- [I haven’t had a vegetable in years… Should you?](https://www.youtube.com/watch?v=UJlvVfHRCFU) (01:00)
+- [I hope those tacos were animal based 🤣 #animalbased #healthydiet #animalbaseddiet](https://www.youtube.com/watch?v=kzvmJ891JfI) (00:12)
+- [I made a movie & I’m going on tour!](https://www.youtube.com/watch?v=vcLqhukv9os) (01:19)
+- [I Made an Energy Drink!](https://www.youtube.com/watch?v=gwBFpb-37-M) (00:59)
+- [I made homemade animal based ice cream #animalbased](https://www.youtube.com/watch?v=lyrE7-61PHA) (01:00)
+- [I measured the EMF in a Tesla 😳](https://www.youtube.com/watch?v=D1cK8Cxygog) (01:05)
+- [I never use toothpaste…](https://www.youtube.com/watch?v=bRTMnGebhIE) (00:59)
+- [I told you so…](https://www.youtube.com/watch?v=YfUW7vR06q8) (00:58)
+- [I tried this crazy Oreos experiment…](https://www.youtube.com/watch?v=aQfMf9hA5Xo) (00:50)
+- [I was interrogated about NUTRITION on TV…](https://www.youtube.com/watch?v=8I69ZP5wpb0) (00:51)
+- [I went to McDonald’s](https://www.youtube.com/watch?v=svS5rBvpzvI) (00:49)
+- [I woke up in the year 2035](https://www.youtube.com/watch?v=quFA-AOW6GA) (00:49)
+- [I wouldn’t put it on my wrist…](https://www.youtube.com/watch?v=80Z9cuzBx-U) (00:59)
+- [Ice cream COULD BE healthy without this ingredient](https://www.youtube.com/watch?v=W_vKL3_nyTE) (00:24)
+- [If you have skin issues, consider an elimination diet](https://www.youtube.com/watch?v=Ypf0ohzcUDc) (00:49)
+- [IHOP omelette contains 15 ingredients!?](https://www.youtube.com/watch?v=PKBSnPPsSks) (00:48)
+- [Illegal energy drink!?](https://www.youtube.com/watch?v=bnk2WdL1WdA) (00:35)
+- [Illegal superfood for gut and skin health](https://www.youtube.com/watch?v=cet7iqK8tZo) (00:51)
+- [Impossible Burger is impossible to sell…](https://www.youtube.com/watch?v=DJ9UFz0sZ0A) (00:16)
+- [In N Out = NO SEED OILS!!](https://www.youtube.com/watch?v=r-EN6CEN7xc) (00:44)
+- [Interrogated on TV about the risks of red meat #animalbased](https://www.youtube.com/watch?v=ycDAdAJW1tA) (00:57)
+- [iPhone hack for better sleep 📱🛏️](https://www.youtube.com/watch?v=Xh9EMwi5wuU) (01:00)
+- [Is Atlantic salmon healthy?](https://www.youtube.com/watch?v=SHv7rSjWEPQ) (00:47)
+- [Is backwards walking bullshit? @TheKneesovertoesguy](https://www.youtube.com/watch?v=EBo0DtNH9oQ) (00:52)
+- [Is beef tallow the best cooking fat?](https://www.youtube.com/watch?v=U0ACxQ7SC3A) (00:27)
+- [Is Bill Gates wrong about cows?](https://www.youtube.com/watch?v=pVV0MlknkjU) (01:05)
+- [Is broccoli actually good for you??](https://www.youtube.com/watch?v=5SowFgUc4BI) (00:44)
+- [Is creatine bloating you?](https://www.youtube.com/watch?v=xrvis7Fku-0) (00:40)
+- [Is Crohn’s disease reversible?](https://www.youtube.com/watch?v=yl1ioMxboKw) (01:07)
+- [Is Dementia Preventable?](https://www.youtube.com/watch?v=2i7ELY0R3Kw) (00:49)
+- [Is Detoxing from Seed Oils Possible?](https://www.youtube.com/watch?v=0lVI3v19iUY) (01:00)
+- [Is diet soda good for weight loss?](https://www.youtube.com/watch?v=hNjuesC7x7A) (01:00)
+- [Is drinking orange juice like drinking Coke?](https://www.youtube.com/watch?v=5p3i0dHIbmo) (01:00)
+- [Is eating healthy cheaper?](https://www.youtube.com/watch?v=vy2fgLNvBas) (01:22)
+- [Is Elon Musk wrong about THIS?? 😳](https://www.youtube.com/watch?v=2EAyYVkoAP4) (01:00)
+- [Is farm raised salmon healthy?](https://www.youtube.com/watch?v=qxjfTWRLyHk) (00:37)
+- [Is fructose harmful?](https://www.youtube.com/watch?v=vx6GLRZSqN4) (00:59)
+- [Is grass-fed beef better?](https://www.youtube.com/watch?v=-CdRoDSiuGQ) (00:59)
+- [Is Kale actually a superfood? 🤔](https://www.youtube.com/watch?v=kI2XPqhqVHg) (00:51)
+- [Is kombucha BS?](https://www.youtube.com/watch?v=cve2_kOLN0M) (00:54)
+- [Is Marijuana BS??](https://www.youtube.com/watch?v=pFdSfBw0Xz8) (00:59)
+- [Is mayonnaise with avocado oil healthy?](https://www.youtube.com/watch?v=ujjIV3rwIi0) (00:39)
+- [Is Oatly hiding seed oils?](https://www.youtube.com/watch?v=K5PryE6TlIo) (00:45)
+- [Is oatmeal healthy?](https://www.youtube.com/watch?v=BWQzrisFSnU) (00:20)
+- [Is olive oil safe for cooking?](https://www.youtube.com/watch?v=9wc7JMn5NLE) (00:57)
+- [Is pea protein good for testosterone?](https://www.youtube.com/watch?v=wUs0yVAH2d8) (01:00)
+- [Is plant-based meat truly healthy?](https://www.youtube.com/watch?v=3V9FuHZWhDE) (01:00)
+- [Is plant-based meat worse for the planet?](https://www.youtube.com/watch?v=yzmqwMSjQh0) (00:51)
+- [Is protein granola healthy?](https://www.youtube.com/watch?v=DUNRlhnd-9E) (00:40)
+- [Is raw milk safe for children?](https://www.youtube.com/watch?v=vvNN8Hk-msk) (00:51)
+- [Is raw milk safe?](https://www.youtube.com/watch?v=K46xotdzl3g) (01:30)
+- [Is raw milk safe?](https://www.youtube.com/watch?v=dg2EckmxmvA) (01:00)
+- [Is raw milk safe?](https://www.youtube.com/watch?v=n_ZVT68MOPs) (00:50)
+- [Is red meat a health food?](https://www.youtube.com/watch?v=Pr4JSmxDYKw) (00:09)
+- [Is Red Meat Causing Climate Change?](https://www.youtube.com/watch?v=9gRbOUIa1ok) (01:00)
+- [Is red meat safe?](https://www.youtube.com/watch?v=XdzaJELAcCM) (00:57)
+- [Is resveratrol in red wine actually good for you?](https://www.youtube.com/watch?v=P60nTCkJ30Y) (00:52)
+- [Is salmon healthy?](https://www.youtube.com/watch?v=Du9aNuJTWyE) (00:59)
+- [Is saturated fat healthy?](https://www.youtube.com/watch?v=5xgWLmcjGoo) (00:51)
+- [Is sourdough bread healthy?](https://www.youtube.com/watch?v=Kx9dmtQS58o) (00:52)
+- [Is sourdough bread healthy?](https://www.youtube.com/watch?v=jKj_EfsBVTA) (00:40)
+- [Is sourdough bread healthy?](https://www.youtube.com/watch?v=tB_iIbBaEf8) (00:40)
+- [Is sourdough bread healthy?](https://www.youtube.com/watch?v=zCPFagD3o4I) (00:52)
+- [Is sunlight bad for you?](https://www.youtube.com/watch?v=elA1FG-XVls) (00:21)
+- [Is tea BS??](https://www.youtube.com/watch?v=3cBioKtsUbY) (00:37)
+- [Is the American Heart Association corrupt?](https://www.youtube.com/watch?v=amdsSTO072I) (01:08)
+- [Is the FDA sabotaging our health?](https://www.youtube.com/watch?v=2dR4iGAdAfI) (00:59)
+- [Is the healthcare system failing us?](https://www.youtube.com/watch?v=g1IQtM1O3QI) (00:57)
+- [Is the medical system broken?](https://www.youtube.com/watch?v=0Hl3nOTIFf0) (00:46)
+- [Is there a species appropriate diet for humans?](https://www.youtube.com/watch?v=ow_OT_G0g-8) (00:42)
+- [Is this heaven??](https://www.youtube.com/watch?v=YswrOr0A4gQ) (00:43)
+- [Is this how we treat our patients?](https://www.youtube.com/watch?v=mul_SaW1LlA) (00:57)
+- [Is this the best air filter!?](https://www.youtube.com/watch?v=u19fE87Stv0) (01:04)
+- [Is this the best breakfast for humans?](https://www.youtube.com/watch?v=5K_5_wEK3e8) (00:49)
+- [Is this the best food for kids?](https://www.youtube.com/watch?v=NYtb-oPG4Q8) (01:06)
+- [Is this the biggest driver of chronic illness?](https://www.youtube.com/watch?v=1cFtgXTfWpw) (01:00)
+- [Is this the real cause of ADHD?](https://www.youtube.com/watch?v=iaeoC37qNuA) (01:00)
+- [Is this the secret in Japanese schools?](https://www.youtube.com/watch?v=TDYE5LpwxC8) (01:00)
+- [Is this the secret to becoming the GOAT?](https://www.youtube.com/watch?v=FzeRjK7W7rs) (00:59)
+- [Is this the solution to microplastics?](https://www.youtube.com/watch?v=XNXWC4OKafY) (01:23)
+- [Is this the ultimate superfood?](https://www.youtube.com/watch?v=lqfeDmtppJA) (00:24)
+- [Is this why men have low testosterone?](https://www.youtube.com/watch?v=UqBveGdbik0) (01:19)
+- [Is this why the 49ers are always injured?](https://www.youtube.com/watch?v=d-Eez0TsWtQ) (01:30)
+- [Is Western medicine only treating symptoms?](https://www.youtube.com/watch?v=aFQJa_XM5Zc) (00:58)
+- [Is your honey glyphosate-free? 🍯￼](https://www.youtube.com/watch?v=txg0dkLf9bg) (00:57)
+- [Is your sunscreen aging your skin?](https://www.youtube.com/watch?v=936mFN4jAyM) (00:39)
+- [Is “dead” dairy negatively affecting our kids?](https://www.youtube.com/watch?v=BCugCamImrY) (00:59)
+- [Is “healthy” food really healthy?](https://www.youtube.com/watch?v=GpQgfHX2jZw) (00:52)
+- [It’s not just ketchup…](https://www.youtube.com/watch?v=Exd01Ux9Mfc) (00:57)
+- [It’s sprayed all over your food…](https://www.youtube.com/watch?v=_NExhLElrjM) (01:05)
+- [I’ll never eat non-organic strawberries](https://www.youtube.com/watch?v=i2LnTgY_v54) (01:24)
+- [Joe Rogan asks about veggies](https://www.youtube.com/watch?v=f9hD5w3Qwf8) (00:30)
+- [Join us for Animal-Based 30](https://www.youtube.com/watch?v=4xRX3Y9BcEc) (00:54)
+- [July 4th Cheat Day?](https://www.youtube.com/watch?v=0B9QoUji8Kg) (00:58)
+- [Junk food = cigarettes?](https://www.youtube.com/watch?v=zska0Zbnd4g) (00:49)
+- [Junk food is designed to be addicting..](https://www.youtube.com/watch?v=AVHUVKYN4GM) (00:51)
+- [Kale is not good for you](https://www.youtube.com/watch?v=YHOoeh7DqvM) (00:39)
+- [Kale vs. Liver](https://www.youtube.com/watch?v=fJacEP-5SZY) (00:59)
+- [Kefir is great for the gut](https://www.youtube.com/watch?v=rrOBVnWTduU) (00:55)
+- [Kefir vs. Yogurt](https://www.youtube.com/watch?v=U2VvCibIPzg) (00:59)
+- [Kellogg’s needs to explain this…](https://www.youtube.com/watch?v=sfj3i6eJYkE) (00:54)
+- [KETO foods = garbage?](https://www.youtube.com/watch?v=Jj9e6wO7qOs) (00:56)
+- [Keto influencers love honey 😂](https://www.youtube.com/watch?v=U7vz4B94CUY) (00:23)
+- [KIND bar is not so kind…](https://www.youtube.com/watch?v=1p7kCX3SJOo) (00:32)
+- [Kneesovertoesguy eating animal-based](https://www.youtube.com/watch?v=79p7ZHHiFwo) (00:59)
+- [Kodiak Cakes are deceiving](https://www.youtube.com/watch?v=9omgln_qaAw) (00:54)
+- [Lab-grown meat is a crime in Florida](https://www.youtube.com/watch?v=bMM61INYRr8) (00:59)
+- [Lactose intolerant? Try this!](https://www.youtube.com/watch?v=XXSJhFqCYdI) (00:59)
+- [Laundry detergent BANNED in New York](https://www.youtube.com/watch?v=YxDVdf_fB3g) (00:51)
+- [Learn from Amish girls…](https://www.youtube.com/watch?v=IsT0BVBExz4) (01:00)
+- [Less than $25/day for the top tier animal-based diet](https://www.youtube.com/watch?v=9wDKFf7hvyU) (00:58)
+- [Life changing Costco hack](https://www.youtube.com/watch?v=go489nBECb4) (00:36)
+- [Lineage Black Friday Sale is Live](https://www.youtube.com/watch?v=fQF-LN51TnM) (00:26)
+- [Listen carefully…](https://www.youtube.com/watch?v=3mSY1Al96zg) (00:36)
+- [Listen to your body…](https://www.youtube.com/watch?v=RohQ-FpYOiQ) (00:50)
+- [Live to 120 eating these foods](https://www.youtube.com/watch?v=pwoTQDQAkKE) (00:54)
+- [Liver is NOT the body’s filter](https://www.youtube.com/watch?v=pdCwqu7rLjA) (01:00)
+- [Liver vs carrots](https://www.youtube.com/watch?v=9dnqxSUkEiU) (00:57)
+- [Low energy? You may be nutrient deficient…](https://www.youtube.com/watch?v=r0pbfMAapw4) (00:10)
+- [Lululemon = forever chemicals](https://www.youtube.com/watch?v=A-Jnsd2d2WY) (00:45)
+- [Make America healthy again](https://www.youtube.com/watch?v=PUtXvOTQTGA) (00:32)
+- [Make fries healthy again](https://www.youtube.com/watch?v=wXLnnYnk_kU) (00:50)
+- [Make sure your eggs are corn and soy free!](https://www.youtube.com/watch?v=Ag1HbsGqrp0) (00:39)
+- [Make your own bone broth!](https://www.youtube.com/watch?v=HYjT9U6QkEw) (00:57)
+- [Manuka honey is not ideal](https://www.youtube.com/watch?v=VuvvYJtVBPY) (00:33)
+- [Many American foods are banned in Europe!](https://www.youtube.com/watch?v=Fm8DJY8zUJg) (00:32)
+- [McDonald’s French fries = anxiety??](https://www.youtube.com/watch?v=bkePLSbRlOQ) (01:00)
+- [McDonald’s Fries = 19 ingredients](https://www.youtube.com/watch?v=yyF04rNhSqY) (00:59)
+- [McDonald’s fries were cooked in beef fat?](https://www.youtube.com/watch?v=p9kIeazi1q8) (00:50)
+- [McDonald’s ingredients are illegal in Europe?](https://www.youtube.com/watch?v=jHnma_s0FGI) (00:58)
+- [McDonald’s pickles contain 10 ingredients?!?](https://www.youtube.com/watch?v=KMTbFAz3deA) (00:53)
+- [McDonald’s playpen is so sinister](https://www.youtube.com/watch?v=H_Y-3hPsVfc) (00:40)
+- [McDonald’s salt contains SUGAR??](https://www.youtube.com/watch?v=909Ap7IPyVU) (00:39)
+- [McDonald’s salt is not just salt?](https://www.youtube.com/watch?v=7fB5a4Ka4cM) (00:38)
+- [McDonald’s using tallow sooner than!?](https://www.youtube.com/watch?v=Cp_VdGTzH3M) (01:01)
+- [Meat = Ozempic?](https://www.youtube.com/watch?v=CaxwwcQDPFI) (00:54)
+- [Meat and organs = nature’s multivitamin](https://www.youtube.com/watch?v=ke8DDaP4jFQ) (00:45)
+- [Meat has always been the optimal food for humans…](https://www.youtube.com/watch?v=y-bxATtvIF0) (00:52)
+- [Meat has more nutrients than vegetables](https://www.youtube.com/watch?v=Aa9W_MQrpUo) (00:46)
+- [Meat haul in the US 🥩](https://www.youtube.com/watch?v=HAS-Ht1T36s) (00:47)
+- [MEAT heals GUT issues](https://www.youtube.com/watch?v=MIuuoyLptX0) (00:16)
+- [Meat promoting hair growth](https://www.youtube.com/watch?v=pWDrWbQeZiA) (00:18)
+- [Meatless butcher??](https://www.youtube.com/watch?v=PH7_If94OSY) (00:49)
+- [Med students are fed seed oils](https://www.youtube.com/watch?v=dt7sBXy7IVE) (00:47)
+- [Medical students are not taught this…](https://www.youtube.com/watch?v=ghVyZtLxjZI) (00:53)
+- [Microplastics = cigarettes?](https://www.youtube.com/watch?v=E62GDCPbIGM) (00:56)
+- [Microplastics in human testicles?](https://www.youtube.com/watch?v=ZsbhMz88dMw) (01:00)
+- [Modern shoes are destroying your feet…](https://www.youtube.com/watch?v=ZqEtZt3vwNo) (00:54)
+- [MORE regenerative beef = LESS CO2 #animalbased](https://www.youtube.com/watch?v=lIKzUNc7gAw) (01:00)
+- [Most addicting food on the planet](https://www.youtube.com/watch?v=CgYtHqZ24g0) (00:45)
+- [Most doctors don’t know this…](https://www.youtube.com/watch?v=JSV7LtLAaQU) (00:59)
+- [Most doctors make this mistake](https://www.youtube.com/watch?v=j3Xzne8JxmA) (01:00)
+- [Most doctors won’t tell you this](https://www.youtube.com/watch?v=mVE2ZtfpuFw) (00:32)
+- [Most food = legal drugs 💊](https://www.youtube.com/watch?v=zYcb5nYWtAA) (00:31)
+- [Most people don’t know this…](https://www.youtube.com/watch?v=ALKF584f4hM) (00:25)
+- [Muscle cramps? Don’t make this mistake #animalbased](https://www.youtube.com/watch?v=kY67wF0FXpk) (00:42)
+- [My animal-based breakfast](https://www.youtube.com/watch?v=AuBzPFyO-Ck) (00:47)
+- [My credentials were questioned…](https://www.youtube.com/watch?v=x-nrXy_CKG8) (00:50)
+- [My diet vs average American diet](https://www.youtube.com/watch?v=L3kQM-qnOZM) (00:59)
+- [My favorite cooking oils](https://www.youtube.com/watch?v=MjA7sjVDE9g) (01:00)
+- [My favorite dishwashing hack](https://www.youtube.com/watch?v=YJ4CT5GSXUI) (00:49)
+- [My favorite grill cleaning hack](https://www.youtube.com/watch?v=JaCXFnHBN0o) (01:00)
+- [My favorite grilling hacks](https://www.youtube.com/watch?v=SECWcqlxeew) (00:45)
+- [My favorite laundry hack](https://www.youtube.com/watch?v=3wvVohysma8) (00:44)
+- [My favorite non-toxic candles](https://www.youtube.com/watch?v=LPWkGcqqY8E) (00:58)
+- [My favorite pre-workout](https://www.youtube.com/watch?v=9dZ3jZ2UbJA) (00:49)
+- [My favorite sleep hack](https://www.youtube.com/watch?v=26sSf6ETqLE) (00:56)
+- [My favorite workout routine at 48 years old](https://www.youtube.com/watch?v=5fWjyx3ipPY) (00:38)
+- [My hack for eating liver](https://www.youtube.com/watch?v=iUvMvbgqqiQ) (00:48)
+- [My issue with BANG energy drinks](https://www.youtube.com/watch?v=Glw10Zpfcdw) (00:46)
+- [My Morning Routine #animalbased](https://www.youtube.com/watch?v=S-MdRuRaC4s) (00:39)
+- [My morning routine when I travel](https://www.youtube.com/watch?v=y5WlzmJcPmY) (00:41)
+- [My outdoor workout routine](https://www.youtube.com/watch?v=48DaZrlh8zg) (00:47)
+- [My phone is in airplane mode ✈️](https://www.youtube.com/watch?v=b3oFeG23xtE) (00:59)
+- [My Protein Recommendations](https://www.youtube.com/watch?v=DYq80RoGVlU) (01:00)
+- [My protocol for longevity](https://www.youtube.com/watch?v=4qSA3X2GeMo) (01:30)
+- [My secret to longevity](https://www.youtube.com/watch?v=OviImAHjVrY) (00:56)
+- [My secret to longevity](https://www.youtube.com/watch?v=ay_EuPzXsB8) (00:49)
+- [My take on oysters and seafood #animalbased](https://www.youtube.com/watch?v=Tb5e0WreIi4) (00:28)
+- [My thoughts on Ezekiel bread](https://www.youtube.com/watch?v=kmss5-n20po) (00:47)
+- [My thoughts on methylene blue](https://www.youtube.com/watch?v=aTMXLzDplRU) (01:25)
+- [My thoughts on peptides and GLP-1s](https://www.youtube.com/watch?v=CHJF9_2rwBU) (01:09)
+- [My thoughts on toothpaste](https://www.youtube.com/watch?v=Ov2obbPnQQI) (00:59)
+- [My thoughts on TRT](https://www.youtube.com/watch?v=uniFEFJ5bVI) (00:34)
+- [My traveling essentials](https://www.youtube.com/watch?v=F6VWTs0IoUU) (01:00)
+- [Nail polish gel banned in Europe?](https://www.youtube.com/watch?v=hpkwiFK7iUg) (01:25)
+- [Napping = better health](https://www.youtube.com/watch?v=YTX44yVELa0) (00:56)
+- [Natural homemade weed killer](https://www.youtube.com/watch?v=pmUPza43ubk) (00:58)
+- [Natural toothpaste recipe](https://www.youtube.com/watch?v=IMm4NgJviWs) (01:06)
+- [Netflix “You are what you eat” DEBUNKED!](https://www.youtube.com/watch?v=RoifQibJXuY) (00:59)
+- [NEVER give baby formulas to your children - here is WHY](https://www.youtube.com/watch?v=1atXdqKNd50) (00:56)
+- [Never mix coffee with creatine](https://www.youtube.com/watch?v=0jwHaBra1QE) (01:11)
+- [New study reveals the truth about red meat!](https://www.youtube.com/watch?v=JMlyWmLoV18) (00:50)
+- [New study shows red meat protects from cancer](https://www.youtube.com/watch?v=HDTpTKTJceY) (01:00)
+- [New York today vs 1935](https://www.youtube.com/watch?v=IvPSwCbZ0L8) (01:00)
+- [NFL animal-based post workout meal](https://www.youtube.com/watch?v=pg4K7RBekyQ) (00:53)
+- [NFL pre-game meal](https://www.youtube.com/watch?v=UHPkvsNXJNQ) (00:40)
+- [Nicotine? Terrible for your brain](https://www.youtube.com/watch?v=Y6sGKN-UBUM) (01:24)
+- [Night time routine here in Costa Rica #animalbased](https://www.youtube.com/watch?v=9UijaqNt8rg) (00:54)
+- [Nighttime routine for optimal sleep](https://www.youtube.com/watch?v=spZ6hsjuKnY) (00:41)
+- [No more plastic cutting boards… use this!](https://www.youtube.com/watch?v=JZlfMpXVYr4) (00:45)
+- [No shoes in my house](https://www.youtube.com/watch?v=lTd1vGpfm8U) (00:49)
+- [No Surprise Here...](https://www.youtube.com/watch?v=l6IhEELwo40) (00:54)
+- [Non toxic herbicide recipe](https://www.youtube.com/watch?v=DdPMWlcBl0k) (00:58)
+- [Non-toxic laundry detergent](https://www.youtube.com/watch?v=PZVAuVn_zZY) (00:44)
+- [Non-toxic weed killer recipe](https://www.youtube.com/watch?v=kYQGY9gVv1A) (01:13)
+- [Not so "Whole Foods"..](https://www.youtube.com/watch?v=NG-Hh3tAkS0) (00:49)
+- [Nothing better than fresh raw milk at farmers markets 😍](https://www.youtube.com/watch?v=uEM-mnrBlss) (00:16)
+- [Nutrition does not need to be so complicated..](https://www.youtube.com/watch?v=xittdCv-hvs) (00:30)
+- [Nutrition shakes are confusing](https://www.youtube.com/watch?v=z4PhidcjFS4) (00:47)
+- [Oatmeal is not healthy](https://www.youtube.com/watch?v=vD1Q35F7cjY) (00:24)
+- [Obesity clinic serves junk food 🤯](https://www.youtube.com/watch?v=DBDCsDbVKzM) (00:33)
+- [Olives are a fruit](https://www.youtube.com/watch?v=m4-ob_gXY1Y) (00:32)
+- [One of the worst seed oils](https://www.youtube.com/watch?v=Nxp-fK6zsgY) (00:28)
+- [Optimal health is my #1 priority](https://www.youtube.com/watch?v=rPp6f5Jnz2o) (00:52)
+- [Orange juice IS good for you!](https://www.youtube.com/watch?v=1wVbmZLb2pY) (00:40)
+- [Oreo’s = vegan??](https://www.youtube.com/watch?v=MXIT3baMmBo) (00:29)
+- [Organic vs non-organic strawberries](https://www.youtube.com/watch?v=YV_l1eOzJb0) (01:00)
+- [Organs = superfood](https://www.youtube.com/watch?v=Uinu3EtLd4I) (01:00)
+- [Organs are so nutritious](https://www.youtube.com/watch?v=S5jgbXnxxpU) (00:50)
+- [Our children deserve better](https://www.youtube.com/watch?v=gOr3GQo9W8U) (01:05)
+- [Our children deserve better…](https://www.youtube.com/watch?v=1mJV6qnsF48) (00:55)
+- [Outdoor gym workout in Miami](https://www.youtube.com/watch?v=TR9--f5rgm8) (00:47)
+- [Overrated or underrated?](https://www.youtube.com/watch?v=TS25xfZ3vHE) (00:42)
+- [Paper cups are not paper…](https://www.youtube.com/watch?v=4fqwTGZON6g) (00:55)
+- [Paper cups aren’t made with paper!?](https://www.youtube.com/watch?v=cPBIJIUoDXY) (00:59)
+- [Pasteurized milk increases the risk of salmonella?](https://www.youtube.com/watch?v=2tXmXDpdOqc) (00:57)
+- [Pasture raised vs regular eggs](https://www.youtube.com/watch?v=HNCxgkk9qAo) (00:57)
+- [Pasture-raised vs regular eggs](https://www.youtube.com/watch?v=3LAbBJ0x1Og) (00:59)
+- [Pasture-raised vs store-bought eggs](https://www.youtube.com/watch?v=-wKocULS_00) (01:09)
+- [Paul Saladino’s Animal-Based Breakfast](https://www.youtube.com/watch?v=aVpJ7rjv6A8) (00:36)
+- [Peanut butter = seed oil?](https://www.youtube.com/watch?v=fnEYriviZLs) (00:33)
+- [Peanut butter is NOT a health food](https://www.youtube.com/watch?v=faZCSQFle9w) (00:43)
+- [People think I’m crazy…](https://www.youtube.com/watch?v=94ZKjA7Ucss) (00:07)
+- [Peptides? No thanks…](https://www.youtube.com/watch?v=cNMj2n4MIwg) (01:05)
+- [Pharma commercials should be illegal](https://www.youtube.com/watch?v=1rlHJOy2dJc) (00:50)
+- [Pickles = fermented cucumbers](https://www.youtube.com/watch?v=TtK-HakVue0) (00:31)
+- [Pizza is overrated…](https://www.youtube.com/watch?v=EOKea_MaOAA) (00:37)
+- [Pizza vs Animal-based meal](https://www.youtube.com/watch?v=LCmUOoBqDV4) (00:52)
+- [Plant based meat vs real meat: which is healthier?](https://www.youtube.com/watch?v=psjDahfNkXs) (00:42)
+- [Plant-based foods steal nutrients](https://www.youtube.com/watch?v=TtYyXdtjGJU) (00:59)
+- [Plant-based LIES told by NYC Mayor](https://www.youtube.com/watch?v=fxgw7hYAuzk) (00:58)
+- [Plant-based meat demand is plummeting](https://www.youtube.com/watch?v=yeds6sNNitc) (00:33)
+- [Plant-based meat is a scam](https://www.youtube.com/watch?v=1fa40zJoOj8) (01:00)
+- [Plant-based milk = SCAM?](https://www.youtube.com/watch?v=rUfSwkSMvRM) (00:58)
+- [PLANT-based MILK??](https://www.youtube.com/watch?v=LvzWNkN6Cx0) (00:48)
+- [Plant-based protein is garbage](https://www.youtube.com/watch?v=Mkju0eJnzEs) (00:29)
+- [Plant-Based Steak vs. Bison Steak: My Review](https://www.youtube.com/watch?v=EzGrZqCLbiU) (01:00)
+- [Plant-based vs animal-based](https://www.youtube.com/watch?v=3atWb0M6KIk) (00:47)
+- [Plant-based vs Animal-based](https://www.youtube.com/watch?v=rP1_iwq1rbc) (00:39)
+- [Plant-based “eggs”](https://www.youtube.com/watch?v=MCgJccJf4wo) (00:59)
+- [Plants don’t want to be eaten](https://www.youtube.com/watch?v=ssqHSKOAWdk) (01:00)
+- [Plants have defense chemicals](https://www.youtube.com/watch?v=K7yxl6IOZBA) (00:43)
+- [Plants Have Their Own Agenda (Power Project Podcast Excerpt)](https://www.youtube.com/watch?v=w5xl6CEnAbQ) (00:59)
+- [Plants Vs Meat](https://www.youtube.com/watch?v=xY-seDrQ4qc) (00:53)
+- [Plastic vs wood: which is safer?](https://www.youtube.com/watch?v=fDh4FaF5ZpE) (01:15)
+- [Please stay away from this…](https://www.youtube.com/watch?v=jh7NPCVc7wA) (01:00)
+- [Polyester is no good!!](https://www.youtube.com/watch?v=Xs_46tP_hpk) (00:55)
+- [Pro BOXER eats an Animal-Based diet](https://www.youtube.com/watch?v=fdyPQAbJkbU) (00:46)
+- [Processed foods need a warning label](https://www.youtube.com/watch?v=gm8VGX-nhho) (00:50)
+- [Processed foods need WARNING LABELS…](https://www.youtube.com/watch?v=oYYPUlLVNkc) (00:46)
+- [Processed meat is 🗑](https://www.youtube.com/watch?v=NWIEG2IgfMU) (00:39)
+- [Protein bars = misleading](https://www.youtube.com/watch?v=lGnQxyBiM8c) (00:40)
+- [PTSD from my vegan days...](https://www.youtube.com/watch?v=fAuwtMyKN9k) (00:50)
+- [Raw cheese at Trader Joe's](https://www.youtube.com/watch?v=ep8J-VkHe_8) (00:47)
+- [Raw dairy is the best](https://www.youtube.com/watch?v=DPtkUk6wQZk) (01:00)
+- [Raw milk beef with Matt Walsh](https://www.youtube.com/watch?v=OJ-gQCXZULY) (00:24)
+- [Raw milk can heal eczema and asthma #animalbased](https://www.youtube.com/watch?v=zu1xaSZFSVA) (00:33)
+- [Raw milk has so much nutrition](https://www.youtube.com/watch?v=MjktANQG120) (00:57)
+- [Raw milk is ILLEGAL??](https://www.youtube.com/watch?v=QwZ_I35iSpw) (00:50)
+- [Raw milk vs plant-based milk: which one is safer?](https://www.youtube.com/watch?v=jtDN0RKgsHo) (00:55)
+- [Raw vs Pasteurized milk](https://www.youtube.com/watch?v=l15Jrng7Tmg) (00:57)
+- [Reacting to Bryan Johnson 100 PILLS supplement protocol](https://www.youtube.com/watch?v=5k5w8az8BU8) (00:59)
+- [Reacting to soy TROLL](https://www.youtube.com/watch?v=2orOO645Znk) (01:00)
+- [Real eggs vs. plant-based “eggs”](https://www.youtube.com/watch?v=CE6Qaaznvu4) (00:48)
+- [Real men drink milk?](https://www.youtube.com/watch?v=f4-yt66UEK0) (01:00)
+- [Red Gatorade?](https://www.youtube.com/watch?v=scIrkUCvzps) (00:55)
+- [Red meat = high cholesterol?](https://www.youtube.com/watch?v=P-oRj5NKv00) (00:38)
+- [Red meat is actually ANTI-inflammatory](https://www.youtube.com/watch?v=DG4EMfVUmdU) (00:18)
+- [Red meat is political](https://www.youtube.com/watch?v=Vc3dn5b7g4g) (00:55)
+- [Red meat will LENGTHEN our life](https://www.youtube.com/watch?v=G2GRr_-ZYiw) (01:00)
+- [Regular milk vs bug milk](https://www.youtube.com/watch?v=zgdBb7Gty_g) (01:00)
+- [Regular sunscreen is a scam](https://www.youtube.com/watch?v=4G7i5d7LBgs) (01:00)
+- [Remove pesticides with this hack](https://www.youtube.com/watch?v=yAo8KzD91C0) (00:59)
+- [Remove these from your kitchen](https://www.youtube.com/watch?v=q0i0MGUmNGg) (01:10)
+- [Replace olive oil and avocado oil with tallow / butter](https://www.youtube.com/watch?v=f7PIaBa5w0Q) (01:00)
+- [Resistance training is better than cardio for long term weight loss!](https://www.youtube.com/watch?v=Pq8kCfZdWq4) (01:00)
+- [Reversing Crohn’s disease!](https://www.youtube.com/watch?v=7xPIfrTW2HM) (00:41)
+- [RFK Jr. doesn’t eat breakfast?](https://www.youtube.com/watch?v=s_B27LKskqU) (00:46)
+- [Russell Brand Quit Vegan Diet](https://www.youtube.com/watch?v=J_hldZY0RtI) (00:58)
+- [RX Bars claim no B.S…](https://www.youtube.com/watch?v=1vb-JB8uD2s) (00:28)
+- [S**d oils in sunscreen?!](https://www.youtube.com/watch?v=tZ9tYFDjeig) (00:36)
+- [Salads = Healthy/Skinny?](https://www.youtube.com/watch?v=nv29A1cruUg) (00:53)
+- [Saturated fats from animals are GOOD for you](https://www.youtube.com/watch?v=Vw8kgDl3770) (00:37)
+- [Sauna rave!?](https://www.youtube.com/watch?v=IHeqLlcbf0A) (00:48)
+- [Sauna vs. Broccoli 🥊](https://www.youtube.com/watch?v=O-0YuRFmiAM) (00:52)
+- [Science says: Eat more cheese](https://www.youtube.com/watch?v=ZwcmzTe8CRQ) (00:38)
+- [SEA MOSS is definitely BS!](https://www.youtube.com/watch?v=yqOUifYvtg8) (00:44)
+- [Seed Oil Awareness..](https://www.youtube.com/watch?v=8V4z6Zjwo18) (00:49)
+- [Seed oils = obesity](https://www.youtube.com/watch?v=-U9YwS_e380) (00:57)
+- [Seed oils are healthy!?](https://www.youtube.com/watch?v=R3rEP68bs8M) (01:00)
+- [Seed oils are in everything!](https://www.youtube.com/watch?v=5svRipLoy2Q) (00:27)
+- [Seed oils are in everything!](https://www.youtube.com/watch?v=v6utWNd8Y_c) (00:34)
+- [Seed oils are INFLAMMATORY](https://www.youtube.com/watch?v=_Q6ypwLf2Ok) (01:00)
+- [Seed oils at Whole Foods](https://www.youtube.com/watch?v=M8NWxug2F_Y) (00:46)
+- [Seed oils at “healthy” vegan restaurant](https://www.youtube.com/watch?v=-8mwqon1Vzg) (00:44)
+- [Seed oils have deceptive marketing…](https://www.youtube.com/watch?v=tPHWasyLqHk) (00:43)
+- [Seed Oils in Baby Formula??](https://www.youtube.com/watch?v=GMGJJjf3wjk) (00:56)
+- [Seed oils in ice cream?](https://www.youtube.com/watch?v=nO3wf7l7yDQ) (00:24)
+- [Seed oils, you are next…](https://www.youtube.com/watch?v=oIMQAfiZehU) (00:18)
+- [Serena Williams, we need to talk…](https://www.youtube.com/watch?v=t1N4PAnFkgU) (01:29)
+- [Shampoo and soap are overrated](https://www.youtube.com/watch?v=tvWdsPxS84c) (00:52)
+- [Shopping for fresh local produce at the farmers' market](https://www.youtube.com/watch?v=TPT-w__JXWI) (00:55)
+- [Shopping hack for longevity](https://www.youtube.com/watch?v=O8S70pri2_4) (00:23)
+- [Should raw milk be legalized in the US?](https://www.youtube.com/watch?v=qWSBL8AMOJE) (00:24)
+- [Should there be warning labels on junk food?](https://www.youtube.com/watch?v=8a4cbyP-CbM) (00:56)
+- [Should you drink alcohol?](https://www.youtube.com/watch?v=-UlBs2MtwUo) (00:34)
+- [Should you eat cheese?](https://www.youtube.com/watch?v=Mfpnc8rnIcc) (00:38)
+- [Should you eat Kellogg’s for dinner?](https://www.youtube.com/watch?v=s0974tS6ZJ8) (00:56)
+- [Should you eat vegetables?](https://www.youtube.com/watch?v=BPsAsdTaviw) (00:49)
+- [Should you include fruit juice in your diet?](https://www.youtube.com/watch?v=yH0YNS-9HOk) (00:58)
+- [Skateboarding or weightlifting?](https://www.youtube.com/watch?v=eu_nLAqwl10) (00:26)
+- [Smoke point and peroxidation index are not the same…](https://www.youtube.com/watch?v=8jxWDrfQLVc) (00:59)
+- [Smoothie = oxalate bomb??](https://www.youtube.com/watch?v=yen4OdlhZ60) (00:59)
+- [Snickers = Fruit??](https://www.youtube.com/watch?v=GyTq8h1MoZw) (00:52)
+- [Something to think about next time you buy these fruits 💭 #animalbased #healthydiet](https://www.youtube.com/watch?v=UVzLAuABbWM) (00:30)
+- [Sourdough bread is better, right? WRONG!!](https://www.youtube.com/watch?v=ub9Y9K94Guw) (00:54)
+- [Spinach = kidney stones??](https://www.youtube.com/watch?v=fqGPW2oqNA4) (01:00)
+- [Sprinting or jogging?](https://www.youtube.com/watch?v=9z4CcgKU_zc) (00:50)
+- [Sprinting vs long-distance: which is better?](https://www.youtube.com/watch?v=fapPtR9LBgI) (00:50)
+- [Starbucks Dubai chocolate contains WHAT!?](https://www.youtube.com/watch?v=kMZ3WaaNWz4) (00:36)
+- [Starbucks is fooling you](https://www.youtube.com/watch?v=mTK2OeXiItU) (00:59)
+- [Steak 101 with the butcher](https://www.youtube.com/watch?v=1gKZHekv-Xc) (01:24)
+- [Still drinking from aluminum cans?](https://www.youtube.com/watch?v=X1SmEIVezK4) (01:00)
+- [Still drinking from plastic bottles?](https://www.youtube.com/watch?v=cmJ2U_Jdv_0) (01:00)
+- [Still eating chips?](https://www.youtube.com/watch?v=YAm92Vobh8M) (00:30)
+- [Still eating Oreos?￼](https://www.youtube.com/watch?v=_NwF18gmBzk) (00:51)
+- [Still going to Starbucks for breakfast?](https://www.youtube.com/watch?v=xKixfBxcqjY) (00:33)
+- [Still using car fresheners!?](https://www.youtube.com/watch?v=mxVrm0NHtLI) (00:36)
+- [Still using dryer sheets?](https://www.youtube.com/watch?v=eGKS-h-Wkhc) (00:20)
+- [Still using plastic cutting boards?](https://www.youtube.com/watch?v=FY--z0ueRWc) (00:57)
+- [Still waisting your money on chick-fil-A?](https://www.youtube.com/watch?v=Pi621qQXz5E) (00:59)
+- [STOP eating SEED OILS!!](https://www.youtube.com/watch?v=1__yc0GzxLw) (00:59)
+- [Stop feeding cereal to your kids](https://www.youtube.com/watch?v=f2NrDu0_gQA) (00:46)
+- [Stop feeding this to your children!](https://www.youtube.com/watch?v=LSY3J49Qpo4) (01:00)
+- [STOP giving THIS to your kids](https://www.youtube.com/watch?v=6XFbjCrqLs4) (00:44)
+- [Stop making excuses](https://www.youtube.com/watch?v=n43_7mRmg9Q) (00:58)
+- [Stop storing your food in this](https://www.youtube.com/watch?v=lsvwqChAXdM) (01:05)
+- [Stop using nonstick pans!](https://www.youtube.com/watch?v=Z2EkXgQcxmo) (00:45)
+- [Stop using sunscreen: here is why](https://www.youtube.com/watch?v=b51I9ibT7L8) (00:23)
+- [Stop using this for your coffee](https://www.youtube.com/watch?v=4gBVL0yCY9s) (01:00)
+- [Stress reduction hack from Andrew Huberman](https://www.youtube.com/watch?v=PUSb9MyFdiU) (01:00)
+- [Study shows why vegans crave meat #animalbased](https://www.youtube.com/watch?v=K8L5TUY49ug) (00:55)
+- [Subway lied to me…](https://www.youtube.com/watch?v=dj89t8gj5rw) (00:50)
+- [Surf skating for brain and body #animalbased #fitness #animalbaseddiet](https://www.youtube.com/watch?v=7uKoY8w7m3M) (00:27)
+- [Sweetgreen is serving STEAK!](https://www.youtube.com/watch?v=zcITbiQjHPE) (00:58)
+- [Sweetgreen removed seed oils from their menu!](https://www.youtube.com/watch?v=duSztJPud78) (01:00)
+- [Take your shoes off](https://www.youtube.com/watch?v=C7UFZofkPuM) (00:39)
+- [Tallow is a skincare hack](https://www.youtube.com/watch?v=Os9-C9a-0go) (00:48)
+- [Tamarind fruit helps to excrete fluoride in humans! #animalbased #fruit](https://www.youtube.com/watch?v=CVw0ZGvkPmc) (00:57)
+- [TESTOSTERONE is essential... 💪](https://www.youtube.com/watch?v=TNNoFcJ1OW8) (00:44)
+- [The 2 best organs to eat](https://www.youtube.com/watch?v=AiZOrL_BcJg) (00:22)
+- [The amount of cups of brown rice to make 3tbsp of rice bran oil might shock you...](https://www.youtube.com/watch?v=77Og_H7n0Ok) (01:00)
+- [The amount of heavy metals in CHOCOLATE will shock you...](https://www.youtube.com/watch?v=5cXfIJ2opa4) (01:00)
+- [The benefits of raw milk for humans](https://www.youtube.com/watch?v=VMBUdK_8tq0) (00:23)
+- [The best alcohol to mitigate hangovers](https://www.youtube.com/watch?v=pDTfD5WKGNk) (00:42)
+- [The best and worst olive oils](https://www.youtube.com/watch?v=ooVmlg-dnFQ) (01:15)
+- [The best breakfast for humans](https://www.youtube.com/watch?v=uur-ZLls0ZA) (00:35)
+- [The best breakfast. Period. #animalbased #healthydiet #animalbaseddiet](https://www.youtube.com/watch?v=UI2qyKoN6LQ) (00:31)
+- [The best diet for high testosterone?](https://www.youtube.com/watch?v=WAyA94hpXuU) (01:23)
+- [The best diet for humans?](https://www.youtube.com/watch?v=BsYho2ITcJg) (01:25)
+- [The best drink for hydration](https://www.youtube.com/watch?v=9qZs86cc_e4) (00:44)
+- [The best eggs on the planet?](https://www.youtube.com/watch?v=mMFsV-kEp8o) (00:43)
+- [The best EMF blocker?](https://www.youtube.com/watch?v=IWMHC2_fvfE) (01:27)
+- [The best fat for heart health](https://www.youtube.com/watch?v=52Ry75F4UA8) (01:00)
+- [The best food against the flu?](https://www.youtube.com/watch?v=8QvEN9OOnXk) (00:38)
+- [The best food for babies?](https://www.youtube.com/watch?v=NRmkiHiqPdo) (00:49)
+- [The best food for brain health?](https://www.youtube.com/watch?v=A74QHCO7H2E) (01:26)
+- [The best food for brain health?](https://www.youtube.com/watch?v=RJttYyyhv8Y) (00:48)
+- [The best foods for a wide jaw](https://www.youtube.com/watch?v=O2Cqw6JPnhA) (00:55)
+- [The best grill cleaning hack](https://www.youtube.com/watch?v=yjMHBnTsa6o) (01:00)
+- [The best grilling hack 🥩](https://www.youtube.com/watch?v=mqJOp2-qT1Y) (01:14)
+- [The best grilling hacks for July 4th](https://www.youtube.com/watch?v=ID20gTM0kHI) (00:47)
+- [The best hack for gut health](https://www.youtube.com/watch?v=Mz2gT1iTJeI) (00:45)
+- [The best investments for your health](https://www.youtube.com/watch?v=OJOd5oIBAr0) (00:26)
+- [The best jet lag hack! 👍](https://www.youtube.com/watch?v=batuBQZ8klw) (00:27)
+- [The best multivitamin to take](https://www.youtube.com/watch?v=wfJz5LaJqGc) (00:35)
+- [The best post-workout meal](https://www.youtube.com/watch?v=l09dLpqD1F4) (00:26)
+- [The best product at Trader Joe’s!?](https://www.youtube.com/watch?v=suSGv73YNOs) (00:33)
+- [The best routine for longevity](https://www.youtube.com/watch?v=nAB6dCCcsKA) (00:52)
+- [The best skincare hack](https://www.youtube.com/watch?v=lG3vEXBanpc) (00:44)
+- [The best sleep hack](https://www.youtube.com/watch?v=rtKRJYL3J5M) (00:13)
+- [The best sleeping hack for babies?](https://www.youtube.com/watch?v=BAsqjyZB7bo) (01:05)
+- [The best steak in Spain!? 😳](https://www.youtube.com/watch?v=zDY-0f6kz1o) (00:57)
+- [The best steak in the world?](https://www.youtube.com/watch?v=iZ7vmE2dAJM) (00:57)
+- [The best sunscreen for your skin](https://www.youtube.com/watch?v=gHCTArGVy00) (00:56)
+- [The best temperature to cook a steak](https://www.youtube.com/watch?v=ln0dMwo7NbM) (00:29)
+- [The best thing at IHOP…](https://www.youtube.com/watch?v=w92VVo2C6wI) (00:56)
+- [The best thing at In-N-Out](https://www.youtube.com/watch?v=BzVgRsxB_Ic) (00:55)
+- [The best way to lose weight…](https://www.youtube.com/watch?v=x3GkeJcPQYc) (00:59)
+- [The best way to store sourdough bread](https://www.youtube.com/watch?v=mrGiGkRIUys) (01:04)
+- [The best way to wash fruit](https://www.youtube.com/watch?v=GNMPY6oXhGM) (00:35)
+- [The breakfast of champions 🥩](https://www.youtube.com/watch?v=ipnVRp8weXY) (00:31)
+- [The chicken sandwich contains WHAT!?](https://www.youtube.com/watch?v=C7Lluc2IJOE) (01:08)
+- [The Cleanest Protein Bar Ever.](https://www.youtube.com/watch?v=SVKrebgd81E) (01:37)
+- [The craziest thing about my fridge](https://www.youtube.com/watch?v=qJo2_x6Gak4) (01:00)
+- [The dangers of dishwashing detergent￼](https://www.youtube.com/watch?v=dIdn9mN4RL0) (00:55)
+- [The Dark History of Canola Oil](https://www.youtube.com/watch?v=e6KBPuvJqNk) (02:00)
+- [The dark history of Teflon pans](https://www.youtube.com/watch?v=ZMafIUVScbM) (01:05)
+- [The dark side of antidepressants](https://www.youtube.com/watch?v=K4dDmqFi084) (01:02)
+- [The dark side of fluoride](https://www.youtube.com/watch?v=89nMUN-Edlo) (00:45)
+- [The death of bacon](https://www.youtube.com/watch?v=PBJN9wDC9IA) (00:48)
+- [The first grass-fed meat stick with liver and heart!](https://www.youtube.com/watch?v=YH2yLu68OIk) (00:45)
+- [The healing benefits of raw milk 🥛](https://www.youtube.com/watch?v=2qNty7ZhbhI) (01:00)
+- [The healthiest breakfast food](https://www.youtube.com/watch?v=at0uYK7O4gM) (00:31)
+- [The healthiest foods at Sprouts](https://www.youtube.com/watch?v=fMHs6dhroP0) (00:56)
+- [The healthiest fries on the planet](https://www.youtube.com/watch?v=zNeXbOcKK_Y) (00:24)
+- [The hidden benefits of butter](https://www.youtube.com/watch?v=jkoiysdL-Sg) (00:46)
+- [The history of kale](https://www.youtube.com/watch?v=r09whYN-muw) (00:58)
+- [The History of Raw Kefir](https://www.youtube.com/watch?v=rxYY4ddKFy8) (00:43)
+- [The history of raw kefir!](https://www.youtube.com/watch?v=5sfYdF5hH4A) (00:51)
+- [The importance of fertility](https://www.youtube.com/watch?v=s_9zbVQEbTM) (00:43)
+- [The keys to longevity](https://www.youtube.com/watch?v=zrKWPeDybRg) (00:59)
+- [The medical education system needs to change!](https://www.youtube.com/watch?v=_MVWOAnMn1g) (00:58)
+- [The Medical System is Broken](https://www.youtube.com/watch?v=UFueDJUwz2A) (01:00)
+- [The most addictive food on the planet](https://www.youtube.com/watch?v=nsUN9KipOpM) (00:45)
+- [The most dangerous aisle in the supermarket](https://www.youtube.com/watch?v=PGBo4necg34) (01:04)
+- [The most powerful motivator #animalbased](https://www.youtube.com/watch?v=8I-GpwFe5Fg) (01:00)
+- [The oldest woman’s secret to longevity](https://www.youtube.com/watch?v=8Y8qAyyOGK8) (01:14)
+- [The problem with vegetables](https://www.youtube.com/watch?v=5hMfRhEGeVw) (01:00)
+- [The problem with vegetables](https://www.youtube.com/watch?v=aDFcCX7v5Yc) (01:00)
+- [The psychology behind Skittles](https://www.youtube.com/watch?v=p5P7zfyyzno) (00:31)
+- [The purpose of my content](https://www.youtube.com/watch?v=FgMRkbzHDCw) (00:34)
+- [The reason Americans are sicker than ever](https://www.youtube.com/watch?v=UfikVE1WVDY) (01:24)
+- [The reason McDonald’s fries were healthier…](https://www.youtube.com/watch?v=NTsKlN5MzLM) (00:33)
+- [The root cause of skin issues](https://www.youtube.com/watch?v=jutIsayjzJ4) (01:02)
+- [The secret recipe for smarter children](https://www.youtube.com/watch?v=ED2ynvtPVa8) (00:59)
+- [The secret to becoming a champion?](https://www.youtube.com/watch?v=sZ__7ov67_o) (00:47)
+- [The secret to fat loss](https://www.youtube.com/watch?v=JrWXZuOQTD0) (00:30)
+- [The secret to longevity](https://www.youtube.com/watch?v=EIMwjclQfew) (01:05)
+- [The secret to longevity](https://www.youtube.com/watch?v=KJD9WtrSq2s) (01:21)
+- [The secret to strong kids?](https://www.youtube.com/watch?v=1lNnLhQwm0w) (00:57)
+- [The side effects of vegan diets](https://www.youtube.com/watch?v=u2skEdnu02A) (00:57)
+- [The truth about cholesterol](https://www.youtube.com/watch?v=VgtONLYHGec) (01:28)
+- [The truth about new weight loss drugs](https://www.youtube.com/watch?v=egHeKREmLwE) (01:14)
+- [The truth about raw milk](https://www.youtube.com/watch?v=qZTMnC6va9Q) (01:01)
+- [The truth about saturated fat](https://www.youtube.com/watch?v=z4hVGmx9C_Q) (00:47)
+- [The truth about seed oils](https://www.youtube.com/watch?v=UYQd_b048C4) (00:48)
+- [The truth about sunlight](https://www.youtube.com/watch?v=r51Xq80FRwY) (01:18)
+- [The truths you were never told…](https://www.youtube.com/watch?v=pxkSkgkyE78) (00:59)
+- [The ugly truth behind the egg industry](https://www.youtube.com/watch?v=MOGXcj7U9M0) (01:05)
+- [The ultimate wound healer](https://www.youtube.com/watch?v=tiYaW_ZW1KA) (00:52)
+- [The Whole Foods hot bar is a disaster...](https://www.youtube.com/watch?v=Ww5lsjwlWXA) (00:26)
+- [The worst idea for fertility](https://www.youtube.com/watch?v=92k__YZEAes) (01:27)
+- [The worst thing on an airplane?](https://www.youtube.com/watch?v=Gy8eihkOcd0) (01:04)
+- [The worst way to store your food](https://www.youtube.com/watch?v=XWs8OxP3UbM) (01:05)
+- [There may be MOLD in your home](https://www.youtube.com/watch?v=tmOJ2QH1UyI) (01:00)
+- [There’s a reason you’re craving chicken and steak…](https://www.youtube.com/watch?v=dpLy_wTEKMM) (00:39)
+- [These airport hacks will change your life](https://www.youtube.com/watch?v=E0cPV8q-b8k) (00:52)
+- [These foods make you hungrier](https://www.youtube.com/watch?v=sA28HX7koow) (00:59)
+- [These foods will change your life](https://www.youtube.com/watch?v=dhzkUFzkyFI) (00:52)
+- [They add WHAT to butter?!?](https://www.youtube.com/watch?v=VWGU5ymjUzU) (00:36)
+- [They are using fake butter!?](https://www.youtube.com/watch?v=s8iWlxMNUSg) (00:44)
+- [They know the secret…](https://www.youtube.com/watch?v=9VfrOiCtulk) (00:09)
+- [They look so happy…](https://www.youtube.com/watch?v=UY-4-Gtweq4) (01:24)
+- [They were right…](https://www.youtube.com/watch?v=IHKhPMr0baI) (00:21)
+- [They were right…](https://www.youtube.com/watch?v=WVOLI6G_mxY) (00:21)
+- [This breaks my heart..](https://www.youtube.com/watch?v=OnfrsJx8IAE) (00:56)
+- [This chemical is everywhere…](https://www.youtube.com/watch?v=WpRIxx5XRd8) (00:52)
+- [This common food additive is a known animal carcinogen... Avoid Caramel Color!](https://www.youtube.com/watch?v=ZxzG6AwrI1o) (00:56)
+- [This country found the solution to heart disease](https://www.youtube.com/watch?v=w2sK35f-DIc) (00:59)
+- [This diet cured her diseases](https://www.youtube.com/watch?v=GE4AtlmPalU) (01:20)
+- [This diet healed his gut issues](https://www.youtube.com/watch?v=gIIw3xaDCIQ) (01:22)
+- [This diet healed his skin issues](https://www.youtube.com/watch?v=i2W8-UU-hYk) (00:59)
+- [This food is banned by the NCAA](https://www.youtube.com/watch?v=oCI6b9j6mvw) (00:48)
+- [This food reverses aging](https://www.youtube.com/watch?v=brQcLA36Tsk) (00:25)
+- [This fruit will detox fluoride from your body](https://www.youtube.com/watch?v=y3Pqy4xB2rc) (00:59)
+- [This harmful herbicide is in your oatmeal](https://www.youtube.com/watch?v=RJ5HwFvW0gc) (00:43)
+- [This is a bad idea…](https://www.youtube.com/watch?v=V-co07365_s) (00:59)
+- [This is a blatant PSYOP at Target](https://www.youtube.com/watch?v=UF4W1yq4Idk) (00:33)
+- [This is an animal-based diet](https://www.youtube.com/watch?v=Nd7JeGdYVME) (01:00)
+- [This is crazy 😳](https://www.youtube.com/watch?v=CIEdxoyFa80) (00:50)
+- [This is crazy 😳](https://www.youtube.com/watch?v=PlbRrPpYAJU) (00:44)
+- [This is criminal 😳](https://www.youtube.com/watch?v=TugyzhBOUBU) (00:42)
+- [This is criminal 🤯](https://www.youtube.com/watch?v=ctwm7IA771A) (01:00)
+- [This is harming your thyroid health](https://www.youtube.com/watch?v=4qh24N0yIdA) (01:16)
+- [This is horrible…](https://www.youtube.com/watch?v=k3PWA8GObL4) (01:00)
+- [This is how I eat everyday #animalbased](https://www.youtube.com/watch?v=a8-hxdyDaaI) (00:26)
+- [This is how I poop 💩](https://www.youtube.com/watch?v=icJ4_1k85ig) (00:46)
+- [This is how much fruit I eat](https://www.youtube.com/watch?v=sBWUrRkma3w) (00:46)
+- [This is how shop for chicken](https://www.youtube.com/watch?v=iik_WksA3sI) (00:54)
+- [This is how you heal your gut](https://www.youtube.com/watch?v=fCjY3QnUnhU) (00:47)
+- [THIS is in WHEATIES cereal?? 😳😳](https://www.youtube.com/watch?v=ZnS8VH8K-oY) (00:53)
+- [This is making you fat](https://www.youtube.com/watch?v=QkSBsi4vgF4) (01:00)
+- [This is more hydrating than Gatorade](https://www.youtube.com/watch?v=da7WZnyLvcw) (00:55)
+- [This is my full day of eating in Costa Rica!](https://www.youtube.com/watch?v=1BwHcVGxaq8) (00:58)
+- [This is my supplement stack…](https://www.youtube.com/watch?v=6sU8HX0awro) (00:54)
+- [This is not a good idea…](https://www.youtube.com/watch?v=qFQ6ZzCxmjQ) (01:00)
+- [This is poisoning your kids](https://www.youtube.com/watch?v=kmFiBRC81ms) (01:00)
+- [This is so sad…](https://www.youtube.com/watch?v=Ikkn8DM8wPI) (00:57)
+- [This is the best food for gut health](https://www.youtube.com/watch?v=svzM7dO0_Sg) (00:56)
+- [This is the best food for sexual health 🍆](https://www.youtube.com/watch?v=Rwkkw_feqvk) (00:56)
+- [This is the best protein bar](https://www.youtube.com/watch?v=Q0ftF21DcE8) (00:44)
+- [This is the best way to eat steaks](https://www.youtube.com/watch?v=G5T4fkA1I-k) (00:24)
+- [This is the healthiest food for humans](https://www.youtube.com/watch?v=967uvaJL2Ag) (00:32)
+- [THIS is the Key to Weight Loss](https://www.youtube.com/watch?v=4WGFtmUcTGg) (00:59)
+- [This is the world’s OLDEST SUPERFOOD #animalbased](https://www.youtube.com/watch?v=7hpGrnwaMzI) (01:00)
+- [This is where illness begins…](https://www.youtube.com/watch?v=yO1Rf4Jni9A) (01:00)
+- [This is why I’m drinking pet food at Sprouts ￼ #animalbased](https://www.youtube.com/watch?v=814Nby7BbAY) (00:55)
+- [This is why obesity rates are skyrocketing](https://www.youtube.com/watch?v=bCZa3pPzv1M) (00:59)
+- [This is wrecking your hormones](https://www.youtube.com/watch?v=Btb9cHyFyIs) (00:31)
+- [This Mac & Cheese contains banned ingredients?](https://www.youtube.com/watch?v=N7SD-J8AWBE) (00:58)
+- [This might break some hearts](https://www.youtube.com/watch?v=2SPuz7F6Ifw) (00:53)
+- [This plant is a natural air filter](https://www.youtube.com/watch?v=vk-y9b7LJ-c) (01:04)
+- [This ruins your sleep…](https://www.youtube.com/watch?v=ji7ziWYSUTk) (00:46)
+- [This should be ILLEGAL!](https://www.youtube.com/watch?v=CkE6CNOt8ww) (01:00)
+- [This study shows the benefits of eating butter](https://www.youtube.com/watch?v=mrESvezjK6c) (00:52)
+- [This trend might change your life](https://www.youtube.com/watch?v=N3rGwR_Pq9U) (00:35)
+- [This will blow your mind 😳](https://www.youtube.com/watch?v=XIP4TSVcG7I) (01:11)
+- [This will change your mind about McDonald’s](https://www.youtube.com/watch?v=9agqwLM9GEw) (00:57)
+- [This will change your mind about perfumes…](https://www.youtube.com/watch?v=gBlczjG4GaE) (01:16)
+- [This will give you better sleep](https://www.youtube.com/watch?v=BuV9T2n-G3w) (00:59)
+- [Throat burn = healthy olive oil](https://www.youtube.com/watch?v=9U1ooP1XGjQ) (01:08)
+- [Tired of scrambled eggs? Try this hack](https://www.youtube.com/watch?v=e1-bNFdVbsY) (00:58)
+- [Toothbrush = microplastics?](https://www.youtube.com/watch?v=4BwaHBD3AVU) (00:54)
+- [Toothpaste is overrated…](https://www.youtube.com/watch?v=7MZvO4CDRS8) (00:42)
+- [Top 3 grocery gut offenders](https://www.youtube.com/watch?v=KN6AKVJ4ILg) (00:54)
+- [Top 3 travel hacks ✈️](https://www.youtube.com/watch?v=9oHvri2K1tU) (00:52)
+- [Trader Joe’s uses some sneaky ingredients](https://www.youtube.com/watch?v=Dnjp1ugxLtc) (00:35)
+- [Travel hack: I got food through security!](https://www.youtube.com/watch?v=A4VNEWi0R3w) (00:30)
+- [Trendy restaurants cook in seed oils](https://www.youtube.com/watch?v=UbdQ_PoMNFE) (00:41)
+- [Trip to the Seed Oil Store](https://www.youtube.com/watch?v=OIkRZYFbbDQ) (01:00)
+- [Trouble falling asleep? Try this…](https://www.youtube.com/watch?v=gWS4Jexlh6E) (00:16)
+- [Try this iPhone hack now](https://www.youtube.com/watch?v=dwGc901qF1Y) (01:00)
+- [Tuesdays are for tomahawks](https://www.youtube.com/watch?v=OB-DnC7r6G4) (00:57)
+- [Turmeric does not fix the root cause of inflammation](https://www.youtube.com/watch?v=q6hCxRUL_zQ) (00:58)
+- [U.S. Dietary Guidelines are CRAZY!!!](https://www.youtube.com/watch?v=YjfM-E-Dr-0) (01:00)
+- [Ultra-processed foods are healthy now??](https://www.youtube.com/watch?v=SxU3CBn2h1k) (00:59)
+- [Underwear lower testosterone?](https://www.youtube.com/watch?v=rAHNiFJrrpA) (00:31)
+- [US hospitals need this!!](https://www.youtube.com/watch?v=HwgIXSiYYro) (01:23)
+- [USDA carb recommendations vs mine](https://www.youtube.com/watch?v=BQhI1Q0aEi8) (00:56)
+- [Use honey as a sweetener!](https://www.youtube.com/watch?v=xvPgZfZREeg) (00:58)
+- [Use sunscreens based in zinc and animal fats #shorts #health #sunscreen](https://www.youtube.com/watch?v=OYDAwBYd_UU) (00:55)
+- [Use this trick to grow muscle](https://www.youtube.com/watch?v=k8Ybm8Dcc-A) (00:55)
+- [Vaping is horrible](https://www.youtube.com/watch?v=EvnJPLl1TCA) (00:49)
+- [Vegan diets and nutrient deficiencies: don’t make this mistake](https://www.youtube.com/watch?v=AkYqZcZn8PM) (00:43)
+- [Vegan diets have value](https://www.youtube.com/watch?v=Qnt2PvNMNgs) (00:33)
+- [Vegan diets lack nutrients](https://www.youtube.com/watch?v=dnAjTKCPwVA) (00:48)
+- [Vegan has better 💩’s now!!](https://www.youtube.com/watch?v=qmlQAHvVcW4) (00:11)
+- [Vegan Russell Brand discusses meat](https://www.youtube.com/watch?v=NWaC-KCLdhM) (00:42)
+- [Vegan tries meat after 5 years](https://www.youtube.com/watch?v=wsRHhk9nt3o) (01:00)
+- [Vegan vs carnivore UFC fight](https://www.youtube.com/watch?v=0ulVlSJr-Wk) (01:00)
+- [Vegans are silly 😂](https://www.youtube.com/watch?v=WiKQAOWfOi4) (00:24)
+- [Vegans eat meat for the first time](https://www.youtube.com/watch?v=JN6tPKv_lqQ) (01:29)
+- [Vegans should eat meat](https://www.youtube.com/watch?v=VTmTKw8RXKU) (00:47)
+- [Vegetables are harming you!](https://www.youtube.com/watch?v=PyHVry9EPFY) (00:59)
+- [Vegetables are not optimal for humans](https://www.youtube.com/watch?v=eVmdxq-KKsM) (00:31)
+- [Vegetables DO NOT contain antioxidants…](https://www.youtube.com/watch?v=D6XQTMoVevw) (00:47)
+- [Vegetables may be harmful…](https://www.youtube.com/watch?v=U6zVLADBIKI) (00:34)
+- [Vegetables might not be good for you](https://www.youtube.com/watch?v=nNUF6xb6wPM) (00:58)
+- [Vinegar vs baking soda](https://www.youtube.com/watch?v=Qvkqo6XO7v4) (00:56)
+- [Vitamin C has a dirty little secret #health #animalbased #nutrition](https://www.youtube.com/watch?v=2HHDc8kL6SQ) (00:54)
+- [Walmart Run!](https://www.youtube.com/watch?v=3oICD74K00o) (00:57)
+- [Want to build muscle?](https://www.youtube.com/watch?v=BwxMnUFKqIc) (00:33)
+- [Want to live longer? Don’t do this…](https://www.youtube.com/watch?v=CAdVBAk8DFk) (01:30)
+- [Want to lose wight?](https://www.youtube.com/watch?v=Bk6qgSarmrI) (00:49)
+- [Warning labels on BEEF?!?](https://www.youtube.com/watch?v=IrokkNTuwF4) (00:40)
+- [We evolved eating meat and organs](https://www.youtube.com/watch?v=yhYnX1fGNjU) (00:54)
+- [We need this in America](https://www.youtube.com/watch?v=GCK-SBmVt1U) (00:53)
+- [Weight LOSS shakes = weight GAIN??](https://www.youtube.com/watch?v=1REyE7PeCUY) (00:59)
+- [Western medicine needs to look at the root cause!](https://www.youtube.com/watch?v=GIUa65v7ZBw) (00:46)
+- [What about Olive Oil?](https://www.youtube.com/watch?v=698-JrKI2js) (00:43)
+- [What are the best cooking utensils?](https://www.youtube.com/watch?v=23veeLGBZoc) (00:45)
+- [What are the best FATS to cook with?](https://www.youtube.com/watch?v=6OlIq1hsEXM) (01:00)
+- [What are the BEST foods for PREGNANCY? #animalbased](https://www.youtube.com/watch?v=brzQVOWPjfQ) (00:34)
+- [What are the best pans for cooking?](https://www.youtube.com/watch?v=5wsn8VmF2cE) (00:40)
+- [What are we feeding our kids?!?](https://www.youtube.com/watch?v=8SXZUbl7CRw) (00:47)
+- [What are “Free-Range” eggs?](https://www.youtube.com/watch?v=_OzwbCWLK6w) (00:41)
+- [What causes cardiovascular disease??](https://www.youtube.com/watch?v=pMHxEPKu0NY) (00:59)
+- [What do I know about nutrition?](https://www.youtube.com/watch?v=ESvnJWoE0bI) (00:58)
+- [What does the “A” stand for?](https://www.youtube.com/watch?v=9En81nJq0KE) (00:59)
+- [What goes into your hotdog?](https://www.youtube.com/watch?v=yb0Z-PNjKV4) (00:57)
+- [What happened to Americans?](https://www.youtube.com/watch?v=pzbrwv4Pbtk) (00:37)
+- [What I ate at the White House](https://www.youtube.com/watch?v=Su2QjdlKgEM) (00:42)
+- [What I ate on New Year’s Eve](https://www.youtube.com/watch?v=JSiGR7geXuY) (00:58)
+- [What I eat in a day in Costa Rica](https://www.youtube.com/watch?v=D4RhzE6aQAU) (00:56)
+- [What I take with me when I travel](https://www.youtube.com/watch?v=DKIp9SLunn4) (01:00)
+- [What I would do to quit nicotine](https://www.youtube.com/watch?v=zxTh55NQ-oY) (00:37)
+- [What is an Animal-Based Diet?](https://www.youtube.com/watch?v=uCkmc8q4ZrA) (00:41)
+- [What is beef tallow? #animalbased](https://www.youtube.com/watch?v=3YbN1-ShEtE) (00:53)
+- [What is he eating? 😳](https://www.youtube.com/watch?v=4Wis0LjCfG0) (01:17)
+- [What is in In-N-Out’s secret sauce?](https://www.youtube.com/watch?v=q5eXh6yFR0s) (00:59)
+- [What is raw milk?](https://www.youtube.com/watch?v=c_KtDNt2wak) (00:53)
+- [What is soy lecithin?](https://www.youtube.com/watch?v=jaZqGKoZavk) (01:01)
+- [What is the best food for longevity? #animalbased #health](https://www.youtube.com/watch?v=2YwBknT6ub0) (00:43)
+- [What is the circle of life?](https://www.youtube.com/watch?v=FA-QxxqlGdY) (00:46)
+- [What is this!?](https://www.youtube.com/watch?v=R-uIEX1ppes) (01:02)
+- [What most doctors won’t tell you](https://www.youtube.com/watch?v=eYE9pEPiYQQ) (00:58)
+- [What nobody tells you about calories](https://www.youtube.com/watch?v=LAaC6mpmdqg) (01:01)
+- [What really causes acne?](https://www.youtube.com/watch?v=mGD1sqzCE2w) (00:57)
+- [What salt are you using?](https://www.youtube.com/watch?v=IbvigyTNkls) (00:45)
+- [What should babies eat?](https://www.youtube.com/watch?v=QkeIAVOsKy0) (01:00)
+- [What they don’t tell you about GLP-1 drugs](https://www.youtube.com/watch?v=sUSpKi0nO0w) (01:21)
+- [What to buy and avoid at Costco](https://www.youtube.com/watch?v=SkqjY5frnAI) (01:05)
+- [What to eat for a healthy libido](https://www.youtube.com/watch?v=cYWkt4y58Go) (00:46)
+- [What's in Oreo Filling??](https://www.youtube.com/watch?v=wVort7F0Z-M) (00:51)
+- [What's in the Whole Foods HOT BAR??](https://www.youtube.com/watch?v=7ptOYsFQKBY) (00:46)
+- [What’s actually inside an Oreo cookie?](https://www.youtube.com/watch?v=tDIVsIQ5Bic) (00:51)
+- [What’s ACTUALLY inside Impossible Burger??](https://www.youtube.com/watch?v=YqKG9GYQ6BA) (00:55)
+- [What’s happening at the 2024 Olympics?](https://www.youtube.com/watch?v=yxTzFentdfU) (01:00)
+- [What’s happening to Americans?](https://www.youtube.com/watch?v=5DTFlxQ0_Xs) (00:41)
+- [What’s happening to Americans?](https://www.youtube.com/watch?v=pYwQfjxUKC0) (00:57)
+- [What’s in a McDonald’s BigMac?](https://www.youtube.com/watch?v=E14JfVnhTt8) (01:00)
+- [What’s in a NUTRI-GRAIN bar?](https://www.youtube.com/watch?v=hwa8TSCtpwQ) (00:50)
+- [What’s in a Pop Tart?](https://www.youtube.com/watch?v=_oMVQbVS7Uk) (00:40)
+- [What’s in my Costa Rica butcher haul?](https://www.youtube.com/watch?v=cz9kTbr51Bs) (00:42)
+- [What’s in my fridge?](https://www.youtube.com/watch?v=nIsJ78SsNy4) (00:48)
+- [What’s in Starbucks pumpkin spice latte?](https://www.youtube.com/watch?v=RZDoHVL5Hqs) (00:59)
+- [What’s in your baby’s diapers?](https://www.youtube.com/watch?v=22HuFL6CgnU) (00:34)
+- [What’s in your chicken?](https://www.youtube.com/watch?v=r64Se62Qd-0) (00:55)
+- [What’s in your olive oil?](https://www.youtube.com/watch?v=d_QYKFn9zf0) (00:45)
+- [What’s in your pantry?](https://www.youtube.com/watch?v=dxDC8W7pyGM) (01:00)
+- [What’s in your tap water?](https://www.youtube.com/watch?v=xvYeIwkciEk) (00:29)
+- [What’s in your TAP WATER??](https://www.youtube.com/watch?v=ED1LQNfpA04) (01:00)
+- [What’s inside a Dunkin’ Iced Macchiato?](https://www.youtube.com/watch?v=E1kiKyV4ZRc) (01:04)
+- [What’s inside a hot dog? 😳](https://www.youtube.com/watch?v=MzqN5cuXhdA) (00:56)
+- [What’s inside a McDonald’s chicken nugget?](https://www.youtube.com/watch?v=sHHYWArS5Us) (01:00)
+- [What’s inside a Zyn?](https://www.youtube.com/watch?v=TSy4JDtPVqQ) (00:39)
+- [What’s inside American cheese?](https://www.youtube.com/watch?v=vqc7oLi1sAU) (00:59)
+- [What’s inside Chick-fil-A sauce?](https://www.youtube.com/watch?v=CKGqWzOctDI) (00:28)
+- [What’s inside Dunkin Donuts’ ?](https://www.youtube.com/watch?v=5yLbhlJ6gtY) (00:45)
+- [What’s inside Nutella?](https://www.youtube.com/watch?v=CMLEzosR5og) (00:48)
+- [What’s inside oat milk?](https://www.youtube.com/watch?v=VIw7yZPbn1Q) (01:00)
+- [What’s inside Starbucks Holiday Drink?](https://www.youtube.com/watch?v=Ox_pwVlcZmc) (00:45)
+- [What’s inside Starbucks’ breakfast!?](https://www.youtube.com/watch?v=EGY8LUSW1rc) (00:37)
+- [What’s inside your coffee machine?](https://www.youtube.com/watch?v=cHZr5SHyc1o) (01:28)
+- [What’s making Americans fat?](https://www.youtube.com/watch?v=NJqdJj6xGY8) (00:57)
+- [What’s my take on vegan diets?](https://www.youtube.com/watch?v=FQVUrSoisYo) (00:59)
+- [What’s the best breakfast for longevity?](https://www.youtube.com/watch?v=WVSo45sUpoA) (00:27)
+- [What’s the BEST health food? #animalbased](https://www.youtube.com/watch?v=C1tSF6dy4uk) (00:29)
+- [What’s the best non-toxic cookware?](https://www.youtube.com/watch?v=RWNdlFKzXQM) (00:39)
+- [What’s the best water? I tested them…](https://www.youtube.com/watch?v=Lae8GI9Oq4Y) (00:53)
+- [What’s the best way to cook eggs?](https://www.youtube.com/watch?v=0L63t4iUQ8c) (00:43)
+- [What’s the most optimal human diet?](https://www.youtube.com/watch?v=BX7g_cudbAM) (00:55)
+- [What’s the oil in your peanut butter?](https://www.youtube.com/watch?v=BuYVrjIdzLA) (00:33)
+- [What’s wrong with BIG FOOD?](https://www.youtube.com/watch?v=M-dE2iIiqjE) (00:38)
+- [What’s your dental floss made of?](https://www.youtube.com/watch?v=0Q_JNqyG2yI) (01:00)
+- [Wha’s happening to Americans?](https://www.youtube.com/watch?v=HWpnTZP4vi4) (00:58)
+- [Where did I gain my background in nutrition?](https://www.youtube.com/watch?v=BlAtR7oWlQM) (00:57)
+- [Where do all the toothbrushes go??](https://www.youtube.com/watch?v=m1tmB2GAZmI) (00:45)
+- [Which olive oil is best?](https://www.youtube.com/watch?v=yH3sfinUSqs) (00:40)
+- [Which one are you picking?](https://www.youtube.com/watch?v=iM9z2qes7u4) (00:59)
+- [Which one are you picking?](https://www.youtube.com/watch?v=wcG6f71eEn4) (00:42)
+- [Whiten your teeth with this toothpaste](https://www.youtube.com/watch?v=8HgTn-g1nNM) (01:06)
+- [Who invented this thing? 😳](https://www.youtube.com/watch?v=lOPeNTbQams) (01:01)
+- [Whole Foods is not as healthy as you think](https://www.youtube.com/watch?v=E-RGRD27xME) (00:59)
+- [Who’s still eating salads in 2026?](https://www.youtube.com/watch?v=El5PFsEgDRA) (00:08)
+- [Why are Americans getting fat?](https://www.youtube.com/watch?v=DWMunaOavuY) (00:56)
+- [Why are Americans getting fatter?](https://www.youtube.com/watch?v=GE6e_BhW0Q0) (00:57)
+- [Why are you chewing gum??](https://www.youtube.com/watch?v=RkwwPLx0fP8) (00:32)
+- [Why are you using deodorant…](https://www.youtube.com/watch?v=LNedlg1mQMw) (00:48)
+- [Why are you using sunscreen?](https://www.youtube.com/watch?v=6QJ-b-_aDD8) (01:08)
+- [Why aren’t doctors taught this?](https://www.youtube.com/watch?v=79C8MYaJg-A) (00:47)
+- [Why cows are not bad for the environment](https://www.youtube.com/watch?v=b8O7KC_h8Es) (01:00)
+- [Why cutting calories fails long-term](https://www.youtube.com/watch?v=a6yq_DzFD4U) (01:00)
+- [Why did Robert Downey Jr quit his vegan diet?](https://www.youtube.com/watch?v=G2AYNFAYJSA) (00:56)
+- [Why do so many kids get diabetes?](https://www.youtube.com/watch?v=6utEu2IPLz4) (00:54)
+- [Why eating liver will transform your health](https://www.youtube.com/watch?v=pogGOotTTMo) (00:59)
+- [Why I do what I do…](https://www.youtube.com/watch?v=oPIjwQe2GRM) (01:01)
+- [Why I don't drink Coffee!](https://www.youtube.com/watch?v=lEe-jmO-jt4) (00:59)
+- [Why I don't eat fish](https://www.youtube.com/watch?v=fohp3ODi3S8) (00:53)
+- [Why I Don't Eat Most Chicken or Pork..](https://www.youtube.com/watch?v=FwglS-HbmNw) (00:55)
+- [Why I don't worry about my "high" cholesterol...](https://www.youtube.com/watch?v=SH5VtA7DjcI) (00:58)
+- [Why I don’t wear sunglasses](https://www.youtube.com/watch?v=Fk1Seipqc3I) (00:54)
+- [Why I eat fruit](https://www.youtube.com/watch?v=yqLuGtlPUQ8) (00:52)
+- [Why I never scramble my eggs](https://www.youtube.com/watch?v=c-O8UBsKvTM) (00:48)
+- [Why I only use wired headphones…](https://www.youtube.com/watch?v=PIQmDUrF5T4) (00:44)
+- [Why I prefer to be barefoot](https://www.youtube.com/watch?v=nH5ZiTVORFA) (01:00)
+- [Why I stopped using toothpaste](https://www.youtube.com/watch?v=SqyPTBzvfxw) (00:57)
+- [Why I would never eat at chipotle](https://www.youtube.com/watch?v=m2r3bud4mik) (01:09)
+- [Why I would never eat canned sardines](https://www.youtube.com/watch?v=Dn8cz8Q9M2A) (01:13)
+- [Why I'll never drink another green smoothie](https://www.youtube.com/watch?v=XXngFqZi0Og) (00:43)
+- [Why is fast food addictive?](https://www.youtube.com/watch?v=sBbn66BASZk) (00:59)
+- [Why is McDonald’s so expensive?](https://www.youtube.com/watch?v=QOXqzW8pURE) (00:58)
+- [Why I’ll never buy this at Costco](https://www.youtube.com/watch?v=FMhBS_gMRkA) (00:46)
+- [Why LED lights are harming your sleep](https://www.youtube.com/watch?v=B7nY4rXnQjg) (00:50)
+- [Why men have low testosterone today](https://www.youtube.com/watch?v=6UStjTPlkuo) (01:26)
+- [Why peanut butter is NOT a health food](https://www.youtube.com/watch?v=ilCw-tvXT98) (00:31)
+- [Why raw butter is better than pasteurized](https://www.youtube.com/watch?v=2MwRcbIQf3w) (00:46)
+- [Why Ronaldo doesn’t use AirPods](https://www.youtube.com/watch?v=MPlNeD6VbN0) (01:36)
+- [Why tap water is harmful](https://www.youtube.com/watch?v=fVBz4wcIsbI) (00:29)
+- [Why we love the smell of Christmas tree](https://www.youtube.com/watch?v=th819p8qbYs) (00:49)
+- [Why Western medicine is failing…](https://www.youtube.com/watch?v=EqZwsk-ewaw) (00:41)
+- [Why would I take cheat days? #shorts #health #carnivorediet](https://www.youtube.com/watch?v=jt-FdOb7EH4) (00:52)
+- [Why you do not need kale to live a healthy life...](https://www.youtube.com/watch?v=StoXHI5tOLc) (00:50)
+- [Why you need a shower filter](https://www.youtube.com/watch?v=lrzC7jtZfNc) (00:56)
+- [Why you should avoid seed oils](https://www.youtube.com/watch?v=kr58G6GFPQg) (00:42)
+- [Why you should drink milk](https://www.youtube.com/watch?v=W4tfE5H6Ong) (00:34)
+- [Why you should eat more eggs](https://www.youtube.com/watch?v=axJMmdCcQLg) (00:26)
+- [Why you should only wear cotton](https://www.youtube.com/watch?v=CCIoa3qo-P8) (00:42)
+- [Why you shouldn’t buy pre-shredded cheese…](https://www.youtube.com/watch?v=mHoJidBPRCI) (00:20)
+- [Why you’re always hungry…](https://www.youtube.com/watch?v=eZG8ootjxxU) (01:30)
+- [Will testicle be banned from pro sports?](https://www.youtube.com/watch?v=Gyi0l-T84ik) (00:58)
+- [Would you eat this?](https://www.youtube.com/watch?v=8OyA8WeCvvk) (01:08)
+- [Yes, I was once a raw vegan…](https://www.youtube.com/watch?v=gZWC_JxjljM) (00:54)
+- [You crave meat for a reason…](https://www.youtube.com/watch?v=-i4NDImStFE) (01:00)
+- [You DON’T need lower cholesterol…](https://www.youtube.com/watch?v=7VCxmMFZSGQ) (01:00)
+- [You have been lied to about kale](https://www.youtube.com/watch?v=FjeKpQN8LGE) (00:58)
+- [You should never eat these](https://www.youtube.com/watch?v=8BJTVtZF1FU) (01:00)
+- [You think nicotine is healthy!?](https://www.youtube.com/watch?v=4CjoMHDm7N4) (00:50)
+- [You won’t believe what’s in your tap water](https://www.youtube.com/watch?v=rXVPOtdPnFE) (00:48)
+- [You won’t believe what’s inside Tide PODS](https://www.youtube.com/watch?v=dJxJ4AccIX4) (01:30)
+- [Your chicken is full of chlorine](https://www.youtube.com/watch?v=iZ-qsl3CH6A) (00:34)
+- [Your children deserve better..](https://www.youtube.com/watch?v=pntOg2TbaM0) (01:00)
+- [Your doctor doesn’t know this…](https://www.youtube.com/watch?v=fdpfvg0wfxo) (00:59)
+- [Your feet hate these shoes](https://www.youtube.com/watch?v=kmSg7A8vXVE) (01:13)
+- [You’ll never touch another receipt…](https://www.youtube.com/watch?v=7zn7TCSM54c) (01:04)
+- [You’re drinking plastic](https://www.youtube.com/watch?v=y1UFCGLkhHQ) (00:57)
+- [You’re not getting enough sunlight](https://www.youtube.com/watch?v=vitEr9LP98c) (01:28)
+- [You’re probably not running correctly #running #fitness #carnivorediet](https://www.youtube.com/watch?v=iT03Yx6ge3o) (00:46)
+- [Zyn vs vaping: which is healthier?](https://www.youtube.com/watch?v=HDz_sM8lv6g) (01:27)
+- [“Health foods” causing joint pain?](https://www.youtube.com/watch?v=IDFYVIRKLa8) (00:46)
+- [“Healthy” snack bars are deceiving…](https://www.youtube.com/watch?v=RZq8VnRrvy4) (01:00)
+- [“Healthy” veggie sticks contain what??](https://www.youtube.com/watch?v=MuAejBVaHok) (00:52)
+- [“Red meat is inflammatory” - Harvard 😂](https://www.youtube.com/watch?v=AcS2zoWrFq8) (00:56)
+- [“Smart” plant-based bacon = dumb bacon](https://www.youtube.com/watch?v=IAputm2gh3g) (00:36)
+
+---
+
+## Physical Fitness
+
+# 09 — Source Catalog
+
+Every source ingested into this knowledge package, with the Program, Workouts, Exercises and movements, Equipment, and Training focus each one covers.
+
+**Source:** Various programs  
+**Sources catalogued:** 83
+
+Entries are alphabetical by title. Use the source ID to trace any claim in the other files back to its source.
+
+---
+
+## 1. 25 Sets of SQUATS! - Leg Day | Seth Feroce
+
+- **Source ID:** `2e7nsKn7PC0`
+- **URL:** https://www.youtube.com/watch?v=2e7nsKn7PC0
+- **Upload date:** 2022-08-03
+- **Duration:** 13:29
+- **Source file:** `sources/clean/2e7nsKn7PC0.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Leg day, 25 sets of barbell back squats at a fixed weight and rep count
+- **Exercises and movements:** barbell back squat (225 lb, 10 reps per set, ~25 sets total)
+- **Equipment:** barbell, squat rack
+- **Training focus:** deliberately performing "junk volume" (Seth's own term) for a stated non-hypertrophy purpose, using extreme, repetitive training volume as a mental-health/stress-release practice, explicitly agreeing with a training-effectiveness critique rather than defending the technique on those terms
+
+## 2. 3D Shoulder Workout | Bro Split
+
+- **Source ID:** `c17-tkIZ6-Q`
+- **URL:** https://www.youtube.com/watch?v=c17-tkIZ6-Q
+- **Upload date:** 2023-11-13
+- **Duration:** 23:08
+- **Source file:** `sources/clean/c17-tkIZ6-Q.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Shoulder day, deliberately press-free after an acute elbow flare-up
+- **Exercises and movements:** dumbbell side lateral raise (drop set with timed rest between steps), dumbbell front raise (grip position varied), upright row (heavy, for traps/rear delt), face pull, bent-over variant tied to a rear-double-bicep pose, dumbbell shrug
+- **Equipment:** dumbbells, cable machine (face pulls, rope attachment)
+- **Training focus:** building a full shoulder workout around raises/rows only, with no pressing, due to an elbow injury, a drop set with deliberate rest between weight decreases to let blood flow, a face-pull variation chosen specifically because it replicates a competition pose's motion, grip position on front raises as a felt variable, tested rather than fixed
+
+## 3. Abdominal Strength and Core Conditioning
+
+- **Source ID:** `abdominal-strength-and-core-conditioning`
+- **Duration:** 1:40:50
+- **Source file:** `sources/clean/abdominal-strength-and-core-conditioning.txt`
+- **Program:** RushFit
+- **Workouts:** the Rush Fit Warmup (body-weight, full-body), Abdominal Strength and Core Conditioning (five rounds), post-workout cool-down, Foundation Moves (full repeat of the standalone DVD)
+- **Exercises and movements:** one-leg dumbbell squat, dumbbell uppercut (standing rotation), weighted sit-up (dumbbell overhead), lying rotation (weighted or bodyweight, touch down side to side), bicycle, dumbbell swing, dumbbell wood chop (diagonal, both directions), prone one-arm side press, power sit-up, glute bridge (single-leg), leg raise, V-up, opposites drill (alternating opposite arm/leg raise from all-fours or kneeling), lateral plank with hip lift, alternating sides, straight-up sit-up, back bend (bridge, on the balls of the feet), navasana (boat pose) to sit-through, mountain climber
+- **Equipment:** a pair of dumbbells (one used for most of rounds 1 and 2)
+- **Training focus:** core defined broadly — not just abdominals, but glutes, back extensors, and shoulder stabilizers, core as the transfer mechanism between leg drive and striking power, progressive difficulty across five rounds, hardest last
+
+## 4. Arm Day Explained at Pumptown | Seth Feroce
+
+- **Source ID:** `QSkmRguNamg`
+- **URL:** https://www.youtube.com/watch?v=QSkmRguNamg
+- **Upload date:** 2023-01-06
+- **Duration:** 33:19
+- **Source file:** `sources/clean/QSkmRguNamg.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Arm day, bro-split, bicep/tricep superset across four exercises each
+- **Exercises and movements:** rope cable curl and cable press-down (warm-up, low joint strain), standing alternating hammer curl, straight and cross-body, V-bar tricep press-down, cambered-bar curl, overhead dumbbell tricep extension ("French press"), grip variants for lateral vs. long/medial head, incline dumbbell curl, reverse-grip dip machine, one-arm cable curl and one-arm press-down burnout sets (finisher)
+- **Equipment:** cable machine (rope and V-bar attachments), dumbbells, cambered/EZ bar, incline bench, dip machine
+- **Training focus:** warm-up exercise selection chosen for maximum blood flow with minimal joint strain, grip position on overhead extensions as a lateral-vs-long/medial-head lever, verified via mirror, controlled chaos — pushing an injury threshold deliberately, without crossing it, burnout finishers using partial reps and negatives once full contractions are no longer possible
+
+## 5. Arm Day on Low Carbs | Seth Feroce
+
+- **Source ID:** `qi_Ie7oe1cw`
+- **URL:** https://www.youtube.com/watch?v=qi_Ie7oe1cw
+- **Upload date:** 2023-03-06
+- **Duration:** 21:25
+- **Source file:** `sources/clean/qi_Ie7oe1cw.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Arm day, deliberately scheduled on a low-carbohydrate day
+- **Exercises and movements:** dumbbell hammer curl, standing alternating dumbbell curl, V-bar / cable tricep press-down (wrist-twist and lean-forward variants), two-handed cable curl, cambered-bar cable curl, spider curl (concentration-curl variant), cross-body cable tricep extension, overhead dumbbell tricep extension
+- **Equipment:** dumbbells, cable machine (curl and press-down attachments), incline bench
+- **Training focus:** matching workout carbohydrate timing to a body part's relative training demand, defining "instinctive training" as objective self-assessment, not just going with feeling, wrist rotation and lean angle as tricep long-head/lateral-head levers, distance from the cable pulley as a distinct emphasis variable on cross-body extensions
+
+## 6. Arm Day w/ Larry Wheels | Powerlifter Meets Bodybuilder
+
+- **Source ID:** `fnSBWbTbJIQ`
+- **URL:** https://www.youtube.com/watch?v=fnSBWbTbJIQ
+- **Upload date:** 2024-02-28
+- **Duration:** 45:38
+- **Source file:** `sources/clean/fnSBWbTbJIQ.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Arm day, casual guest session with powerlifter/strongman Larry Wheels
+- **Exercises and movements:** cable curl (rear-double-bicep pose visualization), preacher curl, straight-bar curl, concentration curl, cable overhead tricep extension
+- **Equipment:** cable curl and cable overhead extension stations, preacher bench, straight bar
+- **Training focus:** deliberate partial reps ("pushing blood") on isolation curls, posing-visualization as a cueing technique during cable exercises, top set/back-off set structure with a slowed eccentric, per Larry's coach, preferring cable over heavy dumbbell overhead extensions to reduce injury risk
+
+## 7. Arm Training | My Current Protocol & Split
+
+- **Source ID:** `buTwER0sEjE`
+- **URL:** https://www.youtube.com/watch?v=buTwER0sEjE
+- **Upload date:** 2024-11-27
+- **Duration:** 34:13
+- **Source file:** `sources/clean/buTwER0sEjE.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Arm day, bro-split, biceps/triceps supersetted across four exercises each
+- **Exercises and movements:** cable curl and cambered-bar press-down (warm-up), plate-loaded machine preacher curl, cambered-bar curl, single-arm reverse-grip tricep press-down, reverse-grip machine dip
+- **Equipment:** cable machine, plate-loaded preacher curl machine, cambered/EZ bar, reverse-grip dip machine
+- **Training focus:** superset structure alternating biceps and triceps across four exercises each, single-arm reverse-grip press-down for lateral-head tricep emphasis, training frequency ("two days on, one day off," arms every fifth/sixth day), distinguishing what's enjoyable from what's actually producing results
+
+## 8. Back Day Explained: Full Breakdown
+
+- **Source ID:** `f9kNF4P6lRs`
+- **URL:** https://www.youtube.com/watch?v=f9kNF4P6lRs
+- **Upload date:** 2025-06-06
+- **Duration:** 78:04
+- **Source file:** `sources/clean/f9kNF4P6lRs.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Back day, diagnostic/coaching session targeting a specifically lagging body part (lower lats)
+- **Exercises and movements:** one-handed pull-down (Tai's existing routine, used as baseline), wide/neutral-grip pull-up (warm-up), reverse-grip barbell row, tested at multiple torso angles (near-vertical, 45°, and near-horizontal), close-grip pull-down, chest-up, single-arm iso row (Hammer Strength style), multiple hand/foot bracing variants, chest-assisted T-bar row, neutral grip, seated cable row, reverse and neutral grip, multiple torso angles
+- **Equipment:** lat pull-down machine, pull-up bar, barbell, close-grip pull-down attachment, single-arm iso row machine, chest-assisted T-bar row machine, seated cable row station
+- **Training focus:** diagnosing a lagging body part by comparing growth rate across body parts, not absolute size, line-of-pull manipulation via body/leg bracing position, independent of grip, live-testing torso angle to find the point where lower-lat engagement is lost to mid/upper back, two-handed vs. single-arm exercises for building mass vs. isolating a muscle, the idea that mind-muscle connection can follow tissue growth rather than precede it
+
+## 9. Back to My Roots | Grungy Shoulder Training
+
+- **Source ID:** `CA3VdIWws2s`
+- **URL:** https://www.youtube.com/watch?v=CA3VdIWws2s
+- **Upload date:** 2024-11-14
+- **Duration:** 16:59
+- **Source file:** `sources/clean/CA3VdIWws2s.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Shoulder day, casual old-school public-gym session
+- **Exercises and movements:** lateral raise, bar/plate-loaded machine, close-grip row / pullover machine (mentioned as gym equipment, not the session's own exercise focus)
+- **Equipment:** old-school plate-loaded lateral raise machine, close-grip row and pullover machine (300 lb stack)
+- **Training focus:** slight elbow bend and relaxed wrist on lateral raises to reduce elbow stress, training camaraderie/enjoyment as a stated motivator, distinct from any technical claim
+
+## 10. Balance and Agility
+
+- **Source ID:** `balance-and-agility`
+- **Duration:** 38:26
+- **Source file:** `sources/clean/balance-and-agility.txt`
+- **Program:** RushFit
+- **Workouts:** the Rush Fit Warmup (body-weight, full-body), Balance and Agility circuit (two rounds, body-weight, single-leg emphasis)
+- **Exercises and movements:** torso twist, side bend, plank walk-out (finger-walk to plank and back), ginga (Capoeira base step), walk-out push-up, lateral lunge, push-up with lateral hold (rotating side plank), air squat, quadruped opposite knee-to-elbow, lying sit-up, four-way lunge, backward lunge, crossback lunge, single-leg dumbbell driver (reach and touch), single-leg rotation reach, airplane (single-leg torso rotation), X-hop, line hops, gorilla squat, mule kick (bullfrog drill), alligator crawl (bear crawl), floor pull-up with pop-up, walking lateral push-up (over-under-out)
+- **Equipment:** one dumbbell, used only as a floor marker/reach target, not lifted, open floor space, bare feet recommended for the single-leg reach work
+- **Training focus:** single-leg balance and stabilizer activation, agility and quick change of direction, core activation, full-body warm-up before a high-intensity session
+
+## 11. Basics
+
+- **Source ID:** `basics`
+- **Duration:** 10:55
+- **Source file:** `sources/clean/basics.txt`
+- **Program:** Body Beast
+- **Workouts:** orientation module only — no exercise circuit is demonstrated in this source
+- **Exercises and movements:** none demonstrated; equipment and safety instruction only
+- **Equipment:** dumbbells, 10 to 60 lb range across the program, EZ-curl-style bar, heard in the transcript as "easy bar", for targeting muscle fibers dumbbells alone can't reach, resistance bands, as an alternative/on-ramp to dumbbells and to pull-ups (door attachment), weight bench or stability ball, Beachbody chin-up bar (door-frame) and Chin-Up Max assist, Beachbody Jump Mat, for Beast Cardio joint/spine support
+- **Training focus:** program philosophy and "dynamic set training" overview, nutrition and supplementation as co-equal to the workouts, equipment tiers, ranked by importance, lifting and equipment safety, Team Beachbody support system and Beachbody Challenge
+
+## 12. Beast Abs
+
+- **Source ID:** `beast-abs`
+- **Duration:** 12:06
+- **Source file:** `sources/clean/beast-abs.txt`
+- **Program:** Body Beast
+- **Workouts:** Beast Abs (single round, body-weight plus optional light dumbbells)
+- **Exercises and movements:** crunch (20 reps), Russian twist, weighted, straight-leg raise with mat touch (one-leg regression available), hip raise / reverse crunch, cross-knee crunch, hands off the floor (advanced), cobra (prone back extension, glutes squeezed), Spider-Man plank (knee-to-elbow from plank), bucket drop (plank, single-leg glute touch), weighted plank arm raise/extension ("beast time"), 10 reps per side, windshield wipers, straight-arm sit-up sequence spelling B-E-A-S-T, forward then backward, called "spell the beast" in-source
+- **Equipment:** a pair of light dumbbells (used for the Russian twist and the weighted plank arm raise only), exercise mat
+- **Training focus:** direct abdominal/core work, single round, no rest breaks named between moves, core framed as the link between upper- and lower-body strength and as lower-back protection
+
+## 13. Beast Cardio
+
+- **Source ID:** `beast-cardio`
+- **Duration:** 31:42
+- **Source file:** `sources/clean/beast-cardio.txt`
+- **Program:** Body Beast
+- **Workouts:** Beast Cardio (weighted interval circuit, warm-up through stretch)
+- **Exercises and movements:** high knees, hip circles, hip side-to-side warm-up, reverse lunge, alternating, side squat, sumo squat, bodyweight and weighted-pause variants, weighted squat-to-press (20s work / 10s hold, three rounds), calf raise, toe taps on a bench, squat jump (halfway-up and full-height variants, with hold), mountain climber, single-arm row, held plank between sets, burpee with a stand-to-weighted-press finish, plank push-up (down-and-hold, 3 rounds), standard push-up (down-and-hold, 3 rounds), lateral in-and-out squat pulse, squat with upright row, lateral lunge with hold ("Clio lunge"), plank-to-push-up hold, standing oblique twist with a touch-down, into a stationary sprint ("the beast"), post-workout stretch sequence (standing hamstring reach, standing quad stretch, kneeling hip-flexor stretch)
+- **Equipment:** a pair of light dumbbells, a bench (or a training partner's cue-following as a substitute, per the source)
+- **Training focus:** interval cardio combined with light-weight strength moves ("anaerobic" work named explicitly), self-rated perceived exertion (1-10 scale) used as the intensity check, explicitly positioned against steady-state cardio
+
+## 14. Bodybuilding Arm Workout - BACK AT IT!! | Seth Feroce
+
+- **Source ID:** `aa85pra9nsk`
+- **URL:** https://www.youtube.com/watch?v=aa85pra9nsk
+- **Upload date:** 2022-10-02
+- **Duration:** 24:12
+- **Source file:** `sources/clean/aa85pra9nsk.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Arm day, bro-split, bicep/tricep superset
+- **Exercises and movements:** dumbbell hammer curl and V-bar press-down (warm-up), cable curl (constant tension), overhead dumbbell tricep extension ("French curl"), dip machine / Hammer Strength chest-supported dip, single-arm variants, cross-body cable tricep extension (finisher)
+- **Equipment:** dumbbells, cable machine (V-bar, cable curl attachment), dip machine or assisted dip/pull-up station with a footrest
+- **Training focus:** hand/elbow position on dip-machine pressing as a lateral-vs-long-head tricep lever, pairing exercises by proximity in the gym as a practical superset consideration, limiting how many joint-taxing tricep "mass builders" appear in one session, matching high-calorie meals to specific, demanding training days
+
+## 15. Bonus Workouts
+
+- **Source ID:** `bonus-workouts`
+- **Duration:** 1:34:53
+- **Source file:** `sources/clean/bonus-workouts.txt`
+- **Program:** RushFit
+- **Workouts:** the Rush Fit Warmup (repeated twice, once per included session), Stretch for Flexibility (full repeat of the standalone DVD), Balance and Agility (full repeat of the standalone DVD), RUSHFIT Fitness Assessment (guided walkthrough, new content), post-workout cool-down and stretch sequence
+- **Exercises and movements:** assessment squat (60s max reps), assessment push-up (60s max reps), assessment sit-up (60s max reps), assessment burpee (60s max reps)
+- **Equipment:** none — bodyweight only
+- **Training focus:** self-assessment and progress tracking, compiling two full prior sessions for repeat practice on one disc
+
+## 16. Bro Split Day 1 - Chest
+
+- **Source ID:** `rGhzDOSyB54`
+- **URL:** https://www.youtube.com/watch?v=rGhzDOSyB54
+- **Upload date:** 2023-10-18
+- **Duration:** 27:28
+- **Source file:** `sources/clean/rGhzDOSyB54.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Chest day, day 1 of a bro-split return after a period of functional training
+- **Exercises and movements:** {'incline dumbbell press (set/set intensifier': 'failure at ~8, halve weight, double reps to 16)'}, plate-loaded chest press (flat-press substitute, removes stabilizer demand), dumbbell pullover (rib-cage expansion, hip-sink technique), plate-loaded incline fly, cable crossover (multiple pin heights), dumbbell lateral raise (finisher)
+- **Equipment:** dumbbells, plate-loaded chest press machine, plate-loaded incline fly machine, cable crossover station
+- **Training focus:** deliberately slowing down and resting between sets after a period of fast-paced functional training, a gradual, tested calorie increase when returning to a bulk phase, rather than a sudden jump, posing/flexing deliberately saved for the end of the workout to conserve pump, hip-sink/hip-lift technique on dumbbell pullovers to maximize stretch and lower-chest engagement
+
+## 17. Build Back & Bis
+
+- **Source ID:** `build-back-and-bis`
+- **Duration:** 51:42
+- **Source file:** `sources/clean/build-back-and-bis.txt`
+- **Program:** Body Beast
+- **Workouts:** Build Back & Bis (8 lifting sets, single/superset/giant-set/drop-set/combo-set structure, plus stretch)
+- **Exercises and movements:** light-weight warm-up deadlift, bent-over row, light weight (warm-up), reverse fly, light weight (warm-up), deadlift, single set with escalating weight and a closing drop set, dumbbell pull-over on a stability ball, superset with pull-up/assisted pull-up, bent-over EZ-bar row, giant set with one-arm dumbbell row and seated reverse fly, underhand-grip chin-up, 30-second max-rep rounds x3, barbell/dumbbell bicep curl, single set with escalating weight and a closing drop set, hammer curl, single-single-double combo set, close-grip EZ-bar curl, single set finishing with a drop set, cobra (prone back extension, arms out), two 30-second rounds, standing lat stretch (wrist-grab side bend), bench-assisted lat stretch, standing shoulder/neck stretch
+- **Equipment:** dumbbells across a wide range (20-70 lb pairs used on camera), EZ-curl bar, pull-up bar with an assist option, a bench and a stability ball (pull-over)
+- **Training focus:** back (rhomboids, traps, lats) and biceps (short and long head), by name, {"dynamic set training's named set types demonstrated in sequence": 'single, super, giant, drop, combo'}, progressive-overload weight tracking ("write it down") across escalating rounds
+
+## 18. Build Chest & Tris
+
+- **Source ID:** `build-chest-and-tris`
+- **Duration:** 51:42
+- **Source file:** `sources/clean/build-chest-and-tris.txt`
+- **Program:** Body Beast
+- **Workouts:** Build Chest & Tris (6 lifting sets, single/superset/giant-set/drop-set structure, plus cool-down and stretch)
+- **Exercises and movements:** shoulder rolls (warm-up), close-grip push-up, halfway then full range (warm-up), wide push-up (warm-up), flat dumbbell press, single set with escalating weight and a closing drop set, incline fly, superset with incline press, flat close-grip press, giant set with flat partial fly and decline push-up, lying two-arm dumbbell triceps extension, single set with escalating weight and a closing drop set, one-arm dumbbell kickback, superset with close-grip push-up, bench/chair dip, one-minute set, reverse crunch ("knees in and out to the chest"), one-minute set, standing chest/shoulder rotation stretch, overhead triceps stretch, each arm, standing shoulder-and-chest stretch
+- **Equipment:** dumbbells across a wide range (15-50 lb pairs used on camera), a bench or stability ball; a chair named as a bench substitute for dips
+- **Training focus:** chest, described as worked "top to bottom" (upper, middle, lower), all three heads of the triceps, by name, {"dynamic set training's named set types demonstrated in sequence": 'single, super, giant, drop'}
+
+## 19. Build Legs
+
+- **Source ID:** `build-legs`
+- **Duration:** 39:37
+- **Source file:** `sources/clean/build-legs.txt`
+- **Program:** Body Beast
+- **Workouts:** Build Legs (4 lifting sets, single/superset/giant-set/drop-set structure, plus stretch)
+- **Exercises and movements:** high knees, hip circles (warm-up), reverse lunge, alternating (warm-up), sumo squat, bodyweight (warm-up), sumo squat, weighted, single set with escalating weight and a closing drop set, alternating front lunge, superset with bench step-up-to-reverse-lunge, back squat, giant set with Bulgarian split squat and one-leg stiff-leg deadlift, standing single-leg calf raise, 30-second sets, seated calf raise, 30-second sets, seated knee-to-chest ab roll-back, 30-second sets, flat-bench core roll-out, 30-second set, standing hamstring reach stretch, standing quad stretch, kneeling hip-flexor stretch
+- **Equipment:** dumbbells across a wide range (10-50 lb pairs used on camera), a bench (or a training partner's cue-following as a substitute), a barbell for the one-leg stiff-leg deadlift (dumbbell substitute shown)
+- **Training focus:** quads, hamstrings, glutes, and calves, named explicitly as the session's targets, {"dynamic set training's named set types demonstrated in sequence": 'single, super, giant'}, a stated "success only, failure is not an option" framing for pushing through set difficulty
+
+## 20. Build Shoulders
+
+- **Source ID:** `build-shoulders`
+- **Duration:** 44:22
+- **Source file:** `sources/clean/build-shoulders.txt`
+- **Program:** Body Beast
+- **Workouts:** Build Shoulders (4 lifting sets, single/superset/giant-set/drop-set structure, plus finisher and stretch)
+- **Exercises and movements:** light arm circles, forward and reverse (warm-up), light front raise, upright row, and reverse fly (warm-up), seated shoulder press, single set with escalating weight and a closing drop set, standing side lateral raise, superset with close-grip EZ-bar upright row, seated shoulder press (reverse grip), giant set with a single-single-double front-raise combo and a rear-delt raise, standing trap shrug, superset with a bench-supported incline shrug ("scap traps"), front-side-back lateral raise combo, light weight, named "the Giz move", lying knee-to-chest ab roll and a hip-raise variant, paired with the Giz move as a finisher, standing shoulder/lat stretch
+- **Equipment:** dumbbells across a range (10-70+ lb pairs used on camera), an EZ-curl bar, a bench (or a training partner's cue-following as a substitute)
+- **Training focus:** all three deltoid heads (front, side, rear) plus traps, named explicitly, {"dynamic set training's named set types demonstrated in sequence": 'single, super, giant, drop'}, a stated "know your limit" caveat alongside the program's usual all-out framing
+
+## 21. Building a Bigger Chest | Seth Feroce
+
+- **Source ID:** `dqgzTjY31WQ`
+- **URL:** https://www.youtube.com/watch?v=dqgzTjY31WQ
+- **Upload date:** 2023-09-01
+- **Duration:** 25:58
+- **Source file:** `sources/clean/dqgzTjY31WQ.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Chest and light triceps, explained as a worked example of building a workout from categorized exercises
+- **Exercises and movements:** incline Smith machine press (chosen over dumbbells for elbow safety), flat dumbbell fly, dumbbell pullover, supersetted with push-ups or dumbbell press, cable crossover or pec deck (detail/finisher), hex press (dumbbells pressed together), V-bar press-down and rope press-down (light tricep work)
+- **Equipment:** Smith machine, dumbbells, cable crossover machine, pec deck, dumbbells (hex press), cable press-down attachments
+- **Training focus:** a three-category exercise classification (size-and-build, extras, detail) for building a workout, choosing equipment (machine vs. free weight) based on a specific joint concern, not just preference, the same exercise (plate-loaded fly machine) serving two different roles depending on placement and load, hex press as an effective but injury-flagged exercise (dumbbells can strike the face if control is lost)
+
+## 22. Bulk Arms
+
+- **Source ID:** `bulk-arms`
+- **Duration:** 41:23
+- **Source file:** `sources/clean/bulk-arms.txt`
+- **Program:** Body Beast
+- **Workouts:** Bulk Arms (6 lifting sets, progressive/drop-set/force-set structure, plus ab finisher and stretch)
+- **Exercises and movements:** light arm circles, forward and reverse (warm-up), light straight curl, wide-grip curl, hammer curl, and two-arm overhead triceps extension (warm-up), high knees (warm-up), straight-bar/dumbbell curl, progressive set (light-medium-heavy, no rest between weight changes), seated overhead triceps extension, single set with a closing drop set, EZ-bar curl, force set (5 sets of 5, negative-focus, no drop between sets), lying triceps extension ("crush"), single set with a closing drop set, concentrated hammer curl, progressive set, each arm in sequence, triceps kickback, progressive set, each arm in sequence, weighted-plate crunch ("old school abs"), 30 reps, standing side-bend stretch, standing chest/arm stretch, standing triceps/shoulder stretch
+- **Equipment:** dumbbells across a wide range (10-40 lb pairs used on camera), an EZ-curl bar, a bench (or a training partner's cue-following as a substitute), a weight plate (for the ab finisher)
+- **Training focus:** biceps (long and short heads, named explicitly) and triceps, by name, {"dynamic set training's named set types demonstrated in sequence": 'progressive, drop, force'}, two of the eight set types `basics`[01:01] lists by name — progressive and force — get their first in-session definitions here
+
+## 23. Bulk Back
+
+- **Source ID:** `bulk-back`
+- **Duration:** 34:13
+- **Source file:** `sources/clean/bulk-back.txt`
+- **Program:** Body Beast
+- **Workouts:** Bulk Back (4 lifting sets, superset/progressive-set/force-set structure, plus stretch)
+- **Exercises and movements:** shoulder rolls, forward and reverse (warm-up), walk-out to plank hold (warm-up), light deadlift, bent-over row, and reverse fly (warm-up), dumbbell pull-over on a bench, superset with pull-ups, wide-grip EZ-bar bent-over row, progressive set (light-medium-heavy), one-arm dumbbell row, force set (5 sets of 5, held, no drop), deadlift, single set with a closing drop set, seated reverse fly, superset with a plank one-arm row/twist, standing wrist-grab side (lat) stretch, bench-assisted triceps/lat stretch, standing shoulder stretch
+- **Equipment:** dumbbells across a wide range (25-80 lb pairs used on camera), an EZ-curl bar, a bench and a pull-up bar (or a training partner's cue-following as a substitute)
+- **Training focus:** lats, traps, and lower back, named explicitly, framed toward a V-taper, {"dynamic set training's named set types demonstrated in sequence": 'superset, progressive, force, single, drop'}, a specific named injury-prevention correction (pull-over range limited to protect the neck)
+
+## 24. Bulk Chest
+
+- **Source ID:** `bulk-chest`
+- **Duration:** 31:50
+- **Source file:** `sources/clean/bulk-chest.txt`
+- **Program:** Body Beast
+- **Workouts:** Bulk Chest (5 lifting sets, superset/force-set/progressive-set/combo-set/multi-set structure, plus stretch)
+- **Exercises and movements:** arm circles, forward and reverse (warm-up), arm rotation, 90 degrees (warm-up), close-grip push-up, halfway then full range (warm-up), wider-grip push-up (warm-up), incline fly, superset with incline press, flat close-grip press with a rotating hand turn, force set (5 sets of 5, minimal rest, no weight change), flat dumbbell press, progressive set (light-medium-heavy, then reversed heavy-medium-light), flat fly-to-press, combo set (one rep = one fly plus one press), decline push-up, cobra, and Russian twist, multi-set (several exercises chained, varying reps/duration), standing chest-twist stretch, bench-assisted triceps stretch, standing shoulder stretch, hands crossed behind the back
+- **Equipment:** dumbbells across a wide range (10-50 lb pairs used on camera), a bench
+- **Training focus:** chest, worked from multiple angles across incline, flat, and combo movements, {"dynamic set training's named set types demonstrated in sequence": 'superset, force, progressive, combo, multi'}, a specific named safe-lifting cue for picking weights up off the floor (bend the knees, not the back)
+
+## 25. Bulk Legs
+
+- **Source ID:** `bulk-legs`
+- **Duration:** 42:41
+- **Source file:** `sources/clean/bulk-legs.txt`
+- **Program:** Body Beast
+- **Workouts:** Bulk Legs (6 lifting sets, single/progressive/force/superset/drop-set structure, plus finisher and stretch)
+- **Exercises and movements:** hip twists and circles (warm-up), reverse lunge, alternating (warm-up), side-to-side (cossack) squat, bodyweight (warm-up), sumo squat, bodyweight (warm-up), walking front-and-back lunge, single set with escalating weight, squat, progressive set (light-medium-heavy, then reversed heavy-medium-light), sumo squat, force set (5 sets of 5, held, minimal rest), EZ-bar-loaded stationary lunge/split squat, progressive set, each leg, stiff-leg deadlift, superset with side-to-side (cossack) squat, closing in a drop set, single-leg standing calf raise, 50-rep sets, straight-arm ab sequence spelling B-E-A-S-T, forward then backward, called "spell the beast" in-source, standing hamstring reach stretch, bench-assisted quad stretch, kneeling hip-flexor stretch
+- **Equipment:** dumbbells across a wide range (15-40 lb pairs used on camera), an EZ-curl bar, a bench, table, or chair (named explicitly as calf-raise support substitutes)
+- **Training focus:** quads, hamstrings, glutes, and calves, named explicitly, {"dynamic set training's named set types demonstrated in sequence": 'single, progressive, force, superset, drop'}, {'a stated rationale (not just an instruction) for hip-hinge tempo': 'take the tension off your lower back'}
+
+## 26. Bulk Shoulders
+
+- **Source ID:** `bulk-shoulders`
+- **Duration:** 37:50
+- **Source file:** `sources/clean/bulk-shoulders.txt`
+- **Program:** Body Beast
+- **Workouts:** Bulk Shoulders (5 sets, superset/progressive-set/drop-set structure, plus a bodyweight finisher and stretch)
+- **Exercises and movements:** light arm circles, forward and reverse (warm-up), light front raise, V-raise, side raise, shoulder press, upright row, and reverse fly (warm-up), standing side lateral raise, superset with Arnold press, EZ-bar upright row, progressive set (light-medium-heavy, then reversed), plate front raise with a twist, alternating arms, bench-supported seated reverse fly, progressive set (light-medium-heavy, then reversed), Superman (prone alternating opposite arm/leg raise), superset with a plank twist hold, overhead behind-head stretch, standing arm-across-body stretch, standing shoulder-roll stretch
+- **Equipment:** dumbbells across a wide range (10-50 lb pairs used on camera), an EZ-curl bar, a weight plate (for the front raise), a bench and a stability ball (for the reverse fly)
+- **Training focus:** all three deltoid heads (front, side, rear), explicitly framed as producing "3D" shoulder shape, {"dynamic set training's named set types demonstrated in sequence": 'superset, progressive, drop'}, a bodyweight core/shoulder-stability finisher (Superman, plank twist) distinct from every other weighted set in this session
+
+## 27. Chest Workout Tips | Raw & Unfiltered
+
+- **Source ID:** `BRYj0qirZH8`
+- **URL:** https://www.youtube.com/watch?v=BRYj0qirZH8
+- **Upload date:** 2026-07-24
+- **Duration:** 36:05
+- **Source file:** `sources/clean/BRYj0qirZH8.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Chest day, plus a side-lateral shoulder segment filmed in the same session
+- **Exercises and movements:** leg extension / leg curl (warm-up, unrelated to chest but shown as warm-up example), heavy incline dumbbell or barbell press (first exercise), flat machine chest press (constant-tension, "trifecta" intensifier), low-incline dumbbell fly ("hug a tree" arm bend), dip (chest-focused) and cable crossover, finisher, dumbbell/cable/machine side lateral raise (multiple hand and elbow positions)
+- **Equipment:** flat machine chest press, incline bench, dumbbells, barbell, dip station, cable crossover machine, dumbbells or machine for side laterals
+- **Training focus:** pre/post-workout nutrition timing built around avoiding gut distress during training, bent-arm ("hug a tree") fly technique to reduce shoulder-joint stress vs. locked-arm flies, constant-tension machine press with a "trifecta" (partial + full-rep) intensifier, spending enough sets on one exercise (6-10) to actually learn its mechanics, rather than a fixed 3-4-set default, cardio calves — calf development as a byproduct of cardio volume, not just direct training
+
+## 28. CHEST WORKOUT W/ JULIAN DECINA & MATT GREGGO
+
+- **Source ID:** `H6bPy_CCpE8`
+- **URL:** https://www.youtube.com/watch?v=H6bPy_CCpE8
+- **Upload date:** 2026-01-09
+- **Duration:** 53:28
+- **Source file:** `sources/clean/H6bPy_CCpE8.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Chest day, guest session with pro bodybuilder Julian Decina and influencer Matt Greggo
+- **Exercises and movements:** assisted pull-up (chest-day warm-up volume), machine chest press (seat/weight-stack position adjusted for upper-chest emphasis), incline and flat press variations (unspecified equipment per segment)
+- **Equipment:** assisted pull-up machine, chest press machine with adjustable seat and weight-stack placement
+- **Training focus:** warm-up-set-to-working-set ratio scaled to movement size (6-8 warm-ups for big lifts, 1-2 working sets; 2-3 working sets for smaller movements), seat and weight-stack position as an upper-chest emphasis lever on machine press, training frequency built around measured personal recovery time, not a fixed weekly template, prioritizing a lagging body part via training frequency (training it more often) rather than added volume alone
+
+## 29. Explosive Power Training
+
+- **Source ID:** `explosive-power-training`
+- **Duration:** 1:41:18
+- **Source file:** `sources/clean/explosive-power-training.txt`
+- **Program:** RushFit
+- **Workouts:** the Rush Fit Warmup (body-weight, full-body), Explosive Power Training (five rounds, plyometric), post-workout cool-down, Foundation Moves (full repeat of the standalone DVD)
+- **Exercises and movements:** jumping jacks, "seals" (opening/closing arms, quick feet), crossovers (arm and leg), front-and-back arm swing, ice skaters, jump squat, alternate bounding, squat thrust with tuck jump, plyo push-up, plyo pop-up, plyo burpee, dumbbell punch press, low shuffle, dumbbell power clean (explosive), push press (explosive), forward bounding, two legs, fencer's lunge (explosive, alternating direction), lateral bounding, single-leg stabilization
+- **Equipment:** light dumbbells (5-10 lbs) for round 3, heavier dumbbells (20-30 lbs) for rounds 4-5
+- **Training focus:** the stretch-shortening cycle (plyometrics), explicit low rep caps to preserve explosiveness, not time-based max reps, quality of repetition over quantity, stated as the whole point
+
+## 30. Foundation Moves
+
+- **Source ID:** `foundation-moves`
+- **Duration:** 46:34
+- **Source file:** `sources/clean/foundation-moves.txt`
+- **Program:** RushFit
+- **Workouts:** Foundation Moves (technique reference, not a timed circuit)
+- **Exercises and movements:** squat (bodyweight), lunge, four directions (bodyweight), push-up (with knuckle, narrow/wide-grip, plyo, and knee variations), sit-up (with crunch modification), back extension (with limb-count progressions), rotation (fixed-gaze, following, and prone variations), burpee and squat thrust (with sprawl-step substitution), addressing the dumbbell (pickup technique), dumbbell squat (side-load and front-rack variations), dumbbell lunge, four directions, dumbbell standing press (basic, rotational, and push-press variations), dumbbell row (stationary, rotational, one-arm-one-leg, and prone variations), upright row and high pull, dumbbell clean / power clean (with squat-curl substitution), dumbbell swing, dumbbell get-up (half and full)
+- **Equipment:** dumbbells, a range of weights (bodyweight substitutions offered throughout), a chair, table, or rack for addressing the dumbbell at knee-to-waist height
+- **Training focus:** movement-pattern mastery before the timed circuits, core activation as a prerequisite to every other movement, graded modifications for balance, coordination, or strength limitations, functional transfer to fighting-specific actions (level changes, takedowns, punches, guard passes)
+
+## 31. Full Body Strength and Conditioning
+
+- **Source ID:** `full-body-strength-and-conditioning`
+- **Duration:** 1:39:57
+- **Source file:** `sources/clean/full-body-strength-and-conditioning.txt`
+- **Program:** RushFit
+- **Workouts:** the Rush Fit Warmup (body-weight, full-body), Full Body Strength and Conditioning (five rounds), post-workout cool-down, Foundation Moves (full repeat of the standalone DVD)
+- **Exercises and movements:** air squat, Hindu push-up, dumbbell get-up, one-arm-one-leg row, dumbbell squat ("the piston"), dumbbell squat thrust, sumo high pull, narrow push-up, alternate backward lunge with front-leg stabilization, wide press (side to side), internal/external curl, crossback lunge with reach, prone row, dumbbell power clean, push press
+- **Equipment:** a pair of dumbbells, light-to-moderate weight
+- **Training focus:** combining strength and conditioning in one session ("every muscle in the human body"), lactic acid tolerance built deliberately from round one, EMOM/AMRAP-style pacing (as-many-rounds/reps-as-possible within a fixed window), the "championship round" combining every movement pattern from the session
+
+## 32. Fxck Around & Find Out | Chest & Shoulders w/ The Young Bucks
+
+- **Source ID:** `CnIVBAjD3Wg`
+- **URL:** https://www.youtube.com/watch?v=CnIVBAjD3Wg
+- **Upload date:** 2024-08-30
+- **Duration:** 27:02
+- **Source file:** `sources/clean/CnIVBAjD3Wg.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Chest and shoulders, structured around a triple rest-pause set and progressive-range-of-motion side raises
+- **Exercises and movements:** flat/incline press or fly (triple rest-pause protocol), side lateral raise (full range, then half range, then quarter range at failure)
+- **Equipment:** dumbbells (side laterals); press/fly equipment unspecified in this transcript's technique segments
+- **Training focus:** a defined triple rest-pause protocol (failure, 15 breaths, failure again, 15 breaths, failure again), progressive-range-of-motion partial reps as a legitimate extension past full-range failure, acknowledging that a personal training philosophy may not generalize to other lifters, using visible fullness/pump as evidence that nutrition and training are combining effectively
+
+## 33. Gnarly Chest Workout w/ Anton Swl & Cjak
+
+- **Source ID:** `A6-J6_NdVt0`
+- **URL:** https://www.youtube.com/watch?v=A6-J6_NdVt0
+- **Upload date:** 2024-11-19
+- **Duration:** 52:00
+- **Source file:** `sources/clean/A6-J6_NdVt0.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Chest day, guest session structured around a "feel-out set" before a committed top set
+- **Exercises and movements:** incline dumbbell press (feel-out set before committing to a top set), Smith machine flat/incline press, flat or neutral-grip press for lower-chest activation
+- **Equipment:** dumbbells, incline bench, Smith machine
+- **Training focus:** a "feel-out" set before committing to a top set, distinct from a true warm-up, assisted-rep spotting philosophy specific to bodybuilders vs. powerlifters, neutral/flat grip press as a lower-chest emphasis lever, pre-exhaust training as a stated method for building chest volume tolerance
+
+## 34. Grueling Back Workout
+
+- **Source ID:** `hGl2Ob_k9Bo`
+- **URL:** https://www.youtube.com/watch?v=hGl2Ob_k9Bo
+- **Upload date:** 2026-03-19
+- **Duration:** 33:03
+- **Source file:** `sources/clean/hGl2Ob_k9Bo.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Back day, casual old-school public-gym session
+- **Exercises and movements:** Nautilus/Cybex pullover machine, Smith-machine-style chest-assisted T-bar row (unbranded, referred to informally as "Mega Mass")
+- **Equipment:** Nautilus and Cybex pullover machines, chest-assisted T-bar/Smith row machine, Allen-key weight-stack pins
+- **Training focus:** elbow/arm range of motion as a lower-lat vs. mid-back/trap emphasis lever, training frequency philosophy (2 days on, 1 day off) tied to recovery and food intake
+
+## 35. High Dose Testosterone Vs. Stacking Anabolic Steroids
+
+- **Source ID:** `cRnf05icb4M`
+- **URL:** https://www.youtube.com/watch?v=cRnf05icb4M
+- **Upload date:** 2020-01-29
+- **Duration:** 06:13
+- **Source file:** `sources/clean/cRnf05icb4M.txt`
+- **Program:** none — standalone YouTube commentary, not part of a named DVD/app program
+- **Workouts:** none — this is dosing-strategy commentary, not a filmed training session
+- **Exercises and movements:** none demonstrated
+- **Equipment:** none
+- **Training focus:** arguing for capping testosterone dose at an individual's estrogen-control tolerance and adding tissue-selective compounds on top, rather than pushing testosterone dose high enough to require an aromatase inhibitor, naming aromatase inhibitor (AI) use itself as an added source of oxidative and cardio/neuro stress, not a neutral fix for excess estrogen
+
+## 36. How To Train Shoulders
+
+- **Source ID:** `OMNnkYSJ-SM`
+- **URL:** https://www.youtube.com/watch?v=OMNnkYSJ-SM
+- **Upload date:** 2026-01-31
+- **Duration:** 30:39
+- **Source file:** `sources/clean/OMNnkYSJ-SM.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Shoulder day, "whiteboard workout" explaining his shoulder-training philosophy and origin story
+- **Exercises and movements:** dumbbell side lateral raise (high volume, unilateral, partial-ROM origin technique), Smith machine / dumbbell / machine shoulder press, front delt raise (dumbbell, barbell, plate, or cable; capped at eye level), bent-over rear delt raise / face pull (short range of motion, heavier weight), dumbbell shrug
+- **Equipment:** dumbbells, Smith machine, shoulder press machine ("total shoulder" by Paramount), cable machine, barbell, plates, wrist wraps (for heavy shrugs)
+- **Training focus:** an injury (broken wrist/radius) as the origin of his unilateral, partial-ROM shoulder technique, high training frequency specifically for delts, based on observed faster recovery than other body parts, front raise height capped at eye level as the felt "sweet spot," not maximized, short range of motion with heavier weight for isolating the small rear delt
+
+## 37. How-To: T-Bar Rows - Feroce Iron Academy
+
+- **Source ID:** `m2KAkQV7pdA`
+- **URL:** https://www.youtube.com/watch?v=m2KAkQV7pdA
+- **Upload date:** 2016-11-09
+- **Duration:** 06:16
+- **Source file:** `sources/clean/m2KAkQV7pdA.txt`
+- **Program:** Feroce Iron Academy (YouTube tutorial series)
+- **Workouts:** single-movement tutorial, not a full session
+- **Exercises and movements:** T-bar row, machine version (close grip and wide grip)
+- **Equipment:** T-bar row machine, lifting belt (recommended at heavier loads)
+- **Training focus:** lat thickness and upper-back development, grip width as a way to shift emphasis between lats and upper back, base/posture technique to avoid being pulled forward
+
+## 38. Intense Arm Workout Seth Feroce | Whiteboard Workout
+
+- **Source ID:** `xlNCg_GWGy0`
+- **URL:** https://www.youtube.com/watch?v=xlNCg_GWGy0
+- **Upload date:** 2022-07-22
+- **Duration:** 40:45
+- **Source file:** `sources/clean/xlNCg_GWGy0.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Arm day, "whiteboard workout" format walking through his old-school arm-training philosophy
+- **Exercises and movements:** dumbbell hammer curl (grip position along the handle varied), V-bar tricep press-down, alternating dumbbell curl, overhead dumbbell tricep extension ("French curl"), preacher curl (cable and free-standing bench variants), dip machine press-down, concentration curl (dumbbell and cable), one-arm press-down burnout
+- **Equipment:** dumbbells, cable machine (V-bar attachment, cable curl), preacher bench (or improvised bench substitute), dip machine
+- **Training focus:** {'a session structured in two explicit phases': 'mass-building first, isolation/separation later'}, hammer curl grip position along the dumbbell handle as a bicep-vs-forearm lever, avoiding stimulant pre-workout specifically on arm day because caffeine is a vasoconstrictor, accepting a disclosed prior tricep tear as the cost of a favorite but joint-risky exercise
+
+## 39. Intense Shoulder Training | Jammed, Jacked, & Juicy
+
+- **Source ID:** `-4Wqix43V4o`
+- **URL:** https://www.youtube.com/watch?v=-4Wqix43V4o
+- **Upload date:** 2024-03-19
+- **Duration:** 31:12
+- **Source file:** `sources/clean/-4Wqix43V4o.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Shoulder day, pyramid-loading side laterals into presses, then rear delt/face pull superset
+- **Exercises and movements:** dumbbell side lateral raise, pyramided up in weight before pressing, {'Smith machine shoulder press (top set / drop set': '80s, 60s, 50s, 40s, 30s, 20s)'}, {'bent-over rear delt dumbbell raise (grip position tested': 'neutral vs. pronated)'}, face pull, superset with rear delt raises
+- **Equipment:** dumbbells, Smith machine, cable machine (face pulls)
+- **Training focus:** filling the whole shoulder (sides, then rear, then front) with blood before moving to presses, a felt post-heavy-set "lightness" effect when dropping to a lighter weight mid-workout, grip position on rear delt raises tested live for its effect on feel, superset structure (rear delt raise + face pulls) to isolate a small, hard-to-target muscle
+
+## 40. Intensity is My Sanctuary | Arm Day Advice
+
+- **Source ID:** `LMP5kT_dmnM`
+- **URL:** https://www.youtube.com/watch?v=LMP5kT_dmnM
+- **Upload date:** 2024-10-14
+- **Duration:** 32:49
+- **Source file:** `sources/clean/LMP5kT_dmnM.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Arm day, bro-split, biceps/triceps supersetted
+- **Exercises and movements:** two-handed cable curl (dedicated warm-up piece), dumbbell hammer curl (straight and cross-body variants), preacher curl (45° and 90° bench angles), concentration-style dumbbell curl / spin-out curl, with grip position along the dumbbell varied, V-bar tricep press-down, close-grip bench press
+- **Equipment:** two-handed cable curl station, dumbbells, preacher bench, cambered/EZ bar, V-bar cable attachment, barbell
+- **Training focus:** warm-up sets deliberately loaded enough to "feel" the weight, as injury prevention, hammer curl variation (straight vs. cross-body) for brachialis vs. overall bicep thickness, preacher curl seat/elbow positioning and deliberate eccentric tempo, grip position along a dumbbell's handle as a distinct pull-angle variable
+
+## 41. LEG DAY & POSING W/ HANY RAMBOD
+
+- **Source ID:** `TFQInC2JvIo`
+- **URL:** https://www.youtube.com/watch?v=TFQInC2JvIo
+- **Upload date:** 2024-12-10
+- **Duration:** 46:11
+- **Source file:** `sources/clean/TFQInC2JvIo.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Leg day, coached live by Hany Rambod, plus a brief posing/upper-body warm-up segment
+- **Exercises and movements:** leg extension (plate-loaded), including bottom-range partial reps, leg press
+- **Equipment:** plate-loaded leg extension machine (vertical, adjustable platform), leg press / pendulum / belt squat / "super squat" equipment (mentioned, not all used on camera)
+- **Training focus:** the vocabulary distinction between fatigue and failure, and between "full" and "pushing," as coaching-communication tools, deliberately slowed eccentrics and controlled reps as the actual driver of quality, not just completing reps, toe position on leg extensions as an upper-thigh emphasis lever, training frequency and recovery demands changing with age, restructured around 2-3 days on/1 off rather than 6 days straight
+
+## 42. LEG DAY Explained | Seth Feroce
+
+- **Source ID:** `s0LJIwSUAMQ`
+- **URL:** https://www.youtube.com/watch?v=s0LJIwSUAMQ
+- **Upload date:** 2022-10-20
+- **Duration:** 26:15
+- **Source file:** `sources/clean/s0LJIwSUAMQ.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Leg day, high-volume, each exercise assigned a specific target look
+- **Exercises and movements:** leg extension, leg curl, adductor/abductor (warm-up), leg press (foot width and height tested for quad/hamstring/sweep emphasis), power squat / hack squat (face-in machine, overall leg development), Smith machine lunge (fixed foot placement, torso lean tested for teardrop emphasis), stiff-legged deadlift, supersetted with seated leg curl, front squat (quad separation specifically)
+- **Equipment:** leg extension/curl machine, adductor/abductor machine, leg press machine, power/hack squat machine, Smith machine, dumbbells, barbell
+- **Training focus:** foot width and platform height on leg press as independent quad/hamstring/sweep-vs-teardrop levers, a single warm-up set on every new exercise, not just the first, to let the body learn that movement's specific feel, assigning each leg exercise a specific visual target (side sweep, teardrop, overall mass, or quad separation) rather than treating them as interchangeable, deliberately combining moderate-to-heavy weight with high volume, rather than choosing one or the other
+
+## 43. Lucky 7
+
+- **Source ID:** `lucky-7`
+- **Duration:** 25:28
+- **Source file:** `sources/clean/lucky-7.txt`
+- **Program:** Body Beast
+- **Workouts:** Lucky 7 (7 pyramid-structured combination moves, ascending 1-to-7 reps, plus a pyramid-counted stretch)
+- **Exercises and movements:** hip circles, arm circles, walk-out plank hold, reverse lunge (warm-up), EZ-bar push-up (side to side) + clean + squat, pyramid 1-7, stiff-leg deadlift + bent-over row, pyramid 1-7, skull crusher + overhead press + crunch, pyramid 1-7, curl + press + squat, pyramid 1-7, shoulder raise + alternating reverse lunge, pyramid 1-7, side lunge with a twist, pyramid 1-7, upright row-and-hold + calf raise, pyramid 1-7, pyramid-counted stretch sequence (side pulls, overhead raise, hamstring reach, kneeling stretch)
+- **Equipment:** an EZ-curl bar (dumbbell substitute shown throughout), light dumbbells (10 lb pairs used on camera for some moves)
+- **Training focus:** total-body conditioning combining strength and metabolic/fat-loss framing in one session, a named ascending-pyramid rep scheme (1 rep, then 2, then 3... up to 7) distinct from the program's other named set types, reframing "failure" as stopping rather than as reaching muscular fatigue
+
+## 44. Meet The Team
+
+- **Source ID:** `meet-the-team`
+- **Duration:** 05:36
+- **Source file:** `sources/clean/meet-the-team.txt`
+- **Program:** Body Beast
+- **Workouts:** orientation/testimonial module only — no exercise circuit is taught in this source
+- **Exercises and movements:** none taught; brief unnarrated b-roll of a lift is shown but not instructed
+- **Equipment:** none discussed beyond the program's general "no gym membership needed" claim
+- **Training focus:** participant testimonials on program philosophy, intensity, and accessibility, giant sets, supersets, and drop sets named by a participant as a specific favorite feature, a stated combined aerobic-plus-anaerobic claim
+
+## 45. My Darkest Steroid Experiences
+
+- **Source ID:** `FjT1pgXYR8k`
+- **URL:** https://www.youtube.com/watch?v=FjT1pgXYR8k
+- **Upload date:** 2025-05-13
+- **Duration:** 35:23
+- **Source file:** `sources/clean/FjT1pgXYR8k.txt`
+- **Program:** none — standalone YouTube commentary, not part of a named DVD/app program
+- **Workouts:** none — this is a personal-history/pharmacology retrospective, not a filmed training session
+- **Exercises and movements:** none demonstrated
+- **Equipment:** insulin syringes vs. standard injection syringes, named only in the context of reducing injection-site swelling, not as training equipment
+- **Training focus:** recounting three personal adverse-effect episodes from steroid use (sterile injection-site swelling, an acute panic/death-anxiety reaction to trenbolone, and androgen-driven hostility toward his wife) as individual, non-universal data points, explicitly framing side-effect severity and type as high-variance and unpredictable per individual, not a fixed dose-response, flagging upcoming non-steroidal muscle-growth drugs (myostatin/activin inhibitors) as a future lower-risk alternative
+
+## 46. My Number 1 Piece Of Advice If You Are Going To Use Steroids That Nobody Will Tell You
+
+- **Source ID:** `FGLeADS_B7w`
+- **URL:** https://www.youtube.com/watch?v=FGLeADS_B7w
+- **Upload date:** 2019-07-11
+- **Duration:** 12:53
+- **Source file:** `sources/clean/FGLeADS_B7w.txt`
+- **Program:** none — standalone YouTube commentary, not part of a named DVD/app program
+- **Workouts:** none — this is pharmacology/decision-making commentary, not a filmed training session
+- **Exercises and movements:** none demonstrated
+- **Equipment:** none
+- **Training focus:** rejecting age-based readiness rules for starting anabolic steroid use in favor of a diet/training-competence threshold, framing lifetime steroid use as a finite, depletable resource ("blasts in the tank") gated by hair loss or organ damage, not desire, warning against wasting early, uninformed cycles before diet and training are fully optimized
+
+## 47. Nasty Chest Pump | Digging Deep
+
+- **Source ID:** `kh9Oo4QQqXE`
+- **URL:** https://www.youtube.com/watch?v=kh9Oo4QQqXE
+- **Upload date:** 2024-04-25
+- **Duration:** 46:15
+- **Source file:** `sources/clean/kh9Oo4QQqXE.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Chest day, contest-prep session (2.5 weeks out), progressive-loading rather than to-failure
+- **Exercises and movements:** Hammer Strength incline press, {'Smith machine press (progressive loading': '15, 12, 10 reps, increasing weight, 1-2 reps in reserve)'}, quarter-rep-then-full-rep intensifier on an unspecified press
+- **Equipment:** Hammer Strength incline press machine, Smith machine, free-weight plates (matched by thickness/type)
+- **Training focus:** progressive-loading warm-up/work-set scheme that deliberately avoids failure during prep, matching plate type/thickness on both sides of a bar as a stated technique detail, recognizing inflammation/fatigue as a signal to rest rather than "hammer down no matter what"
+
+## 48. Old School Back Workout | Time to Get Huge
+
+- **Source ID:** `pcLl4tE3BwQ`
+- **URL:** https://www.youtube.com/watch?v=pcLl4tE3BwQ
+- **Upload date:** 2024-02-21
+- **Duration:** 32:57
+- **Source file:** `sources/clean/pcLl4tE3BwQ.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Back day, five-exercise session with guest athlete Tai
+- **Exercises and movements:** pull-up (warm-up volume), wide-grip and reverse-grip pull-down, bent-over barbell row, overhand, one-arm dumbbell row / one-arm Hammer Strength iso row, rack pull, single-arm cable iso row, hyperextension (finisher)
+- **Equipment:** pull-up bar, lat pull-down machine, barbell, dumbbells, Hammer Strength iso row machine, rack (for rack pulls), cable row station, hyperextension bench
+- **Training focus:** pull-down target point (chin vs. nipple line) for upper-back vs. lower-lat emphasis, rack pulls as an intermediate/advanced deadlift substitute, with specific injury cautions, elbow drive/positioning on one-arm rows, including within-set drift as fatigue sets in, disagreement over verbal cueing ("pull with your elbow") despite agreement on the underlying technique
+
+## 49. Putting a Fan Through My Back Workout!
+
+- **Source ID:** `06X8Z71fuuk`
+- **URL:** https://www.youtube.com/watch?v=06X8Z71fuuk
+- **Upload date:** 2024-10-30
+- **Duration:** 46:19
+- **Source file:** `sources/clean/06X8Z71fuuk.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Back day, guest-led with live coaching cues
+- **Exercises and movements:** wide-grip pull-down (warm-up, pull-to-sternum vs. pull-to-upper-chest), chin-up, old-school style, Dorian-Yates-style low row (belly-button pull-height reference), single-arm iso row, underhand pull-down / pullover, behind-the-neck pull-down
+- **Equipment:** lat pull-down machine, chin-up bar, low-row/DY-row machine, single-arm iso row machine
+- **Training focus:** pull height relative to the belly button as a lat-vs-midback lever, with an explicit injury-risk rationale, elbow-up vs. elbow-down trade-off between lat strength and smaller, weaker upper-back muscles, grip width nuance (slightly closer than neutral) as a felt, not measured, adjustment, encouraging use of a spotter, and grip strength via dead hangs/pull-ups
+
+## 50. RAW BACK WORKOUT W/ ANTON SWL & COACH KYLE
+
+- **Source ID:** `NbyeienXYOg`
+- **URL:** https://www.youtube.com/watch?v=NbyeienXYOg
+- **Upload date:** 2023-11-24
+- **Duration:** 42:10
+- **Source file:** `sources/clean/NbyeienXYOg.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Back day, coached session with guest coach Kyle Wilds and guest athlete Anton Ratushnyak
+- **Exercises and movements:** dumbbell/cable pullover (rope or EZ-bar attachment, warm-up), chest-supported row machine, single-arm (top-set/potentiation method)
+- **Equipment:** rope or EZ-bar pullover attachment, chest-supported single-arm row machine
+- **Training focus:** potentiation-based top-set method (one true maximal set per session, not repeatable), felt-effort decision rule for whether to push a set or stop short, recovery-aware volume adjustment based on prior-day training, stronger-side-first training order for single-arm/unilateral work, shoulder protraction/retraction as a lat-vs-upper-back emphasis cue
+
+## 51. Rebuilding My Physique: Back Day | Seth Feroce
+
+- **Source ID:** `L9Py5s8V58E`
+- **URL:** https://www.youtube.com/watch?v=L9Py5s8V58E
+- **Upload date:** 2020-08-06
+- **Duration:** 22:52
+- **Source file:** `sources/clean/L9Py5s8V58E.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Back day, single session, explicitly framed as a post-layoff rebuilding workout
+- **Exercises and movements:** assisted pull-up / pull-down (wide, close, and reverse grip), barbell row, bent-over, T-bar row, plate-loaded, one-arm dumbbell row, reverse-grip pull-down
+- **Equipment:** assisted pull-up machine, barbell, T-bar row machine, dumbbells, lat pull-down machine (mag grips, reverse grip)
+- **Training focus:** grip cue ("guns in your hands") to shift emphasis from arms onto lats, pull-down direction (to the face/front vs. to the chin) as a lat-vs-upper-back emphasis variable, rebuilding training volume and confidence after a 10-week layoff and an elbow injury
+
+## 52. RUSHFIT Advanced Training Calendar, Weeks 1-8
+
+- **Source ID:** `rushfit-advanced-training-calendar`
+- **URL:** http://www.gsprushfit.com
+- **Author:** Georges St-Pierre / Erik Owings
+- **Source file:** `sources/clean/rushfit-advanced-training-calendar.txt`
+- **Program:** RushFit
+- **Workouts:** Strength and Endurance, Abdominal Strength and Core Conditioning, The Fight Conditioning Workout, Balance and Agility (as "Bonus Workout"), Stretch for Flexibility (as "Bonus Workout"), Full Body Strength and Conditioning, Explosive Power Training
+- **Exercises and movements:** none recorded
+- **Equipment:** dumbbells, 2 lbs to 25 lbs
+- **Training focus:** same-day double training sessions (AM/PM split), the densest DVD rotation of the three tiers, strictly weekly rest days, same cadence as Intermediate
+
+## 53. RUSHFIT Beginner Training Calendar, Weeks 1-8
+
+- **Source ID:** `rushfit-beginner-training-calendar`
+- **URL:** http://www.gsprushfit.com
+- **Author:** Georges St-Pierre / Erik Owings
+- **Source file:** `sources/clean/rushfit-beginner-training-calendar.txt`
+- **Program:** RushFit
+- **Workouts:** Strength and Endurance, Abdominal Strength and Core Conditioning, The Fight Conditioning Workout, Balance and Agility (as "Bonus Workout"), Stretch for Flexibility (as "Bonus Workout"), Full Body Strength and Conditioning, Explosive Power Training
+- **Exercises and movements:** none recorded
+- **Equipment:** dumbbells, 2 lbs to 25 lbs
+- **Training focus:** 8-week periodized scheduling across the program's own DVDs, cardio dosage that increases at the program's midpoint, rest-day placement (roughly every third or fourth day)
+
+## 54. RUSHFIT Intermediate Training Calendar, Weeks 1-8
+
+- **Source ID:** `rushfit-intermediate-training-calendar`
+- **URL:** http://www.gsprushfit.com
+- **Author:** Georges St-Pierre / Erik Owings
+- **Source file:** `sources/clean/rushfit-intermediate-training-calendar.txt`
+- **Program:** RushFit
+- **Workouts:** Strength and Endurance, Abdominal Strength and Core Conditioning, The Fight Conditioning Workout, Balance and Agility (as "Bonus Workout"), Stretch for Flexibility (as "Bonus Workout"), Full Body Strength and Conditioning, Explosive Power Training
+- **Exercises and movements:** none recorded
+- **Equipment:** dumbbells, 2 lbs to 25 lbs
+- **Training focus:** 8-week periodized scheduling, denser than the Beginner tier, earlier and more frequent introduction of Explosive Power Training, strictly weekly rest days (no extra mid-week rest)
+
+## 55. RUSHFIT Nutrition Guide
+
+- **Source ID:** `rushfit-nutrition-guide`
+- **URL:** http://www.gsprushfit.com
+- **Author:** Georges St-Pierre / Erik Owings
+- **Source file:** `sources/clean/rushfit-nutrition-guide.txt`
+- **Program:** RushFit
+- **Workouts:** pre-workout meal guidance, post-workout meal guidance
+- **Exercises and movements:** none recorded
+- **Equipment:** a heart rate monitor with a calorie counter (recommended, for tracking calories burned)
+- **Training focus:** calorie-deficit weight loss via a calculated Basal Metabolic Rate, macro-ratio timing around training (pre- vs post-workout), whole-food quality over processed food, independent of calorie counting
+
+## 56. RUSHFIT Workout Guide
+
+- **Source ID:** `rushfit-workout-guide`
+- **URL:** http://www.gsprushfit.com
+- **Author:** Georges St-Pierre / Erik Owings
+- **Source file:** `sources/clean/rushfit-workout-guide.txt`
+- **Program:** RushFit
+- **Workouts:** Beginner / Intermediate / Advanced 8-week training calendars (referenced, detailed in the separate calendar PDFs)
+- **Exercises and movements:** RUSHFIT Assessment (air squat, push-up, sit-up, burpee — same four exercises as `bonus-workouts`)
+- **Equipment:** a small assortment of dumbbells or hand-held weights, most people needing no more than 25 lbs, a heart rate monitor (optional but recommended), a gym towel and water bottle
+- **Training focus:** overall program philosophy and goal-setting, heart-rate-zone training (60-80% of max heart rate), equipment minimalism, the RUSHFIT Assessment as a before/after benchmark
+
+## 57. Seth Feroce - How-To: Side Lateral Raise
+
+- **Source ID:** `zpUTA5i16kA`
+- **URL:** https://www.youtube.com/watch?v=zpUTA5i16kA
+- **Upload date:** 2016-04-25
+- **Duration:** 07:40
+- **Source file:** `sources/clean/zpUTA5i16kA.txt`
+- **Program:** Feroce Iron Academy (YouTube tutorial series)
+- **Workouts:** single-movement tutorial, not a full session
+- **Exercises and movements:** dumbbell side lateral raise (center, forward, and back hand placements)
+- **Equipment:** dumbbells
+- **Training focus:** hand placement/lean as a way to shift between side delt and rear delt, capped range of motion (hands never above shoulder height), slightly bent elbow to keep stress on the muscle rather than the joint
+
+## 58. Seth Feroce How-To: Alternating Dumbbell Curls
+
+- **Source ID:** `y01MQBNG-as`
+- **URL:** https://www.youtube.com/watch?v=y01MQBNG-as
+- **Upload date:** 2016-05-24
+- **Duration:** 05:30
+- **Source file:** `sources/clean/y01MQBNG-as.txt`
+- **Program:** Feroce Iron Academy (YouTube tutorial series)
+- **Workouts:** single-movement tutorial, not a full session
+- **Exercises and movements:** alternating dumbbell curl, standing
+- **Equipment:** dumbbells
+- **Training focus:** shortened range of motion to keep tension on the bicep rather than the shoulder, controlled "rock" as an acceptable trade-off at heavier loads, mid-set stretching to increase blood flow
+
+## 59. Seth Feroce How-To: Cable Curls
+
+- **Source ID:** `OEP-Sd4et5A`
+- **URL:** https://www.youtube.com/watch?v=OEP-Sd4et5A
+- **Upload date:** 2016-09-01
+- **Duration:** 05:34
+- **Source file:** `sources/clean/OEP-Sd4et5A.txt`
+- **Program:** Feroce Iron Academy (YouTube tutorial series)
+- **Workouts:** single-movement tutorial, not a full session
+- **Exercises and movements:** cable curl (standing and seated, low-row/lat machine), straight bar, cambered bar, rope, one-handed
+- **Equipment:** cable machine (standing curl station and low-row/lat station), straight bar, cambered/EZ bar, and rope attachments
+- **Training focus:** hand placement and body-lean angle as bicep-emphasis variables, using one machine to generate several distinct curl variations, self-observation over a single "correct" curl technique
+
+## 60. Seth Feroce How-To: Dumbbell Pullovers
+
+- **Source ID:** `yACg3ciPALc`
+- **URL:** https://www.youtube.com/watch?v=yACg3ciPALc
+- **Upload date:** 2016-10-31
+- **Duration:** 06:01
+- **Source file:** `sources/clean/yACg3ciPALc.txt`
+- **Program:** Feroce Iron Academy (YouTube tutorial series)
+- **Workouts:** single-movement tutorial, not a full session
+- **Exercises and movements:** dumbbell pullover, across a flat bench
+- **Equipment:** flat bench, single dumbbell
+- **Training focus:** rib-cage/chest stretch and expansion, visual illusion of a wider chest/smaller waist, hip-drop technique to deepen the stretch
+
+## 61. Seth Feroce How-To: Front Raises
+
+- **Source ID:** `ALNyDCkW9y8`
+- **URL:** https://www.youtube.com/watch?v=ALNyDCkW9y8
+- **Upload date:** 2016-05-12
+- **Duration:** 07:42
+- **Source file:** `sources/clean/ALNyDCkW9y8.txt`
+- **Program:** Feroce Iron Academy (YouTube tutorial series)
+- **Workouts:** single-movement tutorial, not a full session
+- **Exercises and movements:** dumbbell front raise (multiple hand-placement and body-angle variants)
+- **Equipment:** dumbbells, incline bench (for one variant)
+- **Training focus:** hand placement and pronation/supination as front-delt emphasis variables, capped range of motion (never above eye level), self-awareness of a personal joint-click warning sign
+
+## 62. Seth Feroce How-To: Rear Delts
+
+- **Source ID:** `Yo7S6WrvuPQ`
+- **URL:** https://www.youtube.com/watch?v=Yo7S6WrvuPQ
+- **Upload date:** 2016-05-03
+- **Duration:** 05:39
+- **Source file:** `sources/clean/Yo7S6WrvuPQ.txt`
+- **Program:** Feroce Iron Academy (YouTube tutorial series)
+- **Workouts:** single-movement tutorial, not a full session
+- **Exercises and movements:** seated rear delt raise, dumbbell, standing bent-over rear delt raise, dumbbell
+- **Equipment:** dumbbells (bench for seated variant)
+- **Training focus:** deliberately shortened range of motion to isolate a small muscle group, hand placement/rotation as an emphasis variable, avoiding compensation from lats, side delts, and traps
+
+## 63. Seth Feroce How-To: Traps
+
+- **Source ID:** `VfZeOq18YGU`
+- **URL:** https://www.youtube.com/watch?v=VfZeOq18YGU
+- **Upload date:** 2016-06-16
+- **Duration:** 04:45
+- **Source file:** `sources/clean/VfZeOq18YGU.txt`
+- **Program:** Feroce Iron Academy (YouTube tutorial series)
+- **Workouts:** single-movement tutorial, not a full session
+- **Exercises and movements:** dumbbell shrug
+- **Equipment:** heavy dumbbells (progressed up to 150 lb in this demonstration)
+- **Training focus:** elbow-bend cue for trap activation and blood flow, progressive loading with a full-stretch reset between reps, pump as a real-time feedback signal
+
+## 64. Shoulder Training with Missy Truscott | Seth Feroce
+
+- **Source ID:** `kfR8WcXqGiE`
+- **URL:** https://www.youtube.com/watch?v=kfR8WcXqGiE
+- **Upload date:** 2023-05-01
+- **Duration:** 20:04
+- **Source file:** `sources/clean/kfR8WcXqGiE.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Shoulder day, exercises traded back and forth between Seth and Missy
+- **Exercises and movements:** shoulder press (spotted to true failure), dumbbell side lateral raise ("hug a tree" arm position, drifting forward/back through a set), bent-over rear delt raise, supersetted with a bent-over face pull, front delt raise, held at varied heights/positions
+- **Equipment:** dumbbells, cable machine (face pulls)
+- **Training focus:** a halve-weight-double-reps extended-set technique, with a cited external validation (John Meadows), a bodybuilding-specific spotting philosophy (feel for true failure, not just movement help), hug-a-tree side laterals with deliberate forward/back drift through the set, pairing a heavy, short-range rear delt raise with a pose-mimicking face pull
+
+## 65. Shoulder Training | Seth Feroce
+
+- **Source ID:** `FCgybJwiwiw`
+- **URL:** https://www.youtube.com/watch?v=FCgybJwiwiw
+- **Upload date:** 2021-09-29
+- **Duration:** 09:58
+- **Source file:** `sources/clean/FCgybJwiwiw.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Shoulder day with a transformation-challenge winner guest
+- **Exercises and movements:** dumbbell side lateral raise (arm-leads-dumbbell form correction), shoulder press, alternated with side laterals across the session
+- **Equipment:** dumbbells
+- **Training focus:** a specific form correction ensuring the arm leads the dumbbell, not the reverse, on side laterals, spacing side laterals throughout a session (beginning, middle, end) rather than doing them once
+
+## 66. Shoulder Warmup for Bodybuilders w/ Dr. Jake & Seth Feroce | 30/31
+
+- **Source ID:** `KZ7WXH_8NFk`
+- **URL:** https://www.youtube.com/watch?v=KZ7WXH_8NFk
+- **Upload date:** 2024-01-30
+- **Duration:** 27:50
+- **Source file:** `sources/clean/KZ7WXH_8NFk.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Upper-body warm-up routine (shoulder, back, chest), not a full training session
+- **Exercises and movements:** band-resisted row (scapular activation), band external/internal rotation, with and without an overhead press ("neuromuscular retraining"), pull-apart (chest/nipple height), Y-T-I raises with a band, done as a circuit rather than straight sets
+- **Equipment:** resistance/loop bands (light to medium resistance for warm-up use)
+- **Training focus:** controlled, deliberate movement on rotator-cuff warm-up drills, explicitly contrasted with fast uncontrolled reps, pre-activating scapular retraction before a pressing movement, not just during it, timing pre-workout supplement intake to coincide with the warm-up period, keeping a warm-up to 3-4 exercises done as a circuit, not turned into a full workout
+
+## 67. Shoulders With Chris Bumstead And Hany Rambod | Seth Feroce
+
+- **Source ID:** `69EuvOMFib4`
+- **URL:** https://www.youtube.com/watch?v=69EuvOMFib4
+- **Upload date:** 2023-05-17
+- **Duration:** 25:23
+- **Source file:** `sources/clean/69EuvOMFib4.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Shoulder day, coached live by Hany Rambod, with guest Chris Bumstead
+- **Exercises and movements:** {'dumbbell/machine shoulder press (warm-up': 'light laterals and rotator work first)'}, reverse drop set (ascending weight instead of descending), machine shoulder press at a changed angle (finisher), rear delt fly variant with an elbow-drop cue
+- **Equipment:** dumbbells, shoulder press machine (angle-adjustable)
+- **Training focus:** a "reverse drop set" — ascending weight through a set rather than descending, correcting trap takeover on presses by cueing "let your shoulders do the work", changing machine press angle specifically to finish/exhaust the delts differently
+
+## 68. Story Time - My WORST CYCLES EVER
+
+- **Source ID:** `RhXAcvLdBbk`
+- **URL:** https://www.youtube.com/watch?v=RhXAcvLdBbk
+- **Upload date:** 2020-12-06
+- **Duration:** 19:39
+- **Source file:** `sources/clean/RhXAcvLdBbk.txt`
+- **Program:** none — standalone YouTube commentary, not part of a named DVD/app program
+- **Workouts:** none — this is a personal-history/pharmacology retrospective, not a filmed training session
+- **Exercises and movements:** bent-over barbell row, deadlift, squat, leg press, strict bicep curl — named only as movements disrupted by a stated side effect ("Dbol back pumps"), not demonstrated or coached
+- **Equipment:** none demonstrated
+- **Training focus:** retrospectively identifying specific steroid-stacking decisions (dose stacking without a testosterone floor reduction, high-dose test+trenbolone) as directly responsible for adverse physical and psychological outcomes, distinguishing a genuine adverse drug reaction from an unrelated injection injury, framing "fluff" high-volume, no-progressive-overload training combined with high-dose gear as a wasted cycle
+
+## 69. Strength and Endurance
+
+- **Source ID:** `strength-and-endurance`
+- **Duration:** 1:41:07
+- **Source file:** `sources/clean/strength-and-endurance.txt`
+- **Program:** RushFit
+- **Workouts:** the Rush Fit Warmup (body-weight, full-body), Strength and Endurance (five rounds), post-workout cool-down, Foundation Moves (full repeat of the standalone DVD)
+- **Exercises and movements:** air squat, chair iso-squat (isometric hold), push-up, prone back extension ("superman," hollowed body), pop-up (kneeling/prone to standing), squat thrust, burpee, lateral plank, alternating sides, dumbbell lateral lunge with overhead pull, rotating overhead press, bent-over row, rotational (side to side), alternating upright row, rotating curl, dumbbell "around the world", one-arm dumbbell swing, dumbbell high pull, single-leg bent-over row, diagonal press, twisting press (ground, closed-guard position), half get-up ("hip heist"), prone dumbbell row, alternating
+- **Equipment:** a pair of light-to-moderate dumbbells (rounds 3-4), one heavier dumbbell (round 5)
+- **Training focus:** pacing under fatigue rather than starting too fast, isometric tolerance specifically, simulating a five-round championship-fight structure, GSP's own admitted weakness (explosive athlete, not an endurance one)
+
+## 70. Stretch for Flexibility
+
+- **Source ID:** `stretch-for-flexibility`
+- **Duration:** 39:39
+- **Source file:** `sources/clean/stretch-for-flexibility.txt`
+- **Program:** RushFit
+- **Workouts:** the Rush Fit Warmup (body-weight, full-body), Stretch for Flexibility program
+- **Exercises and movements:** neck rotations, shoulder rotations, spine rotations, wrist rotations (clasped hands), "tray" forearm/elbow rotation, hip "hula hoop" rotation, knee rotations, ankle rotations (pivot on the ball of the foot), forward bend, hips-hinge (touch the hips), exaggerated side bend, straddle adductor stretch, seated single hamstring stretch, squatting adductor stretch, standing forward fold, hands interlaced behind the back, kneeling hip flexor stretch, standing quad stretch (grab the foot behind), downward-dog crossed-leg calf stretch, Hindu push-up to cobra-style hip/abdominal stretch, child's pose lat stretch, side straddle (splits attempt), standing single-leg hamstring reach, sit-and-reach (tibialis/shin focus), seated single-leg hamstring stretch, lying glute stretch (knee to chest), lying figure-4 hip extensor stretch, whole-body clench-and-relax (progressive muscle relaxation)
+- **Equipment:** none — mat/floor space only
+- **Training focus:** flexibility and joint range of motion, injury prevention, post-workout recovery, breath-linked stretching, progressive muscle relaxation
+
+## 71. Tempo Back Bis
+
+- **Source ID:** `tempo-back-bis`
+- **Duration:** 50:05
+- **Source file:** `sources/clean/tempo-back-bis.txt`
+- **Program:** Body Beast
+- **Workouts:** Tempo Back Bis (5 sets built entirely around counted positive/negative tempo ratios, plus finishers and stretch)
+- **Exercises and movements:** light deadlift, bent-over row, and reverse fly (warm-up), dumbbell pull-over on a bench, tempo set (6-down/6-up, then 6-down/3-up, then 3-down/3-up), plank knees-in-and-out, 10 reps (finisher), assisted pull-up, tempo set (6-up/6-down, then 6-down/3-up, then 3-up/3-down), lying leg-circle ("rainbow circles"), 10 reps each direction (ab finisher), bent-over reverse-grip EZ-bar row, tempo set (6-down/6-up, then 6-down/3-up, then 3-down/3-up), one-arm row with a hold-and-twist, tempo set, each arm, seated bicep curl, tempo set, each arm in sequence (6-down/6-up, then 6-down/3-up, then 3-down/3-up), lying hip-roll leg raise with a 90-degree hold, 10 reps (ab finisher), EZ-bar curl, wide grip then close grip then reverse grip, each at a different tempo and rep count, mountain climber, 30 seconds (finisher), standing side-bend arm stretch, bench-assisted lat stretch, standing shoulder stretch
+- **Equipment:** dumbbells across a wide range (10-35 lb pairs used on camera), an EZ-curl bar, a bench and an assisted pull-up band
+- **Training focus:** back (lats) and biceps, trained through counted tempo rather than added weight as the primary difficulty lever, explicit numeric positive/negative tempo ratios (e.g. 6 seconds down, 6 seconds up) as this session's organizing device, a stated muscle-memory rationale connecting tempo control directly to injury prevention
+
+## 72. Tempo Chest Tris
+
+- **Source ID:** `tempo-chest-tris`
+- **Duration:** 54:01
+- **Source file:** `sources/clean/tempo-chest-tris.txt`
+- **Program:** Body Beast
+- **Workouts:** Tempo Chest Tris (6 sets built around counted positive/negative tempo ratios, plus ab/core finishers and stretch)
+- **Exercises and movements:** arm circles and arm rotation (warm-up), close-grip, medium-grip, and wide-grip push-up (warm-up), flat dumbbell press, tempo set (6-down/6-up, then 6-down/3-up, then 3-down/3-up), figure-four bench crunch, 10 reps each side (ab finisher), incline press, tempo set (6-down/6-up, then 6-down/3-up, then 3-down/3-up), reverse-plank single-leg-resisted crunch ("cricket crunch"), 10 reps each side (ab finisher), incline fly, tempo set (6-down/6-up, then 6-down/3-up, then 3-down/3-up), held plank with a 6-up/6-down oscillation, 10 reps (finisher), lying EZ-bar triceps extension ("crush"), tempo set (6-down/6-up, then 3-up/6-down, then 3-down/3-up), EZ-bar seated crunch, 10 reps (3-up/3-down), one-arm triceps kickback, superset with a seated/bench triceps extension or dip variant (exact form obscured by transcription noise), tempo set, plank with a side-to-side knee-tuck twist, 6-second holds each side, 10 reps total, standing side-turn stretch with counted breathing, standing cross-hands shoulder stretch
+- **Equipment:** dumbbells across a range (10-45 lb pairs used on camera), an EZ-curl bar, a bench (or a training partner's cue-following as a substitute)
+- **Training focus:** chest and triceps, trained through counted tempo rather than added weight as the primary difficulty lever, the same numeric positive/negative tempo device introduced in `tempo-back-bis`[03:00], applied here to pressing and triceps movements, {'a stated safety rationale for controlled tempo': 'learn to control the weight and not the weight controlling you'}
+
+## 73. The Fight Conditioning Workout
+
+- **Source ID:** `the-fight-conditioning-workout`
+- **Duration:** 1:21:07
+- **Source file:** `sources/clean/the-fight-conditioning-workout.txt`
+- **Program:** RushFit
+- **Workouts:** the Rush Fit Warmup (body-weight, full-body), {'The Fight Conditioning Workout (five rounds': 'footwork, striking, striking-to-takedowns, groundwork, combined)'}, post-workout cool-down and stretch sequence, fight-technique breakdown (stance, striking, kicks, grappling)
+- **Exercises and movements:** shadow footwork (forward/backward/lateral, stance switching, pivoting, circling), jab, cross, hook, uppercut combinations with level changes, rear vertical elbow, front elbow, front kick, roundhouse kick (mawashi geri), defensive side kick, leg-kick check, sprawl (with a step-back-and-stand substitution), shoot / level-change takedown setup, slam, uchi-mata (judo throw), hip escape, armbar abs drill (isometric core rotation), Kimura sit-up, triangle-choke sit-up drill, hip-heist sit-up, the scramble (full and half rotations on hands and feet), squat-with-kick and knuckle push-up (inter-round calisthenics), standing guard pass with two punches, hip flexor lunge stretch, butterfly / side straddle stretch, seated hamstring stretch (toes pulled back), kneeling hip extensor rotation stretch, quadruped lat stretch, kneeling chest/delt/bicep stretch (interlaced hands behind the back)
+- **Equipment:** none — bodyweight only
+- **Training focus:** MMA-specific conditioning combining striking, takedowns, and groundwork in one session, dynamic and isometric core tension together, vertical-to-horizontal transitions ("the thing that fatigues fighters the most"), technique carried over from the Foundation Moves DVD, post-workout mental transition, not just physical recovery
+
+## 74. THE GREATEST CHEST TRAINING VIDEO EVER! | Hany Rambod & Seth Feroce
+
+- **Source ID:** `w41YZ6czsZY`
+- **URL:** https://www.youtube.com/watch?v=w41YZ6czsZY
+- **Upload date:** 2022-05-27
+- **Duration:** 45:37
+- **Source file:** `sources/clean/w41YZ6czsZY.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Chest day, coached live by Hany Rambod (Seth's former competition coach)
+- **Exercises and movements:** power press (incline, palms facing each other, arched back), incline press with inserted static holds, incline dumbbell fly, performed as "ladders" (low/mid/high angle changes within one set)
+- **Equipment:** dumbbells, incline bench
+- **Training focus:** the fatigue-vs-failure distinction as the actual determinant of growth-producing sets, a named "power press" variant that reduces shoulder takeover on upper-chest presses, inserted static (isometric) holds mid-set for added time-under-tension and stabilizer work, ladders — changing hand/arm angle within a single set rather than between sets, breathing and hydration as direct, physiologically stated limiters on pump and endurance
+
+## 75. The Race to 240 | Shoulder Day
+
+- **Source ID:** `q8dLAPsljvU`
+- **URL:** https://www.youtube.com/watch?v=q8dLAPsljvU
+- **Upload date:** 2024-09-30
+- **Duration:** 28:15
+- **Source file:** `sources/clean/q8dLAPsljvU.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Shoulder day, casual session framed around a friendly bulking "race" with Tai
+- **Exercises and movements:** dumbbell side lateral raise, with a mid-set partial-rep refill technique, bent-over rear delt dumbbell raise (short range of motion, heavier weight), pec deck reverse fly (same range-of-motion principle applied)
+- **Equipment:** dumbbells, pec deck / reverse-fly machine
+- **Training focus:** a mid-set partial-rep technique on side laterals to "refill" blood before finishing the set, classifying the bent-over rear delt raise as a "muscle builder" exercise, distinct from lighter concentration work, a precise stopping point on rear delt raises, just before the traps/upper back take over
+
+## 76. The Ultimate Dumbbell Shoulder Workout | Seth Feroce
+
+- **Source ID:** `FuEc552OlfI`
+- **URL:** https://www.youtube.com/watch?v=FuEc552OlfI
+- **Upload date:** 2022-07-11
+- **Duration:** 23:20
+- **Source file:** `sources/clean/FuEc552OlfI.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Shoulders and triceps, all-dumbbell session
+- **Exercises and movements:** dumbbell side lateral raise (pyramid up, then a 3-set drop set), bent-over rear delt raise (three-quarters range of motion), face pull, "50% of a face pull" bent-over variant, rope tricep press-down (warm-up, many angle variations), skull crusher, weight brought behind the head rather than to the face, overhead dumbbell extension / French press (two hands, one dumbbell), close-grip bench (finisher), one-arm cable press-down burnout (alternating hands and grip variations)
+- **Equipment:** dumbbells, cable machine (rope and single-handle press-down attachments), barbell (close-grip bench)
+- **Training focus:** visualizing the target muscle/pose before and during every exercise ("becoming the exercise"), a fully worked "set set" example with a stated reason for the exact 10-second rest interval, a quantified three-quarters range of motion cap on rear delt raises, a burnout finisher alternating hands and grip variations on cable press-downs until failure
+
+## 77. Tips for Building a Bigger Back | Grips, Positioning, & Leverages
+
+- **Source ID:** `eAHW_PZRTZc`
+- **URL:** https://www.youtube.com/watch?v=eAHW_PZRTZc
+- **Upload date:** 2024-08-21
+- **Duration:** 31:16
+- **Source file:** `sources/clean/eAHW_PZRTZc.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Back day, guest-led exercise selection with live coaching and hands-on feedback
+- **Exercises and movements:** pull-up (warm-up), bent-over barbell row, Dorian Yates ("DY") row, chest-supported machine, underhand seated cable row, dumbbell seal row (discussed as next exercise choice; not shown within this transcript's anchors)
+- **Equipment:** pull-up bar, barbell, DY-row machine, seated cable row station, dumbbells and a flat bench (seal row)
+- **Training focus:** torso angle and pull-height (relative to navel/sternum) as lat/mid-back/upper-back emphasis variables, finger pressure (pinky vs. index/middle) as a lats-vs-biceps emphasis variable, hands-on training-partner feedback as a verification method, explicit warning against copying technique from social media without individualized feedback
+
+## 78. Tips for Growing Bigger Arms | Adding Intensity
+
+- **Source ID:** `eY2npBUVU4Y`
+- **URL:** https://www.youtube.com/watch?v=eY2npBUVU4Y
+- **Upload date:** 2024-05-21
+- **Duration:** 42:05
+- **Source file:** `sources/clean/eY2npBUVU4Y.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Arm day (biceps and triceps), guest lifter Josh Whitmire, single filmed session
+- **Exercises and movements:** cable curl (constant-tension warm-up), hammer curl, preacher curl, incline curl, cable push-down / press-down (elbow-flare push vs. press variants), overhead dumbbell tricep extension
+- **Equipment:** cable stack/machine (curl and push-down attachments), dumbbells, preacher bench
+- **Training focus:** intensifiers (drop sets, giant sets, strip sets), top set / back-off set structuring, mind-muscle connection and post-set squeezes, blood-flow/pump technique, including an occlusion-training aside, exercise-order and elbow-placement manipulation for head emphasis
+
+## 79. TOP 5 ARM EXERCISES | WHITEBOARD WORKOUT
+
+- **Source ID:** `EaKmRFql3Ek`
+- **URL:** https://www.youtube.com/watch?v=EaKmRFql3Ek
+- **Upload date:** 2025-06-26
+- **Duration:** 45:24
+- **Source file:** `sources/clean/EaKmRFql3Ek.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Arm day, "whiteboard workout" ranking each lifter's top 5 bicep and top 5 tricep exercises
+- **Exercises and movements:** alternating dumbbell curl, dumbbell hammer curl (Phil-Heath-style, sub-90° range of motion), two-handed cable curl, plate-loaded preacher curl machine, incline dumbbell curl (bench-angle tested), overhead dumbbell tricep extension ("French press"), cambered-bar skull crusher, paired with a close-grip bench burnout, JM press (close-grip bench brought to chin/teeth level), V-bar tricep press-down, dip machine press-down, reverse grip for medial head
+- **Equipment:** dumbbells, incline bench, cable machine (curl and press-down attachments), plate-loaded preacher curl machine, barbell, cambered/EZ bar, dip machine
+- **Training focus:** a personal "top 5" exercise hierarchy built over years, distinguishing liked from proven-effective, Phil-Heath-style sub-90°, higher-rep-range hammer curls credited as an arm-growth turning point, grip position along a dumbbell for incline/hammer curls as a repeated, deliberate variable, wearing minimal clothing specifically to visually monitor muscle activation during training, a disclosed, incompletely healed tricep tear that changes exercise selection
+
+## 80. Total Body
+
+- **Source ID:** `total-body`
+- **Duration:** 40:13
+- **Source file:** `sources/clean/total-body.txt`
+- **Program:** Body Beast
+- **Workouts:** Total Body (circuit training alternating upper- and lower-body exercises, plus a calf/plank finisher block and stretch)
+- **Exercises and movements:** jog and shoulder rolls, forward and reverse (warm-up), walk-out to plank hold (warm-up), prone resistance-band row, push-up, squat, light then progressively heavier, crunch, incline press, bent-over row, reverse lunge, alternating, floor Russian twist, shoulder press, single-single-double combo, standing side raise, stiff-leg deadlift, curl with a twist (rotation on the way down), one-arm triceps kickback, standing calf raise, side plank, standing shoulder stretch, cross-hands chest/shoulder stretch, standing hamstring reach, kneeling hip-flexor stretch
+- **Equipment:** dumbbells across a wide range (10-60 lb pairs used on camera), a resistance band (row) and a bench
+- **Training focus:** alternating upper- and lower-body exercises in one continuous circuit, explicitly named "circuit training" by the source, {'a stated triple outcome': 'fat loss, muscle gain, and energy, attributed to the alternating structure itself'}, the "single-single-double" combo pattern (seen on biceps in `build-back-and-bis`[35:41]) reused here on shoulder press
+
+## 81. Upper Chest Whiteboard Workout
+
+- **Source ID:** `yM7JZA2WkLQ`
+- **URL:** https://www.youtube.com/watch?v=yM7JZA2WkLQ
+- **Upload date:** 2024-10-21
+- **Duration:** 38:23
+- **Source file:** `sources/clean/yM7JZA2WkLQ.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Chest day, "whiteboard workout" format explaining an upper-chest-focused session
+- **Exercises and movements:** incline dumbbell press (dumbbell descent height tested for upper-chest vs. front-delt emphasis), plate-loaded/Hammer Strength flat machine press, incline dumbbell fly, dip (skipped mid-session as not ready), dumbbell pullover (rib-cage expansion, not treated as a mass exercise), cable crossover, band-resisted pec-deck-style press
+- **Equipment:** dumbbells, incline bench, plate-loaded/Hammer Strength flat press machine, dip station, cable crossover machine, resistance bands
+- **Training focus:** dumbbell descent height on incline press/fly as an upper-chest-vs-front-delt lever, a named intensifier ("Seth set") with a fixed numeric target rather than open-ended failure, real-time judgment to skip a planned exercise (dips) when it doesn't feel structurally ready, explicit "bro science vs. real science" framing for physique-sculpting choices over biomechanical optimization
+
+## 82. Volume Back Workout at Pump Town USA | Seth Feroce
+
+- **Source ID:** `C7MCxkLAfF4`
+- **URL:** https://www.youtube.com/watch?v=C7MCxkLAfF4
+- **Upload date:** 2021-01-08
+- **Duration:** 19:17
+- **Source file:** `sources/clean/C7MCxkLAfF4.txt`
+- **Program:** none — standalone YouTube session, not part of a named DVD/app program
+- **Workouts:** Back day, volume style, repeated with minor variation for 5-6 weeks at time of filming
+- **Exercises and movements:** pull-up / assisted pull-up (warm-up volume), T-bar row, corner-loaded ("old school") and close-grip cable row variant, bent-over barbell row, one-arm dumbbell row (to failure, pyramid loading), wide-grip pull-down, reverse-grip low cable row, hyperextension (finisher, bodyweight)
+- **Equipment:** pull-up bar / assisted pull-up machine, barbell, T-bar row corner setup, close-grip cable attachment, dumbbells, lat pull-down machine, low cable row station, hyperextension bench
+- **Training focus:** high pull-up volume as a standing rule for a weak back, training to genuine failure rather than a pre-picked rep number, volume-style training (5-7 exercises, 3-4 sets each) as one valid approach among several
+
+## 83. What The Hell Is TREN? And Why Is Everyone Taking It?
+
+- **Source ID:** `j9avZn6B0OE`
+- **URL:** https://www.youtube.com/watch?v=j9avZn6B0OE
+- **Upload date:** 2024-02-25
+- **Duration:** 36:40
+- **Source file:** `sources/clean/j9avZn6B0OE.txt`
+- **Program:** none — standalone YouTube explainer/commentary, not part of a named DVD/app program
+- **Workouts:** none — this is pharmacology and public-health commentary, not a filmed training session
+- **Exercises and movements:** none demonstrated
+- **Equipment:** none
+- **Training focus:** explaining trenbolone's origin (veterinary/agricultural), mechanism, and popularity relative to testosterone and SARMs, cataloguing trenbolone's estrogenic, androgenic, cardiovascular, and psychological side effects with citations to a 2023 study and named commentators, situating trenbolone use within a broader bodybuilding-culture shift toward social-media-driven physique pressure, including on minors
+
+---
+
+## Index by workouts
+
+**abdominal strength and core conditioning** — RUSHFIT Advanced Training Calendar, Weeks 1-8 (`rushfit-advanced-training-calendar`), RUSHFIT Beginner Training Calendar, Weeks 1-8 (`rushfit-beginner-training-calendar`), RUSHFIT Intermediate Training Calendar, Weeks 1-8 (`rushfit-intermediate-training-calendar`)
+
+**abdominal strength and core conditioning (five rounds)** — Abdominal Strength and Core Conditioning (`abdominal-strength-and-core-conditioning`)
+
+**arm day (biceps and triceps), guest lifter josh whitmire, single filmed session** — Tips for Growing Bigger Arms | Adding Intensity (`eY2npBUVU4Y`)
+
+**arm day, "whiteboard workout" format walking through his old-school arm-training philosophy** — Intense Arm Workout Seth Feroce | Whiteboard Workout (`xlNCg_GWGy0`)
+
+**arm day, "whiteboard workout" ranking each lifter's top 5 bicep and top 5 tricep exercises** — TOP 5 ARM EXERCISES | WHITEBOARD WORKOUT (`EaKmRFql3Ek`)
+
+**arm day, bro-split, bicep/tricep superset** — Bodybuilding Arm Workout - BACK AT IT!! | Seth Feroce (`aa85pra9nsk`)
+
+**arm day, bro-split, bicep/tricep superset across four exercises each** — Arm Day Explained at Pumptown | Seth Feroce (`QSkmRguNamg`)
+
+**arm day, bro-split, biceps/triceps supersetted** — Intensity is My Sanctuary | Arm Day Advice (`LMP5kT_dmnM`)
+
+**arm day, bro-split, biceps/triceps supersetted across four exercises each** — Arm Training | My Current Protocol & Split (`buTwER0sEjE`)
+
+**arm day, casual guest session with powerlifter/strongman larry wheels** — Arm Day w/ Larry Wheels | Powerlifter Meets Bodybuilder (`fnSBWbTbJIQ`)
+
+**arm day, deliberately scheduled on a low-carbohydrate day** — Arm Day on Low Carbs | Seth Feroce (`qi_Ie7oe1cw`)
+
+**back day, casual old-school public-gym session** — Grueling Back Workout (`hGl2Ob_k9Bo`)
+
+**back day, coached session with guest coach kyle wilds and guest athlete anton ratushnyak** — RAW BACK WORKOUT W/ ANTON SWL & COACH KYLE (`NbyeienXYOg`)
+
+**back day, diagnostic/coaching session targeting a specifically lagging body part (lower lats)** — Back Day Explained: Full Breakdown (`f9kNF4P6lRs`)
+
+**back day, five-exercise session with guest athlete tai** — Old School Back Workout | Time to Get Huge (`pcLl4tE3BwQ`)
+
+**back day, guest-led exercise selection with live coaching and hands-on feedback** — Tips for Building a Bigger Back | Grips, Positioning, & Leverages (`eAHW_PZRTZc`)
+
+**back day, guest-led with live coaching cues** — Putting a Fan Through My Back Workout! (`06X8Z71fuuk`)
+
+**back day, single session, explicitly framed as a post-layoff rebuilding workout** — Rebuilding My Physique: Back Day | Seth Feroce (`L9Py5s8V58E`)
+
+**back day, volume style, repeated with minor variation for 5-6 weeks at time of filming** — Volume Back Workout at Pump Town USA | Seth Feroce (`C7MCxkLAfF4`)
+
+**balance and agility (as "bonus workout")** — RUSHFIT Advanced Training Calendar, Weeks 1-8 (`rushfit-advanced-training-calendar`), RUSHFIT Beginner Training Calendar, Weeks 1-8 (`rushfit-beginner-training-calendar`), RUSHFIT Intermediate Training Calendar, Weeks 1-8 (`rushfit-intermediate-training-calendar`)
+
+**balance and agility (full repeat of the standalone dvd)** — Bonus Workouts (`bonus-workouts`)
+
+**balance and agility circuit (two rounds, body-weight, single-leg emphasis)** — Balance and Agility (`balance-and-agility`)
+
+**beast abs (single round, body-weight plus optional light dumbbells)** — Beast Abs (`beast-abs`)
+
+**beast cardio (weighted interval circuit, warm-up through stretch)** — Beast Cardio (`beast-cardio`)
+
+**beginner / intermediate / advanced 8-week training calendars (referenced, detailed in the separate calendar pdfs)** — RUSHFIT Workout Guide (`rushfit-workout-guide`)
+
+**build back & bis (8 lifting sets, single/superset/giant-set/drop-set/combo-set structure, plus stretch)** — Build Back & Bis (`build-back-and-bis`)
+
+**build chest & tris (6 lifting sets, single/superset/giant-set/drop-set structure, plus cool-down and stretch)** — Build Chest & Tris (`build-chest-and-tris`)
+
+**build legs (4 lifting sets, single/superset/giant-set/drop-set structure, plus stretch)** — Build Legs (`build-legs`)
+
+**build shoulders (4 lifting sets, single/superset/giant-set/drop-set structure, plus finisher and stretch)** — Build Shoulders (`build-shoulders`)
+
+**bulk arms (6 lifting sets, progressive/drop-set/force-set structure, plus ab finisher and stretch)** — Bulk Arms (`bulk-arms`)
+
+**bulk back (4 lifting sets, superset/progressive-set/force-set structure, plus stretch)** — Bulk Back (`bulk-back`)
+
+**bulk chest (5 lifting sets, superset/force-set/progressive-set/combo-set/multi-set structure, plus stretch)** — Bulk Chest (`bulk-chest`)
+
+**bulk legs (6 lifting sets, single/progressive/force/superset/drop-set structure, plus finisher and stretch)** — Bulk Legs (`bulk-legs`)
+
+**bulk shoulders (5 sets, superset/progressive-set/drop-set structure, plus a bodyweight finisher and stretch)** — Bulk Shoulders (`bulk-shoulders`)
+
+**chest and light triceps, explained as a worked example of building a workout from categorized exercises** — Building a Bigger Chest | Seth Feroce (`dqgzTjY31WQ`)
+
+**chest and shoulders, structured around a triple rest-pause set and progressive-range-of-motion side raises** — Fxck Around & Find Out | Chest & Shoulders w/ The Young Bucks (`CnIVBAjD3Wg`)
+
+**chest day, "whiteboard workout" format explaining an upper-chest-focused session** — Upper Chest Whiteboard Workout (`yM7JZA2WkLQ`)
+
+**chest day, coached live by hany rambod (seth's former competition coach)** — THE GREATEST CHEST TRAINING VIDEO EVER! | Hany Rambod & Seth Feroce (`w41YZ6czsZY`)
+
+**chest day, contest-prep session (2.5 weeks out), progressive-loading rather than to-failure** — Nasty Chest Pump | Digging Deep (`kh9Oo4QQqXE`)
+
+**chest day, day 1 of a bro-split return after a period of functional training** — Bro Split Day 1 - Chest (`rGhzDOSyB54`)
+
+**chest day, guest session structured around a "feel-out set" before a committed top set** — Gnarly Chest Workout w/ Anton Swl & Cjak (`A6-J6_NdVt0`)
+
+**chest day, guest session with pro bodybuilder julian decina and influencer matt greggo** — CHEST WORKOUT W/ JULIAN DECINA & MATT GREGGO (`H6bPy_CCpE8`)
+
+**chest day, plus a side-lateral shoulder segment filmed in the same session** — Chest Workout Tips | Raw & Unfiltered (`BRYj0qirZH8`)
+
+**explosive power training** — RUSHFIT Advanced Training Calendar, Weeks 1-8 (`rushfit-advanced-training-calendar`), RUSHFIT Beginner Training Calendar, Weeks 1-8 (`rushfit-beginner-training-calendar`), RUSHFIT Intermediate Training Calendar, Weeks 1-8 (`rushfit-intermediate-training-calendar`)
+
+**explosive power training (five rounds, plyometric)** — Explosive Power Training (`explosive-power-training`)
+
+**fight-technique breakdown (stance, striking, kicks, grappling)** — The Fight Conditioning Workout (`the-fight-conditioning-workout`)
+
+**foundation moves (full repeat of the standalone dvd)** — Abdominal Strength and Core Conditioning (`abdominal-strength-and-core-conditioning`), Explosive Power Training (`explosive-power-training`), Full Body Strength and Conditioning (`full-body-strength-and-conditioning`), Strength and Endurance (`strength-and-endurance`)
+
+**foundation moves (technique reference, not a timed circuit)** — Foundation Moves (`foundation-moves`)
+
+**full body strength and conditioning** — RUSHFIT Advanced Training Calendar, Weeks 1-8 (`rushfit-advanced-training-calendar`), RUSHFIT Beginner Training Calendar, Weeks 1-8 (`rushfit-beginner-training-calendar`), RUSHFIT Intermediate Training Calendar, Weeks 1-8 (`rushfit-intermediate-training-calendar`)
+
+**full body strength and conditioning (five rounds)** — Full Body Strength and Conditioning (`full-body-strength-and-conditioning`)
+
+**leg day, 25 sets of barbell back squats at a fixed weight and rep count** — 25 Sets of SQUATS! - Leg Day | Seth Feroce (`2e7nsKn7PC0`)
+
+**leg day, coached live by hany rambod, plus a brief posing/upper-body warm-up segment** — LEG DAY & POSING W/ HANY RAMBOD (`TFQInC2JvIo`)
+
+**leg day, high-volume, each exercise assigned a specific target look** — LEG DAY Explained | Seth Feroce (`s0LJIwSUAMQ`)
+
+**lucky 7 (7 pyramid-structured combination moves, ascending 1-to-7 reps, plus a pyramid-counted stretch)** — Lucky 7 (`lucky-7`)
+
+**none — this is a personal-history/pharmacology retrospective, not a filmed training session** — My Darkest Steroid Experiences (`FjT1pgXYR8k`), Story Time - My WORST CYCLES EVER (`RhXAcvLdBbk`)
+
+**none — this is dosing-strategy commentary, not a filmed training session** — High Dose Testosterone Vs. Stacking Anabolic Steroids (`cRnf05icb4M`)
+
+**none — this is pharmacology and public-health commentary, not a filmed training session** — What The Hell Is TREN? And Why Is Everyone Taking It? (`j9avZn6B0OE`)
+
+**none — this is pharmacology/decision-making commentary, not a filmed training session** — My Number 1 Piece Of Advice If You Are Going To Use Steroids That Nobody Will Tell You (`FGLeADS_B7w`)
+
+**orientation module only — no exercise circuit is demonstrated in this source** — Basics (`basics`)
+
+**orientation/testimonial module only — no exercise circuit is taught in this source** — Meet The Team (`meet-the-team`)
+
+**post-workout cool-down** — Abdominal Strength and Core Conditioning (`abdominal-strength-and-core-conditioning`), Explosive Power Training (`explosive-power-training`), Full Body Strength and Conditioning (`full-body-strength-and-conditioning`), Strength and Endurance (`strength-and-endurance`)
+
+**post-workout cool-down and stretch sequence** — Bonus Workouts (`bonus-workouts`), The Fight Conditioning Workout (`the-fight-conditioning-workout`)
+
+**post-workout meal guidance** — RUSHFIT Nutrition Guide (`rushfit-nutrition-guide`)
+
+**pre-workout meal guidance** — RUSHFIT Nutrition Guide (`rushfit-nutrition-guide`)
+
+**rushfit fitness assessment (guided walkthrough, new content)** — Bonus Workouts (`bonus-workouts`)
+
+**shoulder day with a transformation-challenge winner guest** — Shoulder Training | Seth Feroce (`FCgybJwiwiw`)
+
+**shoulder day, "whiteboard workout" explaining his shoulder-training philosophy and origin story** — How To Train Shoulders (`OMNnkYSJ-SM`)
+
+**shoulder day, casual old-school public-gym session** — Back to My Roots | Grungy Shoulder Training (`CA3VdIWws2s`)
+
+**shoulder day, casual session framed around a friendly bulking "race" with tai** — The Race to 240 | Shoulder Day (`q8dLAPsljvU`)
+
+**shoulder day, coached live by hany rambod, with guest chris bumstead** — Shoulders With Chris Bumstead And Hany Rambod | Seth Feroce (`69EuvOMFib4`)
+
+**shoulder day, deliberately press-free after an acute elbow flare-up** — 3D Shoulder Workout | Bro Split (`c17-tkIZ6-Q`)
+
+**shoulder day, exercises traded back and forth between seth and missy** — Shoulder Training with Missy Truscott | Seth Feroce (`kfR8WcXqGiE`)
+
+**shoulder day, pyramid-loading side laterals into presses, then rear delt/face pull superset** — Intense Shoulder Training | Jammed, Jacked, & Juicy (`-4Wqix43V4o`)
+
+**shoulders and triceps, all-dumbbell session** — The Ultimate Dumbbell Shoulder Workout | Seth Feroce (`FuEc552OlfI`)
+
+**single-movement tutorial, not a full session** — How-To: T-Bar Rows - Feroce Iron Academy (`m2KAkQV7pdA`), Seth Feroce - How-To: Side Lateral Raise (`zpUTA5i16kA`), Seth Feroce How-To: Alternating Dumbbell Curls (`y01MQBNG-as`), Seth Feroce How-To: Cable Curls (`OEP-Sd4et5A`), Seth Feroce How-To: Dumbbell Pullovers (`yACg3ciPALc`), Seth Feroce How-To: Front Raises (`ALNyDCkW9y8`), Seth Feroce How-To: Rear Delts (`Yo7S6WrvuPQ`), Seth Feroce How-To: Traps (`VfZeOq18YGU`)
+
+**strength and endurance** — RUSHFIT Advanced Training Calendar, Weeks 1-8 (`rushfit-advanced-training-calendar`), RUSHFIT Beginner Training Calendar, Weeks 1-8 (`rushfit-beginner-training-calendar`), RUSHFIT Intermediate Training Calendar, Weeks 1-8 (`rushfit-intermediate-training-calendar`)
+
+**strength and endurance (five rounds)** — Strength and Endurance (`strength-and-endurance`)
+
+**stretch for flexibility (as "bonus workout")** — RUSHFIT Advanced Training Calendar, Weeks 1-8 (`rushfit-advanced-training-calendar`), RUSHFIT Beginner Training Calendar, Weeks 1-8 (`rushfit-beginner-training-calendar`), RUSHFIT Intermediate Training Calendar, Weeks 1-8 (`rushfit-intermediate-training-calendar`)
+
+**stretch for flexibility (full repeat of the standalone dvd)** — Bonus Workouts (`bonus-workouts`)
+
+**stretch for flexibility program** — Stretch for Flexibility (`stretch-for-flexibility`)
+
+**tempo back bis (5 sets built entirely around counted positive/negative tempo ratios, plus finishers and stretch)** — Tempo Back Bis (`tempo-back-bis`)
+
+**tempo chest tris (6 sets built around counted positive/negative tempo ratios, plus ab/core finishers and stretch)** — Tempo Chest Tris (`tempo-chest-tris`)
+
+**the fight conditioning workout** — RUSHFIT Advanced Training Calendar, Weeks 1-8 (`rushfit-advanced-training-calendar`), RUSHFIT Beginner Training Calendar, Weeks 1-8 (`rushfit-beginner-training-calendar`), RUSHFIT Intermediate Training Calendar, Weeks 1-8 (`rushfit-intermediate-training-calendar`)
+
+**the rush fit warmup (body-weight, full-body)** — Abdominal Strength and Core Conditioning (`abdominal-strength-and-core-conditioning`), Balance and Agility (`balance-and-agility`), Explosive Power Training (`explosive-power-training`), Full Body Strength and Conditioning (`full-body-strength-and-conditioning`), Strength and Endurance (`strength-and-endurance`), Stretch for Flexibility (`stretch-for-flexibility`), The Fight Conditioning Workout (`the-fight-conditioning-workout`)
+
+**the rush fit warmup (repeated twice, once per included session)** — Bonus Workouts (`bonus-workouts`)
+
+**total body (circuit training alternating upper- and lower-body exercises, plus a calf/plank finisher block and stretch)** — Total Body (`total-body`)
+
+**upper-body warm-up routine (shoulder, back, chest), not a full training session** — Shoulder Warmup for Bodybuilders w/ Dr. Jake & Seth Feroce | 30/31 (`KZ7WXH_8NFk`)
+
+**{'the fight conditioning workout (five rounds': 'footwork, striking, striking-to-takedowns, groundwork, combined)'}** — The Fight Conditioning Workout (`the-fight-conditioning-workout`)
+
+---
+
+## No transcript available — link only, not cited
+
+No caption track could be extracted for these (a YouTube limitation, not necessarily an absence of dialogue), so there's no transcript to anchor a claim against. They aren't sourced or fact-checked against anything here — just links, for watching directly.
+
+- [LEG DAY with Seth Feroce, Martin Fitzwater and Keone Pearson](https://www.youtube.com/watch?v=vp9D1nRsPOY) (08:35)
 
 ---
 

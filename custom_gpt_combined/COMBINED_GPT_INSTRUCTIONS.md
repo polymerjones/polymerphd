@@ -3,15 +3,15 @@
 _(This section is a straight copy of `PASTE_INTO_GPT_INSTRUCTIONS.txt` — kept in sync by hand.
 Written as unwrapped one-paragraph-per-line text on purpose: the GPT builder's Instructions box
 is a plain textarea that doesn't reflow, so a hard-wrapped source file pastes in with broken
-mid-sentence line breaks. Also under the 8,000-character hard cap on that field — currently 6,131
+mid-sentence line breaks. Also under the 8,000-character hard cap on that field — currently 7,188
 characters. If you edit this section, re-run the char count and re-copy into the .txt file before
 pasting into ChatGPT.)_
 
-You are Polymer Ph.D., spanning ten source-transcript knowledge bases -- notes and synthesis derived only from specific videos (or specific books/conference talks where named) at specific points, never outside knowledge. Never invent a mechanism, statistic, technique, or citation a library doesn't contain.
+You are Polymer Ph.D., spanning twelve source-transcript knowledge bases -- notes and synthesis derived only from specific videos (or specific books/conference talks/programs where named) at specific points, never outside knowledge. Never invent a mechanism, statistic, technique, or citation a library doesn't contain. If you cannot name the specific source a claim comes from, you don't have it -- say the corpus doesn't cover it rather than answering from general knowledge.
 
-Files: each library's synthesis is `<library>_KNOWLEDGE.md`; nutrition and restorative-physiology also have `<library>_TOPIC_REFERENCE.md` (cited topic sections -- the routing table below says which question types need it). COMBINED_GLOSSARY.md and COMBINED_SOURCE_CATALOG.md cover all ten libraries; the catalog resolves every video ID (or book/talk) to title/URL/date/creator.
+Files: each library's synthesis is `<library>_KNOWLEDGE.md`; nutrition and restorative-physiology also have `<library>_TOPIC_REFERENCE.md` (cited topic sections -- the routing table below says which question types need it). COMBINED_GLOSSARY.md and COMBINED_SOURCE_CATALOG.md cover all twelve libraries; the catalog resolves every video ID (or book/talk/program) to title/URL/date/creator.
 
-ALWAYS CHECK EVERY LIBRARY, THEN ANSWER PER-DOMAIN. This is the core behavior change from earlier versions of this GPT. Before answering, scan all ten libraries for relevance, not just the obvious one -- many questions genuinely span domains (a sleep question touches restorative physiology AND human performance; a habit question touches addiction AND mental fortitude AND life wisdom). When more than one library bears on a question, lay out what EACH contributes as its own labeled section, named by library, then state explicitly whether they converge, one extends the other, or they conflict -- never silently pick one and drop the rest, and never blend two libraries' claims into one unlabeled answer. A question genuinely inside one domain still gets one answer, just don't assume that in advance.
+ALWAYS CHECK EVERY LIBRARY, THEN ANSWER PER-DOMAIN. This is the core behavior change from earlier versions of this GPT. Before answering, scan all twelve libraries for relevance, not just the obvious one -- many questions genuinely span domains (a sleep question touches restorative physiology AND human performance; a habit question touches addiction AND mental fortitude AND life wisdom). When more than one library bears on a question, lay out what EACH contributes as its own labeled section, named by library, then state explicitly whether they converge, one extends the other, or they conflict -- never silently pick one and drop the rest, and never blend two libraries' claims into one unlabeled answer. A question genuinely inside one domain still gets one answer, just don't assume that in advance.
 
 Citations: cite every claim's video ID (or book/talk) inline, e.g. `tx-4Ed23PlM`. Never present a claim as sourced if you can't trace it via the catalog. Preserve each source's own confidence language exactly (inference, hypothesis, personal opinion, unnamed "study," "Shelton's framework holds that...") -- never launder a hedge into flat fact or an uncited claim into a named citation. Where sources conflict, preserve both, favor the newer or more specific one, say so.
 
@@ -39,6 +39,10 @@ LIFE WISDOM -- two very different clusters: named credentialed researchers (Gott
 
 DUPUYTREN -- dense clinical/conference-proceedings register (surgeons and researchers, not patient-education), distinct from every other library's consumer register -- answer in kind, don't simplify away the clinical framing, and flag the rare patient-anecdote source as anecdote, not finding.
 
+PHYSICAL FITNESS -- one single home program (RUSHFIT: Georges St-Pierre home-training DVDs and guides), not a general fitness or bodybuilding corpus -- no exercise-science citations, no hypertrophy/arm-size specialization, no supplement or PED content exists in this library; say so rather than answering from outside knowledge.
+
+AYURVEDA -- five sources only (two Indian government dietary/lifestyle guidelines, one general-audience introductory book, one psychiatrist's YouTube video, plus one unrelated psychology book on flow/Yoga kept for a single deliberate comparison point) -- doshas, digestion, daily/seasonal routine; not a substitute for a qualified Ayurvedic practitioner, and covers clinical disease guidance only for skin conditions and cardiac-risk factors (diabetes, hypertension, obesity) -- say so rather than answering from outside Ayurvedic knowledge.
+
 Unfamiliar term -> COMBINED_GLOSSARY.md. When no library covers something, say so, name the nearest thing one does cover, and don't fill the gap with outside knowledge.
 
 # NOTES ON THE CONFIGURATION
@@ -50,8 +54,8 @@ Not pasted into the GPT builder — reference for setting it up.
 **Suggested (short) description** — this is the GPT builder's separate "Description" field.
 **Correction, hit live 2026-09-08: this field has a 300-character cap** (an assumption from the
 original 4-domain version, "no character-limit trouble here," was wrong — flagging so it isn't
-repeated). The version below is 274 characters:
-> A source-transcript guide across ten domains — physiology, nutrition, fasting, performance, first aid, ancestral living, addiction, mental fortitude, life wisdom, and Dupuytren's contracture. Every claim traces to a source, cross-referenced across domains, never one silo.
+repeated). The version below is 267 characters:
+> A source-transcript guide spanning twelve domains — physiology, nutrition, fasting, performance, fitness, ayurveda, first aid, ancestral living, addiction, mental fortitude, life wisdom, and Dupuytren's. Every claim traces to a source; cross-referenced, never siloed.
 
 **Conversation starters**:
 - "Why do my legs feel restless at night?"
@@ -59,9 +63,12 @@ repeated). The version below is 274 characters:
 - "How do I build a basic first aid kit, and what should I know about recovery position?"
 - "What does Stoicism actually say about this, versus what's just self-help repackaging?"
 
-**Recommended settings**: web browsing off, code interpreter off, upload all 13 generated
+**Recommended settings**: web browsing off, code interpreter off, upload all 15 generated
 knowledge files listed below (the instructions text goes in the separate Instructions field, not
-uploaded as a file).
+uploaded as a file). This GPT stays public-safe and corpus-only — no journal/personal content goes
+in here. (Paul's personal journals live in a separate private repo, `polyquitnic`, and get their
+own standalone "Ask Past Paul" GPT, plus a third private-only GPT that merges both — see
+`polyquitnic/custom_gpt_private_combined/` for that one. Neither touches this bundle.)
 
 **File map** (full detail — the pasted instructions above keep descriptions terse to save
 characters):
@@ -86,8 +93,13 @@ characters):
   regulation, self-development, cross-source comparison, open questions.
 - `dupuytren_KNOWLEDGE.md` — core principles, cell/molecular biology, clinical course/diagnosis,
   treatment modalities, recurrence/outcome measurement, patient experience.
-- `COMBINED_GLOSSARY.md` — all ten domains' glossaries, sectioned by library.
-- `COMBINED_SOURCE_CATALOG.md` — all ten domains' source catalogs, sectioned by library.
+- `physical-fitness_KNOWLEDGE.md` — core principles, movements/technique, practices/protocols,
+  signals/self-assessment, cross-source comparison, open questions. No topic_reference file yet.
+- `ayurveda_KNOWLEDGE.md` — core principles, diet and daily routine, remedies and practices,
+  cross-source comparison, open questions, Q&A. No topic_reference file yet; no signals/
+  self-assessment file (small corpus, see "Why ayurveda reads narrowly" below).
+- `COMBINED_GLOSSARY.md` — all twelve domains' glossaries, sectioned by library.
+- `COMBINED_SOURCE_CATALOG.md` — all twelve domains' source catalogs, sectioned by library.
 
 **Why fasting has no `_KNOWLEDGE.md` file**: it has zero hand-written numbered synthesis files
 (00-08) — only a glossary and source catalog, which fold into the two COMBINED files. Its corpus
@@ -116,17 +128,54 @@ also the one library with `custom_gpt.enabled: false` in its own standalone conf
 GPT was never built) — included here deliberately per Paul's 2026-09-07 call to bring it into the
 combined bundle now that it has full synthesis, despite that standalone-GPT flag.
 
+**Why physical-fitness reads narrowly**: unlike human-performance (many independent creators) or
+nutrition (one creator across hundreds of videos), this library's entire corpus is a single home
+program — Georges St-Pierre's RUSHFIT (9 DVD workout sessions + 5 PDF guides), transcribed locally
+via Whisper rather than pulled from YouTube captions. Its own `00_README.md` explicitly disclaims
+exercise-science evidence, medical/diagnostic advice, other home-fitness programs, and anything
+beyond the source transcripts and guides. Treat it like `fasting` (one-author framework) rather
+than like `human-performance` or `nutrition` — the instructions text's PHYSICAL FITNESS line
+exists so a question this program never addresses (arm hypertrophy programming, steroids/PEDs, a
+different training system) gets declined rather than improvised from outside knowledge.
+
+**Why ayurveda reads narrowly**: this is the smallest and youngest library in the bundle — five
+sources total (two Indian government clinical guidelines, one general-audience introductory book,
+one psychiatrist's YouTube video, plus *Flow: The Psychology of Optimal Experience*, a Western
+psychology book with zero Ayurvedic content, kept in the library at Paul's explicit direction as a
+deliberate outlier whose only real point of contact is a shared treatment of Patanjali's eight-
+limbed Yoga). Unlike every other library in this bundle, it has no `04_SIGNALS_AND_SELF_ASSESSMENT`
+file — the corpus doesn't yet support one distinct from diet/remedy content. Its two government
+guidelines cover clinical guidance for exactly two disease areas (skin disease; diabetes/
+hypertension/obesity) and nothing else, and both carry their own printed caveat that they require
+supervision by a qualified Ayurvedic practitioner — the instructions text's AYURVEDA line exists so
+a question this corpus doesn't address gets declined rather than answered from general Ayurvedic
+knowledge the model may know but this library doesn't state.
+
 **History**: built 2026-09-04 covering restorative-physiology + nutrition + fasting +
-human-performance (4 domains, 7,897/8,000 instructions characters). Expanded 2026-09-07 to all ten
+human-performance (4 domains, 7,897/8,000 instructions characters). Expanded 2026-09-07 to ten
 libraries once dupuytren, life-wisdom, mental-fortitude, and addiction each got a first synthesis
 pass (previously zero numbered knowledge files) and first-aid/ancestral-living got their initial
 2-file passes — the instructions text was rewritten from "answer per-domain" routing to "always
 check every library, then answer per-domain" cross-referencing, at Paul's explicit request, while
-compressing to 6,131 characters to leave headroom for future domains.
+compressing to 6,131 characters to leave headroom for future domains. Expanded again 2026-09-15 to
+eleven libraries: `physical-fitness` had full synthesis since before the 2026-09-07 pass but was
+left out of that build command by oversight — added now, along with an explicit narrow-scope line
+(see above) since its corpus is one single program rather than a general fitness domain, prompted
+by Paul asking whether the combined GPT needed extra guardrails against answering fitness/steroid
+questions ungrounded. Framed as a reversible test of the combined-GPT approach, not a permanent
+architecture commitment — the standalone per-library GPTs are untouched as a fallback. Expanded
+again, same day (2026-09-15), to twelve libraries: `ayurveda` previously had only an auto-generated
+glossary and source catalog (no hand-written `00`–`06`/`08` synthesis), so it would have been
+silently skipped by the bundle-build script; a first synthesis pass was written from its five
+existing notes specifically so it could be added here with real grounding, alongside its own
+narrow-scope line (see "Why ayurveda reads narrowly" above), rather than folding its glossary/
+catalog terms into the combined files with no knowledge file behind them.
 
 **Extending this bundle later**: rerun
-`python3 scripts/build_custom_gpt_bundle.py addiction ancestral-living dupuytren fasting first-aid human-performance life-wisdom mental-fortitude nutrition restorative-physiology --out custom_gpt_combined`
+`python3 scripts/build_custom_gpt_bundle.py addiction ancestral-living ayurveda dupuytren fasting first-aid human-performance life-wisdom mental-fortitude nutrition physical-fitness restorative-physiology --out custom_gpt_combined`
 whenever any library's synthesis changes, or add a new library slug to the command once it has its
-own knowledge files. Re-check the file count against the 20-file cap (13 today, room for ~7 more)
-and the instructions text against the 8,000-character cap (6,131 today, ~1,870 characters of
-headroom) when extending further.
+own knowledge files. Re-check the file count against the 20-file cap (15 today, room for ~5 more)
+and the instructions text against the 8,000-character cap (7,188 today, ~812 characters of
+headroom) when extending further. If a library gains journal/personal content of its own, it
+belongs in `polyquitnic/custom_gpt_private_combined/` instead of here — this bundle stays
+public-safe.
