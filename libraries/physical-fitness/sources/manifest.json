@@ -1,580 +1,6 @@
 {
   "sources": [
     {
-      "id": "abdominal-strength-and-core-conditioning",
-      "kind": "video_local",
-      "title": "Abdominal Strength and Core Conditioning",
-      "url": null,
-      "source_file": "Rushfit Abdominal Strength and Core Conditioning Dvd.avi",
-      "release_year": 2010,
-      "duration_seconds": 6050.836458,
-      "duration": "1:40:50",
-      "word_count": 19666,
-      "clean_file": "clean/abdominal-strength-and-core-conditioning.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 6050.836458
-      }
-    },
-    {
-      "id": "balance-and-agility",
-      "kind": "video_local",
-      "title": "Balance and Agility",
-      "url": null,
-      "source_file": "Rushfit Balance and Agility.mp4",
-      "release_year": 2010,
-      "duration_seconds": 2306.014348,
-      "duration": "38:26",
-      "word_count": 6413,
-      "clean_file": "clean/balance-and-agility.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 2306.014348
-      }
-    },
-    {
-      "id": "basics",
-      "kind": "video_local",
-      "title": "Basics",
-      "url": null,
-      "source_file": "Basics-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 655.221889,
-      "duration": "10:55",
-      "word_count": 1685,
-      "clean_file": "clean/basics.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 655.221889
-      }
-    },
-    {
-      "id": "beast-abs",
-      "kind": "video_local",
-      "title": "Beast Abs",
-      "url": null,
-      "source_file": "Beast Abs-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 726.69336,
-      "duration": "12:06",
-      "word_count": 1766,
-      "clean_file": "clean/beast-abs.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 726.69336
-      }
-    },
-    {
-      "id": "beast-cardio",
-      "kind": "video_local",
-      "title": "Beast Cardio",
-      "url": null,
-      "source_file": "Beast Cardio-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 1902.83617,
-      "duration": "31:42",
-      "word_count": 4352,
-      "clean_file": "clean/beast-cardio.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 1902.83617
-      }
-    },
-    {
-      "id": "bonus-workouts",
-      "kind": "video_local",
-      "title": "Bonus Workouts",
-      "url": null,
-      "source_file": "Rushfit Bonus Workouts Dvd.avi",
-      "release_year": 2010,
-      "duration_seconds": 5693.145792,
-      "duration": "1:34:53",
-      "word_count": 16331,
-      "clean_file": "clean/bonus-workouts.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 5693.145792
-      }
-    },
-    {
-      "id": "build-back-and-bis",
-      "kind": "video_local",
-      "title": "Build Back & Bis",
-      "url": null,
-      "source_file": "Build Back & Bis-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 3102.168836,
-      "duration": "51:42",
-      "word_count": 7053,
-      "clean_file": "clean/build-back-and-bis.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 3102.168836
-      }
-    },
-    {
-      "id": "build-chest-and-tris",
-      "kind": "video_local",
-      "title": "Build Chest & Tris",
-      "url": null,
-      "source_file": "Build Chest & Tris-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 3102.502503,
-      "duration": "51:42",
-      "word_count": 7011,
-      "clean_file": "clean/build-chest-and-tris.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 3102.502503
-      }
-    },
-    {
-      "id": "build-legs",
-      "kind": "video_local",
-      "title": "Build Legs",
-      "url": null,
-      "source_file": "Build Legs-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 2377.811144,
-      "duration": "39:37",
-      "word_count": 5426,
-      "clean_file": "clean/build-legs.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 2377.811144
-      }
-    },
-    {
-      "id": "build-shoulders",
-      "kind": "video_local",
-      "title": "Build Shoulders",
-      "url": null,
-      "source_file": "Build Shoulders-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 2662.462462,
-      "duration": "44:22",
-      "word_count": 6331,
-      "clean_file": "clean/build-shoulders.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 2662.462462
-      }
-    },
-    {
-      "id": "bulk-arms",
-      "kind": "video_local",
-      "title": "Bulk Arms",
-      "url": null,
-      "source_file": "Bulk Arms-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 2483.850517,
-      "duration": "41:23",
-      "word_count": 5327,
-      "clean_file": "clean/bulk-arms.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 2483.850517
-      }
-    },
-    {
-      "id": "bulk-back",
-      "kind": "video_local",
-      "title": "Bulk Back",
-      "url": null,
-      "source_file": "Bulk Back-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 2053.953954,
-      "duration": "34:13",
-      "word_count": 4441,
-      "clean_file": "clean/bulk-back.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 2053.953954
-      }
-    },
-    {
-      "id": "bulk-chest",
-      "kind": "video_local",
-      "title": "Bulk Chest",
-      "url": null,
-      "source_file": "Bulk Chest-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 1910.343677,
-      "duration": "31:50",
-      "word_count": 4376,
-      "clean_file": "clean/bulk-chest.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 1910.343677
-      }
-    },
-    {
-      "id": "bulk-legs",
-      "kind": "video_local",
-      "title": "Bulk Legs",
-      "url": null,
-      "source_file": "Bulk Legs-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 2561.795128,
-      "duration": "42:41",
-      "word_count": 5974,
-      "clean_file": "clean/bulk-legs.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 2561.795128
-      }
-    },
-    {
-      "id": "bulk-shoulders",
-      "kind": "video_local",
-      "title": "Bulk Shoulders",
-      "url": null,
-      "source_file": "Bulk Shoulders-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 2270.770771,
-      "duration": "37:50",
-      "word_count": 5260,
-      "clean_file": "clean/bulk-shoulders.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 2270.770771
-      }
-    },
-    {
-      "id": "explosive-power-training",
-      "kind": "video_local",
-      "title": "Explosive Power Training",
-      "url": null,
-      "source_file": "Rushfit Explosive Powertraining Dvd.avi",
-      "release_year": 2010,
-      "duration_seconds": 6078.989583,
-      "duration": "1:41:18",
-      "word_count": 18768,
-      "clean_file": "clean/explosive-power-training.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 6078.989583
-      }
-    },
-    {
-      "id": "foundation-moves",
-      "kind": "video_local",
-      "title": "Foundation Moves",
-      "url": null,
-      "source_file": "Foundation Moves.mp4",
-      "release_year": 2010,
-      "duration_seconds": 2794.419419,
-      "duration": "46:34",
-      "word_count": 9723,
-      "clean_file": "clean/foundation-moves.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 2794.419419
-      }
-    },
-    {
-      "id": "full-body-strength-and-conditioning",
-      "kind": "video_local",
-      "title": "Full Body Strength and Conditioning",
-      "url": null,
-      "source_file": "Rushfit Full Body Strength and Conditioning Dvd.avi",
-      "release_year": 2010,
-      "duration_seconds": 5997.825167,
-      "duration": "1:39:57",
-      "word_count": 19517,
-      "clean_file": "clean/full-body-strength-and-conditioning.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 5997.825167
-      }
-    },
-    {
-      "id": "lucky-7",
-      "kind": "video_local",
-      "title": "Lucky 7",
-      "url": null,
-      "source_file": "Lucky 7-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 1528.795462,
-      "duration": "25:28",
-      "word_count": 3404,
-      "clean_file": "clean/lucky-7.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 1528.795462
-      }
-    },
-    {
-      "id": "meet-the-team",
-      "kind": "video_local",
-      "title": "Meet The Team",
-      "url": null,
-      "source_file": "Meet The Team-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 336.236236,
-      "duration": "05:36",
-      "word_count": 1024,
-      "clean_file": "clean/meet-the-team.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 336.236236
-      }
-    },
-    {
-      "id": "rushfit-advanced-training-calendar",
-      "kind": "pdf",
-      "title": "RUSHFIT Advanced Training Calendar, Weeks 1-8",
-      "author": "Georges St-Pierre / Erik Owings",
-      "url": "http://www.gsprushfit.com",
-      "retrieved_date": "2026-09-09",
-      "clean_file": "clean/rushfit-advanced-training-calendar.txt",
-      "word_count": 632,
-      "anchor": {
-        "kind": "page",
-        "format": "p.N",
-        "bound_field": "page_count",
-        "bound": 4
-      }
-    },
-    {
-      "id": "rushfit-beginner-training-calendar",
-      "kind": "pdf",
-      "title": "RUSHFIT Beginner Training Calendar, Weeks 1-8",
-      "author": "Georges St-Pierre / Erik Owings",
-      "url": "http://www.gsprushfit.com",
-      "retrieved_date": "2026-09-09",
-      "clean_file": "clean/rushfit-beginner-training-calendar.txt",
-      "word_count": 555,
-      "anchor": {
-        "kind": "page",
-        "format": "p.N",
-        "bound_field": "page_count",
-        "bound": 4
-      }
-    },
-    {
-      "id": "rushfit-intermediate-training-calendar",
-      "kind": "pdf",
-      "title": "RUSHFIT Intermediate Training Calendar, Weeks 1-8",
-      "author": "Georges St-Pierre / Erik Owings",
-      "url": "http://www.gsprushfit.com",
-      "retrieved_date": "2026-09-09",
-      "clean_file": "clean/rushfit-intermediate-training-calendar.txt",
-      "word_count": 470,
-      "anchor": {
-        "kind": "page",
-        "format": "p.N",
-        "bound_field": "page_count",
-        "bound": 4
-      }
-    },
-    {
-      "id": "rushfit-nutrition-guide",
-      "kind": "pdf",
-      "title": "RUSHFIT Nutrition Guide",
-      "author": "Georges St-Pierre / Erik Owings",
-      "url": "http://www.gsprushfit.com",
-      "retrieved_date": "2026-09-09",
-      "clean_file": "clean/rushfit-nutrition-guide.txt",
-      "word_count": 3498,
-      "anchor": {
-        "kind": "page",
-        "format": "p.N",
-        "bound_field": "page_count",
-        "bound": 23
-      }
-    },
-    {
-      "id": "rushfit-workout-guide",
-      "kind": "pdf",
-      "title": "RUSHFIT Workout Guide",
-      "author": "Georges St-Pierre / Erik Owings",
-      "url": "http://www.gsprushfit.com",
-      "retrieved_date": "2026-09-09",
-      "clean_file": "clean/rushfit-workout-guide.txt",
-      "word_count": 2491,
-      "anchor": {
-        "kind": "page",
-        "format": "p.N",
-        "bound_field": "page_count",
-        "bound": 23
-      }
-    },
-    {
-      "id": "strength-and-endurance",
-      "kind": "video_local",
-      "title": "Strength and Endurance",
-      "url": null,
-      "source_file": "Rushfit Strength and Endurance Workout Dvd.avi",
-      "release_year": 2010,
-      "duration_seconds": 6067.32,
-      "duration": "1:41:07",
-      "word_count": 19813,
-      "clean_file": "clean/strength-and-endurance.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 6067.32
-      }
-    },
-    {
-      "id": "stretch-for-flexibility",
-      "kind": "video_local",
-      "title": "Stretch for Flexibility",
-      "url": null,
-      "source_file": "Rushfit Stretch For Flexibility.mp4",
-      "release_year": 2010,
-      "duration_seconds": 2379.087421,
-      "duration": "39:39",
-      "word_count": 7215,
-      "clean_file": "clean/stretch-for-flexibility.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 2379.087421
-      }
-    },
-    {
-      "id": "tempo-back-bis",
-      "kind": "video_local",
-      "title": "Tempo Back Bis",
-      "url": null,
-      "source_file": "Tempo Back Bis-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 3005.805806,
-      "duration": "50:05",
-      "word_count": 6644,
-      "clean_file": "clean/tempo-back-bis.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 3005.805806
-      }
-    },
-    {
-      "id": "tempo-chest-tris",
-      "kind": "video_local",
-      "title": "Tempo Chest Tris",
-      "url": null,
-      "source_file": "Tempo Chest Tris-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 3241.508175,
-      "duration": "54:01",
-      "word_count": 7436,
-      "clean_file": "clean/tempo-chest-tris.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 3241.508175
-      }
-    },
-    {
-      "id": "the-fight-conditioning-workout",
-      "kind": "video_local",
-      "title": "The Fight Conditioning Workout",
-      "url": null,
-      "source_file": "Rushfit the Fight Conditioning Workout Dvd.avi",
-      "release_year": 2010,
-      "duration_seconds": 4867.2,
-      "duration": "1:21:07",
-      "word_count": 12891,
-      "clean_file": "clean/the-fight-conditioning-workout.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 4867.2
-      }
-    },
-    {
-      "id": "total-body",
-      "kind": "video_local",
-      "title": "Total Body",
-      "url": null,
-      "source_file": "Total Body-ipod.mp4",
-      "release_year": 2012,
-      "duration_seconds": 2413.44678,
-      "duration": "40:13",
-      "word_count": 5264,
-      "clean_file": "clean/total-body.txt",
-      "transcript_source": "whisper-local:small",
-      "anchor": {
-        "kind": "timestamp",
-        "format": "mm:ss",
-        "bound_field": "duration_seconds",
-        "bound": 2413.44678
-      }
-    },
-    {
       "id": "6AyCpDJQ3Kc",
       "kind": "youtube",
       "title": "\"I F***ING LOVE STEROIDS\" - Ryan Garcia ABSOLUTELY Took Ostarine (positive B sample) | My Analysis",
@@ -657,6 +83,25 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1388
+      }
+    },
+    {
+      "id": "abdominal-strength-and-core-conditioning",
+      "kind": "video_local",
+      "title": "Abdominal Strength and Core Conditioning",
+      "url": null,
+      "source_file": "Rushfit Abdominal Strength and Core Conditioning Dvd.avi",
+      "release_year": 2010,
+      "duration_seconds": 6050.836458,
+      "duration": "1:40:50",
+      "word_count": 19666,
+      "clean_file": "clean/abdominal-strength-and-core-conditioning.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 6050.836458
       }
     },
     {
@@ -762,6 +207,82 @@
       }
     },
     {
+      "id": "balance-and-agility",
+      "kind": "video_local",
+      "title": "Balance and Agility",
+      "url": null,
+      "source_file": "Rushfit Balance and Agility.mp4",
+      "release_year": 2010,
+      "duration_seconds": 2306.014348,
+      "duration": "38:26",
+      "word_count": 6413,
+      "clean_file": "clean/balance-and-agility.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2306.014348
+      }
+    },
+    {
+      "id": "basics",
+      "kind": "video_local",
+      "title": "Basics",
+      "url": null,
+      "source_file": "Basics-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 655.221889,
+      "duration": "10:55",
+      "word_count": 1685,
+      "clean_file": "clean/basics.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 655.221889
+      }
+    },
+    {
+      "id": "beast-abs",
+      "kind": "video_local",
+      "title": "Beast Abs",
+      "url": null,
+      "source_file": "Beast Abs-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 726.69336,
+      "duration": "12:06",
+      "word_count": 1766,
+      "clean_file": "clean/beast-abs.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 726.69336
+      }
+    },
+    {
+      "id": "beast-cardio",
+      "kind": "video_local",
+      "title": "Beast Cardio",
+      "url": null,
+      "source_file": "Beast Cardio-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 1902.83617,
+      "duration": "31:42",
+      "word_count": 4352,
+      "clean_file": "clean/beast-cardio.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1902.83617
+      }
+    },
+    {
       "id": "IDtrN-z26Dg",
       "kind": "youtube",
       "title": "Being On TRT vs. Being On \"TRT\"!",
@@ -796,6 +317,25 @@
       }
     },
     {
+      "id": "bonus-workouts",
+      "kind": "video_local",
+      "title": "Bonus Workouts",
+      "url": null,
+      "source_file": "Rushfit Bonus Workouts Dvd.avi",
+      "release_year": 2010,
+      "duration_seconds": 5693.145792,
+      "duration": "1:34:53",
+      "word_count": 16331,
+      "clean_file": "clean/bonus-workouts.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 5693.145792
+      }
+    },
+    {
       "id": "rGhzDOSyB54",
       "kind": "youtube",
       "title": "Bro Split Day 1 - Chest",
@@ -813,6 +353,82 @@
       }
     },
     {
+      "id": "build-back-and-bis",
+      "kind": "video_local",
+      "title": "Build Back & Bis",
+      "url": null,
+      "source_file": "Build Back & Bis-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 3102.168836,
+      "duration": "51:42",
+      "word_count": 7053,
+      "clean_file": "clean/build-back-and-bis.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3102.168836
+      }
+    },
+    {
+      "id": "build-chest-and-tris",
+      "kind": "video_local",
+      "title": "Build Chest & Tris",
+      "url": null,
+      "source_file": "Build Chest & Tris-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 3102.502503,
+      "duration": "51:42",
+      "word_count": 7011,
+      "clean_file": "clean/build-chest-and-tris.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3102.502503
+      }
+    },
+    {
+      "id": "build-legs",
+      "kind": "video_local",
+      "title": "Build Legs",
+      "url": null,
+      "source_file": "Build Legs-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2377.811144,
+      "duration": "39:37",
+      "word_count": 5426,
+      "clean_file": "clean/build-legs.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2377.811144
+      }
+    },
+    {
+      "id": "build-shoulders",
+      "kind": "video_local",
+      "title": "Build Shoulders",
+      "url": null,
+      "source_file": "Build Shoulders-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2662.462462,
+      "duration": "44:22",
+      "word_count": 6331,
+      "clean_file": "clean/build-shoulders.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2662.462462
+      }
+    },
+    {
       "id": "dqgzTjY31WQ",
       "kind": "youtube",
       "title": "Building a Bigger Chest | Seth Feroce",
@@ -827,6 +443,101 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1558
+      }
+    },
+    {
+      "id": "bulk-arms",
+      "kind": "video_local",
+      "title": "Bulk Arms",
+      "url": null,
+      "source_file": "Bulk Arms-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2483.850517,
+      "duration": "41:23",
+      "word_count": 5327,
+      "clean_file": "clean/bulk-arms.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2483.850517
+      }
+    },
+    {
+      "id": "bulk-back",
+      "kind": "video_local",
+      "title": "Bulk Back",
+      "url": null,
+      "source_file": "Bulk Back-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2053.953954,
+      "duration": "34:13",
+      "word_count": 4441,
+      "clean_file": "clean/bulk-back.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2053.953954
+      }
+    },
+    {
+      "id": "bulk-chest",
+      "kind": "video_local",
+      "title": "Bulk Chest",
+      "url": null,
+      "source_file": "Bulk Chest-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 1910.343677,
+      "duration": "31:50",
+      "word_count": 4376,
+      "clean_file": "clean/bulk-chest.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1910.343677
+      }
+    },
+    {
+      "id": "bulk-legs",
+      "kind": "video_local",
+      "title": "Bulk Legs",
+      "url": null,
+      "source_file": "Bulk Legs-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2561.795128,
+      "duration": "42:41",
+      "word_count": 5974,
+      "clean_file": "clean/bulk-legs.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2561.795128
+      }
+    },
+    {
+      "id": "bulk-shoulders",
+      "kind": "video_local",
+      "title": "Bulk Shoulders",
+      "url": null,
+      "source_file": "Bulk Shoulders-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2270.770771,
+      "duration": "37:50",
+      "word_count": 5260,
+      "clean_file": "clean/bulk-shoulders.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2270.770771
       }
     },
     {
@@ -912,6 +623,63 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 2634
+      }
+    },
+    {
+      "id": "explosive-power-training",
+      "kind": "video_local",
+      "title": "Explosive Power Training",
+      "url": null,
+      "source_file": "Rushfit Explosive Powertraining Dvd.avi",
+      "release_year": 2010,
+      "duration_seconds": 6078.989583,
+      "duration": "1:41:18",
+      "word_count": 18768,
+      "clean_file": "clean/explosive-power-training.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 6078.989583
+      }
+    },
+    {
+      "id": "foundation-moves",
+      "kind": "video_local",
+      "title": "Foundation Moves",
+      "url": null,
+      "source_file": "Foundation Moves.mp4",
+      "release_year": 2010,
+      "duration_seconds": 2794.419419,
+      "duration": "46:34",
+      "word_count": 9723,
+      "clean_file": "clean/foundation-moves.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2794.419419
+      }
+    },
+    {
+      "id": "full-body-strength-and-conditioning",
+      "kind": "video_local",
+      "title": "Full Body Strength and Conditioning",
+      "url": null,
+      "source_file": "Rushfit Full Body Strength and Conditioning Dvd.avi",
+      "release_year": 2010,
+      "duration_seconds": 5997.825167,
+      "duration": "1:39:57",
+      "word_count": 19517,
+      "clean_file": "clean/full-body-strength-and-conditioning.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 5997.825167
       }
     },
     {
@@ -1119,6 +887,60 @@
       }
     },
     {
+      "id": "lucky-7",
+      "kind": "video_local",
+      "title": "Lucky 7",
+      "url": null,
+      "source_file": "Lucky 7-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 1528.795462,
+      "duration": "25:28",
+      "word_count": 3404,
+      "clean_file": "clean/lucky-7.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 1528.795462
+      }
+    },
+    {
+      "id": "meet-the-team",
+      "kind": "video_local",
+      "title": "Meet The Team",
+      "url": null,
+      "source_file": "Meet The Team-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 336.236236,
+      "duration": "05:36",
+      "word_count": 1024,
+      "clean_file": "clean/meet-the-team.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 336.236236
+      }
+    },
+    {
+      "id": "muscle-after-40-mens-fitness-guide",
+      "kind": "pdf",
+      "title": "Muscle After 40",
+      "author": "Men's Fitness Guide",
+      "url": null,
+      "retrieved_date": "2026-09-16",
+      "clean_file": "clean/muscle-after-40-mens-fitness-guide.txt",
+      "word_count": 15049,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 132
+      }
+    },
+    {
       "id": "FjT1pgXYR8k",
       "kind": "youtube",
       "title": "My Darkest Steroid Experiences",
@@ -1235,6 +1057,86 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 1372
+      }
+    },
+    {
+      "id": "rushfit-advanced-training-calendar",
+      "kind": "pdf",
+      "title": "RUSHFIT Advanced Training Calendar, Weeks 1-8",
+      "author": "Georges St-Pierre / Erik Owings",
+      "url": "http://www.gsprushfit.com",
+      "retrieved_date": "2026-09-09",
+      "clean_file": "clean/rushfit-advanced-training-calendar.txt",
+      "word_count": 632,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 4
+      }
+    },
+    {
+      "id": "rushfit-beginner-training-calendar",
+      "kind": "pdf",
+      "title": "RUSHFIT Beginner Training Calendar, Weeks 1-8",
+      "author": "Georges St-Pierre / Erik Owings",
+      "url": "http://www.gsprushfit.com",
+      "retrieved_date": "2026-09-09",
+      "clean_file": "clean/rushfit-beginner-training-calendar.txt",
+      "word_count": 555,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 4
+      }
+    },
+    {
+      "id": "rushfit-intermediate-training-calendar",
+      "kind": "pdf",
+      "title": "RUSHFIT Intermediate Training Calendar, Weeks 1-8",
+      "author": "Georges St-Pierre / Erik Owings",
+      "url": "http://www.gsprushfit.com",
+      "retrieved_date": "2026-09-09",
+      "clean_file": "clean/rushfit-intermediate-training-calendar.txt",
+      "word_count": 470,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 4
+      }
+    },
+    {
+      "id": "rushfit-nutrition-guide",
+      "kind": "pdf",
+      "title": "RUSHFIT Nutrition Guide",
+      "author": "Georges St-Pierre / Erik Owings",
+      "url": "http://www.gsprushfit.com",
+      "retrieved_date": "2026-09-09",
+      "clean_file": "clean/rushfit-nutrition-guide.txt",
+      "word_count": 3498,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 23
+      }
+    },
+    {
+      "id": "rushfit-workout-guide",
+      "kind": "pdf",
+      "title": "RUSHFIT Workout Guide",
+      "author": "Georges St-Pierre / Erik Owings",
+      "url": "http://www.gsprushfit.com",
+      "retrieved_date": "2026-09-09",
+      "clean_file": "clean/rushfit-workout-guide.txt",
+      "word_count": 2491,
+      "anchor": {
+        "kind": "page",
+        "format": "p.N",
+        "bound_field": "page_count",
+        "bound": 23
       }
     },
     {
@@ -1493,6 +1395,101 @@
       }
     },
     {
+      "id": "strength-and-endurance",
+      "kind": "video_local",
+      "title": "Strength and Endurance",
+      "url": null,
+      "source_file": "Rushfit Strength and Endurance Workout Dvd.avi",
+      "release_year": 2010,
+      "duration_seconds": 6067.32,
+      "duration": "1:41:07",
+      "word_count": 19813,
+      "clean_file": "clean/strength-and-endurance.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 6067.32
+      }
+    },
+    {
+      "id": "stretch-for-flexibility",
+      "kind": "video_local",
+      "title": "Stretch for Flexibility",
+      "url": null,
+      "source_file": "Rushfit Stretch For Flexibility.mp4",
+      "release_year": 2010,
+      "duration_seconds": 2379.087421,
+      "duration": "39:39",
+      "word_count": 7215,
+      "clean_file": "clean/stretch-for-flexibility.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2379.087421
+      }
+    },
+    {
+      "id": "tempo-back-bis",
+      "kind": "video_local",
+      "title": "Tempo Back Bis",
+      "url": null,
+      "source_file": "Tempo Back Bis-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 3005.805806,
+      "duration": "50:05",
+      "word_count": 6644,
+      "clean_file": "clean/tempo-back-bis.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3005.805806
+      }
+    },
+    {
+      "id": "tempo-chest-tris",
+      "kind": "video_local",
+      "title": "Tempo Chest Tris",
+      "url": null,
+      "source_file": "Tempo Chest Tris-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 3241.508175,
+      "duration": "54:01",
+      "word_count": 7436,
+      "clean_file": "clean/tempo-chest-tris.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 3241.508175
+      }
+    },
+    {
+      "id": "the-fight-conditioning-workout",
+      "kind": "video_local",
+      "title": "The Fight Conditioning Workout",
+      "url": null,
+      "source_file": "Rushfit the Fight Conditioning Workout Dvd.avi",
+      "release_year": 2010,
+      "duration_seconds": 4867.2,
+      "duration": "1:21:07",
+      "word_count": 12891,
+      "clean_file": "clean/the-fight-conditioning-workout.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 4867.2
+      }
+    },
+    {
       "id": "w41YZ6czsZY",
       "kind": "youtube",
       "title": "THE GREATEST CHEST TRAINING VIDEO EVER! | Hany Rambod & Seth Feroce",
@@ -1507,6 +1504,21 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 2737
+      }
+    },
+    {
+      "id": "leangains-method-berkhan",
+      "kind": "epub",
+      "title": "The Leangains Method: The Art of Getting Ripped. Researched, Practiced Perfected",
+      "author": "Martin Berkhan",
+      "clean_file": "clean/leangains-method-berkhan.txt",
+      "word_count": 70499,
+      "retrieved_date": "2026-09-16",
+      "anchor": {
+        "kind": "paragraph",
+        "format": "¶N",
+        "bound_field": "paragraph_count",
+        "bound": 1967
       }
     },
     {
@@ -1626,6 +1638,25 @@
         "format": "mm:ss",
         "bound_field": "duration_seconds",
         "bound": 2724
+      }
+    },
+    {
+      "id": "total-body",
+      "kind": "video_local",
+      "title": "Total Body",
+      "url": null,
+      "source_file": "Total Body-ipod.mp4",
+      "release_year": 2012,
+      "duration_seconds": 2413.44678,
+      "duration": "40:13",
+      "word_count": 5264,
+      "clean_file": "clean/total-body.txt",
+      "transcript_source": "whisper-local:small",
+      "anchor": {
+        "kind": "timestamp",
+        "format": "mm:ss",
+        "bound_field": "duration_seconds",
+        "bound": 2413.44678
       }
     },
     {

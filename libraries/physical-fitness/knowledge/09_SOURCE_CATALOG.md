@@ -3,7 +3,7 @@
 Every source ingested into this knowledge package, with the Program, Workouts, Exercises and movements, Equipment, and Training focus each one covers.
 
 **Source:** Various programs  
-**Sources catalogued:** 83
+**Sources catalogued:** 85
 
 Entries are alphabetical by title. Use the source ID to trace any claim in the other files back to its source.
 
@@ -541,7 +541,18 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** none discussed beyond the program's general "no gym membership needed" claim
 - **Training focus:** participant testimonials on program philosophy, intensity, and accessibility, giant sets, supersets, and drop sets named by a participant as a specific favorite feature, a stated combined aerobic-plus-anaerobic claim
 
-## 45. My Darkest Steroid Experiences
+## 45. Muscle After 40
+
+- **Source ID:** `muscle-after-40-mens-fitness-guide`
+- **Author:** Men's Fitness Guide
+- **Source file:** `sources/clean/muscle-after-40-mens-fitness-guide.txt`
+- **Program:** Muscle After 40 — a 12-week, three-phase dumbbell-to-barbell hypertrophy plan (Foundations, Strength, Hypertrophy)
+- **Workouts:** Phase 1 Foundations (Weeks 1-4) — upper/lower split, two of each per week, standalone dumbbell movements, Phase 2 Strength (Weeks 1-4) — body-part split (chest/triceps, back/biceps, legs, shoulders/core), paired A/B supersets, Phase 3 Hypertrophy (Weeks 1-4) — same body-part split, antagonistic A/B supersets, shorter rests, more cable and core work
+- **Exercises and movements:** Phase 1 staples — dumbbell bench press, dumbbell bent-over row, dumbbell overhead press, dumbbell squat, dumbbell Romanian deadlift, dumbbell lunge/side lunge, glute bridge, plank, Phase 2-3 staples — barbell squat, barbell deadlift, incline bench press, weighted chin-up, weighted dip, EZ-bar curl/extension, leg press, push press, Phase 3 cable/core additions — cable lateral raise, cable face pull, cable cross-over, cable rope triceps extension, weighted crunch, Russian twist
+- **Equipment:** dumbbells (light to heavy), a barbell with plates, a flat/adjustable bench, a cable machine, lat pull-down, and leg press, a pull-up/chin-up bar and dip bars, {'optional': 'a medicine ball, kettlebell, weight belt or vest, lifting straps, a trap bar, chalk'}
+- **Training focus:** {'progressive periodization across three phases': 'technique/foundation building, then paired-superset strength work, then antagonistic-superset hypertrophy work'}, prescribed tempo (a four-digit eccentric-pause-concentric-pause code, e.g. 1010, 2110, or an explosive "X") as the primary lever for time under tension, supersetting (paired A/B movements) to increase training density as the program progresses, mind-muscle connection and bracing/form cues threaded through per-exercise "FIT TIP" callouts
+
+## 46. My Darkest Steroid Experiences
 
 - **Source ID:** `FjT1pgXYR8k`
 - **URL:** https://www.youtube.com/watch?v=FjT1pgXYR8k
@@ -554,7 +565,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** insulin syringes vs. standard injection syringes, named only in the context of reducing injection-site swelling, not as training equipment
 - **Training focus:** recounting three personal adverse-effect episodes from steroid use (sterile injection-site swelling, an acute panic/death-anxiety reaction to trenbolone, and androgen-driven hostility toward his wife) as individual, non-universal data points, explicitly framing side-effect severity and type as high-variance and unpredictable per individual, not a fixed dose-response, flagging upcoming non-steroidal muscle-growth drugs (myostatin/activin inhibitors) as a future lower-risk alternative
 
-## 46. My Number 1 Piece Of Advice If You Are Going To Use Steroids That Nobody Will Tell You
+## 47. My Number 1 Piece Of Advice If You Are Going To Use Steroids That Nobody Will Tell You
 
 - **Source ID:** `FGLeADS_B7w`
 - **URL:** https://www.youtube.com/watch?v=FGLeADS_B7w
@@ -567,7 +578,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** none
 - **Training focus:** rejecting age-based readiness rules for starting anabolic steroid use in favor of a diet/training-competence threshold, framing lifetime steroid use as a finite, depletable resource ("blasts in the tank") gated by hair loss or organ damage, not desire, warning against wasting early, uninformed cycles before diet and training are fully optimized
 
-## 47. Nasty Chest Pump | Digging Deep
+## 48. Nasty Chest Pump | Digging Deep
 
 - **Source ID:** `kh9Oo4QQqXE`
 - **URL:** https://www.youtube.com/watch?v=kh9Oo4QQqXE
@@ -580,7 +591,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** Hammer Strength incline press machine, Smith machine, free-weight plates (matched by thickness/type)
 - **Training focus:** progressive-loading warm-up/work-set scheme that deliberately avoids failure during prep, matching plate type/thickness on both sides of a bar as a stated technique detail, recognizing inflammation/fatigue as a signal to rest rather than "hammer down no matter what"
 
-## 48. Old School Back Workout | Time to Get Huge
+## 49. Old School Back Workout | Time to Get Huge
 
 - **Source ID:** `pcLl4tE3BwQ`
 - **URL:** https://www.youtube.com/watch?v=pcLl4tE3BwQ
@@ -593,7 +604,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** pull-up bar, lat pull-down machine, barbell, dumbbells, Hammer Strength iso row machine, rack (for rack pulls), cable row station, hyperextension bench
 - **Training focus:** pull-down target point (chin vs. nipple line) for upper-back vs. lower-lat emphasis, rack pulls as an intermediate/advanced deadlift substitute, with specific injury cautions, elbow drive/positioning on one-arm rows, including within-set drift as fatigue sets in, disagreement over verbal cueing ("pull with your elbow") despite agreement on the underlying technique
 
-## 49. Putting a Fan Through My Back Workout!
+## 50. Putting a Fan Through My Back Workout!
 
 - **Source ID:** `06X8Z71fuuk`
 - **URL:** https://www.youtube.com/watch?v=06X8Z71fuuk
@@ -606,7 +617,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** lat pull-down machine, chin-up bar, low-row/DY-row machine, single-arm iso row machine
 - **Training focus:** pull height relative to the belly button as a lat-vs-midback lever, with an explicit injury-risk rationale, elbow-up vs. elbow-down trade-off between lat strength and smaller, weaker upper-back muscles, grip width nuance (slightly closer than neutral) as a felt, not measured, adjustment, encouraging use of a spotter, and grip strength via dead hangs/pull-ups
 
-## 50. RAW BACK WORKOUT W/ ANTON SWL & COACH KYLE
+## 51. RAW BACK WORKOUT W/ ANTON SWL & COACH KYLE
 
 - **Source ID:** `NbyeienXYOg`
 - **URL:** https://www.youtube.com/watch?v=NbyeienXYOg
@@ -619,7 +630,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** rope or EZ-bar pullover attachment, chest-supported single-arm row machine
 - **Training focus:** potentiation-based top-set method (one true maximal set per session, not repeatable), felt-effort decision rule for whether to push a set or stop short, recovery-aware volume adjustment based on prior-day training, stronger-side-first training order for single-arm/unilateral work, shoulder protraction/retraction as a lat-vs-upper-back emphasis cue
 
-## 51. Rebuilding My Physique: Back Day | Seth Feroce
+## 52. Rebuilding My Physique: Back Day | Seth Feroce
 
 - **Source ID:** `L9Py5s8V58E`
 - **URL:** https://www.youtube.com/watch?v=L9Py5s8V58E
@@ -632,7 +643,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** assisted pull-up machine, barbell, T-bar row machine, dumbbells, lat pull-down machine (mag grips, reverse grip)
 - **Training focus:** grip cue ("guns in your hands") to shift emphasis from arms onto lats, pull-down direction (to the face/front vs. to the chin) as a lat-vs-upper-back emphasis variable, rebuilding training volume and confidence after a 10-week layoff and an elbow injury
 
-## 52. RUSHFIT Advanced Training Calendar, Weeks 1-8
+## 53. RUSHFIT Advanced Training Calendar, Weeks 1-8
 
 - **Source ID:** `rushfit-advanced-training-calendar`
 - **URL:** http://www.gsprushfit.com
@@ -644,7 +655,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells, 2 lbs to 25 lbs
 - **Training focus:** same-day double training sessions (AM/PM split), the densest DVD rotation of the three tiers, strictly weekly rest days, same cadence as Intermediate
 
-## 53. RUSHFIT Beginner Training Calendar, Weeks 1-8
+## 54. RUSHFIT Beginner Training Calendar, Weeks 1-8
 
 - **Source ID:** `rushfit-beginner-training-calendar`
 - **URL:** http://www.gsprushfit.com
@@ -656,7 +667,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells, 2 lbs to 25 lbs
 - **Training focus:** 8-week periodized scheduling across the program's own DVDs, cardio dosage that increases at the program's midpoint, rest-day placement (roughly every third or fourth day)
 
-## 54. RUSHFIT Intermediate Training Calendar, Weeks 1-8
+## 55. RUSHFIT Intermediate Training Calendar, Weeks 1-8
 
 - **Source ID:** `rushfit-intermediate-training-calendar`
 - **URL:** http://www.gsprushfit.com
@@ -668,7 +679,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells, 2 lbs to 25 lbs
 - **Training focus:** 8-week periodized scheduling, denser than the Beginner tier, earlier and more frequent introduction of Explosive Power Training, strictly weekly rest days (no extra mid-week rest)
 
-## 55. RUSHFIT Nutrition Guide
+## 56. RUSHFIT Nutrition Guide
 
 - **Source ID:** `rushfit-nutrition-guide`
 - **URL:** http://www.gsprushfit.com
@@ -680,7 +691,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** a heart rate monitor with a calorie counter (recommended, for tracking calories burned)
 - **Training focus:** calorie-deficit weight loss via a calculated Basal Metabolic Rate, macro-ratio timing around training (pre- vs post-workout), whole-food quality over processed food, independent of calorie counting
 
-## 56. RUSHFIT Workout Guide
+## 57. RUSHFIT Workout Guide
 
 - **Source ID:** `rushfit-workout-guide`
 - **URL:** http://www.gsprushfit.com
@@ -692,7 +703,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** a small assortment of dumbbells or hand-held weights, most people needing no more than 25 lbs, a heart rate monitor (optional but recommended), a gym towel and water bottle
 - **Training focus:** overall program philosophy and goal-setting, heart-rate-zone training (60-80% of max heart rate), equipment minimalism, the RUSHFIT Assessment as a before/after benchmark
 
-## 57. Seth Feroce - How-To: Side Lateral Raise
+## 58. Seth Feroce - How-To: Side Lateral Raise
 
 - **Source ID:** `zpUTA5i16kA`
 - **URL:** https://www.youtube.com/watch?v=zpUTA5i16kA
@@ -705,7 +716,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells
 - **Training focus:** hand placement/lean as a way to shift between side delt and rear delt, capped range of motion (hands never above shoulder height), slightly bent elbow to keep stress on the muscle rather than the joint
 
-## 58. Seth Feroce How-To: Alternating Dumbbell Curls
+## 59. Seth Feroce How-To: Alternating Dumbbell Curls
 
 - **Source ID:** `y01MQBNG-as`
 - **URL:** https://www.youtube.com/watch?v=y01MQBNG-as
@@ -718,7 +729,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells
 - **Training focus:** shortened range of motion to keep tension on the bicep rather than the shoulder, controlled "rock" as an acceptable trade-off at heavier loads, mid-set stretching to increase blood flow
 
-## 59. Seth Feroce How-To: Cable Curls
+## 60. Seth Feroce How-To: Cable Curls
 
 - **Source ID:** `OEP-Sd4et5A`
 - **URL:** https://www.youtube.com/watch?v=OEP-Sd4et5A
@@ -731,7 +742,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** cable machine (standing curl station and low-row/lat station), straight bar, cambered/EZ bar, and rope attachments
 - **Training focus:** hand placement and body-lean angle as bicep-emphasis variables, using one machine to generate several distinct curl variations, self-observation over a single "correct" curl technique
 
-## 60. Seth Feroce How-To: Dumbbell Pullovers
+## 61. Seth Feroce How-To: Dumbbell Pullovers
 
 - **Source ID:** `yACg3ciPALc`
 - **URL:** https://www.youtube.com/watch?v=yACg3ciPALc
@@ -744,7 +755,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** flat bench, single dumbbell
 - **Training focus:** rib-cage/chest stretch and expansion, visual illusion of a wider chest/smaller waist, hip-drop technique to deepen the stretch
 
-## 61. Seth Feroce How-To: Front Raises
+## 62. Seth Feroce How-To: Front Raises
 
 - **Source ID:** `ALNyDCkW9y8`
 - **URL:** https://www.youtube.com/watch?v=ALNyDCkW9y8
@@ -757,7 +768,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells, incline bench (for one variant)
 - **Training focus:** hand placement and pronation/supination as front-delt emphasis variables, capped range of motion (never above eye level), self-awareness of a personal joint-click warning sign
 
-## 62. Seth Feroce How-To: Rear Delts
+## 63. Seth Feroce How-To: Rear Delts
 
 - **Source ID:** `Yo7S6WrvuPQ`
 - **URL:** https://www.youtube.com/watch?v=Yo7S6WrvuPQ
@@ -770,7 +781,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells (bench for seated variant)
 - **Training focus:** deliberately shortened range of motion to isolate a small muscle group, hand placement/rotation as an emphasis variable, avoiding compensation from lats, side delts, and traps
 
-## 63. Seth Feroce How-To: Traps
+## 64. Seth Feroce How-To: Traps
 
 - **Source ID:** `VfZeOq18YGU`
 - **URL:** https://www.youtube.com/watch?v=VfZeOq18YGU
@@ -783,7 +794,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** heavy dumbbells (progressed up to 150 lb in this demonstration)
 - **Training focus:** elbow-bend cue for trap activation and blood flow, progressive loading with a full-stretch reset between reps, pump as a real-time feedback signal
 
-## 64. Shoulder Training with Missy Truscott | Seth Feroce
+## 65. Shoulder Training with Missy Truscott | Seth Feroce
 
 - **Source ID:** `kfR8WcXqGiE`
 - **URL:** https://www.youtube.com/watch?v=kfR8WcXqGiE
@@ -796,7 +807,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells, cable machine (face pulls)
 - **Training focus:** a halve-weight-double-reps extended-set technique, with a cited external validation (John Meadows), a bodybuilding-specific spotting philosophy (feel for true failure, not just movement help), hug-a-tree side laterals with deliberate forward/back drift through the set, pairing a heavy, short-range rear delt raise with a pose-mimicking face pull
 
-## 65. Shoulder Training | Seth Feroce
+## 66. Shoulder Training | Seth Feroce
 
 - **Source ID:** `FCgybJwiwiw`
 - **URL:** https://www.youtube.com/watch?v=FCgybJwiwiw
@@ -809,7 +820,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells
 - **Training focus:** a specific form correction ensuring the arm leads the dumbbell, not the reverse, on side laterals, spacing side laterals throughout a session (beginning, middle, end) rather than doing them once
 
-## 66. Shoulder Warmup for Bodybuilders w/ Dr. Jake & Seth Feroce | 30/31
+## 67. Shoulder Warmup for Bodybuilders w/ Dr. Jake & Seth Feroce | 30/31
 
 - **Source ID:** `KZ7WXH_8NFk`
 - **URL:** https://www.youtube.com/watch?v=KZ7WXH_8NFk
@@ -822,7 +833,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** resistance/loop bands (light to medium resistance for warm-up use)
 - **Training focus:** controlled, deliberate movement on rotator-cuff warm-up drills, explicitly contrasted with fast uncontrolled reps, pre-activating scapular retraction before a pressing movement, not just during it, timing pre-workout supplement intake to coincide with the warm-up period, keeping a warm-up to 3-4 exercises done as a circuit, not turned into a full workout
 
-## 67. Shoulders With Chris Bumstead And Hany Rambod | Seth Feroce
+## 68. Shoulders With Chris Bumstead And Hany Rambod | Seth Feroce
 
 - **Source ID:** `69EuvOMFib4`
 - **URL:** https://www.youtube.com/watch?v=69EuvOMFib4
@@ -835,7 +846,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells, shoulder press machine (angle-adjustable)
 - **Training focus:** a "reverse drop set" — ascending weight through a set rather than descending, correcting trap takeover on presses by cueing "let your shoulders do the work", changing machine press angle specifically to finish/exhaust the delts differently
 
-## 68. Story Time - My WORST CYCLES EVER
+## 69. Story Time - My WORST CYCLES EVER
 
 - **Source ID:** `RhXAcvLdBbk`
 - **URL:** https://www.youtube.com/watch?v=RhXAcvLdBbk
@@ -848,7 +859,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** none demonstrated
 - **Training focus:** retrospectively identifying specific steroid-stacking decisions (dose stacking without a testosterone floor reduction, high-dose test+trenbolone) as directly responsible for adverse physical and psychological outcomes, distinguishing a genuine adverse drug reaction from an unrelated injection injury, framing "fluff" high-volume, no-progressive-overload training combined with high-dose gear as a wasted cycle
 
-## 69. Strength and Endurance
+## 70. Strength and Endurance
 
 - **Source ID:** `strength-and-endurance`
 - **Duration:** 1:41:07
@@ -859,7 +870,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** a pair of light-to-moderate dumbbells (rounds 3-4), one heavier dumbbell (round 5)
 - **Training focus:** pacing under fatigue rather than starting too fast, isometric tolerance specifically, simulating a five-round championship-fight structure, GSP's own admitted weakness (explosive athlete, not an endurance one)
 
-## 70. Stretch for Flexibility
+## 71. Stretch for Flexibility
 
 - **Source ID:** `stretch-for-flexibility`
 - **Duration:** 39:39
@@ -870,7 +881,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** none — mat/floor space only
 - **Training focus:** flexibility and joint range of motion, injury prevention, post-workout recovery, breath-linked stretching, progressive muscle relaxation
 
-## 71. Tempo Back Bis
+## 72. Tempo Back Bis
 
 - **Source ID:** `tempo-back-bis`
 - **Duration:** 50:05
@@ -881,7 +892,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells across a wide range (10-35 lb pairs used on camera), an EZ-curl bar, a bench and an assisted pull-up band
 - **Training focus:** back (lats) and biceps, trained through counted tempo rather than added weight as the primary difficulty lever, explicit numeric positive/negative tempo ratios (e.g. 6 seconds down, 6 seconds up) as this session's organizing device, a stated muscle-memory rationale connecting tempo control directly to injury prevention
 
-## 72. Tempo Chest Tris
+## 73. Tempo Chest Tris
 
 - **Source ID:** `tempo-chest-tris`
 - **Duration:** 54:01
@@ -892,7 +903,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells across a range (10-45 lb pairs used on camera), an EZ-curl bar, a bench (or a training partner's cue-following as a substitute)
 - **Training focus:** chest and triceps, trained through counted tempo rather than added weight as the primary difficulty lever, the same numeric positive/negative tempo device introduced in `tempo-back-bis`[03:00], applied here to pressing and triceps movements, {'a stated safety rationale for controlled tempo': 'learn to control the weight and not the weight controlling you'}
 
-## 73. The Fight Conditioning Workout
+## 74. The Fight Conditioning Workout
 
 - **Source ID:** `the-fight-conditioning-workout`
 - **Duration:** 1:21:07
@@ -903,7 +914,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** none — bodyweight only
 - **Training focus:** MMA-specific conditioning combining striking, takedowns, and groundwork in one session, dynamic and isometric core tension together, vertical-to-horizontal transitions ("the thing that fatigues fighters the most"), technique carried over from the Foundation Moves DVD, post-workout mental transition, not just physical recovery
 
-## 74. THE GREATEST CHEST TRAINING VIDEO EVER! | Hany Rambod & Seth Feroce
+## 75. THE GREATEST CHEST TRAINING VIDEO EVER! | Hany Rambod & Seth Feroce
 
 - **Source ID:** `w41YZ6czsZY`
 - **URL:** https://www.youtube.com/watch?v=w41YZ6czsZY
@@ -916,7 +927,18 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells, incline bench
 - **Training focus:** the fatigue-vs-failure distinction as the actual determinant of growth-producing sets, a named "power press" variant that reduces shoulder takeover on upper-chest presses, inserted static (isometric) holds mid-set for added time-under-tension and stabilizer work, ladders — changing hand/arm angle within a single set rather than between sets, breathing and hydration as direct, physiologically stated limiters on pump and endurance
 
-## 75. The Race to 240 | Shoulder Day
+## 76. The Leangains Method: The Art of Getting Ripped. Researched, Practiced Perfected
+
+- **Source ID:** `leangains-method-berkhan`
+- **Author:** Martin Berkhan
+- **Source file:** `sources/clean/leangains-method-berkhan.txt`
+- **Program:** The Leangains Method — a fat-loss diet built on diet-induced thermogenesis (DIT), a protein-dominant macro split, and Reverse Pyramid Training (RPT), with 16:8 intermittent fasting offered as an optional, not required, compliance tool
+- **Workouts:** Reverse Pyramid Training (RPT) — a 3x/week (Monday/Wednesday/Friday) full-body split of two AMRAP compound lifts plus one accessory movement per session
+- **Exercises and movements:** deadlift, bench press, squat, seal row / overhead press, weighted chin-up (or banded/pull-down regression), {'accessory work': 'calves, biceps, triceps'}
+- **Equipment:** a barbell and flat-soled or dedicated lifting shoes (no running shoes for squats/overhead press), optional a food scale/tracking app, a digital bathroom scale, caffeine pills, and EAA or whey protein for fasted-training protocols
+- **Training focus:** fat loss with muscle and strength retention/gain via a caloric deficit combined with a high-protein (50-60%) diet and heavy compound lifting, manipulating diet-induced thermogenesis (DIT) through macronutrient ratios, meal frequency, food quality, and nutrient timing rather than treating "a calorie" as metabolically interchangeable, 16:8 intermittent fasting as an optional adherence tool, explicitly distinguished by the author from the diet's own evidence-backed core
+
+## 77. The Race to 240 | Shoulder Day
 
 - **Source ID:** `q8dLAPsljvU`
 - **URL:** https://www.youtube.com/watch?v=q8dLAPsljvU
@@ -929,7 +951,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells, pec deck / reverse-fly machine
 - **Training focus:** a mid-set partial-rep technique on side laterals to "refill" blood before finishing the set, classifying the bent-over rear delt raise as a "muscle builder" exercise, distinct from lighter concentration work, a precise stopping point on rear delt raises, just before the traps/upper back take over
 
-## 76. The Ultimate Dumbbell Shoulder Workout | Seth Feroce
+## 78. The Ultimate Dumbbell Shoulder Workout | Seth Feroce
 
 - **Source ID:** `FuEc552OlfI`
 - **URL:** https://www.youtube.com/watch?v=FuEc552OlfI
@@ -942,7 +964,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells, cable machine (rope and single-handle press-down attachments), barbell (close-grip bench)
 - **Training focus:** visualizing the target muscle/pose before and during every exercise ("becoming the exercise"), a fully worked "set set" example with a stated reason for the exact 10-second rest interval, a quantified three-quarters range of motion cap on rear delt raises, a burnout finisher alternating hands and grip variations on cable press-downs until failure
 
-## 77. Tips for Building a Bigger Back | Grips, Positioning, & Leverages
+## 79. Tips for Building a Bigger Back | Grips, Positioning, & Leverages
 
 - **Source ID:** `eAHW_PZRTZc`
 - **URL:** https://www.youtube.com/watch?v=eAHW_PZRTZc
@@ -955,7 +977,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** pull-up bar, barbell, DY-row machine, seated cable row station, dumbbells and a flat bench (seal row)
 - **Training focus:** torso angle and pull-height (relative to navel/sternum) as lat/mid-back/upper-back emphasis variables, finger pressure (pinky vs. index/middle) as a lats-vs-biceps emphasis variable, hands-on training-partner feedback as a verification method, explicit warning against copying technique from social media without individualized feedback
 
-## 78. Tips for Growing Bigger Arms | Adding Intensity
+## 80. Tips for Growing Bigger Arms | Adding Intensity
 
 - **Source ID:** `eY2npBUVU4Y`
 - **URL:** https://www.youtube.com/watch?v=eY2npBUVU4Y
@@ -968,7 +990,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** cable stack/machine (curl and push-down attachments), dumbbells, preacher bench
 - **Training focus:** intensifiers (drop sets, giant sets, strip sets), top set / back-off set structuring, mind-muscle connection and post-set squeezes, blood-flow/pump technique, including an occlusion-training aside, exercise-order and elbow-placement manipulation for head emphasis
 
-## 79. TOP 5 ARM EXERCISES | WHITEBOARD WORKOUT
+## 81. TOP 5 ARM EXERCISES | WHITEBOARD WORKOUT
 
 - **Source ID:** `EaKmRFql3Ek`
 - **URL:** https://www.youtube.com/watch?v=EaKmRFql3Ek
@@ -981,7 +1003,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells, incline bench, cable machine (curl and press-down attachments), plate-loaded preacher curl machine, barbell, cambered/EZ bar, dip machine
 - **Training focus:** a personal "top 5" exercise hierarchy built over years, distinguishing liked from proven-effective, Phil-Heath-style sub-90°, higher-rep-range hammer curls credited as an arm-growth turning point, grip position along a dumbbell for incline/hammer curls as a repeated, deliberate variable, wearing minimal clothing specifically to visually monitor muscle activation during training, a disclosed, incompletely healed tricep tear that changes exercise selection
 
-## 80. Total Body
+## 82. Total Body
 
 - **Source ID:** `total-body`
 - **Duration:** 40:13
@@ -992,7 +1014,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells across a wide range (10-60 lb pairs used on camera), a resistance band (row) and a bench
 - **Training focus:** alternating upper- and lower-body exercises in one continuous circuit, explicitly named "circuit training" by the source, {'a stated triple outcome': 'fat loss, muscle gain, and energy, attributed to the alternating structure itself'}, the "single-single-double" combo pattern (seen on biceps in `build-back-and-bis`[35:41]) reused here on shoulder press
 
-## 81. Upper Chest Whiteboard Workout
+## 83. Upper Chest Whiteboard Workout
 
 - **Source ID:** `yM7JZA2WkLQ`
 - **URL:** https://www.youtube.com/watch?v=yM7JZA2WkLQ
@@ -1005,7 +1027,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** dumbbells, incline bench, plate-loaded/Hammer Strength flat press machine, dip station, cable crossover machine, resistance bands
 - **Training focus:** dumbbell descent height on incline press/fly as an upper-chest-vs-front-delt lever, a named intensifier ("Seth set") with a fixed numeric target rather than open-ended failure, real-time judgment to skip a planned exercise (dips) when it doesn't feel structurally ready, explicit "bro science vs. real science" framing for physique-sculpting choices over biomechanical optimization
 
-## 82. Volume Back Workout at Pump Town USA | Seth Feroce
+## 84. Volume Back Workout at Pump Town USA | Seth Feroce
 
 - **Source ID:** `C7MCxkLAfF4`
 - **URL:** https://www.youtube.com/watch?v=C7MCxkLAfF4
@@ -1018,7 +1040,7 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 - **Equipment:** pull-up bar / assisted pull-up machine, barbell, T-bar row corner setup, close-grip cable attachment, dumbbells, lat pull-down machine, low cable row station, hyperextension bench
 - **Training focus:** high pull-up volume as a standing rule for a weak back, training to genuine failure rather than a pre-picked rep number, volume-style training (5-7 exercises, 3-4 sets each) as one valid approach among several
 
-## 83. What The Hell Is TREN? And Why Is Everyone Taking It?
+## 85. What The Hell Is TREN? And Why Is Everyone Taking It?
 
 - **Source ID:** `j9avZn6B0OE`
 - **URL:** https://www.youtube.com/watch?v=j9avZn6B0OE
@@ -1155,6 +1177,12 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 
 **orientation/testimonial module only — no exercise circuit is taught in this source** — Meet The Team (`meet-the-team`)
 
+**phase 1 foundations (weeks 1-4) — upper/lower split, two of each per week, standalone dumbbell movements** — Muscle After 40 (`muscle-after-40-mens-fitness-guide`)
+
+**phase 2 strength (weeks 1-4) — body-part split (chest/triceps, back/biceps, legs, shoulders/core), paired a/b supersets** — Muscle After 40 (`muscle-after-40-mens-fitness-guide`)
+
+**phase 3 hypertrophy (weeks 1-4) — same body-part split, antagonistic a/b supersets, shorter rests, more cable and core work** — Muscle After 40 (`muscle-after-40-mens-fitness-guide`)
+
 **post-workout cool-down** — Abdominal Strength and Core Conditioning (`abdominal-strength-and-core-conditioning`), Explosive Power Training (`explosive-power-training`), Full Body Strength and Conditioning (`full-body-strength-and-conditioning`), Strength and Endurance (`strength-and-endurance`)
 
 **post-workout cool-down and stretch sequence** — Bonus Workouts (`bonus-workouts`), The Fight Conditioning Workout (`the-fight-conditioning-workout`)
@@ -1162,6 +1190,8 @@ Entries are alphabetical by title. Use the source ID to trace any claim in the o
 **post-workout meal guidance** — RUSHFIT Nutrition Guide (`rushfit-nutrition-guide`)
 
 **pre-workout meal guidance** — RUSHFIT Nutrition Guide (`rushfit-nutrition-guide`)
+
+**reverse pyramid training (rpt) — a 3x/week (monday/wednesday/friday) full-body split of two amrap compound lifts plus one accessory movement per session** — The Leangains Method: The Art of Getting Ripped. Researched, Practiced Perfected (`leangains-method-berkhan`)
 
 **rushfit fitness assessment (guided walkthrough, new content)** — Bonus Workouts (`bonus-workouts`)
 
